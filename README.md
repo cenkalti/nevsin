@@ -1,6 +1,6 @@
 # Nevsin
 
-A multi-language YouTube news aggregator CLI tool that automatically fetches, transcribes, summarizes, and compiles daily news reports from Turkish YouTube channels.
+A YouTube news aggregator CLI tool that automatically fetches, transcribes, summarizes, and compiles daily news reports from Turkish YouTube channels.
 
 ## Overview
 
@@ -10,10 +10,9 @@ Nevsin monitors specific Turkish news channels on YouTube, extracts transcripts,
 
 - 🎥 Automatic video fetching from predefined YouTube channels
 - 🤖 AI-powered thumbnail analysis to identify relevant content
-- 📝 Multi-language transcript extraction
+- 📝 Transcript extraction
 - 🧠 Intelligent summarization using Azure OpenAI
 - 📊 Consolidated news reports with importance ranking
-- 🌍 Multi-language support (Turkish, English, Spanish, etc.)
 
 ## Prerequisites
 
@@ -43,9 +42,6 @@ AZURE_OPENAI_ENDPOINT=https://your-resource.openai.azure.com/
 AZURE_OPENAI_API_KEY=your-azure-openai-key
 AZURE_OPENAI_DEPLOYMENT=gpt-4
 AZURE_OPENAI_VISION_DEPLOYMENT=gpt-4-vision
-
-# Language Configuration (default: en)
-NEVSIN_LANGUAGE=tr  # Options: tr, en, es, etc.
 ```
 
 ## Usage
@@ -84,7 +80,6 @@ This executes the complete workflow: fetch → extract → summarize → generat
    - Fatih Altaylı: Filters videos starting with "Fatih Altaylı yorumluyor:"
 
 2. **Extract**: Downloads transcripts using yt-dlp
-   - Supports multiple languages via `NEVSIN_LANGUAGE`
    - Processes videos concurrently for efficiency
 
 3. **Summarize**: Creates bullet-point summaries with timestamps

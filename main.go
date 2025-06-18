@@ -17,10 +17,6 @@ import (
 	"github.com/spf13/cobra"
 )
 
-var (
-	language string
-)
-
 func main() {
 	// Load .env file
 	err := godotenv.Load()
@@ -40,12 +36,6 @@ func main() {
 		if os.Getenv(env) == "" {
 			log.Fatalf("Missing required environment variable: %s", env)
 		}
-	}
-
-	// Language from env, default to "en"
-	language = os.Getenv("NEVSIN_LANGUAGE")
-	if language == "" {
-		language = "en"
 	}
 
 	rootCmd := &cobra.Command{
@@ -281,7 +271,7 @@ var extractCmd = &cobra.Command{
 				outPath := filepath.Join("transcripts", video.ID+".txt")
 				cmdArgs := []string{
 					"--write-auto-subs",
-					"--sub-lang", language,
+					"--sub-lang", "tr",
 					"--skip-download",
 					"--output", "%(id)s.%(ext)s",
 					video.URL,
@@ -335,7 +325,7 @@ var summarizeCmd = &cobra.Command{
 					return
 				}
 				// Placeholder: Call Azure OpenAI to summarize transcript
-				summary := summarizeTranscriptWithAzure(string(data), language)
+				summary := summarizeTranscriptWithAzure(string(data), "tr")
 				outPath := filepath.Join("summaries", filename)
 				os.WriteFile(outPath, []byte(summary), 0644)
 			}(file.Name())
@@ -373,14 +363,14 @@ var generateCmd = &cobra.Command{
 			}
 			summaries[file.Name()] = string(data)
 		}
-		report := generateReportWithAzure(summaries, language)
+		report := generateReportWithAzure(summaries)
 		os.WriteFile("report.md", []byte(report), 0644)
 		fmt.Println("Report generated: report.md")
 	},
 }
 
 // generateReportWithAzure is a placeholder for AI grouping/sorting and report formatting
-func generateReportWithAzure(summaries map[string]string, lang string) string {
+func generateReportWithAzure(summaries map[string]string) string {
 	// TODO: Implement Azure OpenAI API call for grouping/sorting and formatting
 	// Placeholder: simple concatenation
 	report := "# Bugun ne oldu?\n\n"
