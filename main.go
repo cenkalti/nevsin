@@ -3,7 +3,7 @@ package main
 import (
 	"encoding/json"
 	"fmt"
-	"io/ioutil"
+	"io"
 	"log"
 	"net/http"
 	"os"
@@ -182,7 +182,7 @@ func fetchYouTubeVideos(channelID string) ([]YouTubeVideo, error) {
 	defer resp.Body.Close()
 
 	if resp.StatusCode != http.StatusOK {
-		body, _ := ioutil.ReadAll(resp.Body)
+		body, _ := io.ReadAll(resp.Body)
 		return nil, fmt.Errorf("YouTube API error: %s", string(body))
 	}
 
@@ -247,7 +247,7 @@ func analyzeThumbnailWithAzure(thumbnailURL string) bool {
 func saveVideoMetadata(video YouTubeVideo) {
 	data, _ := json.MarshalIndent(video, "", "  ")
 	path := filepath.Join("videos", video.ID+".json")
-	_ = ioutil.WriteFile(path, data, 0644)
+	_ = os.WriteFile(path, data, 0644)
 }
 
 // extractCmd: Reads videos/, saves transcripts/videoID.txt
@@ -255,7 +255,7 @@ var extractCmd = &cobra.Command{
 	Use:   "extract",
 	Short: "Extract transcripts from videos",
 	Run: func(cmd *cobra.Command, args []string) {
-		files, err := ioutil.ReadDir("videos")
+		files, err := os.ReadDir("videos")
 		if err != nil {
 			fmt.Println("Failed to read videos directory:", err)
 			return
@@ -268,7 +268,7 @@ var extractCmd = &cobra.Command{
 			wg.Add(1)
 			go func(filename string) {
 				defer wg.Done()
-				data, err := ioutil.ReadFile(filepath.Join("videos", filename))
+				data, err := os.ReadFile(filepath.Join("videos", filename))
 				if err != nil {
 					fmt.Printf("Failed to read %s: %v\n", filename, err)
 					return
@@ -295,13 +295,13 @@ var extractCmd = &cobra.Command{
 					return
 				}
 				// Find the .vtt file
-				files2, _ := ioutil.ReadDir(tmpDir)
+				files2, _ := os.ReadDir(tmpDir)
 				for _, f := range files2 {
 					if strings.HasPrefix(f.Name(), video.ID) && strings.HasSuffix(f.Name(), ".vtt") {
 						vttPath := filepath.Join(tmpDir, f.Name())
-						vttData, _ := ioutil.ReadFile(vttPath)
+						vttData, _ := os.ReadFile(vttPath)
 						// Save as .txt (could convert to plain text here)
-						ioutil.WriteFile(outPath, vttData, 0644)
+						os.WriteFile(outPath, vttData, 0644)
 						os.Remove(vttPath)
 					}
 				}
@@ -316,7 +316,7 @@ var summarizeCmd = &cobra.Command{
 	Use:   "summarize",
 	Short: "Summarize transcripts",
 	Run: func(cmd *cobra.Command, args []string) {
-		files, err := ioutil.ReadDir("transcripts")
+		files, err := os.ReadDir("transcripts")
 		if err != nil {
 			fmt.Println("Failed to read transcripts directory:", err)
 			return
@@ -329,7 +329,7 @@ var summarizeCmd = &cobra.Command{
 			wg.Add(1)
 			go func(filename string) {
 				defer wg.Done()
-				data, err := ioutil.ReadFile(filepath.Join("transcripts", filename))
+				data, err := os.ReadFile(filepath.Join("transcripts", filename))
 				if err != nil {
 					fmt.Printf("Failed to read %s: %v\n", filename, err)
 					return
@@ -337,7 +337,7 @@ var summarizeCmd = &cobra.Command{
 				// Placeholder: Call Azure OpenAI to summarize transcript
 				summary := summarizeTranscriptWithAzure(string(data), language)
 				outPath := filepath.Join("summaries", filename)
-				ioutil.WriteFile(outPath, []byte(summary), 0644)
+				os.WriteFile(outPath, []byte(summary), 0644)
 			}(file.Name())
 		}
 		wg.Wait()
@@ -356,7 +356,7 @@ var generateCmd = &cobra.Command{
 	Use:   "generate",
 	Short: "Generate final news report",
 	Run: func(cmd *cobra.Command, args []string) {
-		files, err := ioutil.ReadDir("summaries")
+		files, err := os.ReadDir("summaries")
 		if err != nil {
 			fmt.Println("Failed to read summaries directory:", err)
 			return
@@ -366,7 +366,7 @@ var generateCmd = &cobra.Command{
 			if file.IsDir() || !strings.HasSuffix(file.Name(), ".txt") {
 				continue
 			}
-			data, err := ioutil.ReadFile(filepath.Join("summaries", file.Name()))
+			data, err := os.ReadFile(filepath.Join("summaries", file.Name()))
 			if err != nil {
 				fmt.Printf("Failed to read %s: %v\n", file.Name(), err)
 				continue
@@ -374,7 +374,7 @@ var generateCmd = &cobra.Command{
 			summaries[file.Name()] = string(data)
 		}
 		report := generateReportWithAzure(summaries, language)
-		ioutil.WriteFile("report.md", []byte(report), 0644)
+		os.WriteFile("report.md", []byte(report), 0644)
 		fmt.Println("Report generated: report.md")
 	},
 }
@@ -409,7 +409,7 @@ var cleanCmd = &cobra.Command{
 	Run: func(cmd *cobra.Command, args []string) {
 		dirs := []string{"videos", "transcripts", "summaries"}
 		for _, dir := range dirs {
-			files, err := ioutil.ReadDir(dir)
+			files, err := os.ReadDir(dir)
 			if err != nil {
 				fmt.Printf("Failed to read %s: %v\n", dir, err)
 				continue
