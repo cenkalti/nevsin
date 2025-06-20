@@ -68,7 +68,6 @@ var fetchCmd = &cobra.Command{
 				ID:   "UCrG27KDq7eW4YoEOYsalU9g",
 				Handler: func(videos []YouTubeVideo) []YouTubeVideo {
 					// Get videos from last 48 hours, analyze thumbnails, find "Bugun ne oldu?"
-					filtered := []YouTubeVideo{}
 					for _, v := range videos {
 						if time.Since(v.PublishedAt) > 48*time.Hour {
 							continue
@@ -88,10 +87,10 @@ var fetchCmd = &cobra.Command{
 						// Find "Bugun ne oldu?" in title or description
 						if strings.Contains(strings.ToLower(v.Title), "bugun ne oldu") ||
 							strings.Contains(strings.ToLower(v.Description), "bugun ne oldu") {
-							filtered = append(filtered, v)
+							return []YouTubeVideo{v}
 						}
 					}
-					return filtered
+					return nil
 				},
 			},
 			{
