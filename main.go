@@ -80,7 +80,7 @@ var fetchCmd = &cobra.Command{
 						// Analyze thumbnail with Azure OpenAI (placeholder)
 						if !analyzeThumbnailWithAzure(v.ThumbnailURL) {
 							fmt.Println("Thumbnail analysis failed, aborting.")
-							os.Exit(1)
+							continue
 						}
 						// Find "Bugun ne oldu?" in title or description
 						if strings.Contains(strings.ToLower(v.Title), "bugun ne oldu") ||
