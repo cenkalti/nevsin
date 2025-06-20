@@ -73,9 +73,16 @@ var fetchCmd = &cobra.Command{
 						if time.Since(v.PublishedAt) > 48*time.Hour {
 							continue
 						}
-						// Analyze thumbnail with Azure OpenAI (placeholder)
-						if !analyzeThumbnailWithAzure(v.ThumbnailURL) {
-							fmt.Println("Thumbnail analysis failed, aborting.")
+						// Analyze thumbnail with Azure OpenAI
+						extractedTitle, err := analyzeThumbnailWithAzure(v.ThumbnailURL)
+						if err != nil {
+							fmt.Printf("Thumbnail analysis failed: %v\n", err)
+							continue
+						}
+						
+						// Check if the title contains "Bugün ne oldu" (case insensitive)
+						if !strings.Contains(strings.ToLower(extractedTitle), "bugün ne oldu") &&
+							!strings.Contains(strings.ToLower(extractedTitle), "bugun ne oldu") {
 							continue
 						}
 						// Find "Bugun ne oldu?" in title or description
@@ -227,28 +234,25 @@ func fetchYouTubeVideos(channelID string) ([]YouTubeVideo, error) {
 }
 
 // analyzeThumbnailWithAzure analyzes a thumbnail with Azure OpenAI GPT-4 Vision
-func analyzeThumbnailWithAzure(thumbnailURL string) bool {
+func analyzeThumbnailWithAzure(thumbnailURL string) (string, error) {
 	endpoint := os.Getenv("AZURE_OPENAI_ENDPOINT")
 	apiKey := os.Getenv("AZURE_OPENAI_API_KEY")
 	deployment := os.Getenv("AZURE_OPENAI_DEPLOYMENT")
 
 	if endpoint == "" || apiKey == "" || deployment == "" {
-		log.Printf("Azure OpenAI environment variables not properly configured")
-		return false
+		return "", fmt.Errorf("azure OpenAI environment variables not properly configured")
 	}
 
 	// Download the thumbnail image
 	resp, err := http.Get(thumbnailURL)
 	if err != nil {
-		log.Printf("Failed to download thumbnail: %v", err)
-		return false
+		return "", fmt.Errorf("failed to download thumbnail: %w", err)
 	}
 	defer resp.Body.Close()
 
 	imageData, err := io.ReadAll(resp.Body)
 	if err != nil {
-		log.Printf("Failed to read thumbnail data: %v", err)
-		return false
+		return "", fmt.Errorf("failed to read thumbnail data: %w", err)
 	}
 
 	// Prepare the request payload for Azure OpenAI GPT-4 Vision
@@ -280,16 +284,14 @@ func analyzeThumbnailWithAzure(thumbnailURL string) bool {
 
 	jsonBody, err := json.Marshal(requestBody)
 	if err != nil {
-		log.Printf("Failed to marshal request: %v", err)
-		return false
+		return "", fmt.Errorf("failed to marshal request: %w", err)
 	}
 
 	// Make request to Azure OpenAI
 	url := fmt.Sprintf("%s/openai/deployments/%s/chat/completions?api-version=2024-02-01", endpoint, deployment)
 	req, err := http.NewRequest("POST", url, bytes.NewBuffer(jsonBody))
 	if err != nil {
-		log.Printf("Failed to create request: %v", err)
-		return false
+		return "", fmt.Errorf("failed to create request: %w", err)
 	}
 
 	req.Header.Set("Content-Type", "application/json")
@@ -298,15 +300,13 @@ func analyzeThumbnailWithAzure(thumbnailURL string) bool {
 	client := &http.Client{Timeout: 30 * time.Second}
 	resp2, err := client.Do(req)
 	if err != nil {
-		log.Printf("Failed to call Azure OpenAI: %v", err)
-		return false
+		return "", fmt.Errorf("failed to call Azure OpenAI: %w", err)
 	}
 	defer resp2.Body.Close()
 
 	if resp2.StatusCode != http.StatusOK {
 		body, _ := io.ReadAll(resp2.Body)
-		log.Printf("Azure OpenAI error (status %d): %s", resp2.StatusCode, string(body))
-		return false
+		return "", fmt.Errorf("azure OpenAI error (status %d): %s", resp2.StatusCode, string(body))
 	}
 
 	var result struct {
@@ -318,20 +318,16 @@ func analyzeThumbnailWithAzure(thumbnailURL string) bool {
 	}
 
 	if err := json.NewDecoder(resp2.Body).Decode(&result); err != nil {
-		log.Printf("Failed to decode response: %v", err)
-		return false
+		return "", fmt.Errorf("failed to decode response: %w", err)
 	}
 
 	if len(result.Choices) > 0 && result.Choices[0].Message.Content != "" {
 		extractedTitle := strings.TrimSpace(result.Choices[0].Message.Content)
 		fmt.Printf("Extracted thumbnail title: %s\n", extractedTitle)
-
-		// Check if the title contains "Bugün ne oldu" (case insensitive)
-		return strings.Contains(strings.ToLower(extractedTitle), "bugün ne oldu") ||
-			strings.Contains(strings.ToLower(extractedTitle), "bugun ne oldu")
+		return extractedTitle, nil
 	}
 
-	return false
+	return "", fmt.Errorf("no title extracted from thumbnail")
 }
 
 // bytesToBase64 converts byte array to base64 string
