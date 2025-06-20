@@ -9,6 +9,7 @@ Nevsin is a YouTube news aggregator CLI tool written in Go that fetches, transcr
 ## Core Architecture
 
 - **Single-file CLI application** (`main.go`) using cobra for command structure
+- **Convention over configuration**: No flags, pure file-based operations in working directory
 - **Pipeline-based processing**: fetch → extract → summarize → generate
 - **Concurrent processing** with goroutines for video fetching and transcript extraction
 - **Azure OpenAI integration** for thumbnail analysis and transcript summarization
@@ -16,12 +17,29 @@ Nevsin is a YouTube news aggregator CLI tool written in Go that fetches, transcr
 
 ### Key Components
 
-- `fetchCmd`: Retrieves videos from configured channels using custom handlers
+- `fetchCmd`: Retrieves videos from hardcoded channels using custom handlers
 - `extractCmd`: Downloads transcripts using yt-dlp
 - `summarizeCmd`: Creates AI summaries with structured JSON responses
-- `generateCmd`: Compiles final markdown reports
+- `generateCmd`: Compiles final markdown reports with AI-sorted importance
 - `runCmd`: Executes full pipeline
 - `cleanCmd`: Removes old data
+
+### File Structure Convention
+
+```
+./
+├── .env                        # API keys only
+├── videos/
+│   ├── abc123.json            # Individual video metadata
+│   └── def456.json
+├── transcripts/
+│   ├── abc123.txt             # Individual transcripts
+│   └── def456.txt
+├── summaries/
+│   ├── abc123.md              # Individual summaries (markdown format)
+│   └── def456.md
+└── report.md                  # Final daily report
+```
 
 ### Data Flow
 
@@ -59,6 +77,9 @@ Requires `.env` file with:
 - `AZURE_OPENAI_ENDPOINT`: Azure OpenAI endpoint URL
 - `AZURE_OPENAI_API_KEY`: Azure OpenAI API key
 - `AZURE_OPENAI_DEPLOYMENT`: GPT-4 deployment name
+- `AZURE_OPENAI_VISION_DEPLOYMENT`: GPT-4 Vision deployment (optional, for thumbnail analysis)
+
+All environment variables are checked at startup with fail-fast error handling.
 
 ## External Dependencies
 
@@ -69,8 +90,17 @@ Requires `.env` file with:
 
 ## Channel Configuration
 
-Currently monitors two hardcoded channels:
-- Nevsin Mengu: Uses AI vision to find "Bugün ne oldu?" content
-- Fatih Altaylı: Filters videos with "Fatih Altaylı yorumluyor:" prefix
+Currently monitors two hardcoded channels with specific selection criteria:
 
-Channel handlers are defined in the `fetchCmd` with custom filtering logic for each channel.
+### Nevsin Mengu (UCrG27KDq7eW4YoEOYsalU9g)
+- Gets videos from last 48 hours
+- Uses Azure OpenAI GPT-4 Vision to analyze thumbnails
+- Extracts text from thumbnails to find "Bugün ne oldu?" content
+- Fails entire process if thumbnail analysis fails
+
+### Fatih Altaylı (UCdS7OE5qbJQc7AG4SwlTzKg)
+- Gets videos from last 48 hours
+- Filters for videos with titles starting with "Fatih Altaylı yorumluyor:"
+- Takes first matching video
+
+Channel handlers are defined in the `fetchCmd` with custom filtering logic for each channel. Processing happens concurrently with progress reporting.
