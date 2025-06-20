@@ -62,11 +62,7 @@ var fetchCmd = &cobra.Command{
 	Use:   "fetch",
 	Short: "Fetch recent videos from channels",
 	Run: func(cmd *cobra.Command, args []string) {
-		channels := []struct {
-			Name    string
-			ID      string
-			Handler func([]YouTubeVideo) []YouTubeVideo
-		}{
+		channels := []ChannelConfig{
 			{
 				Name: "Nevsin Mengu",
 				ID:   "UCrG27KDq7eW4YoEOYsalU9g",
@@ -115,11 +111,7 @@ var fetchCmd = &cobra.Command{
 		fmt.Printf("Processing %d channels...\n", len(channels))
 		for i, ch := range channels {
 			wg.Add(1)
-			go func(idx int, chInfo struct {
-				Name    string
-				ID      string
-				Handler func([]YouTubeVideo) []YouTubeVideo
-			}) {
+			go func(idx int, chInfo ChannelConfig) {
 				defer wg.Done()
 				fmt.Printf("Channel %d/%d: %s\n", idx+1, len(channels), chInfo.Name)
 				videos, err := fetchYouTubeVideos(chInfo.ID)
@@ -140,6 +132,13 @@ var fetchCmd = &cobra.Command{
 		wg.Wait()
 		fmt.Println("Fetch complete.")
 	},
+}
+
+// ChannelConfig represents a YouTube channel configuration
+type ChannelConfig struct {
+	Name    string
+	ID      string
+	Handler func([]YouTubeVideo) []YouTubeVideo
 }
 
 // YouTubeVideo represents minimal video metadata
