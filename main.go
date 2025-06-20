@@ -248,15 +248,15 @@ func analyzeThumbnailWithAzure(thumbnailURL string) (string, error) {
 	}
 
 	// Prepare the request payload for Azure OpenAI GPT-4 Vision
-	requestBody := map[string]interface{}{
-		"messages": []map[string]interface{}{
+	requestBody := map[string]any{
+		"messages": []map[string]any{
 			{
 				"role":    "system",
 				"content": "You are an expert at analyzing YouTube video thumbnails. Extract and return ONLY the title text shown in the thumbnail. If there is no visible title text, return 'NO_TITLE'.",
 			},
 			{
 				"role": "user",
-				"content": []map[string]interface{}{
+				"content": []map[string]any{
 					{
 						"type": "text",
 						"text": "What is the title text shown in this thumbnail? Return only the title text, nothing else.",
@@ -330,10 +330,7 @@ func bytesToBase64(data []byte) string {
 	var result strings.Builder
 	for i := 0; i < len(data); i += 3 {
 		var buf [4]byte
-		n := len(data) - i
-		if n > 3 {
-			n = 3
-		}
+		n := min(len(data)-i, 3)
 
 		switch n {
 		case 3:
