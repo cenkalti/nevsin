@@ -281,7 +281,7 @@ func analyzeThumbnailWithAzure(thumbnailURL string) (string, error) {
 	}
 
 	// Make request to Azure OpenAI
-	url := fmt.Sprintf("%s/openai/deployments/%s/chat/completions?api-version=2024-02-01", endpoint, deployment)
+	url := fmt.Sprintf("%s/openai/deployments/%s/chat/completions?api-version=2024-08-01-preview", endpoint, deployment)
 	req, err := http.NewRequest("POST", url, bytes.NewBuffer(jsonBody))
 	if err != nil {
 		return "", fmt.Errorf("failed to create request: %w", err)
@@ -421,9 +421,11 @@ var summarizeCmd = &cobra.Command{
 					fmt.Printf("Failed to read %s: %v\n", filename, err)
 					return
 				}
-				// Placeholder: Call Azure OpenAI to summarize transcript
+				// Call Azure OpenAI to summarize transcript
 				summary := summarizeTranscriptWithAzure(string(data), "tr")
-				outPath := filepath.Join("summaries", filename)
+				// Change extension from .txt to .md for markdown output
+				baseFilename := strings.TrimSuffix(filename, ".txt")
+				outPath := filepath.Join("summaries", baseFilename+".md")
 				if err := os.WriteFile(outPath, []byte(summary), 0644); err != nil {
 					fmt.Printf("Failed to write summary file: %v\n", err)
 				}
@@ -434,11 +436,157 @@ var summarizeCmd = &cobra.Command{
 	},
 }
 
-// summarizeTranscriptWithAzure is a placeholder for Azure OpenAI summarization
+// NewsStory represents a single news story extracted from transcript
+type NewsStory struct {
+	Title     string `json:"title"`
+	Summary   string `json:"summary"`
+	StartTime string `json:"start_time"`
+	EndTime   string `json:"end_time"`
+}
+
+// NewsExtractionResponse represents the structured response from Azure OpenAI
+type NewsExtractionResponse struct {
+	Stories []NewsStory `json:"stories"`
+}
+
+// summarizeTranscriptWithAzure extracts multiple news stories from Turkish transcript using Azure OpenAI
 func summarizeTranscriptWithAzure(transcript, lang string) string {
-	// TODO: Implement Azure OpenAI API call with language-specific prompt
-	// Placeholder: return dummy summary
-	return "- [00:00-00:30] Key point 1\n- [00:31-01:00] Key point 2\n"
+	endpoint := os.Getenv("AZURE_OPENAI_ENDPOINT")
+	apiKey := os.Getenv("AZURE_OPENAI_API_KEY")
+	deployment := os.Getenv("AZURE_OPENAI_DEPLOYMENT")
+
+	if endpoint == "" || apiKey == "" || deployment == "" {
+		fmt.Printf("Azure OpenAI environment variables not properly configured\n")
+		return "# Haber Özeti\n\nHata: Azure OpenAI yapılandırması eksik"
+	}
+
+	// Define JSON schema for structured output
+	schema := map[string]any{
+		"type": "object",
+		"properties": map[string]any{
+			"stories": map[string]any{
+				"type": "array",
+				"items": map[string]any{
+					"type": "object",
+					"properties": map[string]any{
+						"title": map[string]any{
+							"type":        "string",
+							"description": "Haberin başlığı",
+						},
+						"summary": map[string]any{
+							"type":        "string",
+							"description": "Haberin detaylı özeti",
+						},
+						"start_time": map[string]any{
+							"type":        "string",
+							"description": "Haberin başlangıç zamanı (MM:SS formatında)",
+						},
+						"end_time": map[string]any{
+							"type":        "string",
+							"description": "Haberin bitiş zamanı (MM:SS formatında)",
+						},
+					},
+					"required": []string{"title", "summary", "start_time", "end_time"},
+				},
+			},
+		},
+		"required": []string{"stories"},
+	}
+
+	// Prepare the request payload
+	requestBody := map[string]any{
+		"messages": []map[string]any{
+			{
+				"role":    "system",
+				"content": "Sen Türkçe haber metinlerini analiz eden bir uzmansın. Verilen transkriptten birden fazla haber hikayesini çıkarman gerekiyor. Her haber için başlık, özet ve zaman damgalarını belirle. Sadece gerçek haber içeriğini çıkar, reklam veya genel konuşmaları dahil etme.",
+			},
+			{
+				"role":    "user",
+				"content": fmt.Sprintf("Bu transkriptten tüm haber hikayelerini çıkar ve her biri için başlık, detaylı özet ve zaman aralığını belirle:\n\n%s", transcript),
+			},
+		},
+		"max_tokens":  4000,
+		"temperature": 0.1,
+		"response_format": map[string]any{
+			"type":   "json_schema",
+			"json_schema": map[string]any{
+				"name":   "news_extraction",
+				"schema": schema,
+			},
+		},
+	}
+
+	jsonBody, err := json.Marshal(requestBody)
+	if err != nil {
+		fmt.Printf("Failed to marshal request: %v\n", err)
+		return "# Haber Özeti\n\nHata: İstek hazırlanamadı"
+	}
+
+	// Make request to Azure OpenAI
+	url := fmt.Sprintf("%s/openai/deployments/%s/chat/completions?api-version=2024-08-01-preview", endpoint, deployment)
+	req, err := http.NewRequest("POST", url, bytes.NewBuffer(jsonBody))
+	if err != nil {
+		fmt.Printf("Failed to create request: %v\n", err)
+		return "# Haber Özeti\n\nHata: HTTP isteği oluşturulamadı"
+	}
+
+	req.Header.Set("Content-Type", "application/json")
+	req.Header.Set("api-key", apiKey)
+
+	client := &http.Client{Timeout: 60 * time.Second}
+	resp, err := client.Do(req)
+	if err != nil {
+		fmt.Printf("Failed to call Azure OpenAI: %v\n", err)
+		return "# Haber Özeti\n\nHata: Azure OpenAI çağrısı başarısız"
+	}
+	defer resp.Body.Close()
+
+	if resp.StatusCode != http.StatusOK {
+		body, _ := io.ReadAll(resp.Body)
+		fmt.Printf("Azure OpenAI error (status %d): %s\n", resp.StatusCode, string(body))
+		return "# Haber Özeti\n\nHata: Azure OpenAI API hatası"
+	}
+
+	var result struct {
+		Choices []struct {
+			Message struct {
+				Content string `json:"content"`
+			} `json:"message"`
+		} `json:"choices"`
+	}
+
+	if err := json.NewDecoder(resp.Body).Decode(&result); err != nil {
+		fmt.Printf("Failed to decode response: %v\n", err)
+		return "# Haber Özeti\n\nHata: Yanıt çözümlenemedi"
+	}
+
+	if len(result.Choices) == 0 || result.Choices[0].Message.Content == "" {
+		fmt.Printf("No content in response\n")
+		return "# Haber Özeti\n\nHata: Boş yanıt alındı"
+	}
+
+	// Parse the structured JSON response
+	var newsResponse NewsExtractionResponse
+	if err := json.Unmarshal([]byte(result.Choices[0].Message.Content), &newsResponse); err != nil {
+		fmt.Printf("Failed to parse structured response: %v\n", err)
+		return "# Haber Özeti\n\nHata: Yapılandırılmış yanıt çözümlenemedi"
+	}
+
+	// Convert to markdown format
+	markdown := "# Haber Özeti\n\n"
+	
+	if len(newsResponse.Stories) == 0 {
+		markdown += "Bu transkriptte haber bulunamadı.\n"
+		return markdown
+	}
+
+	for i, story := range newsResponse.Stories {
+		markdown += fmt.Sprintf("## Haber %d: %s\n", i+1, story.Title)
+		markdown += fmt.Sprintf("- **Zaman:** %s-%s\n", story.StartTime, story.EndTime)
+		markdown += fmt.Sprintf("- **Özet:** %s\n\n", story.Summary)
+	}
+
+	return markdown
 }
 
 var generateCmd = &cobra.Command{
@@ -452,7 +600,7 @@ var generateCmd = &cobra.Command{
 		}
 		summaries := make(map[string]string)
 		for _, file := range files {
-			if file.IsDir() || !strings.HasSuffix(file.Name(), ".txt") {
+			if file.IsDir() || !strings.HasSuffix(file.Name(), ".md") {
 				continue
 			}
 			data, err := os.ReadFile(filepath.Join("summaries", file.Name()))
