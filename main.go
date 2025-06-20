@@ -74,7 +74,7 @@ var fetchCmd = &cobra.Command{
 							continue
 						}
 						// Analyze thumbnail with Azure OpenAI
-						extractedTitle, err := analyzeThumbnailWithAzure(v.ThumbnailURL)
+						extractedTitle, err := analyzeThumbnail(v.ThumbnailURL)
 						if err != nil {
 							fmt.Printf("Thumbnail analysis failed: %v\n", err)
 							continue
@@ -226,8 +226,8 @@ func fetchYouTubeVideos(channelID string) ([]YouTubeVideo, error) {
 	return videos, nil
 }
 
-// analyzeThumbnailWithAzure analyzes a thumbnail with Azure OpenAI GPT-4 Vision
-func analyzeThumbnailWithAzure(thumbnailURL string) (string, error) {
+// analyzeThumbnail analyzes a thumbnail with Azure OpenAI GPT-4 Vision
+func analyzeThumbnail(thumbnailURL string) (string, error) {
 	endpoint := os.Getenv("AZURE_OPENAI_ENDPOINT")
 	apiKey := os.Getenv("AZURE_OPENAI_API_KEY")
 	deployment := os.Getenv("AZURE_OPENAI_DEPLOYMENT")
@@ -422,7 +422,7 @@ var summarizeCmd = &cobra.Command{
 					return
 				}
 				// Call Azure OpenAI to summarize transcript
-				summary := summarizeTranscriptWithAzure(string(data), "tr")
+				summary := summarizeTranscript(string(data))
 				// Change extension from .txt to .md for markdown output
 				baseFilename := strings.TrimSuffix(filename, ".txt")
 				outPath := filepath.Join("summaries", baseFilename+".md")
@@ -449,8 +449,8 @@ type NewsExtractionResponse struct {
 	Stories []NewsStory `json:"stories"`
 }
 
-// summarizeTranscriptWithAzure extracts multiple news stories from Turkish transcript using Azure OpenAI
-func summarizeTranscriptWithAzure(transcript, lang string) string {
+// summarizeTranscript extracts multiple news stories from Turkish transcript using Azure OpenAI
+func summarizeTranscript(transcript string) string {
 	endpoint := os.Getenv("AZURE_OPENAI_ENDPOINT")
 	apiKey := os.Getenv("AZURE_OPENAI_API_KEY")
 	deployment := os.Getenv("AZURE_OPENAI_DEPLOYMENT")
@@ -508,7 +508,7 @@ func summarizeTranscriptWithAzure(transcript, lang string) string {
 		"max_tokens":  4000,
 		"temperature": 0.1,
 		"response_format": map[string]any{
-			"type":   "json_schema",
+			"type": "json_schema",
 			"json_schema": map[string]any{
 				"name":   "news_extraction",
 				"schema": schema,
@@ -574,7 +574,7 @@ func summarizeTranscriptWithAzure(transcript, lang string) string {
 
 	// Convert to markdown format
 	markdown := "# Haber Özeti\n\n"
-	
+
 	if len(newsResponse.Stories) == 0 {
 		markdown += "Bu transkriptte haber bulunamadı.\n"
 		return markdown
@@ -610,7 +610,7 @@ var generateCmd = &cobra.Command{
 			}
 			summaries[file.Name()] = string(data)
 		}
-		report := generateReportWithAzure(summaries)
+		report := generateReport(summaries)
 		if err := os.WriteFile("report.md", []byte(report), 0644); err != nil {
 			fmt.Printf("Failed to write report file: %v\n", err)
 			return
@@ -619,8 +619,8 @@ var generateCmd = &cobra.Command{
 	},
 }
 
-// generateReportWithAzure is a placeholder for AI grouping/sorting and report formatting
-func generateReportWithAzure(summaries map[string]string) string {
+// generateReport is a placeholder for AI grouping/sorting and report formatting
+func generateReport(summaries map[string]string) string {
 	// TODO: Implement Azure OpenAI API call for grouping/sorting and formatting
 	// Placeholder: simple concatenation
 	report := "# Bugun ne oldu?\n\n"
