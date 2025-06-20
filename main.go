@@ -1,6 +1,7 @@
 package main
 
 import (
+	"bytes"
 	"encoding/json"
 	"fmt"
 	"io"
@@ -226,11 +227,149 @@ func fetchYouTubeVideos(channelID string) ([]YouTubeVideo, error) {
 	return videos, nil
 }
 
-// analyzeThumbnailWithAzure analyzes a thumbnail with Azure OpenAI (placeholder)
+// analyzeThumbnailWithAzure analyzes a thumbnail with Azure OpenAI GPT-4 Vision
 func analyzeThumbnailWithAzure(thumbnailURL string) bool {
-	// TODO: Implement Azure OpenAI Vision API call
-	// Placeholder: always succeed
-	return true
+	endpoint := os.Getenv("AZURE_OPENAI_ENDPOINT")
+	apiKey := os.Getenv("AZURE_OPENAI_API_KEY")
+	deployment := os.Getenv("AZURE_OPENAI_DEPLOYMENT")
+
+	if endpoint == "" || apiKey == "" || deployment == "" {
+		log.Printf("Azure OpenAI environment variables not properly configured")
+		return false
+	}
+
+	// Download the thumbnail image
+	resp, err := http.Get(thumbnailURL)
+	if err != nil {
+		log.Printf("Failed to download thumbnail: %v", err)
+		return false
+	}
+	defer resp.Body.Close()
+
+	imageData, err := io.ReadAll(resp.Body)
+	if err != nil {
+		log.Printf("Failed to read thumbnail data: %v", err)
+		return false
+	}
+
+	// Prepare the request payload for Azure OpenAI GPT-4 Vision
+	requestBody := map[string]interface{}{
+		"messages": []map[string]interface{}{
+			{
+				"role":    "system",
+				"content": "You are an expert at analyzing YouTube video thumbnails. Extract and return ONLY the title text shown in the thumbnail. If there is no visible title text, return 'NO_TITLE'.",
+			},
+			{
+				"role": "user",
+				"content": []map[string]interface{}{
+					{
+						"type": "text",
+						"text": "What is the title text shown in this thumbnail? Return only the title text, nothing else.",
+					},
+					{
+						"type": "image_url",
+						"image_url": map[string]string{
+							"url": fmt.Sprintf("data:image/jpeg;base64,%s", bytesToBase64(imageData)),
+						},
+					},
+				},
+			},
+		},
+		"max_tokens":  100,
+		"temperature": 0,
+	}
+
+	jsonBody, err := json.Marshal(requestBody)
+	if err != nil {
+		log.Printf("Failed to marshal request: %v", err)
+		return false
+	}
+
+	// Make request to Azure OpenAI
+	url := fmt.Sprintf("%s/openai/deployments/%s/chat/completions?api-version=2024-02-01", endpoint, deployment)
+	req, err := http.NewRequest("POST", url, bytes.NewBuffer(jsonBody))
+	if err != nil {
+		log.Printf("Failed to create request: %v", err)
+		return false
+	}
+
+	req.Header.Set("Content-Type", "application/json")
+	req.Header.Set("api-key", apiKey)
+
+	client := &http.Client{Timeout: 30 * time.Second}
+	resp2, err := client.Do(req)
+	if err != nil {
+		log.Printf("Failed to call Azure OpenAI: %v", err)
+		return false
+	}
+	defer resp2.Body.Close()
+
+	if resp2.StatusCode != http.StatusOK {
+		body, _ := io.ReadAll(resp2.Body)
+		log.Printf("Azure OpenAI error (status %d): %s", resp2.StatusCode, string(body))
+		return false
+	}
+
+	var result struct {
+		Choices []struct {
+			Message struct {
+				Content string `json:"content"`
+			} `json:"message"`
+		} `json:"choices"`
+	}
+
+	if err := json.NewDecoder(resp2.Body).Decode(&result); err != nil {
+		log.Printf("Failed to decode response: %v", err)
+		return false
+	}
+
+	if len(result.Choices) > 0 && result.Choices[0].Message.Content != "" {
+		extractedTitle := strings.TrimSpace(result.Choices[0].Message.Content)
+		fmt.Printf("Extracted thumbnail title: %s\n", extractedTitle)
+
+		// Check if the title contains "Bugün ne oldu" (case insensitive)
+		return strings.Contains(strings.ToLower(extractedTitle), "bugün ne oldu") ||
+			strings.Contains(strings.ToLower(extractedTitle), "bugun ne oldu")
+	}
+
+	return false
+}
+
+// bytesToBase64 converts byte array to base64 string
+func bytesToBase64(data []byte) string {
+	const base64Table = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/"
+
+	// Simple base64 encoding
+	var result strings.Builder
+	for i := 0; i < len(data); i += 3 {
+		var buf [4]byte
+		n := len(data) - i
+		if n > 3 {
+			n = 3
+		}
+
+		switch n {
+		case 3:
+			buf[0] = base64Table[data[i]>>2]
+			buf[1] = base64Table[((data[i]&0x03)<<4)|(data[i+1]>>4)]
+			buf[2] = base64Table[((data[i+1]&0x0f)<<2)|(data[i+2]>>6)]
+			buf[3] = base64Table[data[i+2]&0x3f]
+		case 2:
+			buf[0] = base64Table[data[i]>>2]
+			buf[1] = base64Table[((data[i]&0x03)<<4)|(data[i+1]>>4)]
+			buf[2] = base64Table[(data[i+1]&0x0f)<<2]
+			buf[3] = '='
+		case 1:
+			buf[0] = base64Table[data[i]>>2]
+			buf[1] = base64Table[(data[i]&0x03)<<4]
+			buf[2] = '='
+			buf[3] = '='
+		}
+
+		result.Write(buf[:])
+	}
+
+	return result.String()
 }
 
 // saveVideoMetadata saves video metadata as videos/videoID.json
