@@ -415,7 +415,10 @@ var extractCmd = &cobra.Command{
 					video.URL,
 				}
 				tmpDir := "transcripts_tmp"
-				os.MkdirAll(tmpDir, 0755)
+				if err := os.MkdirAll(tmpDir, 0755); err != nil {
+					fmt.Printf("Failed to create temp directory: %v\n", err)
+					return
+				}
 				cmd := exec.Command("yt-dlp", cmdArgs...)
 				cmd.Dir = tmpDir
 				if err := cmd.Run(); err != nil {
@@ -429,8 +432,12 @@ var extractCmd = &cobra.Command{
 						vttPath := filepath.Join(tmpDir, f.Name())
 						vttData, _ := os.ReadFile(vttPath)
 						// Save as .txt (could convert to plain text here)
-						os.WriteFile(outPath, vttData, 0644)
-						os.Remove(vttPath)
+						if err := os.WriteFile(outPath, vttData, 0644); err != nil {
+							fmt.Printf("Failed to write transcript file: %v\n", err)
+						}
+						if err := os.Remove(vttPath); err != nil {
+							fmt.Printf("Failed to remove temp file: %v\n", err)
+						}
 					}
 				}
 			}(file.Name())
@@ -465,7 +472,9 @@ var summarizeCmd = &cobra.Command{
 				// Placeholder: Call Azure OpenAI to summarize transcript
 				summary := summarizeTranscriptWithAzure(string(data), "tr")
 				outPath := filepath.Join("summaries", filename)
-				os.WriteFile(outPath, []byte(summary), 0644)
+				if err := os.WriteFile(outPath, []byte(summary), 0644); err != nil {
+					fmt.Printf("Failed to write summary file: %v\n", err)
+				}
 			}(file.Name())
 		}
 		wg.Wait()
@@ -502,7 +511,10 @@ var generateCmd = &cobra.Command{
 			summaries[file.Name()] = string(data)
 		}
 		report := generateReportWithAzure(summaries)
-		os.WriteFile("report.md", []byte(report), 0644)
+		if err := os.WriteFile("report.md", []byte(report), 0644); err != nil {
+			fmt.Printf("Failed to write report file: %v\n", err)
+			return
+		}
 		fmt.Println("Report generated: report.md")
 	},
 }
