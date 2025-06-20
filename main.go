@@ -2,6 +2,7 @@ package main
 
 import (
 	"bytes"
+	"encoding/base64"
 	"encoding/json"
 	"fmt"
 	"io"
@@ -264,7 +265,7 @@ func analyzeThumbnailWithAzure(thumbnailURL string) (string, error) {
 					{
 						"type": "image_url",
 						"image_url": map[string]string{
-							"url": fmt.Sprintf("data:image/jpeg;base64,%s", bytesToBase64(imageData)),
+							"url": fmt.Sprintf("data:image/jpeg;base64,%s", base64.StdEncoding.EncodeToString(imageData)),
 						},
 					},
 				},
@@ -320,40 +321,6 @@ func analyzeThumbnailWithAzure(thumbnailURL string) (string, error) {
 	}
 
 	return "", fmt.Errorf("no title extracted from thumbnail")
-}
-
-// bytesToBase64 converts byte array to base64 string
-func bytesToBase64(data []byte) string {
-	const base64Table = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/"
-
-	// Simple base64 encoding
-	var result strings.Builder
-	for i := 0; i < len(data); i += 3 {
-		var buf [4]byte
-		n := min(len(data)-i, 3)
-
-		switch n {
-		case 3:
-			buf[0] = base64Table[data[i]>>2]
-			buf[1] = base64Table[((data[i]&0x03)<<4)|(data[i+1]>>4)]
-			buf[2] = base64Table[((data[i+1]&0x0f)<<2)|(data[i+2]>>6)]
-			buf[3] = base64Table[data[i+2]&0x3f]
-		case 2:
-			buf[0] = base64Table[data[i]>>2]
-			buf[1] = base64Table[((data[i]&0x03)<<4)|(data[i+1]>>4)]
-			buf[2] = base64Table[(data[i+1]&0x0f)<<2]
-			buf[3] = '='
-		case 1:
-			buf[0] = base64Table[data[i]>>2]
-			buf[1] = base64Table[(data[i]&0x03)<<4]
-			buf[2] = '='
-			buf[3] = '='
-		}
-
-		result.Write(buf[:])
-	}
-
-	return result.String()
 }
 
 // saveVideoMetadata saves video metadata as videos/videoID.json
