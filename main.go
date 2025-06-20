@@ -78,15 +78,8 @@ var fetchCmd = &cobra.Command{
 							fmt.Printf("Thumbnail analysis failed: %v\n", err)
 							continue
 						}
-						
 						// Check if the title contains "Bugün ne oldu" (case insensitive)
-						if !strings.Contains(strings.ToLower(extractedTitle), "bugün ne oldu") &&
-							!strings.Contains(strings.ToLower(extractedTitle), "bugun ne oldu") {
-							continue
-						}
-						// Find "Bugun ne oldu?" in title or description
-						if strings.Contains(strings.ToLower(v.Title), "bugun ne oldu") ||
-							strings.Contains(strings.ToLower(v.Description), "bugun ne oldu") {
+						if strings.Contains(strings.ToLower(extractedTitle), "bugün ne oldu") {
 							return []YouTubeVideo{v}
 						}
 					}
