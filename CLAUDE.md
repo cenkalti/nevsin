@@ -104,3 +104,7 @@ Currently monitors two hardcoded channels with specific selection criteria:
 - Takes first matching video
 
 Channel handlers are defined in the `fetchCmd` with custom filtering logic for each channel. Processing happens concurrently with progress reporting.
+
+## Logging Best Practices
+
+- Always use log.Print* function to log something instead of fmt.Println.
