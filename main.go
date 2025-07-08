@@ -361,6 +361,7 @@ var extractCmd = &cobra.Command{
 				cmdArgs := []string{
 					"--write-auto-subs",
 					"--sub-lang", "tr",
+					"--sub-format", "srt",
 					"--skip-download",
 					"--output", "%(id)s.%(ext)s",
 					video.URL,
@@ -376,17 +377,17 @@ var extractCmd = &cobra.Command{
 					log.Printf("yt-dlp failed for %s: %v (skipping)", video.ID, err)
 					return
 				}
-				// Find the .vtt file
+				// Find the .srt file
 				files2, _ := os.ReadDir(tmpDir)
 				for _, f := range files2 {
-					if strings.HasPrefix(f.Name(), video.ID) && strings.HasSuffix(f.Name(), ".vtt") {
-						vttPath := filepath.Join(tmpDir, f.Name())
-						vttData, _ := os.ReadFile(vttPath)
+					if strings.HasPrefix(f.Name(), video.ID) && strings.HasSuffix(f.Name(), ".srt") {
+						srtPath := filepath.Join(tmpDir, f.Name())
+						srtData, _ := os.ReadFile(srtPath)
 						// Save as .txt (could convert to plain text here)
-						if err := os.WriteFile(outPath, vttData, 0644); err != nil {
+						if err := os.WriteFile(outPath, srtData, 0644); err != nil {
 							log.Printf("Failed to write transcript file: %v", err)
 						}
-						if err := os.Remove(vttPath); err != nil {
+						if err := os.Remove(srtPath); err != nil {
 							log.Printf("Failed to remove temp file: %v", err)
 						}
 					}
