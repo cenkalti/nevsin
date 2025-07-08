@@ -113,8 +113,6 @@ var fetchCmd = &cobra.Command{
 		}
 
 		var wg sync.WaitGroup
-		var mu sync.Mutex
-		allVideos := []YouTubeVideo{}
 		log.Printf("Processing %d channels...", len(channels))
 		for i, ch := range channels {
 			wg.Add(1)
@@ -130,9 +128,6 @@ var fetchCmd = &cobra.Command{
 				for _, v := range selected {
 					saveVideoMetadata(v)
 				}
-				mu.Lock()
-				allVideos = append(allVideos, selected...)
-				mu.Unlock()
 			}(i, ch)
 		}
 		wg.Wait()
@@ -619,7 +614,6 @@ var generateCmd = &cobra.Command{
 		log.Println("Report generated: report.md")
 	},
 }
-
 
 // generateReport uses Azure OpenAI to merge and group news stories from multiple reporters
 func generateReport(summaries map[string]string) string {
