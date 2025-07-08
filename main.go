@@ -442,7 +442,6 @@ type NewsStory struct {
 	Summary   string `json:"summary"`
 	StartTime string `json:"start_time"`
 	EndTime   string `json:"end_time"`
-	Reporter  string `json:"reporter"`
 }
 
 // MergedNewsStory represents a news story merged from multiple sources
@@ -621,32 +620,6 @@ var generateCmd = &cobra.Command{
 	},
 }
 
-// getReporterName maps video ID to reporter name using video metadata
-func getReporterName(videoID string) string {
-	videoPath := filepath.Join("videos", videoID+".json")
-
-	data, err := os.ReadFile(videoPath)
-	if err != nil {
-		log.Printf("Failed to read video metadata %s: %v", videoPath, err)
-		return "Bilinmeyen Muhabir"
-	}
-
-	var video YouTubeVideo
-	if err := json.Unmarshal(data, &video); err != nil {
-		log.Printf("Failed to parse video metadata %s: %v", videoPath, err)
-		return "Bilinmeyen Muhabir"
-	}
-
-	// Map channel ID to reporter name
-	switch video.ChannelID {
-	case "UCrG27KDq7eW4YoEOYsalU9g":
-		return "Nevsin Mengu"
-	case "UCdS7OE5qbJQc7AG4SwlTzKg":
-		return "Fatih Altaylı"
-	default:
-		return "Bilinmeyen Muhabir"
-	}
-}
 
 // generateReport uses Azure OpenAI to merge and group news stories from multiple reporters
 func generateReport(summaries map[string]string) string {
@@ -654,14 +627,9 @@ func generateReport(summaries map[string]string) string {
 	apiKey := config.AzureOpenAIAPIKey
 	deployment := config.AzureOpenAIDeployment
 
-	// Parse JSON summaries and add reporter attribution
+	// Parse JSON summaries
 	var allStories []NewsStory
 	for filename, jsonContent := range summaries {
-		videoID := strings.TrimSuffix(filename, ".json")
-
-		// Get reporter name from video metadata
-		reporterName := getReporterName(videoID)
-
 		// Parse JSON content
 		var newsResponse NewsExtractionResponse
 		if err := json.Unmarshal([]byte(jsonContent), &newsResponse); err != nil {
@@ -669,11 +637,8 @@ func generateReport(summaries map[string]string) string {
 			continue
 		}
 
-		// Add reporter attribution to each story
-		for _, story := range newsResponse.Stories {
-			story.Reporter = reporterName
-			allStories = append(allStories, story)
-		}
+		// Add stories to the collection
+		allStories = append(allStories, newsResponse.Stories...)
 	}
 
 	if len(allStories) == 0 {
