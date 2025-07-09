@@ -10,17 +10,17 @@ Nevsin is a YouTube news aggregator CLI tool written in Go that fetches, transcr
 
 - **Single-file CLI application** (`main.go`) using cobra for command structure
 - **Convention over configuration**: No flags, pure file-based operations in working directory
-- **Pipeline-based processing**: fetch → extract → summarize → generate
+- **Pipeline-based processing**: fetch-videos → fetch-subtitles → extract-stories → generate-report
 - **Concurrent processing** with goroutines for video fetching and transcript extraction
 - **Azure OpenAI integration** for thumbnail analysis and transcript summarization
 - **YouTube Data API v3** for video fetching
 
 ### Key Components
 
-- `fetchCmd`: Retrieves videos from hardcoded channels using custom handlers
-- `extractCmd`: Downloads transcripts using yt-dlp
-- `summarizeCmd`: Creates AI summaries with structured JSON responses
-- `generateCmd`: Compiles final markdown reports with AI-sorted importance
+- `fetchVideosCmd`: Retrieves videos from hardcoded channels using custom handlers
+- `fetchSubtitlesCmd`: Downloads transcripts using yt-dlp
+- `extractStoriesCmd`: Creates AI summaries with structured JSON responses
+- `generateReportCmd`: Compiles final markdown reports with AI-sorted importance
 - `runCmd`: Executes full pipeline
 - `cleanCmd`: Removes old data
 
@@ -58,10 +58,10 @@ go build
 ./nevsin run
 
 # Individual commands
-./nevsin fetch
-./nevsin extract
-./nevsin summarize
-./nevsin generate
+./nevsin fetch-videos
+./nevsin fetch-subtitles
+./nevsin extract-stories
+./nevsin generate-report
 ./nevsin clean
 ```
 
@@ -103,7 +103,7 @@ Currently monitors two hardcoded channels with specific selection criteria:
 - Filters for videos with titles starting with "Fatih Altaylı yorumluyor:"
 - Takes first matching video
 
-Channel handlers are defined in the `fetchCmd` with custom filtering logic for each channel. Processing happens concurrently with progress reporting.
+Channel handlers are defined in the `fetchVideosCmd` with custom filtering logic for each channel. Processing happens concurrently with progress reporting.
 
 ## Logging Best Practices
 

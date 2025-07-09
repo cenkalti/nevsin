@@ -53,10 +53,10 @@ func main() {
 		Short: "Multi-Language YouTube News Aggregator CLI",
 	}
 
-	rootCmd.AddCommand(fetchCmd)
-	rootCmd.AddCommand(extractCmd)
-	rootCmd.AddCommand(summarizeCmd)
-	rootCmd.AddCommand(generateCmd)
+	rootCmd.AddCommand(fetchVideosCmd)
+	rootCmd.AddCommand(fetchSubtitlesCmd)
+	rootCmd.AddCommand(extractStoriesCmd)
+	rootCmd.AddCommand(generateReportCmd)
 	rootCmd.AddCommand(runCmd)
 	rootCmd.AddCommand(cleanCmd)
 
@@ -65,9 +65,9 @@ func main() {
 	}
 }
 
-// fetchCmd: Reads channels.txt, saves videos/videoID.json
-var fetchCmd = &cobra.Command{
-	Use:   "fetch",
+// fetchVideosCmd: Reads channels.txt, saves videos/videoID.json
+var fetchVideosCmd = &cobra.Command{
+	Use:   "fetch-videos",
 	Short: "Fetch recent videos from channels",
 	Run: func(cmd *cobra.Command, args []string) {
 		channels := []ChannelConfig{
@@ -324,9 +324,9 @@ func saveVideoMetadata(video YouTubeVideo) {
 	_ = os.WriteFile(path, data, 0644)
 }
 
-// extractCmd: Reads videos/, saves transcripts/videoID.txt
-var extractCmd = &cobra.Command{
-	Use:   "extract",
+// fetchSubtitlesCmd: Reads videos/, saves transcripts/videoID.txt
+var fetchSubtitlesCmd = &cobra.Command{
+	Use:   "fetch-subtitles",
 	Short: "Extract transcripts from videos",
 	Run: func(cmd *cobra.Command, args []string) {
 		files, err := os.ReadDir("videos")
@@ -390,12 +390,12 @@ var extractCmd = &cobra.Command{
 			}(file.Name())
 		}
 		wg.Wait()
-		log.Println("Transcript extraction complete.")
+		log.Println("Subtitle extraction complete.")
 	},
 }
 
-var summarizeCmd = &cobra.Command{
-	Use:   "summarize",
+var extractStoriesCmd = &cobra.Command{
+	Use:   "extract-stories",
 	Short: "Summarize transcripts",
 	Run: func(cmd *cobra.Command, args []string) {
 		files, err := os.ReadDir("transcripts")
@@ -427,7 +427,7 @@ var summarizeCmd = &cobra.Command{
 			}(file.Name())
 		}
 		wg.Wait()
-		log.Println("Summarization complete.")
+		log.Println("Story extraction complete.")
 	},
 }
 
@@ -585,8 +585,8 @@ func summarizeTranscript(transcript string) string {
 	return string(jsonData)
 }
 
-var generateCmd = &cobra.Command{
-	Use:   "generate",
+var generateReportCmd = &cobra.Command{
+	Use:   "generate-report",
 	Short: "Generate final news report",
 	Run: func(cmd *cobra.Command, args []string) {
 		files, err := os.ReadDir("summaries")
@@ -819,13 +819,13 @@ func formatFinalReport(stories []MergedNewsStory) string {
 
 var runCmd = &cobra.Command{
 	Use:   "run",
-	Short: "Run the full pipeline: fetch -> extract -> summarize -> generate",
+	Short: "Run the full pipeline: fetch-videos -> fetch-subtitles -> extract-stories -> generate-report",
 	Run: func(cmd *cobra.Command, args []string) {
 		log.Println("Running full pipeline...")
-		fetchCmd.Run(cmd, args)
-		extractCmd.Run(cmd, args)
-		summarizeCmd.Run(cmd, args)
-		generateCmd.Run(cmd, args)
+		fetchVideosCmd.Run(cmd, args)
+		fetchSubtitlesCmd.Run(cmd, args)
+		extractStoriesCmd.Run(cmd, args)
+		generateReportCmd.Run(cmd, args)
 		log.Println("Pipeline complete.")
 	},
 }
