@@ -32,24 +32,24 @@ var GenerateReportCmd = &cobra.Command{
 	Use:   "generate-report",
 	Short: "Generate final news report",
 	Run: func(cmd *cobra.Command, args []string) {
-		files, err := os.ReadDir("summaries")
+		files, err := os.ReadDir("stories")
 		if err != nil {
-			log.Printf("Failed to read summaries directory: %v", err)
+			log.Printf("Failed to read stories directory: %v", err)
 			return
 		}
-		summaries := make(map[string]string)
+		stories := make(map[string]string)
 		for _, file := range files {
 			if file.IsDir() || !strings.HasSuffix(file.Name(), ".json") {
 				continue
 			}
-			data, err := os.ReadFile(filepath.Join("summaries", file.Name()))
+			data, err := os.ReadFile(filepath.Join("stories", file.Name()))
 			if err != nil {
 				log.Printf("Failed to read %s: %v", file.Name(), err)
 				continue
 			}
-			summaries[file.Name()] = string(data)
+			stories[file.Name()] = string(data)
 		}
-		report := generateReport(summaries)
+		report := generateReport(stories)
 		if err := os.WriteFile("report.md", []byte(report), 0644); err != nil {
 			log.Printf("Failed to write report file: %v", err)
 			return
@@ -59,18 +59,18 @@ var GenerateReportCmd = &cobra.Command{
 }
 
 // generateReport uses Azure OpenAI to merge and group news stories from multiple reporters
-func generateReport(summaries map[string]string) string {
+func generateReport(stories map[string]string) string {
 	endpoint := Config.AzureOpenAIEndpoint
 	apiKey := Config.AzureOpenAIAPIKey
 	deployment := Config.AzureOpenAIDeployment
 
-	// Parse JSON summaries
+	// Parse JSON stories
 	var allStories []NewsStory
-	for filename, jsonContent := range summaries {
+	for filename, jsonContent := range stories {
 		// Parse JSON content
 		var newsResponse NewsExtractionResponse
 		if err := json.Unmarshal([]byte(jsonContent), &newsResponse); err != nil {
-			log.Printf("Failed to parse JSON summary %s: %v", filename, err)
+			log.Printf("Failed to parse JSON story %s: %v", filename, err)
 			continue
 		}
 

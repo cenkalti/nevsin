@@ -55,7 +55,7 @@ var ExtractStoriesCmd = &cobra.Command{
 				summary := summarizeTranscript(string(data))
 				// Change extension from .txt to .json for JSON output
 				baseFilename := strings.TrimSuffix(filename, ".txt")
-				outPath := filepath.Join("summaries", baseFilename+".json")
+				outPath := filepath.Join("stories", baseFilename+".json")
 				if err := os.WriteFile(outPath, []byte(summary), 0644); err != nil {
 					log.Printf("Failed to write summary file: %v", err)
 				}

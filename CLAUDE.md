@@ -35,16 +35,16 @@ Nevsin is a YouTube news aggregator CLI tool written in Go that fetches, transcr
 ├── transcripts/
 │   ├── abc123.txt             # Individual transcripts
 │   └── def456.txt
-├── summaries/
-│   ├── abc123.md              # Individual summaries (markdown format)
-│   └── def456.md
+├── stories/
+│   ├── abc123.json            # Individual stories (JSON format)
+│   └── def456.json
 └── report.md                  # Final daily report
 ```
 
 ### Data Flow
 
 ```
-YouTube API → videos/*.json → transcripts/*.txt → summaries/*.md → report.md
+YouTube API → videos/*.json → transcripts/*.txt → stories/*.json → report.md
 ```
 
 ## Development Commands
