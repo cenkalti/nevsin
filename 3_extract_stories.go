@@ -22,6 +22,8 @@ type NewsStory struct {
 	Summary   string `json:"summary"`
 	StartTime string `json:"start_time"`
 	EndTime   string `json:"end_time"`
+	VideoID   string `json:"video_id"`
+	ChannelID string `json:"channel_id"`
 }
 
 // NewsExtractionResponse represents the structured response from Azure OpenAI
@@ -51,12 +53,33 @@ var ExtractStoriesCmd = &cobra.Command{
 					log.Printf("Failed to read %s: %v", filename, err)
 					return
 				}
-				// Call Azure OpenAI to summarize subtitle
-				summary := summarizeSubtitle(string(data))
-				// Change extension from .srt to .json for JSON output
+				// Change extension from .srt to get video ID
 				baseFilename := strings.TrimSuffix(filename, ".srt")
+				videoID := baseFilename
+
+				// Read video video to get channel ID
+				video, err := readVideo(videoID)
+				if err != nil {
+					log.Printf("Failed to read video metadata for %s: %v", videoID, err)
+					return
+				}
+
+				// Call Azure OpenAI to extract stories from subtitle
+				newsResponse, err := extractSubtitles(string(data), videoID, video.ChannelID)
+				if err != nil {
+					log.Printf("Failed to extract stories from subtitle for %s: %v", videoID, err)
+					return
+				}
+
+				// Marshal the response to JSON
+				jsonData, err := json.MarshalIndent(newsResponse, "", "  ")
+				if err != nil {
+					log.Printf("Failed to marshal news response for %s: %v", videoID, err)
+					return
+				}
+
 				outPath := filepath.Join("stories", baseFilename+".json")
-				if err := os.WriteFile(outPath, []byte(summary), 0644); err != nil {
+				if err := os.WriteFile(outPath, jsonData, 0644); err != nil {
 					log.Printf("Failed to write summary file: %v", err)
 				}
 			}(file.Name())
@@ -66,8 +89,24 @@ var ExtractStoriesCmd = &cobra.Command{
 	},
 }
 
-// summarizeSubtitle extracts multiple news stories from Turkish subtitle using Azure OpenAI
-func summarizeSubtitle(subtitle string) string {
+// readVideo reads video metadata from videos/videoID.json
+func readVideo(videoID string) (YouTubeVideo, error) {
+	videoPath := filepath.Join("videos", videoID+".json")
+	data, err := os.ReadFile(videoPath)
+	if err != nil {
+		return YouTubeVideo{}, fmt.Errorf("failed to read video metadata: %w", err)
+	}
+
+	var video YouTubeVideo
+	if err := json.Unmarshal(data, &video); err != nil {
+		return YouTubeVideo{}, fmt.Errorf("failed to parse video metadata: %w", err)
+	}
+
+	return video, nil
+}
+
+// extractSubtitles extracts multiple news stories from Turkish subtitle using Azure OpenAI
+func extractSubtitles(subtitle, videoID, channelID string) (NewsExtractionResponse, error) {
 	endpoint := Config.AzureOpenAIEndpoint
 	apiKey := Config.AzureOpenAIAPIKey
 	deployment := Config.AzureOpenAIDeployment
@@ -130,16 +169,14 @@ func summarizeSubtitle(subtitle string) string {
 
 	jsonBody, err := json.Marshal(requestBody)
 	if err != nil {
-		log.Printf("Failed to marshal request: %v", err)
-		return "{\"stories\":[]}"
+		return NewsExtractionResponse{}, fmt.Errorf("failed to marshal request: %w", err)
 	}
 
 	// Make request to Azure OpenAI
 	url := fmt.Sprintf("%s/openai/deployments/%s/chat/completions?api-version=2024-08-01-preview", endpoint, deployment)
 	req, err := http.NewRequest("POST", url, bytes.NewBuffer(jsonBody))
 	if err != nil {
-		log.Printf("Failed to create request: %v", err)
-		return "{\"stories\":[]}"
+		return NewsExtractionResponse{}, fmt.Errorf("failed to create request: %w", err)
 	}
 
 	req.Header.Set("Content-Type", "application/json")
@@ -148,15 +185,13 @@ func summarizeSubtitle(subtitle string) string {
 	client := &http.Client{Timeout: 60 * time.Second}
 	resp, err := client.Do(req)
 	if err != nil {
-		log.Printf("Failed to call Azure OpenAI: %v", err)
-		return "{\"stories\":[]}"
+		return NewsExtractionResponse{}, fmt.Errorf("failed to call Azure OpenAI: %w", err)
 	}
 	defer resp.Body.Close()
 
 	if resp.StatusCode != http.StatusOK {
 		body, _ := io.ReadAll(resp.Body)
-		log.Printf("Azure OpenAI error (status %d): %s", resp.StatusCode, string(body))
-		return "{\"stories\":[]}"
+		return NewsExtractionResponse{}, fmt.Errorf("azure OpenAI error (status %d): %s", resp.StatusCode, string(body))
 	}
 
 	var result struct {
@@ -168,28 +203,24 @@ func summarizeSubtitle(subtitle string) string {
 	}
 
 	if err := json.NewDecoder(resp.Body).Decode(&result); err != nil {
-		log.Printf("Failed to decode response: %v", err)
-		return "{\"stories\":[]}"
+		return NewsExtractionResponse{}, fmt.Errorf("failed to decode response: %w", err)
 	}
 
 	if len(result.Choices) == 0 || result.Choices[0].Message.Content == "" {
-		log.Printf("No content in response")
-		return "{\"stories\":[]}"
+		return NewsExtractionResponse{}, fmt.Errorf("no content in response")
 	}
 
 	// Parse the structured JSON response
 	var newsResponse NewsExtractionResponse
 	if err := json.Unmarshal([]byte(result.Choices[0].Message.Content), &newsResponse); err != nil {
-		log.Printf("Failed to parse structured response: %v", err)
-		return "{\"stories\":[]}"
+		return NewsExtractionResponse{}, fmt.Errorf("failed to parse structured response: %w", err)
 	}
 
-	// Return structured JSON response
-	jsonData, err := json.MarshalIndent(newsResponse, "", "  ")
-	if err != nil {
-		log.Printf("Failed to marshal news response: %v", err)
-		return "{\"stories\":[]}"
+	// Add video ID and channel ID to each story
+	for i := range newsResponse.Stories {
+		newsResponse.Stories[i].VideoID = videoID
+		newsResponse.Stories[i].ChannelID = channelID
 	}
 
-	return string(jsonData)
+	return newsResponse, nil
 }
