@@ -24,6 +24,7 @@ type NewsStory struct {
 	EndTime   string `json:"end_time"`
 	VideoID   string `json:"video_id"`
 	ChannelID string `json:"channel_id"`
+	Reporter  string `json:"reporter"`
 }
 
 // NewsExtractionResponse represents the structured response from Azure OpenAI
@@ -103,6 +104,16 @@ func readVideo(videoID string) (YouTubeVideo, error) {
 	}
 
 	return video, nil
+}
+
+// getReporterName returns the reporter name for a given channel ID
+func getReporterName(channelID string) string {
+	for _, channel := range ChannelConfigs {
+		if channel.ID == channelID {
+			return channel.Name
+		}
+	}
+	return "Unknown Reporter"
 }
 
 // extractSubtitles extracts multiple news stories from Turkish subtitle using Azure OpenAI
@@ -216,10 +227,12 @@ func extractSubtitles(subtitle, videoID, channelID string) (NewsExtractionRespon
 		return NewsExtractionResponse{}, fmt.Errorf("failed to parse structured response: %w", err)
 	}
 
-	// Add video ID and channel ID to each story
+	// Add video ID, channel ID, and reporter name to each story
+	reporterName := getReporterName(channelID)
 	for i := range newsResponse.Stories {
 		newsResponse.Stories[i].VideoID = videoID
 		newsResponse.Stories[i].ChannelID = channelID
+		newsResponse.Stories[i].Reporter = reporterName
 	}
 
 	return newsResponse, nil
