@@ -13,9 +13,8 @@ type ChannelConfig struct {
 	Handler func([]YouTubeVideo) []YouTubeVideo
 }
 
-// GetChannelConfigs returns all configured channel configurations
-func GetChannelConfigs() []ChannelConfig {
-	return []ChannelConfig{
+// ChannelConfigs contains all configured channel configurations
+var ChannelConfigs = []ChannelConfig{
 		{
 			Name: "Nevsin Mengu",
 			ID:   "UCrG27KDq7eW4YoEOYsalU9g",
@@ -176,4 +175,3 @@ func GetChannelConfigs() []ChannelConfig {
 			},
 		},
 	}
-}

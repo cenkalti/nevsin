@@ -33,15 +33,13 @@ var FetchVideosCmd = &cobra.Command{
 	Use:   "fetch-videos",
 	Short: "Fetch recent videos from channels",
 	Run: func(cmd *cobra.Command, args []string) {
-		channels := GetChannelConfigs()
-
 		var wg sync.WaitGroup
-		log.Printf("Processing %d channels...", len(channels))
-		for i, ch := range channels {
+		log.Printf("Processing %d channels...", len(ChannelConfigs))
+		for i, ch := range ChannelConfigs {
 			wg.Add(1)
 			go func(idx int, chInfo ChannelConfig) {
 				defer wg.Done()
-				log.Printf("Channel %d/%d: %s", idx+1, len(channels), chInfo.Name)
+				log.Printf("Channel %d/%d: %s", idx+1, len(ChannelConfigs), chInfo.Name)
 				videos, err := fetchYouTubeVideos(chInfo.ID)
 				if err != nil {
 					log.Fatalf("Failed to fetch videos for %s: %v", chInfo.Name, err)
