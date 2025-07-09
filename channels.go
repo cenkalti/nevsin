@@ -6,6 +6,13 @@ import (
 	"time"
 )
 
+// ChannelConfig represents a YouTube channel configuration
+type ChannelConfig struct {
+	Name    string
+	ID      string
+	Handler func([]YouTubeVideo) []YouTubeVideo
+}
+
 // GetChannelConfigs returns all configured channel configurations
 func GetChannelConfigs() []ChannelConfig {
 	return []ChannelConfig{
