@@ -60,13 +60,13 @@ var FetchVideosCmd = &cobra.Command{
 func fetchYouTubeVideos(channelID string) ([]YouTubeVideo, error) {
 	apiKey := Config.YouTubeAPIKey
 
-	// Fetch the latest 10 videos from the channel
-	url := fmt.Sprintf(
+	// First, fetch the latest 10 videos from the channel
+	searchURL := fmt.Sprintf(
 		"https://www.googleapis.com/youtube/v3/search?key=%s&channelId=%s&part=snippet,id&order=date&maxResults=10&type=video",
 		apiKey, channelID,
 	)
 
-	resp, err := http.Get(url)
+	resp, err := http.Get(searchURL)
 	if err != nil {
 		return nil, fmt.Errorf("failed to fetch videos: %w", err)
 	}
@@ -102,8 +102,70 @@ func fetchYouTubeVideos(channelID string) ([]YouTubeVideo, error) {
 		return nil, fmt.Errorf("failed to decode YouTube API response: %w", err)
 	}
 
-	videos := make([]YouTubeVideo, 0, len(searchResult.Items))
+	// Extract video IDs for detailed lookup
+	videoIDs := make([]string, 0, len(searchResult.Items))
 	for _, item := range searchResult.Items {
+		videoIDs = append(videoIDs, item.ID.VideoID)
+	}
+
+	if len(videoIDs) == 0 {
+		return []YouTubeVideo{}, nil
+	}
+
+	// Fetch detailed video information including live broadcast status
+	videoIDsStr := strings.Join(videoIDs, ",")
+	videosURL := fmt.Sprintf(
+		"https://www.googleapis.com/youtube/v3/videos?key=%s&id=%s&part=snippet,liveStreamingDetails",
+		apiKey, videoIDsStr,
+	)
+
+	resp2, err := http.Get(videosURL)
+	if err != nil {
+		return nil, fmt.Errorf("failed to fetch video details: %w", err)
+	}
+	defer resp2.Body.Close()
+
+	if resp2.StatusCode != http.StatusOK {
+		body, _ := io.ReadAll(resp2.Body)
+		return nil, fmt.Errorf("YouTube API error for video details: %s", string(body))
+	}
+
+	var videosResult struct {
+		Items []struct {
+			ID      string `json:"id"`
+			Snippet struct {
+				Title       string `json:"title"`
+				Description string `json:"description"`
+				PublishedAt string `json:"publishedAt"`
+				Thumbnails  struct {
+					High struct {
+						URL string `json:"url"`
+					} `json:"high"`
+					Default struct {
+						URL string `json:"url"`
+					} `json:"default"`
+				} `json:"thumbnails"`
+			} `json:"snippet"`
+			LiveStreamingDetails struct {
+				ScheduledStartTime string `json:"scheduledStartTime"`
+				ActualStartTime    string `json:"actualStartTime"`
+				ActualEndTime      string `json:"actualEndTime"`
+			} `json:"liveStreamingDetails"`
+		} `json:"items"`
+	}
+
+	if err := json.NewDecoder(resp2.Body).Decode(&videosResult); err != nil {
+		return nil, fmt.Errorf("failed to decode video details response: %w", err)
+	}
+
+	videos := make([]YouTubeVideo, 0, len(videosResult.Items))
+	for _, item := range videosResult.Items {
+		// Skip videos that are scheduled premieres (have scheduledStartTime but no actualStartTime)
+		if item.LiveStreamingDetails.ScheduledStartTime != "" && item.LiveStreamingDetails.ActualStartTime == "" {
+			log.Printf("Skipping premiere video: %s", item.Snippet.Title)
+			continue
+		}
+
 		publishedAt, err := time.Parse(time.RFC3339, item.Snippet.PublishedAt)
 		if err != nil {
 			publishedAt = time.Time{}
@@ -113,13 +175,13 @@ func fetchYouTubeVideos(channelID string) ([]YouTubeVideo, error) {
 			thumbURL = item.Snippet.Thumbnails.Default.URL
 		}
 		video := YouTubeVideo{
-			ID:           item.ID.VideoID,
+			ID:           item.ID,
 			Title:        item.Snippet.Title,
 			Description:  item.Snippet.Description,
 			PublishedAt:  publishedAt,
 			ThumbnailURL: thumbURL,
 			ChannelID:    channelID,
-			URL:          "https://www.youtube.com/watch?v=" + item.ID.VideoID,
+			URL:          "https://www.youtube.com/watch?v=" + item.ID,
 		}
 		videos = append(videos, video)
 	}

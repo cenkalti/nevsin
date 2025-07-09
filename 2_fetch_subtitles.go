@@ -56,8 +56,10 @@ var FetchSubtitlesCmd = &cobra.Command{
 				}
 				cmd := exec.Command("yt-dlp", cmdArgs...)
 				cmd.Dir = tmpDir
-				if err := cmd.Run(); err != nil {
-					log.Printf("yt-dlp failed for %s: %v (skipping)", video.ID, err)
+				output, err := cmd.CombinedOutput()
+				if err != nil {
+					log.Printf("yt-dlp failed for %s: %v", video.ID, err)
+					log.Printf("yt-dlp error output: %s", string(output))
 					return
 				}
 				// Find the .srt file
