@@ -110,6 +110,126 @@ var fetchVideosCmd = &cobra.Command{
 					return nil
 				},
 			},
+			{
+				Name: "Deniz Zeyrek",
+				ID:   "UCR8vMahbDD-23OjGXDQPu2Q",
+				Handler: func(videos []YouTubeVideo) []YouTubeVideo {
+					// Get videos from last 48 hours, general news content
+					var selected []YouTubeVideo
+					for _, v := range videos {
+						if time.Since(v.PublishedAt) > 48*time.Hour {
+							continue
+						}
+						selected = append(selected, v)
+					}
+					return selected
+				},
+			},
+			{
+				Name: "Serdar Akinan",
+				ID:   "UCnVMhMq6nIwhcrHSLhQO-Ow",
+				Handler: func(videos []YouTubeVideo) []YouTubeVideo {
+					// Get videos from last 48 hours, general news content
+					var selected []YouTubeVideo
+					for _, v := range videos {
+						if time.Since(v.PublishedAt) > 48*time.Hour {
+							continue
+						}
+						selected = append(selected, v)
+					}
+					return selected
+				},
+			},
+			{
+				Name: "Bahar Feyzan",
+				ID:   "UCXgRU9vrJmmNNLDyTbdkjSg",
+				Handler: func(videos []YouTubeVideo) []YouTubeVideo {
+					// Get videos from last 48 hours, general news content
+					var selected []YouTubeVideo
+					for _, v := range videos {
+						if time.Since(v.PublishedAt) > 48*time.Hour {
+							continue
+						}
+						selected = append(selected, v)
+					}
+					return selected
+				},
+			},
+			{
+				Name: "Rusen Cakir",
+				ID:   "UCfeZdjH_RKcQgJCebxUpBSw",
+				Handler: func(videos []YouTubeVideo) []YouTubeVideo {
+					// Get videos from last 48 hours, general news content
+					var selected []YouTubeVideo
+					for _, v := range videos {
+						if time.Since(v.PublishedAt) > 48*time.Hour {
+							continue
+						}
+						selected = append(selected, v)
+					}
+					return selected
+				},
+			},
+			{
+				Name: "Murat Yetkin",
+				ID:   "UC2dULuYNHz0LVfqO5SFsgmw",
+				Handler: func(videos []YouTubeVideo) []YouTubeVideo {
+					// Get videos from last 48 hours, general news content
+					var selected []YouTubeVideo
+					for _, v := range videos {
+						if time.Since(v.PublishedAt) > 48*time.Hour {
+							continue
+						}
+						selected = append(selected, v)
+					}
+					return selected
+				},
+			},
+			{
+				Name: "Özlem Gürses",
+				ID:   "UCojOP7HHZvM2nZz4Rwnd6-Q",
+				Handler: func(videos []YouTubeVideo) []YouTubeVideo {
+					// Get videos from last 48 hours, general news content
+					var selected []YouTubeVideo
+					for _, v := range videos {
+						if time.Since(v.PublishedAt) > 48*time.Hour {
+							continue
+						}
+						selected = append(selected, v)
+					}
+					return selected
+				},
+			},
+			{
+				Name: "Onlar TV",
+				ID:   "UC8n7mdTh0PsepLg43FgXTyw",
+				Handler: func(videos []YouTubeVideo) []YouTubeVideo {
+					// Get videos from last 48 hours, general news content
+					var selected []YouTubeVideo
+					for _, v := range videos {
+						if time.Since(v.PublishedAt) > 48*time.Hour {
+							continue
+						}
+						selected = append(selected, v)
+					}
+					return selected
+				},
+			},
+			{
+				Name: "Ünsal Ünlü",
+				ID:   "UCzJMy0X4vYivbZHkNccpPhQ",
+				Handler: func(videos []YouTubeVideo) []YouTubeVideo {
+					// Get videos from last 48 hours, general news content
+					var selected []YouTubeVideo
+					for _, v := range videos {
+						if time.Since(v.PublishedAt) > 48*time.Hour {
+							continue
+						}
+						selected = append(selected, v)
+					}
+					return selected
+				},
+			},
 		}
 
 		var wg sync.WaitGroup
