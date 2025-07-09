@@ -8,7 +8,7 @@ Nevsin is a YouTube news aggregator CLI tool written in Go that fetches, transcr
 
 ## Core Architecture
 
-- **Single-file CLI application** (`main.go`) using cobra for command structure
+- **Modular CLI application** with main function in `cmd/nevsin/main.go` using cobra for command structure
 - **Convention over configuration**: No flags, pure file-based operations in working directory
 - **Pipeline-based processing**: fetch-videos → fetch-subtitles → extract-stories → generate-report
 - **Concurrent processing** with goroutines for video fetching and transcript extraction
@@ -52,7 +52,7 @@ YouTube API → videos/*.json → transcripts/*.txt → summaries/*.md → repor
 ### Build and Run
 ```bash
 # Build the application
-go build
+go build ./cmd/nevsin
 
 # Run full pipeline
 ./nevsin run

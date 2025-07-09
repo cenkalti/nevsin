@@ -1,4 +1,4 @@
-package main
+package nevsin
 
 import (
 	"bytes"
@@ -15,58 +15,19 @@ import (
 	"sync"
 	"time"
 
-	"github.com/joho/godotenv"
 	"github.com/spf13/cobra"
 )
 
-// Global config instance holds all environment variables
-var config struct {
+// Config holds all environment variables
+var Config struct {
 	YouTubeAPIKey         string
 	AzureOpenAIEndpoint   string
 	AzureOpenAIAPIKey     string
 	AzureOpenAIDeployment string
 }
 
-func getenv(key string) string {
-	value := os.Getenv(key)
-	if value == "" {
-		log.Fatalf("Missing required environment variable: %s", key)
-	}
-	return value
-}
-
-func main() {
-	// Load .env file
-	err := godotenv.Load()
-	if err != nil {
-		log.Fatal("Error loading .env file")
-	}
-
-	// Load environment variables into config
-	config.YouTubeAPIKey = getenv("YOUTUBE_API_KEY")
-	config.AzureOpenAIEndpoint = getenv("AZURE_OPENAI_ENDPOINT")
-	config.AzureOpenAIAPIKey = getenv("AZURE_OPENAI_API_KEY")
-	config.AzureOpenAIDeployment = getenv("AZURE_OPENAI_DEPLOYMENT")
-
-	rootCmd := &cobra.Command{
-		Use:   "nevsin",
-		Short: "Multi-Language YouTube News Aggregator CLI",
-	}
-
-	rootCmd.AddCommand(fetchVideosCmd)
-	rootCmd.AddCommand(fetchSubtitlesCmd)
-	rootCmd.AddCommand(extractStoriesCmd)
-	rootCmd.AddCommand(generateReportCmd)
-	rootCmd.AddCommand(runCmd)
-	rootCmd.AddCommand(cleanCmd)
-
-	if err := rootCmd.Execute(); err != nil {
-		log.Fatal(err)
-	}
-}
-
-// fetchVideosCmd: Reads channels.txt, saves videos/videoID.json
-var fetchVideosCmd = &cobra.Command{
+// FetchVideosCmd: Reads channels.txt, saves videos/videoID.json
+var FetchVideosCmd = &cobra.Command{
 	Use:   "fetch-videos",
 	Short: "Fetch recent videos from channels",
 	Run: func(cmd *cobra.Command, args []string) {
@@ -115,7 +76,7 @@ type YouTubeVideo struct {
 
 // fetchYouTubeVideos fetches recent videos for a channel using the YouTube Data API v3
 func fetchYouTubeVideos(channelID string) ([]YouTubeVideo, error) {
-	apiKey := config.YouTubeAPIKey
+	apiKey := Config.YouTubeAPIKey
 
 	// Fetch the latest 10 videos from the channel
 	url := fmt.Sprintf(
@@ -186,9 +147,9 @@ func fetchYouTubeVideos(channelID string) ([]YouTubeVideo, error) {
 
 // analyzeThumbnail analyzes a thumbnail with Azure OpenAI GPT-4 Vision
 func analyzeThumbnail(thumbnailURL string) (string, error) {
-	endpoint := config.AzureOpenAIEndpoint
-	apiKey := config.AzureOpenAIAPIKey
-	deployment := config.AzureOpenAIDeployment
+	endpoint := Config.AzureOpenAIEndpoint
+	apiKey := Config.AzureOpenAIAPIKey
+	deployment := Config.AzureOpenAIDeployment
 
 	// Download the thumbnail image
 	resp, err := http.Get(thumbnailURL)
@@ -284,8 +245,8 @@ func saveVideoMetadata(video YouTubeVideo) {
 	_ = os.WriteFile(path, data, 0644)
 }
 
-// fetchSubtitlesCmd: Reads videos/, saves transcripts/videoID.txt
-var fetchSubtitlesCmd = &cobra.Command{
+// FetchSubtitlesCmd: Reads videos/, saves transcripts/videoID.txt
+var FetchSubtitlesCmd = &cobra.Command{
 	Use:   "fetch-subtitles",
 	Short: "Extract transcripts from videos",
 	Run: func(cmd *cobra.Command, args []string) {
@@ -354,7 +315,7 @@ var fetchSubtitlesCmd = &cobra.Command{
 	},
 }
 
-var extractStoriesCmd = &cobra.Command{
+var ExtractStoriesCmd = &cobra.Command{
 	Use:   "extract-stories",
 	Short: "Summarize transcripts",
 	Run: func(cmd *cobra.Command, args []string) {
@@ -419,9 +380,9 @@ type NewsExtractionResponse struct {
 
 // summarizeTranscript extracts multiple news stories from Turkish transcript using Azure OpenAI
 func summarizeTranscript(transcript string) string {
-	endpoint := config.AzureOpenAIEndpoint
-	apiKey := config.AzureOpenAIAPIKey
-	deployment := config.AzureOpenAIDeployment
+	endpoint := Config.AzureOpenAIEndpoint
+	apiKey := Config.AzureOpenAIAPIKey
+	deployment := Config.AzureOpenAIDeployment
 
 	// Define JSON schema for structured output
 	schema := map[string]any{
@@ -545,7 +506,7 @@ func summarizeTranscript(transcript string) string {
 	return string(jsonData)
 }
 
-var generateReportCmd = &cobra.Command{
+var GenerateReportCmd = &cobra.Command{
 	Use:   "generate-report",
 	Short: "Generate final news report",
 	Run: func(cmd *cobra.Command, args []string) {
@@ -577,9 +538,9 @@ var generateReportCmd = &cobra.Command{
 
 // generateReport uses Azure OpenAI to merge and group news stories from multiple reporters
 func generateReport(summaries map[string]string) string {
-	endpoint := config.AzureOpenAIEndpoint
-	apiKey := config.AzureOpenAIAPIKey
-	deployment := config.AzureOpenAIDeployment
+	endpoint := Config.AzureOpenAIEndpoint
+	apiKey := Config.AzureOpenAIAPIKey
+	deployment := Config.AzureOpenAIDeployment
 
 	// Parse JSON summaries
 	var allStories []NewsStory
@@ -777,20 +738,20 @@ func formatFinalReport(stories []MergedNewsStory) string {
 	return report
 }
 
-var runCmd = &cobra.Command{
+var RunCmd = &cobra.Command{
 	Use:   "run",
 	Short: "Run the full pipeline: fetch-videos -> fetch-subtitles -> extract-stories -> generate-report",
 	Run: func(cmd *cobra.Command, args []string) {
 		log.Println("Running full pipeline...")
-		fetchVideosCmd.Run(cmd, args)
-		fetchSubtitlesCmd.Run(cmd, args)
-		extractStoriesCmd.Run(cmd, args)
-		generateReportCmd.Run(cmd, args)
+		FetchVideosCmd.Run(cmd, args)
+		FetchSubtitlesCmd.Run(cmd, args)
+		ExtractStoriesCmd.Run(cmd, args)
+		GenerateReportCmd.Run(cmd, args)
 		log.Println("Pipeline complete.")
 	},
 }
 
-var cleanCmd = &cobra.Command{
+var CleanCmd = &cobra.Command{
 	Use:   "clean",
 	Short: "Clean old videos, transcripts, summaries, and report",
 	Run: func(cmd *cobra.Command, args []string) {
