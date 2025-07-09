@@ -40,7 +40,7 @@ var ExtractStoriesCmd = &cobra.Command{
 		}
 		var wg sync.WaitGroup
 		for _, file := range files {
-			if file.IsDir() || !strings.HasSuffix(file.Name(), ".txt") {
+			if file.IsDir() || !strings.HasSuffix(file.Name(), ".srt") {
 				continue
 			}
 			wg.Add(1)
@@ -53,8 +53,8 @@ var ExtractStoriesCmd = &cobra.Command{
 				}
 				// Call Azure OpenAI to summarize subtitle
 				summary := summarizeSubtitle(string(data))
-				// Change extension from .txt to .json for JSON output
-				baseFilename := strings.TrimSuffix(filename, ".txt")
+				// Change extension from .srt to .json for JSON output
+				baseFilename := strings.TrimSuffix(filename, ".srt")
 				outPath := filepath.Join("stories", baseFilename+".json")
 				if err := os.WriteFile(outPath, []byte(summary), 0644); err != nil {
 					log.Printf("Failed to write summary file: %v", err)

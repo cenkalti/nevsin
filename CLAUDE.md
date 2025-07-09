@@ -33,8 +33,8 @@ Nevsin is a YouTube news aggregator CLI tool written in Go that fetches, transcr
 │   ├── abc123.json            # Individual video metadata
 │   └── def456.json
 ├── subtitles/
-│   ├── abc123.txt             # Individual subtitles
-│   └── def456.txt
+│   ├── abc123.srt             # Individual subtitles
+│   └── def456.srt
 ├── stories/
 │   ├── abc123.json            # Individual stories (JSON format)
 │   └── def456.json
@@ -44,7 +44,7 @@ Nevsin is a YouTube news aggregator CLI tool written in Go that fetches, transcr
 ### Data Flow
 
 ```
-YouTube API → videos/*.json → subtitles/*.txt → stories/*.json → report.md
+YouTube API → videos/*.json → subtitles/*.srt → stories/*.json → report.md
 ```
 
 ## Development Commands

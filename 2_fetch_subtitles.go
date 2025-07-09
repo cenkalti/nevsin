@@ -12,7 +12,7 @@ import (
 	"github.com/spf13/cobra"
 )
 
-// FetchSubtitlesCmd: Reads videos/, saves subtitles/videoID.txt
+// FetchSubtitlesCmd: Reads videos/, saves subtitles/videoID.srt
 var FetchSubtitlesCmd = &cobra.Command{
 	Use:   "fetch-subtitles",
 	Short: "Extract subtitles from videos",
@@ -40,7 +40,7 @@ var FetchSubtitlesCmd = &cobra.Command{
 					log.Printf("Failed to parse %s: %v", filename, err)
 					return
 				}
-				outPath := filepath.Join("subtitles", video.ID+".txt")
+				outPath := filepath.Join("subtitles", video.ID+".srt")
 				cmdArgs := []string{
 					"--write-auto-subs",
 					"--sub-lang", "tr",
@@ -66,7 +66,7 @@ var FetchSubtitlesCmd = &cobra.Command{
 					if strings.HasPrefix(f.Name(), video.ID) && strings.HasSuffix(f.Name(), ".srt") {
 						srtPath := filepath.Join(tmpDir, f.Name())
 						srtData, _ := os.ReadFile(srtPath)
-						// Save as .txt (could convert to plain text here)
+						// Save as .srt
 						if err := os.WriteFile(outPath, srtData, 0644); err != nil {
 							log.Printf("Failed to write subtitle file: %v", err)
 						}
