@@ -64,9 +64,9 @@ var runCmd = &cobra.Command{
 
 var cleanCmd = &cobra.Command{
 	Use:   "clean",
-	Short: "Clean old videos, transcripts, stories, and report",
+	Short: "Clean old videos, subtitles, stories, and report",
 	Run: func(cmd *cobra.Command, args []string) {
-		dirs := []string{"videos", "transcripts", "stories"}
+		dirs := []string{"videos", "subtitles", "stories"}
 		for _, dir := range dirs {
 			files, err := os.ReadDir(dir)
 			if err != nil {
@@ -91,6 +91,6 @@ var cleanCmd = &cobra.Command{
 			}
 		}
 
-		log.Println("Cleaned videos, transcripts, stories directories and report.md.")
+		log.Println("Cleaned videos, subtitles, stories directories and report.md.")
 	},
 }

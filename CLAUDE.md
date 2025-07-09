@@ -18,7 +18,7 @@ Nevsin is a YouTube news aggregator CLI tool written in Go that fetches, transcr
 ### Key Components
 
 - `fetchVideosCmd`: Retrieves videos from hardcoded channels using custom handlers
-- `fetchSubtitlesCmd`: Downloads transcripts using yt-dlp
+- `fetchSubtitlesCmd`: Downloads subtitles using yt-dlp
 - `extractStoriesCmd`: Creates AI summaries with structured JSON responses
 - `generateReportCmd`: Compiles final markdown reports with AI-sorted importance
 - `runCmd`: Executes full pipeline
@@ -32,8 +32,8 @@ Nevsin is a YouTube news aggregator CLI tool written in Go that fetches, transcr
 ├── videos/
 │   ├── abc123.json            # Individual video metadata
 │   └── def456.json
-├── transcripts/
-│   ├── abc123.txt             # Individual transcripts
+├── subtitles/
+│   ├── abc123.txt             # Individual subtitles
 │   └── def456.txt
 ├── stories/
 │   ├── abc123.json            # Individual stories (JSON format)
@@ -44,7 +44,7 @@ Nevsin is a YouTube news aggregator CLI tool written in Go that fetches, transcr
 ### Data Flow
 
 ```
-YouTube API → videos/*.json → transcripts/*.txt → stories/*.json → report.md
+YouTube API → videos/*.json → subtitles/*.txt → stories/*.json → report.md
 ```
 
 ## Development Commands
@@ -83,7 +83,7 @@ All environment variables are checked at startup with fail-fast error handling.
 
 ## External Dependencies
 
-- **yt-dlp**: Python tool for transcript extraction (`pip install yt-dlp`)
+- **yt-dlp**: Python tool for subtitle extraction (`pip install yt-dlp`)
 - **Go 1.24.2**: Minimum Go version
 - **YouTube Data API v3**: For video metadata
 - **Azure OpenAI GPT-4**: For thumbnail analysis and summarization

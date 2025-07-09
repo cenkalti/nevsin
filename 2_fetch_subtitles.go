@@ -12,10 +12,10 @@ import (
 	"github.com/spf13/cobra"
 )
 
-// FetchSubtitlesCmd: Reads videos/, saves transcripts/videoID.txt
+// FetchSubtitlesCmd: Reads videos/, saves subtitles/videoID.txt
 var FetchSubtitlesCmd = &cobra.Command{
 	Use:   "fetch-subtitles",
-	Short: "Extract transcripts from videos",
+	Short: "Extract subtitles from videos",
 	Run: func(cmd *cobra.Command, args []string) {
 		files, err := os.ReadDir("videos")
 		if err != nil {
@@ -40,7 +40,7 @@ var FetchSubtitlesCmd = &cobra.Command{
 					log.Printf("Failed to parse %s: %v", filename, err)
 					return
 				}
-				outPath := filepath.Join("transcripts", video.ID+".txt")
+				outPath := filepath.Join("subtitles", video.ID+".txt")
 				cmdArgs := []string{
 					"--write-auto-subs",
 					"--sub-lang", "tr",
@@ -49,7 +49,7 @@ var FetchSubtitlesCmd = &cobra.Command{
 					"--output", "%(id)s.%(ext)s",
 					video.URL,
 				}
-				tmpDir := "transcripts_tmp"
+				tmpDir := "subtitles_tmp"
 				if err := os.MkdirAll(tmpDir, 0755); err != nil {
 					log.Printf("Failed to create temp directory: %v", err)
 					return
@@ -68,7 +68,7 @@ var FetchSubtitlesCmd = &cobra.Command{
 						srtData, _ := os.ReadFile(srtPath)
 						// Save as .txt (could convert to plain text here)
 						if err := os.WriteFile(outPath, srtData, 0644); err != nil {
-							log.Printf("Failed to write transcript file: %v", err)
+							log.Printf("Failed to write subtitle file: %v", err)
 						}
 						if err := os.Remove(srtPath); err != nil {
 							log.Printf("Failed to remove temp file: %v", err)

@@ -16,7 +16,7 @@ import (
 	"github.com/spf13/cobra"
 )
 
-// NewsStory represents a single news story extracted from transcript
+// NewsStory represents a single news story extracted from subtitle
 type NewsStory struct {
 	Title     string `json:"title"`
 	Summary   string `json:"summary"`
@@ -31,11 +31,11 @@ type NewsExtractionResponse struct {
 
 var ExtractStoriesCmd = &cobra.Command{
 	Use:   "extract-stories",
-	Short: "Summarize transcripts",
+	Short: "Summarize subtitles",
 	Run: func(cmd *cobra.Command, args []string) {
-		files, err := os.ReadDir("transcripts")
+		files, err := os.ReadDir("subtitles")
 		if err != nil {
-			log.Printf("Failed to read transcripts directory: %v", err)
+			log.Printf("Failed to read subtitles directory: %v", err)
 			return
 		}
 		var wg sync.WaitGroup
@@ -46,13 +46,13 @@ var ExtractStoriesCmd = &cobra.Command{
 			wg.Add(1)
 			go func(filename string) {
 				defer wg.Done()
-				data, err := os.ReadFile(filepath.Join("transcripts", filename))
+				data, err := os.ReadFile(filepath.Join("subtitles", filename))
 				if err != nil {
 					log.Printf("Failed to read %s: %v", filename, err)
 					return
 				}
-				// Call Azure OpenAI to summarize transcript
-				summary := summarizeTranscript(string(data))
+				// Call Azure OpenAI to summarize subtitle
+				summary := summarizeSubtitle(string(data))
 				// Change extension from .txt to .json for JSON output
 				baseFilename := strings.TrimSuffix(filename, ".txt")
 				outPath := filepath.Join("stories", baseFilename+".json")
@@ -66,8 +66,8 @@ var ExtractStoriesCmd = &cobra.Command{
 	},
 }
 
-// summarizeTranscript extracts multiple news stories from Turkish transcript using Azure OpenAI
-func summarizeTranscript(transcript string) string {
+// summarizeSubtitle extracts multiple news stories from Turkish subtitle using Azure OpenAI
+func summarizeSubtitle(subtitle string) string {
 	endpoint := Config.AzureOpenAIEndpoint
 	apiKey := Config.AzureOpenAIAPIKey
 	deployment := Config.AzureOpenAIDeployment
@@ -110,11 +110,11 @@ func summarizeTranscript(transcript string) string {
 		"messages": []map[string]any{
 			{
 				"role":    "system",
-				"content": "Sen Türkçe haber metinlerini analiz eden bir uzmansın. Verilen transkriptten birden fazla haber hikayesini çıkarman gerekiyor. Her haber için başlık, özet ve zaman damgalarını belirle. Sadece gerçek haber içeriğini çıkar, reklam veya genel konuşmaları dahil etme.",
+				"content": "Sen Türkçe haber metinlerini analiz eden bir uzmansın. Verilen altyazıdan birden fazla haber hikayesini çıkarman gerekiyor. Her haber için başlık, özet ve zaman damgalarını belirle. Sadece gerçek haber içeriğini çıkar, reklam veya genel konuşmaları dahil etme.",
 			},
 			{
 				"role":    "user",
-				"content": fmt.Sprintf("Bu transkriptten tüm haber hikayelerini çıkar ve her biri için başlık, detaylı özet ve zaman aralığını belirle:\n\n%s", transcript),
+				"content": fmt.Sprintf("Bu altyazıdan tüm haber hikayelerini çıkar ve her biri için başlık, detaylı özet ve zaman aralığını belirle:\n\n%s", subtitle),
 			},
 		},
 		"max_tokens":  4000,
