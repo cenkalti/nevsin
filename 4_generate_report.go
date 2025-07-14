@@ -1,12 +1,9 @@
 package nevsin
 
 import (
-	"bytes"
 	"encoding/json"
 	"fmt"
-	"io"
 	"log"
-	"net/http"
 	"os"
 	"path/filepath"
 	"strings"
@@ -15,12 +12,21 @@ import (
 	"github.com/spf13/cobra"
 )
 
+// VideoSource represents a video source for a news story
+type VideoSource struct {
+	Reporter  string
+	VideoID   string
+	StartTime string
+	EndTime   string
+}
+
 // MergedNewsStory represents a news story merged from multiple sources
 type MergedNewsStory struct {
-	Title     string   `json:"title"`
-	Summary   string   `json:"summary"`
-	Reporters []string `json:"reporters"`
-	Priority  int      `json:"priority"`
+	Title        string        `json:"title"`
+	Summary      string        `json:"summary"`
+	Reporters    []string      `json:"reporters"`
+	Priority     int           `json:"priority"`
+	VideoSources []VideoSource `json:"-"` // Not included in JSON schema
 }
 
 // ReportGenerationResponse represents the structured response from Azure OpenAI for report generation
@@ -64,8 +70,9 @@ func generateReport(stories map[string]string) string {
 	apiKey := Config.AzureOpenAIAPIKey
 	deployment := Config.AzureOpenAIDeployment
 
-	// Parse JSON stories
+	// Parse JSON stories and collect video sources
 	var allStories []NewsStory
+	videoSources := make(map[string][]VideoSource) // Map story title to video sources
 	for filename, jsonContent := range stories {
 		// Parse JSON content
 		var newsResponse NewsExtractionResponse
@@ -74,8 +81,18 @@ func generateReport(stories map[string]string) string {
 			continue
 		}
 
-		// Add stories to the collection
-		allStories = append(allStories, newsResponse.Stories...)
+		// Add stories to the collection and collect video sources
+		for _, story := range newsResponse.Stories {
+			allStories = append(allStories, story)
+			// Track video source for this story
+			videoSource := VideoSource{
+				Reporter:  story.Reporter,
+				VideoID:   story.VideoID,
+				StartTime: story.StartTime,
+				EndTime:   story.EndTime,
+			}
+			videoSources[story.Title] = append(videoSources[story.Title], videoSource)
+		}
 	}
 
 	if len(allStories) == 0 {
@@ -169,29 +186,11 @@ Dikkat edilecek noktalar:
 		return "# Bugün Ne Oldu?\n\nHata: İstek hazırlanamadı\n"
 	}
 
-	// Make request to Azure OpenAI
-	url := fmt.Sprintf("%s/openai/deployments/%s/chat/completions?api-version=2024-08-01-preview", endpoint, deployment)
-	req, err := http.NewRequest("POST", url, bytes.NewBuffer(jsonBody))
-	if err != nil {
-		log.Printf("Failed to create request: %v", err)
-		return "# Bugün Ne Oldu?\n\nHata: HTTP isteği oluşturulamadı\n"
-	}
-
-	req.Header.Set("Content-Type", "application/json")
-	req.Header.Set("api-key", apiKey)
-
-	client := &http.Client{Timeout: 90 * time.Second}
-	resp, err := client.Do(req)
+	// Make request to Azure OpenAI with retry logic
+	responseBody, err := makeOpenAIRequest(jsonBody, endpoint, apiKey, deployment)
 	if err != nil {
 		log.Printf("Failed to call Azure OpenAI: %v", err)
 		return "# Bugün Ne Oldu?\n\nHata: Azure OpenAI çağrısı başarısız\n"
-	}
-	defer resp.Body.Close()
-
-	if resp.StatusCode != http.StatusOK {
-		body, _ := io.ReadAll(resp.Body)
-		log.Printf("Azure OpenAI error (status %d): %s", resp.StatusCode, string(body))
-		return "# Bugün Ne Oldu?\n\nHata: Azure OpenAI API hatası\n"
 	}
 
 	var result struct {
@@ -202,7 +201,7 @@ Dikkat edilecek noktalar:
 		} `json:"choices"`
 	}
 
-	if err := json.NewDecoder(resp.Body).Decode(&result); err != nil {
+	if err := json.Unmarshal(responseBody, &result); err != nil {
 		log.Printf("Failed to decode response: %v", err)
 		return "# Bugün Ne Oldu?\n\nHata: Yanıt çözümlenemedi\n"
 	}
@@ -217,6 +216,21 @@ Dikkat edilecek noktalar:
 	if err := json.Unmarshal([]byte(result.Choices[0].Message.Content), &reportResponse); err != nil {
 		log.Printf("Failed to parse structured response: %v", err)
 		return "# Bugün Ne Oldu?\n\nHata: Yapılandırılmış yanıt çözümlenemedi\n"
+	}
+
+	// Add video sources to merged stories
+	for i := range reportResponse.Stories {
+		story := &reportResponse.Stories[i]
+		// Find video sources for this story's reporters
+		for _, reporter := range story.Reporters {
+			for _, sources := range videoSources {
+				for _, source := range sources {
+					if source.Reporter == reporter {
+						story.VideoSources = append(story.VideoSources, source)
+					}
+				}
+			}
+		}
 	}
 
 	// Generate final markdown report
@@ -245,11 +259,26 @@ func formatFinalReport(stories []MergedNewsStory) string {
 		report += fmt.Sprintf("## %d. %s\n\n", i+1, story.Title)
 		report += fmt.Sprintf("%s\n\n", story.Summary)
 
-		// Add reporter attribution
+		// Add reporter attribution with video links
 		if len(story.Reporters) > 0 {
 			report += "**Bu haberi kapsayan muhabirler:**\n"
 			for _, reporter := range story.Reporters {
-				report += fmt.Sprintf("- %s\n", reporter)
+				// Find video sources for this reporter
+				var reporterSources []VideoSource
+				for _, source := range story.VideoSources {
+					if source.Reporter == reporter {
+						reporterSources = append(reporterSources, source)
+					}
+				}
+				
+				if len(reporterSources) > 0 {
+					// Use the first video source for this reporter
+					source := reporterSources[0]
+					videoURL := formatVideoURL(source.VideoID, source.StartTime)
+					report += fmt.Sprintf("- [%s](%s) (⏱️ %s-%s)\n", reporter, videoURL, source.StartTime, source.EndTime)
+				} else {
+					report += fmt.Sprintf("- %s\n", reporter)
+				}
 			}
 			report += "\n"
 		}
@@ -258,4 +287,36 @@ func formatFinalReport(stories []MergedNewsStory) string {
 	}
 
 	return report
+}
+
+// formatVideoURL creates a YouTube URL with timestamp from video ID and start time
+func formatVideoURL(videoID, startTime string) string {
+	// Convert MM:SS format to seconds
+	timeSeconds := convertTimeToSeconds(startTime)
+	if timeSeconds > 0 {
+		return fmt.Sprintf("https://www.youtube.com/watch?v=%s&t=%ds", videoID, timeSeconds)
+	}
+	return fmt.Sprintf("https://www.youtube.com/watch?v=%s", videoID)
+}
+
+// convertTimeToSeconds converts MM:SS format to total seconds
+func convertTimeToSeconds(timeStr string) int {
+	if timeStr == "" {
+		return 0
+	}
+	
+	parts := strings.Split(timeStr, ":")
+	if len(parts) != 2 {
+		return 0
+	}
+	
+	var minutes, seconds int
+	if _, err := fmt.Sscanf(parts[0], "%d", &minutes); err != nil {
+		return 0
+	}
+	if _, err := fmt.Sscanf(parts[1], "%d", &seconds); err != nil {
+		return 0
+	}
+	
+	return minutes*60 + seconds
 }
