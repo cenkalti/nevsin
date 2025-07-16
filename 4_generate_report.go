@@ -19,6 +19,7 @@ type VideoSource struct {
 	VideoID   string
 	StartTime string
 	EndTime   string
+	StoryURL  string
 }
 
 // MergedNewsStory represents a news story merged from multiple sources
@@ -91,6 +92,7 @@ func generateReport(stories map[string]string) string {
 				VideoID:   story.VideoID,
 				StartTime: story.StartTime,
 				EndTime:   story.EndTime,
+				StoryURL:  story.StoryURL,
 			}
 			videoSources[story.Title] = append(videoSources[story.Title], videoSource)
 		}
@@ -263,8 +265,7 @@ func formatFinalReport(stories []MergedNewsStory) string {
 				if len(reporterSources) > 0 {
 					// Use the first video source for this reporter
 					source := reporterSources[0]
-					videoURL := formatVideoURL(source.VideoID, source.StartTime)
-					report += fmt.Sprintf("- [%s](%s) (⏱️ %s-%s)\n", reporter, videoURL, source.StartTime, source.EndTime)
+					report += fmt.Sprintf("- [%s](%s) (⏱️ %s-%s)\n", reporter, source.StoryURL, source.StartTime, source.EndTime)
 				} else {
 					report += fmt.Sprintf("- %s\n", reporter)
 				}
@@ -278,34 +279,3 @@ func formatFinalReport(stories []MergedNewsStory) string {
 	return report
 }
 
-// formatVideoURL creates a YouTube URL with timestamp from video ID and start time
-func formatVideoURL(videoID, startTime string) string {
-	// Convert MM:SS format to seconds
-	timeSeconds := convertTimeToSeconds(startTime)
-	if timeSeconds > 0 {
-		return fmt.Sprintf("https://www.youtube.com/watch?v=%s&t=%ds", videoID, timeSeconds)
-	}
-	return fmt.Sprintf("https://www.youtube.com/watch?v=%s", videoID)
-}
-
-// convertTimeToSeconds converts MM:SS format to total seconds
-func convertTimeToSeconds(timeStr string) int {
-	if timeStr == "" {
-		return 0
-	}
-	
-	parts := strings.Split(timeStr, ":")
-	if len(parts) != 2 {
-		return 0
-	}
-	
-	var minutes, seconds int
-	if _, err := fmt.Sscanf(parts[0], "%d", &minutes); err != nil {
-		return 0
-	}
-	if _, err := fmt.Sscanf(parts[1], "%d", &seconds); err != nil {
-		return 0
-	}
-	
-	return minutes*60 + seconds
-}
