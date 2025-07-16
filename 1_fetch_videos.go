@@ -14,6 +14,7 @@ import (
 	"sync"
 	"time"
 
+	"github.com/sosodev/duration"
 	"github.com/spf13/cobra"
 )
 
@@ -112,10 +113,10 @@ func fetchYouTubeVideos(channelID string) ([]YouTubeVideo, error) {
 		return []YouTubeVideo{}, nil
 	}
 
-	// Fetch detailed video information including live broadcast status
+	// Fetch detailed video information including live broadcast status and content details
 	videoIDsStr := strings.Join(videoIDs, ",")
 	videosURL := fmt.Sprintf(
-		"https://www.googleapis.com/youtube/v3/videos?key=%s&id=%s&part=snippet,liveStreamingDetails",
+		"https://www.googleapis.com/youtube/v3/videos?key=%s&id=%s&part=snippet,liveStreamingDetails,contentDetails",
 		apiKey, videoIDsStr,
 	)
 
@@ -146,6 +147,9 @@ func fetchYouTubeVideos(channelID string) ([]YouTubeVideo, error) {
 					} `json:"default"`
 				} `json:"thumbnails"`
 			} `json:"snippet"`
+			ContentDetails struct {
+				Duration string `json:"duration"`
+			} `json:"contentDetails"`
 			LiveStreamingDetails struct {
 				ScheduledStartTime string `json:"scheduledStartTime"`
 				ActualStartTime    string `json:"actualStartTime"`
@@ -164,6 +168,18 @@ func fetchYouTubeVideos(channelID string) ([]YouTubeVideo, error) {
 		if item.LiveStreamingDetails.ScheduledStartTime != "" && item.LiveStreamingDetails.ActualStartTime == "" {
 			log.Printf("Skipping premiere video: %s", item.Snippet.Title)
 			continue
+		}
+
+		// Skip videos shorter than 5 minutes (300 seconds)
+		if item.ContentDetails.Duration != "" {
+			dur, err := duration.Parse(item.ContentDetails.Duration)
+			if err == nil {
+				durationSeconds := int(dur.ToTimeDuration().Seconds())
+				if durationSeconds < 300 {
+					log.Printf("Skipping short video (%ds): %s", durationSeconds, item.Snippet.Title)
+					continue
+				}
+			}
 		}
 
 		publishedAt, err := time.Parse(time.RFC3339, item.Snippet.PublishedAt)

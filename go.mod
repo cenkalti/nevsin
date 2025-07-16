@@ -4,6 +4,7 @@ go 1.24.2
 
 require (
 	github.com/joho/godotenv v1.5.1
+	github.com/sosodev/duration v1.3.1
 	github.com/spf13/cobra v1.9.1
 )
 
