@@ -63,7 +63,7 @@ func fetchYouTubeVideos(channelID string) ([]YouTubeVideo, error) {
 
 	// First, fetch the latest 10 videos from the channel
 	searchURL := fmt.Sprintf(
-		"https://www.googleapis.com/youtube/v3/search?key=%s&channelId=%s&part=snippet,id&order=date&maxResults=10&type=video",
+		"https://www.googleapis.com/youtube/v3/search?key=%s&channelId=%s&part=snippet,id&order=date&maxResults=20&type=video",
 		apiKey, channelID,
 	)
 
