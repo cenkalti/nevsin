@@ -67,7 +67,7 @@ var ExtractStoriesCmd = &cobra.Command{
 				}
 
 				// Call Azure OpenAI to extract stories from subtitle
-				newsResponse, err := extractSubtitles(string(data), videoID, video.ChannelID)
+				newsResponse, err := extractStories(string(data), videoID, video.ChannelID)
 				if err != nil {
 					log.Printf("Failed to extract stories from subtitle for %s: %v", videoID, err)
 					return
@@ -122,17 +122,17 @@ func parseRetryAfter(retryAfter string) time.Duration {
 	if retryAfter == "" {
 		return 0
 	}
-	
+
 	// Try to parse as seconds (numeric value)
 	if seconds, err := strconv.Atoi(retryAfter); err == nil {
 		return time.Duration(seconds) * time.Second
 	}
-	
+
 	// Try to parse as HTTP date format
 	if retryTime, err := time.Parse(time.RFC1123, retryAfter); err == nil {
 		return time.Until(retryTime)
 	}
-	
+
 	return 0
 }
 
@@ -175,17 +175,17 @@ func makeOpenAIRequest(requestBody []byte, endpoint, apiKey, deployment string) 
 			// Check for Retry-After header
 			retryAfter := resp.Header.Get("Retry-After")
 			retryDelay := parseRetryAfter(retryAfter)
-			
+
 			// If no Retry-After header or invalid, use exponential backoff
 			if retryDelay <= 0 {
 				retryDelay = baseDelay * time.Duration(1<<attempt) // 5s, 10s, 20s, 40s, 80s
 			}
-			
+
 			// Cap the delay to prevent extremely long waits
 			if retryDelay > maxDelay {
 				retryDelay = maxDelay
 			}
-			
+
 			log.Printf("Rate limit hit (attempt %d/%d), retrying in %v (retry-after: %s)...", attempt+1, maxRetries+1, retryDelay, retryAfter)
 			time.Sleep(retryDelay)
 			continue
@@ -204,7 +204,7 @@ func makeOpenAIRequest(requestBody []byte, endpoint, apiKey, deployment string) 
 	return nil, fmt.Errorf("unexpected error in retry loop")
 }
 
-func extractSubtitles(subtitle, videoID, channelID string) (NewsExtractionResponse, error) {
+func extractStories(subtitle, videoID, channelID string) (NewsExtractionResponse, error) {
 	endpoint := Config.AzureOpenAIEndpoint
 	apiKey := Config.AzureOpenAIAPIKey
 	deployment := Config.AzureOpenAIDeployment
