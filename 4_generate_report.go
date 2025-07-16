@@ -9,6 +9,7 @@ import (
 	"strings"
 	"time"
 
+	"github.com/invopop/jsonschema"
 	"github.com/spf13/cobra"
 )
 
@@ -22,10 +23,10 @@ type VideoSource struct {
 
 // MergedNewsStory represents a news story merged from multiple sources
 type MergedNewsStory struct {
-	Title        string        `json:"title"`
-	Summary      string        `json:"summary"`
-	Reporters    []string      `json:"reporters"`
-	Priority     int           `json:"priority"`
+	Title        string        `json:"title" jsonschema:"description=Birleştirilmiş haberin başlığı"`
+	Summary      string        `json:"summary" jsonschema:"description=Tüm kaynaklardan birleştirilmiş detaylı haber özeti"`
+	Reporters    []string      `json:"reporters" jsonschema:"description=Bu haberi kapsayan muhabirlerin listesi"`
+	Priority     int           `json:"priority" jsonschema:"description=Haberin önem derecesi (1=en önemli, 10=en az önemli)"`
 	VideoSources []VideoSource `json:"-"` // Not included in JSON schema
 }
 
@@ -106,41 +107,9 @@ func generateReport(stories map[string]string) string {
 		return "# Bugün Ne Oldu?\n\nHata: Haber verilerini hazırlarken hata oluştu\n"
 	}
 
-	// Define JSON schema for structured output
-	schema := map[string]any{
-		"type": "object",
-		"properties": map[string]any{
-			"stories": map[string]any{
-				"type": "array",
-				"items": map[string]any{
-					"type": "object",
-					"properties": map[string]any{
-						"title": map[string]any{
-							"type":        "string",
-							"description": "Birleştirilmiş haberin başlığı",
-						},
-						"summary": map[string]any{
-							"type":        "string",
-							"description": "Tüm kaynaklardan birleştirilmiş detaylı haber özeti",
-						},
-						"reporters": map[string]any{
-							"type": "array",
-							"items": map[string]any{
-								"type": "string",
-							},
-							"description": "Bu haberi kapsayan muhabirlerin listesi",
-						},
-						"priority": map[string]any{
-							"type":        "integer",
-							"description": "Haberin önem derecesi (1=en önemli, 10=en az önemli)",
-						},
-					},
-					"required": []string{"title", "summary", "reporters", "priority"},
-				},
-			},
-		},
-		"required": []string{"stories"},
-	}
+	// Generate JSON schema for structured output
+	reflector := jsonschema.Reflector{}
+	schema := reflector.Reflect(&ReportGenerationResponse{})
 
 	// Prepare the request payload
 	requestBody := map[string]any{

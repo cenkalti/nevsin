@@ -14,15 +14,16 @@ import (
 	"sync"
 	"time"
 
+	"github.com/invopop/jsonschema"
 	"github.com/spf13/cobra"
 )
 
 // NewsStory represents a single news story extracted from subtitle
 type NewsStory struct {
-	Title     string `json:"title"`
-	Summary   string `json:"summary"`
-	StartTime string `json:"start_time"`
-	EndTime   string `json:"end_time"`
+	Title     string `json:"title" jsonschema:"description=Haberin başlığı"`
+	Summary   string `json:"summary" jsonschema:"description=Haberin detaylı özeti"`
+	StartTime string `json:"start_time" jsonschema:"description=Haberin başlangıç zamanı (MM:SS formatında)"`
+	EndTime   string `json:"end_time" jsonschema:"description=Haberin bitiş zamanı (MM:SS formatında)"`
 	VideoID   string `json:"video_id"`
 	ChannelID string `json:"channel_id"`
 	Reporter  string `json:"reporter"`
@@ -209,38 +210,9 @@ func extractStories(subtitle, videoID, channelID string) (NewsExtractionResponse
 	apiKey := Config.AzureOpenAIAPIKey
 	deployment := Config.AzureOpenAIDeployment
 
-	// Define JSON schema for structured output
-	schema := map[string]any{
-		"type": "object",
-		"properties": map[string]any{
-			"stories": map[string]any{
-				"type": "array",
-				"items": map[string]any{
-					"type": "object",
-					"properties": map[string]any{
-						"title": map[string]any{
-							"type":        "string",
-							"description": "Haberin başlığı",
-						},
-						"summary": map[string]any{
-							"type":        "string",
-							"description": "Haberin detaylı özeti",
-						},
-						"start_time": map[string]any{
-							"type":        "string",
-							"description": "Haberin başlangıç zamanı (MM:SS formatında)",
-						},
-						"end_time": map[string]any{
-							"type":        "string",
-							"description": "Haberin bitiş zamanı (MM:SS formatında)",
-						},
-					},
-					"required": []string{"title", "summary", "start_time", "end_time"},
-				},
-			},
-		},
-		"required": []string{"stories"},
-	}
+	// Generate JSON schema for structured output
+	reflector := jsonschema.Reflector{}
+	schema := reflector.Reflect(&NewsExtractionResponse{})
 
 	// Prepare the request payload
 	requestBody := map[string]any{
