@@ -20,13 +20,16 @@ import (
 
 // NewsStory represents a single news story extracted from subtitle
 type NewsStory struct {
-	Title     string `json:"title" jsonschema:"description=Haberin başlığı"`
-	Summary   string `json:"summary" jsonschema:"description=Haberin detaylı özeti"`
-	StartTime string `json:"start_time" jsonschema:"description=Haberin başlangıç zamanı (MM:SS formatında)"`
-	EndTime   string `json:"end_time" jsonschema:"description=Haberin bitiş zamanı (MM:SS formatında)"`
-	VideoID   string `json:"video_id"`
-	ChannelID string `json:"channel_id"`
-	Reporter  string `json:"reporter"`
+	Title      string `json:"title" jsonschema:"description=Haberin başlığı"`
+	Summary    string `json:"summary" jsonschema:"description=Haberin detaylı özeti"`
+	StartIndex int    `json:"start_index" jsonschema:"description=Haberin başlangıç SRT index numarası"`
+	EndIndex   int    `json:"end_index" jsonschema:"description=Haberin bitiş SRT index numarası"`
+	StartTime  string `json:"start_time"`
+	EndTime    string `json:"end_time"`
+	StoryURL   string `json:"story_url"`
+	VideoID    string `json:"video_id"`
+	ChannelID  string `json:"channel_id"`
+	Reporter   string `json:"reporter"`
 }
 
 // NewsExtractionResponse represents the structured response from Azure OpenAI
@@ -34,10 +37,31 @@ type NewsExtractionResponse struct {
 	Stories []NewsStory `json:"stories"`
 }
 
+// SRTEntry represents a single subtitle entry from SRT file
+type SRTEntry struct {
+	Index     int
+	StartTime string
+	EndTime   string
+	Text      string
+}
+
 var ExtractStoriesCmd = &cobra.Command{
-	Use:   "extract-stories",
+	Use:   "extract-stories [video-id]",
 	Short: "Summarize subtitles",
+	Args:  cobra.MaximumNArgs(1),
 	Run: func(cmd *cobra.Command, args []string) {
+		// If video ID is provided, process single video
+		if len(args) > 0 {
+			videoID := args[0]
+			if err := processVideoStories(videoID); err != nil {
+				log.Printf("Failed to process video %s: %v", videoID, err)
+				return
+			}
+			log.Printf("Story extraction complete for video: %s", videoID)
+			return
+		}
+
+		// Otherwise, process all videos in batch
 		files, err := os.ReadDir("subtitles")
 		if err != nil {
 			log.Printf("Failed to read subtitles directory: %v", err)
@@ -51,45 +75,62 @@ var ExtractStoriesCmd = &cobra.Command{
 			wg.Add(1)
 			go func(filename string) {
 				defer wg.Done()
-				data, err := os.ReadFile(filepath.Join("subtitles", filename))
-				if err != nil {
-					log.Printf("Failed to read %s: %v", filename, err)
-					return
-				}
 				// Change extension from .srt to get video ID
-				baseFilename := strings.TrimSuffix(filename, ".srt")
-				videoID := baseFilename
-
-				// Read video video to get channel ID
-				video, err := readVideo(videoID)
-				if err != nil {
-					log.Printf("Failed to read video metadata for %s: %v", videoID, err)
-					return
-				}
-
-				// Call Azure OpenAI to extract stories from subtitle
-				newsResponse, err := extractStories(string(data), videoID, video.ChannelID)
-				if err != nil {
-					log.Printf("Failed to extract stories from subtitle for %s: %v", videoID, err)
-					return
-				}
-
-				// Marshal the response to JSON
-				jsonData, err := json.MarshalIndent(newsResponse, "", "  ")
-				if err != nil {
-					log.Printf("Failed to marshal news response for %s: %v", videoID, err)
-					return
-				}
-
-				outPath := filepath.Join("stories", baseFilename+".json")
-				if err := os.WriteFile(outPath, jsonData, 0644); err != nil {
-					log.Printf("Failed to write summary file: %v", err)
+				videoID := strings.TrimSuffix(filename, ".srt")
+				if err := processVideoStories(videoID); err != nil {
+					log.Printf("Failed to process video %s: %v", videoID, err)
 				}
 			}(file.Name())
 		}
 		wg.Wait()
 		log.Println("Story extraction complete.")
 	},
+}
+
+// processVideoStories processes a single video's subtitles to extract stories
+func processVideoStories(videoID string) error {
+	// Read subtitle file
+	subtitlePath := filepath.Join("subtitles", videoID+".srt")
+	data, err := os.ReadFile(subtitlePath)
+	if err != nil {
+		return fmt.Errorf("failed to read subtitle file: %w", err)
+	}
+
+	// Read video metadata to get channel ID
+	video, err := readVideo(videoID)
+	if err != nil {
+		return fmt.Errorf("failed to read video metadata: %w", err)
+	}
+
+	// Call Azure OpenAI to extract stories from subtitle
+	newsResponse, err := extractStories(string(data), videoID, video.ChannelID)
+	if err != nil {
+		return fmt.Errorf("failed to extract stories from subtitle: %w", err)
+	}
+
+	// Parse SRT file to get time information
+	srtEntries := parseSRTFile(string(data))
+
+	// Populate start and end times from SRT indices
+	populateTimesFromSRT(newsResponse.Stories, srtEntries)
+
+	// Marshal the response to JSON without HTML escaping
+	buffer := &bytes.Buffer{}
+	encoder := json.NewEncoder(buffer)
+	encoder.SetEscapeHTML(false)
+	encoder.SetIndent("", "  ")
+	if err := encoder.Encode(newsResponse); err != nil {
+		return fmt.Errorf("failed to marshal news response: %w", err)
+	}
+	jsonData := buffer.Bytes()
+
+	// Write to output file
+	outPath := filepath.Join("stories", videoID+".json")
+	if err := os.WriteFile(outPath, jsonData, 0644); err != nil {
+		return fmt.Errorf("failed to write story file: %w", err)
+	}
+
+	return nil
 }
 
 // readVideo reads video metadata from videos/videoID.json
@@ -211,19 +252,37 @@ func extractStories(subtitle, videoID, channelID string) (NewsExtractionResponse
 	deployment := Config.AzureOpenAIDeployment
 
 	// Generate JSON schema for structured output
-	reflector := jsonschema.Reflector{}
-	schema := reflector.Reflect(&NewsExtractionResponse{})
+	reflector := jsonschema.Reflector{
+		AllowAdditionalProperties: false,
+		DoNotReference:            true,
+	}
+	schemaObj := reflector.Reflect(&NewsExtractionResponse{})
+
+	// Ensure the schema has the correct type
+	if schemaObj.Type == "" {
+		schemaObj.Type = "object"
+	}
+
+	// Convert to map[string]any to ensure proper JSON serialization
+	schemaBytes, err := json.Marshal(schemaObj)
+	if err != nil {
+		return NewsExtractionResponse{}, fmt.Errorf("failed to marshal schema: %w", err)
+	}
+	var schema map[string]any
+	if err := json.Unmarshal(schemaBytes, &schema); err != nil {
+		return NewsExtractionResponse{}, fmt.Errorf("failed to unmarshal schema: %w", err)
+	}
 
 	// Prepare the request payload
 	requestBody := map[string]any{
 		"messages": []map[string]any{
 			{
 				"role":    "system",
-				"content": "Sen Türkçe haber metinlerini analiz eden bir uzmansın. Verilen altyazıdan birden fazla haber hikayesini çıkarman gerekiyor. Her haber için başlık, özet ve zaman damgalarını belirle. Sadece gerçek haber içeriğini çıkar, reklam veya genel konuşmaları dahil etme.",
+				"content": "Sen Türkçe haber metinlerini analiz eden bir uzmansın. Verilen altyazıdan birden fazla haber hikayesini çıkarman gerekiyor. Her haber için başlık, özet ve SRT altyazı index numaralarını belirle. Index numaraları altyazı dosyasındaki satır numaralarını temsil eder. Sadece gerçek haber içeriğini çıkar, reklam veya genel konuşmaları dahil etme.",
 			},
 			{
 				"role":    "user",
-				"content": fmt.Sprintf("Bu altyazıdan tüm haber hikayelerini çıkar ve her biri için başlık, detaylı özet ve zaman aralığını belirle:\n\n%s", subtitle),
+				"content": fmt.Sprintf("Bu altyazıdan tüm haber hikayelerini çıkar ve her biri için başlık, detaylı özet ve SRT altyazı index numaralarını belirle. Index numaraları altyazı dosyasındaki satır numaralarını temsil eder:\n\n%s", subtitle),
 			},
 		},
 		"max_tokens":  4000,
@@ -279,4 +338,126 @@ func extractStories(subtitle, videoID, channelID string) (NewsExtractionResponse
 	}
 
 	return newsResponse, nil
+}
+
+// parseSRTFile parses an SRT file and returns a map of index to SRTEntry
+func parseSRTFile(srtContent string) map[int]SRTEntry {
+	entries := make(map[int]SRTEntry)
+
+	// Use SplitSeq for more efficient iteration over split strings
+	for block := range strings.SplitSeq(strings.ReplaceAll(srtContent, "\r\n", "\n"), "\n\n") {
+		if strings.TrimSpace(block) == "" {
+			continue
+		}
+
+		lines := strings.Split(strings.TrimSpace(block), "\n")
+		if len(lines) < 3 {
+			continue
+		}
+
+		// Parse index
+		index, err := strconv.Atoi(strings.TrimSpace(lines[0]))
+		if err != nil {
+			continue
+		}
+
+		// Parse time range
+		timeRange := strings.TrimSpace(lines[1])
+		timeParts := strings.Split(timeRange, " --> ")
+		if len(timeParts) != 2 {
+			continue
+		}
+
+		startTime := convertSRTTimeToMMSS(timeParts[0])
+		endTime := convertSRTTimeToMMSS(timeParts[1])
+
+		// Join remaining lines as text
+		text := strings.Join(lines[2:], " ")
+
+		entries[index] = SRTEntry{
+			Index:     index,
+			StartTime: startTime,
+			EndTime:   endTime,
+			Text:      text,
+		}
+	}
+
+	return entries
+}
+
+// convertSRTTimeToMMSS converts SRT time format (HH:MM:SS,mmm) to MM:SS format
+func convertSRTTimeToMMSS(srtTime string) string {
+	// Remove milliseconds part
+	srtTime = strings.Split(srtTime, ",")[0]
+
+	// Parse HH:MM:SS
+	parts := strings.Split(srtTime, ":")
+	if len(parts) != 3 {
+		return "00:00"
+	}
+
+	hours, _ := strconv.Atoi(parts[0])
+	minutes, _ := strconv.Atoi(parts[1])
+	seconds, _ := strconv.Atoi(parts[2])
+
+	// Convert to total minutes and seconds
+	totalMinutes := hours*60 + minutes
+
+	return fmt.Sprintf("%02d:%02d", totalMinutes, seconds)
+}
+
+// populateTimesFromSRT populates StartTime and EndTime fields from SRT indices
+func populateTimesFromSRT(stories []NewsStory, srtEntries map[int]SRTEntry) {
+	for i := range stories {
+		story := &stories[i]
+
+		// Get start time from start index
+		if startEntry, exists := srtEntries[story.StartIndex]; exists {
+			story.StartTime = startEntry.StartTime
+		} else {
+			story.StartTime = "00:00"
+		}
+
+		// Get end time from end index
+		if endEntry, exists := srtEntries[story.EndIndex]; exists {
+			story.EndTime = endEntry.EndTime
+		} else {
+			story.EndTime = "00:00"
+		}
+
+		// Generate story URL with timestamp
+		story.StoryURL = generateStoryURL(story.VideoID, story.StartTime)
+	}
+}
+
+// generateStoryURL creates a YouTube URL with timestamp from video ID and start time
+func generateStoryURL(videoID, startTime string) string {
+	// Convert MM:SS format to seconds
+	timeSeconds := convertMMSSToSeconds(startTime)
+	if timeSeconds > 0 {
+		return fmt.Sprintf("https://www.youtube.com/watch?v=%s&t=%ds", videoID, timeSeconds)
+	}
+	return fmt.Sprintf("https://www.youtube.com/watch?v=%s", videoID)
+}
+
+// convertMMSSToSeconds converts MM:SS format to total seconds
+func convertMMSSToSeconds(timeStr string) int {
+	if timeStr == "" {
+		return 0
+	}
+	
+	parts := strings.Split(timeStr, ":")
+	if len(parts) != 2 {
+		return 0
+	}
+	
+	var minutes, seconds int
+	if _, err := fmt.Sscanf(parts[0], "%d", &minutes); err != nil {
+		return 0
+	}
+	if _, err := fmt.Sscanf(parts[1], "%d", &seconds); err != nil {
+		return 0
+	}
+	
+	return minutes*60 + seconds
 }

@@ -108,8 +108,28 @@ func generateReport(stories map[string]string) string {
 	}
 
 	// Generate JSON schema for structured output
-	reflector := jsonschema.Reflector{}
-	schema := reflector.Reflect(&ReportGenerationResponse{})
+	reflector := jsonschema.Reflector{
+		AllowAdditionalProperties: false,
+		DoNotReference:            true,
+	}
+	schemaObj := reflector.Reflect(&ReportGenerationResponse{})
+	
+	// Ensure the schema has the correct type
+	if schemaObj.Type == "" {
+		schemaObj.Type = "object"
+	}
+	
+	// Convert to map[string]any to ensure proper JSON serialization
+	schemaBytes, err := json.Marshal(schemaObj)
+	if err != nil {
+		log.Printf("Failed to marshal schema: %v", err)
+		return "# Bugün Ne Oldu?\n\nHata: Schema hazırlanamadı\n"
+	}
+	var schema map[string]any
+	if err := json.Unmarshal(schemaBytes, &schema); err != nil {
+		log.Printf("Failed to unmarshal schema: %v", err)
+		return "# Bugün Ne Oldu?\n\nHata: Schema çözümlenemedi\n"
+	}
 
 	// Prepare the request payload
 	requestBody := map[string]any{
