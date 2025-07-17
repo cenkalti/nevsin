@@ -31,6 +31,14 @@ jobs:
         with:
           go-version: '1.24.2'
 
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install yt-dlp
+        run: pip install yt-dlp
+
       - name: Create required directories
         run: |
           mkdir -p videos subtitles stories
