@@ -1,0 +1,83 @@
+---
+name: Daily News Report
+
+"on":
+  schedule:
+    # Daily at 12 PM EST (17:00 UTC)
+    - cron: '0 17 * * *'
+  # Allow manual triggering
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow only one concurrent deployment
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Go
+        uses: actions/setup-go@v4
+        with:
+          go-version: '1.24.2'
+
+      - name: Create required directories
+        run: |
+          mkdir -p videos subtitles stories
+
+      - name: Build nevsin
+        run: go build ./cmd/nevsin
+
+      - name: Run nevsin pipeline
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          AZURE_OPENAI_ENDPOINT: ${{ secrets.AZURE_OPENAI_ENDPOINT }}
+          AZURE_OPENAI_API_KEY: ${{ secrets.AZURE_OPENAI_API_KEY }}
+          AZURE_OPENAI_DEPLOYMENT: ${{ secrets.AZURE_OPENAI_DEPLOYMENT }}
+          AZURE_OPENAI_VISION_DEPLOYMENT: >-
+            ${{ secrets.AZURE_OPENAI_VISION_DEPLOYMENT }}
+        run: ./nevsin run
+
+      - name: Convert markdown to HTML
+        uses: docker://pandoc/core:3.5
+        with:
+          args: >-
+            --standalone
+            --template=templates/report.html
+            --from=markdown
+            --to=html5
+            --output=index.html
+            --metadata title="Bugün Ne Oldu? - Günlük Haber Raporu"
+            --metadata date="$(date '+%d %B %Y')"
+            --metadata lang="tr"
+            report.md
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    permissions:
+      pages: write
+      id-token: write
+
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
