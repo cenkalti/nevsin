@@ -19,10 +19,10 @@ func getenv(key string) string {
 }
 
 func main() {
-	// Load .env file
+	// Load .env file if it exists (optional for GitHub Actions)
 	err := godotenv.Load()
 	if err != nil {
-		log.Fatal("Error loading .env file")
+		log.Printf("No .env file found, using environment variables: %v", err)
 	}
 
 	// Set configuration for the nevsin package
