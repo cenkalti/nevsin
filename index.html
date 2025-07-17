@@ -56,11 +56,18 @@ main {
 
 /* Typography styles */
 h1 {
-    color: #2c3e50;
-    font-size: 2.5rem;
-    margin-bottom: 1rem;
-    font-weight: 700;
+    color: white;
+    font-size: 3rem;
+    margin: 2rem 0;
+    font-weight: 800;
     text-align: center;
+    padding: 2rem 1rem;
+    margin-bottom: 1.5rem;
+    position: relative;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    border-radius: 15px;
+    box-shadow: 0 8px 25px rgba(102, 126, 234, 0.3);
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
 }
 
 h2 {
@@ -88,6 +95,14 @@ em {
     display: block;
     text-align: center;
     margin-bottom: 2rem;
+    font-size: 1.1rem;
+    font-weight: 500;
+    background-color: #f8f9fa;
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+    border: 1px solid #e9ecef;
+    max-width: 600px;
+    margin: 0 auto 2rem auto;
 }
 
 /* Links */
@@ -120,6 +135,44 @@ strong {
     font-weight: 600;
 }
 
+/* Reporter section styling - less prominent */
+p + ul {
+    margin-top: 0.5rem;
+    font-size: 0.9rem;
+    color: #6c757d;
+    background-color: #f8f9fa;
+    padding: 0.8rem 1rem;
+    border-radius: 8px;
+    border: 1px solid #e9ecef;
+}
+
+p + ul li {
+    margin-bottom: 0.1rem;
+    font-size: 0.9rem;
+}
+
+p + ul li a {
+    color: #6c757d;
+    font-weight: 400;
+}
+
+p + ul li a:hover {
+    color: #495057;
+}
+
+/* Style the "Bu haberi kapsayan muhabirler" text specifically */
+p:nth-last-child(2) {
+    font-size: 0.9rem;
+    color: #6c757d;
+    margin-top: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+
+p:nth-last-child(2) strong {
+    font-weight: 500;
+    color: #6c757d;
+}
+
 /* Divider styles */
 hr {
     border: none;
@@ -136,6 +189,11 @@ footer {
     color: #6c757d;
     font-size: 0.9rem;
     border-top: 1px solid #e9ecef;
+}
+
+footer p {
+    text-align: center;
+    margin-bottom: 0;
 }
 
 /* Responsive design */
@@ -217,13 +275,10 @@ footer {
 </head>
 <body>
     <div class="container">
-        <header>
-            <h1>Bugün Ne Oldu?</h1>
-            <div class="date">17 July 2025</div>
-        </header>
-        
         <main>
-            <h2 id="1-ekrem-mamolu-davas-siyasi-yasak-ve-trkiyede-yarg-siyaset-likisi">1. Ekrem İmamoğlu Davası, Siyasi Yasak ve Türkiye'de Yargı-Siyaset İlişkisi</h2>
+            <h1 id="bugn-ne-oldu">Bugün Ne Oldu?</h1>
+<p><em>17 July 2025 tarihli günlük haber raporu - 10 haber birleştirildi</em></p>
+<h2 id="1-ekrem-mamolu-davas-siyasi-yasak-ve-trkiyede-yarg-siyaset-likisi">1. Ekrem İmamoğlu Davası, Siyasi Yasak ve Türkiye'de Yargı-Siyaset İlişkisi</h2>
 <p>Ekrem İmamoğlu'nun Silivri'de görülen davası, Türkiye'de yargının siyasallaşması ve muhalefete yönelik baskıların en önemli örneklerinden biri olarak gündemde. İmamoğlu, İstanbul Cumhuriyet Başsavcısı Akın Gürlek'e yönelik sözleri nedeniyle 1 yıl 8 ay hapis ve siyasi yasak cezası aldı; hedef göstermeden ise beraat etti. Kararın kesinleşmesiyle birlikte İmamoğlu'nun siyasi geleceği tehlikede. Davanın salon atmosferi, savunma detayları, kamuoyundaki tepkiler ve CHP'nin üst düzey desteği öne çıktı. TRT'de yayınlanıp yayınlanmayacağı tartışmaları, davanın şeffaflığı ve algı yönetimi endişelerini artırdı. Ayrıca, İmamoğlu hakkında devam eden başka davalar ve soruşturmalar da bulunuyor (&quot;ahmak davası&quot;, Beylikdüzü ihale davası, diploma soruşturması vb.). CHP lideri Özgür Özel, davanın esas amacının siyasi yasak getirmek olduğunu vurguladı. Yargıdaki usul hataları, savcıların tutumu, Beyaz Toros sembolüyle yapılan tehditler ve yargıdaki tarafgirlik tartışmaları da gündemde. Toplumun büyük kısmı davaların siyasi olduğu görüşünde ve İmamoğlu'nun tutuksuz yargılanması gerektiği konusunda geniş bir konsensüs var. Dava, Türkiye'nin demokratik standartları ve hukuk devleti ilkeleri açısından uluslararası kamuoyunda da yakından izleniyor.</p>
 <p><strong>Bu haberi kapsayan muhabirler:</strong></p>
 <ul>
@@ -319,10 +374,6 @@ footer {
 <hr />
 
         </main>
-        
-        <footer>
-            <p>Bu rapor otomatik olarak günlük haber kaynaklarından derlenmiştir • Nevsin Haber Takip Sistemi</p>
-        </footer>
     </div>
 </body>
 </html>
