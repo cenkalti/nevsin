@@ -50,25 +50,8 @@ var GenerateHTMLCmd = &cobra.Command{
 func generateCompleteHTML(markdownContent string) string {
 	// Remove the duplicate title and date from the markdown content
 	lines := strings.Split(markdownContent, "\n")
-	var filteredLines []string
 
-	for i, line := range lines {
-		// Skip the first h1 line
-		if i == 0 && strings.HasPrefix(line, "# Bugün Ne Oldu?") {
-			continue
-		}
-		// Skip the date line (contains "tarihli günlük haber raporu")
-		if strings.Contains(line, "tarihli günlük haber raporu") && strings.Contains(line, "haber birleştirildi") {
-			continue
-		}
-		// Skip empty lines at the beginning
-		if len(filteredLines) == 0 && strings.TrimSpace(line) == "" {
-			continue
-		}
-		filteredLines = append(filteredLines, line)
-	}
-
-	cleanMarkdown := strings.Join(filteredLines, "\n")
+	cleanMarkdown := strings.Join(lines, "\n")
 
 	// Configure goldmark with extensions
 	md := goldmark.New(
@@ -101,7 +84,7 @@ func generateCompleteHTML(markdownContent string) string {
 		log.Printf("Failed to parse HTML template: %v", err)
 		return ""
 	}
-	
+
 	// Prepare template data
 	data := struct {
 		Title string
@@ -114,14 +97,13 @@ func generateCompleteHTML(markdownContent string) string {
 		Body:  template.HTML(buf.String()),
 		CSS:   template.CSS(cssStyles),
 	}
-	
+
 	// Execute template
 	var result bytes.Buffer
 	if err := tmpl.Execute(&result, data); err != nil {
 		log.Printf("Failed to execute template: %v", err)
 		return ""
 	}
-	
+
 	return result.String()
 }
-

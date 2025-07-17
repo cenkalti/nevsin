@@ -347,7 +347,7 @@ func extractStoriesWithRetry(subtitle, videoID, channelID string) (NewsExtractio
 	maxRetries := 3
 	baseDelay := 2 * time.Second
 
-	for attempt := 0; attempt < maxRetries; attempt++ {
+	for attempt := range maxRetries {
 		newsResponse, err := extractStories(subtitle, videoID, channelID)
 		if err != nil {
 			// Check if it's a retryable error
