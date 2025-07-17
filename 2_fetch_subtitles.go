@@ -47,6 +47,11 @@ var FetchSubtitlesCmd = &cobra.Command{
 					"--sub-format", "srt",
 					"--skip-download",
 					"--output", "%(id)s.%(ext)s",
+					"--user-agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+					"--sleep-interval", "1",
+					"--max-sleep-interval", "3",
+					"--extractor-retries", "3",
+					"--no-check-certificate",
 					video.URL,
 				}
 				tmpDir := "subtitles_tmp"

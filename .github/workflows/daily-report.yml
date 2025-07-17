@@ -37,7 +37,9 @@ jobs:
           python-version: '3.x'
 
       - name: Install yt-dlp
-        run: pip install yt-dlp
+        run: |
+          pip install yt-dlp
+          yt-dlp --version
 
       - name: Create required directories
         run: |
