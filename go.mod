@@ -7,6 +7,7 @@ require (
 	github.com/joho/godotenv v1.5.1
 	github.com/sosodev/duration v1.3.1
 	github.com/spf13/cobra v1.9.1
+	github.com/yuin/goldmark v1.7.12
 )
 
 require (

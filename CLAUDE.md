@@ -10,7 +10,7 @@ Nevsin is a YouTube news aggregator CLI tool written in Go that fetches, transcr
 
 - **Modular CLI application** with main function in `cmd/nevsin/main.go` using cobra for command structure
 - **Convention over configuration**: No flags, pure file-based operations in working directory
-- **Pipeline-based processing**: fetch-videos → fetch-subtitles → extract-stories → generate-report
+- **Pipeline-based processing**: fetch-videos → fetch-subtitles → extract-stories → generate-report → generate-html → upload-site
 - **Concurrent processing** with goroutines for video fetching and transcript extraction
 - **Azure OpenAI integration** for thumbnail analysis and transcript summarization
 - **YouTube Data API v3** for video fetching
@@ -21,6 +21,8 @@ Nevsin is a YouTube news aggregator CLI tool written in Go that fetches, transcr
 - `fetchSubtitlesCmd`: Downloads subtitles using yt-dlp
 - `extractStoriesCmd`: Creates AI summaries with structured JSON responses
 - `generateReportCmd`: Compiles final markdown reports with AI-sorted importance
+- `generateHTMLCmd`: Converts markdown report to HTML using Go templates
+- `uploadSiteCmd`: Uploads HTML report to GitHub Pages
 - `runCmd`: Executes full pipeline
 - `cleanCmd`: Removes old data
 
@@ -38,13 +40,14 @@ Nevsin is a YouTube news aggregator CLI tool written in Go that fetches, transcr
 ├── stories/
 │   ├── abc123.json            # Individual stories (JSON format)
 │   └── def456.json
-└── report.md                  # Final daily report
+├── report.md                  # Final daily report
+└── report.html                # HTML version of the report
 ```
 
 ### Data Flow
 
 ```
-YouTube API → videos/*.json → subtitles/*.srt → stories/*.json → report.md
+YouTube API → videos/*.json → subtitles/*.srt → stories/*.json → report.md → report.html → GitHub Pages
 ```
 
 ## Development Commands
@@ -62,6 +65,8 @@ go build ./cmd/nevsin
 ./nevsin fetch-subtitles
 ./nevsin extract-stories
 ./nevsin generate-report
+./nevsin generate-html
+./nevsin upload-site
 ./nevsin clean
 ```
 

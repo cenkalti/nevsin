@@ -67,20 +67,22 @@ var ExtractStoriesCmd = &cobra.Command{
 			log.Printf("Failed to read subtitles directory: %v", err)
 			return
 		}
+
 		var wg sync.WaitGroup
 		for _, file := range files {
 			if file.IsDir() || !strings.HasSuffix(file.Name(), ".srt") {
 				continue
 			}
+
+			videoID := strings.TrimSuffix(file.Name(), ".srt")
+
 			wg.Add(1)
-			go func(filename string) {
+			go func(videoID string) {
 				defer wg.Done()
-				// Change extension from .srt to get video ID
-				videoID := strings.TrimSuffix(filename, ".srt")
 				if err := processVideoStories(videoID); err != nil {
 					log.Printf("Failed to process video %s: %v", videoID, err)
 				}
-			}(file.Name())
+			}(videoID)
 		}
 		wg.Wait()
 		log.Println("Story extraction complete.")
@@ -102,8 +104,8 @@ func processVideoStories(videoID string) error {
 		return fmt.Errorf("failed to read video metadata: %w", err)
 	}
 
-	// Call Azure OpenAI to extract stories from subtitle
-	newsResponse, err := extractStories(string(data), videoID, video.ChannelID)
+	// Call Azure OpenAI to extract stories from subtitle with retry logic
+	newsResponse, err := extractStoriesWithRetry(string(data), videoID, video.ChannelID)
 	if err != nil {
 		return fmt.Errorf("failed to extract stories from subtitle: %w", err)
 	}
@@ -340,6 +342,40 @@ func extractStories(subtitle, videoID, channelID string) (NewsExtractionResponse
 	return newsResponse, nil
 }
 
+// extractStoriesWithRetry wraps extractStories with retry logic for transient failures
+func extractStoriesWithRetry(subtitle, videoID, channelID string) (NewsExtractionResponse, error) {
+	maxRetries := 3
+	baseDelay := 2 * time.Second
+
+	for attempt := 0; attempt < maxRetries; attempt++ {
+		newsResponse, err := extractStories(subtitle, videoID, channelID)
+		if err != nil {
+			// Check if it's a retryable error
+			if strings.Contains(err.Error(), "unexpected end of JSON input") ||
+				strings.Contains(err.Error(), "failed to parse structured response") ||
+				strings.Contains(err.Error(), "no content in response") {
+
+				if attempt == maxRetries-1 {
+					return NewsExtractionResponse{}, fmt.Errorf("failed to extract stories after %d retries: %w", maxRetries, err)
+				}
+
+				delay := baseDelay * time.Duration(attempt+1) // 2s, 4s, 6s
+				log.Printf("Transient error for video %s (attempt %d/%d), retrying in %v: %v",
+					videoID, attempt+1, maxRetries, delay, err)
+				time.Sleep(delay)
+				continue
+			}
+			// For other errors, don't retry
+			return NewsExtractionResponse{}, err
+		}
+
+		// Success
+		return newsResponse, nil
+	}
+
+	return NewsExtractionResponse{}, fmt.Errorf("unexpected error in retry loop")
+}
+
 // parseSRTFile parses an SRT file and returns a map of index to SRTEntry
 func parseSRTFile(srtContent string) map[int]SRTEntry {
 	entries := make(map[int]SRTEntry)
@@ -445,12 +481,12 @@ func convertMMSSToSeconds(timeStr string) int {
 	if timeStr == "" {
 		return 0
 	}
-	
+
 	parts := strings.Split(timeStr, ":")
 	if len(parts) != 2 {
 		return 0
 	}
-	
+
 	var minutes, seconds int
 	if _, err := fmt.Sscanf(parts[0], "%d", &minutes); err != nil {
 		return 0
@@ -458,6 +494,6 @@ func convertMMSSToSeconds(timeStr string) int {
 	if _, err := fmt.Sscanf(parts[1], "%d", &seconds); err != nil {
 		return 0
 	}
-	
+
 	return minutes*60 + seconds
 }

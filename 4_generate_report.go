@@ -115,12 +115,12 @@ func generateReport(stories map[string]string) string {
 		DoNotReference:            true,
 	}
 	schemaObj := reflector.Reflect(&ReportGenerationResponse{})
-	
+
 	// Ensure the schema has the correct type
 	if schemaObj.Type == "" {
 		schemaObj.Type = "object"
 	}
-	
+
 	// Convert to map[string]any to ensure proper JSON serialization
 	schemaBytes, err := json.Marshal(schemaObj)
 	if err != nil {
@@ -252,7 +252,7 @@ func formatFinalReport(stories []MergedNewsStory) string {
 
 		// Add reporter attribution with video links
 		if len(story.Reporters) > 0 {
-			report += "**Bu haberi kapsayan muhabirler:**\n"
+			report += "**Bu haberi kapsayan muhabirler:**\n\n"
 			for _, reporter := range story.Reporters {
 				// Find video sources for this reporter
 				var reporterSources []VideoSource
@@ -261,7 +261,7 @@ func formatFinalReport(stories []MergedNewsStory) string {
 						reporterSources = append(reporterSources, source)
 					}
 				}
-				
+
 				if len(reporterSources) > 0 {
 					// Use the first video source for this reporter
 					source := reporterSources[0]
@@ -278,4 +278,3 @@ func formatFinalReport(stories []MergedNewsStory) string {
 
 	return report
 }
-
