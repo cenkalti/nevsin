@@ -22,6 +22,12 @@ var UploadSiteCmd = &cobra.Command{
 			return
 		}
 
+		// Check if report.md exists
+		if _, err := os.Stat("report.md"); os.IsNotExist(err) {
+			log.Printf("report.md not found. Run 'generate-report' first.")
+			return
+		}
+
 		// Create or update GitHub Pages repository
 		if err := uploadToGitHubPages(); err != nil {
 			log.Printf("Failed to upload to GitHub Pages: %v", err)
@@ -107,9 +113,22 @@ func uploadToGitHubPages() error {
 		return fmt.Errorf("failed to write index.html: %v", err)
 	}
 
-	// Add the file to git
-	if err := exec.Command("git", "add", "index.html").Run(); err != nil {
-		return fmt.Errorf("failed to add index.html to git: %v", err)
+	// Copy the markdown file to the temp directory
+	mdSource := filepath.Join(cwd, "report.md")
+	mdDest := filepath.Join(tempDir, "index.md")
+
+	mdData, err := os.ReadFile(mdSource)
+	if err != nil {
+		return fmt.Errorf("failed to read report.md: %v", err)
+	}
+
+	if err := os.WriteFile(mdDest, mdData, 0644); err != nil {
+		return fmt.Errorf("failed to write index.md: %v", err)
+	}
+
+	// Add the files to git
+	if err := exec.Command("git", "add", "index.html", "index.md").Run(); err != nil {
+		return fmt.Errorf("failed to add files to git: %v", err)
 	}
 
 	// Check if there are changes to commit
