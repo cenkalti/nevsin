@@ -18,20 +18,17 @@ var UploadSiteCmd = &cobra.Command{
 	Run: func(cmd *cobra.Command, args []string) {
 		// Check if report.html exists
 		if _, err := os.Stat("report.html"); os.IsNotExist(err) {
-			log.Printf("report.html not found. Run 'generate-html' first.")
-			return
+			log.Fatalf("report.html not found. Run 'generate-html' first.")
 		}
 
 		// Check if report.md exists
 		if _, err := os.Stat("report.md"); os.IsNotExist(err) {
-			log.Printf("report.md not found. Run 'generate-report' first.")
-			return
+			log.Fatalf("report.md not found. Run 'generate-report' first.")
 		}
 
 		// Create or update GitHub Pages repository
 		if err := uploadToGitHubPages(); err != nil {
-			log.Printf("Failed to upload to GitHub Pages: %v", err)
-			return
+			log.Fatalf("Failed to upload to GitHub Pages: %v", err)
 		}
 
 		log.Println("Successfully uploaded to GitHub Pages")
