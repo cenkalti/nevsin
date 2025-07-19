@@ -26,6 +26,7 @@ type YouTubeVideo struct {
 	PublishedAt  time.Time `json:"published_at"`
 	ThumbnailURL string    `json:"thumbnail_url"`
 	ChannelID    string    `json:"channel_id"`
+	ChannelName  string    `json:"channel_name"`
 	URL          string    `json:"url"`
 }
 
@@ -41,7 +42,7 @@ var FetchVideosCmd = &cobra.Command{
 			go func(idx int, chInfo ChannelConfig) {
 				defer wg.Done()
 				log.Printf("Channel %d/%d: %s", idx+1, len(ChannelConfigs), chInfo.Name)
-				videos, err := fetchYouTubeVideos(chInfo.ID)
+				videos, err := fetchYouTubeVideos(chInfo.ID, chInfo.Name)
 				if err != nil {
 					log.Fatalf("Failed to fetch videos for %s: %v", chInfo.Name, err)
 				}
@@ -58,7 +59,7 @@ var FetchVideosCmd = &cobra.Command{
 }
 
 // fetchYouTubeVideos fetches recent videos for a channel using the YouTube Data API v3
-func fetchYouTubeVideos(channelID string) ([]YouTubeVideo, error) {
+func fetchYouTubeVideos(channelID string, channelName string) ([]YouTubeVideo, error) {
 	apiKey := Config.YouTubeAPIKey
 
 	// First, fetch the latest 10 videos from the channel
@@ -197,6 +198,7 @@ func fetchYouTubeVideos(channelID string) ([]YouTubeVideo, error) {
 			PublishedAt:  publishedAt,
 			ThumbnailURL: thumbURL,
 			ChannelID:    channelID,
+			ChannelName:  channelName,
 			URL:          "https://www.youtube.com/watch?v=" + item.ID,
 		}
 		videos = append(videos, video)
