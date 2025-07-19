@@ -27,6 +27,7 @@ type YouTubeVideo struct {
 	ThumbnailURL string    `json:"thumbnail_url"`
 	ChannelID    string    `json:"channel_id"`
 	ChannelName  string    `json:"channel_name"`
+	Duration     string    `json:"duration"`
 	URL          string    `json:"url"`
 }
 
@@ -199,6 +200,7 @@ func fetchYouTubeVideos(channelID string, channelName string) ([]YouTubeVideo, e
 			ThumbnailURL: thumbURL,
 			ChannelID:    channelID,
 			ChannelName:  channelName,
+			Duration:     item.ContentDetails.Duration,
 			URL:          "https://www.youtube.com/watch?v=" + item.ID,
 		}
 		videos = append(videos, video)
