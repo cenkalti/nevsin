@@ -33,16 +33,37 @@ type YouTubeVideo struct {
 
 // FetchVideosCmd: Reads channels.txt, saves videos/videoID.json
 var FetchVideosCmd = &cobra.Command{
-	Use:   "fetch-videos",
+	Use:   "fetch-videos [channel-name]",
 	Short: "Fetch recent videos from channels",
+	Args:  cobra.MaximumNArgs(1),
 	Run: func(cmd *cobra.Command, args []string) {
+		var channelsToProcess []ChannelConfig
+
+		// If channel name is provided, filter to that channel
+		if len(args) > 0 {
+			channelName := args[0]
+			found := false
+			for _, ch := range ChannelConfigs {
+				if strings.EqualFold(ch.Name, channelName) {
+					channelsToProcess = []ChannelConfig{ch}
+					found = true
+					break
+				}
+			}
+			if !found {
+				log.Fatalf("Channel '%s' not found. Available channels: %s", channelName, getChannelNames())
+			}
+		} else {
+			channelsToProcess = ChannelConfigs
+		}
+
 		var wg sync.WaitGroup
-		log.Printf("Processing %d channels...", len(ChannelConfigs))
-		for i, ch := range ChannelConfigs {
+		log.Printf("Processing %d channels...", len(channelsToProcess))
+		for i, ch := range channelsToProcess {
 			wg.Add(1)
 			go func(idx int, chInfo ChannelConfig) {
 				defer wg.Done()
-				log.Printf("Channel %d/%d: %s", idx+1, len(ChannelConfigs), chInfo.Name)
+				log.Printf("Channel %d/%d: %s", idx+1, len(channelsToProcess), chInfo.Name)
 				videos, err := fetchYouTubeVideos(chInfo.ID, chInfo.Name)
 				if err != nil {
 					log.Fatalf("Failed to fetch videos for %s: %v", chInfo.Name, err)
@@ -57,6 +78,15 @@ var FetchVideosCmd = &cobra.Command{
 		wg.Wait()
 		log.Println("Fetch complete.")
 	},
+}
+
+// getChannelNames returns a comma-separated list of available channel names
+func getChannelNames() string {
+	var names []string
+	for _, ch := range ChannelConfigs {
+		names = append(names, ch.Name)
+	}
+	return strings.Join(names, ", ")
 }
 
 // fetchYouTubeVideos fetches recent videos for a channel using the YouTube Data API v3
