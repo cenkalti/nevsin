@@ -38,7 +38,7 @@ var UploadSiteCmd = &cobra.Command{
 // uploadToGitHubPages handles the GitHub Pages upload process
 func uploadToGitHubPages() error {
 	log.Print("Starting GitHub Pages upload process...")
-	
+
 	// Get current working directory
 	cwd, err := os.Getwd()
 	if err != nil {
@@ -160,7 +160,7 @@ func uploadToGitHubPages() error {
 	// Commit the changes
 	commitMessage := fmt.Sprintf("Update news report - %s", time.Now().Format("2006-01-02 15:04:05"))
 	log.Printf("Committing changes with message: %s", commitMessage)
-	if err := exec.Command("git", "commit", "-m", commitMessage).Run(); err != nil {
+	if err := exec.Command("git", "commit", "--no-gpg-sign", "-m", commitMessage).Run(); err != nil {
 		return fmt.Errorf("failed to commit changes: %v", err)
 	}
 
