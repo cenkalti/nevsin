@@ -20,16 +20,16 @@ import (
 
 // NewsStory represents a single news story extracted from subtitle
 type NewsStory struct {
-	Title      string `json:"title" jsonschema:"description=Haberin başlığı"`
-	Summary    string `json:"summary" jsonschema:"description=Haberin detaylı özeti"`
-	StartIndex int    `json:"start_index" jsonschema:"description=Haberin başlangıç SRT index numarası"`
-	EndIndex   int    `json:"end_index" jsonschema:"description=Haberin bitiş SRT index numarası"`
-	StartTime  string `json:"start_time"`
-	EndTime    string `json:"end_time"`
-	StoryURL   string `json:"story_url"`
-	VideoID    string `json:"video_id"`
-	ChannelID  string `json:"channel_id"`
-	Reporter   string `json:"reporter"`
+	Title       string `json:"title" jsonschema:"description=Haberin başlığı"`
+	Summary     string `json:"summary" jsonschema:"description=Haberin detaylı özeti"`
+	StartSecond int    `json:"start_second" jsonschema:"description=Haberin başlangıç saniyesi"`
+	EndSecond   int    `json:"end_second" jsonschema:"description=Haberin bitiş saniyesi"`
+	StartTime   string `json:"start_time"`
+	EndTime     string `json:"end_time"`
+	StoryURL    string `json:"story_url"`
+	VideoID     string `json:"video_id"`
+	ChannelID   string `json:"channel_id"`
+	Reporter    string `json:"reporter"`
 }
 
 // NewsExtractionResponse represents the structured response from Azure OpenAI
@@ -37,12 +37,10 @@ type NewsExtractionResponse struct {
 	Stories []NewsStory `json:"stories"`
 }
 
-// SRTEntry represents a single subtitle entry from SRT file
-type SRTEntry struct {
-	Index     int
-	StartTime string
-	EndTime   string
-	Text      string
+// SimplifiedSubtitleEntry represents a single subtitle entry from simplified format
+type SimplifiedSubtitleEntry struct {
+	Second int
+	Text   string
 }
 
 var ExtractStoriesCmd = &cobra.Command{
@@ -105,16 +103,13 @@ func processVideoStories(videoID string) error {
 	}
 
 	// Call Azure OpenAI to extract stories from subtitle with retry logic
-	newsResponse, err := extractStoriesWithRetry(string(data), videoID, video.ChannelID)
+	newsResponse, err := extractStoriesWithRetry(string(data), videoID, video.ChannelID, video.Chapters)
 	if err != nil {
 		return fmt.Errorf("failed to extract stories from subtitle: %w", err)
 	}
 
-	// Parse SRT file to get time information
-	srtEntries := parseSRTFile(string(data))
-
-	// Populate start and end times from SRT indices
-	populateTimesFromSRT(newsResponse.Stories, srtEntries)
+	// Populate start and end times from seconds
+	populateTimesFromSeconds(newsResponse.Stories)
 
 	// Marshal the response to JSON without HTML escaping
 	buffer := &bytes.Buffer{}
@@ -248,7 +243,7 @@ func makeOpenAIRequest(requestBody []byte, endpoint, apiKey, deployment string) 
 	return nil, fmt.Errorf("unexpected error in retry loop")
 }
 
-func extractStories(subtitle, videoID, channelID string) (NewsExtractionResponse, error) {
+func extractStories(subtitle, videoID, channelID string, chapters []YouTubeChapter) (NewsExtractionResponse, error) {
 	endpoint := Config.AzureOpenAIEndpoint
 	apiKey := Config.AzureOpenAIAPIKey
 	deployment := Config.AzureOpenAIDeployment
@@ -275,16 +270,19 @@ func extractStories(subtitle, videoID, channelID string) (NewsExtractionResponse
 		return NewsExtractionResponse{}, fmt.Errorf("failed to unmarshal schema: %w", err)
 	}
 
+	// Format chapter information for LLM context
+	chapterInfo := formatChapterInfo(chapters)
+
 	// Prepare the request payload
 	requestBody := map[string]any{
 		"messages": []map[string]any{
 			{
 				"role":    "system",
-				"content": "Sen Türkçe haber metinlerini analiz eden bir uzmansın. Verilen altyazıdan birden fazla haber hikayesini çıkarman gerekiyor. Her haber için başlık, özet ve SRT altyazı index numaralarını belirle. Index numaraları altyazı dosyasındaki satır numaralarını temsil eder. Sadece gerçek haber içeriğini çıkar, reklam veya genel konuşmaları dahil etme.",
+				"content": "Sen Türkçe haber metinlerini analiz eden bir uzmansın. Verilen altyazıdan birden fazla haber hikayesini çıkarman gerekiyor. Her haber için başlık, özet ve başlangıç/bitiş saniyelerini belirle.\n\nALTYAZI FORMATI: Altyazı basitleştirilmiş formattadır. Her satır şu şekildedir:\n[saniye]: [metin]\n\nÖrnek:\n7: Retro, retro arkadaşlar. Retro. Sorun\n10: retrodan kaynaklanıyor. Merkür retrosu\n13: Aslan burcunda gerçekleşiyormuş. Ben\n\nSadece gerçek haber içeriğini çıkar, reklam veya genel konuşmaları dahil etme. Her haber için start_second ve end_second değerlerini saniye cinsinden belirle.",
 			},
 			{
 				"role":    "user",
-				"content": fmt.Sprintf("Bu altyazıdan tüm haber hikayelerini çıkar ve her biri için başlık, detaylı özet ve SRT altyazı index numaralarını belirle. Index numaraları altyazı dosyasındaki satır numaralarını temsil eder:\n\n%s", subtitle),
+				"content": fmt.Sprintf("Bu altyazıdan tüm haber hikayelerini çıkar ve her biri için başlık, detaylı özet ve başlangıç/bitiş saniyelerini belirle. Altyazı formatı: [saniye]: [metin] şeklindedir.\n\n%s\n\nALTYAZI:\n%s", chapterInfo, subtitle),
 			},
 		},
 		"max_tokens":  4000,
@@ -343,12 +341,12 @@ func extractStories(subtitle, videoID, channelID string) (NewsExtractionResponse
 }
 
 // extractStoriesWithRetry wraps extractStories with retry logic for transient failures
-func extractStoriesWithRetry(subtitle, videoID, channelID string) (NewsExtractionResponse, error) {
+func extractStoriesWithRetry(subtitle, videoID, channelID string, chapters []YouTubeChapter) (NewsExtractionResponse, error) {
 	maxRetries := 3
 	baseDelay := 2 * time.Second
 
 	for attempt := range maxRetries {
-		newsResponse, err := extractStories(subtitle, videoID, channelID)
+		newsResponse, err := extractStories(subtitle, videoID, channelID, chapters)
 		if err != nil {
 			// Check if it's a retryable error
 			if strings.Contains(err.Error(), "unexpected end of JSON input") ||
@@ -376,124 +374,60 @@ func extractStoriesWithRetry(subtitle, videoID, channelID string) (NewsExtractio
 	return NewsExtractionResponse{}, fmt.Errorf("unexpected error in retry loop")
 }
 
-// parseSRTFile parses an SRT file and returns a map of index to SRTEntry
-func parseSRTFile(srtContent string) map[int]SRTEntry {
-	entries := make(map[int]SRTEntry)
 
-	// Use SplitSeq for more efficient iteration over split strings
-	for block := range strings.SplitSeq(strings.ReplaceAll(srtContent, "\r\n", "\n"), "\n\n") {
-		if strings.TrimSpace(block) == "" {
-			continue
-		}
-
-		lines := strings.Split(strings.TrimSpace(block), "\n")
-		if len(lines) < 3 {
-			continue
-		}
-
-		// Parse index
-		index, err := strconv.Atoi(strings.TrimSpace(lines[0]))
-		if err != nil {
-			continue
-		}
-
-		// Parse time range
-		timeRange := strings.TrimSpace(lines[1])
-		timeParts := strings.Split(timeRange, " --> ")
-		if len(timeParts) != 2 {
-			continue
-		}
-
-		startTime := convertSRTTimeToMMSS(timeParts[0])
-		endTime := convertSRTTimeToMMSS(timeParts[1])
-
-		// Join remaining lines as text
-		text := strings.Join(lines[2:], " ")
-
-		entries[index] = SRTEntry{
-			Index:     index,
-			StartTime: startTime,
-			EndTime:   endTime,
-			Text:      text,
-		}
-	}
-
-	return entries
-}
-
-// convertSRTTimeToMMSS converts SRT time format (HH:MM:SS,mmm) to MM:SS format
-func convertSRTTimeToMMSS(srtTime string) string {
-	// Remove milliseconds part
-	srtTime = strings.Split(srtTime, ",")[0]
-
-	// Parse HH:MM:SS
-	parts := strings.Split(srtTime, ":")
-	if len(parts) != 3 {
-		return "00:00"
-	}
-
-	hours, _ := strconv.Atoi(parts[0])
-	minutes, _ := strconv.Atoi(parts[1])
-	seconds, _ := strconv.Atoi(parts[2])
-
-	// Convert to total minutes and seconds
-	totalMinutes := hours*60 + minutes
-
-	return fmt.Sprintf("%02d:%02d", totalMinutes, seconds)
-}
-
-// populateTimesFromSRT populates StartTime and EndTime fields from SRT indices
-func populateTimesFromSRT(stories []NewsStory, srtEntries map[int]SRTEntry) {
+// populateTimesFromSeconds populates StartTime and EndTime fields from seconds
+func populateTimesFromSeconds(stories []NewsStory) {
 	for i := range stories {
 		story := &stories[i]
 
-		// Get start time from start index
-		if startEntry, exists := srtEntries[story.StartIndex]; exists {
-			story.StartTime = startEntry.StartTime
-		} else {
-			story.StartTime = "00:00"
-		}
-
-		// Get end time from end index
-		if endEntry, exists := srtEntries[story.EndIndex]; exists {
-			story.EndTime = endEntry.EndTime
-		} else {
-			story.EndTime = "00:00"
-		}
+		// Convert seconds to MM:SS format
+		story.StartTime = convertSecondsToMMSS(story.StartSecond)
+		story.EndTime = convertSecondsToMMSS(story.EndSecond)
 
 		// Generate story URL with timestamp
-		story.StoryURL = generateStoryURL(story.VideoID, story.StartTime)
+		story.StoryURL = generateStoryURLFromSeconds(story.VideoID, story.StartSecond)
 	}
 }
 
-// generateStoryURL creates a YouTube URL with timestamp from video ID and start time
-func generateStoryURL(videoID, startTime string) string {
-	// Convert MM:SS format to seconds
-	timeSeconds := convertMMSSToSeconds(startTime)
-	if timeSeconds > 0 {
-		return fmt.Sprintf("https://www.youtube.com/watch?v=%s&t=%ds", videoID, timeSeconds)
+
+// convertSecondsToMMSS converts total seconds to MM:SS format
+func convertSecondsToMMSS(totalSeconds int) string {
+	if totalSeconds < 0 {
+		totalSeconds = 0
+	}
+	
+	minutes := totalSeconds / 60
+	seconds := totalSeconds % 60
+	
+	return fmt.Sprintf("%02d:%02d", minutes, seconds)
+}
+
+// generateStoryURLFromSeconds creates a YouTube URL with timestamp from video ID and seconds
+func generateStoryURLFromSeconds(videoID string, startSeconds int) string {
+	if startSeconds > 0 {
+		return fmt.Sprintf("https://www.youtube.com/watch?v=%s&t=%ds", videoID, startSeconds)
 	}
 	return fmt.Sprintf("https://www.youtube.com/watch?v=%s", videoID)
 }
 
-// convertMMSSToSeconds converts MM:SS format to total seconds
-func convertMMSSToSeconds(timeStr string) int {
-	if timeStr == "" {
-		return 0
+// formatChapterInfo formats chapter information for LLM context
+func formatChapterInfo(chapters []YouTubeChapter) string {
+	if len(chapters) == 0 {
+		return "VIDEO BÖLÜMLERI: Bu video için bölüm bilgisi bulunmuyor."
 	}
-
-	parts := strings.Split(timeStr, ":")
-	if len(parts) != 2 {
-		return 0
+	
+	var chapterInfo strings.Builder
+	chapterInfo.WriteString("VIDEO BÖLÜMLERI: Bu videoda aşağıdaki bölümler bulunuyor:\n")
+	
+	for _, chapter := range chapters {
+		startSeconds := int(chapter.StartTime)
+		endSeconds := int(chapter.EndTime)
+		
+		chapterInfo.WriteString(fmt.Sprintf("- %d-%d saniye arası: %s\n", 
+			startSeconds, endSeconds, chapter.Title))
 	}
-
-	var minutes, seconds int
-	if _, err := fmt.Sscanf(parts[0], "%d", &minutes); err != nil {
-		return 0
-	}
-	if _, err := fmt.Sscanf(parts[1], "%d", &seconds); err != nil {
-		return 0
-	}
-
-	return minutes*60 + seconds
+	
+	chapterInfo.WriteString("\nBu bölüm bilgilerini haber hikayelerini çıkarırken referans olarak kullan.")
+	
+	return chapterInfo.String()
 }
