@@ -125,7 +125,7 @@ var ChannelConfigs = []ChannelConfig{
 		},
 	},
 	{
-		Name: "Özlem Gürses",
+		Name: "Ozlem Gurses",
 		ID:   "UCojOP7HHZvM2nZz4Rwnd6-Q",
 		Handler: func(videos []YouTubeVideo) []YouTubeVideo {
 			var selected []YouTubeVideo
