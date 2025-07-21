@@ -2,132 +2,117 @@
 
 *21 July 2025 tarihli günlük haber raporu - 10 haber birleştirildi*
 
-## 1. Çözüm Süreci, PKK'nın Silah Bırakması ve Siyasi Gündem: Meclis Komisyonu, DEM Parti, CHP ve Bölgesel Dinamikler
+## 1. Türkiye'de Çözüm Süreci, Selahattin Demirtaş'ın Tahliyesi ve Siyasi Gelişmeler
 
-Türkiye'de çözüm sürecinde yeni bir aşamaya girildi. Süleymaniye'de PKK'lıların silah bırakma töreniyle başlayan süreçte, Cumhurbaşkanı Erdoğan ilk kez siyasi sorumluluğu açıkça üstlendi. Mecliste 30-35 kişilik bir komisyon kurulması, yasal düzenlemeler ve toplumsal entegrasyon gündemde. DEM Parti, barış ve demokratik toplum sürecinde kolaylaştırıcı rol üstleniyor, ancak sürecin çoklu aktörlü olması gerektiğini vurguluyor. CHP'nin sürece dahil edilip edilmeyeceği, komisyonun yapısı ve işleyişi tartışılıyor. Selahattin Demirtaş ve Figen Yüksekdağ gibi isimlerin serbest bırakılması, kayyum atamalarının sona erdirilmesi ve seçilmişlerin görevlerine iadesi, sürecin toplumsal desteği açısından kritik. Abdullah Öcalan'ın komisyonla doğrudan görüşme talebi ve İmralı'nın statüsü de gündemde. Suriye'deki gelişmeler, Dürzi-Bedevi çatışmaları, İsrail'in müdahaleleri ve bölgesel aktörlerin tutumu, çözüm sürecinin seyrini doğrudan etkiliyor. Sürecin başarısı için CHP'nin katılımı ve toplumsal mutabakatın sağlanması gerektiği vurgulanıyor. Ancak, siyasi kutuplaşma, iktidarın CHP'ye baskısı ve toplumsal güven eksikliği sürecin önündeki başlıca engeller olarak öne çıkıyor.
+Türkiye'de çözüm süreci yeniden gündeme gelirken, MİT Başkanı İbrahim Kalın ve TBMM Başkanı Numan Kurtulmuş'un siyasi partilerle yürüttüğü yoğun temaslar dikkat çekiyor. DEM Parti'nin sürece ilişkin beklentileri, Kürt toplumunun temkinli iyimserliği ve Selahattin Demirtaş'ın tahliye edilmemesi tartışmanın merkezinde. Anayasa Mahkemesi'nin PKK davalarındaki hak ihlali kararı sonrası Diyarbakır'da tahliyeler yaşanırken, Demirtaş'ın AİHM ve AYM kararlarına rağmen serbest bırakılmaması hem iç hem dış dinamikler açısından eleştiriliyor. Çözüm sürecinin ilerlemesi için demokratikleşme ve hukukun üstünlüğü vurgulanıyor. Suriye'deki gelişmeler, Kürt meselesinin uluslararası boyutu ve devletin hızlı çözüm arayışı, sürecin hızlanabileceğine işaret ediyor. Ancak, sürecin siyasi pazarlıklarla mı yoksa toplumsal uzlaşıyla mı ilerleyeceği, muhalefetin ve Kürt hareketinin yaklaşımı ve iktidarın tutumu tartışma konusu olmaya devam ediyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=Z-GmKJ5LHGw&t=323s) (⏱️ 05:23-13:00)
-- [Özlem Gürses](https://www.youtube.com/watch?v=V2gKxXNonvs&t=3196s) (⏱️ 53:16-63:35)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=aYU9LSK1Kck&t=817s) (⏱️ 13:37-18:25)
-- [Murat Yetkin](https://www.youtube.com/watch?v=xonFmMzh064&t=640s) (⏱️ 10:40-11:56)
+- [Rusen Cakir](https://www.youtube.com/watch?v=Z-GmKJ5LHGw&t=153s) (⏱️ 02:33-08:46)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=yCR2U6ITJ4o&t=1378s) (⏱️ 22:58-27:06)
+- [Özlem Gürses](https://www.youtube.com/watch?v=V2gKxXNonvs&t=2209s) (⏱️ 36:49-60:35)
+- [Ünsal Ünlü](https://www.youtube.com/watch?v=seB4gSjOmSw&t=1421s) (⏱️ 23:41-49:09)
 
 ---
 
-## 2. Ekrem İmamoğlu Davası, Siyasi Yasak ve Yargıdaki Siyasallaşma Tartışmaları
+## 2. Devlet Bahçeli'nin 'Kürt ve Alevi Cumhurbaşkanı Yardımcısı' Önerisi, Kimlik Siyaseti ve Lübnanlaşma Tartışmaları
 
-İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu'na kamu görevlisine hakaret ve tehdit suçlarından toplam 1 yıl 8 ay hapis ve siyasi yasak cezası verildi. Duruşmada savcı ile yaşanan gerilim, savcının masasında Beyaz Toros maketi bulundurması ve yargıdaki sembolik tehditler, yargının siyasallaştığı iddialarını güçlendirdi. CHP lideri Özgür Özel ve muhalefet, kararın siyasi olduğunu, İmamoğlu'nun seçim denkleminin dışına atılmak istendiğini savundu. Duruşmanın TRT'de yayınlanması tartışması, yargı süreçlerinin şeffaflığı ve kamuoyu denetimi açısından gündeme geldi. Ayrıca, İmamoğlu'na yönelik yeni soruşturmalar, belediye çalışanlarına gözaltı dalgaları ve diploma usulsüzlüğü iddiaları, muhalefet üzerindeki yargı baskısının arttığını gösteriyor. Kararın kesinleşmesi için Yargıtay süreci bekleniyor. Tüm bu gelişmeler, Türkiye'de yargı bağımsızlığı, adalet ve demokrasi tartışmalarını yeniden alevlendirdi.
+MHP Genel Başkanı Devlet Bahçeli'nin, Cumhurbaşkanı'nın bir Kürt ve bir Alevi yardımcısı olması yönündeki önerisi, Türkiye'de kimlik siyaseti ve temsiliyet tartışmalarını alevlendirdi. Bu öneri, modern devlet anlayışı ve eşit vatandaşlık ilkeleri açısından eleştirilirken, Lübnanlaşma kavramı üzerinden Türkiye'nin etnik ve mezhebi temsile dayalı bir sisteme kayabileceği endişeleri gündeme geldi. Siyasetçiler ve uzmanlar, sembolik makamların gerçek eşitlik sağlamayacağını, toplumsal barışın ancak kapsayıcı ve demokratik bir yaklaşımla mümkün olacağını vurguluyor. Tartışmalar, Türkiye'nin ulus devlet yapısı, laiklik ve liyakat ilkeleriyle çelişkiler, mevcut ayrımcılık ve toplumsal dönüşüm ihtiyacı ekseninde sürüyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=BhDjZQ6FdKQ) (⏱️ 00:00-04:08)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=3m0VYSk7OYI&t=469s) (⏱️ 07:49-11:03)
-- [Özlem Gürses](https://www.youtube.com/watch?v=V2gKxXNonvs&t=1928s) (⏱️ 32:08-36:49)
-- [Ünsal Ünlü](https://www.youtube.com/watch?v=seB4gSjOmSw&t=853s) (⏱️ 14:13-16:49)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=LV6K3eS_Zs4&t=30s) (⏱️ 00:30-01:21)
-- [Onlar TV](https://www.youtube.com/watch?v=89h6K1gXn7Q) (⏱️ 00:00-20:59)
+- [Rusen Cakir](https://www.youtube.com/watch?v=2DakuAGEhxM&t=1630s) (⏱️ 27:10-33:12)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=yCR2U6ITJ4o&t=24s) (⏱️ 00:24-03:25)
+- [Ünsal Ünlü](https://www.youtube.com/watch?v=seB4gSjOmSw&t=1854s) (⏱️ 30:54-32:45)
 
 ---
 
-## 3. Fatih Altaylı, Zeydan Karalar, Mehmet Murat Çalık ve Siyasi Tutukluluklar: Yargı ve Adalet Eleştirileri
+## 3. Suriye'deki Dürzi-Bedevi Çatışmaları, Bölgesel Dinamikler ve Türkiye'ye Etkileri
 
-Gazeteci Fatih Altaylı, Cumhurbaşkanına tehdit suçlamasıyla 5 yıldan az olmamak üzere hapis istemiyle yargılanıyor. Altaylı'nın iddianamesinin hazırlanma süreci, hukuki dayanakların zayıflığı ve siyasi saiklerle hareket edildiği eleştirileriyle gündemde. Zeydan Karalar ve Mehmet Murat Çalık gibi muhalif belediye başkanlarının tutukluluğu, sağlık sorunlarına rağmen cezaevinde tutulmaları ve adli süreçlerdeki insani olmayan uygulamalar, adalet sistemine yönelik eleştirileri artırıyor. CHP lideri Özgür Özel, yargıdaki çifte standartları, savcıların baskı yöntemlerini ve siyasi tutuklulukları sert şekilde eleştiriyor. Ayrıca, Furkan Karabay gibi gazetecilerin uzun tutukluluk süreleri ve iddianame gecikmeleri, adaletin gecikmesi ve ifade özgürlüğü sorunlarını gündeme getiriyor. Tüm bu gelişmeler, Türkiye'de yargının siyasallaştığı, muhaliflere yönelik baskıların arttığı ve adalet sistemine olan güvenin zedelendiği yönünde yaygın bir algı oluşturuyor.
+Suriye'nin Süveyda bölgesinde Dürziler ile Bedevi Araplar arasında yaşanan çatışmalar, bölgedeki etnik ve mezhebi gerilimleri yeniden gündeme getirdi. Şam yönetimi, İsrail ve ABD'nin müdahil olduğu süreçte ateşkes sağlansa da, bölgedeki kırılganlık devam ediyor. Türkiye açısından, Suriye'deki bu gelişmeler Kürt meselesi ve çözüm süreciyle doğrudan bağlantılı olarak değerlendiriliyor. Dürziler ve diğer kapalı toplulukların tarihsel ve kültürel özellikleri de analiz edilirken, Suriye'nin üniter yapısının geleceği, Kürtlerin olası ittifakları ve bölgesel güç dengeleri tartışılıyor. Bu gelişmelerin Türkiye'nin iç siyasetinde çözüm sürecini hızlandırıcı veya zorlaştırıcı etkileri olabileceği vurgulanıyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=32_QxrMRbfc&t=340s) (⏱️ 05:40-10:24)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=3m0VYSk7OYI&t=469s) (⏱️ 07:49-11:03)
-- [Özlem Gürses](https://www.youtube.com/watch?v=maiR_UmFGFU&t=101s) (⏱️ 01:41-05:21)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=yCR2U6ITJ4o&t=433s) (⏱️ 07:13-21:58)
+- [Rusen Cakir](https://www.youtube.com/watch?v=2DakuAGEhxM&t=2056s) (⏱️ 34:16-52:40)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=yCR2U6ITJ4o&t=1624s) (⏱️ 27:04-35:20)
+- [Serdar Akinan](https://www.youtube.com/watch?v=kDaEFHH097c&t=400s) (⏱️ 06:40-11:14)
 
 ---
 
-## 4. LGS Sınavında Şaibe, Soru Sızıntısı ve Eğitimde Güven Krizi
+## 4. Türkiye'de Yeni Anayasa Tartışmaları ve Siyasi Dengeler
 
-2025 LGS sınavında 719 öğrencinin tam puan alması, bazı okullardan (özellikle imam hatipler) çok sayıda birinci çıkması ve sınav sorularının PDF olarak sınav sırasında WhatsApp gruplarında dolaştığı iddiaları kamuoyunda büyük şaibe yarattı. Milli Eğitim Bakanlığı, Bilgi İşlem Genel Müdürü'nü görevden aldı ve 29 kişi hakkında soruşturma başlattı. Ancak bakanlığın ve dezenformasyon merkezinin açıklamaları kamuoyunu tatmin etmedi. Muhalefet, sınavda şeffaflık ve hesap verebilirlik talep ediyor, mecliste araştırma komisyonu kurulması isteniyor. Sınavda fırsat eşitliği ve adaletin sağlanmadığı, eğitimde güven krizinin derinleştiği vurgulanıyor. Ayrıca, imam hatip okulları üzerinden yürüyen tartışmalar, eğitimde ideolojik kutuplaşmayı da gündeme getirdi.
+Türkiye'de yeni anayasa hazırlıkları hız kazanırken, meclisteki siyasi dengeler ve milletvekili istifaları sürecin seyrini etkiliyor. DEM Parti'den istifalar, bağımsız vekillerin artışı ve AK Parti'nin meclis aritmetiğini değiştirme çabaları, anayasa değişikliği için kritik önemde. Cumhurbaşkanı Erdoğan'ın yeni anayasa için hazırlık yaptığı, muhalefetin ise erken seçim çağrılarının bu gündemle gölgede kalabileceği belirtiliyor. Anayasa değişikliğinin referanduma gidip gitmeyeceği, cumhurbaşkanının görev süresi ve tekrar adaylığı gibi maddeler öne çıkıyor. Ayrıca, meclisten geçen tıbbi kenevir yasası ve topluma etkileri de tartışılıyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Özlem Gürses](https://www.youtube.com/watch?v=V2gKxXNonvs&t=2249s) (⏱️ 37:29-43:09)
-- [Onlar TV](https://www.youtube.com/watch?v=B0UcCH_IdnY&t=5199s) (⏱️ 86:39-89:12)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=3m0VYSk7OYI&t=660s) (⏱️ 11:00-11:52)
-- [Ünsal Ünlü](https://www.youtube.com/watch?v=VzPKzharU18&t=919s) (⏱️ 15:19-17:31)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=LV6K3eS_Zs4&t=757s) (⏱️ 12:37-15:41)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=yCR2U6ITJ4o&t=1378s) (⏱️ 22:58-27:06)
+- [Özlem Gürses](https://www.youtube.com/watch?v=maiR_UmFGFU&t=101s) (⏱️ 01:41-05:19)
 
 ---
 
-## 5. Türkiye Ekonomisinde Bütçe Açığı, Vergi Yükü, Emekli Maaşlarına Haciz ve Alım Gücü Krizi
+## 5. Belediyelere Kayyum Atamaları, Seçilmişlerin Görevden Alınması ve Yolsuzluk İddiaları
 
-Türkiye ekonomisinde bütçe açığı 1 trilyon liraya yaklaşırken, faiz giderleri ve vergi yükü rekor seviyeye ulaştı. Haziran ayında vergi tahsilatı ve ÖTV gelirleri artarken, bütçe açığı büyümeye devam ediyor. Yargıtay'ın emekli maaşlarına haciz konulmasının önünü açan kararı, milyonlarca emekliyi mağdur etti. Asgari ücretlinin alım gücü hızla düşerken, kredi kartı borçları ve icra dosyaları rekor kırıyor. Hükümetin asgari ücrete ara zam yapmama kararı, kamu işçilerine düşük zam teklifleri ve artan dolaylı vergiler, toplumun geniş kesimlerinde ekonomik sıkıntıyı derinleştiriyor. Ayrıca, elektrik fiyatlarındaki artış, kamu varlıklarının satışı ve özelleştirme eleştirileri de gündemde. Tüm bu gelişmeler, ekonomik kriz ve sosyal adaletsizlik tartışmalarını öne çıkarıyor.
+2024 seçimlerinden sonra birçok belediyeye kayyum atanması ve seçilmiş başkanların görevden alınması, Türkiye'de seçmen iradesinin gaspı ve demokrasi açısından ciddi eleştirilere yol açtı. CHP ve DEM Parti'nin milyonlarca oyu bu uygulamalarla devre dışı bırakıldı. Özellikle İstanbul Büyükşehir Belediyesi'nde yolsuzluk ve rüşvet iddiaları, Ekrem İmamoğlu'na yönelik diploma ve fon tartışmaları, belediye otobüslerine yapıştırılan afişler ve karalama kampanyaları gündemde. Ayrıca, tutuklu belediye başkanlarının sağlık sorunları ve adalet sistemine yönelik eleştiriler de öne çıkıyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Özlem Gürses](https://www.youtube.com/watch?v=V2gKxXNonvs&t=1928s) (⏱️ 32:08-36:49)
-- [Ünsal Ünlü](https://www.youtube.com/watch?v=seB4gSjOmSw&t=1804s) (⏱️ 30:04-30:52)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=32_QxrMRbfc&t=1457s) (⏱️ 24:17-39:16)
-- [Onlar TV](https://www.youtube.com/watch?v=B0UcCH_IdnY&t=5199s) (⏱️ 86:39-89:12)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=yCR2U6ITJ4o&t=433s) (⏱️ 07:13-21:58)
+- [Özlem Gürses](https://www.youtube.com/watch?v=V2gKxXNonvs&t=3196s) (⏱️ 53:16-63:42)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=yCR2U6ITJ4o&t=430s) (⏱️ 07:10-21:58)
+- [Ünsal Ünlü](https://www.youtube.com/watch?v=seB4gSjOmSw&t=94s) (⏱️ 01:34-06:04)
 
 ---
 
-## 6. Suriye'de Dürzi-Bedevi Çatışmaları, İsrail'in Şam'a Saldırısı ve Bölgesel Güç Dengeleri
+## 6. Ekonomide Son Gelişmeler: Vergi Artışları, Alım Gücü Kaybı ve Toplumsal Etkiler
 
-Suriye'nin güneyinde Dürziler ile Bedevi Araplar arasında başlayan çatışmalar, İsrail'in Şam'daki askeri merkezlere düzenlediği hava saldırısıyla uluslararası boyut kazandı. İsrail, Dürzileri koruma gerekçesiyle operasyon yaptığını açıklarken, ABD, Türkiye ve Rusya gibi bölgesel aktörler gelişmeleri yakından izliyor. Suriye'de azınlıklar arasında tarihsel güven krizi, katliamlar ve merkezi yönetimin yetersizliği, bölgedeki istikrarsızlığı artırıyor. Kürtler, Dürzilere destek verirken, Şam yönetimiyle müzakereler sürüyor. İsrail'in kırmızı çizgileri, ABD'nin Suriye politikası ve Türkiye'nin askeri/diplomatik hamleleri, bölgedeki güç dengelerini yeniden şekillendiriyor. Bu gelişmeler, Türkiye'nin iç politikasını ve çözüm sürecini de doğrudan etkiliyor.
+Türkiye ekonomisinde artan vergiler, özellikle ÖTV ve KDV, vatandaşın alım gücünü ciddi şekilde düşürdü. Asgari ücretlinin alım gücündeki kayıp, otomotiv sektöründe vergi artışları, toplam vergi tahsilatındaki rekorlar ve bütçe açığı öne çıkıyor. Ekonomik sıkıntılar, kamu işçileri ve memurlarının sözleşmeleri, kredi kartı borçluluğu ve icra dosyalarındaki artışla derinleşiyor. Ekonomik anketler, toplumda umutsuzluğun arttığını gösteriyor. Ayrıca, kamu varlıklarının satışı ve özelleştirme eleştirileri, sermaye ve beyin göçü, enerji fiyatlarındaki zamlar ve barınma krizi de gündemde.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=4sJJ7zzGLZ0&t=871s) (⏱️ 14:31-18:49)
-- [Serdar Akinan](https://www.youtube.com/watch?v=7MW-FnULhoQ&t=663s) (⏱️ 11:03-13:56)
-- [Murat Yetkin](https://www.youtube.com/watch?v=xonFmMzh064&t=640s) (⏱️ 10:40-11:56)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=c3_ryals7KM&t=87s) (⏱️ 01:27-17:38)
+- [Özlem Gürses](https://www.youtube.com/watch?v=V2gKxXNonvs&t=3196s) (⏱️ 53:16-63:42)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=yCR2U6ITJ4o&t=1378s) (⏱️ 22:58-27:06)
+- [Ünsal Ünlü](https://www.youtube.com/watch?v=seB4gSjOmSw&t=1854s) (⏱️ 30:54-32:45)
 
 ---
 
-## 7. Devlet Bahçeli'nin 'Kürt ve Alevi Cumhurbaşkanı Yardımcısı' Önerisi ve 'Lübnanlaşma' Tartışmaları
+## 7. Eğitimde LGS Sınavı, İmam Hatiplilere Yönelik Tartışmalar ve Toplumsal Ayrışma
 
-MHP lideri Devlet Bahçeli'nin 'Cumhurbaşkanı yardımcılarından biri Kürt, biri Alevi olsun' önerisi, Türkiye'de kimlik siyaseti ve temsiliyet tartışmalarını alevlendirdi. Bu öneri, Lübnan ve Irak'taki mezhep ve etnik temelli yönetim modellerine benzetilerek eleştirildi. Muhalefet ve uzmanlar, kimlik temelli atamaların toplumsal eşitlik ve demokrasiye zarar vereceğini, esas çözümün eşit vatandaşlık ve kurumsal dönüşümde olduğunu vurguladı. 'Lübnanlaşma' kavramı üzerinden Türkiye'nin bölünme ve istikrarsızlık riski tartışıldı. Ayrıca, yeni anayasa sürecinde etnik ve mezhebi temelli değişikliklerin toplumu bölebileceği uyarısı yapıldı.
+LGS sınavı sonrası soruların sızdırıldığı iddiaları ve imam hatipli öğrencilerin başarısı üzerinden yapılan ayrımcı söylemler, eğitimde toplumsal ayrışmayı gündeme getirdi. Hem iktidar hem muhalefet, imam hatiplilere yönelik hakaretlere karşı çıktı. Milli Eğitim Bakanı'nın açıklamaları, eğitimde ideolojik yaklaşımlar ve yeni ÖTV düzenlemesiyle birlikte tartışıldı. Eğitimde fırsat eşitliği ve toplumsal barışın önemi vurgulandı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=7Q8sZ9kRCDA&t=731s) (⏱️ 12:11-19:20)
-- [Ünsal Ünlü](https://www.youtube.com/watch?v=VzPKzharU18&t=768s) (⏱️ 12:48-13:17)
-- [Murat Yetkin](https://www.youtube.com/watch?v=xonFmMzh064&t=771s) (⏱️ 12:51-14:05)
-- [Serdar Akinan](https://www.youtube.com/watch?v=7MW-FnULhoQ&t=14s) (⏱️ 00:14-07:08)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=yCR2U6ITJ4o&t=1378s) (⏱️ 22:58-27:06)
 
 ---
 
-## 8. Kartalkaya Otel Yangını Davası, Bakanlıkların Sorumluluğu ve Yargıdaki Adalet Tartışmaları
+## 8. Estetik Operasyonlarda Artan Ölümler ve Sağlık Turizmi
 
-Bolu Kartalkaya'da yaşanan otel yangını davasında 78 kişi hayatını kaybetti, 150'ye yakın kişi yaralandı. Dava sürecinde, otel yönetimi ve bazı çalışanlar yargılanırken, Kültür ve Turizm Bakanlığı ile Çalışma ve Sosyal Güvenlik Bakanlığı yetkilileri hakkında soruşturma izinleri reddedildi. Mağdur aileler, bakanların sorumluluğunun yargı önüne çıkarılmamasını ve adaletin sağlanamamasını eleştiriyor. Ayrıca, davada sanık kürsüsünde olması gereken bazı kamu görevlilerinin yargılanmaması, adalet duygusunu zedeliyor. Duruşmalarda mağdur ailelerin medeni ve sabırlı tutumu dikkat çekiyor. Yangın sırasında otel genel müdürünün davranışları ve bakanın duyarsızlığı da kamuoyunda tepkiyle karşılandı.
+İstanbul'da özel bir estetik hastanesinde yaşanan ölümler, merdiven altı ve yetkisiz uygulamaların yaygınlaşmasıyla birlikte Türkiye'nin sağlık turizmi prestijini olumsuz etkiliyor. Uzmanlar, sadece lisanslı ürünlerle ve uzman hekimler tarafından işlem yapılması gerektiğini vurguluyor. Sosyal medya fenomenlerinin yaşadığı komplikasyonlar ve kaçak ürünlerle yapılan uygulamalar, denetimsizliğin boyutunu gözler önüne seriyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Nevsin Mengu](https://www.youtube.com/watch?v=yCR2U6ITJ4o&t=1386s) (⏱️ 23:06-27:06)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=c3_ryals7KM&t=87s) (⏱️ 01:27-17:38)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=3m0VYSk7OYI&t=660s) (⏱️ 11:00-11:52)
+- [Özlem Gürses](https://www.youtube.com/watch?v=V2gKxXNonvs&t=2209s) (⏱️ 36:49-60:35)
 
 ---
 
-## 9. Kadın Cinayetleri, Çocuk Cinayetleri ve Adalet Sistemindeki Sorunlar
+## 9. Gazetecilere Yönelik Baskı ve Tehditler
 
-Türkiye'de kadın cinayetleri ve çocuk cinayetleri artmaya devam ediyor. Ayşe Tokyaz'ın valiz içinde öldürülmesi, Ahmet Mingüzi'nin çocuk yaşta çete tarafından öldürülmesi ve benzer olaylar, adalet sistemindeki eksiklikleri ve cezasızlık kültürünü gözler önüne seriyor. Avukat Rezan Ep Özdemir'in tehditlere maruz kalması, tehdit edenlerin adli kontrolle serbest bırakılması ve polis ihmali iddiaları, hukuk sistemine olan güveni sarsıyor. Kadın cinayetlerinin çoğunlukla tanıdık veya akraba erkekler tarafından işlendiği ve devletin yeterli önlem almadığı eleştiriliyor. Kamuoyunda adaletin sağlanamadığına dair yaygın bir algı var.
+Gazeteci İsmail Arı'nın aldığı tehditler ve emniyete yapılan başvurulara rağmen işlem yapılmaması, Türkiye'de gazetecilere yönelik baskı ve tehditlerin boyutunu ortaya koyuyor. Bu durum, basın özgürlüğü ve ifade hürriyeti açısından ciddi endişelere yol açıyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Nevsin Mengu](https://www.youtube.com/watch?v=yCR2U6ITJ4o&t=2286s) (⏱️ 38:06-40:04)
-- [Ünsal Ünlü](https://www.youtube.com/watch?v=oT1XqV6IlyI&t=905s) (⏱️ 15:05-16:15)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=32_QxrMRbfc&t=3167s) (⏱️ 52:47-55:24)
+- [Ünsal Ünlü](https://www.youtube.com/watch?v=seB4gSjOmSw&t=855s) (⏱️ 14:15-17:28)
 
 ---
 
-## 10. Fahrettin Altun'un Görevden Alınması, İktidar İçi Güç Savaşları ve Medya
+## 10. Gündemdeki Diğer Gelişmeler: Altan Öymen ve Yaşar Kemal'in Vefatı, Kıbrıs Barış Harekatı, Kazların Tahliyesi ve ABD'de Trump Videosu
 
-Cumhurbaşkanlığı İletişim Başkanı Fahrettin Altun'un görevden alınması, AK Parti içindeki güç savaşlarının ve Beştepe'deki klikler arası mücadelenin bir sonucu olarak değerlendiriliyor. Altun'un Turkuvaz Medya, güvenlik bürokrasisi ve diğer iktidar içi gruplarla yaşadığı çatışmalar, görevden alınmasında etkili oldu. Yerine Burhanettin Duran atandı. Bu değişiklik, medya ve kamu kurumları üzerindeki güç dengelerinin yeniden şekillendiğini gösteriyor. Ayrıca, Altun'a yakın isimlerin gözaltına alınması, MİT Başkanı İbrahim Kalın'a yönelik haber sızdırma iddiaları ve medya savaşları, iktidar içindeki çatışmanın boyutunu ortaya koyuyor.
+CHP'nin eski genel başkanı ve gazeteci Altan Öymen'in vefatı, Türkiye'nin siyasi ve gazetecilik tarihinde önemli bir kayıp olarak anıldı. Ünlü yazar Yaşar Kemal'in ölümünün 10. yılı da edebiyat ve gazetecilikteki katkılarıyla gündeme geldi. Kıbrıs Barış Harekatı'nın 50. yılı kutlanırken, KKTC'nin tanınması çağrısı yinelendi. Balıkesir'de kazların denize girmesi nedeniyle yaşanan bürokratik tartışma ve ABD'de Donald Trump'ın yapay zekâ ile hazırlanan Obama tutuklama videosu da gündemdeki diğer gelişmeler arasında yer aldı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Özlem Gürses](https://www.youtube.com/watch?v=OxfcrCCYm1o&t=5142s) (⏱️ 85:42-89:44)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=yCR2U6ITJ4o&t=1378s) (⏱️ 22:58-27:06)
+- [Rusen Cakir](https://www.youtube.com/watch?v=2DakuAGEhxM&t=13s) (⏱️ 00:13-16:10)
+- [Ünsal Ünlü](https://www.youtube.com/watch?v=seB4gSjOmSw&t=1854s) (⏱️ 30:54-32:45)
 
 ---
 
