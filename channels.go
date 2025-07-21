@@ -153,7 +153,7 @@ var ChannelConfigs = []ChannelConfig{
 		},
 	},
 	{
-		Name: "Ünsal Ünlü",
+		Name: "Unsal Unlu",
 		ID:   "UCzJMy0X4vYivbZHkNccpPhQ",
 		Handler: func(videos []YouTubeVideo) []YouTubeVideo {
 			var selected []YouTubeVideo
