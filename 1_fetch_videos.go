@@ -9,6 +9,7 @@ import (
 	"log"
 	"net/http"
 	"os"
+	"os/exec"
 	"path/filepath"
 	"strings"
 	"sync"
@@ -18,17 +19,25 @@ import (
 	"github.com/spf13/cobra"
 )
 
+// YouTubeChapter represents a video chapter
+type YouTubeChapter struct {
+	Title     string  `json:"title"`
+	StartTime float64 `json:"start_time"`
+	EndTime   float64 `json:"end_time"`
+}
+
 // YouTubeVideo represents minimal video metadata
 type YouTubeVideo struct {
-	ID           string    `json:"id"`
-	Title        string    `json:"title"`
-	Description  string    `json:"description"`
-	PublishedAt  time.Time `json:"published_at"`
-	ThumbnailURL string    `json:"thumbnail_url"`
-	ChannelID    string    `json:"channel_id"`
-	ChannelName  string    `json:"channel_name"`
-	Duration     string    `json:"duration"`
-	URL          string    `json:"url"`
+	ID           string            `json:"id"`
+	Title        string            `json:"title"`
+	Description  string            `json:"description"`
+	PublishedAt  time.Time         `json:"published_at"`
+	ThumbnailURL string            `json:"thumbnail_url"`
+	ChannelID    string            `json:"channel_id"`
+	ChannelName  string            `json:"channel_name"`
+	Duration     string            `json:"duration"`
+	URL          string            `json:"url"`
+	Chapters     []YouTubeChapter  `json:"chapters"`
 }
 
 // FetchVideosCmd: Reads channels.txt, saves videos/videoID.json
@@ -71,6 +80,14 @@ var FetchVideosCmd = &cobra.Command{
 				selected := chInfo.Handler(videos)
 				log.Printf("Channel %s: Found %d videos", chInfo.Name, len(selected))
 				for _, v := range selected {
+					// Fetch chapters for the video
+					chapters, err := fetchVideoChapters(v.ID)
+					if err != nil {
+						log.Printf("Failed to fetch chapters for video %s: %v", v.ID, err)
+					} else {
+						v.Chapters = chapters
+						log.Printf("Found %d chapters for video %s", len(chapters), v.ID)
+					}
 					saveVideoMetadata(v)
 				}
 			}(i, ch)
@@ -330,6 +347,40 @@ func analyzeThumbnail(thumbnailURL string) (string, error) {
 	}
 
 	return "", fmt.Errorf("no title extracted from thumbnail")
+}
+
+// fetchVideoChapters fetches video chapters using yt-dlp
+func fetchVideoChapters(videoID string) ([]YouTubeChapter, error) {
+	videoURL := "https://www.youtube.com/watch?v=" + videoID
+	
+	cmd := exec.Command("yt-dlp", "--dump-json", "--no-download", videoURL)
+	output, err := cmd.Output()
+	if err != nil {
+		return nil, fmt.Errorf("yt-dlp failed: %w", err)
+	}
+	
+	var ytdlpData struct {
+		Chapters []struct {
+			Title     string  `json:"title"`
+			StartTime float64 `json:"start_time"`
+			EndTime   float64 `json:"end_time"`
+		} `json:"chapters"`
+	}
+	
+	if err := json.Unmarshal(output, &ytdlpData); err != nil {
+		return nil, fmt.Errorf("failed to parse yt-dlp output: %w", err)
+	}
+	
+	chapters := make([]YouTubeChapter, len(ytdlpData.Chapters))
+	for i, ch := range ytdlpData.Chapters {
+		chapters[i] = YouTubeChapter{
+			Title:     ch.Title,
+			StartTime: ch.StartTime,
+			EndTime:   ch.EndTime,
+		}
+	}
+	
+	return chapters, nil
 }
 
 // saveVideoMetadata saves video metadata as videos/videoID.json
