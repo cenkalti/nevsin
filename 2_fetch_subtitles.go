@@ -63,26 +63,51 @@ var FetchSubtitlesCmd = &cobra.Command{
 					log.Printf("Failed to create temp directory: %v", err)
 					return
 				}
+				log.Printf("Extracting subtitles for video: %s (%s)", video.Title, video.ID)
 				cmd := exec.Command("yt-dlp", cmdArgs...)
 				cmd.Dir = tmpDir
 				output, err := cmd.CombinedOutput()
 				if err != nil {
-					log.Printf("yt-dlp failed for %s: %v", video.ID, err)
-					log.Printf("yt-dlp error output: %s", string(output))
+					log.Printf("yt-dlp failed for %s (%s): %v", video.ID, video.Title, err)
+					log.Printf("=== FULL YT-DLP ERROR OUTPUT ===")
+					log.Printf("%s", string(output))
+					log.Printf("=== END YT-DLP ERROR OUTPUT ===")
+					log.Printf("Command used: %v", cmdArgs)
 					return
 				}
+				log.Printf("yt-dlp completed successfully for %s", video.ID)
 				// Find the .srt file
-				files2, _ := os.ReadDir(tmpDir)
+				files2, err := os.ReadDir(tmpDir)
+				if err != nil {
+					log.Printf("Failed to read temp directory %s: %v", tmpDir, err)
+					return
+				}
+				
+				foundSubtitle := false
 				for _, f := range files2 {
 					if strings.HasPrefix(f.Name(), video.ID) && strings.HasSuffix(f.Name(), ".srt") {
 						srtPath := filepath.Join(tmpDir, f.Name())
+						log.Printf("Found subtitle file: %s", f.Name())
+						
 						// Post-process SRT file for LLM readability
 						if err := processAndSaveSRT(srtPath, outPath); err != nil {
-							log.Printf("Failed to process subtitle file: %v", err)
+							log.Printf("Failed to process subtitle file %s: %v", srtPath, err)
+						} else {
+							log.Printf("Successfully processed subtitle file for %s", video.ID)
+							foundSubtitle = true
 						}
+						
 						if err := os.Remove(srtPath); err != nil {
-							log.Printf("Failed to remove temp file: %v", err)
+							log.Printf("Failed to remove temp file %s: %v", srtPath, err)
 						}
+					}
+				}
+				
+				if !foundSubtitle {
+					log.Printf("No subtitle file found for video %s (%s) in temp directory", video.ID, video.Title)
+					log.Printf("Files in temp directory:")
+					for _, f := range files2 {
+						log.Printf("  - %s", f.Name())
 					}
 				}
 			}(file.Name())

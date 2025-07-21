@@ -28,16 +28,16 @@ type YouTubeChapter struct {
 
 // YouTubeVideo represents minimal video metadata
 type YouTubeVideo struct {
-	ID           string            `json:"id"`
-	Title        string            `json:"title"`
-	Description  string            `json:"description"`
-	PublishedAt  time.Time         `json:"published_at"`
-	ThumbnailURL string            `json:"thumbnail_url"`
-	ChannelID    string            `json:"channel_id"`
-	ChannelName  string            `json:"channel_name"`
-	Duration     string            `json:"duration"`
-	URL          string            `json:"url"`
-	Chapters     []YouTubeChapter  `json:"chapters"`
+	ID           string           `json:"id"`
+	Title        string           `json:"title"`
+	Description  string           `json:"description"`
+	PublishedAt  time.Time        `json:"published_at"`
+	ThumbnailURL string           `json:"thumbnail_url"`
+	ChannelID    string           `json:"channel_id"`
+	ChannelName  string           `json:"channel_name"`
+	Duration     string           `json:"duration"`
+	URL          string           `json:"url"`
+	Chapters     []YouTubeChapter `json:"chapters"`
 }
 
 // FetchVideosCmd: Reads channels.txt, saves videos/videoID.json
@@ -80,6 +80,9 @@ var FetchVideosCmd = &cobra.Command{
 				selected := chInfo.Handler(videos)
 				log.Printf("Channel %s: Found %d videos", chInfo.Name, len(selected))
 				for _, v := range selected {
+					// Print video info in single line with channel name
+					log.Printf("📺 [%s] %s - %s", chInfo.Name, v.Title, v.URL)
+
 					// Fetch chapters for the video
 					chapters, err := fetchVideoChapters(v.ID)
 					if err != nil {
@@ -215,17 +218,17 @@ func fetchYouTubeVideos(channelID string, channelName string) ([]YouTubeVideo, e
 	for _, item := range videosResult.Items {
 		// Skip videos that are scheduled premieres (have scheduledStartTime but no actualStartTime)
 		if item.LiveStreamingDetails.ScheduledStartTime != "" && item.LiveStreamingDetails.ActualStartTime == "" {
-			log.Printf("Skipping premiere video: %s", item.Snippet.Title)
+			log.Printf("[%s] Skipping premiere video: %s", channelName, item.Snippet.Title)
 			continue
 		}
 
-		// Skip videos shorter than 5 minutes (300 seconds)
+		// Skip videos shorter than 10 minutes
 		if item.ContentDetails.Duration != "" {
 			dur, err := duration.Parse(item.ContentDetails.Duration)
 			if err == nil {
 				durationSeconds := int(dur.ToTimeDuration().Seconds())
-				if durationSeconds < 300 {
-					log.Printf("Skipping short video (%ds): %s", durationSeconds, item.Snippet.Title)
+				if durationSeconds < 600 {
+					log.Printf("[%s] Skipping short video (%ds): %s", channelName, durationSeconds, item.Snippet.Title)
 					continue
 				}
 			}
@@ -352,13 +355,13 @@ func analyzeThumbnail(thumbnailURL string) (string, error) {
 // fetchVideoChapters fetches video chapters using yt-dlp
 func fetchVideoChapters(videoID string) ([]YouTubeChapter, error) {
 	videoURL := "https://www.youtube.com/watch?v=" + videoID
-	
+
 	cmd := exec.Command("yt-dlp", "--dump-json", "--no-download", videoURL)
 	output, err := cmd.Output()
 	if err != nil {
 		return nil, fmt.Errorf("yt-dlp failed: %w", err)
 	}
-	
+
 	var ytdlpData struct {
 		Chapters []struct {
 			Title     string  `json:"title"`
@@ -366,11 +369,11 @@ func fetchVideoChapters(videoID string) ([]YouTubeChapter, error) {
 			EndTime   float64 `json:"end_time"`
 		} `json:"chapters"`
 	}
-	
+
 	if err := json.Unmarshal(output, &ytdlpData); err != nil {
 		return nil, fmt.Errorf("failed to parse yt-dlp output: %w", err)
 	}
-	
+
 	chapters := make([]YouTubeChapter, len(ytdlpData.Chapters))
 	for i, ch := range ytdlpData.Chapters {
 		chapters[i] = YouTubeChapter{
@@ -379,7 +382,7 @@ func fetchVideoChapters(videoID string) ([]YouTubeChapter, error) {
 			EndTime:   ch.EndTime,
 		}
 	}
-	
+
 	return chapters, nil
 }
 
