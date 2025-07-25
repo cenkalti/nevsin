@@ -147,6 +147,13 @@ Görevlerin:
 4. Her haber için kapsamlı bir özet oluştur
 5. Türkiye gündemindeki önemli konulara öncelik ver
 
+ÖZET YAZIM KURALLARI:
+• Özeti basit cümleler halinde yaz
+• Madde işaretleri kullan
+• Her madde kısa ve net olsun
+• Karmaşık cümleler kurma
+• Teknik terimler varsa basit açıkla
+
 Dikkat edilecek noktalar:
 - Aynı konuyu farklı muhabirler farklı açılardan ele almış olabilir, bunları birleştir
 - Her muhabirin katkısını göz önünde bulundur

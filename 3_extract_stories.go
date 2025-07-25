@@ -278,7 +278,7 @@ func extractStories(subtitle, videoID, channelID string, chapters []YouTubeChapt
 		"messages": []map[string]any{
 			{
 				"role":    "system",
-				"content": "Sen Türkçe haber metinlerini analiz eden bir uzmansın. Verilen altyazıdan birden fazla haber hikayesini çıkarman gerekiyor. Her haber için başlık, özet ve başlangıç/bitiş saniyelerini belirle.\n\nALTYAZI FORMATI: Altyazı basitleştirilmiş formattadır. Her satır şu şekildedir:\n[saniye]: [metin]\n\nÖrnek:\n7: Retro, retro arkadaşlar. Retro. Sorun\n10: retrodan kaynaklanıyor. Merkür retrosu\n13: Aslan burcunda gerçekleşiyormuş. Ben\n\nSadece gerçek haber içeriğini çıkar, reklam veya genel konuşmaları dahil etme. Her haber için start_second ve end_second değerlerini saniye cinsinden belirle.",
+				"content": "Sen Türkçe haber metinlerini analiz eden bir uzmansın. Verilen altyazıdan birden fazla haber hikayesini çıkarman gerekiyor. Her haber için başlık, özet ve başlangıç/bitiş saniyelerini belirle.\n\nALTYAZI FORMATI: Altyazı basitleştirilmiş formattadır. Her satır şu şekildedir:\n[saniye]: [metin]\n\nÖrnek:\n7: Retro, retro arkadaşlar. Retro. Sorun\n10: retrodan kaynaklanıyor. Merkür retrosu\n13: Aslan burcunda gerçekleşiyormuş. Ben\n\nÖZET YAZIM KURALLARI:\n• Özeti basit cümleler halinde yaz\n• Madde işaretleri kullan\n• Her madde kısa ve net olsun\n• Karmaşık cümleler kurma\n• Teknik terimler varsa basit açıkla\n\nSadece gerçek haber içeriğini çıkar, reklam veya genel konuşmaları dahil etme. Her haber için start_second ve end_second değerlerini saniye cinsinden belirle.",
 			},
 			{
 				"role":    "user",
