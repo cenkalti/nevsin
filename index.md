@@ -1,126 +1,152 @@
 # Bugün Ne Oldu?
 
-*23 July 2025 tarihli günlük haber raporu - 10 haber birleştirildi*
+*26 July 2025 tarihli günlük haber raporu - 10 haber birleştirildi*
 
-## 1. Türkiye'de Yeni Çözüm Süreci, Kimlik Siyaseti ve Suriye'de Bölgesel Gelişmeler
+## 1. Türkiye'de Çözüm Süreci, Kürt Meselesi ve Siyasi Aktörlerin Tutumu
 
-Türkiye'de yeni bir çözüm süreci ve kimlik siyaseti tartışmaları, hem iç politikada hem de Suriye'deki gelişmelerle birlikte gündemin en üst sıralarında yer alıyor. Devlet Bahçeli'nin Kürt ve Alevi cumhurbaşkanı yardımcısı önerisi, Cumhurbaşkanı Erdoğan'ın Türk-Kürt-Arap ittifakı söylemi ve Meclis'te kurulacak komisyon ile yeni anayasa hazırlıkları, siyasi kulislerde yoğun tartışmalara yol açıyor. MİT Başkanı İbrahim Kalın'ın siyasi partilere PKK'nın silah bırakması ve militanların durumu hakkında bilgi vermesi, çözüm sürecinin şeffaflığı ve toplumsal mutabakat ihtiyacını öne çıkarıyor. Suriye'de ise Türkiye'nin askeri ve siyasi rolü, Kürtlerin statüsü, İsrail ve ABD'nin bölgedeki tutumları, Suriye'nin Türkiye'den askeri destek talebi ve olası bölünme riski, Türkiye'nin dış politikasında belirleyici oluyor. Bölgedeki vekalet savaşları, SDG/YPG'nin durumu, Suriye'de Kürtlerin geleceği ve Türkiye-İsrail gerilimi de gündemde. Tüm bu gelişmeler, Türkiye'de kimlik ve etnik siyaset tartışmalarını, yeni anayasa ve demokratikleşme süreçlerini, Suriye'deki bölgesel dengelerle birlikte şekillendiriyor.
+• Mecliste yeni bir çözüm süreci ve komisyon kurulması gündemde.
+• Komisyonun kapsamı, katılımcıları ve karar alma şekli tartışılıyor.
+• CHP'nin sürece katılıp katılmaması stratejik bir ikilem olarak öne çıkıyor.
+• AK Parti, MHP ve Dem Parti arasındaki ilişkilerde çatlaklar var ama büyük bir ayrışma beklenmiyor.
+• PKK'nın silah bırakma kararı ve sürecin geleceği belirsiz.
+• Siyasi aktörler (Erdoğan, Bahçeli, CHP, Dem Parti) sürecin gidişatında önemli rol oynuyor.
+• Kürt hareketi, CHP'nin sürece dahil olmasını istiyor.
+• Suriye'deki gelişmeler ve bölgesel dinamikler süreci etkiliyor.
+• Güven artırıcı önlemler ve siyasi partiler arası iş birliği vurgulanıyor.
+• Kamuoyu desteği için CHP'nin rolü kritik.
+• Erdoğan'ın CHP'yi dışarıda tutma stratejisi eleştiriliyor.
+• Tuncar Bakırhan, Kürtlerin yönetimde temsil edilmesi gerektiğini savunuyor ve yargıdaki ayrımcılığa dikkat çekiyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=lBIF67UEYRc) (⏱️ 00:00-05:32)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=Hpa2Vy5pCvQ&t=807s) (⏱️ 13:27-17:27)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=AvAM9Hrflyc&t=2260s) (⏱️ 37:40-38:38)
-- [Murat Yetkin](https://www.youtube.com/watch?v=I1yZlhS_g5w&t=1s) (⏱️ 00:01-01:36)
+- [Rusen Cakir](https://www.youtube.com/watch?v=ltm6rrtcDjQ&t=1332s) (⏱️ 22:12-25:32)
+- [Serdar Akinan](https://www.youtube.com/watch?v=HN1VNAHm91g&t=4s) (⏱️ 00:04-04:37)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=gKEfz2ILb-s&t=132s) (⏱️ 02:12-08:04)
 
 ---
 
-## 2. Türkiye'de Demokrasi, Adalet ve Muhalefete Yönelik Baskılar
+## 2. Türkiye'nin Irak Petrolü, Enerji Anlaşmaları ve Siyasi Yansımaları
 
-Türkiye'de demokrasi ve hukuk devleti tartışmaları, muhalefete yönelik yargı süreçleri ve siyasi baskılarla birlikte derinleşiyor. Ekrem İmamoğlu'na yönelik siyasi ve hukuki baskılar, belediye başkanlarına ve muhalif isimlere açılan soruşturmalar, tutuklamalar ve kamuoyunda oluşan tepkiler, Türkiye'de otoriterleşme ve yeni bir rejim tartışmalarını gündeme getiriyor. CHP'nin çözüm sürecine yaklaşımı, parti içi değişim talepleri ve belediyelere yönelik operasyonlar, muhalefetin baskı altına alınmak istendiğini gösteriyor. Ayrıca, gazetecilere yönelik baskılar, Fatih Altaylı'nın tutukluluğu ve toplumun bu duruma duyarsızlığı da eleştiriliyor. Siyasi partilerde istifalar, meclis grubu krizi ve seçmen iradesine saygısızlık tartışmaları da gündemde. Tüm bu gelişmeler, Türkiye'de adalet arayışı, toplumsal dayanışma ve kamu vicdanı kavramlarının önemini bir kez daha ortaya koyuyor.
+• Türkiye, Irak petrollerini uluslararası anlaşmalara aykırı şekilde taşıdığı için 1.47 milyar dolar cezaya çarptırıldı.
+• Cezanın arka planında 2003 sonrası Irak'ın enerji yapısındaki karmaşa ve 2013-2014'te Türkiye ile Erbil arasında yapılan gizli petrol anlaşmaları var.
+• Power Trans ve BMZ Grup şirketleri, Erbil-Ceyhan arasındaki petrol ihracatında tek yetkili oldu.
+• RedHack'in sızdırdığı e-postalar, Berat Albayrak ve Bilal Erdoğan'ın bu şirketlerle ilişkili olduğunu iddia etti.
+• Rusya ve ABD, Erdoğan ailesinin petrol ticaretine karıştığına dair iddialar ortaya attı.
+• Türkiye'nin enerji politikaları, uluslararası ilişkilerde ve iç siyasette tartışma konusu oldu.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=Fevi4V1EHDQ) (⏱️ 00:00-05:42)
-- [Unsal Unlu](https://www.youtube.com/watch?v=0zLaDlGlBhU&t=86s) (⏱️ 01:26-19:52)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=AvAM9Hrflyc&t=2318s) (⏱️ 38:38-40:06)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=8OPdcobpSac&t=600s) (⏱️ 10:00-23:00)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=Hpa2Vy5pCvQ) (⏱️ 00:00-06:53)
+- [Serdar Akinan](https://www.youtube.com/watch?v=HN1VNAHm91g&t=4s) (⏱️ 00:04-04:37)
 
 ---
 
-## 3. Türkiye'nin Savunma Sanayi Hamleleri, Eurofighter Anlaşması ve Suriye'de Askeri İşbirliği
+## 3. Türkiye'nin İsrail'e Yönelik Tutumu ve Bogota Anlaşması Tartışması
 
-Türkiye'nin savunma sanayisinde attığı adımlar, IDEF savunma fuarında tanıtılan yeni balistik füzeler, milli hava savunma sistemi 'Çelik Kubbe'nin aktif hale getirilmesi ve Eurofighter savaş uçağı alımı için yapılan anlaşmalar öne çıkıyor. Almanya'nın blokajına rağmen İngiltere'nin arabuluculuğunda Türkiye'nin Eurofighter kullanıcısı olacağı açıklanırken, bu gelişmeler Türkiye'nin hava savunma kapasitesini artırma çabalarının bir parçası olarak değerlendiriliyor. Ayrıca, Suriye'nin Türkiye'den resmi olarak askeri destek talep etmesi, bölgesel dengeleri değiştirecek bir gelişme olarak öne çıkıyor. Türkiye'nin Suriye'deki askeri ve siyasi rolü, İsrail ve ABD'nin bölgedeki tutumlarıyla birlikte, savunma sanayisindeki gelişmelerin dış politikadaki etkisini artırıyor.
+• Hakan Fidan'ın Bogota'da imzalamadık dediği anlaşmanın 6 maddesi İsrail'e askeri ve ticari ambargo öngörüyor.
+• Türkiye, anlaşmayı ticaretin zarar göreceği gerekçesiyle imzalamadı.
+• Anlaşmanın imzalanmaması eleştirildi.
+• Türkiye'nin Suriye'ye askeri müdahale dışında seçeneği kalmadığı iddia edildi.
+• Geçmişteki petrol ticareti ve belgelerin ABD ve İsrail'in elinde olduğu vurgulandı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Nevsin Mengu](https://www.youtube.com/watch?v=8OPdcobpSac&t=1920s) (⏱️ 32:00-34:00)
-- [Murat Yetkin](https://www.youtube.com/watch?v=I1yZlhS_g5w&t=1s) (⏱️ 00:01-01:36)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=AvAM9Hrflyc&t=30s) (⏱️ 00:30-02:55)
-- [Unsal Unlu](https://www.youtube.com/watch?v=0zLaDlGlBhU&t=2713s) (⏱️ 45:13-47:18)
+- [Serdar Akinan](https://www.youtube.com/watch?v=HN1VNAHm91g&t=4s) (⏱️ 00:04-04:37)
 
 ---
 
-## 4. Ekonomik Kriz, Bütçe Açığı ve Toplumsal Yansımalar
+## 4. Suça Sürüklenen Çocuklar, Ceza Sistemi ve Toplumsal Tartışmalar
 
-Türkiye'de ekonomik kriz, bütçe açığı ve artan vergi yükü, toplumsal yaşamı derinden etkiliyor. 2025 Haziran ayı bütçe verilerine göre giderler 24 trilyon TL'ye ulaşırken, gelirler giderleri karşılamıyor ve bütçe açığı büyüyor. Vergi gelirlerinde artış yaşanırken, kamu harcamalarındaki israf ve tasarruf söylemlerinin yetersizliği eleştiriliyor. Enflasyon, hayat pahalılığı, elektrik ve gıda fiyatlarındaki artışlar, işsizlik ve yoksulluk, ev sahipliği oranındaki düşüş ve tarımda üretici-tüketici fiyat farkları da gündemde. Ayrıca, tekstil sektöründe yaşanan kriz, yatırımların Mısır'a kayması ve konkordato ilan eden şirketler, ekonomik sorunların reel sektöre yansımalarını gösteriyor. Ekonomik krizin toplumsal huzursuzluğu artırdığı, kamu vicdanında adalet ve fırsat eşitliği taleplerini güçlendirdiği vurgulanıyor.
+• Minguzzi davasında yeni gelişmeler yaşanıyor, çocukların cezalandırılması tartışılıyor.
+• Cumhurbaşkanı Erdoğan, Adalet Bakanlığı'na çalışma yapılması talimatı verdi.
+• CHP'li Mahmut Tanal, ağır suç işleyen çocuklara yaş indirimi uygulanmamasını önerdi.
+• Anne-baba ve bakım sorumlularına da cezai sorumluluk getirilmesi gündemde.
+• İstanbul Barosu'nun açıklamaları ve toplumda güven eksikliği tartışılıyor.
+• Hukukçular, çocukların hakları ve ceza sisteminin işleyişi hakkında farklı görüşler dile getiriyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=w69w6H4CdYg&t=52s) (⏱️ 00:52-01:41)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=AvAM9Hrflyc&t=830s) (⏱️ 13:50-14:42)
-- [Unsal Unlu](https://www.youtube.com/watch?v=0zLaDlGlBhU&t=86s) (⏱️ 01:26-19:52)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=YSMDe50ANvo&t=1110s) (⏱️ 18:30-25:00)
 
 ---
 
-## 5. Kimlik, Etnik Siyaset ve Alevi Açılımı Tartışmaları
+## 5. Türkiye'de Gazetecilere Yönelik Baskılar ve Basın Özgürlüğü
 
-Türkiye'de kimlik ve etnik siyaset tartışmaları, Devlet Bahçeli'nin cumhurbaşkanı yardımcılarının etnik kimliklere göre belirlenmesi önerisiyle yeniden gündeme geldi. Bu önerinin toplumsal ayrışmayı artıracağı, kimlik siyasetinin derinleşeceği ve vatandaşlık temelinde yönetimin önem taşıdığı vurgulanıyor. Alevi açılımı, cemevlerinin ibadethane statüsü, zorunlu din dersi ve Alevi kanaat önderlerinin rolü gibi konular da tartışılıyor. Ayrıca, Fransa ve ABD'deki anayasal vatandaşlık modelleriyle karşılaştırmalar yapılıyor ve devletin kimlikler üzerinden dizayn edilmesinin toplumsal bölünmeye yol açabileceği belirtiliyor. Sivil toplumun ve lobilerin rolü, anayasal eşitlik ilkesi ve kimlik dayatmalarının yanlışlığı da öne çıkan başlıklar arasında.
+• Türkiye'de gazeteciler üzerinde baskı ve tutuklamalar var.
+• Fatih Altaylı'nın tutukluluğu ve diğer gazetecilerin durumu örnek gösterildi.
+• Toplumun bu duruma alışmaması gerektiği vurgulandı.
+• Türkiye Gazeteciler Cemiyeti, basın özgürlüğü mücadelesinin önemini vurgulayan ödül verdi.
+• Ödül, cezaevindeki gazetecilere ve mesleğe emek verenlere ithaf edildi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=lBIF67UEYRc&t=529s) (⏱️ 08:49-15:12)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=Hpa2Vy5pCvQ&t=807s) (⏱️ 13:27-17:27)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=AvAM9Hrflyc&t=2318s) (⏱️ 38:38-40:06)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=yBsruQ619ic&t=2340s) (⏱️ 39:00-56:00)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=gKEfz2ILb-s&t=132s) (⏱️ 02:12-08:04)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=YSMDe50ANvo&t=30s) (⏱️ 00:30-06:30)
 
 ---
 
-## 6. Gazze'de İnsanlık Dramı ve Türkiye'nin Tutumu
+## 6. Adalet Sistemine Güven, Tutuklamalar ve Sosyal Medyada Yanlış Bilgi
 
-Gazze'de yaşanan insani kriz, açlık ve savaş nedeniyle binlerce sivilin, özellikle çocukların hayatını kaybetmesiyle derinleşiyor. Uluslararası yardım kuruluşlarının getirdiği yardımların dağıtımı sırasında İsrail askerlerinin ateş açması ve insanların açlıkla terbiye edilmeye çalışılması, insanlık dramını gözler önüne seriyor. Türkiye'de ise siyasetçilerin ve toplumun bu trajediye yeterince tepki göstermemesi eleştiriliyor. Ayrıca, Türkiye'nin İsrail ile ticari ilişkileri ve savunma sanayisindeki işbirlikleri de tartışma konusu oluyor. Gazze'deki dram, Türkiye'nin dış politikasında ve kamuoyunda vicdan ve insan hakları tartışmalarını yeniden gündeme getiriyor.
+• Adana Belediye Başkanı Zeydan Karalar ve ailesi hakkında sosyal medyada sahte tutuklama haberleri yayıldı.
+• Bu haberlerin gerçek dışı olduğu ortaya çıktı.
+• Toplumda adalet sistemine güven eksikliği ve korku olduğu vurgulandı.
+• Tutukluluk ve adli kontrol uygulamaları eleştirildi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Serdar Akinan](https://www.youtube.com/watch?v=wEowj5-M4O0&t=27s) (⏱️ 00:27-00:30)
-- [Unsal Unlu](https://www.youtube.com/watch?v=0zLaDlGlBhU&t=86s) (⏱️ 01:26-19:52)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=YSMDe50ANvo&t=1110s) (⏱️ 18:30-25:00)
 
 ---
 
-## 7. Eğitimde Fırsat Eşitliği, Elitizm ve LGS Sınavı Tartışmaları
+## 7. Türkiye'nin Avrupa ile Savunma İşbirliği ve Eurofighter Satışı
 
-Milli Eğitim Bakanı Yusuf Tekin'in elitizm ve fırsat eşitliğiyle ilgili açıklamaları, eğitimde fırsat eşitliğinin ortadan kalktığı ve kamuya alımlarda liyakat yerine belirli çevrelerin öne çıktığı eleştirileriyle karşılandı. LGS sınavı sonuçları ve usulsüzlük iddiaları, eğitim sistemindeki şeffaflık eksikliği ve adaletsizlik tartışmalarını gündeme getirdi. İmam Hatip liselerine yönelik pozitif ayrımcılık ve diğer okulların ihmal edilmesi, eğitimde fırsat eşitliğinin bozulduğu eleştirileriyle birlikte değerlendiriliyor. Tüm bu gelişmeler, Türkiye'de eğitim sisteminin adalet ve liyakat temelinde yeniden yapılandırılması gerekliliğini ortaya koyuyor.
+• Almanya, Türkiye'ye Eurofighter savaş uçağı satışını onayladı.
+• Avrupa'da savunma harcamaları artıyor, yeni savunma konsepti oluşturuluyor.
+• Türkiye'nin savunma sektöründeki rolü ve Avrupa ile işbirliği potansiyeli tartışıldı.
+• Savunma harcamalarına karşı sosyal bütçeden kısıntı endişeleri var.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=yBsruQ619ic&t=2340s) (⏱️ 39:00-56:00)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=AvAM9Hrflyc&t=780s) (⏱️ 13:00-13:50)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=YSMDe50ANvo&t=30s) (⏱️ 00:30-06:30)
 
 ---
 
-## 8. Toplumsal Adalet Arayışı, Annelerin Dayanışması ve Faili Meçhul Cinayetler
+## 8. Üniversite ve Kariyer Tavsiyeleri: Başarılı Gençlerin Deneyimleri
 
-Türkiye'de adalet arayışı ve toplumsal dayanışma, özellikle annelerin adalet talepleri ve faili meçhul cinayetler üzerinden gündeme geliyor. Bakırköy Özgürlük Meydanı'nda Yasemin Minguzzi'nin adalet arayışı, Sedef Gürel, Abdurrahman Balcı ve motokurye Ata Emre Akman'ın annelerinin tepkileri, cezasızlığa karşı yükselen toplumsal tepkiyi gösteriyor. 15 yaşında bir çocuğun öldürülmesi ve davanın sürüncemede kalması, tehditler ve takipsizlik kararları üzerinden adalet sisteminin eleştirisi yapılıyor. Ayrıca, Cumartesi Anneleri'nin sembol ismi Emine Ocak'ın vefatı ve faili meçhul cinayetler, toplumda adalet ve vicdan duygusunun güçlenmesine yol açıyor.
+• Üniversite ve bölüm seçimi yapan gençlere tavsiyeler verildi.
+• Gençlere teknolojiye yakın alanlar seçmeleri önerildi.
+• Üniversitelerin sunduğu araştırma ve burs imkanlarının önemi vurgulandı.
+• Öğrencilerin ilgilerini keşfetmeleri ve destekleyici üniversiteler seçmeleri tavsiye edildi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=0zLaDlGlBhU&t=2713s) (⏱️ 45:13-47:18)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=Fevi4V1EHDQ&t=342s) (⏱️ 05:42-08:59)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=8OPdcobpSac&t=600s) (⏱️ 10:00-23:00)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=YSMDe50ANvo&t=1110s) (⏱️ 18:30-25:00)
 
 ---
 
-## 9. Türkiye'de Sıcak Hava Dalgası ve Orman Yangınları
+## 9. Sosyal Medyada Siyasi Teoriler ve Ekrem İmamoğlu Tartışmaları
 
-Türkiye genelinde etkili olan aşırı sıcak hava dalgası, en az bir hafta daha devam edecek. Sıcaklıklar, özellikle kalp, tansiyon, astım hastaları, yaşlılar ve bebekler için ciddi riskler oluşturuyor. Ayrıca, orman yangınları açısından da büyük tehlike söz konusu. Sakarya ve çevresinde çıkan orman yangınları henüz kontrol altına alınamadı. Sıcaklıkların demir yolu raylarının çöl sıcaklıklarına ulaşmasına neden olduğu ve ulaşımda da riskler arttığı belirtiliyor. Uzmanlar bol su içilmesini ve güneşe çıkılmamasını öneriyor.
+• Twitter'da Ekrem İmamoğlu'nun görevden alınacağına dair iddialar var.
+• Bu tür sosyal medya hesapları, siyasi süreçleri farklı açılardan değerlendiriyor.
+• Kanal İstanbul ve Türkiyelilik projelerinin başarısız olacağı iddia ediliyor.
+• İktidarın başarısız olması halinde yeni bir alternatifin geleceği öne sürülüyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Murat Yetkin](https://www.youtube.com/watch?v=I1yZlhS_g5w&t=1s) (⏱️ 00:01-01:36)
-- [Serdar Akinan](https://www.youtube.com/watch?v=wEowj5-M4O0&t=54s) (⏱️ 00:54-01:03)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=gKEfz2ILb-s&t=132s) (⏱️ 02:12-08:04)
 
 ---
 
-## 10. Altan Öymen'in Vefatı ve Toplumsal Değerler
+## 10. Elif Atayman'ın Cezaevi Koşulları ve Adil Yargılanma Hakkı
 
-Cumhuriyet Halk Partisi'nin eski genel başkanı ve gazeteci Altan Öymen'in vefatı, cenaze töreni ve toplumda bıraktığı izler, farklı yaş gruplarından insanların kaybı üzerinden toplumsal değerler ve dayanışma vurgusuyla ele alınıyor. Gazetecilikteki duruşu, mesleki katkıları ve kişisel özellikleriyle Türk basını için büyük bir kayıp olduğu ifade ediliyor. Kamu vicdanı kavramı ve adaletsizliklere karşı ses çıkaranların önemi de tekrar ediliyor.
+• Elif Atayman'ın cezaevindeki durumu anlatılıyor.
+• Afyon'da ağır suçlularla aynı koğuşta kalıyor.
+• Cezaevi koşulları zor, Elif Atayman koğuş arkadaşlarına okuma yazma öğretiyor.
+• Mahkemede hakimlerin ilgisizliği ve tutukluluğun devamı kararları eleştiriliyor.
+• Tutukluların adil yargılanma hakkı ve cezaevi koşulları sorgulanıyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=0zLaDlGlBhU&t=2625s) (⏱️ 43:45-45:13)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=yBsruQ619ic&t=2340s) (⏱️ 39:00-56:00)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=AvAM9Hrflyc&t=1850s) (⏱️ 30:50-32:23)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=YSMDe50ANvo&t=1110s) (⏱️ 18:30-25:00)
 
 ---
 
