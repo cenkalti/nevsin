@@ -1,174 +1,178 @@
 # Bugün Ne Oldu?
 
-*29 July 2025 tarihli günlük haber raporu - 10 haber birleştirildi*
+*30 July 2025 tarihli günlük haber raporu - 10 haber birleştirildi*
 
-## 1. Orman Yangınları, Müdahale Eksikliği ve Maden Ruhsatı Tartışmaları
+## 1. CHP'nin Meclis Komisyonuna Katılımı ve Siyasi Tartışmalar
 
-- Türkiye'nin birçok ilinde büyük orman yangınları çıktı, can ve mal kaybı yaşandı.
-- Yangınlara müdahalede uçak ve ekipman eksikliği eleştirildi.
-- Türk Hava Kurumu'na ait yangın söndürme uçakları haciz nedeniyle satılamıyor, bazıları kullanılabilir durumda olmasına rağmen hangarda bekliyor.
-- Yangın çıkan bölgelerde maden ruhsatı başvuruları yapıldığı ortaya çıktı.
-- Bazı yangın alanlarında maden ve yapılaşma faaliyetleri için kasıtlı yangın çıkarıldığı iddiaları gündeme geldi.
-- Orman Bakanlığı ve hükümet, yangınlarla mücadelede yeterli olmadıkları için eleştirildi.
-- Cumhurbaşkanı ve bakanlar, sorumluluğu belediyelere atarken, muhalefet yetki ve ekipman eksikliğine dikkat çekti.
-- Orman işçileri maaş ve çalışma koşullarından şikayetçi, greve gitmeyi planlıyor.
-- Türkiye'de ormanların azalmasında madencilik ve yapılaşmanın rolü büyük.
-- Yangınlar sonrası doğa tahribatı ve kamu kaynaklarının yanlış kullanımı tartışılıyor.
+- Mecliste "Terörsüz Türkiye" ve yeni anayasa için komisyon kuruldu
+- CHP, komisyona nitelikli çoğunluk şartı ile katılma kararı aldı
+- Komisyonun amacı, Kürt sorunu ve terörle mücadelede çözüm aramak
+- CHP'nin katılımı parti içinde ve seçmen nezdinde tartışma yarattı
+- Komisyonun işleyişi, karar alma süreçleri ve üyeleri detaylandırıldı
+- Muhalefet, komisyonun AK Parti'ye meşruiyet sağlamaması gerektiğini savundu
+- Komisyonun adında ve yapısında muhalefetin talepleri dikkate alındı
+- Komisyonun yeni anayasa hazırlığı için zemin olabileceği iddia edildi
+- CHP'nin komisyona katılımı, Kürt seçmenle ilişkiler ve parti içi strateji açısından önemli
+- Komisyonun etkisi ve işlevi kamuoyunda tartışmalı
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=qw-cVRf-QXA&t=503s) (⏱️ 08:23-09:41)
-- [Onlar TV](https://www.youtube.com/watch?v=UOb13m6eq7U&t=3053s) (⏱️ 50:53-66:29)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=UBqMVLMJuBk&t=1950s) (⏱️ 32:30-43:00)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=VsuoNaIWySs&t=2470s) (⏱️ 41:10-45:57)
-- [Unsal Unlu](https://www.youtube.com/watch?v=l4h0NYgLN1I&t=1252s) (⏱️ 20:52-22:37)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=pZGQr4nXVhw&t=311s) (⏱️ 05:11-06:58)
+- [Murat Yetkin](https://www.youtube.com/watch?v=-xDaeg4E0G8&t=5s) (⏱️ 00:05-09:53)
+- [Unsal Unlu](https://www.youtube.com/watch?v=TU4ajeo52aw&t=130s) (⏱️ 02:10-03:24)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=IsQbosnz3iw&t=1172s) (⏱️ 19:32-21:56)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=VsuoNaIWySs&t=773s) (⏱️ 12:53-20:02)
+- [Rusen Cakir](https://www.youtube.com/watch?v=oUGhucwm1kw&t=3s) (⏱️ 00:03-11:37)
+- [Serdar Akinan](https://www.youtube.com/watch?v=tmX6ZUFWcAA&t=303s) (⏱️ 05:03-05:36)
 
 ---
 
-## 2. Kürt Sorunu, Meclis Komisyonu ve CHP'nin Tutumu
+## 2. Yargıdaki Siyasallaşma, Rüşvet ve Skandallar
 
-- Mecliste "Terörsüz Türkiye Komisyonu" kurulması gündemde.
-- Komisyonun adı, yapısı ve işlevi konusunda siyasi partiler arasında anlaşmazlık var.
-- CHP, komisyona katılım için nitelikli çoğunluk ve eşit temsil şartı istiyor.
-- CHP tabanında ve kamuoyunda komisyona katılım konusunda tartışmalar yaşanıyor.
-- DEM Parti, komisyonun adında ve işleyişinde demokratikleşme vurgusu yapılmasını talep ediyor.
-- Komisyonun önerilerinin bağlayıcı olmayacağı, sadece tavsiye niteliğinde olacağı belirtiliyor.
-- Komisyonun başarısız olması halinde erken seçim ve siyasi kriz ihtimali konuşuluyor.
-- Kürt sorununun çözümü için güven artırıcı adımlar ve demokratikleşme beklentisi var.
-- Komisyona katılım, CHP'nin siyasi geleceği ve Kürt seçmenle ilişkileri açısından kritik görülüyor.
+- Türkiye'de yargı sisteminin siyasallaştığı ve güven kaybı yaşandığı iddia ediliyor
+- 15 Temmuz sonrası yargıdaki FETÖ bağlantılı hakim ve savcılar tasfiye edildi
+- FETÖ borsası, rüşvet, dosya kapatma ve vasi atamaları üzerinden milyonluk çarklar ortaya çıktı
+- Zindaşti davası, Kartal Adliyesi'nde rüşvet iddiaları ve sahte belgeler gündemde
+- Cumhurbaşkanı Erdoğan'ın avukatı Mustafa Doğan İnal ile yollar ayrıldı, bu gelişme yargıdaki klik çatışmalarına bağlandı
+- Adliyelerde para karşılığı dosya kapatma, sahte belge üretimi ve usulsüzlükler yaygınlaştı
+- Vasi borsası ve yüksek vekalet ücretleri tartışılıyor
+- Yargıdaki bu sorunlar, adalet sistemine olan güveni zedeliyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=yeQac6xObhw&t=1592s) (⏱️ 26:32-41:57)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=qw-cVRf-QXA&t=1087s) (⏱️ 18:07-20:24)
-- [Serdar Akinan](https://www.youtube.com/watch?v=LZpZUK5N0Mc&t=702s) (⏱️ 11:42-14:18)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=VsuoNaIWySs&t=2470s) (⏱️ 41:10-45:57)
-- [Murat Yetkin](https://www.youtube.com/watch?v=hXwqlnrc_6Y&t=288s) (⏱️ 04:48-07:14)
-- [Unsal Unlu](https://www.youtube.com/watch?v=l4h0NYgLN1I&t=121s) (⏱️ 02:01-03:33)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=fY22M-o4SRg) (⏱️ 00:00-21:10)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=IsQbosnz3iw&t=3251s) (⏱️ 54:11-59:53)
 
 ---
 
-## 3. Ekonomik Kriz, Geçim Sıkıntısı ve Vergi Politikaları
+## 3. İstanbul Büyükşehir Belediyesi'ne (İBB) Yönelik Operasyonlar ve Siyasi Baskılar
 
-- Türkiye'de ekonomik kriz ve geçim sıkıntısı derinleşiyor.
-- Pazarlarda fiyatlar çok yüksek, vatandaşlar temel gıdaya ulaşmakta zorlanıyor.
-- Memur ve emekli maaş zamları yetersiz bulunuyor.
-- Mehmet Şimşek'in vergi politikaları eleştiriliyor, dolaylı vergiler dar gelirliyi daha çok etkiliyor.
-- Kamu harcamaları ve faiz giderleri artıyor, bütçe açığı büyüyor.
-- Sosyal konut projeleri ve kamu kaynaklarının kullanımı tartışılıyor.
-- Sınıfsal kopuş ve gelir dağılımındaki adaletsizlik gündemde.
-- Lüks tüketim ve yatlara vergi uygulanmaması eleştiriliyor.
+- İBB'ye ve iştiraklerine yönelik operasyonlar ve gözaltılar yapıldı
+- İETT ve İSFALT şirketlerinde üst düzey yöneticiler gözaltına alındı
+- Ekrem İmamoğlu'nun diploması iptal edildi, yargı süreci devam ediyor
+- İBB'nin itfaiye eri alımına izin verilmedi, siyasi baskı iddiaları var
+- Cezaevinde tutuklu İBB çalışanlarının aileleriyle ilgili insani durumlar gündeme geldi
+- Operasyonların siyasi amaçlı olduğu ve muhalefeti baskılamak için yapıldığı öne sürülüyor
+- İddianame süreçlerinde gecikme ve yargıdaki klik çatışmaları iddia edildi
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=UBqMVLMJuBk&t=3240s) (⏱️ 54:00-63:00)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=qw-cVRf-QXA&t=380s) (⏱️ 06:20-08:23)
-- [Unsal Unlu](https://www.youtube.com/watch?v=7QrzhoxaTWk&t=2528s) (⏱️ 42:08-47:28)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=IsQbosnz3iw&t=454s) (⏱️ 07:34-21:56)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=5AklFzsTKUc&t=2619s) (⏱️ 43:39-48:08)
+- [Unsal Unlu](https://www.youtube.com/watch?v=4oBke8JNKF8&t=1484s) (⏱️ 24:44-25:44)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=VsuoNaIWySs&t=2470s) (⏱️ 41:10-45:59)
 
 ---
 
-## 4. Yargıda Rüşvet, Şantaj ve Adalet Krizi
+## 4. Türkiye'de Ekonomik Kriz, Enflasyon ve Toplumsal Sorunlar
 
-- Yargı sisteminde rüşvet, şantaj ve usulsüzlük iddiaları artıyor.
-- Başsavcılar arasında rüşvet ve şantaj suçlamaları gündeme geldi.
-- Vasi dosyalarında yüksek meblağlarda rüşvet ve usulsüzlük iddiaları ortaya çıktı.
-- Yargı mensupları ve avukatlar arasında para pazarlıkları ve tarikat bağlantıları iddia ediliyor.
-- Uyap sisteminde sahte belgeler oluşturuldu, FETÖ davalarında usulsüz işlemler yapıldı.
-- Sahte savcılık belgeleriyle sosyal medyada dezenformasyon yapılıyor.
-- Adalet sistemine olan güven sarsıldı, kamuoyunda ciddi endişeler var.
+- Türkiye'de ekonomik kriz derinleşiyor, enflasyon yüksek
+- Kamudaki ücret zamları gerçek enflasyonun altında kaldı
+- Emlak vergisi, motorlu taşıtlar vergisi ve diğer vergilerde büyük artışlar talep edildi
+- İlaç sektöründe döviz kuru ve dışa bağımlılık nedeniyle ilaç sıkıntısı yaşanıyor
+- Hayat pahalılığı ve gelir-gider dengesizliği vatandaşları zorluyor
+- Hükümet enflasyonun düştüğünü iddia etse de sokakta geçim sıkıntısı büyüyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=3I7BAwzdB0c&t=623s) (⏱️ 10:23-13:12)
-- [Unsal Unlu](https://www.youtube.com/watch?v=7QrzhoxaTWk&t=2528s) (⏱️ 42:08-47:28)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=lFVRFCQWs5I&t=1227s) (⏱️ 20:27-23:30)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=VsuoNaIWySs&t=2470s) (⏱️ 41:10-45:59)
+- [Unsal Unlu](https://www.youtube.com/watch?v=TU4ajeo52aw&t=207s) (⏱️ 03:27-04:48)
 
 ---
 
-## 5. İstanbul Büyükşehir Belediyesi ve Belediye Başkanlarına Yönelik Soruşturmalar
+## 5. Türkiye'de İşsizlik, Yoksulluk ve Gençlerin Durumu
 
-- Ekrem İmamoğlu ve bazı CHP'li belediye başkanlarına yönelik soruşturmalar ve gözaltılar gündemde.
-- İmamoğlu'nun yüksek lisans diploması iptal edildi, daha önce lisans diploması da iptal edilmişti.
-- İBB ve İETT yöneticilerine yönelik operasyonlar yapıldı, birçok yönetici gözaltına alındı.
-- Soruşturmaların siyasi amaçlı olduğu iddia ediliyor.
-- Soruşturmalarda yolsuzluk ve rüşvet iddiaları var, bazı sanıklar etkin pişmanlıkla tahliye edildi.
-- Soruşturmaların sonuçları ve siyasi etkileri merak ediliyor.
+- TÜİK verilerine göre işsizlik ve yoksulluk artıyor
+- Geniş tanımlı işsiz sayısı 13,5 milyona ulaştı
+- Kadın işsizliği ve genç işsizliği rekor seviyede
+- 6 milyon genç ne eğitimde ne istihdamda
+- Gençler gelecekten umutsuz, bazıları yasa dışı işlere yöneliyor
+- Emekliler düşük maaşlarla geçinmeye çalışıyor
+- İşçiler grev hazırlığında, ekonomik kriz derinleşiyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=qw-cVRf-QXA&t=919s) (⏱️ 15:19-18:07)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=VsuoNaIWySs&t=2470s) (⏱️ 41:10-45:57)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=3I7BAwzdB0c&t=623s) (⏱️ 10:23-13:12)
-- [Unsal Unlu](https://www.youtube.com/watch?v=l4h0NYgLN1I&t=213s) (⏱️ 03:33-05:14)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=pZGQr4nXVhw&t=261s) (⏱️ 04:21-05:11)
 
 ---
 
-## 6. TSK'da Askeri Kazalar, Susuzluktan ve Güneş Çarpmasından Ölümler
+## 6. Orman Yangınları, Mücadele Eksiklikleri ve Personel Sorunu
 
-- Son dönemde TSK'da askerlerin kazalarda, susuzluktan ve güneş çarpmasından ölümü gündeme geldi.
-- Askerlerin uygun olmayan koşullarda eğitime çıkarıldığı ve sağlık sisteminin zayıfladığı iddia edildi.
-- Askeri eğitimde eksiklikler ve liyakat sorunu eleştirildi.
-- Olayların ihmalle ilgili olabileceği ve kamuoyuna açıklama yapılması gerektiği vurgulandı.
-- Su krizi ve altyapı eksikliği de askeri kayıpları artırıyor.
+- Türkiye'de son günlerde birçok orman yangını çıktı
+- Yangınların çoğu kontrol altına alındı, bazıları devam ediyor
+- Yangınlarla mücadelede koordinasyon ve personel eksikliği var
+- Orman işçileri düşük zam tekliflerinden şikayetçi ve greve hazırlanıyor
+- Orman Genel Müdürlüğü'nün uçak ve helikopter alımlarında usulsüzlük iddiaları var
+- İtfaiye personeli alımına engel konulması eleştirildi
+- Yangın yönetimi ve önlemler konusunda sistem eksikliği sürüyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Serdar Akinan](https://www.youtube.com/watch?v=LZpZUK5N0Mc&t=702s) (⏱️ 11:42-14:18)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=UBqMVLMJuBk&t=600s) (⏱️ 10:00-15:00)
-- [Onlar TV](https://www.youtube.com/watch?v=U8Vu4yTwAUw) (⏱️ 00:00-08:16)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=VsuoNaIWySs&t=773s) (⏱️ 12:53-20:02)
+- [Unsal Unlu](https://www.youtube.com/watch?v=4oBke8JNKF8&t=870s) (⏱️ 14:30-19:36)
+- [Murat Yetkin](https://www.youtube.com/watch?v=-xDaeg4E0G8&t=5s) (⏱️ 00:05-09:53)
+- [Serdar Akinan](https://www.youtube.com/watch?v=tmX6ZUFWcAA&t=504s) (⏱️ 08:24-12:23)
 
 ---
 
-## 7. Mossad'ın Türkiye'de Casusluk Faaliyetleri ve Kişisel Veri Güvenliği
+## 7. Atatürk Orman Çiftliği ve Çevre Tahribatı Tartışmaları
 
-- İsrail istihbaratı Mossad, Türkiye'de dedektiflik büroları ve emekli polisler aracılığıyla casusluk yaptı.
-- Mossad, Türk vatandaşlığına geçen Hamas yöneticilerini ve Filistinli aktivistleri takip ettirdi.
-- Kişisel veriler devletin kapalı sistemlerinden kolayca elde edilip satıldı.
-- Bu durumun ciddi bir milli güvenlik sorunu oluşturduğu belirtildi.
-- Operasyonlarda çok sayıda kişi gözaltına alındı, çoğu emekli polis ve göçmenlerden oluşuyor.
+- Atatürk Orman Çiftliği arazisinin Medipol Üniversitesi'ne tahsisi tartışma yarattı
+- Arazideki ağaçların kasıtlı olarak kurutulduğu iddia edildi
+- Belediyelerin imar yetkisi dışında bırakılması eleştirildi
+- Çevre ve doğal alanların rant için tahrip edildiği öne sürüldü
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Onlar TV](https://www.youtube.com/watch?v=UOb13m6eq7U&t=76s) (⏱️ 01:16-11:14)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=lFVRFCQWs5I&t=13s) (⏱️ 00:13-05:16)
+- [Unsal Unlu](https://www.youtube.com/watch?v=TU4ajeo52aw&t=3554s) (⏱️ 59:14-59:56)
 
 ---
 
-## 8. Türkiye'nin Suriye ve Güney Sınırında Dış Politika Gelişmeleri
+## 8. Türkiye-İsrail İlişkileri ve Filistin'e Yönelik Yaptırımlar
 
-- Türkiye'nin Suriye'ye olası askeri operasyonu sosyal medyada gündem oldu, ancak operasyon yapılmadı.
-- ABD, Suriye Demokratik Güçleri'ne silah bıraktırmaya çalışıyor, YPG ise silah bırakmayı reddediyor.
-- Suriye'nin kuzeyinde yeni bir yapılanma oluşuyor, Türkiye bu süreçte dışarıda bırakıldı.
-- Türkiye'nin dış politika stratejisi ve askeri müdahale seçenekleri tartışılıyor.
+- Türkiye, İsrail'e yönelik liman yaptırımlarını imzalamaya karar verdi
+- Bogota bildirisi ve uluslararası yaptırımlar gündemde
+- Hükümetin tutarsızlığı ve dışişleri politikası eleştirildi
+- Gazze'de açlık ve insani kriz devam ediyor, uluslararası tepkiler artıyor
+- Türkiye'de bireysel yardım kampanyaları sembolik kaldı
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Serdar Akinan](https://www.youtube.com/watch?v=LZpZUK5N0Mc&t=966s) (⏱️ 16:06-17:10)
-- [Unsal Unlu](https://www.youtube.com/watch?v=7QrzhoxaTWk&t=2528s) (⏱️ 42:08-47:28)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=lFVRFCQWs5I&t=13s) (⏱️ 00:13-05:16)
+- [Unsal Unlu](https://www.youtube.com/watch?v=TU4ajeo52aw&t=532s) (⏱️ 08:52-12:19)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=VsuoNaIWySs&t=2367s) (⏱️ 39:27-41:07)
 
 ---
 
-## 9. Gazetecilere Yönelik Yargı Baskısı ve Sponsorluk Tartışmaları
+## 9. Fenerbahçe ve Hamdi Ulukaya Sponsorluk Anlaşması
 
-- Onlar TV ve bazı gazeteciler, yaptıkları haberler nedeniyle yargı baskısına maruz kalıyor.
-- Altın kaçakçılığı ve İsrail'le ticaret haberleri sonrası gazetecilere dava açıldı, bazıları uzun süredir tutuklu.
-- Kripto para borsası Crypex'in başkanı Gökalp İçer'in tutuklanması sonrası medya sponsorlukları tartışma konusu oldu.
-- Onlar TV, sponsorluk ilişkilerinin kısa sürdüğünü ve bağımsız gazetecilik yaptıklarını açıkladı.
+- Fenerbahçe, Hamdi Ulukaya'nın sahibi olduğu Çobani ile büyük sponsorluk anlaşması yaptı
+- Anlaşmanın tutarı 120-200 milyon dolar arasında değişiyor
+- Hamdi Ulukaya'nın "Türkiyeliler" kavramı ve Kürt kökeni tartışma yarattı
+- Anlaşma, Fenerbahçe'nin mali yapısı için önemli bir adım olarak değerlendirildi
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Onlar TV](https://www.youtube.com/watch?v=UOb13m6eq7U&t=76s) (⏱️ 01:16-11:14)
-- [Unsal Unlu](https://www.youtube.com/watch?v=7QrzhoxaTWk&t=2354s) (⏱️ 39:14-41:52)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=pZGQr4nXVhw&t=418s) (⏱️ 06:58-12:28)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=IsQbosnz3iw&t=454s) (⏱️ 07:34-21:56)
+- [Serdar Akinan](https://www.youtube.com/watch?v=tmX6ZUFWcAA&t=212s) (⏱️ 03:32-04:57)
 
 ---
 
-## 10. Sosyal ve Kültürel Gündem: Mizahi Tartışmalar ve Özel Etkinlikler
+## 10. Rusya Kamçatka'da Büyük Deprem ve Tsunami Uyarısı
 
-- Sinan Çetin'in Plato Film'in 40. yıl kutlaması Cihangir'de yapıldı, birçok tanınmış isim katıldı.
-- Şahan Gökbakar ve Acun Ilıcalı arasında sosyal medyada mizahi bir atışma yaşandı.
-- Bu tür sosyal ve kültürel olaylar, gündemin yoğunluğunda kısa süreli ilgi çekti.
+- Rusya'nın Kamçatka bölgesinde 8.7-8.8 büyüklüğünde deprem oldu
+- Tsunami riski nedeniyle panik yaşandı, dalgalar Hawaii ve Japonya'ya ulaştı
+- Büyük yıkım ve can kaybı olmadı, depreme dayanıklı yapılar dikkat çekti
+- Türkiye'de depreme hazırlıkların yetersiz olduğu vurgulandı
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=UBqMVLMJuBk&t=3780s) (⏱️ 63:00-71:00)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=lFVRFCQWs5I&t=875s) (⏱️ 14:35-19:00)
+- [Unsal Unlu](https://www.youtube.com/watch?v=4oBke8JNKF8&t=1484s) (⏱️ 24:44-25:44)
+- [Serdar Akinan](https://www.youtube.com/watch?v=tmX6ZUFWcAA&t=303s) (⏱️ 05:03-05:36)
 
 ---
 
