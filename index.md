@@ -1,178 +1,170 @@
 # Bugün Ne Oldu?
 
-*30 July 2025 tarihli günlük haber raporu - 10 haber birleştirildi*
+*31 July 2025 tarihli günlük haber raporu - 10 haber birleştirildi*
 
-## 1. CHP'nin Meclis Komisyonuna Katılımı ve Siyasi Tartışmalar
+## 1. Türkiye'de Grev Yasağı, İşçi Hakları ve Ekonomik Kriz
 
-- Mecliste "Terörsüz Türkiye" ve yeni anayasa için komisyon kuruldu
-- CHP, komisyona nitelikli çoğunluk şartı ile katılma kararı aldı
-- Komisyonun amacı, Kürt sorunu ve terörle mücadelede çözüm aramak
-- CHP'nin katılımı parti içinde ve seçmen nezdinde tartışma yarattı
-- Komisyonun işleyişi, karar alma süreçleri ve üyeleri detaylandırıldı
-- Muhalefet, komisyonun AK Parti'ye meşruiyet sağlamaması gerektiğini savundu
-- Komisyonun adında ve yapısında muhalefetin talepleri dikkate alındı
-- Komisyonun yeni anayasa hazırlığı için zemin olabileceği iddia edildi
-- CHP'nin komisyona katılımı, Kürt seçmenle ilişkiler ve parti içi strateji açısından önemli
-- Komisyonun etkisi ve işlevi kamuoyunda tartışmalı
+- 600 bin kamu işçisinin grevi Cumhurbaşkanı kararıyla milli güvenlik gerekçesiyle 60 gün ertelendi
+- Grev hakkı anayasal olmasına rağmen, son yıllarda sıkça erteleniyor
+- Maden işçileri ve aileleri bu karardan doğrudan etkilendi
+- Hükümetin zam teklifleri işçilerin taleplerinin çok altında kaldı
+- Türkiye'de çalışanlar uzun saatler çalışıyor ve hakları giderek tırpanlanıyor
+- Yoksulluk sınırı 86 bin TL, açlık sınırı 26 bin TL'ye yükseldi, asgari ücret açlık sınırının altında kaldı
+- Türkiye'de işsizlik oranı rekor seviyede, çalışanların yarısı açlık sınırının altında gelir elde ediyor
+- Market ve süpermarket çalışanlarının zor koşulları gündemde
+- Sendikalar ve işçiler geçim sıkıntısı nedeniyle greve gitmek istiyor ancak hakları engelleniyor
+- Grev hakkının engellenmesi işçilerin pazarlık gücünü zayıflatıyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=pZGQr4nXVhw&t=311s) (⏱️ 05:11-06:58)
-- [Murat Yetkin](https://www.youtube.com/watch?v=-xDaeg4E0G8&t=5s) (⏱️ 00:05-09:53)
-- [Unsal Unlu](https://www.youtube.com/watch?v=TU4ajeo52aw&t=130s) (⏱️ 02:10-03:24)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=IsQbosnz3iw&t=1172s) (⏱️ 19:32-21:56)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=VsuoNaIWySs&t=773s) (⏱️ 12:53-20:02)
-- [Rusen Cakir](https://www.youtube.com/watch?v=oUGhucwm1kw&t=3s) (⏱️ 00:03-11:37)
-- [Serdar Akinan](https://www.youtube.com/watch?v=tmX6ZUFWcAA&t=303s) (⏱️ 05:03-05:36)
+- [Murat Yetkin](https://www.youtube.com/watch?v=aObDAc7njkg&t=481s) (⏱️ 08:01-11:54)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=aVSfbcCloRA&t=2380s) (⏱️ 39:40-54:00)
+- [Serdar Akinan](https://www.youtube.com/watch?v=bZWVdnJVjVA&t=502s) (⏱️ 08:22-09:13)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=hviaI_B50Hs&t=1256s) (⏱️ 20:56-22:25)
+- [Unsal Unlu](https://www.youtube.com/watch?v=WOAlCwqD8TU&t=730s) (⏱️ 12:10-13:24)
 
 ---
 
-## 2. Yargıdaki Siyasallaşma, Rüşvet ve Skandallar
+## 2. Yargı Bağımsızlığı, Gazetecilere Baskı ve Siyasi Davalar
 
-- Türkiye'de yargı sisteminin siyasallaştığı ve güven kaybı yaşandığı iddia ediliyor
-- 15 Temmuz sonrası yargıdaki FETÖ bağlantılı hakim ve savcılar tasfiye edildi
-- FETÖ borsası, rüşvet, dosya kapatma ve vasi atamaları üzerinden milyonluk çarklar ortaya çıktı
-- Zindaşti davası, Kartal Adliyesi'nde rüşvet iddiaları ve sahte belgeler gündemde
-- Cumhurbaşkanı Erdoğan'ın avukatı Mustafa Doğan İnal ile yollar ayrıldı, bu gelişme yargıdaki klik çatışmalarına bağlandı
-- Adliyelerde para karşılığı dosya kapatma, sahte belge üretimi ve usulsüzlükler yaygınlaştı
-- Vasi borsası ve yüksek vekalet ücretleri tartışılıyor
-- Yargıdaki bu sorunlar, adalet sistemine olan güveni zedeliyor
+- Gazeteci Fatih Altaylı, cumhurbaşkanına tehdit suçlamasıyla tutuklu, davası 3 Ekim'de
+- Ercüment Akdeniz ve İpek Elif Atayman da uzun süredir tutuklu, iddianamelerde hatalar var
+- Gazetecilere yönelik baskı ve tutuklamalar devam ediyor, basın özgürlüğü kısıtlanıyor
+- CHP'li belediyelere yönelik operasyonlar ve kayyum atamaları tartışılıyor
+- Yargı süreçlerinin adil ve hızlı işlemediği eleştiriliyor
+- Anayasa Mahkemesi'ne başvurular ve uluslararası hukuk vurgulanıyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=fY22M-o4SRg) (⏱️ 00:00-21:10)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=IsQbosnz3iw&t=3251s) (⏱️ 54:11-59:53)
+- [Murat Yetkin](https://www.youtube.com/watch?v=aObDAc7njkg&t=724s) (⏱️ 12:04-13:10)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=aVSfbcCloRA&t=1140s) (⏱️ 19:00-21:44)
+- [Serdar Akinan](https://www.youtube.com/watch?v=bZWVdnJVjVA&t=3s) (⏱️ 00:03-01:35)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=hviaI_B50Hs&t=64s) (⏱️ 01:04-02:27)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=ncuhbeT1fKM&t=2641s) (⏱️ 44:01-52:03)
+- [Unsal Unlu](https://www.youtube.com/watch?v=WOAlCwqD8TU&t=730s) (⏱️ 12:10-13:24)
 
 ---
 
-## 3. İstanbul Büyükşehir Belediyesi'ne (İBB) Yönelik Operasyonlar ve Siyasi Baskılar
+## 3. CHP'de Komisyon, Parti İçi Tartışmalar ve Siyasi Strateji
 
-- İBB'ye ve iştiraklerine yönelik operasyonlar ve gözaltılar yapıldı
-- İETT ve İSFALT şirketlerinde üst düzey yöneticiler gözaltına alındı
-- Ekrem İmamoğlu'nun diploması iptal edildi, yargı süreci devam ediyor
-- İBB'nin itfaiye eri alımına izin verilmedi, siyasi baskı iddiaları var
-- Cezaevinde tutuklu İBB çalışanlarının aileleriyle ilgili insani durumlar gündeme geldi
-- Operasyonların siyasi amaçlı olduğu ve muhalefeti baskılamak için yapıldığı öne sürülüyor
-- İddianame süreçlerinde gecikme ve yargıdaki klik çatışmaları iddia edildi
+- CHP, Meclis'te kurulan komisyona katılma kararı aldı, 10 üye belirledi
+- Komisyonun ismi, kapsamı ve nitelikli çoğunluk tartışılıyor
+- Özgür Özel'in liderliği, parti içi muhalefet ve Tanju Özcan krizi gündemde
+- CHP'nin hem ulusalcı hem de Kürt seçmeni memnun etme stratejisi var
+- Komisyonun demokratikleşmeye katkı sağlayıp sağlamayacağı tartışılıyor
+- Adaylık krizi, Dilek İmamoğlu ve Mansur Yavaş isimleri gündeme geliyor
+- CHP'nin DEM Parti tabanından oy alma stratejisi konuşuluyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=IsQbosnz3iw&t=454s) (⏱️ 07:34-21:56)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=5AklFzsTKUc&t=2619s) (⏱️ 43:39-48:08)
-- [Unsal Unlu](https://www.youtube.com/watch?v=4oBke8JNKF8&t=1484s) (⏱️ 24:44-25:44)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=VsuoNaIWySs&t=2470s) (⏱️ 41:10-45:59)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=aVSfbcCloRA&t=1620s) (⏱️ 27:00-39:40)
+- [Serdar Akinan](https://www.youtube.com/watch?v=bZWVdnJVjVA&t=695s) (⏱️ 11:35-11:55)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=ncuhbeT1fKM&t=1880s) (⏱️ 31:20-35:24)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=hviaI_B50Hs&t=452s) (⏱️ 07:32-10:34)
 
 ---
 
-## 4. Türkiye'de Ekonomik Kriz, Enflasyon ve Toplumsal Sorunlar
+## 4. Orman Yangınları, Maden Yasası ve Çevre Krizi
 
-- Türkiye'de ekonomik kriz derinleşiyor, enflasyon yüksek
-- Kamudaki ücret zamları gerçek enflasyonun altında kaldı
-- Emlak vergisi, motorlu taşıtlar vergisi ve diğer vergilerde büyük artışlar talep edildi
-- İlaç sektöründe döviz kuru ve dışa bağımlılık nedeniyle ilaç sıkıntısı yaşanıyor
-- Hayat pahalılığı ve gelir-gider dengesizliği vatandaşları zorluyor
-- Hükümet enflasyonun düştüğünü iddia etse de sokakta geçim sıkıntısı büyüyor
+- Türkiye'de bu yıl büyük orman yangınları yaşandı, 25.000 futbol sahası büyüklüğünde alan kaybedildi
+- Yangın söndürme uçak ve helikopterlerinin yetersizliği eleştirildi
+- Orman yollarının kapalı olması ve işçi eksikliği yangınların büyümesine neden oldu
+- TBMM'den geçen yeni yasa ile zeytinlikler madenciliğe açıldı, çevre koruma tartışmaları arttı
+- Diyanet İşleri Başkanlığı 90 bin camide dua kararı aldı, bu adım eleştirildi
+- Belediyelerin yangınla ilgili yetkilerinin AFAD'a devredilmesi planlanıyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=lFVRFCQWs5I&t=1227s) (⏱️ 20:27-23:30)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=VsuoNaIWySs&t=2470s) (⏱️ 41:10-45:59)
-- [Unsal Unlu](https://www.youtube.com/watch?v=TU4ajeo52aw&t=207s) (⏱️ 03:27-04:48)
+- [Murat Yetkin](https://www.youtube.com/watch?v=aObDAc7njkg&t=724s) (⏱️ 12:04-13:10)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=aVSfbcCloRA&t=2380s) (⏱️ 39:40-54:00)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=hviaI_B50Hs&t=64s) (⏱️ 01:04-02:27)
+- [Unsal Unlu](https://www.youtube.com/watch?v=WOAlCwqD8TU&t=730s) (⏱️ 12:10-13:24)
 
 ---
 
-## 5. Türkiye'de İşsizlik, Yoksulluk ve Gençlerin Durumu
+## 5. Suriye, SDG, ABD ve Türkiye'nin Bölgesel Politikaları
 
-- TÜİK verilerine göre işsizlik ve yoksulluk artıyor
-- Geniş tanımlı işsiz sayısı 13,5 milyona ulaştı
-- Kadın işsizliği ve genç işsizliği rekor seviyede
-- 6 milyon genç ne eğitimde ne istihdamda
-- Gençler gelecekten umutsuz, bazıları yasa dışı işlere yöneliyor
-- Emekliler düşük maaşlarla geçinmeye çalışıyor
-- İşçiler grev hazırlığında, ekonomik kriz derinleşiyor
+- ABD, Türkiye'ye SDG'nin tehdit oluşturmayacağı yönünde güvence verdi
+- Türkiye, SDG ve Kürtlerle ilgili sert mesajlar veriyor, askeri müdahale seçeneği masada
+- Suriye'de Dürziler, Aleviler ve diğer azınlıkların durumu tartışılıyor
+- İsrail, Güney Suriye'de tampon bölge ve askersiz alan istiyor
+- HTŞ'nin bölgedeki rolü, azınlık hakları ve çoğulculuk sorunları gündemde
+- Türkiye'nin Suriye'deki askeri kapasitesi ve bölgesel dengeler konuşuluyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=pZGQr4nXVhw&t=261s) (⏱️ 04:21-05:11)
+- [Murat Yetkin](https://www.youtube.com/watch?v=aObDAc7njkg&t=46s) (⏱️ 00:46-01:59)
+- [Rusen Cakir](https://www.youtube.com/watch?v=sk3G2IdrHbA) (⏱️ 00:00-04:16)
 
 ---
 
-## 6. Orman Yangınları, Mücadele Eksiklikleri ve Personel Sorunu
+## 6. Türkiye'de Yoksulluk, Açlık Sınırı ve Tarımda Kriz
 
-- Türkiye'de son günlerde birçok orman yangını çıktı
-- Yangınların çoğu kontrol altına alındı, bazıları devam ediyor
-- Yangınlarla mücadelede koordinasyon ve personel eksikliği var
-- Orman işçileri düşük zam tekliflerinden şikayetçi ve greve hazırlanıyor
-- Orman Genel Müdürlüğü'nün uçak ve helikopter alımlarında usulsüzlük iddiaları var
-- İtfaiye personeli alımına engel konulması eleştirildi
-- Yangın yönetimi ve önlemler konusunda sistem eksikliği sürüyor
+- Yoksulluk sınırı 86 bin TL, açlık sınırı 26 bin TL'ye yükseldi
+- Asgari ücret açlık sınırının altında kaldı, emekliler temel ihtiyaçlarını karşılayamıyor
+- Geniş tanımlı işsizlik oranı rekor seviyede
+- Tarımda üretici memnuniyetsizliği, ürünler dalda kalıyor
+- Tarım Bakanlığı'na liyakatsiz atamalar ve sistem eksikliği eleştiriliyor
+- Temel gıda fiyatları çok yüksek, üretici ve tüketici arasında uçurum var
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Nevsin Mengu](https://www.youtube.com/watch?v=VsuoNaIWySs&t=773s) (⏱️ 12:53-20:02)
-- [Unsal Unlu](https://www.youtube.com/watch?v=4oBke8JNKF8&t=870s) (⏱️ 14:30-19:36)
-- [Murat Yetkin](https://www.youtube.com/watch?v=-xDaeg4E0G8&t=5s) (⏱️ 00:05-09:53)
-- [Serdar Akinan](https://www.youtube.com/watch?v=tmX6ZUFWcAA&t=504s) (⏱️ 08:24-12:23)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=hviaI_B50Hs&t=1256s) (⏱️ 20:56-22:25)
+- [Unsal Unlu](https://www.youtube.com/watch?v=WOAlCwqD8TU&t=730s) (⏱️ 12:10-13:24)
 
 ---
 
-## 7. Atatürk Orman Çiftliği ve Çevre Tahribatı Tartışmaları
+## 7. CHP Kurultayı, KHK'lılar ve Siyasi Gelişmeler
 
-- Atatürk Orman Çiftliği arazisinin Medipol Üniversitesi'ne tahsisi tartışma yarattı
-- Arazideki ağaçların kasıtlı olarak kurutulduğu iddia edildi
-- Belediyelerin imar yetkisi dışında bırakılması eleştirildi
-- Çevre ve doğal alanların rant için tahrip edildiği öne sürüldü
+- CHP'de kurultay süreci Eylül'e ertelendi
+- Kılıçdaroğlu ve Özgür Özel'in görüşmesi olumlu hava yarattı
+- KHK'lıların iadesiyle ilgili yeni yasa çalışması gündemde
+- İktidar kulislerinden KHK'lılar için olumlu sinyaller geliyor
+- Erdoğan'ın "Türkiye Partisi ol" çağrısı ve muhalefetin geleceği tartışılıyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=lFVRFCQWs5I&t=13s) (⏱️ 00:13-05:16)
-- [Unsal Unlu](https://www.youtube.com/watch?v=TU4ajeo52aw&t=3554s) (⏱️ 59:14-59:56)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=Fk7BhPtBUA0&t=417s) (⏱️ 06:57-14:18)
 
 ---
 
-## 8. Türkiye-İsrail İlişkileri ve Filistin'e Yönelik Yaptırımlar
+## 8. Yerel Yönetimler, Kayyum ve Şehir Sorunları
 
-- Türkiye, İsrail'e yönelik liman yaptırımlarını imzalamaya karar verdi
-- Bogota bildirisi ve uluslararası yaptırımlar gündemde
-- Hükümetin tutarsızlığı ve dışişleri politikası eleştirildi
-- Gazze'de açlık ve insani kriz devam ediyor, uluslararası tepkiler artıyor
-- Türkiye'de bireysel yardım kampanyaları sembolik kaldı
+- İstanbul Şişli/Nişantaşı'nda çöp sorunu ve kayyum yönetimi tartışılıyor
+- Vatandaşlar kayyumun ne olduğunu ve kimin yönettiğini bilmiyor
+- Kayyum yönetiminde de şehir hizmetlerinde aksaklıklar yaşanıyor
+- Sorunun CHP belediyeciliğiyle ilgisi olmadığı vurgulanıyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=lFVRFCQWs5I&t=13s) (⏱️ 00:13-05:16)
-- [Unsal Unlu](https://www.youtube.com/watch?v=TU4ajeo52aw&t=532s) (⏱️ 08:52-12:19)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=VsuoNaIWySs&t=2367s) (⏱️ 39:27-41:07)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=aVSfbcCloRA&t=2380s) (⏱️ 39:40-54:00)
 
 ---
 
-## 9. Fenerbahçe ve Hamdi Ulukaya Sponsorluk Anlaşması
+## 9. Uşak ve İzmir'de Su Krizi ve Maden Faaliyetleri
 
-- Fenerbahçe, Hamdi Ulukaya'nın sahibi olduğu Çobani ile büyük sponsorluk anlaşması yaptı
-- Anlaşmanın tutarı 120-200 milyon dolar arasında değişiyor
-- Hamdi Ulukaya'nın "Türkiyeliler" kavramı ve Kürt kökeni tartışma yarattı
-- Anlaşma, Fenerbahçe'nin mali yapısı için önemli bir adım olarak değerlendirildi
+- Uşak'ta 10 günü aşkın süredir su kesintileri yaşanıyor
+- Murat Dağı'nda açılan madenler su kaynaklarını olumsuz etkiledi
+- İzmir'de Gediz Nehri üzerinden su krizi yaşanıyor
+- Sorunun kökeni plansız maden izinlerine dayanıyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=pZGQr4nXVhw&t=418s) (⏱️ 06:58-12:28)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=IsQbosnz3iw&t=454s) (⏱️ 07:34-21:56)
-- [Serdar Akinan](https://www.youtube.com/watch?v=tmX6ZUFWcAA&t=212s) (⏱️ 03:32-04:57)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=aVSfbcCloRA&t=2380s) (⏱️ 39:40-54:00)
 
 ---
 
-## 10. Rusya Kamçatka'da Büyük Deprem ve Tsunami Uyarısı
+## 10. Uluslararası Gündem: Filistin, İran ve Bölgesel Gelişmeler
 
-- Rusya'nın Kamçatka bölgesinde 8.7-8.8 büyüklüğünde deprem oldu
-- Tsunami riski nedeniyle panik yaşandı, dalgalar Hawaii ve Japonya'ya ulaştı
-- Büyük yıkım ve can kaybı olmadı, depreme dayanıklı yapılar dikkat çekti
-- Türkiye'de depreme hazırlıkların yetersiz olduğu vurgulandı
+- Türkiye, Filistin'le ilgili uluslararası bildirileri rezerv koyarak imzaladı
+- İsrail'in Gazze'deki saldırıları sonucu büyük insani kriz yaşanıyor
+- ABD ve İsrail'in İran'a saldırı düzenleyeceği iddiaları gündemde
+- Uluslararası toplumun İsrail'e baskı yapması gerektiği vurgulanıyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=lFVRFCQWs5I&t=875s) (⏱️ 14:35-19:00)
-- [Unsal Unlu](https://www.youtube.com/watch?v=4oBke8JNKF8&t=1484s) (⏱️ 24:44-25:44)
-- [Serdar Akinan](https://www.youtube.com/watch?v=tmX6ZUFWcAA&t=303s) (⏱️ 05:03-05:36)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=aVSfbcCloRA&t=30s) (⏱️ 00:30-08:20)
+- [Serdar Akinan](https://www.youtube.com/watch?v=bZWVdnJVjVA&t=1174s) (⏱️ 19:34-20:13)
 
 ---
 
