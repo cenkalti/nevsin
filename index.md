@@ -1,154 +1,59 @@
 # Bugün Ne Oldu?
 
-*2 August 2025 tarihli günlük haber raporu - 10 haber birleştirildi*
+*3 August 2025 tarihli günlük haber raporu - 3 haber birleştirildi*
 
-## 1. Türkiye'de Siyasi Gelişmeler: Komisyonlar, Af Tartışmaları ve CHP'nin Stratejisi
+## 1. E-İmza Skandalı ve Devletin Dijital Güvenlik Krizi
 
-- Meclis'te yeni bir komisyon kuruldu, tarihi bir sorunun çözümü amaçlanıyor
-- Komisyonun İmralı'ya gidip Öcalan ile görüşmesi gündemde
-- Komisyonun başarısı için tarafların bazı iddialarından vazgeçmesi gerektiği belirtiliyor
-- CHP'nin komisyona katılması ve parti içi tartışmalar öne çıkıyor
-- CHP'de bölünme iddiaları ve kurultay süreci tartışılıyor
-- Komisyon listesinde farklı kanatlardan isimler yer alıyor, birlik mesajı veriliyor
-- DEM Parti içinde Öcalan-Demirtaş gerilimi ve farklı kanatlar var
-- Demirtaş'ın serbest bırakılması için yurt dışına çıkma formülü konuşuluyor
-- Cumhurbaşkanı Erdoğan bazı mahkumları affetti, genel af beklentisi var
-- Af kararlarının siyasi pazarlık aracı olarak kullanıldığı düşünülüyor
-- Feti Yıldız'ın hasta mahkumlar için ceza erteleme çağrısı gündemde
-- Siyasi pazarlıklar ve normalleşme süreci tartışılıyor
+• Türkiye'de e-imza sisteminde büyük bir skandal yaşanıyor
+• Sahte e-imza ile noterlik, tapu, şirket ortaklığı, SGK ve vergi işlemleri yapılabiliyor
+• Usulsüz işlemlerle milyonlarca liralık haksız kazanç sağlandığı iddia ediliyor
+• Devletin dijital sistemlerinde güvenlik açıkları var
+• 15 Temmuz sonrası devlet kadrolarında liyakatsiz atamalar yapıldı
+• Noterlik gibi güvene dayalı kurumlar dijital olarak istismar ediliyor
+• Devletin işlemleri loglanıyor, ancak siyasi irade usulsüzlükleri ortaya çıkarmıyor
+• Hükümetin ve ilgili kurumların açıklamaları yetersiz bulunuyor
+• Skandalın boyutunun bilinmediği, devletin işleyişinin temelinden sarsıldığı iddia ediliyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=CDahwa1zCqw&t=572s) (⏱️ 09:32-11:32)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=GgsNJ3mQ2t4&t=1800s) (⏱️ 30:00-44:00)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=PsqzFrOTxm0&t=723s) (⏱️ 12:03-21:17)
+- [Serdar Akinan](https://www.youtube.com/watch?v=9eLaj89zioQ) (⏱️ 00:00-16:05)
 
 ---
 
-## 2. Türkiye'de Ahlak, Nesil ve Değerler Krizi: TÜGVA, FETÖ ve AK Parti Eleştirileri
+## 2. Ekonomik Kriz: Faiz Politikası, Bütçe Açığı ve Sosyal Konut Sorunu
 
-- TÜGVA'nın yaz kampı sonrası ortaya çıkan temizlik ve çevreye saygı eksikliği tartışıldı
-- TÜGVA'nın yapısı, FETÖ ile benzerlikleri ve kamuya yerleştirme iddiaları gündeme geldi
-- FETÖ'nün 'altın nesil' projesi ve toplumsal sonuçları anlatıldı
-- AK Parti'nin kendi neslini oluşturma çabası ve ahlaki değerlerdeki eksiklikler eleştirildi
-- 17-25 Aralık yolsuzluk operasyonları ve ahlaki çöküş vurgulandı
-- Akademide sahtecilik ve sistemin çürüdüğü iddia edildi
-- Ahlak, estetik ve medeniyet karşılaştırmaları yapıldı
-- Yeni neslin toplumsal sorumluluk ve merhamet değerleri sorgulandı
+• Faiz indirimi beklentilerin üzerinde olmadı, sadece kredi kartı faizlerinde küçük bir düşüş oldu
+• Enflasyon ve gıda fiyatları yüksek, faiz indirimi yanlış zamanda yapıldı
+• Konkordato ve iflas başvuruları arttı
+• Maliye politikalarında ve yapısal reformlarda eksiklikler var
+• Yurt dışına yatırımcı ve insan göçü artıyor
+• Türkiye'nin kısa vadeli borcu çok yüksek
+• Kamu harcamalarında öncelikler yanlış; orman yangınlarına ayrılan bütçe çok düşük
+• Orman yangınlarına karşı yeterli önlem alınmıyor
+• Kamu özel işbirliği projeleri ve bütçe açığı büyüyor
+• Sosyal konut projeleri vaat edildi, vatandaşlardan para toplandı ama projeler gerçekleşmedi
+• Vatandaşın alım gücü düştü, pazarda fiyatlar çok yükseldi
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Serdar Akinan](https://www.youtube.com/watch?v=lMlNmJ-BTtg&t=333s) (⏱️ 05:33-09:59)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=MnT967W6Gcw&t=519s) (⏱️ 08:39-14:16)
 
 ---
 
-## 3. Ekonomide Son Durum: Enflasyon, Sanayi ve İşçi Hakları
+## 3. Orman Yangınları: Yetersiz Bütçe, Maden Faaliyetleri ve Liyakat Sorunu
 
-- Sanayi endeksi kritik seviyenin altına düştü, üretim yavaşladı
-- Mehmet Şimşek'in ekonomi politikaları tartışılıyor
-- Maden işçilerinin grevi yasaklandı, işçi hakları gündemde
-- İstanbul'da yıllık enflasyon %42.48'e ulaştı
-- Sağlık ve konut harcamalarında yüksek artış var
-- Vatandaşlar geçim sıkıntısı yaşıyor, ekonomik zorluklar devam ediyor
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Nevsin Mengu](https://www.youtube.com/watch?v=GgsNJ3mQ2t4&t=120s) (⏱️ 02:00-04:30)
-
----
-
-## 4. CHP'de Parti İçi Tartışmalar ve Strateji Arayışları
-
-- CHP'nin komisyona katılması ve parti içi tartışmalar gündemde
-- Ekrem İmamoğlu ve ekibinin komisyona girilmesine karşı olduğu iddia ediliyor
-- Komisyon listesinde farklı kanatlardan isimler var, birlik mesajı veriliyor
-- CHP'nin bölüneceği iddiaları ve kurultay süreci tartışılıyor
-- Özgür Özel'in siyasi hamleleri ve CHP'nin birinci parti olma stratejisi öne çıkıyor
+• Orman yangınları sadece doğal nedenlerle değil, maden ve otel yatırımlarıyla da artıyor
+• 2019-2021 yıllarında binlerce hektar orman turizme tahsis edildi
+• Son 5 yılda yılda ortalama 43.256 hektar orman yandı
+• Yangın söndürme uçakları ve ekipmanları yetersiz
+• Diyanetin bütçesiyle çok sayıda yangın uçağı alınabilir
+• Orman Bakanı ve kadrolarda liyakat eksikliği var
+• Maden faaliyetleri için ormanlarda her yıl ortalama 10.000 hektar alan izinle kullanılıyor
+• Türkiye'de liyakatsizlik ve aidiyet duygusuyla makam dağıtımı yaygın
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Nevsin Mengu](https://www.youtube.com/watch?v=GgsNJ3mQ2t4&t=120s) (⏱️ 02:00-04:30)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=PsqzFrOTxm0&t=505s) (⏱️ 08:25-12:03)
-
----
-
-## 5. Tutuklu ve Hasta Mahkumlar, Cezaevindeki Aileler ve Adalet Tartışmaları
-
-- Feti Yıldız hasta mahkumların cezasının ertelenmesini savundu
-- Dilek Kaya İmamoğlu cezaevindeki bir annenin çocuğundan gelen mektubu okudu
-- Toplumda adalet beklentisi ve tutuklu yakınlarının yaşadığı sıkıntılar vurgulandı
-- Tutuklu belediye başkanları ve olası tahliyeler gündemde
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Nevsin Mengu](https://www.youtube.com/watch?v=GgsNJ3mQ2t4&t=1470s) (⏱️ 24:30-26:00)
-
----
-
-## 6. Ahmet Kaya'nın Ölümünün 25. Yılı ve Kürt Meselesi
-
-- Ahmet Kaya'nın ölümünün üzerinden 25 yıl geçti
-- Kaya'nın müziği ve Kürt meselesine duyarlılığı vurgulandı
-- Linç kültürü ve aşırı milliyetçilik nedeniyle ülkeyi terk etmek zorunda kaldı
-- Sürgünde Paris'te hayatını kaybetti
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Rusen Cakir](https://www.youtube.com/watch?v=CDahwa1zCqw&t=4s) (⏱️ 00:04-09:27)
-
----
-
-## 7. Türkiye'de Hava Durumu, Tarım ve Yağmur Duası
-
-- Ankara'da aşırı sıcaklar yaşandı, bağlarda üzüm gelişimi durdu
-- Son günlerde hava serinledi, bağlar canlanmaya başladı
-- Diyanet İşleri Başkanlığı Türkiye genelinde yağmur duası yaptı
-- İstanbul ve Ankara'da yağmur başladı, belediyeler uyarılarda bulundu
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=t-7C_VDKQdc&t=54s) (⏱️ 00:54-21:32)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=GgsNJ3mQ2t4&t=270s) (⏱️ 04:30-07:30)
-
----
-
-## 8. Tarihte Şarap Ticareti: Bordo, Venedik ve Osmanlı Dönemi
-
-- Bordo, Orta Çağ'dan itibaren önemli bir şarap üretim merkezi oldu
-- Venedik ve İtalyan şehirleri Akdeniz ticaretinde öne çıktı
-- Osmanlı döneminde şarap üretimi ve ihracatı devam etti
-- Yüzyıl Savaşları, veba salgını ve ticaret yollarındaki değişimler şarap ticaretini etkiledi
-- Doğu Akdeniz şarapları Haçlı seferleriyle Avrupa'da popüler oldu
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=t-7C_VDKQdc&t=1793s) (⏱️ 29:53-32:38)
-
----
-
-## 9. Ordu Canavarı Olayı: Seri Cinayetler ve Yargı Süreci
-
-- 2018'de Ordu'da başlayan seri cinayetler bölgede korku yarattı
-- Katil Mehmet Ali Çayıroğlu, yaşlı ve yalnız insanları hedef aldı
-- Cinayetler genellikle kaza gibi gösterildi, soruşturmalar başta derinleştirilmedi
-- Katil, delillerle birlikte yakalandı ve yargılandı
-- 9 kez ağırlaştırılmış müebbet ve onlarca yıl hapis cezası aldı
-- İhmaller nedeniyle daha fazla kişinin öldüğü vurgulandı
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Onlar TV](https://www.youtube.com/watch?v=l9PPK179WH0&t=2s) (⏱️ 00:02-04:57)
-
----
-
-## 10. Amazon.com.tr Kitap Önerileri
-
-- Hanah Arendt'in 'Kötülüğün Sıradanlığı' ve İsmail Arın'ın 'Menzilin Kasası' kitapları önerildi
-- Amazon.com.tr'nin kitap bulma ve hızlı teslimat avantajları anlatıldı
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Nevsin Mengu](https://www.youtube.com/watch?v=GgsNJ3mQ2t4&t=30s) (⏱️ 00:30-02:00)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=MnT967W6Gcw) (⏱️ 00:00-03:43)
 
 ---
 
