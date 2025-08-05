@@ -1,189 +1,174 @@
 # Bugün Ne Oldu?
 
-*4 August 2025 tarihli günlük haber raporu - 10 haber birleştirildi*
+*5 August 2025 tarihli günlük haber raporu - 10 haber birleştirildi*
 
-## 1. Sahte Diploma, E-Devlet ve E-İmza Skandalı: Türkiye'de Dijital Güvenlik Krizi
+## 1. Türkiye'de Sahte Diploma ve E-İmza Skandalı: Devlet Sistemlerinde Güvenlik Açığı ve Toplumsal Güven Krizi
 
-• Türkiye'de çok sayıda kurumda sahte diploma ve e-imza skandalı ortaya çıktı
-• E-devlet sistemine sızan çeteler, sahte diplomalar ve ehliyetler düzenledi
-• BTK, YÖK, üniversiteler ve kamu kurumlarında yetkililerin e-imzaları kopyalandı
-• Sahte belgelerle devlet kadrolarına usulsüz atamalar yapıldı
-• 65 şüpheli hakkında iddianame hazırlandı, 5 ila 50 yıl hapis isteniyor
-• Sahte diplomalar öğretmen, mühendis, hukukçu gibi mesleklerde kullanıldı
-• Yabancılara sahte rapor ve dekontla vatandaşlık satıldığı tespit edildi
-• LGS ve ehliyet sınavlarında soruların sızdırıldığı, sınav güvenliğinin sağlanamadığı iddia edildi
-• Cemaatlerin üniversitelere sızma faaliyetleri ve sahte belgelerle adam yerleştirme çabası var
-• Dijital güvenlik ve kamu altyapısında ciddi açıklar olduğu vurgulandı
-• Soruşturmalar devam ediyor, olayın boyutu tam bilinmiyor
-• Resmi açıklamalar yetersiz, kamuoyunda endişe büyük
+• Türkiye'de sahte diploma ve belge skandalı çok geniş bir alana yayıldı.
+• Çeteler, devletin e-imza ve dijital sistemlerine sızarak sahte diplomalar, ehliyetler, akademik unvanlar ve diğer belgeleri üretti.
+• BTK, YÖK, Milli Eğitim Bakanlığı gibi kurumların sistemlerinde ciddi güvenlik açıkları ortaya çıktı.
+• Çete lideri Ziya Kadiroğlu ve ekibi, devlet kurumlarından içeriden destek aldı.
+• Sahte belgelerle kamuya atamalar, devlet ihalelerine girişler, noterlik ve adli bilirkişilik gibi önemli pozisyonlar elde edildi.
+• Sahte diplomalar sosyal medya ve mesajlaşma uygulamaları üzerinden satıldı; fiyatlar 17.000 TL'den 500.000 TL'ye kadar çıktı.
+• 40 milletvekilinin diplomasının sahte olduğu iddia edildi, Meclis'te araştırma komisyonu talep edildi.
+• LGS sınavında soru sızdırma ve sınav puanlarının değiştirilmesi gibi olaylar da skandala eklendi.
+• Skandal, devletin kurumsallığına ve e-devlet sistemine olan güveni ciddi şekilde sarstı.
+• Toplumda ahlaki çöküş, liyakat kaybı ve adaletsizlik duygusu arttı.
+• Siyasi bağlantılar ve devlet içi işbirlikleriyle skandalın üzerinin örtülmeye çalışıldığı iddia edildi.
+• Soruşturmalarda yüzlerce kişi gözaltına alındı, az sayıda tutuklama yapıldı.
+• Muhalefet partileri ve gazeteciler, devletin bu konuda yeterli açıklama yapmadığını ve güvenlik açıklarının devam ettiğini belirtti.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Serdar Akinan](https://www.youtube.com/watch?v=PlIHDAS2QEw&t=4s) (⏱️ 00:04-02:58)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=iDMCzCw05Ac&t=1477s) (⏱️ 24:37-27:20)
-- [Murat Yetkin](https://www.youtube.com/watch?v=oKpOfkt6IGs&t=73s) (⏱️ 01:13-08:08)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=CBb1jD4F_Go&t=3360s) (⏱️ 56:00-60:45)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=nnqst_fF7tc&t=4s) (⏱️ 00:04-02:07)
+- [Onlar TV](https://www.youtube.com/watch?v=CupZPvvlIiY&t=872s) (⏱️ 14:32-32:57)
+- [Serdar Akinan](https://www.youtube.com/watch?v=JV-FNgnG1as&t=4s) (⏱️ 00:04-17:11)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=XOGdAeqYjUQ&t=30s) (⏱️ 00:30-14:17)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=KIrbbNmws4Y&t=856s) (⏱️ 14:16-30:46)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=pwH0iYKCOlY&t=4566s) (⏱️ 76:06-77:55)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=yvt--UfSlDk&t=2070s) (⏱️ 34:30-41:00)
+- [Rusen Cakir](https://www.youtube.com/watch?v=efykJeE-ITo&t=609s) (⏱️ 10:09-11:24)
 
 ---
 
-## 2. Kürt Meselesi, Çözüm Süreci ve Meclis'te Kurulan Komisyon: Siyasi ve Toplumsal Tartışmalar
+## 2. Mecliste Yeni Komisyon ve Çözüm Süreci Tartışmaları: Kürt Meselesi ve Anayasa Gündemi
 
-• Meclis'te Kürt meselesinin çözümü için yeni bir komisyon kuruldu
-• Komisyonun adı, kapsamı ve işleyişi tartışma konusu oldu
-• EMEP ve TİP gibi partiler komisyona katılırken, İyi Parti katılmıyor
-• CHP'nin komisyona katılımı parti içinde ve kamuoyunda tartışılıyor
-• Komisyonun şeffaflığı, kararlarının bağlayıcılığı ve işlevi sorgulanıyor
-• Barış, demokratikleşme ve eşit yurttaşlık talepleri öne çıkıyor
-• Sol ve sosyalist çevreler sürecin iktidarın siyasi hesaplarına alet edilmemesi gerektiğini savunuyor
-• PKK'nin silah bırakması ve demokratik çözüm arayışı gündemde
-• Abdullah Öcalan'ın rolü ve örgüt içindeki etkisi tartışılıyor
-• Sürecin seçimlere ve iç politikaya etkisi, toplumsal kutuplaşma ve milliyetçi tepkiler gündemde
+• Mecliste Terörsüz Türkiye için yeni bir komisyon kuruldu ve ilk toplantılar yapıldı.
+• Komisyonun amacı terörün sona erdirilmesi, toplumsal bütünleşme ve Kürt sorununun çözümü için siyasi zemin oluşturmak.
+• Komisyonun adı, yapısı, yetkileri ve şeffaflığı tartışma konusu oldu.
+• CHP, DEM Parti, AKP, MHP ve diğer partiler komisyonda temsil ediliyor.
+• DEM Parti, siyasi tutuklular ve kayyum uygulamalarını gündeme getirdi.
+• MHP, anayasanın ilk dört maddesinin değiştirilemeyeceğini savundu.
+• Komisyonun yasa yapma yetkisi yok, öneriler ve raporlar hazırlayacak.
+• Toplantılarda şeffaflık ve basına açıklık talepleri öne çıktı.
+• Çözüm süreci, Kürt meselesi ve toplumsal barış konusunda farklı siyasi görüşler dile getirildi.
+• Solun ve TKP'nin çözüm sürecine yaklaşımı, bildiriler ve eleştiriler gündeme geldi.
+• Suriye'deki gelişmeler ve Kürtlerin statüsü de Türkiye'nin iç politikasında tartışılıyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=ItNX3ZMgshw&t=3439s) (⏱️ 57:19-58:11)
-- [Serdar Akinan](https://www.youtube.com/watch?v=PlIHDAS2QEw&t=918s) (⏱️ 15:18-17:58)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=CBb1jD4F_Go&t=3360s) (⏱️ 56:00-60:45)
+- [Murat Yetkin](https://www.youtube.com/watch?v=PUVRp0PWadg&t=3s) (⏱️ 00:03-05:08)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=XOGdAeqYjUQ&t=1130s) (⏱️ 18:50-19:09)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=yvt--UfSlDk&t=3000s) (⏱️ 50:00-54:00)
+- [Rusen Cakir](https://www.youtube.com/watch?v=3HW3TT2ybBM&t=1820s) (⏱️ 30:20-37:51)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=pwH0iYKCOlY&t=1927s) (⏱️ 32:07-67:49)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=ci8tSI-28mU) (⏱️ 00:00-25:22)
 
 ---
 
-## 3. Türkiye'de Yargının Siyasallaşması, Rüşvet ve Mafya İddiaları
+## 3. Yüksek Askeri Şura Kararları ve Genelkurmay Başkanlığı'nda Değişim
 
-• Türkiye'de yargı bağımsızlığı ciddi şekilde tartışılıyor
-• 15 Temmuz sonrası FETÖ'den arındırılan yargı, yeni çıkar ilişkileriyle anılıyor
-• Uluslararası uyuşturucu baronları Türkiye'de rahatça barınıyor, tahliyelerde rüşvet iddiaları var
-• Kartal Anadolu Adliyesi'nde vasi borsası ve yüksek vekalet ücretleriyle usulsüzlükler yaşanıyor
-• Yurt dışı yasağının kaldırılması için rüşvet tarifeleri olduğu iddia ediliyor
-• Hakim ve savcıların gelirleriyle yaşam standartları arasında fark var
-• Belediyelerde yolsuzluk ve uzun tutuklu yargılamalar eleştiriliyor
-• Tutuklu yargılamaların siyasi amaçlarla kullanıldığı öne sürülüyor
-• Yargıdaki sorunlar kamuoyunda güven kaybına yol açıyor
+• Yüksek Askeri Şura toplantısında Orgeneral Metin Gürak emekliye ayrıldı, yerine Selçuk Bayraktaroğlu atandı.
+• Kara Kuvvetleri Komutanlığı'na Metin Tokel getirildi.
+• Deniz ve Hava Kuvvetleri Komutanlarının görev süresi uzatıldı.
+• 32 general ve amiral bir üst rütbeye yükseltildi, 61 albay general ve amiralliğe terfi etti.
+• 43 general ve amiral kadrosuzluk nedeniyle emekliye sevk edildi.
+• Atamalar sonrası askerin siyasallaşması ve liyakat tartışmaları gündeme geldi.
+• Askeri liselerin kapatılması ve yeni askeri eğitim sistemi eleştirildi.
+• Jandarmada Atatürkçü ve FETÖ ile mücadele eden generallerin emekli edilmesi dikkat çekti.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=ILNfGR5kxfo&t=545s) (⏱️ 09:05-14:45)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=CBb1jD4F_Go&t=3360s) (⏱️ 56:00-60:45)
+- [Murat Yetkin](https://www.youtube.com/watch?v=PUVRp0PWadg&t=311s) (⏱️ 05:11-09:09)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=4h8onLmomdA) (⏱️ 00:00-04:41)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=KIrbbNmws4Y&t=21s) (⏱️ 00:21-01:28)
+- [Rusen Cakir](https://www.youtube.com/watch?v=efykJeE-ITo&t=406s) (⏱️ 06:46-08:08)
 
 ---
 
-## 4. Türkiye'de Ekonomi: Enflasyon, Asgari Ücret, Vergi Politikaları ve Tarım Krizi
+## 4. Türkiye'de Ekonomik Zorluklar, Vergi Sistemi ve Servet Birikimi Sorunları
 
-• Temmuz ayı enflasyon verileri ENAG ve TÜİK arasında büyük fark gösteriyor
-• Asgari ücrette alım gücü %19'dan fazla eridi, milyonlarca kişi mağdur
-• Kira zam oranları ve fiyat artışları halkı zorluyor
-• Vergi yükü, ÖTV ve emlak zamları artıyor
-• Dış ticaret açığı büyüyor, ihracat ve ithalat rekor seviyede
-• Kayıt dışı ekonomi ve yüksek vergiler sistemde adaletsizlik yaratıyor
-• Tarımda üretici maliyetleri karşılayamıyor, patates üreticileri ve hayvancılık krizde
-• Sahte diploma ve e-imza skandalları tarım sektörünü de etkiliyor
-• Ekonomik çıkış için hukuk ve güven ortamı gerektiği vurgulanıyor
+• Türkiye'de girişimcilik ve büyük servet birikimi kamu ihaleleri ve siyasi bağlantılar olmadan çok zor.
+• Özel sektör tekelleri ve rekabet eksikliği birçok sektörde sorun yaratıyor.
+• Vergi yükü bireyler ve küçük şirketler üzerinde yoğunlaşıyor, büyük holdingler çoğu zaman vergi ödemiyor.
+• Vergilerden elde edilen gelir halka hizmet olarak dönmüyor, eğitim ve sağlıkta hizmet kalitesi düşük.
+• Vatandaşlar en çok mutfak ve kira masraflarında zorlanıyor, enflasyon yüksek.
+• Kamu bankalarının görev zararları ve yandaşlara verilen batık krediler eleştiriliyor.
+• Et ve Süt Kurumu şubesinin kapatılması, ucuz et erişiminin azalmasına yol açtı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=iDMCzCw05Ac&t=1477s) (⏱️ 24:37-27:20)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=nnqst_fF7tc&t=4s) (⏱️ 00:04-02:07)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=pwH0iYKCOlY&t=1927s) (⏱️ 32:07-67:49)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=XOGdAeqYjUQ&t=1130s) (⏱️ 18:50-19:09)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=yvt--UfSlDk&t=2070s) (⏱️ 34:30-41:00)
 
 ---
 
-## 5. Kürt Sorununda Yeni Süreç ve PKK'nin Silah Bırakması: Tarihi Dönüşüm
+## 5. Sahte Psikologlar ve Dolandırıcılık Olayları
 
-• Kürt hareketi, Abdullah Öcalan liderliğinde yeni bir döneme girdi
-• Devlet, Kürt hareketini muhatap aldı ve çözüm süreci başladı
-• PKK silah bırakma kararı aldı, örgüt kendini feshetti
-• Sürecin iç politikayla ve seçimlerle bağlantısı var
-• Öcalan'ın doğrudan örgütle teması önemli
-• Demokratik entegrasyon ve ulus devlet anlayışının ötesinde çözüm arayışı var
-• Avrupa diasporası ve bazı sosyalist gruplar sürece itiraz ediyor
-• PKK'nin silahlı mücadelesi demokratik çözümü engelliyordu, silah bırakılmasıyla demokratik alan açıldı
-• Kürtçe yayın ve eğitim gibi haklar gündemde
-• Sürecin Türkiye demokrasisi için tarihi fırsat olduğu belirtiliyor
+• Sahte psikologlar ve danışmanlar, eğitim almadan insanları dolandırıyor.
+• Sahte diplomalarla psikolog, klinik psikolog ve yaşam koçu unvanları alınıyor.
+• Vatandaşların bu tür dolandırıcılıklara karşı dikkatli olması gerektiği vurgulanıyor.
+• Sahte diplomalı psikologların kullandığı yöntemler ve sosyal medya üzerinden müşteri bulmaları eleştirildi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=CS2wyNYyMOA&t=23s) (⏱️ 00:23-05:57)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=pwH0iYKCOlY&t=1927s) (⏱️ 32:07-67:49)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=yvt--UfSlDk&t=420s) (⏱️ 07:00-12:00)
 
 ---
 
-## 6. CHP'de Liderlik, Direnç ve Komisyon Tartışmaları
+## 6. Hayvan Hakları ve Toplumsal Çürüme: Başakşehir'de Kedi Katli Olayı
 
-• CHP, 2023 seçimlerinden sonra ciddi bir direnç gösteriyor
-• Özgür Özel'in liderliği ve performansı parti içinde öne çıkıyor
-• Kemal Kılıçdaroğlu'nun yeniden liderlik girişimleri sonuçsuz kaldı
-• CHP'nin çözüm süreci komisyonuna katılımı parti tabanında tartışma yarattı
-• Komisyonun şeffaflığı ve işleviyle ilgili eleştiriler var
-• CHP, AKP'nin güçlü olduğu illerde mitingler düzenliyor
-• Kamuoyu yoklamalarında CHP birinci parti ya da AK Parti ile başa baş gidiyor
-• CHP, ülkeyi yönetme iddiasını güçlendirdi, yeni vizyon arayışında
+• İstanbul Başakşehir'de bir kedinin işkenceyle öldürülmesi büyük tepki çekti.
+• Hayvanları koruma yasasının yetersizliği eleştirildi.
+• Hayvanlara yönelik şiddetin toplumdaki genel adaletsizlik ve çürümenin göstergesi olduğu belirtildi.
+• Cezasızlık algısı ve adalet duygusunun zayıflaması vurgulandı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=ItNX3ZMgshw&t=3439s) (⏱️ 57:19-58:11)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=lTDAtTYfuOo&t=3785s) (⏱️ 63:05-66:09)
+- [Onlar TV](https://www.youtube.com/watch?v=CupZPvvlIiY&t=1978s) (⏱️ 32:58-74:37)
 
 ---
 
-## 7. Meclis'te Terörsüz Türkiye Komisyonu ve Anayasa Tartışmaları
+## 7. Tıpta Yapay Zeka ve Çift Anadal Başarı Hikayesi
 
-• Meclis'te "Terörsüz Türkiye" komisyonu toplanıyor
-• Komisyonun adı, kapsamı ve işlevi üzerinde partiler arasında görüş ayrılıkları var
-• Anayasanın değiştirilmemesi gerektiği vurgulanıyor
-• Milliyetçi ve ülkücü partilerden destek geldi, İyi Parti katılmıyor
-• PKK'nın Suriye kolunun tutumu ve dış destekleri tartışılıyor
-• Hükümet, süreç işlemezse askeri seçeneklerin gündeme gelebileceğini belirtiyor
+• Dr. Furkan Taştelen, tıp ve bilgisayar mühendisliği çift anadal yaptı.
+• Almanya'da tıpta yapay zeka üzerine doktora yapıyor.
+• Yapay zekanın tıpta kullanımı, kanser taraması ve hızlı teşhis çalışmaları anlatıldı.
+• Gençlerin bilimde ilerlemesi ve Türkiye'ye katkı sağlaması hedefleniyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Murat Yetkin](https://www.youtube.com/watch?v=oKpOfkt6IGs&t=491s) (⏱️ 08:11-19:47)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=CBb1jD4F_Go&t=3240s) (⏱️ 54:00-56:00)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=pwH0iYKCOlY&t=1927s) (⏱️ 32:07-67:49)
 
 ---
 
-## 8. Türkiye'de Siyasi Kutuplaşma, Muhalefetin Etkisizliği ve Seçim Analizleri
+## 8. Otomobil Dolandırıcılığı: Change Oto Operasyonu
 
-• Türkiye'de muhalefet ve iktidar seçmeni arasında derin kutuplaşma var
-• Muhalefetin söylemleri icraata dönüşmüyor, seçmeni ikna edemiyor
-• CHP'nin oy oranı, iktidarın yıpranmasına rağmen yeterince artmıyor
-• Seçmen davranışında duygusallık ve kutuplaşma hakim
-• İktidarın dili icraat, muhalefetin ise söylemde kalıyor
-• Bu döngü kırılmadıkça seçim sonuçlarının değişmeyeceği öngörülüyor
+• İstanbul Emniyeti büyük bir otomobil dolandırıcılığı şebekesini ortaya çıkardı.
+• Yurt dışından getirilen araçlara, perte çıkmış araçların şase numaraları işleniyordu.
+• Bu yöntemle araçlar yasal gibi gösterilip satılıyordu.
+• Vatandaşların araç alırken dikkatli olması gerektiği uyarıldı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=nnqst_fF7tc&t=137s) (⏱️ 02:17-05:04)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=iDMCzCw05Ac&t=1089s) (⏱️ 18:09-19:15)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=pwH0iYKCOlY&t=1927s) (⏱️ 32:07-67:49)
 
 ---
 
-## 9. Gazze'deki İnsanlık Dramı ve Soykırım İddiası
+## 9. Menzil Tarikatı ve Halkbank Kredi Skandalı
 
-• Gazze'de insani kriz ve ölümler yaşanıyor
-• Olaylar Nazi Almanyası'ndaki soykırımla kıyaslanıyor
-• İsrail devleti ve halkının tarihe bu utançla geçeceği belirtiliyor
-• ABD ve Batı'nın İsrail'e desteği, Türkiye'nin ticareti kesmemesi eleştiriliyor
-• Dünya ülkelerinin net tavır koymaması eleştiriliyor
-• 7 Ekim'den bu yana süren bir soykırım olduğu iddia ediliyor
-• Açlıkla öldürme politikasının izlendiği belirtiliyor
+• Menzil tarikatına bağlı bir reklam şirketine Halkbank tarafından 150 milyon TL kredi verildi.
+• Şirketin mali durumu bu krediyi geri ödeyecek güçte değil.
+• Kredi, yeterli teminat olmadan verilmiş ve geri ödenmemesi için girişimler yapılıyor.
+• Tarikatlar AKP iktidarıyla birlikte büyük ekonomik güç kazandı.
+• Halkbank Genel Müdürü hakkında soruşturma açılması gerektiği vurgulanıyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=nnqst_fF7tc&t=137s) (⏱️ 02:17-05:04)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=ci8tSI-28mU&t=1523s) (⏱️ 25:23-27:37)
 
 ---
 
-## 10. Yüksek Askeri Şura ve TSK'da Yeni Düzenlemeler
+## 10. Sanatçı Selçuk Alagöz'ün Vefatı
 
-• 5 Ağustos'ta Yüksek Askeri Şura toplantısı yapılacak
-• Yeni generaller ve amiraller atanacak
-• Komuta kademesinin yaş ortalaması yükseliyor
-• Kuvvet komutanlarının emeklilik yaşı uzatıldı
-• Liyakat yerine lobi ve tavassut etkili olabilir endişesi var
-• Sivil üyelerin oy kullandığı şurada askeri liyakatın zayıfladığı eleştiriliyor
-• FETÖ döneminden ders alınmadığı, benzer risklerin devam ettiği vurgulanıyor
+• Sanatçı Selçuk Alagöz vefat etti.
+• Bodrum'da yaşıyordu ve müzikle uğraşıyordu.
+• Erken yaşta kaybedildiği için üzüntüyle anıldı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Murat Yetkin](https://www.youtube.com/watch?v=oKpOfkt6IGs&t=73s) (⏱️ 01:13-08:08)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=KIrbbNmws4Y&t=2140s) (⏱️ 35:40-38:32)
 
 ---
 
