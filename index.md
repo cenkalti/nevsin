@@ -1,174 +1,162 @@
 # Bugün Ne Oldu?
 
-*5 August 2025 tarihli günlük haber raporu - 10 haber birleştirildi*
+*6 August 2025 tarihli günlük haber raporu - 10 haber birleştirildi*
 
-## 1. Türkiye'de Sahte Diploma ve E-İmza Skandalı: Devlet Sistemlerinde Güvenlik Açığı ve Toplumsal Güven Krizi
+## 1. Meclis Komisyonu, Anayasa ve Çözüm Süreci Tartışmaları
 
-• Türkiye'de sahte diploma ve belge skandalı çok geniş bir alana yayıldı.
-• Çeteler, devletin e-imza ve dijital sistemlerine sızarak sahte diplomalar, ehliyetler, akademik unvanlar ve diğer belgeleri üretti.
-• BTK, YÖK, Milli Eğitim Bakanlığı gibi kurumların sistemlerinde ciddi güvenlik açıkları ortaya çıktı.
-• Çete lideri Ziya Kadiroğlu ve ekibi, devlet kurumlarından içeriden destek aldı.
-• Sahte belgelerle kamuya atamalar, devlet ihalelerine girişler, noterlik ve adli bilirkişilik gibi önemli pozisyonlar elde edildi.
-• Sahte diplomalar sosyal medya ve mesajlaşma uygulamaları üzerinden satıldı; fiyatlar 17.000 TL'den 500.000 TL'ye kadar çıktı.
-• 40 milletvekilinin diplomasının sahte olduğu iddia edildi, Meclis'te araştırma komisyonu talep edildi.
-• LGS sınavında soru sızdırma ve sınav puanlarının değiştirilmesi gibi olaylar da skandala eklendi.
-• Skandal, devletin kurumsallığına ve e-devlet sistemine olan güveni ciddi şekilde sarstı.
-• Toplumda ahlaki çöküş, liyakat kaybı ve adaletsizlik duygusu arttı.
-• Siyasi bağlantılar ve devlet içi işbirlikleriyle skandalın üzerinin örtülmeye çalışıldığı iddia edildi.
-• Soruşturmalarda yüzlerce kişi gözaltına alındı, az sayıda tutuklama yapıldı.
-• Muhalefet partileri ve gazeteciler, devletin bu konuda yeterli açıklama yapmadığını ve güvenlik açıklarının devam ettiğini belirtti.
+- Mecliste yeni bir komisyon kuruldu ve çalışmalara başladı
+- Komisyonun amacı PKK'nın silahsızlandırılması ve toplumsal mutabakat sağlamak
+- Komisyonun ismi, şeffaflığı ve işlevselliği tartışılıyor
+- Anayasanın ilk dört maddesinin değişmeyeceği vurgulandı
+- CHP ve MHP bu konuda net tavır aldı
+- Komisyonun bazı toplantıları kapalı, bazıları açık olacak
+- Farklı partiler ve toplum kesimleri sürece farklı bakıyor
+- Sürecin şeffaf ama bazı sınırlarla yürütülmesi gerektiği belirtiliyor
+- Kamuoyunun bilgilendirilmesi ve halkla ilişkilerin iyi yönetilmesi gerektiği vurgulanıyor
+- Komisyonun yıl sonuna kadar çalışacağı ve sivil toplumun da görüş bildireceği belirtildi
+- Sürecin başarısı için toplumsal denge, serinkanlılık ve şeffaflık gerektiği ifade ediliyor
+- Provokasyon ihtimaline dikkat çekiliyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Onlar TV](https://www.youtube.com/watch?v=CupZPvvlIiY&t=872s) (⏱️ 14:32-32:57)
-- [Serdar Akinan](https://www.youtube.com/watch?v=JV-FNgnG1as&t=4s) (⏱️ 00:04-17:11)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=XOGdAeqYjUQ&t=30s) (⏱️ 00:30-14:17)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=KIrbbNmws4Y&t=856s) (⏱️ 14:16-30:46)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=pwH0iYKCOlY&t=4566s) (⏱️ 76:06-77:55)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=yvt--UfSlDk&t=2070s) (⏱️ 34:30-41:00)
-- [Rusen Cakir](https://www.youtube.com/watch?v=efykJeE-ITo&t=609s) (⏱️ 10:09-11:24)
+- [Rusen Cakir](https://www.youtube.com/watch?v=9xiugh3uoF4) (⏱️ 00:00-10:52)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=LHBYFu6JLsY&t=194s) (⏱️ 03:14-20:40)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=dWPzTEKHWxM) (⏱️ 00:00-01:24)
 
 ---
 
-## 2. Mecliste Yeni Komisyon ve Çözüm Süreci Tartışmaları: Kürt Meselesi ve Anayasa Gündemi
+## 2. CHP'nin Komisyona Katılımı, Toplumdaki Tepkiler ve Muhalefet Eleştirileri
 
-• Mecliste Terörsüz Türkiye için yeni bir komisyon kuruldu ve ilk toplantılar yapıldı.
-• Komisyonun amacı terörün sona erdirilmesi, toplumsal bütünleşme ve Kürt sorununun çözümü için siyasi zemin oluşturmak.
-• Komisyonun adı, yapısı, yetkileri ve şeffaflığı tartışma konusu oldu.
-• CHP, DEM Parti, AKP, MHP ve diğer partiler komisyonda temsil ediliyor.
-• DEM Parti, siyasi tutuklular ve kayyum uygulamalarını gündeme getirdi.
-• MHP, anayasanın ilk dört maddesinin değiştirilemeyeceğini savundu.
-• Komisyonun yasa yapma yetkisi yok, öneriler ve raporlar hazırlayacak.
-• Toplantılarda şeffaflık ve basına açıklık talepleri öne çıktı.
-• Çözüm süreci, Kürt meselesi ve toplumsal barış konusunda farklı siyasi görüşler dile getirildi.
-• Solun ve TKP'nin çözüm sürecine yaklaşımı, bildiriler ve eleştiriler gündeme geldi.
-• Suriye'deki gelişmeler ve Kürtlerin statüsü de Türkiye'nin iç politikasında tartışılıyor.
+- CHP'nin komisyona katılma kararı toplumda tartışma yarattı
+- Bazı kesimler, CHP'nin komisyona katılmasını eleştiriyor ve meşruiyet sağlandığını düşünüyor
+- Ali Mahir Başarır, katılımın şeffaflık ve uzlaşı için olduğunu açıkladı
+- Halkın bir kısmı kararsız ve güven sorunu yaşıyor
+- Ekonomik sıkıntılar ve değişim isteği öne çıkıyor
+- CHP'nin muhalefet konusunda etkisiz olduğu eleştiriliyor
+- İBB operasyonunda tutuklananların tahliye edilmemesi eleştirildi
+- Komisyonun ismi ve işlevi üzerine mizahi ve eleştirel yorumlar yapıldı
+- Muhalefetin mevcut haliyle Erdoğan'ın bir sonraki seçimi de kazanabileceği uyarısı yapıldı
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Murat Yetkin](https://www.youtube.com/watch?v=PUVRp0PWadg&t=3s) (⏱️ 00:03-05:08)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=XOGdAeqYjUQ&t=1130s) (⏱️ 18:50-19:09)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=yvt--UfSlDk&t=3000s) (⏱️ 50:00-54:00)
-- [Rusen Cakir](https://www.youtube.com/watch?v=3HW3TT2ybBM&t=1820s) (⏱️ 30:20-37:51)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=pwH0iYKCOlY&t=1927s) (⏱️ 32:07-67:49)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=ci8tSI-28mU) (⏱️ 00:00-25:22)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=dWPzTEKHWxM&t=87s) (⏱️ 01:27-03:47)
 
 ---
 
-## 3. Yüksek Askeri Şura Kararları ve Genelkurmay Başkanlığı'nda Değişim
+## 3. Tutuklamalar, İnsan Hakları ve Hukuk Tartışmaları
 
-• Yüksek Askeri Şura toplantısında Orgeneral Metin Gürak emekliye ayrıldı, yerine Selçuk Bayraktaroğlu atandı.
-• Kara Kuvvetleri Komutanlığı'na Metin Tokel getirildi.
-• Deniz ve Hava Kuvvetleri Komutanlarının görev süresi uzatıldı.
-• 32 general ve amiral bir üst rütbeye yükseltildi, 61 albay general ve amiralliğe terfi etti.
-• 43 general ve amiral kadrosuzluk nedeniyle emekliye sevk edildi.
-• Atamalar sonrası askerin siyasallaşması ve liyakat tartışmaları gündeme geldi.
-• Askeri liselerin kapatılması ve yeni askeri eğitim sistemi eleştirildi.
-• Jandarmada Atatürkçü ve FETÖ ile mücadele eden generallerin emekli edilmesi dikkat çekti.
+- Demirtaş ve Osman Kavala'nın serbest bırakılması gerektiği tartışılıyor
+- Abdulkadir Selvi'nin yazısı gündem oldu, hukuk ve insan hakları vurgulandı
+- Adıyaman Belediye Başkanı Tutdere'nin ev hapsi kaldırıldı ve göreve iade edildi
+- Enes Hocaoğulları Avrupa Konseyi'nde konuştuğu için Türkiye'ye dönüşte tutuklandı
+- Dezenformasyon yasasının muhaliflere karşı kullanıldığı eleştirildi
+- Türk Tabipler Birliği, cezaevinde sağlık sorunları yaşayanların durumuna dikkat çekti
+- Avrupa İnsan Hakları Mahkemesi kararlarının uygulanması gerektiği vurgulandı
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Murat Yetkin](https://www.youtube.com/watch?v=PUVRp0PWadg&t=311s) (⏱️ 05:11-09:09)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=4h8onLmomdA) (⏱️ 00:00-04:41)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=KIrbbNmws4Y&t=21s) (⏱️ 00:21-01:28)
-- [Rusen Cakir](https://www.youtube.com/watch?v=efykJeE-ITo&t=406s) (⏱️ 06:46-08:08)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=nVAHSnsHdXU&t=480s) (⏱️ 08:00-10:45)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=LHBYFu6JLsY&t=194s) (⏱️ 03:14-20:40)
 
 ---
 
-## 4. Türkiye'de Ekonomik Zorluklar, Vergi Sistemi ve Servet Birikimi Sorunları
+## 4. Sahte Diploma ve E-İmza Skandalları
 
-• Türkiye'de girişimcilik ve büyük servet birikimi kamu ihaleleri ve siyasi bağlantılar olmadan çok zor.
-• Özel sektör tekelleri ve rekabet eksikliği birçok sektörde sorun yaratıyor.
-• Vergi yükü bireyler ve küçük şirketler üzerinde yoğunlaşıyor, büyük holdingler çoğu zaman vergi ödemiyor.
-• Vergilerden elde edilen gelir halka hizmet olarak dönmüyor, eğitim ve sağlıkta hizmet kalitesi düşük.
-• Vatandaşlar en çok mutfak ve kira masraflarında zorlanıyor, enflasyon yüksek.
-• Kamu bankalarının görev zararları ve yandaşlara verilen batık krediler eleştiriliyor.
-• Et ve Süt Kurumu şubesinin kapatılması, ucuz et erişiminin azalmasına yol açtı.
+- Bir çete, sahte diplomalar ve sahte e-imzalarla dolandırıcılık yaptı
+- Bakanlık binalarında iş insanları kandırıldı, rüşvet alındı
+- Sahte kimliklerle e-imza alınarak resmi işlemler yapıldı
+- Sahte diploma alanlar arasında kamu görevlileri ve siyasetçiler var
+- Üniversitelerde denklik ve hoca eksikliği sorunları yaşanıyor
+- Savcılık, ilgili şirketler hakkında soruşturma başlattı
+- Telegram gruplarında sahte belge ticareti devam ediyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=pwH0iYKCOlY&t=1927s) (⏱️ 32:07-67:49)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=XOGdAeqYjUQ&t=1130s) (⏱️ 18:50-19:09)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=yvt--UfSlDk&t=2070s) (⏱️ 34:30-41:00)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=nVAHSnsHdXU&t=30s) (⏱️ 00:30-03:40)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=LHBYFu6JLsY&t=1240s) (⏱️ 20:40-27:05)
 
 ---
 
-## 5. Sahte Psikologlar ve Dolandırıcılık Olayları
+## 5. TSK'da Erken Emeklilikler ve YAŞ Kararları
 
-• Sahte psikologlar ve danışmanlar, eğitim almadan insanları dolandırıyor.
-• Sahte diplomalarla psikolog, klinik psikolog ve yaşam koçu unvanları alınıyor.
-• Vatandaşların bu tür dolandırıcılıklara karşı dikkatli olması gerektiği vurgulanıyor.
-• Sahte diplomalı psikologların kullandığı yöntemler ve sosyal medya üzerinden müşteri bulmaları eleştirildi.
+- Genelkurmay Başkanı Metin Gürak yaş haddi dolmadan emekli edildi
+- Albayların da erken emekli edilmesi dikkat çekiyor
+- TSK'da bu tür erken emeklilikler alışılmış bir durum değil
+- Son dönemde asker ölümleri ve skandallar yaşandı
+- İktidar, tam bağlılık isteyen bir kadro oluşturmak istiyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=pwH0iYKCOlY&t=1927s) (⏱️ 32:07-67:49)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=yvt--UfSlDk&t=420s) (⏱️ 07:00-12:00)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=nVAHSnsHdXU&t=1140s) (⏱️ 19:00-23:20)
 
 ---
 
-## 6. Hayvan Hakları ve Toplumsal Çürüme: Başakşehir'de Kedi Katli Olayı
+## 6. Diyanet'in Hutbe Tartışmaları ve Kadınların Tepkisi
 
-• İstanbul Başakşehir'de bir kedinin işkenceyle öldürülmesi büyük tepki çekti.
-• Hayvanları koruma yasasının yetersizliği eleştirildi.
-• Hayvanlara yönelik şiddetin toplumdaki genel adaletsizlik ve çürümenin göstergesi olduğu belirtildi.
-• Cezasızlık algısı ve adalet duygusunun zayıflaması vurgulandı.
+- Diyanet'in son hutbesi kadınlar arasında tepki topladı
+- Hutbede kadınların kıyafetleriyle ilgili sert ifadeler kullanıldı
+- Başörtülü ve başı açık kadınlar bu söylemlere karşı çıktı
+- Diyanet'in toplumsal kutuplaşmayı artırdığı eleştirildi
+- Kadınlar üzerindeki toplumsal baskı ve şiddet eleştirildi
+- Diyanet, Avusturya'daki bağış skandalını doğruladı ve sorumluları uzaklaştırdı
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Onlar TV](https://www.youtube.com/watch?v=CupZPvvlIiY&t=1978s) (⏱️ 32:58-74:37)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=nVAHSnsHdXU&t=3120s) (⏱️ 52:00-58:00)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=LHBYFu6JLsY&t=194s) (⏱️ 03:14-20:40)
 
 ---
 
-## 7. Tıpta Yapay Zeka ve Çift Anadal Başarı Hikayesi
+## 7. İzmir ve Adıyaman'da Su Sorunu ve Belediyelerin Durumu
 
-• Dr. Furkan Taştelen, tıp ve bilgisayar mühendisliği çift anadal yaptı.
-• Almanya'da tıpta yapay zeka üzerine doktora yapıyor.
-• Yapay zekanın tıpta kullanımı, kanser taraması ve hızlı teşhis çalışmaları anlatıldı.
-• Gençlerin bilimde ilerlemesi ve Türkiye'ye katkı sağlaması hedefleniyor.
+- İzmir Büyükşehir Belediye Başkanı Cemil Tugay'ın AK Parti'ye geçeceği iddiaları reddedildi
+- Tugay, Maliye Bakanı Mehmet Şimşek ile İzmir'in borçları ve altyapı projeleri için görüştü
+- İzmir'de ciddi su sıkıntısı yaşanıyor, yeni baraj ihtiyacı var
+- Adıyaman Belediye Başkanı Tutdere, göreve iade edildi ve su hattı yenileme çalışmaları başlattı
+- CHP'li belediyeler borç yapılandırmada ve hizmette zorlanıyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=pwH0iYKCOlY&t=1927s) (⏱️ 32:07-67:49)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=nVAHSnsHdXU&t=30s) (⏱️ 00:30-03:40)
 
 ---
 
-## 8. Otomobil Dolandırıcılığı: Change Oto Operasyonu
+## 8. Sınavlarda Sahtecilik ve Akademik Etik Sorunları
 
-• İstanbul Emniyeti büyük bir otomobil dolandırıcılığı şebekesini ortaya çıkardı.
-• Yurt dışından getirilen araçlara, perte çıkmış araçların şase numaraları işleniyordu.
-• Bu yöntemle araçlar yasal gibi gösterilip satılıyordu.
-• Vatandaşların araç alırken dikkatli olması gerektiği uyarıldı.
+- Bir çete, akademik sınavlarda başkası yerine sınava giren kişileri kullandı
+- İngilizce sınavlarında ve BESYO sınavlarında başkalarının yerine girildi
+- Akademisyenlerin İngilizce bilmemesi ve etik sorunlar eleştirildi
+- Çete üyeleri çok sayıda suç kaydına rağmen serbest kaldı
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=pwH0iYKCOlY&t=1927s) (⏱️ 32:07-67:49)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=nVAHSnsHdXU&t=2160s) (⏱️ 36:00-39:45)
 
 ---
 
-## 9. Menzil Tarikatı ve Halkbank Kredi Skandalı
+## 9. Zeki Müren ve Türkiye'deki LGBTİ İkiyüzlülüğü
 
-• Menzil tarikatına bağlı bir reklam şirketine Halkbank tarafından 150 milyon TL kredi verildi.
-• Şirketin mali durumu bu krediyi geri ödeyecek güçte değil.
-• Kredi, yeterli teminat olmadan verilmiş ve geri ödenmemesi için girişimler yapılıyor.
-• Tarikatlar AKP iktidarıyla birlikte büyük ekonomik güç kazandı.
-• Halkbank Genel Müdürü hakkında soruşturma açılması gerektiği vurgulanıyor.
+- Zeki Müren Türkiye'nin önemli sanatçılarından biri olarak anılıyor
+- Zeki Müren'in toplumsal ikon oluşu ve çocukluk dönemindeki etkisi anlatıldı
+- Zeki Müren'in LGBTİ konusundaki toplumsal ikiyüzlülüğü görünür kıldığı belirtildi
+- Toplumun ve yöneticilerin Zeki Müren'e sahip çıkarken LGBTİ bireyleri kriminalize etmesi eleştirildi
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=ci8tSI-28mU&t=1523s) (⏱️ 25:23-27:37)
+- [Rusen Cakir](https://www.youtube.com/watch?v=9xiugh3uoF4&t=655s) (⏱️ 10:55-13:37)
 
 ---
 
-## 10. Sanatçı Selçuk Alagöz'ün Vefatı
+## 10. Jennifer Lopez İstanbul Konseri ve Toplumsal Çeşitlilik
 
-• Sanatçı Selçuk Alagöz vefat etti.
-• Bodrum'da yaşıyordu ve müzikle uğraşıyordu.
-• Erken yaşta kaybedildiği için üzüntüyle anıldı.
+- Jennifer Lopez İstanbul'da konser verdi, büyük ilgi gördü
+- Konserde farklı yaşam tarzlarından kadınlar bir aradaydı
+- Dilan Polat'ın konserden paylaşımları sosyal medyada gündem oldu
+- Konser, Türkiye'deki toplumsal çeşitliliğin bir göstergesi olarak yorumlandı
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=KIrbbNmws4Y&t=2140s) (⏱️ 35:40-38:32)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=nVAHSnsHdXU&t=1140s) (⏱️ 19:00-23:20)
 
 ---
 
