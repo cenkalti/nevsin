@@ -42,16 +42,14 @@ var ChannelConfigs = []ChannelConfig{
 		Name: "Fatih Altayli",
 		ID:   "UCdS7OE5qbJQc7AG4SwlTzKg",
 		Handler: func(videos []YouTubeVideo) []YouTubeVideo {
-			// Get videos from last 48 hours, title starts with "Fatih Altaylı yorumluyor:"
+			var selected []YouTubeVideo
 			for _, v := range videos {
-				if time.Since(v.PublishedAt) > 48*time.Hour {
+				if time.Since(v.PublishedAt) > 24*time.Hour {
 					continue
 				}
-				if strings.HasPrefix(v.Title, "Fatih Altaylı yorumluyor:") {
-					return []YouTubeVideo{v}
-				}
+				selected = append(selected, v)
 			}
-			return nil
+			return selected
 		},
 	},
 	{
