@@ -1,180 +1,203 @@
 # Bugün Ne Oldu?
 
-*7 August 2025 tarihli günlük haber raporu - 10 haber birleştirildi*
+*8 August 2025 tarihli günlük haber raporu - 10 haber birleştirildi*
 
-## 1. Kürt Sorunu, Çözüm Süreci ve Meclis Komisyonu Gelişmeleri
+## 1. Meclis'te Çözüm Süreci Komisyonu, Gizlilik Kararı ve Toplumsal Tartışmalar
 
-• Mecliste Kürt sorununun çözümü için yeni bir komisyon kuruldu
-• Komisyona CHP, AK Parti, MHP ve DEM Parti katıldı, İYİ Parti katılmadı
-• Komisyonun amacı PKK'nın silahsızlandırılması ve toplumsal entegrasyon
-• Kararlar nitelikli çoğunlukla alınacak, öneriler yasa olmayacak ama meclise sunulacak
-• Komisyonun şeffaf ve kapsayıcı olması için CHP'nin önerileri kabul edildi
-• Komisyonun çalışmaları 31 Aralık'a kadar sürecek
-• Geçmiş çözüm süreçleri, Oslo ve İmralı görüşmeleri, Habur ve Silvan olayları hatırlatıldı
-• Uluslararası aktörler (ABD, Fransa, İngiltere) süreci yakından izliyor
-• Suriye'deki gelişmeler ve PYD'nin güçlenmesi Türkiye'nin elini zayıflattı
-• Kürtler arasında temkinli iyimserlik var, toplumsal entegrasyon hedefleniyor
-• Abdullah Öcalan'ın rolü ve siyasi geleceği tartışılıyor, öncelik şiddetin bitmesi
-• Komisyonun toplumsal sahiplenmesi ve şeffaflığı sürecin başarısı için kritik
-• Suriye'deki Kürt hareketi, Türkiye'deki süreçle bağlantılı ve karşılıklı etki var
-• Türkiye'nin Suriye politikası, askeri müdahale olasılığı ve bölgesel dengeler değerlendirildi
-• Komisyonun dünya örnekleriyle karşılaştırılması yapıldı, sürdürülebilir barış için ilk adım olduğu belirtildi
+• Mecliste Milli Dayanışma, Kardeşlik ve Demokrasi Komisyonu ikinci toplantısını yaptı
+• Toplantı kapalı oturum olarak yapıldı, tutanaklar 10 yıl boyunca gizli kalacak
+• MİT Başkanı, İçişleri ve Milli Savunma Bakanı komisyona sunum yaptı
+• Komisyonun ana gündemi PKK'nın feshi ve silah bırakma süreci
+• Toplumda sürece destek var ama güven eksikliği ve kırgınlık hakim
+• MHP'nin sürece dahil olması önemli bir gelişme olarak görülüyor
+• CHP'nin komisyona katılımı parti içinde tartışma yarattı
+• Komisyon yasa taslağı hazırlamayacak, öneriler sunacak
+• Sürecin şeffaf ve kapsayıcı olması gerektiği vurgulandı
+• Sürecin önündeki kritik eşikler: Öcalan'ın statüsü, siyasi çözümün içeriği, dış paydaşların gündemi
+• Suriye'deki gelişmelerin süreci etkileyebileceği belirtildi
+• Toplumda kimlik hakları, onur ve güvence talepleri öne çıkıyor
+• Sürecin başarıya ulaşması için karşılıklı güven ve demokratik adımlar şart
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=04DFdDYdxG0&t=3s) (⏱️ 00:03-12:51)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=5-X91CJpiz4&t=3404s) (⏱️ 56:44-57:12)
-- [Murat Yetkin](https://www.youtube.com/watch?v=X0PAwl0qLus&t=8s) (⏱️ 00:08-01:47)
-- [Fatih Altayli](https://www.youtube.com/watch?v=1w1rNnCYT20&t=673s) (⏱️ 11:13-12:27)
+- [Rusen Cakir](https://www.youtube.com/watch?v=GJrdR5rS1Ig&t=654s) (⏱️ 10:54-14:44)
+- [Murat Yetkin](https://www.youtube.com/watch?v=ah-1xpjdvwY&t=737s) (⏱️ 12:17-15:48)
+- [Fatih Altayli](https://www.youtube.com/watch?v=cG3SCijH3LY&t=593s) (⏱️ 09:53-10:46)
+- [Serdar Akinan](https://www.youtube.com/watch?v=q4osBsZ2rlQ&t=6s) (⏱️ 00:06-01:37)
 
 ---
 
-## 2. Sahte Diploma, E-İmza ve Devlet Sistemlerinde Çeteleşme Skandalı
+## 2. Sahte Diploma, E-Devlet ve E-İmza Skandalı: Devlet Sistemlerinde Güvenlik Açığı
 
-• Üniversite ve devlet kurumlarında sahte diploma ve e-imza üreten çeteler ortaya çıktı
-• Depremde ölenlerin diplomaları çalınıp başkalarına verildi
-• BTK, Emniyet, SGK gibi kurumların e-imzaları ele geçirildi, notlar ve puanlar değiştirildi
-• Sahte üniversiteler üzerinden parayla diploma alınıyor, Makedonya ve Balkanlar'da kriz yaşanıyor
-• Tekirdağ Namık Kemal Üniversitesi rektörünün oğlu sınavsız hukuk mezunu oldu
-• Sahte diploma alanlar da suç ortağı olarak değerlendiriliyor
-• AK Parti yetkilileri olayın bir yıl önce fark edildiğini açıkladı, sistemde ciddi güvenlik açıkları var
-• Sahte rapor düzenleyen sağlık çeteleri de ortaya çıktı
-• Cumhurbaşkanı Erdoğan ve bakanların kimlik bilgileri çeteler tarafından yurt dışına satıldı
-• Dijital güvenlik milli güvenlik sorunu haline geldi
+• Sahte diploma ve e-imza skandalı Türkiye gündeminde öne çıktı
+• E-devlet ve YSK sistemlerine sızma olayları yaşandı, kimlik ve diploma verileri çalındı
+• Telegram gruplarında sahte diploma ve ehliyet satışı yapılıyor
+• Depremde hayatını kaybedenlerin diplomaları çeteler tarafından kullanıldı
+• Üniversite rektörlerinin çocukları sınavsız hukuk fakültesine kaydedildi
+• E-imza şirketlerinde güvenlik açıkları ve sahtecilik yaygınlaştı
+• Sahte belgelerle kamuya ve özel sektöre girişler oldu
+• YÖK, Hakan Fidan ve üst düzey bürokratların diplomaları tartışıldı
+• Sahtecilik çeteleri devlet kurumlarına sızdı, kişisel veriler yurt dışına satıldı
+• Güvenlik zaafları milli güvenlik sorunu haline geldi
+• Muhalefet partileri konunun yapısal boyutunu gündeme taşıyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Onlar TV](https://www.youtube.com/watch?v=1N6HI4hFmDA&t=6520s) (⏱️ 108:40-109:27)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=f65e3RiCmMk&t=1087s) (⏱️ 18:07-21:58)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=YmzI9KggUSw&t=1200s) (⏱️ 20:00-27:00)
-- [Fatih Altayli](https://www.youtube.com/watch?v=1w1rNnCYT20&t=192s) (⏱️ 03:12-04:14)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=_T6pyMl2fAQ&t=498s) (⏱️ 08:18-08:57)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=U8qdSJoFZ5E&t=919s) (⏱️ 15:19-19:49)
+- [Onlar TV](https://www.youtube.com/watch?v=1N6HI4hFmDA&t=3796s) (⏱️ 63:16-81:13)
+- [Serdar Akinan](https://www.youtube.com/watch?v=q4osBsZ2rlQ&t=1013s) (⏱️ 16:53-17:42)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=UvKk0LUAevA&t=1008s) (⏱️ 16:48-19:05)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=lfQbPmVotzI&t=540s) (⏱️ 09:00-12:00)
 
 ---
 
-## 3. İBB Davası Borsası, Yargıda Rüşvet ve Güven Sorunu
+## 3. Fatih Altaylı'nın YouTube Kanalına Erişim Engeli ve Gazetecilere Yönelik Baskılar
 
-• İstanbul Büyükşehir Belediyesi dosyalarında bazı avukat ve savcıların para karşılığı tahliye vaadinde bulunduğu iddia edildi
-• CHP Genel Başkanı Özgür Özel, Hakimler ve Savcılar Kurulu'na suç duyurusunda bulundu
-• Kanıt olarak banka dekontları, kamera kayıtları ve WhatsApp görüşmeleri sunulacak
-• Yargı sisteminde küçük grupların kendi çıkarları için hareket ettiği belirtildi
-• Yargıda güven ortamı ciddi şekilde sarsıldı
+• Fatih Altaylı'nın YouTube kanalına mahkeme kararıyla erişim engeli getirildi
+• Erişim engelinin gerekçesi milli güvenlik ve kamu düzeni olarak açıklandı
+• Kanalda Cumhurbaşkanı'na yönelik ifadeler ve Abdullah Öcalan'a şiir gönderildiği haberleri engel gerekçesi oldu
+• Gazetecilere yönelik baskı ve engelleme politikaları eleştirildi
+• Altaylı cezaevinden mektuplarla sesini duyurmaya çalıştı
+• Gazeteciler arasında dayanışma yaşandı, VPN ve DNS yönlendirme gibi teknik çözümler önerildi
+• Erişim engeline karşı iktidara yakın gazeteciler de eleştiri getirdi
+• Son yıllarda birçok gazeteci gözaltına alındı, tutuklandı ve cezaevine kondu
+• İfade özgürlüğü ve yargı bağımsızlığı tartışıldı
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Onlar TV](https://www.youtube.com/watch?v=1N6HI4hFmDA&t=1701s) (⏱️ 28:21-77:24)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=YmzI9KggUSw&t=1200s) (⏱️ 20:00-27:00)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=f65e3RiCmMk&t=1631s) (⏱️ 27:11-30:40)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=_T6pyMl2fAQ) (⏱️ 00:00-02:07)
+- [Fatih Altayli](https://www.youtube.com/watch?v=cG3SCijH3LY&t=401s) (⏱️ 06:41-07:18)
+- [Murat Yetkin](https://www.youtube.com/watch?v=ah-1xpjdvwY&t=85s) (⏱️ 01:25-02:17)
+- [Serdar Akinan](https://www.youtube.com/watch?v=q4osBsZ2rlQ&t=315s) (⏱️ 05:15-07:37)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=lfQbPmVotzI&t=540s) (⏱️ 09:00-12:00)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=U8qdSJoFZ5E&t=1189s) (⏱️ 19:49-25:10)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=UvKk0LUAevA&t=30s) (⏱️ 00:30-04:38)
+- [Onlar TV](https://www.youtube.com/watch?v=1N6HI4hFmDA&t=1757s) (⏱️ 29:17-63:16)
 
 ---
 
-## 4. Ekonomik Kriz, Enflasyon, İşsizlik ve Servet Adaletsizliği
+## 4. İBB Davası Borsası, Yargıda Yolsuzluk ve Avukat Mehmet Yıldırım Skandalı
 
-• Türkiye'de ekonomik durgunluk ve stagflasyon yaşanıyor
-• Enflasyon yüksek, büyüme düşük, vergiler arttı
-• İşsizlik rekor seviyede, gençler ve üniversite mezunları iş bulmakta zorlanıyor
-• Servet adaletsizliği büyüyor, ev sahibi olmak zorlaştı
-• Kiralar ve konut fiyatları çok yükseldi, altyapı ve hizmet kalitesi düşük
-• Emekliler geçim sıkıntısı çekiyor, maaşlar temel ihtiyaçlara yetmiyor
-• Şirket iflasları ve konkordatolar arttı, işten çıkarmalar başladı
-• Toplumda sınıfsal ayrışma ve gelecek kaygısı yaygın
+• İstanbul Büyükşehir Belediyesi (İBB) davasında avukat ve savcıların para karşılığı tahliye vaadiyle borsa kurduğu iddia edildi
+• Avukat Mehmet Yıldırım Antalya'da yakalandı, yurtdışına kaçmak isterken gözaltına alındı
+• WhatsApp konuşmaları, para transferleri ve savcılarla görüşmeler gündeme geldi
+• CHP Genel Başkanı Özgür Özel iddiaları mitingde açıkladı, HSK'ya şikayet dilekçesi hazırlanıyor
+• Olayda AKP ve MHP'li bazı siyasetçilerin de adı geçti
+• Yargıdaki güven kaybı, keyfilik ve denetimsizlik bu tür yolsuzlukların artmasına neden oluyor
+• Adalet Bakanı soruşturmanın sonucunu beklemek gerektiğini söyledi
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=el0lDbP0nyc&t=924s) (⏱️ 15:24-23:15)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=5-X91CJpiz4&t=78s) (⏱️ 01:18-05:47)
-- [Fatih Altayli](https://www.youtube.com/watch?v=1w1rNnCYT20&t=192s) (⏱️ 03:12-04:14)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=U8qdSJoFZ5E&t=2008s) (⏱️ 33:28-46:45)
+- [Onlar TV](https://www.youtube.com/watch?v=1N6HI4hFmDA&t=4873s) (⏱️ 81:13-98:30)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=lfQbPmVotzI&t=1230s) (⏱️ 20:30-26:30)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=UvKk0LUAevA&t=1145s) (⏱️ 19:05-21:00)
+- [Rusen Cakir](https://www.youtube.com/watch?v=5YCGS8yA4Kw&t=5015s) (⏱️ 83:35-104:57)
 
 ---
 
-## 5. Deprem Sonrası Adalet ve Diplomaların Çalınması Skandalı
+## 5. Türkiye'de Ekonomik Kriz, Enflasyon ve Vergi Yükü
 
-• Kahramanmaraş depreminde Ezgi Apartmanı'nın yıkılması sonucu 37 kişi hayatını kaybetti
-• Binanın altındaki pastane için kolonlar kesildi, taşıyıcı duvarlar delindi
-• Sorumlular siyasi bağlantıları nedeniyle kaçtı, adalet sağlanamadı
-• Depremde hayatını kaybeden avukatların diplomaları çalındı, başka kişilere verildi
-• Çeteler, depremde ölenlerin kayıtlarını silip kendi adamlarını kaydediyor
-• Olay sistemdeki çürümüşlüğün ve vicdansızlığın göstergesi olarak sunuldu
+• Türkiye'de enflasyon hesaplamalarında üç farklı kurum var, TÜİK'in verileri güvenilir bulunmuyor
+• Merkez Bankası'nın enflasyon hedefleri yıllardır tutmuyor
+• Alt gelir gruplarında enflasyon çok daha yüksek
+• Enflasyon gizli bir vergi olarak işçi kesiminden büyük miktarda para alınıyor
+• Türkiye Hazinesi'nin 7 ayda 1.4 trilyon lira açık verdiği belirtildi
+• Vergi oranlarının yüksekliği kayıt dışı ekonomiyi artırıyor
+• Kamu-özel işbirliği projelerinde büyük şirketler daha az vergi ödüyor
+• Otoyol ücretleri ve tatil masrafları halkı zorluyor
+• Tatil bölgelerinde otellerin cirosu geçen seneye göre düştü
+• Vergi yükü çalışanlar ve emekliler için çok ağır
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Onlar TV](https://www.youtube.com/watch?v=1N6HI4hFmDA&t=1701s) (⏱️ 28:21-77:24)
+- [Fatih Altayli](https://www.youtube.com/watch?v=cG3SCijH3LY&t=674s) (⏱️ 11:14-24:54)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=UvKk0LUAevA&t=1008s) (⏱️ 16:48-19:05)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=8zkGDbbGLbQ&t=594s) (⏱️ 09:54-10:49)
 
 ---
 
-## 6. Kadın Hakları, Diyanet Hutbesi ve Başörtüsü Tartışmaları
+## 6. Suriye'de Kürtler, Bölgesel Yönetim ve Türkiye'nin Politikası
 
-• Diyanetin son hutbesi kadınlara yönelik baskı içerdiği için tepki çekti
-• Berrin Sönmez protesto olarak başörtüsünü çıkardı
-• Bazı kurumlarda başörtüsü zorunluluğu getirildiği iddia edildi
-• Kadın hakları ve özgürlükleri adım adım kısıtlanıyor
-• Toplumda kutuplaşma ve aile içi iletişim sorunları arttı
+• Suriye'deki Kürtlerin durumu ve Öcalan'ın etkisi tartışılıyor
+• PKK'nin Suriye kolu olan YPG/PYD'nin Öcalan'la doğrudan ilişkisi var
+• Kürtler ve Şam yönetimi arasında müzakereler sürüyor, ortak yönetim önerisi reddedildi
+• Süveyda olayları azınlıklar arasında dayanışma arayışını tetikledi
+• İsrail, Suriye'deki Kürtlerle doğrudan ilişki kurmuyor, Dürziler üzerinden etkili olmaya çalışıyor
+• Suriye'de ademi merkeziyetçilik ve kapsayıcı model önerileri gündemde
+• Türkiye'nin askeri müdahale ihtimali değerlendiriliyor, HTŞ ve merkezi hükümet üzerinden baskı kurma tercih ediliyor
+• Suriye'deki sürecin başarısı Türkiye'yi olumlu etkiler, olumsuzluklar karşılıklı olarak süreci tehlikeye atar
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Nevsin Mengu](https://www.youtube.com/watch?v=YmzI9KggUSw&t=180s) (⏱️ 03:00-14:00)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=5-X91CJpiz4&t=674s) (⏱️ 11:14-13:36)
+- [Rusen Cakir](https://www.youtube.com/watch?v=nd5kZjIEu78&t=1778s) (⏱️ 29:38-32:57)
+- [Murat Yetkin](https://www.youtube.com/watch?v=ah-1xpjdvwY&t=737s) (⏱️ 12:17-15:48)
 
 ---
 
-## 7. Milli Savunma Bakanlığı'nın Pençe-Kilit Operasyonu ve Şehitlerle İlgili Tartışmalar
+## 7. Depremde Hayatını Kaybedenlerin Diplomalarının Çalınması ve Ezgi Apartmanı Faciası
 
-• Pençe-Kilit Harekatı bölgesinde mağarada şehit olan 12 askerle ilgili açıklama yapıldı
-• Açıklamada, askerlerin emir komuta dinlemedikleri ima edildi
-• Olayda gaz ölçümü yapılmadığı, sadece keşif köpeği kullanıldığı belirtildi
-• Standart güvenlik prosedürlerine uyulmadığı iddia edildi
-• Açıklama, askeri disiplin ve komuta zinciri açısından eleştirildi
-• Şehit ailelerinin ve toplumun tepkisine neden oldu
+• Depremde hayatını kaybeden avukatların diplomaları çeteler tarafından çalındı
+• Ölen kişilerin üniversite kayıtları silinip, sahte diploma almak isteyenlerin bilgileri eklendi
+• Kahramanmaraş Barosu olayı inceledi ve diplomaların çalındığını doğruladı
+• Ezgi Apartmanı depremde yıkıldı, kolonlar ve duvarlar kesildiği için bina zayıflatıldı
+• 37 kişi hayatını kaybetti, adalet mücadelesi sürüyor
+• Hukuk mücadelesi sonucunda sadece iç mimar tutuklandı, diğer sorumlular kaçtı
+• Skandal, devlet kurumlarına çetelerin sızdığını ve sistemin çürüdüğünü gösteriyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Serdar Akinan](https://www.youtube.com/watch?v=IDwjYV1BaaA&t=15s) (⏱️ 00:15-14:46)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=YmzI9KggUSw&t=1200s) (⏱️ 20:00-27:00)
+- [Onlar TV](https://www.youtube.com/watch?v=1N6HI4hFmDA&t=150s) (⏱️ 02:30-11:06)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=U8qdSJoFZ5E&t=3105s) (⏱️ 51:45-69:54)
 
 ---
 
-## 8. Türkiye'de Medyanın Durumu ve Basın Özgürlüğü Tartışmaları
+## 8. Diyanet İşleri Başkanlığı'nın Cuma Hutbesi, Tatil ve Toplumsal Eleştiriler
 
-• Fatih Altaylı'nın YouTube kanalına erişim engeli getirildi
-• Gerekçe olarak milli güvenlik ve kamu düzeninin korunması gösterildi
-• Kanalın kapatılmasının gerekçesi olarak Abdullah Öcalan'ın mektubunun yayınlanması öne sürüldü
-• Kararın kamuoyunda tartışmalı olduğu ve basın özgürlüğüyle ilgili endişeler dile getirildi
-• Medyanın %90'ı iktidar kontrolünde, bağımsız medya baskı altında
+• Diyanet İşleri Başkanı Ali Erbaş, cuma hutbesinde uygunsuz kıyafetleri ve lüks tatil organizasyonlarını eleştirdi
+• Tatilin tembellik ve gaflet olmaması, faydalı meşguliyetlerle geçirilmesi gerektiği vurgulandı
+• Türkiye'nin en büyük döviz kaynaklarından biri turizm, Diyanet'in açıklamaları sektörü etkileyebilir
+• Hutbelerin içeriği toplumsal gerçeklerle uyumsuz bulundu
+• Diyanet'in gençleri camiden uzaklaştırdığı ve toplumsal fayda sağlamadığı eleştirildi
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Fatih Altayli](https://www.youtube.com/watch?v=1w1rNnCYT20&t=775s) (⏱️ 12:55-13:25)
-- [Onlar TV](https://www.youtube.com/watch?v=1N6HI4hFmDA&t=1701s) (⏱️ 28:21-77:24)
+- [Murat Yetkin](https://www.youtube.com/watch?v=ah-1xpjdvwY&t=178s) (⏱️ 02:58-12:14)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=lfQbPmVotzI&t=1230s) (⏱️ 20:30-26:30)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=U8qdSJoFZ5E&t=1800s) (⏱️ 30:00-33:28)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=UvKk0LUAevA&t=545s) (⏱️ 09:05-13:52)
 
 ---
 
-## 9. Sağlıkta Sahte Rapor ve Tedaviye Erişim Sorunu
+## 9. İsrail'in Gazze'ye Yönelik Saldırıları ve Uluslararası Tepkiler
 
-• Sağlık sektöründe sahte rapor düzenleyen çete ortaya çıktı
-• Gerçek doktorların isimleri kullanılarak sahte raporlar hazırlandı
-• Göç İdaresi ve hastaneler olayla ilgili soruşturma başlattı
-• Kanser hastalarının tedaviye erişimi maddi duruma bağlı, parası olmayanlar tedavi olamıyor
+• İsrail'in Gazze'ye yönelik saldırıları ve işgal planı devam ediyor
+• Gazze'nin yönetiminin Arap ülkelerinden oluşan bir konsorsiyuma devredilmesi planlanıyor
+• Gazze halkının başka ülkelere taşınması gündemde
+• Almanya, Gazze'de kullanılabilecek askeri malzeme satışını askıya aldı
+• Avrupa'da toplumlar Gazze'deki saldırılara tepki gösteriyor
+• Türkiye'nin dış politikada Gazze konusunda yetersiz kaldığı eleştirildi
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=5-X91CJpiz4&t=1419s) (⏱️ 23:39-27:41)
-- [Onlar TV](https://www.youtube.com/watch?v=1N6HI4hFmDA&t=5885s) (⏱️ 98:05-108:08)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=lfQbPmVotzI&t=540s) (⏱️ 09:00-12:00)
+- [Murat Yetkin](https://www.youtube.com/watch?v=ah-1xpjdvwY&t=737s) (⏱️ 12:17-15:48)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=UvKk0LUAevA&t=1008s) (⏱️ 16:48-19:05)
 
 ---
 
-## 10. Ermenistan-Azerbaycan Barış Süreci ve Zengezur Koridoru
+## 10. Türkiye'de Yolsuzluk, Yoksulluk ve Yasaklar Eleştirisi
 
-• Paşinyan ve Aliyev, Beyaz Saray'da görüşecek, barış anlaşması imzalanacak
-• Zengezur koridoru için yap-işlet-devret modeli önerildi, Amerikalı şirket işletecek
-• Azerbaycan Nahçıvan'a Ermenistan üzerinden bağlanacak
-• Bölgedeki siyasi ve ekonomik dengeleri etkileyecek
-• Türkiye bu süreçte aktif rol aldı
+• Dolandırıcılar Cumhurbaşkanlığı Sarayı'na kadar girebiliyor
+• Diyanet görevlileri rüşvet ve devlet kesesinden eğlence yapıyor
+• Sahte diplomalar ve devlet sistemlerine erişim sorunları var
+• Güvenilecek kurum kalmadı
+• Ekonomi kötüye gidiyor
+• Ülkenin geleceği algılar üzerinden tartışılıyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Nevsin Mengu](https://www.youtube.com/watch?v=YmzI9KggUSw&t=180s) (⏱️ 03:00-14:00)
-- [Murat Yetkin](https://www.youtube.com/watch?v=X0PAwl0qLus&t=144s) (⏱️ 02:24-06:00)
+- [Fatih Altayli](https://www.youtube.com/watch?v=cG3SCijH3LY&t=139s) (⏱️ 02:19-04:48)
+- [Serdar Akinan](https://www.youtube.com/watch?v=q4osBsZ2rlQ&t=6s) (⏱️ 00:06-01:37)
 
 ---
 
