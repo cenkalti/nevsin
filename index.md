@@ -1,164 +1,160 @@
 # Bugün Ne Oldu?
 
-*9 August 2025 tarihli günlük haber raporu - 10 haber birleştirildi*
+*10 August 2025 tarihli günlük haber raporu - 9 haber birleştirildi*
 
-## 1. Sahte Diploma ve E-İmza Skandalı: Seçim Güvenliği, Yabancılara Vatandaşlık ve Siyasi Bağlantılar
+## 1. Türkiye'de Ekonomik Kriz: Enflasyon, Vergi Artışları ve Toplumsal Etkiler
 
-• Türkiye'de sahte diploma ve e-imza skandalı büyük bir yönetim krizi olarak öne çıktı.
-• E-devlet sistemine sahte belgeler işlendi, seçim güvenliği ve milli güvenlik riske girdi.
-• 40 milletvekilinin sahte diplomaya sahip olduğu iddia edildi.
-• Ekrem İmamoğlu'nun diploması iptal edildi, başka üniversitelerde de benzer vakalar ortaya çıktı.
-• Yabancılara vatandaşlık verilmesi ve e-imza skandalı arasında bağlantı olabileceği iddia edildi.
-• E-devlet üzerinden sağlık, vergi gibi birçok alanda sahtecilik yapılabileceği belirtildi.
-• İktidar ve muhalefetin birlikte araştırma yapması gerektiği vurgulandı.
-• Sahtecilik ve sistem açıkları, ahlaki çürüme ve güven kaybına yol açtı.
+• Türkiye ekonomisi ciddi sıkıntılar yaşıyor
+• Enflasyon rakamları ENAG ve TÜİK arasında büyük fark gösteriyor
+• Gıda enflasyonu OECD ülkeleri arasında Türkiye birinci sırada
+• Asgari ücret ve emekli maaşları yaşam maliyetinin çok altında
+• Vergi artışları ve emlak vergisi tartışmaları gündemde
+• Dış ticaret açığı büyüyor, ithalat ihracattan fazla
+• Hükümetin enflasyon politikaları eleştiriliyor, rakamlara güven az
+• Ayakkabı ve giysi tamirinde yüksek enflasyon nedeniyle tamir tercih ediliyor
+• Ekonomik sorunların iktidarın yönetiminden kaynaklandığı vurgulanıyor
+• Enflasyonun toplumsal etkileri büyük, servet vergisi öneriliyor
+• Kamu giderleri artıyor, bütçe açığı büyüyor
+• Vatandaşlar milli gelirden yeterince pay alamıyor
+• Ekonomik çıkış için adalet, güven ve istikrarın sağlanması gerektiği belirtiliyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Nevsin Mengu](https://www.youtube.com/watch?v=lfQbPmVotzI&t=1800s) (⏱️ 30:00-34:00)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=IV-0xzn6-D0&t=98s) (⏱️ 01:38-07:13)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=GO54feR6NIc&t=53s) (⏱️ 00:53-11:32)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=TOJ65ERUtEk&t=77s) (⏱️ 01:17-03:54)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=XMr-7VLedzQ&t=591s) (⏱️ 09:51-14:27)
 
 ---
 
-## 2. Ekonomik Kriz: Vatandaşın Geçim Sıkıntısı, İşçi Eylemleri ve Gelir Adaletsizliği
+## 2. Üniversitelerde Sahte Diploma ve Liyakat Skandalı
 
-• Türkiye'de vatandaşlar geçim sıkıntısı yaşıyor, emekliler ve asgari ücretliler gelir kaybı içinde.
-• Enflasyon ve yeni vergiler maaşları eritiyor, insanlar daha sade yaşamaya başladı.
-• İstanbul'da terzi ve ayakkabı tamircilerinin işleri arttı, yeni ürün almak yerine tamir tercih ediliyor.
-• İşçi eylemleri ve grev hakkı gündemde, işçiler anayasal haklarını kullanamıyor.
-• Türk-İş ve diğer kurumlar tepkileri yatıştırmaya çalışıyor.
-• Faiz indirimi ve kredi musluklarının açılmaması reel sektörü zorluyor, şirket iflasları arttı.
-• Türkiye'nin milli geliri 1 trilyon doları aştı ama gelir adaletsizliği büyüdü.
-• Zenginlik adil dağılmıyor, toplumsal barış ve vizyon eksikliği yaşanıyor.
+• Birçok akademisyenin diplomasının sahte olduğu iddia ediliyor
+• 400'den fazla kişi sahte diplomalarla üniversitelere yerleştirildi
+• Sahte diplomalar, e-imza ve kimliklerle kamu kurumlarında dolandırıcılık yapılıyor
+• Akademik kariyerde yabancı dil sınavı usulsüzlükleri yaşanıyor
+• Liyakat yerine torpil ve bağlantı ile atamalar yapılıyor
+• Merdiven altı üniversiteler ve plansızca açılan bölümler işsiz mezunlar yaratıyor
+• Sahte belgelerle iş ve atama yapanlar genellikle düşük cezalar alıyor
+• Toplumda adaletsizlik ve sosyal çürüme artıyor
+• Üniversite kontenjanlarının plansızca artırılması puansız girişlere yol açıyor
+• Sahte diplomalar için para karşılığı satış yapıldığı belirtiliyor
+• Gerçek mezunlar iş bulmakta zorlanıyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=ydtTPgJ_rAU) (⏱️ 00:00-02:59)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=dWoZXtFMqc0&t=631s) (⏱️ 10:31-11:21)
-- [Serdar Akinan](https://www.youtube.com/watch?v=MZ8RXjxnUtk&t=667s) (⏱️ 11:07-12:32)
+- [Fatih Altayli](https://www.youtube.com/watch?v=_t4kAJeVXEE&t=35s) (⏱️ 00:35-06:24)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=TOJ65ERUtEk&t=77s) (⏱️ 01:17-03:54)
 
 ---
 
-## 3. CHP'li Belediyelere Operasyonlar, Belediye Çalışmaları ve Kadın Siyasetçilerin Mücadelesi
+## 3. Adalet ve Hukukta Gözaltı ve Ev Hapsi: Rezan Epözdemir ve Mehmet Yıldırım
 
-• CHP'li belediyelere yönelik operasyonlar devam ediyor, başkanlar ve çalışanlar kaygılı ama hizmetler sürüyor.
-• Operasyonların siyasi olduğu düşünülüyor, halk iddialara inanmıyor.
-• Üsküdar'da CHP'li kadın başkan %50 oy aldı, siyasi kale kavramı değişti.
-• Kadın belediye başkanları cinsiyetçilikle mücadele ediyor, rol model oluyorlar.
-• Belediyeler borç ve bütçe kısıtlarıyla hizmet vermeye çalışıyor.
-• Kentsel dönüşüm, sosyal yardımlar ve vakıflarla ilişkiler gündemde.
-• Belediye ve hükümet arasında iletişimde zorluklar yaşanıyor.
-• Geleceğe dair umutlar ve cumhuriyet değerlerine vurgu yapılıyor.
+• Avukat Rezan Epözdemir sabah saatlerinde gözaltına alındı
+• Hakkında rüşvet, casusluk ve FETÖ'ye yardım suçlamaları var
+• Mehmet Yıldırım yurt dışına kaçmak üzereyken gözaltına alındı, ev hapsine çarptırıldı
+• Yargıyı etkilemeye çalışmak suçlamasıyla soruşturması evde devam edecek
+• Baro ve Barolar Birliği'nin tutumu merak ediliyor
+• Gözaltı ve tutuklamalar sıradanlaştı, toplumda endişe artıyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Fatih Altayli](https://www.youtube.com/watch?v=wivCviT3DoY&t=554s) (⏱️ 09:14-12:51)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=lfQbPmVotzI&t=50s) (⏱️ 00:50-09:00)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=TOJ65ERUtEk&t=724s) (⏱️ 12:04-14:09)
 
 ---
 
-## 4. Yargıdaki Çete, Nüfus Ticareti ve Tutuklu Yakınlarının Mücadelesi
+## 4. Berin Sönmez'in Başörtüsünü Çıkarma Kararı ve İslami Feminizm Tartışmaları
 
-• Yargıda çeteleşme ve para karşılığı iş çözme iddiaları gündemde.
-• Avukat Mehmet Yıldırım gözaltına alındı, nüfus ticareti yaptığı iddia edildi.
-• Adalet Bakanı masumiyet karinesine vurgu yaptı, yargı sürecinin önemini belirtti.
-• Tutuklu yakınları platform kurdu, bilgi paylaşımı ve basın açıklamaları yapıyor.
-• Tutuklulara baskı yapıldığı, bilmedikleri şeyleri anlatmaları istendiği iddia edildi.
-• Yargıdaki bu tablo Türkiye açısından olumsuz görülüyor.
+• Berin Sönmez başörtüsünü çıkarmaya karar verdi, kişisel protesto olarak açıkladı
+• Kararı toplumsal tartışma yarattı, destek ve eleştiri aldı
+• Tartışma başörtüsünün dini değil siyasi bir mesele olduğu yönünde
+• Dindar kadınların iki iktidar arasında kaldığı vurgulandı
+• Son dönemde başörtüsü takmama veya çıkartma eğilimi arttı
+• Bireysel başörtüsü çıkarma kararları toplumsal baskı nedeniyle zor alınıyor
+• Konca Kuriş, İslami feminizmin sembolü olarak Hizbullah tarafından kaçırılıp öldürüldü
+• Kuriş'in cesur duruşu nedeniyle katledildiği vurgulandı
+• Kadınların bu mücadelede unutulmaması gerektiği belirtildi
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Nevsin Mengu](https://www.youtube.com/watch?v=lfQbPmVotzI&t=1800s) (⏱️ 30:00-34:00)
+- [Rusen Cakir](https://www.youtube.com/watch?v=0qWL2xV9QGs&t=20s) (⏱️ 00:20-09:30)
 
 ---
 
-## 5. Milli Dayanışma, Kardeşlik ve Demokrasi Komisyonu: Terörle Mücadele ve Siyasi Tartışmalar
+## 5. Türkiye'de Gelecek Endişeleri ve Kaos Tartışmaları
 
-• Terörsüz Türkiye için Milli Dayanışma, Kardeşlik ve Demokrasi Komisyonu kuruldu.
-• Komisyona birçok parti katıldı, amaç terörün sona erdirilmesi ve toplumsal bütünleşme.
-• Komisyon toplantılarında gizlilik kararı alındı, kararlar tavsiye niteliğinde olacak.
-• Abdullah Öcalan'ın umut hakkı ve siyasi süreçte rolü tartışıldı.
-• Komisyonun barış veya büyük bir çözüm üretmeyeceği, süreci uzatmak için kurulduğu iddia edildi.
+• Sokakta vatandaşlar gelecekle ilgili endişeli
+• Gözaltılar ve tutuklamalar sıradanlaştı
+• Sahte diploma ve kimlik kopyalama skandalları kaos yaratıyor
+• Yetkililer eleştirileri 'kaos yaratmak' olarak nitelendiriyor
+• Ekonomideki kötü gidişatın sorumlusu olarak mevcut yönetim gösteriliyor
+• Önümüzdeki haftalarda yeni gözaltılar ve sahte diploma tartışmaları bekleniyor
+• Diyanet'in yeni çıkışlar yapabileceği öngörülüyor
+• Konut vergisinin artacağına dair söylentiler var
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=ydtTPgJ_rAU&t=365s) (⏱️ 06:05-08:04)
-- [Serdar Akinan](https://www.youtube.com/watch?v=MZ8RXjxnUtk&t=4s) (⏱️ 00:04-05:55)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=TOJ65ERUtEk&t=724s) (⏱️ 12:04-14:09)
 
 ---
 
-## 6. Mecliste Kurulacak Komisyon, Anayasa Tartışmaları ve CHP Seçmeni ile Algı Operasyonları
+## 6. Cumhurbaşkanı Erdoğan'ın Ekonomi ve Kabine Görüşmeleri
 
-• Mecliste kurulacak komisyon ve anayasa değişikliği tartışılıyor.
-• CHP ve İyi Parti anayasa değişikliğine katılmayacaklarını açıkladı.
-• Komisyonun asıl kararları başka yerde alınacak, amacı Erdoğan'ın lehine sonuçlar çıkarmak olabilir.
-• CHP ile seçmen arasında kırılganlık ve algı operasyonları yaşanıyor.
-• Seçmenler büyük olaylar dışında oy tercihini kolay değiştirmiyor.
+• Cumhurbaşkanı Erdoğan, eski Hazine ve Maliye Bakanı Nurettin Nebati ile görüştü
+• Görüşme yaklaşık 1.5 saat sürdü
+• Ekonomi yönetiminde Mehmet Şimşek karşıtlarının harekete geçtiği iddia edildi
+• Kabine değişikliği ve Mehmet Şimşek'in görevden alınması senaryoları konuşuluyor
+• Türkiye ekonomisinin Mehmet Şimşek'in ayrılığını kaldıramayacağı ifade edildi
+• Erdoğan, milli gelirin 1 trilyon doları aştığını açıkladı
+• Vatandaşların milli gelirden yeterince pay alamadığı vurgulandı
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=ydtTPgJ_rAU&t=181s) (⏱️ 03:01-06:03)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=TOJ65ERUtEk&t=77s) (⏱️ 01:17-03:54)
 
 ---
 
-## 7. Fatih Altaylı'nın YouTube Kanalına Erişim Engeli ve Gazeteciliğin Önemi
+## 7. Gazze İçin Umut Yürüyüşü ve Filistin Dayanışması
 
-• Fatih Altaylı'nın YouTube kanalına mahkeme kararıyla erişim engeli getirildi.
-• Kanalda Cumhurbaşkanı'na yönelik tehdit olarak algılanan bir ifade nedeniyle dava açıldı.
-• Erişim engelinin tüm kanala uygulanması eleştirildi, Altaylı itiraz edeceklerini belirtti.
-• İktidara yakın gazeteciler de engeli yanlış buldu.
-• Adalet Bakanı ifade özgürlüğünün önemine değindi.
-• Altaylı'nın gazeteciliği ve objektifliği övüldü, hukukun önemi vurgulandı.
+• Bilal Erdoğan'ın düzenlediği STK'lar Gazze için dayanışma yürüyüşü yaptı
+• Dünyada Filistin'e destek yürüyüşleri düzenleniyor
+• Katılımın yeterince kalabalık olmadığı eleştirildi
+• Gazze mitinglerinde kutuplaşma yaşanıyor
+• Gazze'de büyük bir soykırım yaşandığı vurgulandı
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Nevsin Mengu](https://www.youtube.com/watch?v=lfQbPmVotzI&t=1800s) (⏱️ 30:00-34:00)
-- [Fatih Altayli](https://www.youtube.com/watch?v=wivCviT3DoY&t=554s) (⏱️ 09:14-12:51)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=TOJ65ERUtEk&t=77s) (⏱️ 01:17-03:54)
 
 ---
 
-## 8. Tarikatların Holdingleşmesi, Menzil Tarikatı'ndaki Bölünme ve Kamu Kaynakları
+## 8. İlişkilerde Ayrı Yatak ve Ayrı Evde Yaşama Trendleri
 
-• Türkiye'de tarikatlar ve cemaatler şirketleşerek holdingleşti.
-• Menzil tarikatı miras kavgası nedeniyle üçe bölünme aşamasına geldi.
-• Tarikat köyü şehir gibi işletmelere sahip, müritlerle para kavgası yaşanıyor.
-• Menzil'e bağlı bir şirket Halkbank'tan 150 milyon TL kredi aldı, geri ödemedi.
-• Kamu zararı oluştu, yasal işlem başlatılmadı.
-• Tarikatlar kamudan ihale ve bütçe alıyor, büyük servet sahibi oldular.
+• İlişkilerde ayrı yataklarda uyumak daha sağlıklı olabilir
+• Ayrı evlerde yaşamak bazı çiftler için daha iyi bir çözüm olabilir
+• Ünlü isimler ayrı evlerde yaşamıştır
+• Seçilmiş sadakat kavramı tartışıldı
+• Sadakat ve mutluluk kişinin seçimine bağlı olabilir
+• Kimse kimseye mecbur olmamalı, seçerek birlikte olmak daha değerlidir
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=dWoZXtFMqc0&t=631s) (⏱️ 10:31-11:21)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=KinUFvKgrDQ&t=14s) (⏱️ 00:14-11:32)
 
 ---
 
-## 9. TKP'nin 'Uçurumdan Yuvarlanmaya İzin Vermeyeceğiz' Bildirisi ve Sol Hareket Tartışmaları
+## 9. Uyku Alışkanlıkları, Powernap ve Yatakta Konfor
 
-• TKP öncülüğünde yayımlanan bildiri Lozan Anlaşması, yeni Osmanlıcılık ve ümmetçilik eleştirisi içeriyor.
-• Bildiri, çözüm süreci ve sınır tartışmalarına karşı çıkıyor.
-• Sol hareket içinde cumhuriyetçilik ve birlik tartışmaları yaşanıyor.
-• TKP, sermaye karşıtlığı, laiklik ve emperyalizm karşıtlığı ilkelerinde ısrar ediyor.
-• Bildiri, sol ve Kürt hareketinden eleştiriler aldı.
-• Lozan'ın tartışmaya açılması savaş riski olarak görülüyor.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Rusen Cakir](https://www.youtube.com/watch?v=orpQoEMEtQk&t=4s) (⏱️ 00:04-10:11)
-
----
-
-## 10. Diyanet ve Din İşleri Açıklamaları: Toplumsal Yansımalar ve Ahlak Tartışmaları
-
-• Diyanet'in Cuma hutbesinde tatilin tembellik olmaması gerektiği vurgulandı.
-• Hutbeler selefi bir anlayışa yöneliyor.
-• Din İşleri Yüksek Kurulu üyesinin torpille işe girmenin helal olduğu açıklaması tepki çekti.
-• Toplumda etik ve ahlakın bozulduğu, hırsızlığın normalleştiği öne sürüldü.
+• Bazı insanlar sabahları zor uyanır
+• Powernap kısa süreli uyku ile enerji kazanılır
+• Öğlen uykusu bazı iş insanları için yaygındır
+• Herkesin uyku alışkanlığı farklıdır
+• Birçok kişi birden fazla yastıkla uyumayı tercih eder
+• Yorgan ve yastık çekişmeleri yatakta sık yaşanır
+• Yorganın uzun olması çekişmeleri azaltabilir
+• Küçükken şefkat görmeyenler yastığa sarılmayı tercih edebilir
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Nevsin Mengu](https://www.youtube.com/watch?v=lfQbPmVotzI&t=1800s) (⏱️ 30:00-34:00)
-- [Serdar Akinan](https://www.youtube.com/watch?v=MZ8RXjxnUtk&t=4s) (⏱️ 00:04-05:55)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=KinUFvKgrDQ&t=14s) (⏱️ 00:14-11:32)
 
 ---
 
