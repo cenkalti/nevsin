@@ -1,160 +1,191 @@
 # Bugün Ne Oldu?
 
-*10 August 2025 tarihli günlük haber raporu - 9 haber birleştirildi*
+*11 August 2025 tarihli günlük haber raporu - 10 haber birleştirildi*
 
-## 1. Türkiye'de Ekonomik Kriz: Enflasyon, Vergi Artışları ve Toplumsal Etkiler
+## 1. Çözüm Süreci, PKK'nın Silah Bırakması ve Siyasi-Yargı Gelişmeleri
 
-• Türkiye ekonomisi ciddi sıkıntılar yaşıyor
-• Enflasyon rakamları ENAG ve TÜİK arasında büyük fark gösteriyor
-• Gıda enflasyonu OECD ülkeleri arasında Türkiye birinci sırada
-• Asgari ücret ve emekli maaşları yaşam maliyetinin çok altında
-• Vergi artışları ve emlak vergisi tartışmaları gündemde
-• Dış ticaret açığı büyüyor, ithalat ihracattan fazla
-• Hükümetin enflasyon politikaları eleştiriliyor, rakamlara güven az
-• Ayakkabı ve giysi tamirinde yüksek enflasyon nedeniyle tamir tercih ediliyor
-• Ekonomik sorunların iktidarın yönetiminden kaynaklandığı vurgulanıyor
-• Enflasyonun toplumsal etkileri büyük, servet vergisi öneriliyor
-• Kamu giderleri artıyor, bütçe açığı büyüyor
-• Vatandaşlar milli gelirden yeterince pay alamıyor
-• Ekonomik çıkış için adalet, güven ve istikrarın sağlanması gerektiği belirtiliyor
+• Mecliste PKK'nın silah bırakması ve feshi için komisyon kuruldu, partiler arasında işbirliği var
+• Komisyonun amacı PKK'nın silah bırakmasının hukuki altyapısını oluşturmak, yeni yasa gerekebilir
+• CHP'nin komisyona katılımı tartışma yarattı, demokratikleşme vurgusu öne çıktı
+• Bahçeli, sürecin yıl sonuna kadar tamamlanmasını ve İmamoğlu davalarının bitmesini istiyor
+• Toplumsal destek zayıf, sürecin şeffaf ilerlemediği eleştiriliyor
+• Mahmur kampının boşaltılması ve kamp sakinlerinin Türkiye'ye dönüşü gündemde
+• Suriye'deki Kürtlerle ilişkiler ve Suriye'deki gelişmeler Türkiye'deki süreci doğrudan etkiliyor
+• İmamoğlu'nun komisyon ve barış süreci hakkındaki olumlu açıklamaları dikkat çekti
+• Tutuklu belediye başkanları ve siyasi davalar sürecin parçası olarak öne çıkıyor
+• Çözüm sürecinin başarısı için demokrasi ve hukuka geçişin şart olduğu vurgulanıyor
+• Bahçeli'nin açıklamaları, MHP'nin sürece desteği ve AK Parti içindeki tartışmalar gündemde
+• Toplumda çözüm sürecine dair umut ve endişeler birlikte yaşanıyor
+• Siyasi davalar, yargıdaki gerilim ve komisyonun rolü sürecin seyrini etkiliyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=TOJ65ERUtEk&t=77s) (⏱️ 01:17-03:54)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=XMr-7VLedzQ&t=591s) (⏱️ 09:51-14:27)
+- [Rusen Cakir](https://www.youtube.com/watch?v=wpNL91dFXnQ&t=2305s) (⏱️ 38:25-44:52)
+- [Murat Yetkin](https://www.youtube.com/watch?v=mAcr21s5bdE&t=2s) (⏱️ 00:02-06:20)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=xM_gDBv5X9U&t=366s) (⏱️ 06:06-09:16)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=CNuyZZoi-P4&t=324s) (⏱️ 05:24-07:21)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=Eq-hE2RtFVY&t=1s) (⏱️ 00:01-01:34)
+- [Fatih Altayli](https://www.youtube.com/watch?v=r6NwQhDGBkk&t=1355s) (⏱️ 22:35-23:51)
 
 ---
 
-## 2. Üniversitelerde Sahte Diploma ve Liyakat Skandalı
+## 2. İBB ve CHP'li Belediyelere Yönelik Soruşturmalar, İmamoğlu Davaları ve Yargıdaki Gerilim
 
-• Birçok akademisyenin diplomasının sahte olduğu iddia ediliyor
-• 400'den fazla kişi sahte diplomalarla üniversitelere yerleştirildi
-• Sahte diplomalar, e-imza ve kimliklerle kamu kurumlarında dolandırıcılık yapılıyor
-• Akademik kariyerde yabancı dil sınavı usulsüzlükleri yaşanıyor
-• Liyakat yerine torpil ve bağlantı ile atamalar yapılıyor
-• Merdiven altı üniversiteler ve plansızca açılan bölümler işsiz mezunlar yaratıyor
-• Sahte belgelerle iş ve atama yapanlar genellikle düşük cezalar alıyor
-• Toplumda adaletsizlik ve sosyal çürüme artıyor
-• Üniversite kontenjanlarının plansızca artırılması puansız girişlere yol açıyor
-• Sahte diplomalar için para karşılığı satış yapıldığı belirtiliyor
-• Gerçek mezunlar iş bulmakta zorlanıyor
+• İBB ve CHP'li belediyelere yönelik çok sayıda soruşturma ve dava yürütülüyor
+• Ekrem İmamoğlu hakkında mali suçlar, terörle mücadele, diploma iptali gibi çeşitli davalar var
+• Soruşturma dosyaları arasında PKK'ya yardım iddiası, suç örgütü suçlamaları ve farklı belediyelerle ilgili dosyalar bulunuyor
+• Adalet Bakanlığı ve İstanbul Cumhuriyet Başsavcılığı arasında iddianame yazımı konusunda gerilim yaşanıyor
+• Siyasi baskılar olmasına rağmen iddianamenin kısa sürede yazılması beklenmiyor, süreç uzun sürebilir
+• Tutuksuz yargılama ve kamuoyu baskısı bazı davalarda etkili oluyor
+• İmamoğlu'nun Kürtçe öğrenme açıklaması ve CHP-DEM Parti ilişkileri siyaset kulislerinde tartışılıyor
+• Bahçeli, davaların bir an önce bitmesini istiyor, sürecin uzaması MHP'ye zarar veriyor
+• Siyasi davalar, Ergenekon ve Balyoz davalarına benzetiliyor
+• Yargıdaki süreçler siyasi atmosferi ve muhalefet-iktidar ilişkilerini etkiliyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Fatih Altayli](https://www.youtube.com/watch?v=_t4kAJeVXEE&t=35s) (⏱️ 00:35-06:24)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=TOJ65ERUtEk&t=77s) (⏱️ 01:17-03:54)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=Aay-ZJp0Ln0&t=991s) (⏱️ 16:31-20:47)
+- [Murat Yetkin](https://www.youtube.com/watch?v=mAcr21s5bdE&t=380s) (⏱️ 06:20-12:32)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=CNuyZZoi-P4&t=8s) (⏱️ 00:08-02:55)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=kxkRGEiUols&t=7s) (⏱️ 00:07-05:43)
 
 ---
 
-## 3. Adalet ve Hukukta Gözaltı ve Ev Hapsi: Rezan Epözdemir ve Mehmet Yıldırım
+## 3. Türkiye'de Ekonomik Kriz, Geçim Sıkıntısı ve Sahte Diploma Skandalları
 
-• Avukat Rezan Epözdemir sabah saatlerinde gözaltına alındı
-• Hakkında rüşvet, casusluk ve FETÖ'ye yardım suçlamaları var
-• Mehmet Yıldırım yurt dışına kaçmak üzereyken gözaltına alındı, ev hapsine çarptırıldı
-• Yargıyı etkilemeye çalışmak suçlamasıyla soruşturması evde devam edecek
-• Baro ve Barolar Birliği'nin tutumu merak ediliyor
-• Gözaltı ve tutuklamalar sıradanlaştı, toplumda endişe artıyor
+• 4 kişilik ailenin yaşam maliyeti 96.000 TL'yi geçti, yoksulluk ve açlık sınırı asgari ücretin çok üzerinde
+• İşsizlik yüksek, üretim verileriyle işsizlik oranları çelişiyor
+• Bütçe açığı 1 trilyon TL'yi geçti, kamu harcamaları kontrolsüz
+• Kira artışları maaş artışlarını geçti, emekli ve asgari ücretli zor durumda
+• Pazarda fiyatlar çok yüksek, domatesin fiyatı ve tarım politikaları tartışılıyor
+• Kur korumalı mevduatın maliyeti 60 milyar dolar, büyük kısmı zenginlere aktarıldı
+• Sahte diplomalar ve pasaport skandalı gündemde, YÖK denkliği olmayan diplomalar kamu kurumlarında kullanılıyor
+• E-devlet sisteminin dijital sahtekarlığa açık olduğu ve denetimsizlik eleştiriliyor
+• Sahte diplomalar toplumsal güveni ve kurumsal yapıyı zedeliyor
+• Ekonomik kriz, sahtecilik ve güven kaybı toplumsal huzursuzluğu artırıyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=TOJ65ERUtEk&t=724s) (⏱️ 12:04-14:09)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=Aay-ZJp0Ln0&t=3445s) (⏱️ 57:25-64:26)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=CNuyZZoi-P4&t=1170s) (⏱️ 19:30-23:21)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=kxkRGEiUols&t=7s) (⏱️ 00:07-05:43)
+- [Fatih Altayli](https://www.youtube.com/watch?v=r6NwQhDGBkk&t=1315s) (⏱️ 21:55-22:33)
 
 ---
 
-## 4. Berin Sönmez'in Başörtüsünü Çıkarma Kararı ve İslami Feminizm Tartışmaları
+## 4. Deprem ve Orman Yangınları: Türkiye'de Afetler ve Hazırlıksızlık
 
-• Berin Sönmez başörtüsünü çıkarmaya karar verdi, kişisel protesto olarak açıkladı
-• Kararı toplumsal tartışma yarattı, destek ve eleştiri aldı
-• Tartışma başörtüsünün dini değil siyasi bir mesele olduğu yönünde
-• Dindar kadınların iki iktidar arasında kaldığı vurgulandı
-• Son dönemde başörtüsü takmama veya çıkartma eğilimi arttı
-• Bireysel başörtüsü çıkarma kararları toplumsal baskı nedeniyle zor alınıyor
-• Konca Kuriş, İslami feminizmin sembolü olarak Hizbullah tarafından kaçırılıp öldürüldü
-• Kuriş'in cesur duruşu nedeniyle katledildiği vurgulandı
-• Kadınların bu mücadelede unutulmaması gerektiği belirtildi
+• Balıkesir Sındırgı'da 6.1 büyüklüğünde deprem oldu, 13 bina yıkıldı, bir can kaybı yaşandı
+• Depremde yıkımın nedeni yapı güvenliği eksikliği olarak değerlendirildi
+• Türkiye'de deprem yönetimi ve hazırlık eksikliği devam ediyor, afet bakanlığı öneriliyor
+• Prof. Dr. Şener Üşümezsoy, Balıkesir hattında depremi önceden tahmin etti
+• Çanakkale, Manisa ve Muğla'da büyük orman yangınları çıktı, tahliyeler yapıldı, yangınlar kontrol altına alınamıyor
+• Yangınların yerleşime açılmak için kasıtlı çıkarıldığı iddiaları var
+• Sıcak hava ve rüzgar yangın riskini artırıyor
+• Afetlere karşı yeterli önlem alınmıyor, müteahhit ve belediyelerin sorumluluğu tartışılıyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=0qWL2xV9QGs&t=20s) (⏱️ 00:20-09:30)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=xM_gDBv5X9U&t=366s) (⏱️ 06:06-09:16)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=CNuyZZoi-P4&t=175s) (⏱️ 02:55-05:24)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=kxkRGEiUols&t=1573s) (⏱️ 26:13-37:10)
 
 ---
 
-## 5. Türkiye'de Gelecek Endişeleri ve Kaos Tartışmaları
+## 5. AK Parti ve MHP'de Ayrışma, Anayasa Tartışmaları ve Yurtseverlik
 
-• Sokakta vatandaşlar gelecekle ilgili endişeli
-• Gözaltılar ve tutuklamalar sıradanlaştı
-• Sahte diploma ve kimlik kopyalama skandalları kaos yaratıyor
-• Yetkililer eleştirileri 'kaos yaratmak' olarak nitelendiriyor
-• Ekonomideki kötü gidişatın sorumlusu olarak mevcut yönetim gösteriliyor
-• Önümüzdeki haftalarda yeni gözaltılar ve sahte diploma tartışmaları bekleniyor
-• Diyanet'in yeni çıkışlar yapabileceği öngörülüyor
-• Konut vergisinin artacağına dair söylentiler var
+• AK Parti içinde ciddi ayrışmalar yaşanıyor, bazı isimler MHP ile ittifakı sorguluyor
+• Anayasa değişikliği ve referandum tartışmaları gündemde
+• 'Türkiyelik' ve yurtseverlik kavramları üzerinden toplumda ayrışmalar var
+• AK Parti içindeki tartışmaların diğer partilere de yansıyacağı öngörülüyor
+• Kürt meselesi ve bölgesel dinamikler, dış müdahaleler ve yerli çözüm arayışlarıyla birlikte ele alınıyor
+• Yurtseverlik, siyasi kimliklerden bağımsız olarak sorgulanıyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=TOJ65ERUtEk&t=724s) (⏱️ 12:04-14:09)
+- [Serdar Akinan](https://www.youtube.com/watch?v=3Z0UEscoFMI&t=5s) (⏱️ 00:05-07:04)
 
 ---
 
-## 6. Cumhurbaşkanı Erdoğan'ın Ekonomi ve Kabine Görüşmeleri
+## 6. Gazze ve Filistin: Türkiye'de Destek Yürüyüşleri ve Uluslararası Tepkiler
 
-• Cumhurbaşkanı Erdoğan, eski Hazine ve Maliye Bakanı Nurettin Nebati ile görüştü
-• Görüşme yaklaşık 1.5 saat sürdü
-• Ekonomi yönetiminde Mehmet Şimşek karşıtlarının harekete geçtiği iddia edildi
-• Kabine değişikliği ve Mehmet Şimşek'in görevden alınması senaryoları konuşuluyor
-• Türkiye ekonomisinin Mehmet Şimşek'in ayrılığını kaldıramayacağı ifade edildi
-• Erdoğan, milli gelirin 1 trilyon doları aştığını açıkladı
-• Vatandaşların milli gelirden yeterince pay alamadığı vurgulandı
+• İstanbul'da Beyazıt Meydanı'ndan Ayasofya'ya Filistin'e destek yürüyüşü yapıldı
+• Katılımcılar sloganlar attı, dua edildi, aileler ve gençler yürüyüşe katıldı
+• Erdoğan, BM'nin 80. yılı için video mesajında Gazze'deki insanlık dramına dikkat çekti, BM'de reform çağrısı yaptı
+• Gazze'deki çocukların açlık ve zor koşulları gündeme taşındı
+• İsrail hükümetine yönelik protestolar Batı ülkelerinde daha yoğun
+• Türkiye'de yapılan mitinglerin etkisi tartışılıyor, daha fazla adım bekleniyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=TOJ65ERUtEk&t=77s) (⏱️ 01:17-03:54)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=Aay-ZJp0Ln0&t=162s) (⏱️ 02:42-16:24)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=Eq-hE2RtFVY&t=1s) (⏱️ 00:01-01:34)
+- [Fatih Altayli](https://www.youtube.com/watch?v=r6NwQhDGBkk&t=1506s) (⏱️ 25:06-25:54)
 
 ---
 
-## 7. Gazze İçin Umut Yürüyüşü ve Filistin Dayanışması
+## 7. Rezan Epözdemir Gözaltısı ve Yargıdaki Siyasi Hesaplaşmalar
 
-• Bilal Erdoğan'ın düzenlediği STK'lar Gazze için dayanışma yürüyüşü yaptı
-• Dünyada Filistin'e destek yürüyüşleri düzenleniyor
-• Katılımın yeterince kalabalık olmadığı eleştirildi
-• Gazze mitinglerinde kutuplaşma yaşanıyor
-• Gazze'de büyük bir soykırım yaşandığı vurgulandı
+• Avukat Rezan Epözdemir FETÖ'ye yardım ve casusluk iddialarıyla gözaltına alındı
+• Gözaltı sürecinde dijital materyallere el konuldu, siyasi bağlantılar tartışıldı
+• AK Parti içinde seçilmişler ve atanmışlar arasında güç mücadelesi olduğu iddia edildi
+• Sosyal medyada Epözdemir'in siyasi bağlantıları ve dosyası tartışıldı
+• Yargı ve siyaset çevrelerinde dosya büyük ilgiyle takip ediliyor
+• Yargı bağımsızlığı ve hukukun üstünlüğü konusundaki endişeler dile getiriliyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=TOJ65ERUtEk&t=77s) (⏱️ 01:17-03:54)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=xM_gDBv5X9U&t=558s) (⏱️ 09:18-12:48)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=CNuyZZoi-P4&t=1170s) (⏱️ 19:30-23:21)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=kxkRGEiUols&t=4368s) (⏱️ 72:48-79:45)
+- [Fatih Altayli](https://www.youtube.com/watch?v=r6NwQhDGBkk&t=765s) (⏱️ 12:45-21:53)
 
 ---
 
-## 8. İlişkilerde Ayrı Yatak ve Ayrı Evde Yaşama Trendleri
+## 8. Zengezur Koridoru ve Bölgesel Jeopolitik Gelişmeler
 
-• İlişkilerde ayrı yataklarda uyumak daha sağlıklı olabilir
-• Ayrı evlerde yaşamak bazı çiftler için daha iyi bir çözüm olabilir
-• Ünlü isimler ayrı evlerde yaşamıştır
-• Seçilmiş sadakat kavramı tartışıldı
-• Sadakat ve mutluluk kişinin seçimine bağlı olabilir
-• Kimse kimseye mecbur olmamalı, seçerek birlikte olmak daha değerlidir
+• ABD'nin arabuluculuğunda Azerbaycan ve Ermenistan arasında Zengezur koridoru anlaşması imzalandı
+• Türkiye'nin jeopolitik çıkarları açısından önemli bir adım olarak görülüyor
+• Koridorun açılmasıyla Türkiye, İran üzerinden geçmeden Azerbaycan ve Orta Asya'ya ulaşabilecek
+• Amerika'nın rolü kolaylaştırıcı, Rusya ve İran bu gelişmeden rahatsız
+• Bölgedeki güç dengeleri değişiyor, Rusya'nın etkisi azalıyor
+• ABD'nin bölgede barış görüntüsü altında başka huzursuzluklara yol açabileceği belirtiliyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=KinUFvKgrDQ&t=14s) (⏱️ 00:14-11:32)
+- [Rusen Cakir](https://www.youtube.com/watch?v=oha_6OhLUs8&t=141s) (⏱️ 02:21-12:20)
+- [Fatih Altayli](https://www.youtube.com/watch?v=r6NwQhDGBkk&t=1315s) (⏱️ 21:55-22:33)
 
 ---
 
-## 9. Uyku Alışkanlıkları, Powernap ve Yatakta Konfor
+## 9. Suriye'de Kürtler, SDG ve Merkezi Yönetim Arasındaki Gerilim
 
-• Bazı insanlar sabahları zor uyanır
-• Powernap kısa süreli uyku ile enerji kazanılır
-• Öğlen uykusu bazı iş insanları için yaygındır
-• Herkesin uyku alışkanlığı farklıdır
-• Birçok kişi birden fazla yastıkla uyumayı tercih eder
-• Yorgan ve yastık çekişmeleri yatakta sık yaşanır
-• Yorganın uzun olması çekişmeleri azaltabilir
-• Küçükken şefkat görmeyenler yastığa sarılmayı tercih edebilir
+• Suriye'de Kürtler (SDG) ve merkezi yönetim arasında güç savaşı yaşanıyor
+• SDG'nin düzenlediği konferansa farklı etnik ve dini gruplardan temsilciler katıldı
+• Kürtler ve diğer azınlıklar adem-i merkeziyetçilik talep ediyor, Ankara ve Şam bu talebe sıcak bakmıyor
+• SDG'ye Eylül başına kadar olumlu adım atması için süre verildi
+• Suriye'de çatışma riski devam ediyor, Türkiye ve İsrail'in dolaylı müdahalesi olası
+• Suriye'deki gelişmeler Türkiye'deki PKK sürecini doğrudan etkiliyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=KinUFvKgrDQ&t=14s) (⏱️ 00:14-11:32)
+- [Rusen Cakir](https://www.youtube.com/watch?v=wpNL91dFXnQ) (⏱️ 00:00-20:19)
+
+---
+
+## 10. Toplumsal ve Kültürel Gündem: Şiir, Ebeveynlik ve Trafik Cezaları
+
+• Edip Cansever'in şiirleri ve gençlikte keşfedilmesinin önemi vurgulandı
+• Leyla'nın başörtüsünü açma kararı ve aileyle yaşadığı kimlik çatışması anlatıldı
+• Türkiye'de ebeveynlik sorunu, mutsuzluk ve kimlik arayışı yaygın
+• Gurbetçilerin Türkiye'de trafik cezaları ve sınır kapılarında yaşadığı sorunlar gündeme geldi
+• Türkiye'de yaşam ve tüketim maliyetleri gurbetçileri etkiliyor
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Rusen Cakir](https://www.youtube.com/watch?v=wpNL91dFXnQ&t=1821s) (⏱️ 30:21-38:25)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=kxkRGEiUols&t=1252s) (⏱️ 20:52-26:13)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=xM_gDBv5X9U&t=235s) (⏱️ 03:55-06:02)
 
 ---
 
