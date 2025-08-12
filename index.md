@@ -1,191 +1,175 @@
 # Bugün Ne Oldu?
 
-*11 August 2025 tarihli günlük haber raporu - 10 haber birleştirildi*
+*12 August 2025 tarihli günlük haber raporu - 10 haber birleştirildi*
 
-## 1. Çözüm Süreci, PKK'nın Silah Bırakması ve Siyasi-Yargı Gelişmeleri
+## 1. Yargı Krizi, Rezan Epözdemir Soruşturması ve AK Parti İçindeki Çatışmalar
 
-• Mecliste PKK'nın silah bırakması ve feshi için komisyon kuruldu, partiler arasında işbirliği var
-• Komisyonun amacı PKK'nın silah bırakmasının hukuki altyapısını oluşturmak, yeni yasa gerekebilir
-• CHP'nin komisyona katılımı tartışma yarattı, demokratikleşme vurgusu öne çıktı
-• Bahçeli, sürecin yıl sonuna kadar tamamlanmasını ve İmamoğlu davalarının bitmesini istiyor
-• Toplumsal destek zayıf, sürecin şeffaf ilerlemediği eleştiriliyor
-• Mahmur kampının boşaltılması ve kamp sakinlerinin Türkiye'ye dönüşü gündemde
-• Suriye'deki Kürtlerle ilişkiler ve Suriye'deki gelişmeler Türkiye'deki süreci doğrudan etkiliyor
-• İmamoğlu'nun komisyon ve barış süreci hakkındaki olumlu açıklamaları dikkat çekti
-• Tutuklu belediye başkanları ve siyasi davalar sürecin parçası olarak öne çıkıyor
-• Çözüm sürecinin başarısı için demokrasi ve hukuka geçişin şart olduğu vurgulanıyor
-• Bahçeli'nin açıklamaları, MHP'nin sürece desteği ve AK Parti içindeki tartışmalar gündemde
-• Toplumda çözüm sürecine dair umut ve endişeler birlikte yaşanıyor
-• Siyasi davalar, yargıdaki gerilim ve komisyonun rolü sürecin seyrini etkiliyor
+• Ünlü avukat Rezan Epözdemir casusluk, FETÖ'ye yardım ve rüşvet suçlamalarıyla gözaltına alındı.
+• Soruşturma, yargıdaki rüşvet iddiaları ve Bakırköy dosyası üzerinden başlatıldı.
+• Epözdemir'in gözaltı süresi uzatıldı, telefon şifresini vermemesi tartışma yarattı.
+• AK Parti içinde Mehmet Uçum, Şamil Tayyar, Metin Külünk gibi isimler arasında sosyal medya üzerinden sert tartışmalar yaşandı.
+• Cumhurbaşkanlığı çevresinde avukatların görevden alınması ve vekaletlerin çekilmesi gündeme geldi.
+• Olay, AK Parti ve saray çevresindeki klik savaşlarını ve yargıdaki gruplaşmaları açığa çıkardı.
+• Yargıdaki çıkar çatışmaları, siyasetin ve yargının iç içe geçtiğini gösteriyor.
+• Soruşturma kapsamında başka avukatlar ve siyasetçilerin de adı geçiyor.
+• Olay, yargı bağımsızlığı ve siyasi hesaplaşma tartışmalarını büyüttü.
+• Soruşturmanın siyasi boyutu ve yargıdaki güç savaşları Türkiye gündeminin merkezine oturdu.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=wpNL91dFXnQ&t=2305s) (⏱️ 38:25-44:52)
-- [Murat Yetkin](https://www.youtube.com/watch?v=mAcr21s5bdE&t=2s) (⏱️ 00:02-06:20)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=xM_gDBv5X9U&t=366s) (⏱️ 06:06-09:16)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=CNuyZZoi-P4&t=324s) (⏱️ 05:24-07:21)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=Eq-hE2RtFVY&t=1s) (⏱️ 00:01-01:34)
-- [Fatih Altayli](https://www.youtube.com/watch?v=r6NwQhDGBkk&t=1355s) (⏱️ 22:35-23:51)
+- [Murat Yetkin](https://www.youtube.com/watch?v=MjjS7SMN3rw&t=7s) (⏱️ 00:07-14:52)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=Hiei3w3dh08&t=3428s) (⏱️ 57:08-58:31)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=Uy_JhjXeu3Y&t=3420s) (⏱️ 57:00-57:10)
+- [Onlar TV](https://www.youtube.com/watch?v=jb4HUHQncLc&t=21s) (⏱️ 00:21-23:29)
+- [Rusen Cakir](https://www.youtube.com/watch?v=ikxztFzRfJY&t=670s) (⏱️ 11:10-13:45)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=uUR7zUhNQik&t=815s) (⏱️ 13:35-19:54)
 
 ---
 
-## 2. İBB ve CHP'li Belediyelere Yönelik Soruşturmalar, İmamoğlu Davaları ve Yargıdaki Gerilim
+## 2. Çözüm Süreci, Meclis Komisyonu ve Kürt Meselesi
 
-• İBB ve CHP'li belediyelere yönelik çok sayıda soruşturma ve dava yürütülüyor
-• Ekrem İmamoğlu hakkında mali suçlar, terörle mücadele, diploma iptali gibi çeşitli davalar var
-• Soruşturma dosyaları arasında PKK'ya yardım iddiası, suç örgütü suçlamaları ve farklı belediyelerle ilgili dosyalar bulunuyor
-• Adalet Bakanlığı ve İstanbul Cumhuriyet Başsavcılığı arasında iddianame yazımı konusunda gerilim yaşanıyor
-• Siyasi baskılar olmasına rağmen iddianamenin kısa sürede yazılması beklenmiyor, süreç uzun sürebilir
-• Tutuksuz yargılama ve kamuoyu baskısı bazı davalarda etkili oluyor
-• İmamoğlu'nun Kürtçe öğrenme açıklaması ve CHP-DEM Parti ilişkileri siyaset kulislerinde tartışılıyor
-• Bahçeli, davaların bir an önce bitmesini istiyor, sürecin uzaması MHP'ye zarar veriyor
-• Siyasi davalar, Ergenekon ve Balyoz davalarına benzetiliyor
-• Yargıdaki süreçler siyasi atmosferi ve muhalefet-iktidar ilişkilerini etkiliyor
+• Mecliste Kürt meselesi için yeni bir komisyon kuruldu; İyi Parti dışında tüm partiler yer aldı.
+• Komisyonun amacı, örgütün silah bırakması ve toplumsal barış için yasal altyapı oluşturmak.
+• CHP, DEM Parti ve MHP'nin süreçteki rolleri ve fedakarlıkları vurgulandı.
+• Selahattin Demirtaş ve diğer siyasi tutukluların tahliyesi, toplumsal desteği artıracak adımlar olarak öne çıktı.
+• Komisyonun demokratikleşme, yargı bağımsızlığı ve kayyum uygulamalarının kaldırılması gibi başlıkları gündeme alması istendi.
+• Suriye ve Rojava'daki gelişmelerin Türkiye'deki sürece etkisi tartışıldı.
+• Toplumda çözüm sürecine güvenin artması için şeffaflık ve toplumsal katılım gerektiği belirtildi.
+• İyi Parti komisyona katılmadı ve süreci eleştirdi; Zafer Partisi ile ittifak gündemde değil.
+• CHP'nin Kürtlerle ilişkisi güçleniyor, İmamoğlu'nun Kürtçe öğrenme isteği sembolik önem taşıyor.
+• Komisyonun geleceği, toplumsal barış ve demokratikleşme için kritik görülüyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=Aay-ZJp0Ln0&t=991s) (⏱️ 16:31-20:47)
-- [Murat Yetkin](https://www.youtube.com/watch?v=mAcr21s5bdE&t=380s) (⏱️ 06:20-12:32)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=CNuyZZoi-P4&t=8s) (⏱️ 00:08-02:55)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=kxkRGEiUols&t=7s) (⏱️ 00:07-05:43)
+- [Rusen Cakir](https://www.youtube.com/watch?v=2XtPLfTQKA8&t=843s) (⏱️ 14:03-43:42)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=Hiei3w3dh08&t=3154s) (⏱️ 52:34-54:23)
+- [Serdar Akinan](https://www.youtube.com/watch?v=9HuUDdHJvhc&t=478s) (⏱️ 07:58-13:42)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=Uy_JhjXeu3Y&t=1260s) (⏱️ 21:00-24:00)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=uUR7zUhNQik&t=815s) (⏱️ 13:35-19:54)
 
 ---
 
-## 3. Türkiye'de Ekonomik Kriz, Geçim Sıkıntısı ve Sahte Diploma Skandalları
+## 3. Orman Yangınları, Çanakkale Felaketi ve Müdahale Eksiklikleri
 
-• 4 kişilik ailenin yaşam maliyeti 96.000 TL'yi geçti, yoksulluk ve açlık sınırı asgari ücretin çok üzerinde
-• İşsizlik yüksek, üretim verileriyle işsizlik oranları çelişiyor
-• Bütçe açığı 1 trilyon TL'yi geçti, kamu harcamaları kontrolsüz
-• Kira artışları maaş artışlarını geçti, emekli ve asgari ücretli zor durumda
-• Pazarda fiyatlar çok yüksek, domatesin fiyatı ve tarım politikaları tartışılıyor
-• Kur korumalı mevduatın maliyeti 60 milyar dolar, büyük kısmı zenginlere aktarıldı
-• Sahte diplomalar ve pasaport skandalı gündemde, YÖK denkliği olmayan diplomalar kamu kurumlarında kullanılıyor
-• E-devlet sisteminin dijital sahtekarlığa açık olduğu ve denetimsizlik eleştiriliyor
-• Sahte diplomalar toplumsal güveni ve kurumsal yapıyı zedeliyor
-• Ekonomik kriz, sahtecilik ve güven kaybı toplumsal huzursuzluğu artırıyor
+• Çanakkale ve Soma'da büyük orman yangınları çıktı, çok sayıda ev ve ormanlık alan zarar gördü.
+• Yangınlara müdahalede araç ve personel eksikliği yaşandı, ihale skandalları gündeme geldi.
+• Yangın söndürme uçaklarının yetersizliği ve Orman Genel Müdürlüğü'nün ihmalleri eleştirildi.
+• Yangınların doğal hayata, hayvanlara ve bölge halkına etkisi büyük oldu.
+• İklim değişikliği ve yapılaşma yangın riskini artırıyor.
+• Yangın sonrası tahliyeler ve soğutma çalışmaları devam ediyor.
+• Av sezonunun açılması ve hayvanların korunması tartışma yarattı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=Aay-ZJp0Ln0&t=3445s) (⏱️ 57:25-64:26)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=CNuyZZoi-P4&t=1170s) (⏱️ 19:30-23:21)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=kxkRGEiUols&t=7s) (⏱️ 00:07-05:43)
-- [Fatih Altayli](https://www.youtube.com/watch?v=r6NwQhDGBkk&t=1315s) (⏱️ 21:55-22:33)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=Hiei3w3dh08&t=3154s) (⏱️ 52:34-54:23)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=Uy_JhjXeu3Y&t=3420s) (⏱️ 57:00-57:10)
+- [Onlar TV](https://www.youtube.com/watch?v=K_kA23v0aDY&t=41s) (⏱️ 00:41-06:17)
 
 ---
 
-## 4. Deprem ve Orman Yangınları: Türkiye'de Afetler ve Hazırlıksızlık
+## 4. Ekonomik Kriz, Memur ve Emekli Zamları, Gelir Adaletsizliği
 
-• Balıkesir Sındırgı'da 6.1 büyüklüğünde deprem oldu, 13 bina yıkıldı, bir can kaybı yaşandı
-• Depremde yıkımın nedeni yapı güvenliği eksikliği olarak değerlendirildi
-• Türkiye'de deprem yönetimi ve hazırlık eksikliği devam ediyor, afet bakanlığı öneriliyor
-• Prof. Dr. Şener Üşümezsoy, Balıkesir hattında depremi önceden tahmin etti
-• Çanakkale, Manisa ve Muğla'da büyük orman yangınları çıktı, tahliyeler yapıldı, yangınlar kontrol altına alınamıyor
-• Yangınların yerleşime açılmak için kasıtlı çıkarıldığı iddiaları var
-• Sıcak hava ve rüzgar yangın riskini artırıyor
-• Afetlere karşı yeterli önlem alınmıyor, müteahhit ve belediyelerin sorumluluğu tartışılıyor
+• Hükümetin memur ve emekli zam teklifleri çok düşük oranlarda açıklandı.
+• Mehmet Şimşek'in bütçe hedefleri ve enflasyonla mücadele programı devam ediyor.
+• Memur ve emekli sendikaları zam oranlarına tepki gösterdi, grev ve eylemler kararnamelerle engelleniyor.
+• Türkiye'de gelir adaletsizliği artıyor, servetin büyük kısmı küçük bir kesimin elinde.
+• Gıda enflasyonu ve ekonomik sıkışmışlık halkı zorluyor.
+• Faiz harcamaları rekor seviyede, ekonomide toparlanma beklenmiyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=xM_gDBv5X9U&t=366s) (⏱️ 06:06-09:16)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=CNuyZZoi-P4&t=175s) (⏱️ 02:55-05:24)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=kxkRGEiUols&t=1573s) (⏱️ 26:13-37:10)
+- [Serdar Akinan](https://www.youtube.com/watch?v=9HuUDdHJvhc&t=12s) (⏱️ 00:12-02:07)
+- [Fatih Altayli](https://www.youtube.com/watch?v=rXevx-USeNU&t=1271s) (⏱️ 21:11-27:53)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=Uy_JhjXeu3Y&t=60s) (⏱️ 01:00-21:00)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=uUR7zUhNQik&t=1203s) (⏱️ 20:03-47:29)
 
 ---
 
-## 5. AK Parti ve MHP'de Ayrışma, Anayasa Tartışmaları ve Yurtseverlik
+## 5. AK Parti ve MHP'de Siyasi Çatışmalar, Koalisyon ve Yargı Operasyonları
 
-• AK Parti içinde ciddi ayrışmalar yaşanıyor, bazı isimler MHP ile ittifakı sorguluyor
-• Anayasa değişikliği ve referandum tartışmaları gündemde
-• 'Türkiyelik' ve yurtseverlik kavramları üzerinden toplumda ayrışmalar var
-• AK Parti içindeki tartışmaların diğer partilere de yansıyacağı öngörülüyor
-• Kürt meselesi ve bölgesel dinamikler, dış müdahaleler ve yerli çözüm arayışlarıyla birlikte ele alınıyor
-• Yurtseverlik, siyasi kimliklerden bağımsız olarak sorgulanıyor
+• AK Parti içinde farklı gruplar ve klikler arasında çatışmalar yaşanıyor.
+• Yargı ve siyaset üzerinden parti içi mücadeleler öne çıktı.
+• MHP lideri Bahçeli, yargıdaki tartışmaların ve belediye operasyonlarının hızla sonuçlanmasını istedi.
+• Koalisyonda çatlaklar ve CHP ile iş birliği ihtimali konuşuluyor.
+• CHP'li belediyelere yönelik operasyonlar ve gözaltılar tartışma yarattı.
+• Bahçeli'nin açıklamaları, siyasi dengelerde değişime yol açabilir.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Serdar Akinan](https://www.youtube.com/watch?v=3Z0UEscoFMI&t=5s) (⏱️ 00:05-07:04)
+- [Serdar Akinan](https://www.youtube.com/watch?v=9HuUDdHJvhc&t=141s) (⏱️ 02:21-07:51)
+- [Murat Yetkin](https://www.youtube.com/watch?v=MjjS7SMN3rw&t=7s) (⏱️ 00:07-14:52)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=Hiei3w3dh08&t=2764s) (⏱️ 46:04-48:37)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=Uy_JhjXeu3Y&t=1260s) (⏱️ 21:00-24:00)
 
 ---
 
-## 6. Gazze ve Filistin: Türkiye'de Destek Yürüyüşleri ve Uluslararası Tepkiler
+## 6. Sahte Diplomalar, Üniversite Skandalları ve Dark Web'de Yasa Dışı Faaliyetler
 
-• İstanbul'da Beyazıt Meydanı'ndan Ayasofya'ya Filistin'e destek yürüyüşü yapıldı
-• Katılımcılar sloganlar attı, dua edildi, aileler ve gençler yürüyüşe katıldı
-• Erdoğan, BM'nin 80. yılı için video mesajında Gazze'deki insanlık dramına dikkat çekti, BM'de reform çağrısı yaptı
-• Gazze'deki çocukların açlık ve zor koşulları gündeme taşındı
-• İsrail hükümetine yönelik protestolar Batı ülkelerinde daha yoğun
-• Türkiye'de yapılan mitinglerin etkisi tartışılıyor, daha fazla adım bekleniyor
+• Türkiye'de sahte diplomalar ve üniversite kayıt skandalları yaygınlaşıyor.
+• Parayla gerçek diploma ve not satışı, sahte pasaportla üniversiteye kayıt gibi yöntemler kullanılıyor.
+• Depremde ölenlerin yerine sahte mezuniyetler ekleniyor.
+• Dark web'de YKS soruları ve devlette kadrolu iş garantisi gibi yasa dışı satışlar yapılıyor.
+• Yetkililerin bu tür suçlara karşı önlem alması gerektiği vurgulanıyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=Aay-ZJp0Ln0&t=162s) (⏱️ 02:42-16:24)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=Eq-hE2RtFVY&t=1s) (⏱️ 00:01-01:34)
-- [Fatih Altayli](https://www.youtube.com/watch?v=r6NwQhDGBkk&t=1506s) (⏱️ 25:06-25:54)
+- [Onlar TV](https://www.youtube.com/watch?v=jb4HUHQncLc&t=421s) (⏱️ 07:01-15:00)
+- [Fatih Altayli](https://www.youtube.com/watch?v=rXevx-USeNU&t=528s) (⏱️ 08:48-09:28)
 
 ---
 
-## 7. Rezan Epözdemir Gözaltısı ve Yargıdaki Siyasi Hesaplaşmalar
+## 7. Fatih Altaylı'nın Tutukluluğu, Medya ve Gazetecilikte Baskılar
 
-• Avukat Rezan Epözdemir FETÖ'ye yardım ve casusluk iddialarıyla gözaltına alındı
-• Gözaltı sürecinde dijital materyallere el konuldu, siyasi bağlantılar tartışıldı
-• AK Parti içinde seçilmişler ve atanmışlar arasında güç mücadelesi olduğu iddia edildi
-• Sosyal medyada Epözdemir'in siyasi bağlantıları ve dosyası tartışıldı
-• Yargı ve siyaset çevrelerinde dosya büyük ilgiyle takip ediliyor
-• Yargı bağımsızlığı ve hukukun üstünlüğü konusundaki endişeler dile getiriliyor
+• Fatih Altaylı'nın tutukluluğu ve cezaevinden yaşadıkları gündemde.
+• Altaylı'nın YouTube kanalına erişim engeli ve kapatma kararı verildi.
+• Medya ve gazetecilikte baskılar artıyor, YouTube gazeteciliği yükseliyor.
+• Gazeteciler arasında dayanışma ve rekabet anlatıldı.
+• Yargı kararlarının hukuksuzluğu ve medya üzerindeki baskılar eleştirildi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=xM_gDBv5X9U&t=558s) (⏱️ 09:18-12:48)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=CNuyZZoi-P4&t=1170s) (⏱️ 19:30-23:21)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=kxkRGEiUols&t=4368s) (⏱️ 72:48-79:45)
-- [Fatih Altayli](https://www.youtube.com/watch?v=r6NwQhDGBkk&t=765s) (⏱️ 12:45-21:53)
+- [Fatih Altayli](https://www.youtube.com/watch?v=rXevx-USeNU) (⏱️ 00:00-01:07)
+- [Onlar TV](https://www.youtube.com/watch?v=K_kA23v0aDY&t=404s) (⏱️ 06:44-31:17)
 
 ---
 
-## 8. Zengezur Koridoru ve Bölgesel Jeopolitik Gelişmeler
+## 8. Suriye ve Rojava'daki Gelişmelerin Türkiye'ye Etkisi
 
-• ABD'nin arabuluculuğunda Azerbaycan ve Ermenistan arasında Zengezur koridoru anlaşması imzalandı
-• Türkiye'nin jeopolitik çıkarları açısından önemli bir adım olarak görülüyor
-• Koridorun açılmasıyla Türkiye, İran üzerinden geçmeden Azerbaycan ve Orta Asya'ya ulaşabilecek
-• Amerika'nın rolü kolaylaştırıcı, Rusya ve İran bu gelişmeden rahatsız
-• Bölgedeki güç dengeleri değişiyor, Rusya'nın etkisi azalıyor
-• ABD'nin bölgede barış görüntüsü altında başka huzursuzluklara yol açabileceği belirtiliyor
+• Suriye'de Kürtler ile Şam yönetimi arasında mutabakat sağlanamadı, süreç kilitlendi.
+• Kürtlerin Suriye ordusuna katılması ve ademi merkeziyetçi yönetim talepleri gündemde.
+• Türkiye, Kürtlerin güçlenmesini güvenlik sorunu olarak görüyor.
+• Suriye'deki gelişmeler, Türkiye'deki çözüm sürecini doğrudan etkiliyor.
+• Türkiye'nin güvenlik perspektifinden güven perspektifine geçmesi öneriliyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=oha_6OhLUs8&t=141s) (⏱️ 02:21-12:20)
-- [Fatih Altayli](https://www.youtube.com/watch?v=r6NwQhDGBkk&t=1315s) (⏱️ 21:55-22:33)
+- [Rusen Cakir](https://www.youtube.com/watch?v=PNy0anGkhnI&t=4s) (⏱️ 00:04-09:32)
 
 ---
 
-## 9. Suriye'de Kürtler, SDG ve Merkezi Yönetim Arasındaki Gerilim
+## 9. Deprem, Su Sorunu ve Altyapı Eksiklikleri
 
-• Suriye'de Kürtler (SDG) ve merkezi yönetim arasında güç savaşı yaşanıyor
-• SDG'nin düzenlediği konferansa farklı etnik ve dini gruplardan temsilciler katıldı
-• Kürtler ve diğer azınlıklar adem-i merkeziyetçilik talep ediyor, Ankara ve Şam bu talebe sıcak bakmıyor
-• SDG'ye Eylül başına kadar olumlu adım atması için süre verildi
-• Suriye'de çatışma riski devam ediyor, Türkiye ve İsrail'in dolaylı müdahalesi olası
-• Suriye'deki gelişmeler Türkiye'deki PKK sürecini doğrudan etkiliyor
+• Balıkesir'de deprem oldu, 16 bina yıkıldı ve bir can kaybı yaşandı.
+• Türkiye'de küçük depremlerde bile ciddi yıkımlar oluyor.
+• İzmir ve Edirne'de su sıkıntısı yaşanıyor, DSİ'nin hataları eleştiriliyor.
+• Türkiye'nin deprem hazırlığı ve altyapı eksiklikleri sorgulanıyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=wpNL91dFXnQ) (⏱️ 00:00-20:19)
+- [Fatih Altayli](https://www.youtube.com/watch?v=rXevx-USeNU&t=619s) (⏱️ 10:19-10:41)
 
 ---
 
-## 10. Toplumsal ve Kültürel Gündem: Şiir, Ebeveynlik ve Trafik Cezaları
+## 10. Azerbaycan-Ermenistan Barışı ve Zengezur Koridoru
 
-• Edip Cansever'in şiirleri ve gençlikte keşfedilmesinin önemi vurgulandı
-• Leyla'nın başörtüsünü açma kararı ve aileyle yaşadığı kimlik çatışması anlatıldı
-• Türkiye'de ebeveynlik sorunu, mutsuzluk ve kimlik arayışı yaygın
-• Gurbetçilerin Türkiye'de trafik cezaları ve sınır kapılarında yaşadığı sorunlar gündeme geldi
-• Türkiye'de yaşam ve tüketim maliyetleri gurbetçileri etkiliyor
+• Azerbaycan'ın Ermeni işgali altındaki topraklarını geri alması süreci anlatıldı.
+• Türkiye, İsrail, Rusya ve ABD'nin bölgedeki rolleri tartışıldı.
+• ABD'nin Zengezur koridorunun kontrolünü alması eleştirildi.
+• Türkiye'nin bölgesel güç iddiasının zayıfladığı belirtildi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=wpNL91dFXnQ&t=1821s) (⏱️ 30:21-38:25)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=kxkRGEiUols&t=1252s) (⏱️ 20:52-26:13)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=xM_gDBv5X9U&t=235s) (⏱️ 03:55-06:02)
+- [Fatih Altayli](https://www.youtube.com/watch?v=rXevx-USeNU&t=145s) (⏱️ 02:25-05:38)
 
 ---
 
