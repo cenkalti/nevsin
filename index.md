@@ -1,163 +1,162 @@
 # Bugün Ne Oldu?
 
-*15 August 2025 tarihli günlük haber raporu - 9 haber birleştirildi*
+*16 August 2025 tarihli günlük haber raporu - 10 haber birleştirildi*
 
-## 1. Türkiye'de Yargı ve Siyasette Rüşvet, Çeteleşme ve Yolsuzluk İddiaları
+## 1. Yargı Operasyonları, Belediye Gözaltıları ve Siyasi Etkiler
 
-• Yargıda rüşvet, çeteleşme ve çıkar ilişkileri iddiaları gündemde.
-• Avukat Mücahit Birinci'nin 2 milyon dolar karşılığında tahliye vaadi verdiği iddia edildi.
-• Murat Kapki'nin etkin pişmanlık ve rüşvet iddiaları kamuoyunda tartışılıyor.
-• Rezan Ep Özdemir rüşvet aracılığı suçlamasıyla tutuklandı.
-• Yargıda "FETÖ borsası" ve benzeri yapılanmalar uzun süredir konuşuluyor.
-• Genç ve tecrübesiz hakim-savcı atamaları yargı süreçlerini olumsuz etkiliyor.
-• Siyasi partiler, medya ve yargı mensupları bu ilişkilerde yer alıyor.
-• Gazeteciler ve avukatlar arasında sosyal medyada sert tartışmalar yaşandı.
-• Soruşturmalarda AK Parti ve CHP arasındaki siyasi çatışmalar öne çıkıyor.
-• Yargıdaki çürümüşlük, adaletin siyasallaşması ve soruşturmalarda eşitsizlik vurgulanıyor.
-• Etkin pişmanlık ifadelerine tek başına güvenilmemesi gerektiği belirtiliyor.
-• Yargıda temiz eller operasyonu beklentisi var ancak belirsizlik sürüyor.
-• Toplumda hukuka ve adalete güvenin azaldığı, çöküş ve çaresizlik hissi yaygın.
+• İstanbul'da Beyoğlu Belediye Başkanı ve 44 kişi gözaltına alındı
+• İBB'ye yönelik operasyon dalgası başlatıldı, birçok isim gözaltına alındı
+• Murat Kapki ve Aziz İhsan Aktaş'ın ifadeleri sonrası CHP'li belediyelere operasyonlar hızlandı
+• Yargıda rüşvet, FETÖ borsası ve güven sorunu gündemde
+• Yargıdaki operasyonların siyasi amaçlı olduğu iddia ediliyor
+• Ekrem İmamoğlu ve çevresi operasyonlardan etkileniyor
+• CHP Genel Başkanı Özgür Özel operasyonları eleştiriyor
+• Yargıdaki klikler ve siyasi hesaplaşmalar toplumsal güveni zedeliyor
+• Operasyonların toplumsal ve siyasi etkileri tartışılıyor
+• Soruşturma süreci devam ediyor, iddiaların doğruluğu yargı tarafından inceleniyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=kmpVF7uVQa4&t=690s) (⏱️ 11:30-20:54)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=kY2iOHowKNs&t=84s) (⏱️ 01:24-02:46)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=6rug78faeMk&t=900s) (⏱️ 15:00-30:00)
-- [Murat Yetkin](https://www.youtube.com/watch?v=7syC9NUfRBE&t=76s) (⏱️ 01:16-15:10)
-- [Serdar Akinan](https://www.youtube.com/watch?v=IsAtItosgWw&t=357s) (⏱️ 05:57-16:34)
-- [Fatih Altayli](https://www.youtube.com/watch?v=lo19ISTdOlA&t=792s) (⏱️ 13:12-39:14)
-- [Onlar TV](https://www.youtube.com/watch?v=7pe6u90zTYc&t=3270s) (⏱️ 54:30-89:36)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=4xg0dPfGJx8&t=830s) (⏱️ 13:50-16:34)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=DdZDB84gwuo&t=990s) (⏱️ 16:30-18:50)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=AFWdXSiN1r4&t=41s) (⏱️ 00:41-02:04)
+- [Rusen Cakir](https://www.youtube.com/watch?v=pgnnBqPIPms&t=1452s) (⏱️ 24:12-27:44)
 
 ---
 
-## 2. CHP'li Belediye Başkanlarının AK Parti'ye Geçişi ve Siyasi Transfer Tartışmaları
+## 2. Türkiye'de Ekonomik Kriz: Enflasyon, Yoksulluk ve Vergi Sorunları
 
-• Aydın Büyükşehir Belediye Başkanı Özlem Çerçioğlu AK Parti'ye geçti.
-• Cumhurbaşkanı Erdoğan rozet taktı, kentsel dönüşüm desteği sözü verdi.
-• Transferin siyasi etik ve ahlak boyutu tartışılıyor.
-• CHP'den başka belediyelerin de AK Parti'ye geçeceği iddiaları var.
-• Bolu Belediye Başkanı Tanju Özcan, kendisine de teklif geldiğini ancak reddettiğini açıkladı.
-• Transfer sonrası Çerçioğlu'nun eşinin sahibi olduğu JANTSA şirketinin hisseleri yükseldi.
-• CHP içinde parti içi çözülme ve kariyerist eleştirileri gündemde.
-• Siyasi döneklik ve seçmene verilen sözlerin önemi vurgulanıyor.
-• Transferlerin kamuoyunda tartışma ve tepki yarattığı belirtildi.
+• Türkiye'de yaşam maliyeti ve yoksulluk hızla artıyor
+• Enflasyon %44'e ulaştı, maaşlar ve emekli aylıkları yetersiz
+• Asgari ücret ve emekli maaşı yoksulluk sınırının altında
+• Vergi gelirleri rekor kırıyor, bütçe açığı kapanmıyor
+• Toplanan vergilerin büyük kısmı faiz ödemelerine gidiyor
+• Kira ve gıda fiyatları hızla yükseliyor, vatandaşlar temel ihtiyaçlarını karşılamakta zorlanıyor
+• Ekonomik veriler olumlu görünse de toplumda kriz hissi yaygın
+• Kamuda harcamalar ve tasarruf eksikliği en büyük sorun olarak gösteriliyor
+• Vatandaşlar sosyal medyada ve kamuoyunda tepkilerini dile getiriyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=kY2iOHowKNs&t=84s) (⏱️ 01:24-02:46)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=6rug78faeMk&t=2280s) (⏱️ 38:00-47:00)
-- [Murat Yetkin](https://www.youtube.com/watch?v=7syC9NUfRBE&t=76s) (⏱️ 01:16-15:10)
-- [Fatih Altayli](https://www.youtube.com/watch?v=lo19ISTdOlA&t=264s) (⏱️ 04:24-09:10)
-- [Onlar TV](https://www.youtube.com/watch?v=7pe6u90zTYc&t=46s) (⏱️ 00:46-13:12)
-- [Serdar Akinan](https://www.youtube.com/watch?v=IsAtItosgWw&t=23s) (⏱️ 00:23-06:26)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=SvOLX1Dp22I&t=289s) (⏱️ 04:49-09:12)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=ElhqKrZjkGw&t=94s) (⏱️ 01:34-03:06)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=DdZDB84gwuo&t=2010s) (⏱️ 33:30-51:40)
 
 ---
 
-## 3. Yargıdaki Rüşvet ve Çeteleşme İddialarının Siyasi ve Toplumsal Yansımaları
+## 3. İBB ve CHP'deki Gelişmeler: Siyasi Baskılar ve Toplumsal Etkiler
 
-• Yargıda rüşvet ve çeteleşme iddiaları siyaseti ve toplumu etkiliyor.
-• Soruşturmalarda AK Parti ve CHP arasındaki siyasi çatışmalar öne çıkıyor.
-• Yargıdaki çürümüşlük, adaletin siyasallaşması ve soruşturmalarda eşitsizlik vurgulanıyor.
-• Siyasi partiler, medya ve yargı mensupları bu ilişkilerde yer alıyor.
-• Toplumda hukuka ve adalete güvenin azaldığı, çöküş ve çaresizlik hissi yaygın.
-• Demokratikleşmenin ancak hukuki düzenlemelerle mümkün olacağı vurgulanıyor.
+• İstanbul Büyükşehir Belediyesi'ne yönelik operasyonlar CHP kurultayına ve parti içi dengelere etki ediyor
+• İBB İnsan Kaynakları Daire Başkanı, Beyoğlu Belediye Başkanı ve İmamoğlu'na yakın birçok kişi gözaltına alındı
+• Murat Çalık'ın sağlık durumu cezaevinde riskli, siyasi baskıların toplumsal etkileri tartışılıyor
+• CHP Gençlik Kolları Silivri'ye yürüyüş başlattı
+• Operasyonların siyasi ve toplumsal etkileri değerlendiriliyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=kmpVF7uVQa4&t=690s) (⏱️ 11:30-20:54)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=kY2iOHowKNs&t=2757s) (⏱️ 45:57-52:01)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=6rug78faeMk&t=900s) (⏱️ 15:00-30:00)
-- [Murat Yetkin](https://www.youtube.com/watch?v=7syC9NUfRBE&t=5s) (⏱️ 00:05-09:21)
-- [Serdar Akinan](https://www.youtube.com/watch?v=IsAtItosgWw&t=357s) (⏱️ 05:57-16:34)
-- [Onlar TV](https://www.youtube.com/watch?v=7pe6u90zTYc&t=1290s) (⏱️ 21:30-48:31)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=DdZDB84gwuo&t=990s) (⏱️ 16:30-18:50)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=4xg0dPfGJx8&t=830s) (⏱️ 13:50-16:34)
 
 ---
 
-## 4. Meclis Komisyonu, Çözüm Süreci ve Kürt Sorunu Tartışmaları
+## 4. Diyanet Hutbeleri ve Kadınların Toplumsal Rolü
 
-• Meclis komisyonu Kürt meselesinin siyasi zemine taşınmasında rol oynuyor.
-• Komisyonun kuruluş süreci ve çalışma yöntemleri anlatıldı.
-• Eve dönüş yasası, örgüt mensuplarının topluma entegrasyonu için gündemde.
-• Suriye'deki gelişmeler süreci etkileyebilir, YPG'nin Şam ordusuna entegrasyonu öneriliyor.
-• Toplumda barış sürecine ve Kürt sorununa destek azaldı.
-• CHP'nin komisyona katılması kutuplaşma siyasetinden normalleşmeye geçişi hızlandırdı.
-• Komisyonun başarısı halinde Cumhur İttifakı'nın anlamı kalmayabilir.
+• Diyanet'in hutbelerinde kadınların miras hakkı, örtünme ve toplumsal rolü tartışılıyor
+• Hutbelerde kız çocuklarının mirastan mahrum bırakılmasının kul hakkı olduğu vurgulandı
+• Başkanın lüks yaşamı ve halktan kopukluğu eleştirildi
+• Hutbelerin toplumsal yaşamda kadınlara yönelik baskı ve müdahaleleri artırdığı gözlemlendi
+• Kadınların aile içindeki rolü ve miras hakkı üzerinden yapılan tartışmalar toplumda tepkiyle karşılanıyor
+• Sosyal medyada ve kamusal alanda kadınların giyimine yönelik tepkiler arttı
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=SfkLSJGUcv0&t=24s) (⏱️ 00:24-01:35)
-- [Fatih Altayli](https://www.youtube.com/watch?v=lo19ISTdOlA&t=6s) (⏱️ 00:06-02:52)
+- [Serdar Akinan](https://www.youtube.com/watch?v=BgljT6HE8NM&t=705s) (⏱️ 11:45-12:31)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=DdZDB84gwuo&t=2010s) (⏱️ 33:30-51:40)
 
 ---
 
-## 5. Cezaevlerinde Basın ve Siyaset: Tutukluluklar, İnsan Hakları ve Basın Özgürlüğü
+## 5. Gazetecilere Yönelik Tutuklamalar ve Basın Özgürlüğü
 
-• Silivri Cezaevi'nde çok sayıda gazeteci ve siyasetçi tutuklu.
-• Fatih Altaylı'nın tutukluluğu ve YouTube kanalına erişim engeli kararı var.
-• Basın özgürlüğü için dayanışma mesajları veriliyor.
-• Cezaevlerinde sağlık hakkı ihlalleri ve kötü koşullar vurgulanıyor.
-• Uluslararası medya, Türkiye'deki basın özgürlüğü sorununu gündeme taşıdı.
-• İnsan hakları alanında çözüm ve toplumsal dayanışma çağrısı yapılıyor.
+• Silivri Cezaevinde birçok gazeteci ve siyasetçi siyasi tutuklu olarak bulunuyor
+• Ercüment Akdeniz ve Furkan Karabay uzun süredir tutuklu, iddianameleri hazırlanmadı
+• Fatih Altaylı'nın YouTube kanalına erişim engeli kararı var
+• Basın özgürlüğü ve siyasi tutukluluk konusu vurgulanıyor
+• İktidar ve muhalefetten dayanışma mesajları geliyor
+• Türkiye'de gazetecilerin ev hapsinde veya cezaevinden yayın yapması yabancı basında şaşkınlıkla karşılanıyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=kY2iOHowKNs&t=1571s) (⏱️ 26:11-34:04)
-- [Fatih Altayli](https://www.youtube.com/watch?v=lo19ISTdOlA&t=6s) (⏱️ 00:06-02:52)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=4xg0dPfGJx8&t=830s) (⏱️ 13:50-16:34)
 
 ---
 
-## 6. AK Parti'nin 24. Kuruluş Yılı, Sembolik Mesajlar ve Toplumsal Değişim
+## 6. Siyasi Geçişler, Şirket Hisseleri ve Sermaye Piyasası Tartışmaları
 
-• AK Parti'nin 24. kuruluş yıl dönümü kutlandı.
-• Devlet Bahçeli, AK Parti'ye sembolik bir çelenk gönderdi.
-• Çelenkte 1071 adet kırmızı gül Malazgirt Zaferi'ni simgeliyor.
-• AK Parti'nin iktidara geliş süreci ve devlet kurumlarındaki çürüme tartışıldı.
-• Toplumda mutsuzluk ve fakirleşme vurgulandı.
-• AK Parti'nin adalet ve kalkınma iddiasının gerçekleşmediği ifade edildi.
+• Özlem Çerçioğlu'nun AK Parti'ye katılımı ve şirketinin hisselerinde %25'in üzerinde artış yaşandı
+• Siyasi parti değişimiyle şirketlerin maddi kazanç sağladığı iddia ediliyor
+• Sermaye Piyasası Kurulu'na son haftadaki işlemlerin incelenmesi çağrısı yapıldı
+• Siyasetteki pozisyon değişikliklerinin ekonomik sonuçları tartışıldı
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=kY2iOHowKNs&t=2044s) (⏱️ 34:04-34:53)
-- [Onlar TV](https://www.youtube.com/watch?v=7pe6u90zTYc&t=46s) (⏱️ 00:46-13:12)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=SvOLX1Dp22I&t=289s) (⏱️ 04:49-09:12)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=DdZDB84gwuo&t=3100s) (⏱️ 51:40-63:26)
 
 ---
 
-## 7. CHP'nin Sandık Güvenliği ve Yeni Örgütlenme Modeli
+## 7. İzmir'de Toplumsal Ruh Hali, Yoksulluk ve Kimlikler
 
-• CHP mahalle ve sandık düzeyinde temsilci atadı.
-• Türkiye genelindeki mahallelerin ve sandıkların büyük kısmında sorumlu görevlendirildi.
-• Sandık görevlileriyle iletişim için call center ve aplikasyon sistemi kuruldu.
-• Her görevli 350 seçmene ulaşmakla yükümlü.
+• İzmir Barometresi araştırmasında şehirdeki memnuniyet, ruh hali ve kimlik meseleleri incelendi
+• Son 3 ayda siyasi gündem şehirdeki kutuplaşmayı artırdı
+• Stres ve kaygı en yüksek duygular, umut azalıyor
+• Emeklilerde ciddi yoksullaşma ve sosyal izolasyon var
+• İzmir'de Atatürkçü ve milliyetçi kimlikler güçlü, muhafazakar kimliğe mesafe artıyor
+• Toplumsal barış için güven inşa edilmesi gerektiği vurgulanıyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Fatih Altayli](https://www.youtube.com/watch?v=lo19ISTdOlA&t=569s) (⏱️ 09:29-10:34)
+- [Rusen Cakir](https://www.youtube.com/watch?v=pgnnBqPIPms&t=1452s) (⏱️ 24:12-27:44)
 
 ---
 
-## 8. İktidarın Memurlara Zam Teklifi ve Ekonomik Tepkiler
+## 8. ABD ve Uluslararası Ekonomi Politikaları: Trump-Powell Görüşmeleri
 
-• İktidarın memurlara %10 zam önerisi ve sonraki yıl için %5 zam teklifi eleştiriliyor.
-• Zamlar çalışanlar tarafından utançla karşılandı.
-• Muhalefetin ekonomi gündemini meydanlara taşıması gerektiği vurgulandı.
+• ABD'de üretici enflasyonu bir ayda yıllık seviyeye ulaştı
+• Trump ve Powell'ın ekonomi politikaları tartışılıyor
+• Trump-Putin görüşmesi uluslararası piyasaları etkiledi
+• Görüşmenin Ukrayna savaşı ve Avrupa'nın rolü açısından önemi vurgulandı
+• Amerikan ve Rus taraflarının görüşmeye dair hazırlıkları ve beklentileri aktarıldı
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Fatih Altayli](https://www.youtube.com/watch?v=lo19ISTdOlA&t=264s) (⏱️ 04:24-09:10)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=4xg0dPfGJx8&t=830s) (⏱️ 13:50-16:34)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=DdZDB84gwuo&t=30s) (⏱️ 00:30-16:30)
 
 ---
 
-## 9. Metropol Araştırması: Siyasi Eğilimler ve Kutuplaşma
+## 9. Konut Sorunu ve 1+0 Daire Yasağının Kalkması
 
-• CHP hata payı içinde birinci parti olarak öne çıkıyor.
-• AKP ve CHP'nin toplam oy oranı %75'ten %30'a düştü.
-• Kutuplaşma dinamiği zayıfladı, kararsız seçmen profili değişti.
-• Milliyetçi partiler güç kazanırken MHP zayıfladı.
-• Sürecin başlatılmasında toplumun çoğunluğu Bahçeli ve Erdoğan'ı sorumlu görüyor.
+• 1+0 stüdyo daireler için yasağın kaldırıldığı açıklandı
+• Küçük dairelerin yeniden yapılması orta ve alt sınıf için ev sahibi olma şansı sunabilir
+• Türkiye'de gelir dağılımı bozukluğu ve konut erişimi sorunları vurgulandı
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=S5ZQYJx7ZPM&t=728s) (⏱️ 12:08-26:53)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=SvOLX1Dp22I&t=289s) (⏱️ 04:49-09:12)
+
+---
+
+## 10. Tarımda İklim Krizi: Bağcılık, Orman Yangınları ve Ürün Kalitesi
+
+• 2023 yılında üzüm hasadı öncesi don ve dolu felaketleri yaşandı
+• Orman yangınları bağcılık ve zeytin üretimini olumsuz etkiliyor
+• İklim değişikliği ürünlerin tadını ve kalitesini değiştiriyor
+• Ata tohumlarının ve coğrafi işaretli ürünlerin kaybolma riski var
+• Şarapçılıkta eski ve yeni dünya tarzları Türkiye'de birlikte uygulanıyor
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=ZhEr2_7uwws&t=76s) (⏱️ 01:16-09:54)
 
 ---
 
