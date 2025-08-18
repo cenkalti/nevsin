@@ -1,157 +1,193 @@
 # Bugün Ne Oldu?
 
-*17 August 2025 tarihli günlük haber raporu - 10 haber birleştirildi*
+*18 August 2025 tarihli günlük haber raporu - 10 haber birleştirildi*
 
-## 1. Türkiye'de Kürt Meselesi, Uluslaşma Krizi ve Demokratik Ulusçuluk Tartışmaları
+## 1. Memur Zamları Protestoları ve Ekonomik Kriz
 
-• Türkiye'de uluslaşma krizi yaşanıyor, temel nedenler Kürt kimliğinin inkarı ve homojen ulus devlet anlayışının topluma dayatılması.
-• Türk kimliği hem etnik hem vatandaşlık tanımı olarak kullanılıyor, bu da kimlik tartışmalarını artırıyor.
-• Lozan Anlaşması'nın Türkler ve Kürtler için ortak bir tapu olduğu vurgulanıyor.
-• Abdullah Öcalan'ın demokratik ulusçuluk fikri, Kürtlerin ayrı devlet yerine Türkiye'de haklarını koruyarak yaşamasını savunuyor.
-• Demokratik entegrasyon ve ana dilde eğitim gibi haklar tartışılıyor.
-• Barış sürecinin hem Türkler hem Kürtler için ekonomik ve toplumsal fayda sağlayacağı belirtiliyor.
-• Politik güç dengelerinde Erdoğan'ın barışa karşı olduğu, CHP, DEM ve MHP'nin bir araya gelmesiyle değişim olabileceği ifade ediliyor.
-• Türkiye solunun barış sürecine yaklaşımı ve TKP'nin Kürt hakları konusundaki tutumu eleştiriliyor.
-• Demokratik ulusçuluk fikrinin Türkiye'de geleceği için toplumsal hazırlık ve bilinç üretmek gerektiği savunuluyor.
+• Türkiye genelinde memurlar zam tekliflerini protesto ediyor
+• Hükümetin zam teklifleri düşük bulundu, sendikalar iş bırakma eylemi yaptı
+• Memur-Sen ve diğer sendikalar ortak eylem kararı aldı
+• Kamu çalışanları ve emekliler zam oranlarından olumsuz etkilendi
+• Protestolarda adil paylaşım ve emekçilere daha fazla hak talep edildi
+• Ekonomik kriz, enflasyon ve gelir adaletsizliği tartışılıyor
+• Ofisler boş kaldı, tren seferleri iptal edildi
+• Hükümetin kasasında para olmadığı için zam konusunda esneklik yok
+• Devletin makam aracı harcamaları ve kamu harcamaları eleştiriliyor
+• Memur sendikalarının grev hakkı ve kamu çalışanlarının işe alım süreçleri gündemde
+• Zam tartışmaları ve eylemler devam ediyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=2h1_Mi5YjHc&t=1249s) (⏱️ 20:49-34:30)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=1IfoOuikNtc&t=487s) (⏱️ 08:07-13:00)
+- [Murat Yetkin](https://www.youtube.com/watch?v=J-z34F94DwI&t=445s) (⏱️ 07:25-10:47)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=NeWTiPu0TKE&t=1485s) (⏱️ 24:45-65:25)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=aTCeRXC--ys&t=1380s) (⏱️ 23:00-25:00)
 
 ---
 
-## 2. Alaska'da Trump-Putin Zirvesi: Türkiye'nin Dışlanması ve Yeni Dünya Düzeni
+## 2. İBB ve CHP'li Belediyelere Yönelik Soruşturmalar, Yargıdaki Borsa ve Rüşvet İddiaları
 
-• Türkiye, Rusya-Ukrayna barışı için çaba harcadı ama Alaska'daki Trump-Putin zirvesine davet edilmedi.
-• Zirvede Ukrayna yoktu, topraklarının bir kısmı fiilen kaybedildi.
-• Türkiye'ye bilgi Rusya tarafından verildi, Erdoğan toplantı sonrası aranmayan liderler arasında.
-• Zirvenin kazananı Putin oldu, Amerika'da kırmızı halıyla karşılandı.
-• Avrupa Birliği ve Ukrayna en büyük kaybedenler olarak öne çıktı.
-• Yeni bir uluslararası sistem oluşuyor, güç politikaları ön planda.
-• Türkiye doğru adımlar atarsa etkisini artırabilir, demokratik haklar ve insan hakları azalabilir.
-• Trump, Amerika'nın kaybını kendi siyasi kazancına çevirmek istiyor ve liderleri kendi tarafına çekmeye çalışıyor.
+• İstanbul Büyükşehir Belediyesi ve CHP'li belediyelere yönelik soruşturmalar sürüyor
+• Gizli tanık ifadeleri, HTS kayıtları ve geçmişe dönük suçlamalar kullanılıyor
+• Fatih Keleş ve Murat Çalık gibi isimler tutuklu, etkin pişmanlık için baskı iddiaları var
+• Mücahit Birinci'nin 2 milyon dolar rüşvet istediği iddiası gündemde
+• Avukatlar, tutuklulara tahliye vaadiyle para talep ediyor
+• Yargıda borsa ve çeteleşme iddiaları tartışılıyor
+• Soruşturmalarda hukuki hatalar ve ikili uygulamalar eleştiriliyor
+• AK Parti'ye geçen belediye başkanlarının soruşturmalarının durdurulduğu iddia ediliyor
+• CHP, yargıdaki rüşvet ve avukat çeteleri iddialarını gündeme getiriyor
+• Hukukun partiye ve kişiye göre değiştiği eleştiriliyor
+• Operasyonların hukuki değil siyasi olduğu düşünülüyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Murat Yetkin](https://www.youtube.com/watch?v=AA0CVKGqlr8&t=785s) (⏱️ 13:05-17:12)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=1IfoOuikNtc&t=1320s) (⏱️ 22:00-23:30)
+- [Fatih Altayli](https://www.youtube.com/watch?v=4QRJ3yWR4Ps&t=1435s) (⏱️ 23:55-21:23)
+- [Unsal Unlu](https://www.youtube.com/watch?v=d2rQm1ewHQw&t=69s) (⏱️ 01:09-59:26)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=sRIeLO5NVPA&t=4481s) (⏱️ 74:41-80:00)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=aTCeRXC--ys&t=200s) (⏱️ 03:20-05:00)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=NeWTiPu0TKE&t=3117s) (⏱️ 51:57-66:06)
+- [Murat Yetkin](https://www.youtube.com/watch?v=J-z34F94DwI&t=5s) (⏱️ 00:05-03:27)
 
 ---
 
-## 3. Türkiye'de Deprem Gerçeği: 17 Ağustos ve Yapı Güvenliği Sorunu
+## 3. AK Parti'de İç Çatışma, Disiplin Süreci ve İstifalar
 
-• 17 Ağustos Marmara Depremi'nin üzerinden 24 yıl geçti, binlerce kişi hayatını kaybetti.
-• Deprem korkusu ve travması hala bölgede etkili.
-• 6 Şubat depreminde de benzer sorunlar yaşandı.
-• Arama kurtarma ve yapı güvenliği konusunda ilerleme sağlanamadı.
-• Türkiye'de depremi felakete dönüştüren insan faktörü (çürük binalar, proje hataları) öne çıkıyor.
-• Diğer ülkelerdeki depremlerde can kaybı yaşanmazken Türkiye'de küçük depremlerde bile ölümler oluyor.
+• AK Parti içinde farklı klikler ve gruplar arasında çatışmalar yaşanıyor
+• Mücahit Birinci disipline sevk edildi ve istifa etti
+• Parti içi temizlik ve değişim süreci başlatıldı
+• Rüşvet ve yargıdaki borsa iddiaları parti içi hesaplaşmalara yol açtı
+• Mehmet Uçum ve MHP'nin saraydaki etkisi konuşuluyor
+• Erdoğan'ın parti içindeki kontrolü zayıflıyor, liderlik tartışmaları sürüyor
+• AK Parti çevresinde yasa dışı işlere karışan tipler hedef alınıyor
+• Parti içi huzursuzluk ve kaynama arttı
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=EarsByNwSa0&t=10s) (⏱️ 00:10-04:02)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=sRIeLO5NVPA&t=101s) (⏱️ 01:41-03:15)
+- [Unsal Unlu](https://www.youtube.com/watch?v=lwuNylUP6fE&t=1559s) (⏱️ 25:59-26:29)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=aTCeRXC--ys&t=10s) (⏱️ 00:10-03:20)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=fUPGWkQ1owg&t=367s) (⏱️ 06:07-10:49)
+- [Murat Yetkin](https://www.youtube.com/watch?v=J-z34F94DwI&t=5s) (⏱️ 00:05-03:27)
+- [Serdar Akinan](https://www.youtube.com/watch?v=PexNjtGXgIk&t=1030s) (⏱️ 17:10-17:56)
 
 ---
 
-## 4. Türkiye'de Belediye Başkanları Transferi, Tutuklamalar ve Demokrasi Tartışması
+## 4. CHP'de Belediye Başkanları ve Özlem Çerçioğlu Tartışması
 
-• CHP'den AK Parti'ye geçen belediye başkanları ve makamda Atatürk resminin küçültülmesi tartışma yarattı.
-• AK Parti'nin parti-devlet anlayışı ve başkan transferleri eleştirildi.
-• Mansur Yavaş ve Balıkesir Belediye Başkanı'nın AK Parti'ye geçeceği iddiaları yalanlandı.
-• Belediye başkanı transferlerinin millet iradesini zayıflattığı savunuldu.
-• Beyoğlu Belediye Başkanı İnan Güney'in tutukluluğu ve CHP'li belediyelere yönelik baskılar gündemde.
-• AK Partili Dede Yıldırım'ın sağlık nedeniyle cezaevinden tahliyesi ve ikili hukuk uygulamaları eleştirildi.
-• AK Parti'nin seçim yapıp yapmayacağı ve demokrasi tartışmaları öne çıktı.
+• Özlem Çerçioğlu'nun AK Parti'ye geçişi CHP'de tartışma yarattı
+• CHP, Aydın'da büyük bir miting düzenledi
+• Parti değişikliğinin gerekçesi imar dosyalarındaki anlaşmazlık olarak gösterildi
+• CHP'de başka belediye başkanlarının da parti değiştireceği iddiaları var
+• CHP bu iddiaları yalanlıyor, siyasi kulislerde tartışmalar sürüyor
+• Belediye ihaleleri ve Ankara ile ilişkilerde şeffaflık sorunu gündemde
+• CHP'nin güçlenmesiyle iktidarın operasyonlarının arttığı vurgulanıyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=EarsByNwSa0&t=10s) (⏱️ 00:10-04:02)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=1IfoOuikNtc&t=298s) (⏱️ 04:58-08:07)
+- [Unsal Unlu](https://www.youtube.com/watch?v=d2rQm1ewHQw&t=976s) (⏱️ 16:16-19:36)
+- [Murat Yetkin](https://www.youtube.com/watch?v=J-z34F94DwI&t=893s) (⏱️ 14:53-16:31)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=aTCeRXC--ys&t=1500s) (⏱️ 25:00-28:00)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=sRIeLO5NVPA&t=4305s) (⏱️ 71:45-73:02)
 
 ---
 
-## 5. Memur ve Emekli Zamları, Vergi Yükü ve Geçim Sıkıntısı
+## 5. Yargıdaki Rüşvet, Avukat Çeteleri ve Rezan Epözdemir Dosyası
 
-• Memur ve memur emeklisine yapılan zam teklifi kabul edilmedi, iş bırakma eylemi planlanıyor.
-• En düşük memur maaşı 56.000 TL olacak, geçim sıkıntısı devam ediyor.
-• Kira, fatura ve okul masraflarının karşılanması zorlaşıyor.
-• Günlük harcamalarda yüksek vergiler ve enflasyon eleştiriliyor.
-• 2025'in ilk 7 ayında 1 saniyede 312.000 TL vergi ödendi, vergi yükü vatandaşın geçimini zorlaştırıyor.
-• Özel okullarda kitap ve kırtasiye masrafları çok yüksek, aileler zorlanıyor.
+• Yargıda rüşvet ve avukat çeteleri iddiaları gündemde
+• Rezan Epözdemir gözaltına alındı ve tutuklandı
+• Avukatlar, hakim ve savcılarla bağlantılı olarak yüksek meblağlar karşılığında tahliye vaadinde bulunuyor
+• Yargıda borsa ve çeteleşme olduğu, paraların dağıtıldığı iddia ediliyor
+• CHP'nin bu skandalı ifşa etmesi yargıda arınmaya vesile olabilir
+• Şamil Tayyar, yargıda çıkar çetesi oluştuğunu söyledi
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=EarsByNwSa0&t=10s) (⏱️ 00:10-04:02)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=sRIeLO5NVPA&t=101s) (⏱️ 01:41-03:15)
+- [Unsal Unlu](https://www.youtube.com/watch?v=lwuNylUP6fE&t=893s) (⏱️ 14:53-19:26)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=NeWTiPu0TKE&t=170s) (⏱️ 02:50-06:40)
 
 ---
 
-## 6. Diyanet İşleri Başkanlığı'nın Cuma Hutbelerinde Kadın Hakları Tartışması
+## 6. Türkiye'de Devlet Krizi, Liyakatsizlik ve Genelkurmay Başkanı'nın Emekliye Sevki
 
-• Diyanet İşleri Başkanlığı'nın cuma hutbelerinde kadınların giyimi ve miras hakkı tartışmalı şekilde ele alındı.
-• Kadınların eşit miras hakkı kul hakkı yemek olarak tanımlandı.
-• Diyanet, Cumhuriyet'in getirdiği kadın-erkek eşitliğini eleştirdi.
-• Bu yaklaşım kadınların kazanımlarını geri almak olarak değerlendirildi.
-• Diyanet'in toplumu ve dini hayatı kontrol ettiği vurgulandı.
-• Genç kadınların bu tür uygulamalara karşı daha bilinçli olduğu belirtildi.
+• Son dönemde devletin işleyişinde ciddi sorunlar yaşandı
+• Orman yangınları ve deprem gibi afetlerde yönetim eksikliği görüldü
+• Bursa Valiliği'nde Bilal Erdoğan'ın vali koltuğuna oturması tartışma yarattı
+• Genelkurmay Başkanı Metin Gürak kadrosuzluk nedeniyle emekliye sevk edildi
+• Devletin temel kurumlarının işlevsizleştiği ve yönetimde tecrübe eksikliği olduğu vurgulandı
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=OA8oZ0Mk7L8&t=24s) (⏱️ 00:24-10:19)
+- [Unsal Unlu](https://www.youtube.com/watch?v=lwuNylUP6fE&t=1156s) (⏱️ 19:16-20:09)
+- [Serdar Akinan](https://www.youtube.com/watch?v=PexNjtGXgIk&t=6s) (⏱️ 00:06-13:24)
 
 ---
 
-## 7. Türkiye'de İlişkilerde Para, Cömertlik ve Maddi Konular
+## 7. Siyasi İttifaklar, Suriye ve PKK'nın Silah Bırakma Süreci
 
-• Paranın ilişkilerdeki önemi ve cüzdanın aşk/mutlulukta rolü tartışılıyor.
-• İlk buluşmada hesabı kimin ödeyeceği ve toplumsal kodlar konuşuluyor.
-• Garsona kaba davrananlarla ilişki kurulamayacağı vurgulanıyor.
-• Ev, araba ve maaşın kadınlar için önemi, işsizlik ve ilişkilerdeki etkisi ele alınıyor.
-• Hediye ve maddi destek konuları, ilişkilerde kredi çekme ve kefil olma örnekleriyle anlatılıyor.
+• Suriye'deki gelişmeler Türkiye'nin iç siyasetine yansıyor
+• PKK'nın silah bırakma sürecinde Irak ve Suriye'deki örgütler kapsam dışı tutuldu
+• Suriye'deki PKK yapılanması dış destek alıyor
+• Türkiye'nin Suriye politikası CHP MYK'da birinci gündem maddesi oldu
+• Hakan Fidan'ın Suriye ve Kürt politikası eleştiriliyor
+• Ortadoğu'da yeni savaşlar ve Türkiye'nin rolü tartışılıyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=qEVThZSYgmU&t=4s) (⏱️ 00:04-00:35)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=1IfoOuikNtc&t=487s) (⏱️ 08:07-13:00)
+- [Murat Yetkin](https://www.youtube.com/watch?v=J-z34F94DwI&t=5s) (⏱️ 00:05-03:27)
+- [Serdar Akinan](https://www.youtube.com/watch?v=PexNjtGXgIk&t=1030s) (⏱️ 17:10-17:56)
+- [Rusen Cakir](https://www.youtube.com/watch?v=b2KXx3iQZw8&t=27s) (⏱️ 00:27-05:53)
 
 ---
 
-## 8. Yekta Kopan'ın Sanat Hayatı, Seslendirme ve Yazarlık Üzerine
+## 8. Metropol ve Diğer Anketlerde CHP'nin Yükselişi
 
-• Yekta Kopan'ın seslendirme kariyeri ve Türkiye'de seslendirme tarihinin önemi anlatılıyor.
-• Babasının sanat hayatı ve politik mizah geçmişi paylaşılıyor.
-• Buz Devri'nde Sid karakterini seslendirme süreci ve Türkçe dublajın başarısı öne çıkıyor.
-• Kopan'ın yazarlık, tiyatro ve roman çalışmaları, yazma motivasyonu ve disiplin alışkanlıkları ele alınıyor.
-• Türkiye'de kültür sanata ayrılan sermaye, kurum kimliği ve günümüzde kültür sanatın zorlukları tartışılıyor.
-• Kopan'ın yeni nesil sorumluluğu ve YouTube projeleri planları aktarılıyor.
+• Metropol ve ORC araştırma şirketlerinin son anketlerinde CHP birinci sırada
+• CHP'nin oy oranı AK Parti'nin önüne geçti
+• Gençler arasında CHP önde
+• Milliyetçi partilerde yükseliş gözleniyor
+• Anketlerin siyasi etkisi ve seçim sürecindeki önemi tartışılıyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Fatih Altayli](https://www.youtube.com/watch?v=taNB0yzdrsM&t=2752s) (⏱️ 45:52-48:43)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=1IfoOuikNtc&t=10s) (⏱️ 00:10-04:58)
+- [Murat Yetkin](https://www.youtube.com/watch?v=J-z34F94DwI&t=5s) (⏱️ 00:05-03:27)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=aTCeRXC--ys&t=720s) (⏱️ 12:00-16:00)
 
 ---
 
-## 9. Haftalık Gündem ve Bilgece Sohbetler
+## 9. Türkiye'de Servet Dağılımı, Gelir Adaletsizliği ve Ekonomik Sorunlar
 
-• Önümüzdeki hafta terörist Türkiye projesi ve belediye başkanı transferleri konuşulacak.
-• Diyanetin cuma hutbesinin konusu merak ediliyor.
-• Takipçilerden gelen sorulara yanıt verileceği belirtildi.
-• Bilgece Sohbetler programında izleyici soruları organik şekilde yanıtlanıyor.
-• Orman yangınlarının şarapçılığa ve tarıma etkisi ele alındı.
+• TÜİK servet dağılımı verilerini açıkladı
+• En zengin %1 ve %20'nin gelirden aldığı pay çok yüksek
+• Orta sınıf yok oluyor, gelir adaletsizliği artıyor
+• Zenginler İstanbul ve Ankara'da yoğunlaşıyor
+• Anadolu'da zenginlik ve yatırım eksikliği var
+• Bankacılık sektöründe takibe düşen alacaklar arttı
+• Tüketici borcu ve faiz ödemeleri yükseldi
+• Tarımda ithalat politikaları ve çiftçiye verilen destekler yetersiz bulundu
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=EarsByNwSa0&t=10s) (⏱️ 00:10-04:02)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=aTCeRXC--ys&t=1770s) (⏱️ 29:30-33:30)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=NeWTiPu0TKE&t=1485s) (⏱️ 24:45-65:25)
 
 ---
 
-## 10. Oyuncu Gina Rowlans'ın Hayatına ve Sanatına Kısa Bir Bakış
+## 10. Uşak'ta Su Krizi ve Madencilik
 
-• Gina Rowlans, 94 yaşında hayatını kaybetti.
-• Gloria ve Aşk Irmakları gibi önemli filmlerde rol aldı.
-• Eşi John Casavetis ile birlikte dikkat çeken filmler yaptı.
-• Sanatçı olarak değerli bir isimdi ve siyasi duruşu da vardı.
-• Geride güzel filmler ve hatıralar bıraktı.
+• Uşak'ta madencilik nedeniyle içme suyu krizi yaşanıyor
+• Küçükler Barajı'ndaki su bitti, kente sadece belirli saatlerde su veriliyor
+• Altın madeni, halkın tükettiğinden fazla su kullandı
+• Yanlış su politikaları, iklim krizi ve plansızlık sonucu kentler susuz kalıyor
+• Devletin su yönetiminde başarısız olduğu ve kurumların işlevsizleştiği belirtildi
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=2h1_Mi5YjHc&t=2073s) (⏱️ 34:33-40:39)
+- [Unsal Unlu](https://www.youtube.com/watch?v=d2rQm1ewHQw&t=1183s) (⏱️ 19:43-20:47)
 
 ---
 
