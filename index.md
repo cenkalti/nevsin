@@ -1,176 +1,176 @@
 # Bugün Ne Oldu?
 
-*21 August 2025 tarihli günlük haber raporu - 10 haber birleştirildi*
+*22 August 2025 tarihli günlük haber raporu - 10 haber birleştirildi*
 
-## 1. Cumhur İttifakı'nda Çatlaklar, Yargı-Siyaset-Mafya İlişkileri ve Meclis Komisyonu Tartışmaları
+## 1. Yargı Krizi, Belediyelerde Tutuklamalar ve Siyasi Operasyonlar
 
-• AK Parti ve MHP arasında çözüm süreci, yargı operasyonları ve siyasi hamleler üzerinden çatlaklar yaşanıyor.
-• Mecliste kurulan Milli Dayanışma, Kardeşlik ve Demokrasi Komisyonu'nun çalışmaları, Kürtçe konuşma yasağı ve samimiyet tartışmaları gündemde.
-• Beyaz Toros yakılması gibi sembolik olaylar provokasyon olarak değerlendiriliyor.
-• Yargıda rüşvet, yolsuzluk, çeteleşme ve siyasi bağlantılı operasyonlar artıyor.
-• Selahattin Yılmaz, Alaattin Çakıcı ve bazı avukatların tutuklanması, MHP'nin sahip çıkması ve medya operasyonları tartışılıyor.
-• Bahçeli'nin terörsüz Türkiye sürecini hızlandırma talebi, yargı-siyaset ilişkilerinde yeni skandallara yol açıyor.
-• CHP'nin komisyona katılımı stratejik olarak önemli, muhalefet bu çatlaklardan faydalanmaya çalışıyor.
-• İktidar içi klikler, medya ve mafya ilişkileri siyasi gündemi belirliyor.
-• Sürecin uzaması sabotaj ve provokasyon riskini artırıyor.
-• Toplumda adalet ve demokrasi talepleri öne çıkıyor.
+- Birçok belediye başkanı tutuklandı, kayyum atamaları yapıldı
+- Tutuklamalara neden olan ifadeleri verenler serbest bırakıldı
+- İBB soruşturmasında etkin pişmanlıktan yararlananların ifadeleri dosyanın temelini oluşturuyor
+- Aziz İhsan Aktaş'ın ev hapsi kaldırıldı, serbest kalması tepki çekti
+- Yargıda siyasi ve kriminal bağlantılar, adaletsizlik ve çifte standart eleştiriliyor
+- CHP ve DEM Parti, adil yargılanma ve masumiyet karinesi talep ediyor
+- Siyasi operasyonlar, parti değişiklikleri ve transferler yaygınlaştı
+- Tutuklu İBB mensuplarının aileleri travma yaşıyor, tutuksuz yargılama çağrısı yapılıyor
+- Yargıdaki krizler, siyasi partiler arasında gerilim ve güç savaşlarını tetikliyor
+- Toplumda adalet algısı zedeleniyor, muhalefet stratejileri tartışılıyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=4-TL0KLe-eA&t=880s) (⏱️ 14:40-16:37)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=39BxZHupX5k&t=5072s) (⏱️ 84:32-94:27)
-- [Murat Yetkin](https://www.youtube.com/watch?v=KRNSnha9MTg&t=274s) (⏱️ 04:34-06:28)
-- [Unsal Unlu](https://www.youtube.com/watch?v=CliyzFXQwNk&t=804s) (⏱️ 13:24-23:37)
-- [Fatih Altayli](https://www.youtube.com/watch?v=nXQkAVoWOAY) (⏱️ 00:00-15:43)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=ZjzyksYCHuU&t=2280s) (⏱️ 38:00-41:20)
+- [Murat Yetkin](https://www.youtube.com/watch?v=85wpstUHqNM&t=6s) (⏱️ 00:06-14:39)
+- [Unsal Unlu](https://www.youtube.com/watch?v=vr9HKt0LpG0&t=3043s) (⏱️ 50:43-52:17)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=6kV7GwM2YWw&t=1700s) (⏱️ 28:20-31:40)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=kptySa9GUcw&t=836s) (⏱️ 13:56-16:14)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=LY2Oq6D1UB4&t=1670s) (⏱️ 27:50-29:30)
+- [Serdar Akinan](https://www.youtube.com/watch?v=FMyCuba9lJE&t=381s) (⏱️ 06:21-08:31)
 
 ---
 
-## 2. Türkiye'de Ekonomik Kriz, Enflasyon, Gelir Dağılımı Adaletsizliği ve Vergi Sorunları
+## 2. Ekonomik Kriz: Doların Yükselişi, Gıda ve Et Fiyatları, Servet Dağılımı
 
-• Türkiye'de enflasyon, işsizlik ve ekonomik kriz derinleşiyor.
-• Gıda fiyatları, konut ve kira bedelleri hızla artıyor; vatandaşın alım gücü düşüyor.
-• Zincir marketlerde 'cumhur reyonu' ve ucuz ürün uygulamaları tartışılıyor; kamu kaynaklarının yanlış kullanıldığı eleştiriliyor.
-• Vergi rekortmenleri listesinde şeffaflık sorunu var, zenginler kazançlarını gizliyor.
-• Vergi yükü büyük ölçüde vatandaşın üzerinde; şirketler ve zenginler az vergi ödüyor.
-• Tarımda destekler yetersiz, ithalat teşvik ediliyor; çiftçi ve dar gelirli üzerindeki vergi yükü ağırlaşıyor.
-• Kamu harcamalarında israf ve yanlış öncelikler eleştiriliyor.
-• Memur ve emekli zamları hakem heyetiyle belirleniyor, sistemin adaletsizliği vurgulanıyor.
-• Eğitim ve sağlık harcamaları yetersiz, hizmet kalitesi düşüyor.
-• Skimflasyon (kalite düşüp fiyat sabit kalıyor) yaygınlaşıyor.
+- Dolar kuru 41 TL'yi geçti, enflasyon ve fiyatlar hızla artıyor
+- Gıda ve kırmızı et fiyatları dünya ortalamasının çok üzerinde
+- Üretim azalıyor, ithalata bağımlılık artıyor, şirket kapanışları çoğaldı
+- Emekliler ve asgari ücretliler geçim sıkıntısı yaşıyor
+- Servet dağılımında büyük adaletsizlik var, en zengin %20 servetin %90'ını alıyor
+- Tarım ve hayvancılıkta teşvikler yanlış kullanılıyor, şap hastalığı hayvan ölümlerini artırdı
+- Marketlerde 'cumhur reyonu' tartışması gündemde, Dezenformasyon Merkezi iddiaları yalanladı
+- Ekonomide algı yönetimi ve gerçek sorunlar arasında farklar var
+- Muhalefet ekonomi programı açıklayacak, halk çözüm bekliyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=FPvcHnHC86I&t=66s) (⏱️ 01:06-37:05)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=tHCR3VpHSQY&t=938s) (⏱️ 15:38-17:40)
-- [Unsal Unlu](https://www.youtube.com/watch?v=ULKuf0FDpQ0&t=1004s) (⏱️ 16:44-18:55)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=39BxZHupX5k&t=5072s) (⏱️ 84:32-94:27)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=ZjzyksYCHuU&t=1380s) (⏱️ 23:00-30:00)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=eL8spKtQQwA&t=3682s) (⏱️ 61:22-71:16)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=kptySa9GUcw&t=836s) (⏱️ 13:56-16:14)
+- [Unsal Unlu](https://www.youtube.com/watch?v=vr9HKt0LpG0&t=3043s) (⏱️ 50:43-52:17)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=R9bGBi67cCg&t=386s) (⏱️ 06:26-08:44)
+- [Fatih Altayli](https://www.youtube.com/watch?v=nL98FimDI4U&t=1083s) (⏱️ 18:03-23:33)
 
 ---
 
-## 3. CHP'de Kurultay Süreci, Belediye Başkanları Transferi ve Cumhurbaşkanı Adayı Tartışmaları
+## 3. AK Parti-MHP İttifakı, Liderlik ve İktidar Mücadeleleri
 
-• CHP'de kurultay süreci, delege değişimi ve parti içi güç mücadelesi yaşanıyor.
-• Ekrem İmamoğlu'na yönelik soruşturmalar ve tutuklanma ihtimali gündemde.
-• AK Parti, muhalefet belediye başkanlarını transfer etmek için özel çalışma yürütüyor; transferler yerel seçimleri etkileyebilir.
-• Mansur Yavaş ve Ekrem İmamoğlu olası cumhurbaşkanı adayları arasında; Özgür Özel aday olmayacağını açıkladı.
-• CHP'nin mitingleri tabanı motive ediyor, ancak kadro ve program eksikliği eleştiriliyor.
-• Parti içi huzursuzluk ve olası anayasa sürecinde farklı oy kullanacak vekiller konuşuluyor.
+- AK Parti ve MHP arasında ittifak ve iç çekişmeler yaşanıyor
+- Erdoğan sonrası dönemde liderlik ve güç mücadelesi öne çıkıyor
+- Bahçeli'nin siyasi hamleleri ve MHP'nin yargı üzerindeki etkisi tartışılıyor
+- AK Parti'de yeni anayasa ve transfer çalışmaları gündemde
+- Parti içi eleştiriler ve oy oranlarında düşüş var
+- İttifakın bozulma ihtimali ve erken seçim iddiaları konuşuluyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=39BxZHupX5k&t=3217s) (⏱️ 53:37-58:29)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=tHCR3VpHSQY&t=1144s) (⏱️ 19:04-21:55)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=ZjzyksYCHuU&t=1020s) (⏱️ 17:00-20:00)
-- [Fatih Altayli](https://www.youtube.com/watch?v=nXQkAVoWOAY&t=949s) (⏱️ 15:49-30:40)
+- [Unsal Unlu](https://www.youtube.com/watch?v=Ds9faScRsUw&t=78s) (⏱️ 01:18-03:48)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=F2UETViKHzc&t=913s) (⏱️ 15:13-16:11)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=6kV7GwM2YWw&t=1921s) (⏱️ 32:01-33:47)
+- [Rusen Cakir](https://www.youtube.com/watch?v=SkiQvYvZQn4&t=1441s) (⏱️ 24:01-32:31)
 
 ---
 
-## 4. Meclis Komisyonu, Kürt Sorunu ve Kimlik Tartışmaları
+## 4. CHP'nin Yükselişi, Kurultay ve Muhalefet Stratejileri
 
-• Mecliste kurulan komisyon şehit/gazi aileleri, barış anneleri ve kayıp yakınlarını dinliyor.
-• Kürtçe konuşma yasağı ve ana dilde ifade özgürlüğü tartışılıyor.
-• Komisyonun şeffaflığı ve çözüm üretme kapasitesi sorgulanıyor.
-• 'Türk' ve 'Türkiyeli' kavramları üzerinden kimlik tartışmaları yaşanıyor.
-• İlber Ortaylı ve Defne Samyeli'nin açıklamaları kamuoyunda yankı buldu.
-• Komisyonun demokratikleşme ve yeni infaz yasası gibi konuları ele alması bekleniyor.
+- CHP, 19 Mart sonrası oylarını artırdı, mitinglerle tabanını diri tutuyor
+- Kurultayda delege değişimi ve sahte oy iddiaları gündemde
+- Mansur Yavaş ve Ekrem İmamoğlu'nun adaylıkları tartışılıyor
+- Muhalefet, kapsayıcı dil ve ekonomik çözüm önerileriyle seçmeni çekmeye çalışıyor
+- CHP'nin yeni parti programı ve stratejileri Eylül'de açıklanacak
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=22fcR642W6w&t=1395s) (⏱️ 23:15-29:28)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=39BxZHupX5k&t=3217s) (⏱️ 53:37-58:29)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=ZjzyksYCHuU&t=3120s) (⏱️ 52:00-55:51)
-- [Unsal Unlu](https://www.youtube.com/watch?v=CliyzFXQwNk&t=373s) (⏱️ 06:13-10:07)
+- [Rusen Cakir](https://www.youtube.com/watch?v=SkiQvYvZQn4&t=35s) (⏱️ 00:35-15:36)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=eL8spKtQQwA&t=2246s) (⏱️ 37:26-46:37)
+- [Unsal Unlu](https://www.youtube.com/watch?v=vr9HKt0LpG0&t=115s) (⏱️ 01:55-23:30)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=LY2Oq6D1UB4&t=2310s) (⏱️ 38:30-42:00)
 
 ---
 
-## 5. Yargıda Rüşvet, Yolsuzluk ve Çeteleşme İddiaları
+## 5. Organize Suç, Siyasi Bağlantılar ve Yolsuzluk İddiaları
 
-• Yargıda rüşvet ve yolsuzluk iddiaları artıyor, meslek içi denetim zayıfladı.
-• Siyasetle bağlantılı atamalar ve ilişkiler yargıdaki yozlaşmayı artırıyor.
-• Avukatlar, yargıdaki iktidar mücadelesinde önemli rol oynuyor.
-• Çeteleşme ve siyasi/tarikat bağlantılı grupların etkisiyle adalet sisteminde yozlaşma yaşanıyor.
-• Son soruşturmalar yeni bir dönemin başlangıcı olabilir, HSK ve Adalet Bakanlığı'nın daha aktif olması bekleniyor.
+- Selahattin Yılmaz, Aziz İhsan Aktaş ve diğer suç örgütü liderleriyle ilgili soruşturmalar sürüyor
+- Siyasi ve suç örgütü bağlantıları karmaşık bir ağ oluşturuyor
+- Belediyelerde yolsuzluk, para ve araç trafiği iddiaları var
+- Ebru Gündeş'in eşi Murat Özdemir gözaltına alındı, organize sanayi bölgelerine çöktüğü iddia edildi
+- Yargıda çeteleşme ve siyasi bağlantılar olayları karmaşıklaştırıyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=39BxZHupX5k&t=3217s) (⏱️ 53:37-58:29)
-- [Unsal Unlu](https://www.youtube.com/watch?v=ULKuf0FDpQ0&t=587s) (⏱️ 09:47-13:55)
-- [Fatih Altayli](https://www.youtube.com/watch?v=nXQkAVoWOAY) (⏱️ 00:00-15:43)
-- [Rusen Cakir](https://www.youtube.com/watch?v=22fcR642W6w&t=1191s) (⏱️ 19:51-23:14)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=6kV7GwM2YWw&t=2042s) (⏱️ 34:02-34:57)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=kptySa9GUcw&t=670s) (⏱️ 11:10-13:56)
+- [Fatih Altayli](https://www.youtube.com/watch?v=nL98FimDI4U&t=2751s) (⏱️ 45:51-49:41)
+- [Serdar Akinan](https://www.youtube.com/watch?v=FMyCuba9lJE&t=7s) (⏱️ 00:07-01:24)
 
 ---
 
-## 6. Diyarbakır Narin Cinayeti ve Adalet Arayışı
+## 6. Türkiye'de Liyakat Sorunu, Devlet Kadrolarında Yozlaşma ve Nepotizm
 
-• Diyarbakır'da Narin adlı kız çocuğunun cinayetinin üzerinden bir yıl geçti, dava süreci devam ediyor.
-• Aile fertleri tutuklu, ancak katilin kim olduğu netleşmedi.
-• Davada delillerin karartıldığı ve köyde suskunluk olduğu iddia edildi.
-• Hukuki süreç Yargıtay aşamasında; adalet arayışı sürüyor.
-• Türkiye'de benzer çocuk cinayetlerinde adaletin sağlanamadığı eleştiriliyor.
+- Devlet kadrolarında liyakat yerine dini ve cemaat bağlantıları öne çıkıyor
+- İstanbul Üniversitesi'nde nepotizm ve FETÖ yapılanması iddiaları var
+- Üniversite ve devlet kadrolarında cemaat ve tarikatların etkisi eleştiriliyor
+- 15 Temmuz ve yargı sorunlarının temelinde liyakatsizlik olduğu belirtiliyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=39BxZHupX5k&t=293s) (⏱️ 04:53-24:33)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=FPvcHnHC86I&t=2243s) (⏱️ 37:23-47:43)
-- [Unsal Unlu](https://www.youtube.com/watch?v=CliyzFXQwNk&t=373s) (⏱️ 06:13-10:07)
+- [Serdar Akinan](https://www.youtube.com/watch?v=FMyCuba9lJE&t=971s) (⏱️ 16:11-18:59)
 
 ---
 
-## 7. Sokak Hayvanları Sorunu ve Belediyelerin Uygulamaları
+## 7. Uluslararası Gelişmeler: Gazze, Ukrayna ve Türkiye'nin Rolü
 
-• İstanbul Valiliği ve bazı belediyeler sokak köpekleri ve kedilerin toplanması talimatı verdi.
-• Hayvanların toplatılması ve öldürülmesinin sorunu çözmeyeceği, asıl sorunun üretimin sınırlandırılmaması olduğu belirtildi.
-• Kısırlaştırma seferberliği ve üretimin sınırlandırılması gerektiği savunuldu.
-• Toplatma kararının reklam ve algı yönetimi amaçlı olduğu, gerçek çözüm sunmadığı eleştirildi.
+- Gazze'de BM kıtlık ilan etti, sivil ölümler çok yüksek
+- Türkiye, Gazze ve Ukrayna krizlerinde masada değil, etkisi azaldı
+- Fransa ve Türkiye liderleri Gazze ve Ukrayna'yı görüştü
+- ABD ve Avrupa, Rusya'ya yaptırımlar uygulayabilir, Türkiye dışlandı
+- İsrail'in politikaları uluslararası tepki çekiyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Nevsin Mengu](https://www.youtube.com/watch?v=ZjzyksYCHuU&t=2480s) (⏱️ 41:20-43:00)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=TCoEwmZeM5M&t=13s) (⏱️ 00:13-02:36)
+- [Murat Yetkin](https://www.youtube.com/watch?v=85wpstUHqNM&t=6s) (⏱️ 00:06-14:39)
+- [Rusen Cakir](https://www.youtube.com/watch?v=SkiQvYvZQn4&t=643s) (⏱️ 10:43-15:36)
+- [Unsal Unlu](https://www.youtube.com/watch?v=vr9HKt0LpG0&t=3043s) (⏱️ 50:43-52:17)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=LY2Oq6D1UB4&t=1770s) (⏱️ 29:30-38:30)
 
 ---
 
-## 8. Uluslararası Gelişmeler: Ukrayna-Rusya Savaşı, İsrail-Gazze ve Türkiye'nin Rolü
+## 8. Toplumsal Sorunlar: Çocuk Cinayetleri, Sokak Hayvanları ve Güvenlik
 
-• Ukrayna'ya güvenlik garantisi verilmesi ve Batı'nın tutumu tartışılıyor.
-• Türkiye'nin F-35 programına geri dönme isteği, S400 meselesi nedeniyle engelleniyor.
-• İsrail'in Gazze'ye saldırıları ve ABD'nin desteği gündemde.
-• Türkiye'nin uluslararası masalarda siyasi ağırlık kazanmakta zorlandığı vurgulanıyor.
-• Uluslararası ilişkilerdeki gelişmeler Türkiye'nin iç süreçlerini de etkiliyor.
+- Narin ve Zeynep Sut cinayetlerinde adalet sağlanamadı, delil karartma iddiaları var
+- Sokak hayvanlarının toplanması ve uyutulması tartışılıyor
+- Rapçi Çakal'a silahlı saldırı ve düğünde ateş açılması olayları güvenlik sorunlarını gündeme getirdi
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Nevsin Mengu](https://www.youtube.com/watch?v=ZjzyksYCHuU&t=2280s) (⏱️ 38:00-41:20)
-- [Unsal Unlu](https://www.youtube.com/watch?v=CliyzFXQwNk&t=373s) (⏱️ 06:13-10:07)
-- [Murat Yetkin](https://www.youtube.com/watch?v=KRNSnha9MTg&t=388s) (⏱️ 06:28-09:49)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=Zm7RxfyPx_8&t=104s) (⏱️ 01:44-03:01)
+- [Unsal Unlu](https://www.youtube.com/watch?v=Ds9faScRsUw&t=463s) (⏱️ 07:43-09:36)
 
 ---
 
-## 9. Yeni Nesil Çeteler ve Toplumsal Güvenlik Sorunları
+## 9. Kimlik, Ayrışma ve Toplumsal Kutuplaşma
 
-• Türkiye'de yeni nesil çeteleşme artıyor, Daltonlar çetesinin iddianamesi kabul edildi.
-• Çete üyeleri gençlerden oluşuyor, sosyal medya propaganda aracı olarak kullanılıyor.
-• Uyuşturucu ticareti ve haraç toplama başlıca gelir kaynakları.
-• Kadınlar da çete faaliyetlerinde aktif rol alıyor.
-• Devletin ve kamunun önleyici tedbirler alması gerektiği vurgulanıyor.
+- Türk/Türkiyeli kimliği üzerine polemikler yaşanıyor
+- Toplumsal ayrışma ve kutuplaşma dış güçler tarafından körüklendiği iddia ediliyor
+- CHP'nin Kürt politikası ve stratejisi tartışılıyor
+- Kimlik siyaseti ve komisyon tartışmaları gündemde
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=FPvcHnHC86I&t=3119s) (⏱️ 51:59-68:09)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=F2UETViKHzc&t=294s) (⏱️ 04:54-08:19)
+- [Fatih Altayli](https://www.youtube.com/watch?v=nL98FimDI4U&t=1934s) (⏱️ 32:14-38:49)
+- [Rusen Cakir](https://www.youtube.com/watch?v=B3xmfIXSb54&t=1572s) (⏱️ 26:12-31:36)
 
 ---
 
-## 10. Fenomenlerin Sosyal Medya Hesaplarının Kapatılması ve Dijital Dönüşüm
+## 10. Magazin ve Yerel Gelişmeler
 
-• Yaklaşık 30 fenomenin sosyal medya hesabı yasa dışı bahis reklamı nedeniyle kapatıldı.
-• Fenomenler yeni döneme uyum sağlamak için içeriklerinde değişiklik yapıyor.
-• Dijital platformlarda içerik denetimi ve yasa dışı faaliyetlerle mücadele gündemde.
+- Volkan Konak'ın vefatı sonrası toplumda büyük özlem var
+- Ferrari kazası, bebek goril Zeytin'in Nijerya'ya gönderilmesi ve festival iptalleri gündemde
+- Balıkesir'de kazların denize girmesi yasaklandı
+- Muğla'da kaybolan iki çocuk sağ olarak bulundu
+- Magazin haberleri ve yerel olaylar toplumsal ilgiyle takip ediliyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Nevsin Mengu](https://www.youtube.com/watch?v=ZjzyksYCHuU&t=1380s) (⏱️ 23:00-30:00)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=F2UETViKHzc&t=294s) (⏱️ 04:54-08:19)
+- [Unsal Unlu](https://www.youtube.com/watch?v=vr9HKt0LpG0&t=2030s) (⏱️ 33:50-34:44)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=6kV7GwM2YWw&t=2227s) (⏱️ 37:07-48:44)
 
 ---
 
