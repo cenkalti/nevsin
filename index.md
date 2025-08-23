@@ -1,176 +1,152 @@
 # Bugün Ne Oldu?
 
-*22 August 2025 tarihli günlük haber raporu - 10 haber birleştirildi*
+*23 August 2025 tarihli günlük haber raporu - 10 haber birleştirildi*
 
-## 1. Yargı Krizi, Belediyelerde Tutuklamalar ve Siyasi Operasyonlar
+## 1. CHP'li Belediyelere Yönelik Baskılar, Tutuklamalar ve Yolsuzluk Tartışmaları
 
-- Birçok belediye başkanı tutuklandı, kayyum atamaları yapıldı
-- Tutuklamalara neden olan ifadeleri verenler serbest bırakıldı
-- İBB soruşturmasında etkin pişmanlıktan yararlananların ifadeleri dosyanın temelini oluşturuyor
-- Aziz İhsan Aktaş'ın ev hapsi kaldırıldı, serbest kalması tepki çekti
-- Yargıda siyasi ve kriminal bağlantılar, adaletsizlik ve çifte standart eleştiriliyor
-- CHP ve DEM Parti, adil yargılanma ve masumiyet karinesi talep ediyor
-- Siyasi operasyonlar, parti değişiklikleri ve transferler yaygınlaştı
-- Tutuklu İBB mensuplarının aileleri travma yaşıyor, tutuksuz yargılama çağrısı yapılıyor
-- Yargıdaki krizler, siyasi partiler arasında gerilim ve güç savaşlarını tetikliyor
-- Toplumda adalet algısı zedeleniyor, muhalefet stratejileri tartışılıyor
+• Beyoğlu Belediye Başkanı İnan Güney tutuklandı, başarılı hizmetleri ve yüksek oy oranı öne çıktı.
+• CHP'li belediyelerde AKP dönemine ait yolsuzluk dosyaları soruşturuluyor, CHP uzlaşma yapmıyor.
+• Aziz İhsan Aktaş'ın ev hapsi kaldırıldı, çok sayıda ihale aldı, AKP'li belediyelerde soruşturma açılmıyor.
+• CHP'li belediyelerde sürekli müfettiş ve Sayıştay denetimi var.
+• İstanbul'da bazı CHP'li belediyeler kıskaca alındı, başkanlar ve aileleri tehdit ediliyor.
+• Hizmet alanları kapatılıyor, kayyum atamaları ve başkan vekilliği seçimleri yapılıyor.
+• Medya ve sosyal medyada CHP'li başkanlar hedef gösteriliyor, tutuklamaların siyasi olduğu düşünülüyor.
+• CHP'nin yol arkadaşı seçiminde öz eleştiri yapması gerektiği vurgulandı.
+• CHP'nin olası bir erken seçime hazır olduğu belirtildi, sandık güvenliği için çalışmalar sürüyor.
+• CHP etkinliklerinde sanatçılar, iş insanları ve gazeteciler de yer alıyor.
+• CHP'nin iktidarla kavga ederken, iktidara oy verenlerle kavga etmemeye özen gösterdiği vurgulandı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Murat Yetkin](https://www.youtube.com/watch?v=85wpstUHqNM&t=6s) (⏱️ 00:06-14:39)
-- [Unsal Unlu](https://www.youtube.com/watch?v=vr9HKt0LpG0&t=3043s) (⏱️ 50:43-52:17)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=6kV7GwM2YWw&t=1700s) (⏱️ 28:20-31:40)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=kptySa9GUcw&t=836s) (⏱️ 13:56-16:14)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=LY2Oq6D1UB4&t=1670s) (⏱️ 27:50-29:30)
-- [Serdar Akinan](https://www.youtube.com/watch?v=FMyCuba9lJE&t=381s) (⏱️ 06:21-08:31)
+- [Fatih Altayli](https://www.youtube.com/watch?v=v2750UM3UK0&t=2342s) (⏱️ 39:02-42:11)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=LY2Oq6D1UB4&t=1425s) (⏱️ 23:45-27:50)
 
 ---
 
-## 2. Ekonomik Kriz: Doların Yükselişi, Gıda ve Et Fiyatları, Servet Dağılımı
+## 2. Türkiye'de Ekonomik Kriz, Gelir Adaletsizliği ve Barınma Sorunu
 
-- Dolar kuru 41 TL'yi geçti, enflasyon ve fiyatlar hızla artıyor
-- Gıda ve kırmızı et fiyatları dünya ortalamasının çok üzerinde
-- Üretim azalıyor, ithalata bağımlılık artıyor, şirket kapanışları çoğaldı
-- Emekliler ve asgari ücretliler geçim sıkıntısı yaşıyor
-- Servet dağılımında büyük adaletsizlik var, en zengin %20 servetin %90'ını alıyor
-- Tarım ve hayvancılıkta teşvikler yanlış kullanılıyor, şap hastalığı hayvan ölümlerini artırdı
-- Marketlerde 'cumhur reyonu' tartışması gündemde, Dezenformasyon Merkezi iddiaları yalanladı
-- Ekonomide algı yönetimi ve gerçek sorunlar arasında farklar var
-- Muhalefet ekonomi programı açıklayacak, halk çözüm bekliyor
+• Dolar ve avro kurları yükseliyor, ekonomik sorunlar artıyor.
+• Memur ve emekliye zam yapılmıyor, barınma krizi büyüyor.
+• Kara para ekonomisi ve uyuşturucu kullanımı yaygınlaşıyor.
+• Türkiye'nin bütçesinin büyük kısmı faize gidiyor, sağlık ve eğitim harcamaları geride kalıyor.
+• Gelir adaletsizliği rekor seviyede, çocukların %41.6'sı derin yoksulluk içinde.
+• Toplumda adalet ve ahlak duygusu zayıflıyor, siyaset sınıfı ve yakınları zenginleşiyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=eL8spKtQQwA&t=3682s) (⏱️ 61:22-71:16)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=kptySa9GUcw&t=836s) (⏱️ 13:56-16:14)
-- [Unsal Unlu](https://www.youtube.com/watch?v=vr9HKt0LpG0&t=3043s) (⏱️ 50:43-52:17)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=R9bGBi67cCg&t=386s) (⏱️ 06:26-08:44)
-- [Fatih Altayli](https://www.youtube.com/watch?v=nL98FimDI4U&t=1083s) (⏱️ 18:03-23:33)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=B_fEJ7yfXyE&t=6s) (⏱️ 00:06-09:45)
+- [Serdar Akinan](https://www.youtube.com/watch?v=l1Hgm2LCILE&t=3s) (⏱️ 00:03-02:54)
 
 ---
 
-## 3. AK Parti-MHP İttifakı, Liderlik ve İktidar Mücadeleleri
+## 3. Türkiye'nin Suriye Politikası, Kürt Meselesi ve SDG ile İlişkiler
 
-- AK Parti ve MHP arasında ittifak ve iç çekişmeler yaşanıyor
-- Erdoğan sonrası dönemde liderlik ve güç mücadelesi öne çıkıyor
-- Bahçeli'nin siyasi hamleleri ve MHP'nin yargı üzerindeki etkisi tartışılıyor
-- AK Parti'de yeni anayasa ve transfer çalışmaları gündemde
-- Parti içi eleştiriler ve oy oranlarında düşüş var
-- İttifakın bozulma ihtimali ve erken seçim iddiaları konuşuluyor
+• Türkiye, Suriye'nin kuzeydoğusunda SDG ve Şam yönetimi arasında denge kurmaya çalışıyor.
+• Kobani kuşatması döneminde Kürtlere yeterli destek verilmediği eleştiriliyor.
+• Türkiye'nin garantör ülke olabilmesi için daha kapsayıcı siyaset öneriliyor.
+• Hakan Fidan'ın Kürt politikası eleştiriliyor, İsrail iddiaları somut delille desteklenmiyor.
+• SDG'de Kürtler dışında Araplar ve azınlıklar da var, Şam yönetimine güven az.
+• Suriye'de tek bir ordu oluşturulması için müzakereler sürüyor.
+• Türkiye'nin SDG ile doğrudan temas kurması ve ilişkileri normalleştirmesi öneriliyor.
+• Türkiye'nin Kürt fobisini aşması ve Kürtlerin haklarının tanınması gerektiği vurgulanıyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=Ds9faScRsUw&t=78s) (⏱️ 01:18-03:48)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=F2UETViKHzc&t=913s) (⏱️ 15:13-16:11)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=6kV7GwM2YWw&t=1921s) (⏱️ 32:01-33:47)
-- [Rusen Cakir](https://www.youtube.com/watch?v=SkiQvYvZQn4&t=1441s) (⏱️ 24:01-32:31)
+- [Rusen Cakir](https://www.youtube.com/watch?v=YiIRCsOCjQA&t=2111s) (⏱️ 35:11-35:47)
 
 ---
 
-## 4. CHP'nin Yükselişi, Kurultay ve Muhalefet Stratejileri
+## 4. CHP'de 19 Mart Sonrası Değişim ve Çifte Liderlik
 
-- CHP, 19 Mart sonrası oylarını artırdı, mitinglerle tabanını diri tutuyor
-- Kurultayda delege değişimi ve sahte oy iddiaları gündemde
-- Mansur Yavaş ve Ekrem İmamoğlu'nun adaylıkları tartışılıyor
-- Muhalefet, kapsayıcı dil ve ekonomik çözüm önerileriyle seçmeni çekmeye çalışıyor
-- CHP'nin yeni parti programı ve stratejileri Eylül'de açıklanacak
+• 19 Mart süreci CHP'yi güçlendirdi ve temposunu artırdı.
+• Özgür Özel ve Ekrem İmamoğlu birlikte liderlik yapıyor.
+• CHP'nin program hazırlama sürecinde iki ayrı yapı birlikte çalışıyor.
+• CHP'nin merkez sol duruşunu koruyarak muhafazakar kesimlere ulaşabileceği belirtiliyor.
+• Çifte liderlik, CHP'ye avantaj sağlıyor, hata durumunda telafi imkanı var.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=SkiQvYvZQn4&t=35s) (⏱️ 00:35-15:36)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=eL8spKtQQwA&t=2246s) (⏱️ 37:26-46:37)
-- [Unsal Unlu](https://www.youtube.com/watch?v=vr9HKt0LpG0&t=115s) (⏱️ 01:55-23:30)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=LY2Oq6D1UB4&t=2310s) (⏱️ 38:30-42:00)
+- [Rusen Cakir](https://www.youtube.com/watch?v=YiIRCsOCjQA&t=965s) (⏱️ 16:05-20:56)
 
 ---
 
-## 5. Organize Suç, Siyasi Bağlantılar ve Yolsuzluk İddiaları
+## 5. CHP'de Kimlik Siyaseti Tartışması ve Komisyona Katılım Polemiği
 
-- Selahattin Yılmaz, Aziz İhsan Aktaş ve diğer suç örgütü liderleriyle ilgili soruşturmalar sürüyor
-- Siyasi ve suç örgütü bağlantıları karmaşık bir ağ oluşturuyor
-- Belediyelerde yolsuzluk, para ve araç trafiği iddiaları var
-- Ebru Gündeş'in eşi Murat Özdemir gözaltına alındı, organize sanayi bölgelerine çöktüğü iddia edildi
-- Yargıda çeteleşme ve siyasi bağlantılar olayları karmaşıklaştırıyor
+• Defne Samyeli ve Rasim Ozan Kütahyalı arasında Türk mü, Türkiyeli mi tartışması yaşandı.
+• CHP'nin komisyona katılımı ve kimlik siyaseti polemik konusu oldu.
+• Kimlik tartışmalarının toplumu böldüğü ve ülkenin gerçek sorunlarını gölgelediği vurgulandı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=6kV7GwM2YWw&t=2042s) (⏱️ 34:02-34:57)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=kptySa9GUcw&t=670s) (⏱️ 11:10-13:56)
-- [Fatih Altayli](https://www.youtube.com/watch?v=nL98FimDI4U&t=2751s) (⏱️ 45:51-49:41)
-- [Serdar Akinan](https://www.youtube.com/watch?v=FMyCuba9lJE&t=7s) (⏱️ 00:07-01:24)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=B_fEJ7yfXyE) (⏱️ 00:00-10:37)
 
 ---
 
-## 6. Türkiye'de Liyakat Sorunu, Devlet Kadrolarında Yozlaşma ve Nepotizm
+## 6. Siyasette Yolsuzluk, Çeteleşme ve Siyasi Transferler
 
-- Devlet kadrolarında liyakat yerine dini ve cemaat bağlantıları öne çıkıyor
-- İstanbul Üniversitesi'nde nepotizm ve FETÖ yapılanması iddiaları var
-- Üniversite ve devlet kadrolarında cemaat ve tarikatların etkisi eleştiriliyor
-- 15 Temmuz ve yargı sorunlarının temelinde liyakatsizlik olduğu belirtiliyor
+• Türkiye'de siyaset sınıfı ve yakınları zenginleşiyor, yolsuzluklar ve çeteleşme yaygın.
+• Özlem Çerçioğlu ve Söke Belediye Başkanı AK Parti'ye geçti, parti içi huzursuzluk oluştu.
+• Büyük şehirlerde ve Güneydoğu'da çeteleşme yaygın, toplumsal zarar artıyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Serdar Akinan](https://www.youtube.com/watch?v=FMyCuba9lJE&t=971s) (⏱️ 16:11-18:59)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=LY2Oq6D1UB4&t=30s) (⏱️ 00:30-07:00)
+- [Serdar Akinan](https://www.youtube.com/watch?v=l1Hgm2LCILE&t=445s) (⏱️ 07:25-11:50)
 
 ---
 
-## 7. Uluslararası Gelişmeler: Gazze, Ukrayna ve Türkiye'nin Rolü
+## 7. Türkiye'de Eğitim Sistemi ve Üstün Zekalı Çocukların Durumu
 
-- Gazze'de BM kıtlık ilan etti, sivil ölümler çok yüksek
-- Türkiye, Gazze ve Ukrayna krizlerinde masada değil, etkisi azaldı
-- Fransa ve Türkiye liderleri Gazze ve Ukrayna'yı görüştü
-- ABD ve Avrupa, Rusya'ya yaptırımlar uygulayabilir, Türkiye dışlandı
-- İsrail'in politikaları uluslararası tepki çekiyor
+• Türkiye'de üstün zekalı çocuklar eğitim sisteminde yeterince desteklenmiyor.
+• Amerika'da özel programlarla bu çocuklar takip ediliyor.
+• Eğitim bütçesi yetersiz, çocuklar açlığa mahkum ediliyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Murat Yetkin](https://www.youtube.com/watch?v=85wpstUHqNM&t=6s) (⏱️ 00:06-14:39)
-- [Rusen Cakir](https://www.youtube.com/watch?v=SkiQvYvZQn4&t=643s) (⏱️ 10:43-15:36)
-- [Unsal Unlu](https://www.youtube.com/watch?v=vr9HKt0LpG0&t=3043s) (⏱️ 50:43-52:17)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=LY2Oq6D1UB4&t=1770s) (⏱️ 29:30-38:30)
+- [Serdar Akinan](https://www.youtube.com/watch?v=l1Hgm2LCILE&t=445s) (⏱️ 07:25-11:50)
 
 ---
 
-## 8. Toplumsal Sorunlar: Çocuk Cinayetleri, Sokak Hayvanları ve Güvenlik
+## 8. Diyanet'in Hutbeleri ve Kadınların Miras Hakkı Tartışması
 
-- Narin ve Zeynep Sut cinayetlerinde adalet sağlanamadı, delil karartma iddiaları var
-- Sokak hayvanlarının toplanması ve uyutulması tartışılıyor
-- Rapçi Çakal'a silahlı saldırı ve düğünde ateş açılması olayları güvenlik sorunlarını gündeme getirdi
+• Diyanet'in son hutbeleri kamuoyunda tartışma yarattı.
+• Özellikle kız çocuklarının miras hakkı ile ilgili hutbe tepki çekti.
+• Türkiye'de kadınların miras hakkı konusunda hâlâ sorunlar yaşanıyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=Zm7RxfyPx_8&t=104s) (⏱️ 01:44-03:01)
-- [Unsal Unlu](https://www.youtube.com/watch?v=Ds9faScRsUw&t=463s) (⏱️ 07:43-09:36)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=B_fEJ7yfXyE&t=6s) (⏱️ 00:06-09:45)
 
 ---
 
-## 9. Kimlik, Ayrışma ve Toplumsal Kutuplaşma
+## 9. Uluslararası Gündem: Beyaz Saray Zirvesi, Ukrayna ve Rusya Tartışmaları
 
-- Türk/Türkiyeli kimliği üzerine polemikler yaşanıyor
-- Toplumsal ayrışma ve kutuplaşma dış güçler tarafından körüklendiği iddia ediliyor
-- CHP'nin Kürt politikası ve stratejisi tartışılıyor
-- Kimlik siyaseti ve komisyon tartışmaları gündemde
+• Beyaz Saray'da Batı liderleri Ukrayna için tarihi zirve yaptı.
+• Trump, liderleri kendi önünde topladı ve propagandasını yaptı.
+• Amerika, Ukrayna'ya 90 milyar dolarlık silah satışı anlaşması yaptı, Avrupa rahatsız.
+• Putin, kendi müttefikleriyle temas kurdu, geri adım atmıyor.
+• Macron ve Erdoğan telefonla görüştü, Ukrayna ve Gazze gündemleri ele alındı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=F2UETViKHzc&t=294s) (⏱️ 04:54-08:19)
-- [Fatih Altayli](https://www.youtube.com/watch?v=nL98FimDI4U&t=1934s) (⏱️ 32:14-38:49)
-- [Rusen Cakir](https://www.youtube.com/watch?v=B3xmfIXSb54&t=1572s) (⏱️ 26:12-31:36)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=REc1lQCZLi0&t=13s) (⏱️ 00:13-09:16)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=LY2Oq6D1UB4&t=2760s) (⏱️ 46:00-47:30)
+- [Serdar Akinan](https://www.youtube.com/watch?v=l1Hgm2LCILE&t=3s) (⏱️ 00:03-02:54)
 
 ---
 
-## 10. Magazin ve Yerel Gelişmeler
+## 10. Toplumsal ve Kültürel Gündem: Sanat, Spor ve Değerler
 
-- Volkan Konak'ın vefatı sonrası toplumda büyük özlem var
-- Ferrari kazası, bebek goril Zeytin'in Nijerya'ya gönderilmesi ve festival iptalleri gündemde
-- Balıkesir'de kazların denize girmesi yasaklandı
-- Muğla'da kaybolan iki çocuk sağ olarak bulundu
-- Magazin haberleri ve yerel olaylar toplumsal ilgiyle takip ediliyor
+• Spor yazarı İslam Çupi ve Volkan Konak anıldı, toplumsal etkileri vurgulandı.
+• Rap şarkıcısı Çakal konser sonrası vuruldu, güvenlik zafiyeti tartışıldı.
+• Don Kişot'un yeni tiyatro uyarlaması sonbaharda sahnelenecek.
+• Atatürk'ün mirası ve topluma iyilik bırakmanın önemi anlatıldı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=F2UETViKHzc&t=294s) (⏱️ 04:54-08:19)
-- [Unsal Unlu](https://www.youtube.com/watch?v=vr9HKt0LpG0&t=2030s) (⏱️ 33:50-34:44)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=6kV7GwM2YWw&t=2227s) (⏱️ 37:07-48:44)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=YlJpV08xqLE&t=677s) (⏱️ 11:17-12:27)
+- [Rusen Cakir](https://www.youtube.com/watch?v=20uoCZ2C-8U&t=4s) (⏱️ 00:04-10:35)
+- [Serdar Akinan](https://www.youtube.com/watch?v=l1Hgm2LCILE&t=445s) (⏱️ 07:25-11:50)
 
 ---
 
