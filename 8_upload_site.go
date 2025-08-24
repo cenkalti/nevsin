@@ -18,7 +18,7 @@ var UploadSiteCmd = &cobra.Command{
 	Run: func(cmd *cobra.Command, args []string) {
 		// Check if report.html exists
 		if _, err := os.Stat("report.html"); os.IsNotExist(err) {
-			log.Fatalf("report.html not found. Run 'generate-html' first.")
+			log.Fatalf("report.html not found. Run 'generate-report' first.")
 		}
 
 		// Check if report.md exists

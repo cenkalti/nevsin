@@ -40,8 +40,9 @@ func main() {
 	rootCmd.AddCommand(nevsin.FetchVideosCmd)
 	rootCmd.AddCommand(nevsin.FetchSubtitlesCmd)
 	rootCmd.AddCommand(nevsin.ExtractStoriesCmd)
+	rootCmd.AddCommand(nevsin.EmbedStoriesCmd)
+	rootCmd.AddCommand(nevsin.ClusterStoriesCmd)
 	rootCmd.AddCommand(nevsin.GenerateReportCmd)
-	rootCmd.AddCommand(nevsin.GenerateHTMLCmd)
 	rootCmd.AddCommand(nevsin.UploadSiteCmd)
 	rootCmd.AddCommand(runCmd)
 	rootCmd.AddCommand(cleanCmd)
@@ -53,14 +54,15 @@ func main() {
 
 var runCmd = &cobra.Command{
 	Use:   "run",
-	Short: "Run the full pipeline: fetch-videos -> fetch-subtitles -> extract-stories -> generate-report -> generate-html -> upload-site",
+	Short: "Run the full pipeline: fetch-videos -> fetch-subtitles -> extract-stories -> embed-stories -> cluster-stories -> generate-report -> upload-site",
 	Run: func(cmd *cobra.Command, args []string) {
 		log.Println("Running full pipeline...")
 		nevsin.FetchVideosCmd.Run(cmd, args)
 		nevsin.FetchSubtitlesCmd.Run(cmd, args)
 		nevsin.ExtractStoriesCmd.Run(cmd, args)
+		nevsin.EmbedStoriesCmd.Run(cmd, args)
+		nevsin.ClusterStoriesCmd.Run(cmd, args)
 		nevsin.GenerateReportCmd.Run(cmd, args)
-		nevsin.GenerateHTMLCmd.Run(cmd, args)
 		nevsin.UploadSiteCmd.Run(cmd, args)
 		log.Println("Pipeline complete.")
 	},
@@ -68,13 +70,15 @@ var runCmd = &cobra.Command{
 
 var cleanCmd = &cobra.Command{
 	Use:   "clean",
-	Short: "Clean old videos, subtitles, stories, and report",
+	Short: "Clean old videos, subtitles, stories, embeddings, clusters, and report",
 	Run: func(cmd *cobra.Command, args []string) {
-		dirs := []string{"videos", "subtitles", "stories"}
+		dirs := []string{"videos", "subtitles", "stories", "clusters"}
 		for _, dir := range dirs {
 			files, err := os.ReadDir(dir)
 			if err != nil {
-				log.Printf("Failed to read %s: %v", dir, err)
+				if !os.IsNotExist(err) {
+					log.Printf("Failed to read %s: %v", dir, err)
+				}
 				continue
 			}
 			for _, file := range files {
@@ -88,9 +92,9 @@ var cleanCmd = &cobra.Command{
 			}
 		}
 
-		// Remove report files
-		reportFiles := []string{"report.md", "report.html"}
-		for _, file := range reportFiles {
+		// Remove report files and database
+		files := []string{"report.md", "report.html", "embeddings.db"}
+		for _, file := range files {
 			if err := os.Remove(file); err != nil {
 				if !os.IsNotExist(err) {
 					log.Printf("Failed to remove %s: %v", file, err)
@@ -98,6 +102,6 @@ var cleanCmd = &cobra.Command{
 			}
 		}
 
-		log.Println("Cleaned videos, subtitles, stories directories and report files.")
+		log.Println("Cleaned videos, subtitles, stories, clusters directories, embeddings database, and report files.")
 	},
 }

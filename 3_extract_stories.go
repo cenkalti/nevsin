@@ -176,8 +176,8 @@ func parseRetryAfter(retryAfter string) time.Duration {
 }
 
 // makeOpenAIRequest makes a request to Azure OpenAI with retry logic for 429 errors
-func makeOpenAIRequest(requestBody []byte, endpoint, apiKey, deployment string) ([]byte, error) {
-	url := fmt.Sprintf("%s/openai/deployments/%s/chat/completions?api-version=2024-08-01-preview", endpoint, deployment)
+func makeOpenAIRequest(requestBody []byte, endpoint, apiKey, deployment, apiPath string) ([]byte, error) {
+	url := fmt.Sprintf("%s/openai/deployments/%s/%s?api-version=2024-08-01-preview", endpoint, deployment, apiPath)
 	client := &http.Client{Timeout: 120 * time.Second} // Increased timeout for longer waits
 
 	// Retry configuration - increased for better resilience
@@ -302,7 +302,7 @@ func extractStories(subtitle, videoID, channelID string, chapters []YouTubeChapt
 	}
 
 	// Make request to Azure OpenAI with retry logic
-	responseBody, err := makeOpenAIRequest(jsonBody, endpoint, apiKey, deployment)
+	responseBody, err := makeOpenAIRequest(jsonBody, endpoint, apiKey, deployment, "chat/completions")
 	if err != nil {
 		return NewsExtractionResponse{}, err
 	}
@@ -374,7 +374,6 @@ func extractStoriesWithRetry(subtitle, videoID, channelID string, chapters []You
 	return NewsExtractionResponse{}, fmt.Errorf("unexpected error in retry loop")
 }
 
-
 // populateTimesFromSeconds populates StartTime and EndTime fields from seconds
 func populateTimesFromSeconds(stories []NewsStory) {
 	for i := range stories {
@@ -389,16 +388,15 @@ func populateTimesFromSeconds(stories []NewsStory) {
 	}
 }
 
-
 // convertSecondsToMMSS converts total seconds to MM:SS format
 func convertSecondsToMMSS(totalSeconds int) string {
 	if totalSeconds < 0 {
 		totalSeconds = 0
 	}
-	
+
 	minutes := totalSeconds / 60
 	seconds := totalSeconds % 60
-	
+
 	return fmt.Sprintf("%02d:%02d", minutes, seconds)
 }
 
@@ -415,19 +413,19 @@ func formatChapterInfo(chapters []YouTubeChapter) string {
 	if len(chapters) == 0 {
 		return "VIDEO BÖLÜMLERI: Bu video için bölüm bilgisi bulunmuyor."
 	}
-	
+
 	var chapterInfo strings.Builder
 	chapterInfo.WriteString("VIDEO BÖLÜMLERI: Bu videoda aşağıdaki bölümler bulunuyor:\n")
-	
+
 	for _, chapter := range chapters {
 		startSeconds := int(chapter.StartTime)
 		endSeconds := int(chapter.EndTime)
-		
-		chapterInfo.WriteString(fmt.Sprintf("- %d-%d saniye arası: %s\n", 
+
+		chapterInfo.WriteString(fmt.Sprintf("- %d-%d saniye arası: %s\n",
 			startSeconds, endSeconds, chapter.Title))
 	}
-	
+
 	chapterInfo.WriteString("\nBu bölüm bilgilerini haber hikayelerini çıkarırken referans olarak kullan.")
-	
+
 	return chapterInfo.String()
 }

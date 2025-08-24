@@ -5,9 +5,11 @@ go 1.24.2
 require (
 	github.com/invopop/jsonschema v0.13.0
 	github.com/joho/godotenv v1.5.1
+	github.com/mattn/go-sqlite3 v1.14.32
 	github.com/sosodev/duration v1.3.1
 	github.com/spf13/cobra v1.9.1
 	github.com/yuin/goldmark v1.7.12
+	gonum.org/v1/gonum v0.16.0
 )
 
 require (

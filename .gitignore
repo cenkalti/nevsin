@@ -8,3 +8,6 @@ gh-pages-temp
 report.html
 audio
 podcast.mp3
+embeddings.db
+clusters/clusters.json
+clusters/cluster_quality.json
