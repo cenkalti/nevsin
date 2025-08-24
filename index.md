@@ -1,163 +1,137 @@
 # Bugün Ne Oldu?
 
-*23 August 2025 tarihli günlük haber raporu - 10 haber birleştirildi*
+*24 August 2025 tarihli günlük haber raporu - 6 haber birleştirildi*
 
-## 1. Türkiye'de Ekonomik Kriz: Enflasyon, Döviz, Tarım ve Sanayi
+## 1. Türkiye'de Adalet, Siyaset ve Ekonomi Gündemi: Tartışmalı Davalar, Mafya-Siyaset İlişkileri ve Kur Korumalı Mevduatın Sonu
 
-• Türkiye'de enflasyon ve döviz kuru hızla yükseliyor
-• Dolar 41 TL'yi, avro 50 TL'yi geçti
-• Gıda fiyatları ve kiralar çok yüksek, öğrenciler ve aileler zorlanıyor
-• Kiraz ve diğer meyveler yurtdışında Türkiye'den daha ucuza satılıyor
-• Hayvancılık ve tarımda kriz var, üretici zarar ediyor
-• Bankalar ve finans sektörü yüksek karlar elde ediyor, sanayi ve üretici zor durumda
-• Nefes kredisi ve KOBİ destekleri yetersiz
-• Okul masrafları ve kırtasiye enflasyonu artıyor, KDV indirimi talep ediliyor
-• Sıkı para politikası uygulanıyor ama kamu harcamalarında tasarruf yok
-• Gelir eşitsizliği rekor seviyede, çocukların %41,6'sı derin yoksulluk yaşıyor
-• Muhalefetin ekonomi politikalarında somut çözüm eksikliği var
-• CHP öğrencilere yurt ve uygun fiyatlı yemek sözü veriyor
-• Dövizdeki artış enflasyonu ve fiyatlandırmayı etkiliyor
-• Suriye çeyrek altını gibi alternatifler ekonomik sıkıntıların göstergesi
+- Narin Gülan cinayeti bir yıl önce işlendi, olay hala tam olarak aydınlatılamadı
+- Cinayette tutuklananlar oldu, delil karartma ve yetersiz cezalar iddiası var
+- Köyde ve ailede olay karşısında eleştiriler yapıldı
+- ABD'li hakim Frank Caprio pankreas kanserinden vefat etti, veda videosu sosyal medyada ilgi gördü
+- Mehmet Uçum, PKK'ya özel yasa teklif etti, teklifin eşitlik ilkesine aykırı olabileceği tartışılıyor
+- Mafya lideri Sedat Peker'in avukatı değişti, mafya-siyaset ilişkileri ve hayır işleri gündemde
+- Rezan Epözdemir davasında rüşvet iddiası var, yargıda farklı uygulamalar eleştiriliyor
+- Suç örgütü lideri Aziz İhsan Aktaş hem itirafçı oldu hem devlet koruması aldı, adalet sistemi tartışılıyor
+- Kur korumalı mevduat sistemi sona erdi, halka maliyeti 60 milyar dolar oldu
+- Sistemde zenginler kazandı, yoksullar kaybetti, sorumlulara soruşturma açılmadı
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=B_fEJ7yfXyE&t=6s) (⏱️ 00:06-09:45)
-- [Serdar Akinan](https://www.youtube.com/watch?v=l1Hgm2LCILE&t=445s) (⏱️ 07:25-11:50)
+- [Bahar Feyzan]() (⏱️ 00:00-00:00)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=w1dFcUW4CVI&t=518s) (⏱️ 08:38-11:38)
 
 ---
 
-## 2. CHP'de Değişim, Çifte Liderlik ve Yerel Yönetimlere Baskı
+## 2. Türkiye'de Siyasi ve Toplumsal Değişim: Dindar Kesimler, Sosyal Medya Tartışmaları ve Terörsüz Türkiye Komisyonu
 
-• 19 Mart sonrası CHP'de değişim yaşandı, parti güçlendi
-• Özgür Özel ve Ekrem İmamoğlu birlikte liderlik ediyor
-• CHP'nin mitingleri ve söylemleri dikkat çekiyor, program hazırlığı yapılıyor
-• CHP'nin sol kimliğini koruyarak muhafazakar kesime ulaşması hedefleniyor
-• Beyoğlu Belediye Başkanı ve diğer CHP'li başkanlar tutuklandı, baskı ve engellemeler arttı
-• AKP dönemine ait yolsuzluk dosyaları emniyete teslim edildi, soruşturma beklentisi var
-• CHP'li belediyeler finansal ve siyasi baskı altında, hizmetler engelleniyor
-• Gizli tanık ve etkin pişmanlık uygulamaları yaygın, yol arkadaşı seçiminde sorunlar yaşanıyor
-• CHP olası erken seçime hazır, sandık güvenliği için hazırlık yapıyor
-• İmamoğlu'nun propaganda imkanları kısıtlanıyor, toplum bu engellemeleri siyasi buluyor
-• CHP'nin ekonomi ve sosyal politikaları daha somut hale getirilmeli
+- CHP'nin dindar ve muhafazakar kesimlerle ilişkisi gündemde.
+- AK Parti'nin ekonomik kriz nedeniyle dar gelirli ve dindar seçmenleri kaybettiği belirtiliyor.
+- CHP'li belediyeler sosyal hizmetlerle bu kesimlere ulaşmaya çalışıyor.
+- Genç dindar kuşaklarda AK Parti'den uzaklaşma gözleniyor.
+- Kılıçdaroğlu'nun helalleşme yaklaşımı olumlu karşılanıyor.
+- Evre Başak Clark'ın İngiltere'de kanserden ölümü sosyal medyada tartışma yarattı.
+- Clark'ın geçmişteki olumsuz tweetleri ve GoFundMe kampanyası tepki çekti.
+- Sosyal medyada nefret dili ve ötekileştirme arttı.
+- Gençler arasında ahlaki değerlerin zayıfladığı ve yurt dışına gitme isteği öne çıkıyor.
+- Terörsüz Türkiye Komisyonu'nda siyasi tartışmalar yaşanıyor.
+- Mehmet Ali Çelebi'nin parti değişiklikleri ve komisyon toplantılarında HDP-CHP ilişkileri gündeme geldi.
+- Komisyonun çalışmaları ve talepler listesi tartışma konusu oldu.
+- Ekonomi, özellikle kredi garanti fonu ve kamu bankalarının kredi dağıtımı halkın ana gündemi.
+- KGF kredilerinden iktidara yakın şirketlerin faydalandığı iddia ediliyor.
+- CHP'nin mitingleri ve MHP'nin eleştirileri siyasi gündemi meşgul ediyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=20uoCZ2C-8U&t=4s) (⏱️ 00:04-10:35)
-- [Fatih Altayli](https://www.youtube.com/watch?v=v2750UM3UK0&t=615s) (⏱️ 10:15-14:16)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=l87F5yDawiI&t=115s) (⏱️ 01:55-05:14)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=LY2Oq6D1UB4&t=1770s) (⏱️ 29:30-38:30)
+- [Rusen Cakir](https://www.youtube.com/watch?v=OKREgwijTdU&t=7s) (⏱️ 00:07-10:36)
+- [Serdar Akinan](https://www.youtube.com/watch?v=eiZo5FIEGxc&t=6s) (⏱️ 00:06-13:04)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=w1dFcUW4CVI&t=373s) (⏱️ 06:13-08:38)
 
 ---
 
-## 3. Türkiye'de Yolsuzluk, Çeteleşme ve Toplumsal Çöküş
+## 3. Seymen Bozaslan'ın Türkiye Yolculuğu: Keşifler, İnsan Hikayeleri ve Yeni Projeler
 
-• Siyaset ve bürokrasi içinde yolsuzluk ve çeteleşme yaygın
-• Eski ve mevcut siyasetçilerin servetlerinde büyük artışlar var
-• Gençler yoksulluk ve suç ortamına itiliyor, uyuşturucu kullanımı yaygınlaşıyor
-• Kara para ekonomisi ve yasa dışı bahis toplumsal sorunlara yol açıyor
-• Toplumda adalet ve ahlak duygusu zayıfladı
-• Savunma sanayinde şirketlere yönelik manipülasyon ve operasyon iddiaları var
-• Bu durumun hesabının mahkemelerde değil, ilahi adalette sorulacağı vurgulandı
+• Seymen Bozaslan, 111 gün boyunca Türkiye'yi gezdi ve 951 ilçeyi ziyaret etti
+• 81 ili 6 defa dolaştı, dünyada da 70'ten fazla ülke gördü
+• Yolculuklarında doğal güzellikleri, kültürel varlıkları ve geleneksel uygulamaları belgeledi
+• Drone ile farklı açılardan manzaralar çekti, 40.000'e yakın görsel arşivledi
+• Her turda yeni şeyler keşfetmeye devam ediyor, aynı yerleri farklı mevsimlerde gözlemliyor
+• Yerel halktan ve takipçilerden tavsiye alarak iyi restoranlar ve lezzetler buluyor
+• Anadolu'da misafirperverliğin ve sıcak ilişkilerin hala güçlü olduğunu gözlemledi
+• Hakkari, Şırnak, Kahramanmaraş, Ordu, Tokat, Artvin, Isparta, Burdur, Denizli, Afyon gibi yerleri öneriyor
+• Bahar ve sonbaharda Van ve Artvin'e gidilmesini tavsiye ediyor
+• İklim değişikliği, vahşi sulama ve yapılaşmanın doğaya zarar verdiğini belirtti
+• Evliya Çelebi'nin seyahatnamesindeki 1200'den fazla yeri fotoğrafladı, bu proje 17 ay sürdü
+• Türkiye'nin kaleleri üzerine yeni bir proje hazırlıyor, 400'den fazla kale fotoğrafladı
+• 7 yaş üzeri için Türkiye atlası hazırlıyor
+• Gelecekte Faroe Adaları, Japonya, Antarktika, Çin, Alaska, Namibya gibi yerlere gitmek istiyor
+• Vize sorunları ve çözüm yolları hakkında bilgi verdi
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Serdar Akinan](https://www.youtube.com/watch?v=l1Hgm2LCILE&t=445s) (⏱️ 07:25-11:50)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=LY2Oq6D1UB4&t=2520s) (⏱️ 42:00-46:00)
+- [Bahar Feyzan]() (⏱️ 00:00-00:00)
+- [Fatih Altayli](https://www.youtube.com/watch?v=ypzk6Av0rgg&t=30s) (⏱️ 00:30-01:34)
 
 ---
 
-## 4. Kimlik Siyaseti ve CHP'nin Politikaları Üzerine Tartışmalar
+## 4. Bölgesel Kültür ve Ulaşım: Aram Tigran'ın Vasiyeti ve Zengezur Koridoru Projesi
 
-• Defne Samyeli ve Rasim Ozan Kütahyalı arasında 'Türklük' ve 'Türkiyelilik' kavramları tartışıldı
-• CHP'nin kimlik siyaseti ve politikaları eleştirildi
-• Atatürkçülük ve "Ne mutlu Türküm diyene" söylemi savunuldu
-• Kimseye zorla "Türküm" dedirtilmemesi gerektiği vurgulandı
-• Tartışma sosyal medyada ve programlarda devam etti
+- Aram Tigran Ermeni asıllı bir müzisyendir
+- Diyarbakırlı bir aileden Suriye'ye göç etmiştir
+- Kürtçe, Arapça, Süryanice ve Yunanca şarkılar söylemiştir
+- 2009'da Diyarbakır'da hastalanmış, Yunanistan'da vefat etmiştir
+- Vasiyeti Diyarbakır'da gömülmekti, Türkiye vatandaşı olmadığı için Brüksel'de defnedilmiştir
+- Cenazesinin Diyarbakır'a taşınması sembolik olarak önemli görülüyor
+- Azerbaycan ile Türkiye arasında Kars-Iğdır-Aralık-Dilucu Demiryolu projesinin temeli atıldı
+- Proje, ticareti hızlandıracak ve stratejik öneme sahip
+- Amerika ve İran'ın projeye müdahil olması endişe yaratıyor
+- Türkiye'nin projede daha etkin olması gerektiği belirtiliyor
+- Proje, Nahçıvan ile Türkiye'yi birleştirerek bölgedeki akrabalık bağlarını güçlendirecek
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=l87F5yDawiI) (⏱️ 00:00-01:55)
+- [Rusen Cakir](https://www.youtube.com/watch?v=OKREgwijTdU&t=641s) (⏱️ 10:41-12:53)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=w1dFcUW4CVI&t=698s) (⏱️ 11:38-14:22)
 
 ---
 
-## 5. Yerel Yönetimlerde Siyasi Transferler ve AK Parti'ye Geçişler
+## 5. Kur Korumalı Mevduat Sistemi ve 60 Milyar Doların Akıbeti
 
-• Özlem Çerçioğlu'nun AK Parti'ye geçişi cezaevinden kurtulmak için olduğu iddia edildi
-• İzmir Belediye Başkanlığı adaylığı kulislerde konuşuluyor
-• Söke Belediye Başkanı CHP'den AK Parti'ye geçti
-• Bu tür transferler parti içi huzursuzluklara yol açıyor
+• Hazine ve Maliye Bakanı Mehmet Şimşek, kur korumalı mevduat uygulamasının sona erdiğini açıkladı.
+• Bu sistemin halka maliyeti yaklaşık 60 milyar dolar oldu.
+• Dolar kuru sistem başladığında 13 TL iken şu anda 41 TL'ye yükseldi.
+• Sistemin asıl amacı Türk lirasına güveni artırmaktı, ancak hem döviz hem faiz arttı.
+• Sistemde parası olanlar hem döviz artışından hem faizden kazanç sağladı.
+• Bu kazançlar devletin hazinesinden, yani vatandaşların vergilerinden karşılandı.
+• Sistemin sonunda zenginler daha da zenginleşti, yoksullar ise kaybetti.
+• Sistemi eleştiren çok sayıda uzman ve gazeteci olmasına rağmen, uygulamadan sorumlu olanlara herhangi bir soruşturma açılmadı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Nevsin Mengu](https://www.youtube.com/watch?v=LY2Oq6D1UB4&t=2520s) (⏱️ 42:00-46:00)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=w1dFcUW4CVI&t=50s) (⏱️ 00:50-06:13)
 
 ---
 
-## 6. Türkiye'de STK'ların Zayıflaması ve Toplumsal Etkileri
+## 6. Ortak Yaşamda Kişisel Alanlar ve Seyahat Tutkusu: Modern Hayatın Dinamikleri
 
-• STK'lara üyelik korkusu ve kriminalizasyonu arttı
-• Gezi olayları ve darbe girişimi sonrası STK'lar baskı altında kaldı
-• Toplumsal bağlar zayıfladı, siyasetin fakirleştiği belirtildi
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Nevsin Mengu](https://www.youtube.com/watch?v=LY2Oq6D1UB4&t=30s) (⏱️ 00:30-07:00)
-
----
-
-## 7. Türkiye'de Eğitim Sistemi ve Üstün Zekalı Çocukların Durumu
-
-• Üstün zekalı çocuklar eğitim sisteminde yeterince desteklenmiyor
-• Amerika ve gelişmiş ülkelerde özel programlar var
-• Türkiye'de az sayıda okul ve tespit edilen çocuk var
-• Eğitim bütçesi yetersiz, kaynaklar başka alanlara harcanıyor
-• Çocukların potansiyeli değerlendirilemiyor
+• Ortak yaşamda ev işleri kadın ve erkek arasında paylaşılmalı
+• Geleneksel roller yerine kişisel tercihler ön plana çıkıyor
+• Akıllı ev aletleri işleri kolaylaştırıyor
+• Evde temizlik ürünleri ve alışkanlıklar aileden gelen davranışlarla şekilleniyor
+• Kişisel alanlar (çekmece, kasa, bavul) ve özel eşyalar önemli
+• Kıyafet seçimi ve bavul hazırlama kişisel alan olarak görülüyor
+• Oyun oynamak ve sosyal etkinlikler ortak yaşamda yer tutuyor
+• Seyahat tutkusu çocuklukta başlayabiliyor ve profesyonel hayata dönüşebiliyor
+• Seyahatler planlı şekilde yapılıyor, ekipman ve kıyafet seçimi önemli
+• Fotoğrafçılık, seyahatlerde motivasyon ve arşivleme aracı olarak öne çıkıyor
+• Türkiye'de seyahat etmek pahalı hale geldi, keşif amaçlı seyahat daha uygun
+• Sosyal medya baskısına kapılmadan özgün deneyimler yaşamak öneriliyor
+• Yerel insanlarla sohbet etmek ve kendi şehrini keşfetmek değerli
+• Seymen Bozaslan'ın deneyimleri ve kitapları ilham verici
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Serdar Akinan](https://www.youtube.com/watch?v=l1Hgm2LCILE&t=445s) (⏱️ 07:25-11:50)
-
----
-
-## 8. Yabancıların Oturma İzni Sorunu ve Tepkiler
-
-• Japon influencer Yoshi Enomoto'nun oturma izni başvurusu reddedildi
-• Öğrenci izniyle ticari faaliyet yaptığı için ret aldı
-• Sosyal medyada tepki gösterildi
-• Türkiye'de mafya ve suçluların oturma izni alabilmesi eleştirildi
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Nevsin Mengu](https://www.youtube.com/watch?v=LY2Oq6D1UB4&t=2520s) (⏱️ 42:00-46:00)
-
----
-
-## 9. Gazze Krizi ve Türkiye'nin Tutumu
-
-• Gazze'de insani kriz ve kıtlık var, BM kıtlık ilan etti
-• İsrail'in saldırıları sonucu çok sayıda sivil öldü
-• Türkiye'nin Gazze'ye karşı duyarsızlığı eleştirildi
-• Mecliste bu konunun konuşulmasının reddedilmesi vicdan ve ahlak eksikliği olarak değerlendirildi
-• Macron ve Erdoğan görüşmesinde Gazze gündemdeydi
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Serdar Akinan](https://www.youtube.com/watch?v=l1Hgm2LCILE&t=445s) (⏱️ 07:25-11:50)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=LY2Oq6D1UB4&t=1425s) (⏱️ 23:45-27:50)
-
----
-
-## 10. Spor Yazarı İslam Çupi'nin Anısı ve Türk Spor Basınına Katkıları
-
-• İslam Çupi, ünlü futbol yazarıydı
-• 2001 yılında hayatını kaybetti
-• Fenerbahçeliydi, yazıları büyük ilgiyle okunurdu
-• Türk spor basınında önemli bir isimdi
-• Günümüzde spor yazarlığında vasatın hakim olduğu, Çupi'nin ise çok değerli olduğu vurgulandı
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Rusen Cakir](https://www.youtube.com/watch?v=20uoCZ2C-8U&t=4s) (⏱️ 00:04-10:35)
+- [Ozlem Gurses]() (⏱️ 00:00-00:00)
+- [Fatih Altayli](https://www.youtube.com/watch?v=ypzk6Av0rgg&t=152s) (⏱️ 02:32-05:05)
 
 ---
 
