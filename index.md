@@ -1,244 +1,242 @@
 # Bugün Ne Oldu?
 
-*28 August 2025 tarihli günlük haber raporu - 10 haber birleştirildi*
+*29 August 2025 tarihli günlük haber raporu - 11 haber birleştirildi*
 
-## 1. Türkiye'de Siyasi Gelişmeler: Çözüm Süreci, Siyasi Baskılar ve Demokrasi Tartışmaları
+## 1. Türkiye'de Anayasa Değişikliği, Çözüm Süreci ve Bölgesel Gelişmeler Tartışılıyor
 
-• Türkiye'de siyasi baskılar ve demokrasi tartışmaları gündemde.
-• CHP'li belediyelere yönelik baskılar ve bazı başkanların iktidar partisine geçmesi toplumsal tepki yaratıyor.
-• CHP Genel Başkanı Özgür Özel hakkında yeni soruşturmalar açıldı, dokunulmazlık tartışmaları yaşanıyor.
-• DEM Parti heyeti uzun süredir ilk kez İmralı Adası'na giderek görüşme yaptı, açıklama bekleniyor.
-• Mecliste anayasa komisyonu ve çözüm süreci tartışmaları sürüyor, eski meclis başkanları ve siyasi isimler dinlendi.
-• Komisyonun geçici olduğu ve somut adımların henüz atılmadığı belirtiliyor.
-• MHP'nin siyasi etkisi ve terörle mücadele söylemleri tartışılıyor, partiye yönelik eleştiriler var.
-• Cumhurbaşkanı Erdoğan'ın etnik kimlik vurgusu ve Alevi açılımı toplumsal birlik ve laiklik açısından eleştiriliyor.
-• AKP'nin eğitim politikaları ve imam hatip okulları tartışılıyor, eğitimde kalite düşüşü gündemde.
-• Suriye'deki gelişmeler ve YPG/HTŞ çatışmaları Türkiye'deki çözüm sürecini etkileyebilir.
-• Selahattin Demirtaş, Osman Kavala ve Can Atalay gibi isimler hâlâ tutuklu, AİHM ve Anayasa Mahkemesi kararları uygulanmıyor.
-• Kayyum atanan belediyeler sahiplerine iade edilmiyor.
-• Medyada kötümser sesler daha fazla, iyimser kalmak zorlaşıyor.
+• TBMM'de anayasa değişikliği ve 66. madde üzerine tartışmalar yapılıyor.
+• Etnisite temelli anayasa ve iki dilli devlet iddiaları gündeme geliyor.
+• Komisyonun demokrasi ve hukukun üstünlüğü üretmeyeceği, örtülü af ve eve dönüş yasası gibi amaçları olduğu iddia ediliyor.
+• Barolar Birliği ve CHP'nin komisyondaki varlığı şeffaflık açısından önemli görülüyor.
+• Savunma sanayi şirketlerine yönelik operasyonlar sürüyor, sektörde iktidara yakın şirketler öne çıkıyor.
+• Terörsüz Türkiye süreci ve PKK'nın silah bırakması tartışılıyor.
+• SDG ve PKK'nın Suriye'deki varlığı, İsrail ve ABD'nin desteğiyle gündemde.
+• İsrail'in Gazze operasyonu ve uluslararası tepkiler Türkiye'de tartışılıyor.
+• Mecliste olağanüstü Gazze toplantısı yapıldı, İsrail'in BM üyeliğinin askıya alınması önerildi.
+• Türkiye'nin İsrail ile ticari ilişkileri ve Avrupa'da İsrail karşıtı istifalar gündemde.
+• Türkiye'nin bölünme endişeleri ve Kosova modeli üzerinden riskler konuşuluyor.
+• Devlet aklı ve bekası kavramları, devletin tüm toplumu temsil etmesi gerekliliği vurgulanıyor.
+• Türkiye'nin kimlikler üzerinden değil, demokratikleşme üzerinden ilerlemesi gerektiği belirtiliyor.
+• İktidar içindeki güç dengeleri, Hakan Fidan ve Erdoğan arasındaki liderlik tartışmaları yaşanıyor.
+• Komisyon toplantılarında genel af ve KHK ile ihraç edilenlerin durumu gündeme geliyor.
+• CHP'de kurultay süreci ve parti içi tartışmalar devam ediyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=Inp6-ArRqJA&t=65s) (⏱️ 01:05-09:00)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=JVZy1wF1McI&t=2192s) (⏱️ 36:32-37:34)
-- [Bahar Feyzan]() (⏱️ 00:00-00:00)
-- [Fatih Altayli]() (⏱️ 00:00-00:00)
-- [Unsal Unlu](https://www.youtube.com/watch?v=frYRR6UpBWA&t=497s) (⏱️ 08:17-10:32)
+- [Serdar Akinan]() (⏱️ 00:00-00:00)
+- [Fatih Altayli](https://www.youtube.com/watch?v=ZflnFQuWZQg&t=154s) (⏱️ 02:34-04:16)
+- [Murat Yetkin]() (⏱️ 00:00-00:00)
+- [Rusen Cakir]() (⏱️ 00:00-00:00)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=kKnjU9FyuG8&t=240s) (⏱️ 04:00-07:45)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=xTMOhWkRJ4M&t=567s) (⏱️ 09:27-10:42)
 
 ---
 
-## 2. Sağlık, Eğitim ve Kadın Haklarında Skandallar ve Toplumsal Tartışmalar Gündemde
+## 2. Türkiye'de Devlet, Siyaset ve Adalet Sisteminde Kriz: Suikast, Casusluk ve Yolsuzluk İddiaları Gündemde
 
-• Devlet hastanelerinde randevu bulamayanlar için çete ortaya çıktı.
-• Bu çete, danışmanlık şirketi adı altında randevu satıyor.
-• Randevu fiyatları 200-500 TL arasında değişiyor.
-• Aynı çete sağlık kurulu raporu için de garanti veriyor.
-• Hastanelerde etik dışı muayene uygulamaları gündeme geldi.
-• Konya'da bir doktor, hastayı çıplak olduğu gerekçesiyle muayene etmeyi reddetti.
-• Ümraniye'de kadın doktorun erkek hastaya giysi üzerinden muayene yapması eleştirildi.
-• Türk Tabipleri Birliği, hekimlikte cinsiyet ayrımcılığının kabul edilemez olduğunu vurguladı.
-• Yeni doğan çetesiyle ilgili adli tıp raporu tamamlandı.
-• 10 bebeğin açlık ve yanlış tedavi nedeniyle öldüğü açıklandı.
-• Sanıklar hakkında ağırlaştırılmış müebbet ceza talep edilebileceği belirtildi.
-• Kadına yönelik şiddet ve cinayetler gündemde.
-• Kayseri'de Neşe Karakaya, eşi tarafından öldürüldü.
-• Kadınlara yönelik taciz ifşa dalgası sosyal medyada yayılıyor.
-• 8.000 paylaşım, 34 milyon görüntülenme ile kadınlar arasında dayanışma arttı.
-• Eğitimde kız okulu açılması ve çocukların ayrıştırılması tartışılıyor.
-• Milli Eğitim Bakanı'nın açıklamaları tepki çekti, eğitimde birlik ilkesi hatırlatıldı.
-• Gerici adımların arttığı, okul, servis ve hastanede aktif mücadele gerektiği vurgulandı.
-• Memur sendikalarının haklarını yeterince korumadığı eleştiriliyor.
-• Sendikaların sahte pazarlıklarla memurları hakem heyetine yönlendirdiği belirtiliyor.
-• Hakem heyetinin kararları memur taleplerinin çok altında kalıyor.
+• İBB dosyasında Fatih Keleş'in Aziz İhsan Aktaş'a suikast planladığı iddia edildi.
+• Mafya lideri Selahattin Yılmaz'ın adı suikast ve lüks araç galerisiyle gündeme geldi.
+• Savunma sanayi şirketlerine casusluk ve FETÖ bağlantısı suçlamalarıyla operasyon yapıldı.
+• MKY eski başkanı İsmet Sayhan ve Asan şirketinin sahibi tutuklandı.
+• Devlet kurumlarında yozlaşma ve adalet sisteminde intikam, haksızlık iddiaları öne çıktı.
+• AK Parti döneminde hakim ve savcı sayısı arttı, liyakat ve kadro kalitesi sorgulandı.
+• AKP-MHP ittifakında siyasi dengeler ve bağımlılık tartışmaları yaşanıyor.
+• CHP'de kurultay, adaylık ve parti içi tartışmalar gündemde.
+• Özgür Özel'e miting sonrası yeni soruşturmalar açıldı, Adalet Bakanı'nın açıklamaları tepki çekti.
+• AK Partili belediyelerde yolsuzluk dosyaları savcılığa sunuldu, işlem yapılması bekleniyor.
+• Konya'da bir göz doktorunun uygunsuz davranışı büyük tepki topladı, görevden alma çağrısı yapıldı.
+• Devletin şirketleşmesi, şeffaflık eksikliği ve siyasi operasyon iddiaları öne çıkıyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Fatih Altayli]() (⏱️ 00:00-00:00)
-- [Unsal Unlu](https://www.youtube.com/watch?v=frYRR6UpBWA&t=1146s) (⏱️ 19:06-20:17)
-- [Bahar Feyzan]() (⏱️ 00:00-00:00)
+- [Serdar Akinan]() (⏱️ 00:00-00:00)
+- [Fatih Altayli](https://www.youtube.com/watch?v=ZflnFQuWZQg&t=256s) (⏱️ 04:16-05:28)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=kKnjU9FyuG8&t=1500s) (⏱️ 25:00-28:30)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=xTMOhWkRJ4M&t=153s) (⏱️ 02:33-06:45)
+- [Onlar TV](https://www.youtube.com/watch?v=B2v1m9EPOFM&t=1956s) (⏱️ 32:36-56:17)
 
 ---
 
-## 3. CHP'li Belediyelere Soruşturma, Tutuklamalar ve Siyasi Tartışmalar Gündemde
+## 3. Türkiye'de Askeri Disiplin, Diyanet ve Mavi Vatan Tartışmaları Gündemde
 
-• Beyoğlu Belediye Başkanı İnan Güney tutuklandı, yolsuzluk ve troll ekibi kurmakla suçlanıyor.
-• Tutuklama, Ekrem İmamoğlu soruşturmaları kapsamında gerçekleşti.
-• CHP Genel Başkanı Özgür Özel, tutuklamanın siyasi olduğunu ve baskı yapıldığını söyledi.
-• Belediye meclis üyelerine rüşvet teklif edildiği iddia edildi, CHP'li üyeler parti değiştirmedi.
-• Beyoğlu'nda AK Parti dönemine ait harcamalarla ilgili dosya bulundu, ayrı soruşturma başlatıldı.
-• AK Parti'li Melih Gökçek'in Ankapark dosyasında takipsizlik kararı örnek gösterildi.
-• İstanbul Cumhuriyet Başsavcılığı, CHP'li belediyelerin eski ihalelerine soruşturma başlattı.
-• Ekrem İmamoğlu'nun bir avukatının gözaltına alınması gündemde.
-• Mücahit Birinci'nin tutuklu serbest bırakmak için para istediği iddiası ortaya atıldı.
-• Avrupalı belediye başkanları Silivri Cezaevi'nde İmamoğlu ile görüşmek istedi, izin verilmedi.
-• Demokrasi ödülü Dilek İmamoğlu'na teslim edildi, Avrupa basınına Türkiye'deki tutuklamalarla ilgili çağrı yapıldı.
-• CHP'li Deniz Yavuz Yılmaz, Erdoğan'ın İBB başkanlığı döneminde aldığı maaşları belgeledi, çoklu maaş ve kamu etik sorunları gündeme geldi.
-• Son anketlerde Mansur Yavaş ve Ekrem İmamoğlu'nun cumhurbaşkanı adayı olması durumunda Erdoğan'a karşı önde olduğu görüldü.
-• Meral Akşener'in Mansur Yavaş'a İyi Parti başkanlığını teklif ettiği iddiası Yavaş tarafından reddedildi.
-• Erken seçim ihtimali düşük, AK Parti'nin 2027'den önce seçim yapması beklenmiyor.
+• Teknofest töreninde bir amiralın maket masa ayağı taşıması tepki çekti
+• Askeri protokol ve disiplin eksikliği eleştirildi
+• Milli Savunma Bakanı'nın sivil kıyafetli olması tartışıldı
+• Askerlerin yürüyüşünde disiplinsizlik olduğu belirtildi
+• Komutanların davranışlarının askerlere olumsuz yansıdığı söylendi
+• Türkiye'nin askeri komuta yapısının zayıflığı ve motivasyon eksikliği vurgulandı
+• İsrail'in Suriye'de operasyon yaptığı, Türk istihbarat cihazlarının ele geçirildiği iddia edildi
+• Diyanet İşleri Başkanı Ali Erbaş'ın Atatürk'ü anmaması eleştirildi
+• Diyanet'in Atatürk'e karşı tutumu ve halktan kopuk görüntüsü tartışıldı
+• Emniyet Genel Müdürlüğü'nün 30 Ağustos paylaşımı sonrası bir personelin başka bir birime gönderilmesi eleştirildi
+• Mavi Vatan doktrini ve Türkiye'nin deniz hakları gündeme geldi
+• Cihat Yaycı'nın Teknofest'e davet edilmemesi eleştirildi
+• Türkiye'nin Doğu Akdeniz'deki sondaj faaliyetlerinin durduğu belirtildi
+• Gençlerin kültürel etkinliklere erişimi ve kılık kıyafet tartışmaları gündeme geldi
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=frYRR6UpBWA&t=93s) (⏱️ 01:33-08:07)
-- [Murat Yetkin](https://www.youtube.com/watch?v=ikWLaioOEDY&t=70s) (⏱️ 01:10-04:42)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=JVZy1wF1McI&t=2560s) (⏱️ 42:40-47:43)
-- [Bahar Feyzan]() (⏱️ 00:00-00:00)
-- [Fatih Altayli]() (⏱️ 00:00-00:00)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=xTMOhWkRJ4M&t=1668s) (⏱️ 27:48-29:19)
+- [Serdar Akinan]() (⏱️ 00:00-00:00)
+- [Fatih Altayli](https://www.youtube.com/watch?v=ZflnFQuWZQg&t=2396s) (⏱️ 39:56-53:21)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=kKnjU9FyuG8&t=2040s) (⏱️ 34:00-36:00)
 
 ---
 
-## 4. Türkiye Gündeminde Yolsuzluk, İfşalar, Medya ve Toplumsal Tartışmalar
+## 4. Mehmet Baykan'ın Pazar Alışverişi Açıklamaları, Cezaevinden Notlar ve Türkiye'de Ekonomik Gerçekler
 
-• Beyoğlu Belediye Başkanı Aziz İhsan Aktaş hakkında yeni bir yolsuzluk soruşturması açıldı.
-• Aktaş, televizyon röportajında kaçmayacağını ve duruşmalarda her şeyi anlatacağını söyledi.
-• Aktaş'ın geçmişteki iddiaları nedeniyle bazı kişilerin tutuklu olduğu öne sürüldü.
-• Aktaş'ın yayında yeni iddialar ortaya atmasının hukuki sorunlara yol açabileceği tartışılıyor.
-• Medya, sanat ve akademi dünyasında taciz ifşaları gündemde. Kaan Sezum iddiaları kabul etti ve özür diledi. Bir Gün gazetesi Sezum ile yollarını ayırdı.
-• Tulu Özlü de ifşa paylaştı ve ölüm tehditleri aldı.
-• Ekol TV'nin satıldığı iddia edildi, kime satıldığı bilinmiyor.
-• Fatih Altaylı'nın tutukluluğu 68. gününde. Cezaevinden notlar paylaşıyor, sağlık durumu iyi.
-• Ayhan Can Güven DTM yarışında birinci oldu. Altaylı cezaevinde olduğu için yarışlara katılamıyor.
-• Toplumda yozlaşma ve Diyanet İşleri'nin tartışmalı uygulamaları gündemde. Diyanet'in kadınların giyimiyle ilgili hutbeleri eleştiriliyor.
-• Diyanet'in kitap yasaklama yetkisi aldığı, bunun hukuk sisteminde değişiklik gerektirdiği belirtiliyor.
-• Din ve toplumsal yozlaşma üzerine değerlendirmeler yapılıyor. Dini söylemlerin yanlış kullanıldığı ve düşünce özgürlüğünün önemine dikkat çekiliyor.
-• Mehmet Ali Erbil, kendisinden 40 yaş küçük sevgilisiyle yeniden evlendi.
+• Fatih Altaylı'nın tutukluluğu 69. gününde devam ediyor.
+• Altaylı cezaevinden notlar gönderiyor, özgürlük ve demokrasi özlemini dile getiriyor.
+• Cezaevinde yapılan alışverişin maliyeti, AK Parti Konya Milletvekili Mehmet Baykan'ın "haftada 250 TL yeter" iddiasının gerçekçi olmadığını gösteriyor.
+• Baykan'ın açıklamaları halktan kopukluk olarak eleştiriliyor.
+• Türkiye'de gelir adaletsizliği ve Gini katsayısının yüksekliği vurgulanıyor.
+• Ali Babacan'ın sosyal yardımlar ve varlık dağılımı hakkındaki eleştirileri aktarılıyor.
+• Cezaevinde Altaylı'nın moralinin iyi olduğu, kitap okuduğu ve koşullara uyum sağladığı belirtiliyor.
+• Ekonomiyle ilgili Mehmet Şimşek'in enflasyon beklentilerinin düştüğüne dair açıklamaları eleştiriliyor.
+• Pazarda fiyatların yüksek olması, AK Parti'nin halkın sorunlarından uzaklaştığı şeklinde yorumlanıyor.
+• Magazin gündeminde Ebru Gündeş'in suç örgütüyle bağlantılı olabileceği iddiası yer alıyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=JVZy1wF1McI&t=2368s) (⏱️ 39:28-42:06)
-- [Bahar Feyzan]() (⏱️ 00:00-00:00)
-- [Fatih Altayli]() (⏱️ 00:00-00:00)
+- [Fatih Altayli](https://www.youtube.com/watch?v=ZflnFQuWZQg) (⏱️ 00:00-02:34)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=xTMOhWkRJ4M&t=803s) (⏱️ 13:23-16:31)
 
 ---
 
-## 5. Türkiye Savunma Sanayinde Casusluk Operasyonları ve Yerli Hava Savunma Sistemi Gelişmeleri
+## 5. Fahrettin Altun'un Oğlunun Şirketi ve Bürokrat Çocuklarının Hızlı Zenginleşmesi Tartışması
 
-• Türkiye'de savunma sanayi şirketlerinde casusluk ve FETÖ suçlamalarıyla operasyonlar yapıldı.
-• MKE eski başkanı İsmet Sayhan, askeri casusluk ve FETÖ üyeliğiyle suçlanarak tutuklandı.
-• Assan Grup'un sahipleri gözaltına alındı, şirkete kayyum atandı ve bağlı 10 şirkete el kondu.
-• Bahçeli'ye yakın isimlerin de soruşturmada yer alması dikkat çekti.
-• Ankara'da askeri casusluk nedeniyle kırmızı alarm verildi.
-• Savunma sanayinde devlet ve özel sektör arasında bilgi sızdırma ve güvenlik tartışmaları yaşanıyor.
-• Paravan şirketler üzerinden uluslararası silah ve mühimmat satışları yapıldığı iddia edildi.
-• Türkiye'nin Sırbistan üzerinden Ukrayna'ya mühimmat gönderdiği iddiası Rusya tarafından araştırılıyor.
-• Savunma sanayinde son yıllarda büyük büyüme yaşandı; sektörün büyüklüğü 7 milyar dolara ulaştı.
-• Erdoğan, MKE'nin statüsünü değiştirerek anonim şirkete dönüştürdü, özel sektöre yatırım teşviki verildi.
-• ASELSAN ve Roketsan gibi şirketler, yerli savunma teknolojilerinin geliştirilmesinde önemli rol oynadı.
-• Türkiye, tamamen yerli imkanlarla 'Çelik Kubbe' adlı hava savunma sistemini geliştirdi.
-• Çelik Kubbe; Siper, Hisar, Korkut, Puhu ve Redet sistemlerinden oluşuyor.
-• Cumhurbaşkanı Erdoğan, ASELSAN'ın yeni teknoloji üssünü ve çelik kubbenin envantere girdiğini açıkladı.
-• Savunma sanayindeki gelişmeler övülürken, toplumdaki yoksulluk da hatırlatıldı.
-• Sektörde kamu şirketlerinden özel şirketlere geçiş ve siyasi bağlantılar tartışılıyor.
+• Fahrettin Altun'un oğlu Mustafa Bilge Altun, 20 yaşında MBA adlı bir şirket kurdu
+• Şirketin sermayesi 3 yılda 500 bin TL'den 210 milyon TL'ye yükseldi
+• Şirket yazılım, otomotiv, tarım ve ticaret alanlarında faaliyet gösteriyor
+• Tarımda büyük arazilerde domates, muz, yaban mersini üretiyor; ürünler büyük marketlerde satılıyor
+• Şirketin 500'e yakın çalışanı olduğu iddia ediliyor (mevsimlik işçiler dahil)
+• Arazilerin bir kısmı hazineden kiralanmış olabilir
+• Şirketin devlet teşviklerinden ve desteklerinden yararlanıp yararlanmadığı tartışılıyor
+• Şirketin vergi ödemediği, gelir-gider dengesinin matrahsız olduğu belirtildi
+• Mustafa Bilge Altun'un ailesi ve akrabalarının desteğiyle bu başarıya ulaştığı iddia edildi
+• Bürokrat ve siyasetçi çocuklarının hızlı zenginleşmesi kamuoyunda eleştiriliyor
+• Binali Yıldırım'ın oğlunun şirketleri ve diğer üst düzey kamu görevlilerinin çocuklarının servetleri de gündeme getirildi
+• İddialar sosyal medyada ve basında geniş tartışma yarattı
+• Bazı AK Parti üyeleri ve gazeteciler de konuyu sorguladı, parti içi çekişmeler yaşandı
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=frYRR6UpBWA&t=2523s) (⏱️ 42:03-42:16)
-- [Murat Yetkin](https://www.youtube.com/watch?v=ikWLaioOEDY&t=282s) (⏱️ 04:42-20:57)
-- [Serdar Akinan](https://www.youtube.com/watch?v=pd2J-mpeTfc&t=10s) (⏱️ 00:10-00:39)
-- [Bahar Feyzan]() (⏱️ 00:00-00:00)
+- [Serdar Akinan]() (⏱️ 00:00-00:00)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=kKnjU9FyuG8&t=465s) (⏱️ 07:45-10:30)
+- [Onlar TV](https://www.youtube.com/watch?v=B2v1m9EPOFM&t=680s) (⏱️ 11:20-32:36)
 
 ---
 
-## 6. Türkiye'de Ekonomik Kriz, Eğitimde Sorunlar ve Toplumsal Eşitsizlik Derinleşiyor
+## 6. Türkiye'de Ekonomik Zorluklar: Vergi Artışları, Döviz Açığı ve İstihdam Sorunları
 
-• Türkiye'de sendikalaşma oranı tarihinin en düşük seviyesinde.
-• DİSK sendikalaşmanın artırılması için yeni yol haritası hazırladı.
-• Motorin ve benzine büyük zam geldi, gram altın rekor kırdı.
-• Döviz kurları yükseldi, tüketici güveni dipte.
-• Vergi gelirlerinin büyük kısmı faize gidiyor.
-• Asgari ücret görüşmeleri Eylül'de başlayacak.
-• Bern Büyükelçisi'nin yabancı dil bilmemesi ve yüksek maaşlar liyakat tartışması yarattı.
-• Türkiye'de gelir dağılımı adaletsizliği ve orta sınıfın yok olması eleştirildi.
-• Üniversiteye giriş ve mezuniyet zorlaştı, kontenjanlar azaldı, özel üniversite ücretleri yüksek.
-• Son 5 yılda 800.000 öğrenci üniversiteyi bıraktı veya kaydını dondurdu.
-• Genç işsizliği %34'e ulaştı, iyi eğitim alan gençler yurt dışına gidiyor.
-• Emekli maaşlarında büyük uçurum var, 14 milyon emekliye yeterli zam verilmedi.
-• Okul masrafları 10.000 TL'yi buluyor, beslenme ve ulaşım giderleri aileleri zorluyor.
-• Çocukların açlık sorunu ve devletin yetersizliği eleştiriliyor.
+• Emlak vergileri ve tapu harçlarında büyük artışlar yaşanıyor
+• Raiç bedeller bazı bölgelerde %400'e kadar yükseldi
+• Bu artışlar sıradan ev sahiplerini ve kiracıları da etkiliyor
+• Vatandaşlar yüksek vergiler nedeniyle dava açıyor
+• Gayrimenkul piyasasında fiyatlar ve vergiler yükseliyor
+• Kur korumalı mevduat sistemi ekonomiye 58-60 milyar dolar maliyet getirdi
+• Merkez Bankası büyük zararlar açıkladı, faiz ödemeleri arttı
+• Ülkenin kaynakları verimsiz kullanılıyor, israf eleştiriliyor
+• Türkiye'nin net döviz pozisyon açığı 18,8 milyar dolara yükseldi
+• Şirketlerin döviz borcu varlıklarından fazla
+• Vergi sisteminde dengesizlik var, dolaylı vergiler çok yüksek
+• Enflasyon oranı dünyada üst sıralarda, hedefler tutturulamıyor
+• Bütçede büyük açık var, ekonomik hedeflerde belirsizlik sürüyor
+• İşsizlik verileri kötü, geniş tanımlı işsizlik %30 civarında
+• Kadın istihdamı erkeklerden daha düşük, sanayi istihdamı azalıyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=JVZy1wF1McI&t=7s) (⏱️ 00:07-05:27)
-- [Bahar Feyzan]() (⏱️ 00:00-00:00)
-- [Fatih Altayli]() (⏱️ 00:00-00:00)
-- [Unsal Unlu](https://www.youtube.com/watch?v=frYRR6UpBWA&t=2343s) (⏱️ 39:03-39:59)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=QWRmLe5JfDw&t=61s) (⏱️ 01:01-05:41)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=xTMOhWkRJ4M&t=702s) (⏱️ 11:42-13:23)
+- [Ozlem Gurses]() (⏱️ 00:00-00:00)
 
 ---
 
-## 7. Milli Birlik Komisyonu'nda Baroların Talepleri ve Katılım Tartışmaları
+## 7. Fenerbahçe'de Mourinho Krizi ve Türk Futbolunda Teknik Direktör Değişiklikleri
 
-• Milli Birlik, Dayanışma ve Demokrasi Komisyonu'nda Türkiye'nin farklı illerinden baro başkanları dinlendi.
-• Barolar Birliği Başkanı Erinç Sağkan, insan hakları kararlarının uygulanmasını ve tutuklu siyasetçilerin serbest bırakılmasını istedi.
-• Baro başkanları, hukuksuzlukların giderilmesi, yeni terör yasası ve toplumsal diyalog talep etti.
-• Komisyonun amaçları arasında terörün gündemden çıkarılması, toplumsal bütünleşme ve demokrasi çalışmaları var.
-• CHP milletvekilleri komisyonun işleyişini ve amacını eleştirdi.
-• MHP'li Fethi Yıldız, komisyonun temel amacının PKK'nın silah bırakması olduğunu söyledi.
-• İstanbul Barosu, komisyona katılmadı ve demokratik meşruiyet ile anayasanın uygulanmamasını gerekçe gösterdi.
-• Barolar, komisyona sembolik değil, ciddi şekilde davet edilmek istiyor.
-• Komisyonun toplumsal desteği tam olarak arkasında olmadığı belirtildi.
+• Fenerbahçe'de Jose Mourinho'nun gönderilmesi gündemde.
+• Mourinho'nun ayrılması için yüksek tazminat konuşuluyor.
+• Mourinho'nun gelişi Aziz Yıldırım'ın projesiydi, Ali Koç tarafından takıma alındı.
+• Takımda transfer ve kamp süreçlerinde sorunlar yaşandı.
+• Mourinho yönetimle anlaşmazlıklar yaşadı ve eleştirilerde bulundu.
+• Fenerbahçe'de başkanlık seçimleri yaklaşıyor; Ali Koç, Aziz Yıldırım ve Saadettin Saran'ın adaylıkları tartışılıyor.
+• Kulüp içi dengeler ve Fenerbahçe'nin geleceği analiz edildi.
+• Beşiktaş'ta ise teknik direktör değişikliği oldu, Sergen Yalçın ile anlaşıldı.
+• Sergen Yalçın'ın başarılı olabileceği düşünülüyor.
+• Fenerbahçe'de ise teknik direktör konusunda sert eleştiriler var.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=UmczXhjhHLw) (⏱️ 00:00-02:35)
-- [Fatih Altayli]() (⏱️ 00:00-00:00)
+- [Rusen Cakir](https://www.youtube.com/watch?v=8FuT93DryDE&t=3s) (⏱️ 00:03-12:16)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=kKnjU9FyuG8&t=30s) (⏱️ 00:30-04:00)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=xTMOhWkRJ4M&t=1920s) (⏱️ 32:00-35:00)
 
 ---
 
-## 8. Ekonomik Zorluklar: Emlak Vergisi, Rayiç Bedel ve Temel Gıda Fiyatlarında Büyük Artış
+## 8. Türkiye'de Diplomatik Kimlikler ve Yargı Üzerindeki Baskılar: Dolandırıcılık, Yolsuzluk ve Uluslararası Güven Sorunu
 
-• Emlak vergilerinde rayiç bedeller %400'e varan oranlarda arttı.
-• Şişli Teşvikiye'de 80 m² evin vergisi 7.441 TL'den 67.200 TL'ye çıkacak.
-• Bu artış tapu harçlarını ve konut fiyatlarını da yükseltti.
-• Vatandaşlar yüksek vergiler nedeniyle dava açıyor.
-• Yeni rayiç bedeller kiraları ve ev fiyatlarını etkiliyor.
-• Çevre ve Şehircilik Bakanlığı ülke genelinde değer haritası çalışması başlattı.
-• 7 Eylül'e kadar itiraz hakkı var, sonrasında yeni bedeller geçerli olacak.
-• Emlak vergisi artışlarının mülksüzleştirme ve ekonomik zorluklara yol açacağı tartışılıyor.
-• Emlak vergisi ödemelerinde kolaylık sağlanması önerildi.
-• Temel gıda fiyatlarında da büyük artışlar yaşanıyor.
-• AKP'li vekil haftalık alışverişin 200-250 TL'ye yapılabileceğini iddia etti, bu açıklama tepki çekti.
-• Meyve ve sebze fiyatlarının yüksekliği, halkın alım gücünün düşüklüğü vurgulandı.
-• Gübre fiyatları 2 ayda %39 arttı, denetim eksikliği eleştirildi.
-• Üretim eksikliği ve yüksek borçlar nedeniyle ekonominin düzelmeyeceği görüşü dile getirildi.
+• Dolandırıcılar Berlin Büyükelçisi'nin kimliğini kullanarak savcıları aradı ve gizli dosya bilgisi istedi
+• Büyükelçiliğin numarası kopyalanarak birçok savcılık arandı, bazı savcılar şüphelenip tutanak tuttu
+• Dolandırıcılar yapay zeka ile ses taklidi yapmış olabilir, olayda Ramazan Erkul dosyası öne çıktı
+• ABD Büyükelçisi Tom Barak'ın Türkiye'deki diplomatik tutumu eleştirildi, diğer diplomatlarla iletişim kurmadığı iddia edildi
+• Barak'ın özel uçağı ve askeri üs kullanımı dikkat çekti
+• CHP İstanbul Kongresi'nde 10 yönetici hakkında yolsuzluk iddiası ve hapis cezası talebi gündeme geldi
+• Kongredeki usulsüzlükler parti içi dengeleri etkileyebilir, CHP'nin oy oranı analiz edildi
+• Türkiye'de Casperlar ve Daltonlar adlı suç örgütleri tartışıldı
+• Almanya, Türkiye'deki hukuk sistemine güvenmediği için suçluları iade etmiyor
+• Bu durum Türkiye'nin uluslararası imajına zarar veriyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=JVZy1wF1McI&t=433s) (⏱️ 07:13-36:32)
-- [Bahar Feyzan]() (⏱️ 00:00-00:00)
-- [Unsal Unlu](https://www.youtube.com/watch?v=frYRR6UpBWA&t=659s) (⏱️ 10:59-17:20)
+- [Onlar TV](https://www.youtube.com/watch?v=B2v1m9EPOFM&t=160s) (⏱️ 02:40-11:20)
+- [Fatih Altayli](https://www.youtube.com/watch?v=ZflnFQuWZQg&t=582s) (⏱️ 09:42-11:50)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=kKnjU9FyuG8&t=900s) (⏱️ 15:00-25:00)
 
 ---
 
-## 9. Türkiye'de Tarih, Dış Politika ve Gazze Krizi: Tepkiler ve Tartışmalar
+## 9. Terör Örgütleri ve ABD'nin Rolü Tartışma Yarattı
 
-• İsrail'in Gazze'ye saldırıları, Hitler dönemine benzetiliyor.
-• Batı ülkelerinde sivil toplum ve sanatçılar İsrail'e tepki gösteriyor.
-• İslam ülkelerinde hükümetler ve halklar yeterli tepki vermiyor.
-• Hollanda'da bakanlar istifa etti, İslam dünyasında sessizlik var.
-• Büyük Taarruz fotoğrafından Atatürk'ün silinmesi tartışılıyor.
-• Tarihi zaferlerin liderleriyle anılması gerektiği vurgulanıyor.
-• Atatürk'süz Büyük Taarruz'un anılamayacağı belirtiliyor.
-• Erdoğan, Suriye ve ABD'ye yönelik dış politika mesajları verdi.
-• Suriye'deki süreç ve SDG ile ilgili değerlendirmeler yapıldı.
-• Türkiye'nin dış politikada güven sorunu yaşadığı belirtildi.
-• Atatürk'ün ulus olma ve barış vizyonuna vurgu yapıldı.
+• Terör örgütlerinin silah teslimi sürecinde şeffaflık eksikliği var.
+• Silah ve personel listesi paylaşılmıyor.
+• Yabancı devlet temsilcileri teslim törenlerine katılıyor, bu durum eleştiriliyor.
+• Silahlı eyleme karışmamış teröristlerin topluma karışması riskli bulunuyor.
+• Tom Barrack, ABD'nin HTŞ ve IŞİD gibi terör örgütlerini desteklediğini açıkladı.
+• Bu açıklamalar Amerikan diplomasisinde rahatsızlık yarattı.
+• Diplomatik bir kriz yaşanabileceği öngörülüyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Fatih Altayli]() (⏱️ 00:00-00:00)
-- [Unsal Unlu](https://www.youtube.com/watch?v=frYRR6UpBWA&t=1878s) (⏱️ 31:18-33:56)
+- [Fatih Altayli](https://www.youtube.com/watch?v=ZflnFQuWZQg&t=1746s) (⏱️ 29:06-39:56)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=xTMOhWkRJ4M&t=1795s) (⏱️ 29:55-32:00)
 
 ---
 
-## 10. Mehmet Ali Erbil'in Genç Sevgilisiyle Yeniden Evliliği
+## 10. Konya Meram Devlet Hastanesi'nde Göz Doktoru Skandalı
 
-• Mehmet Ali Erbil, kendisinden 40 yaş küçük sevgilisi Gülsenen Ceylan ile yeniden evlendi.
-• Evlilik töreninden kısa röportajlar ve kutlamalar yer aldı.
+• Konya'da bir göz doktorunun bir kız çocuğuna uygunsuz davranışı gündem oldu.
+• Doktorun davranışı 'sapıklık' olarak nitelendirildi.
+• Sağlık Bakanı ve Tabipler Birliği'ne görevden alma çağrısı yapıldı.
+• Kadınların ve çocukların bu tür hekimlere güvenmemesi gerektiği vurgulandı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan]() (⏱️ 00:00-00:00)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=xTMOhWkRJ4M&t=991s) (⏱️ 16:31-19:09)
+
+---
+
+## 11. Siyasi ve Hukuki Kurumlarda Karar ve İstifa Gelişmeleri
+
+• İstanbul Barosu Başkanı İbrahim Kaboğlu, komisyona son anda davet edildiği için katılmama kararı aldı.
+• Kaboğlu'nun insan hakları alanındaki uzmanlığı nedeniyle gitmemesi haklı bulundu.
+• Komisyonun işlevsizleşme riski olduğu belirtildi.
+• AK Parti Karabük Belediye Meclis Üyesi İrfan Topçu, arabasının çekilmesinin ardından partisinden istifa etti.
+• Topçu'nun partiye avantaj sağlama beklentisiyle girdiği, beklentisi karşılanmayınca istifa ettiği ifade edildi.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Fatih Altayli](https://www.youtube.com/watch?v=ZflnFQuWZQg&t=878s) (⏱️ 14:38-15:24)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=xTMOhWkRJ4M&t=1759s) (⏱️ 29:19-29:55)
 
 ---
 
