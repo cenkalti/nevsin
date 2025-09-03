@@ -1,72 +1,132 @@
 # Bugün Ne Oldu?
 
-*3 September 2025 tarihli günlük haber raporu - 3 haber birleştirildi*
+*3 September 2025 tarihli günlük haber raporu - 5 haber birleştirildi*
 
-## 1. CHP İstanbul İl Başkanlığı'na Kayyum Atanması ve Parti İçi Kriz
+## 1. Enflasyon, Zamlar ve Sosyal Yardımlar Türkiye Gündeminde
 
-• İstanbul 45. Asliye Hukuk Mahkemesi, CHP İstanbul İl Başkanı ve yönetimini görevden uzaklaştırdı.
-• Mahkeme, kayyum (çağrı heyeti) atanmasına karar verdi; başkanlığa Gürsel Tekin seçildi.
-• CHP yönetimi, kararı tanımadığını ve mücadeleye devam edeceğini açıkladı.
-• Gürsel Tekin ve kayyum heyetinde yer alan bazı isimler partiden ihraç edildi.
-• Parti içinde kayyum atanması ve ihraçlar büyük tartışma yarattı.
-• Hukukçular, mahkemenin böyle bir karar alma yetkisi olmadığını savunuyor.
-• CHP, karara karşı mitingler ve hukuki itirazlar planlıyor.
-• Parti tabanında öfke ve kırgınlık var; dayanışma ve kenetlenme çağrıları yapılıyor.
-• Kararın siyasi ve hukuki boyutları tartışılıyor; çok partili hayatın riske girdiği iddia ediliyor.
-• 15 Eylül'de CHP'nin büyük kurultayının iptali ve tüm partiye kayyum atanması endişesi var.
-• İstanbul il ve ilçe kongreleri mahkeme kararıyla durduruldu.
-• CHP yönetimi İstanbul'a taşındı ve büyük bir miting planladı.
-• Operasyonlar kapsamında bazı CHP'li belediye çalışanları gözaltına alındı.
-• Gürsel Tekin, görevinin başında olduğunu açıkladı; istifa etmediğini, üyeliğini kalbine gömdüğünü söyledi.
-• CHP'de iç çekişmeler ve parti yönetimine yönelik eleştiriler arttı.
+• Enflasyon rakamları beklentilerin üzerinde geldi.
+• ENAK yıllık enflasyonu %65.49, TÜİK ise %32.95 olarak açıkladı.
+• Enflasyon verileri arasında büyük fark var.
+• Türkiye'de dezenflasyon programı uygulanıyor ama sonuç alınamıyor.
+• Motorine 2 lira 5 kuruş zam yapıldı.
+• Akaryakıt zamları nakliye maliyetlerini artırıyor, sebze-meyve fiyatları yükseliyor.
+• Kira artış oranı %39.62 olarak belirlendi, bu oran haksızlık olarak değerlendirildi.
+• Raiç bedel (emlak vergisi için değer belirleme) konusunda yüksek fiyatlar ve mahkemeye başvurular arttı.
+• Cumhurbaşkanı raiç bedellere tepki gösterdi, düşürülmesini istedi.
+• Bir kız çocuğunun kahvaltılık talebi sosyal yardımların yetersizliğini gösterdi.
+• Gönüllülerin yardımları geçici çözüm sağlıyor.
+• Sosyal devletin kalıcı çözüm üretmesi gerektiği vurgulandı.
+• AK Parti'nin sosyal yardımları oy kaynağı olarak gördüğü iddia edildi.
+• Ekonomik sorunlar siyasi tartışmalar arasında geri planda kalıyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=6tJEEsRtIT4&t=252s) (⏱️ 04:12-11:14)
-- [Rusen Cakir](https://www.youtube.com/watch?v=9wHl219-7xk&t=4s) (⏱️ 00:04-13:55)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=A-zjUjd3Kcw&t=30s) (⏱️ 00:30-14:00)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=A-zjUjd3Kcw&t=2514s) (⏱️ 41:54-43:59)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=XA8nTopuesI&t=1014s) (⏱️ 16:54-20:35)
+
+---
+
+## 2. CHP İstanbul İl Başkanlığı'na Kayyum Atanması ve Parti İçi Kriz: Siyasi ve Hukuki Süreçler
+
+• İstanbul 45. Asli Hukuk Mahkemesi, CHP İstanbul İl Başkanı ve yönetimini görevden tedbiren uzaklaştırdı.
+• Mahkeme, mevcut yönetimi görevden aldı ve çağrı heyeti/kayyum atadı; yeni yönetim ve disiplin kurulu oluşturuldu.
+• Karar, CHP'li bazı delegelerin açtığı dava üzerine alındı; 15 Eylül'deki kurultay davası ile bağlantılı olduğu konuşuluyor.
+• CHP yönetimi, kayyum olarak atanan Gürsel Tekin'i partiden ihraç etti; Tekin, ihraç kararına tepki gösterdi.
+• Kararın gerekçesiz ve siyasi olduğu, hukuki dayanağının zayıf olduğu iddia ediliyor; CHP karara itiraz edecek.
+• CHP'nin olağanüstü kurultay süreci ve delege yapısı tartışmalı; seçim kurulu mevcut delegeleri tanımayabilir.
+• Parti içinde liderlik, bölünme ve koltuk mücadeleleri yaşanıyor; Kılıçdaroğlu'nun geri dönme ihtimali gündemde.
+• CHP tabanı ve muhalefet, kayyum kararına karşı miting ve protestolarla tepki gösteriyor; katılımın yüksek olması bekleniyor.
+• MHP ve Devlet Bahçeli, CHP'yi sert şekilde eleştiriyor; Cumhur İttifakı'nın desteği sürüyor.
+• İktidar, CHP'nin birinci parti olmasından sonra yeni stratejiler geliştiriyor; CHP'nin zayıflatılması hedefleniyor.
+• CHP'nin bölünme riski ve toplumsal rıza tartışılıyor; parti içi dayanışma ve demokrasi vurgusu öne çıkıyor.
+• Sürecin ekonomiye ve siyasi istikrara etkileri tartışılıyor.
+
+**Bu haberi kapsayan muhabirler:**
+
 - [Deniz Zeyrek](https://www.youtube.com/watch?v=XA8nTopuesI&t=20s) (⏱️ 00:20-03:54)
-- [Unsal Unlu](https://www.youtube.com/watch?v=Yhe-eTXZw7c&t=38s) (⏱️ 00:38-19:27)
-- [Murat Yetkin](https://www.youtube.com/watch?v=tjaqpPfM3KU&t=4s) (⏱️ 00:04-02:45)
+- [Rusen Cakir](https://www.youtube.com/watch?v=eVkBPBW0y9g&t=3s) (⏱️ 00:03-09:34)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=6tJEEsRtIT4&t=241s) (⏱️ 04:01-11:19)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=A-zjUjd3Kcw&t=21s) (⏱️ 00:21-30:53)
+- [Serdar Akinan](https://www.youtube.com/watch?v=N9CbS0luzqc&t=3s) (⏱️ 00:03-08:19)
 
 ---
 
-## 2. Siyasi Belirsizlikler ve Mahkeme Kararları Piyasalarda Sert Dalgalanma Yarattı
+## 3. Türkiye ve Dünya Gündeminde Siyasi, Toplumsal ve Güvenlik Sorunları
 
-• Siyasi gelişmeler ve mahkeme kararları sonrası borsada sert düşüş yaşandı
-• Borsa endeksinde devre kesme oranı %5'ten %6'ya çıkarıldı, bu piyasaya müdahale hazırlığı olarak yorumlandı
-• Tahvil piyasasında faizler hızla yükseldi, yabancı yatırımcılar satış yaptı
-• Merkez Bankası döviz satarak piyasayı destekledi, rezervler bu amaçla kullanıldı
-• Eylül ayında siyasi ve hukuki gelişmelerin piyasalar üzerinde baskı oluşturacağı belirtildi
-• 15 Eylül'de beklenen mahkeme kararının siyasi ve ekonomik etkileri olacağı düşünülüyor
-• Ekonomide faiz indirimi beklentisi var, ancak siyasi belirsizlikler nedeniyle piyasalarda moral bozukluğu yaşanıyor
-• Küçük yatırımcılara ani alım-satımlardan kaçınmaları ve altın gibi güvenli limanlara yönelmeleri tavsiye edildi
-• Önümüzdeki günlerde enflasyon verisi, Merkez Bankası faiz kararı ve çeşitli davaların piyasaları etkilemesi bekleniyor
-• Ekonomik kırılganlık ve yabancı yatırımcıların tutumu tartışılıyor
+• Türkiye'de ekonomi, eğitim, ahlaksızlık ve uyuşturucu gibi büyük sorunlar var.
+• Toplumda adaletsizlik ve geçim sıkıntısı yaşanıyor.
+• Siyasi partiler ve delege sisteminin değişmesi gerektiği savunuluyor.
+• Siyasetin hizmet ve kamu görevi olması gerektiği vurgulanıyor.
+• Topluma birlik ve harekete geçme çağrısı yapılıyor.
+• Gezi Parkı örneğiyle farklı kesimlerin bir araya gelmesi hatırlatıldı.
+• Erken seçim tartışmaları gündemde. Özgür Özel erken seçim çağrısı yaptı.
+• Cumhurbaşkanı Erdoğan'ın seçimi 2027'ye bırakmak istediği iddia edildi.
+• Seçim tarihi değişikliği için Mecliste yeterli sandalye yok.
+• Milletvekili ve belediye başkanı transferleri konuşuluyor.
+• Seçimin 2028'de yapılması ve Erdoğan'ın aday olamaması olasılığı var.
+• Tanju Özcan, Kemal Kılıçdaroğlu'na istifa çağrısı yaptı.
+• ABD'nin YPG ile Suriye'de ortak operasyonları sürüyor.
+• Gazze'de kara harekatı ve insanlık krizi yaşanıyor.
+• Dünya genelinde korumacı ve izolasyonist politikalar artıyor.
+• Donald Trump'ın sağlık durumu ve spekülasyonlar gündemde.
+• Avrupa Komisyonu Başkanı'nın uçağı Rusya'nın siber saldırısına uğradı.
+• NATO'nun etkinliği ve müttefikliği sorgulanıyor.
+• Rusya'nın eski Sovyet ülkelerine siber saldırıları tartışılıyor.
+• Çin-İran stratejik işbirliği anlaşmasının etkisizliği vurgulanıyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=6tJEEsRtIT4&t=81s) (⏱️ 01:21-04:10)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=A-zjUjd3Kcw&t=2647s) (⏱️ 44:07-50:13)
+- [Serdar Akinan](https://www.youtube.com/watch?v=N9CbS0luzqc&t=607s) (⏱️ 10:07-13:39)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=XA8nTopuesI&t=551s) (⏱️ 09:11-11:43)
 
 ---
 
-## 3. CHP'ye Yönelik Saldırılar ve Demokrasi Mücadelesinde Dayanışma Çağrısı
+## 4. Siyasi Belirsizlik ve Mahkeme Kararları Türkiye Finans Piyasalarında Sert Dalgalanmalara Yol Açtı
 
-• CHP'ye iktidar tarafından siyasi ve yargı müdahaleleri yapılıyor
-• CHP, demokrasi ve hukukun korunması için mücadele ediyor
-• Sendikalar, akademi, iş dünyası ve medya baskı altında
-• CHP, ana muhalefet olarak büyük bir kitleyi temsil ediyor
-• Diğer muhalefet partilerinin desteği sınırlı, DEM Parti açık destek veriyor
-• Diğer partiler süreci izliyor, aktif destek vermiyor
-• CHP'nin il kongresi ve kurultayının mahkeme kararıyla iptal edilmesi eleştiriliyor
-• Bu müdahalelerin diğer partilere de sıçrayabileceği uyarısı yapılıyor
-• Dayanışmanın temelinin demokrasi ve hukuk olması gerektiği vurgulanıyor
-• CHP'nin pes etmeyeceği ve toplumsal muhalefetin öneminin arttığı belirtiliyor
-• Rejim değişikliği ve otoriterleşme tehlikesine karşı savunma çağrısı yapılıyor
+• İstanbul Borsası ve tahvil piyasasında sert düşüşler yaşandı
+• Borsa endeksi %6'ya yakın değer kaybetti, devre kesme oranı artırıldı
+• Yabancı yatırımcılar özellikle bankacılık ve tahvil piyasasında yoğun satış yaptı
+• Tahvil faizleri 2 yıllıklarda %36'dan %38-40'a yükseldi
+• Merkez Bankası döviz rezervlerinden müdahale etti, son günlerde 5 milyar dolara yakın dolar satıldı
+• 19 Mart sonrası rezervlerde 60 milyar dolar azalma oldu
+• Siyasi ve hukuki gelişmeler, özellikle CHP'ye kayyum atanması ve mahkeme kararları piyasada şok etkisi yarattı
+• Siyasi rekabetin azalması ve hukuksuzluk algısı yatırımcı güvenini zedeledi
+• Enflasyon beklentilerin üzerinde açıklandı, faiz kararı merakla bekleniyor
+• Eylül ayında riskler yüksek, yatırımcılar altın ve döviz bazlı ürünlere yöneliyor
+• Konkordato ve iflas başvurularında artış var, reel sektörde maliyetler yükseldi
+• Küçük yatırımcılara portföy çeşitlendirmesi ve TL bazlı risksiz ürünler tavsiye edildi
+• Piyasa, 11 Eylül'deki Merkez Bankası PPK toplantısı ve 15 Eylül'deki CHP kurultay davasına odaklandı
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=EQmUQ43IRU0&t=3s) (⏱️ 00:03-02:28)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=6tJEEsRtIT4&t=90s) (⏱️ 01:30-14:19)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=A-zjUjd3Kcw&t=2340s) (⏱️ 39:00-41:52)
+- [Rusen Cakir]() (⏱️ 00:00-00:00)
+
+---
+
+## 5. Türkiye'de Siyasi Düzen, Adalet ve Muhalefet Üzerindeki Baskılar Artıyor
+
+• Türkiye'de siyasi düzenin bozulduğu ve hukukun işlevsizleştiği iddia ediliyor.
+• Mahkemelerin ve Yargıtay'ın kararlarının siyasi olduğu öne sürülüyor.
+• Adaletin adil olmadığı, siyasi operasyonların muhalefete yapıldığı savunuluyor.
+• Avcılar ve Beşiktaş gibi CHP'li belediyelere operasyonlar düzenlendi, çok sayıda gözaltı oldu.
+• Operasyonların CHP'li belediyeleri çalışamaz hale getirdiği belirtiliyor.
+• Soruşturmaların siyasi olduğu ve sonuçlarının da siyasi olacağı iddia ediliyor.
+• İmamoğlu davasının TRT'de yayınlanması tartışılıyor; yayın talebi ve eşitlik endişeleri var.
+• Diyanet İşleri Başkanı Ali Erbaş'ın görev süresi bitmeden akraba atamaları yaptığı iddia ediliyor.
+• Atamaların liyakat yerine akrabalık ilişkisiyle yapıldığı eleştiriliyor.
+• Otoriter rejimlerde iktidarın muhalefeti bölmek için kooptasyon ve klikler yaratma stratejisi uyguladığı anlatılıyor.
+• Türkiye'de iktidarın rejimi değiştirme arayışı olduğu, toplum ve muhalefetin buna karşı direndiği belirtiliyor.
+• Ekonomik zorluklar birleşik bir direnişi güçlendiriyor.
+• Muhalefet ve halkın bu sürece destek verdiği, direnişin devam edeceği öngörülüyor.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=XA8nTopuesI&t=790s) (⏱️ 13:10-14:52)
+- [Rusen Cakir](https://www.youtube.com/watch?v=eVkBPBW0y9g&t=574s) (⏱️ 09:34-14:18)
+- [Serdar Akinan](https://www.youtube.com/watch?v=N9CbS0luzqc&t=250s) (⏱️ 04:10-11:20)
 
 ---
 
