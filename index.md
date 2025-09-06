@@ -1,56 +1,50 @@
 # Bugün Ne Oldu?
 
-*5 September 2025 tarihli günlük haber raporu - 2 haber birleştirildi*
+*6 September 2025 tarihli günlük haber raporu - 2 haber birleştirildi*
 
-## 1. CHP İstanbul İl Başkanlığı'nda Kayyum Atanması ve Parti İçi Kriz Derinleşiyor
+## 1. CHP'de Kayyum Tartışmaları ve Parti İçi Kriz Derinleşiyor
 
-• CHP İstanbul İl Başkanlığı'na mahkeme kararıyla kayyum atandı.
-• Gürsel Tekin, kayyum heyetinin başına getirildi.
-• Heyetteki Hasan Babacan ve Müjdat Gürbüz istifa etti, heyet üç kişiye düştü.
-• Eski ve yeni ekipler arasında parti içinde ciddi mücadele yaşanıyor.
-• Bazı CHP'lilerin iktidarla zımni anlaşma yaptığı iddia edildi.
-• CHP yönetimi, kayyum kararını hukuksuz buluyor ve binaları terk etmeyeceklerini açıkladı.
-• Defterlerin kayyumlara bırakılmayacağı, halk desteğiyle direnileceği konuşuluyor.
-• YSK, kayyum atanmasına yapılan itirazı reddetti; bazı ilçe kongrelerinin durdurulması kararını iptal etti.
-• Mahkeme kararının partide zincirleme siyasi krize yol açtığı belirtildi.
-• Gürsel Tekin'in geçmişi ve aidat borcunu yatırarak ihraç edilmemeye çalışması gündeme geldi.
-• CHP'nin program çalıştayı ve 15 Eylül'de görülecek kurultay davası kritik önemde.
-• Yargı müdahalesinin çok partili demokrasiyi zora sokabileceği vurgulandı.
-• AK Parti'nin CHP'ye yönelik operasyonlarında bazı CHP'lilerin rol aldığı iddia edildi.
-• CHP'nin son seçimlerde birinci parti olması ve birçok belediyeyi kazanması siyasi olarak güçlü olduğunu gösteriyor.
-• Canan Kaftancıoğlu, il başkanlığına girmeyeceğini açıkladı.
-• Müsavat Dervişoğlu'nun CHP'ye desteği Türk siyasi tarihinde nadir bir örnek olarak değerlendirildi.
+• Gürsel Tekin, eski CHP ekibiyle birlikte partiye müdahale çağrısı yaptı.
+• Videoda CHP'yi kurtarmaya geldiklerini söyledi.
+• Ekipten bazı isimler, görevi kabul etmediklerini açıkladı.
+• CHP'de kayyum ve çağrı heyeti tartışmaları yaşanıyor.
+• Parti içi mücadele, varlık-yokluk meselesine dönüştü.
+• İl başkanlığı ve kongre süreçlerinde kriz yaşanıyor.
+• Kayyum heyetinden bazı isimler çekildi, ayrışmalar arttı.
+• Veli Ağbaba ve diğer CHP'liler, yönetimi ve seçim kayıplarını eleştiriyor.
+• Kemal Kılıçdaroğlu'nun genel başkanlıkta kalması tartışılıyor.
+• Parti tabanında değişim talebi ve Kılıçdaroğlu'na tepki var.
+• Gürsel Tekin'in geçmişteki görevleri ve son tutumu eleştirildi.
+• Parti içindeki 'abi' figürleri ve siyasi çizgi gündemde.
+• Ekrem İmamoğlu ve Özgür Özel'in liderlikleri tartışılıyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=1alCuhqr1AI&t=4101s) (⏱️ 68:21-55:29)
-- [Rusen Cakir]() (⏱️ 00:00-00:00)
-- [Murat Yetkin](https://www.youtube.com/watch?v=2Y7YjsaqFpY&t=6s) (⏱️ 00:06-02:07)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=BLXznRsC6R8&t=291s) (⏱️ 04:51-11:25)
 - [Nevsin Mengu](https://www.youtube.com/watch?v=NdjvCurpXgs&t=30s) (⏱️ 00:30-08:00)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=VmKaF5RoXss&t=371s) (⏱️ 06:11-35:57)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=VmKaF5RoXss&t=900s) (⏱️ 15:00-30:00)
+- [Fatih Altayli](https://www.youtube.com/watch?v=v89cnU1AvjQ&t=158s) (⏱️ 02:38-07:10)
 
 ---
 
-## 2. YSK'nın CHP Kurultay Sürecine Müdahalesi ve Seçim Hukuku Tartışmaları
+## 2. CHP İstanbul İl Başkanlığına Kayyum Atanması: Parti İçi Kriz ve Tepkiler
 
-• Yüksek Seçim Kurulu (YSK), CHP'nin bazı ilçe kongrelerinin durdurulma kararını iptal etti ve kongrelerin devamına izin verdi.
-• İstanbul il yönetimine kayyum atanmasına yapılan itirazı ise reddetti.
-• YSK, seçim süreci bittikten sonra müdahale etmeyeceğini açıkladı.
-• Mahkemelerin verdiği kararlar, YSK'nın yetkisini sınırladı ve seçim hukuku tartışmalarını artırdı.
-• Bu durum, ileride benzer başvuruların yapılabileceği ve mahkeme kararlarının seçim süreçlerinde etkili olabileceği anlamına geliyor.
-• CHP'nin 15 Eylül'de yapılacak büyük kurultay davası, partinin ve Türkiye siyasetinin geleceği için kritik önemde.
-• Eski genel başkan Kemal Kılıçdaroğlu'nun tekrar göreve iadesi ihtimali konuşuluyor.
-• CHP'nin il ve ilçe kurultayları hızlandırılmış şekilde yapılacak.
-• YSK'nın kararları, siyasi partiler kanunu ve anayasa ile uyumlu olması gerekirken, mahkemelerin müdahalesi seçim güvenliğini zedeliyor.
-• Tüm gelişmelerin hukuki değil siyasi olduğu, iktidarın CHP'yi kendi içinde kavga eden bir partiye dönüştürmek istediği iddia ediliyor.
-• YSK'nın tavrı, Türkiye'de seçim güvenliği ve siyasi partilerin işleyişi açısından ciddi endişeler yaratıyor.
+• CHP İstanbul İl Başkanlığına mahkeme kararıyla kayyum atandı.
+• Atamanın nedeni, parti içinden bir delegenin iki yıl önceki kongreye dair yaptığı şikayet oldu.
+• Gürsel Tekin ve dört arkadaşı kayyum olarak göreve başladı.
+• Atananlardan Hasan Babacan ve Müjdat Gürbüz tepkiler üzerine görevden ayrıldı.
+• Gürsel Tekin, sosyal medyada il başkanı sıfatıyla açıklama yaptı ve demokratik çözüm vurgusu yaptı.
+• Parti içinde kayyum atamasına ve mahkeme kararına karşı ciddi tartışmalar yaşanıyor.
+• Seçilmiş il başkanı Özgür Çelik görevine devam ettiğini açıkladı.
+• Canan Kaftancıoğlu'nun il başkanlığına döneceği iddiaları yalanlandı.
+• CHP tarihinde ilk kez devlet eliyle kayyum ataması ve mahkeme kararıyla görevlendirme yaşandı.
+• Parti içinde Gürsel Tekin'in tutarlılığı ve rolü tartışılıyor.
+• CHP yönetimi ve İstanbul örgütü aktif şekilde çalışmaya devam ediyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir]() (⏱️ 00:00-00:00)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=BLXznRsC6R8&t=687s) (⏱️ 11:27-14:57)
-- [Unsal Unlu](https://www.youtube.com/watch?v=vCuxsphn0xs&t=30s) (⏱️ 00:30-19:55)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=Oqt9HJsEpc4&t=367s) (⏱️ 06:07-20:14)
+- [Rusen Cakir](https://www.youtube.com/watch?v=Q5s3CZQpbuA&t=3s) (⏱️ 00:03-10:28)
+- [Fatih Altayli](https://www.youtube.com/watch?v=v89cnU1AvjQ&t=77s) (⏱️ 01:17-02:38)
 
 ---
 
