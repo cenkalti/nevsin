@@ -118,13 +118,37 @@ func clusterAllStories() error {
 	// Try DBSCAN first for better natural clustering
 	log.Printf("🔍 Attempting DBSCAN clustering for natural cluster discovery...")
 	clusters, dbscanSuccess := tryStableDBSCAN(filteredEmbeddings)
-	log.Printf("🔧 DBSCAN result: success=%t, clusters=%d", dbscanSuccess, len(clusters))
-	if !dbscanSuccess || len(clusters) < 2 {
-		log.Printf("⚠️  DBSCAN failed stability test or found too few clusters, falling back to improved K-means")
-		// Determine optimal number of clusters using comprehensive evaluation
+
+	// Calculate how many stories were actually clustered
+	storiesInClusters := 0
+	for _, cluster := range clusters {
+		storiesInClusters += len(cluster.Stories)
+	}
+	coverageRatio := float64(storiesInClusters) / float64(len(filteredEmbeddings))
+
+	log.Printf("🔧 DBSCAN result: success=%t, clusters=%d, coverage=%.1f%% (%d/%d stories)",
+		dbscanSuccess, len(clusters), coverageRatio*100, storiesInClusters, len(filteredEmbeddings))
+
+	// Reject DBSCAN if it leaves too many stories as noise (< 60% coverage)
+	if !dbscanSuccess || len(clusters) < 2 || coverageRatio < 0.6 {
+		if coverageRatio < 0.6 {
+			log.Printf("⚠️  DBSCAN left too many stories as noise (%.1f%% coverage < 60%%), rejecting", coverageRatio*100)
+		} else {
+			log.Printf("⚠️  DBSCAN failed stability test or found too few clusters")
+		}
+
+		// Try hierarchical clustering first - better for non-spherical news story clusters
+		log.Printf("🌳 Attempting hierarchical agglomerative clustering...")
 		k := findOptimalK(filteredEmbeddings)
-		// Perform stable k-means clustering as fallback
-		clusters, err = performStableKMeansClustering(filteredEmbeddings, k)
+		clusters, err = performHierarchicalClustering(filteredEmbeddings, k)
+
+		if err != nil {
+			log.Printf("⚠️  Hierarchical clustering failed: %v, falling back to K-means", err)
+			// Final fallback to K-means
+			clusters, err = performStableKMeansClustering(filteredEmbeddings, k)
+		} else {
+			log.Printf("✅ Hierarchical clustering created %d clusters", len(clusters))
+		}
 	} else {
 		log.Printf("✅ DBSCAN found %d stable natural clusters", len(clusters))
 		err = nil // Clear any previous error
@@ -135,7 +159,11 @@ func clusterAllStories() error {
 
 	// Eliminate single-story clusters by merging them into most similar clusters
 	clusters = mergeSingleStoryClusters(filteredEmbeddings, clusters)
-	log.Printf("🔗 After merging single-story clusters: %d final clusters", len(clusters))
+	log.Printf("🔗 After merging single-story clusters: %d clusters", len(clusters))
+
+	// Split any low-coherence clusters that are too loosely grouped
+	clusters = splitLowCoherenceClusters(filteredEmbeddings, clusters)
+	log.Printf("✂️  After splitting low-coherence clusters: %d final clusters", len(clusters))
 
 	// Calculate comprehensive clustering quality metrics on filtered data
 	silhouetteScore := calculateSilhouetteScore(filteredEmbeddings, clusters)
@@ -268,9 +296,9 @@ func tryStableDBSCAN(embeddings []EmbeddingRecord) ([]StoryCluster, bool) {
 	stabilityRuns := 3
 	var allResults [][]StoryCluster
 
-	baseEps := calculateOptimalEps(embeddings, 3) // Use 3rd nearest neighbor for tighter clusters
-	// Very small variations for stable granular clustering
-	epsVariations := []float64{baseEps * 0.98, baseEps, baseEps * 1.02}
+	baseEps := calculateOptimalEps(embeddings, 4) // Use 4th nearest neighbor for balanced clusters
+	// Small variations for stable clustering
+	epsVariations := []float64{baseEps * 0.95, baseEps, baseEps * 1.05}
 
 	for i, eps := range epsVariations {
 		log.Printf("🔄 Stability run %d/%d with eps=%.4f", i+1, stabilityRuns, eps)
@@ -580,7 +608,8 @@ func performDBSCANWithEps(embeddings []EmbeddingRecord, eps float64, minPts int)
 
 // performDBSCANClustering performs DBSCAN clustering for natural cluster discovery
 
-// calculateOptimalEps calculates optimal eps parameter for smaller, more granular clusters
+// calculateOptimalEps calculates optimal eps parameter using adaptive approach
+// Uses elbow detection on k-distance graph for better automatic tuning
 func calculateOptimalEps(embeddings []EmbeddingRecord, k int) float64 {
 	n := len(embeddings)
 	kDistances := make([]float64, n)
@@ -608,9 +637,19 @@ func calculateOptimalEps(embeddings []EmbeddingRecord, k int) float64 {
 	// Sort k-distances
 	sort.Float64s(kDistances)
 
-	// For much more granular clusters, use a very low percentile (10th percentile)
-	// This creates very tight, small clusters
-	elbowIdx := int(float64(n) * 0.1)
+	// Use adaptive percentile based on dataset size
+	// Smaller datasets need higher percentile to avoid over-fragmentation
+	// Larger datasets can use lower percentile for finer granularity
+	var percentile float64
+	if n < 20 {
+		percentile = 0.3 // 30th percentile for small datasets
+	} else if n < 50 {
+		percentile = 0.25 // 25th percentile for medium datasets
+	} else {
+		percentile = 0.15 // 15th percentile for large datasets
+	}
+
+	elbowIdx := int(float64(n) * percentile)
 	if elbowIdx >= n {
 		elbowIdx = n - 1
 	}
@@ -620,14 +659,33 @@ func calculateOptimalEps(embeddings []EmbeddingRecord, k int) float64 {
 
 	eps := kDistances[elbowIdx]
 
-	// Very tight bounds for highly granular clustering
-	if eps < 0.02 {
-		eps = 0.02 // Minimum viable eps
-	} else if eps > 0.25 { // Much more restrictive
-		eps = 0.25
+	// Adaptive bounds based on dataset characteristics
+	// Calculate mean and std of k-distances for intelligent bounds
+	mean := 0.0
+	for _, d := range kDistances {
+		mean += d
+	}
+	mean /= float64(len(kDistances))
+
+	stdDev := 0.0
+	for _, d := range kDistances {
+		diff := d - mean
+		stdDev += diff * diff
+	}
+	stdDev = math.Sqrt(stdDev / float64(len(kDistances)))
+
+	// Set bounds at mean ± 2*stdDev, with reasonable limits
+	minEps := math.Max(0.03, mean-2*stdDev)
+	maxEps := math.Min(0.35, mean+stdDev)
+
+	if eps < minEps {
+		eps = minEps
+	} else if eps > maxEps {
+		eps = maxEps
 	}
 
-	log.Printf("🎯 Calculated eps=%.4f for granular clustering (10th percentile)", eps)
+	log.Printf("🎯 Calculated eps=%.4f (%.0fth percentile, mean=%.4f, std=%.4f, bounds=[%.4f, %.4f])",
+		eps, percentile*100, mean, stdDev, minEps, maxEps)
 	return eps
 }
 
@@ -1029,6 +1087,131 @@ func performKMeansClustering(embeddings []EmbeddingRecord, k int) ([]StoryCluste
 	return nonEmptyClusters, nil
 }
 
+// performHierarchicalClustering performs agglomerative hierarchical clustering
+// Uses average linkage with cosine distance for better semantic grouping
+func performHierarchicalClustering(embeddings []EmbeddingRecord, k int) ([]StoryCluster, error) {
+	n := len(embeddings)
+	if k >= n {
+		k = n
+	}
+	if k < 2 {
+		return nil, fmt.Errorf("k must be at least 2")
+	}
+
+	// Initialize: each point is its own cluster
+	clusters := make([][]int, n)
+	for i := 0; i < n; i++ {
+		clusters[i] = []int{i}
+	}
+
+	// Calculate initial distance matrix using cosine distance
+	distMatrix := make([][]float64, n)
+	for i := 0; i < n; i++ {
+		distMatrix[i] = make([]float64, n)
+		for j := 0; j < n; j++ {
+			if i != j {
+				sim := cosineSimilarity(embeddings[i].Embedding, embeddings[j].Embedding)
+				distMatrix[i][j] = 1.0 - sim // Convert to distance
+			}
+		}
+	}
+
+	// Merge clusters until we have k clusters
+	for len(clusters) > k {
+		// Find the pair of clusters with minimum average distance
+		minDist := math.Inf(1)
+		mergeI, mergeJ := -1, -1
+
+		for i := 0; i < len(clusters); i++ {
+			for j := i + 1; j < len(clusters); j++ {
+				// Calculate average linkage distance between clusters
+				avgDist := 0.0
+				count := 0
+				for _, idxI := range clusters[i] {
+					for _, idxJ := range clusters[j] {
+						avgDist += distMatrix[idxI][idxJ]
+						count++
+					}
+				}
+				if count > 0 {
+					avgDist /= float64(count)
+				}
+
+				if avgDist < minDist {
+					minDist = avgDist
+					mergeI = i
+					mergeJ = j
+				}
+			}
+		}
+
+		if mergeI == -1 || mergeJ == -1 {
+			break // No more merges possible
+		}
+
+		// Merge cluster j into cluster i
+		clusters[mergeI] = append(clusters[mergeI], clusters[mergeJ]...)
+
+		// Remove cluster j
+		clusters = append(clusters[:mergeJ], clusters[mergeJ+1:]...)
+
+		log.Printf("🔗 Merged 2 clusters (avg dist: %.4f), %d clusters remaining", minDist, len(clusters))
+	}
+
+	// Convert to StoryCluster format
+	storyClusters := make([]StoryCluster, len(clusters))
+	embeddingDim := len(embeddings[0].Embedding)
+
+	for i, clusterIndices := range clusters {
+		cluster := StoryCluster{
+			ClusterID: i,
+			Stories:   make([]ClusteredStory, 0, len(clusterIndices)),
+		}
+
+		// Calculate centroid
+		centroid := make([]float64, embeddingDim)
+		for _, idx := range clusterIndices {
+			for j, val := range embeddings[idx].Embedding {
+				centroid[j] += val
+			}
+		}
+		for j := range centroid {
+			centroid[j] /= float64(len(clusterIndices))
+		}
+		cluster.Centroid = centroid
+
+		// Add stories
+		for _, idx := range clusterIndices {
+			embedding := embeddings[idx]
+			similarity := cosineSimilarity(embedding.Embedding, centroid)
+
+			story := ClusteredStory{
+				StoryID:    embedding.StoryID,
+				VideoID:    embedding.VideoID,
+				Title:      embedding.Title,
+				Summary:    embedding.Summary,
+				Reporter:   embedding.Reporter,
+				Similarity: similarity,
+			}
+			cluster.Stories = append(cluster.Stories, story)
+		}
+
+		storyClusters[i] = cluster
+	}
+
+	// Sort clusters by size (largest first)
+	sort.Slice(storyClusters, func(i, j int) bool {
+		return len(storyClusters[i].Stories) > len(storyClusters[j].Stories)
+	})
+
+	// Reassign cluster IDs after sorting
+	for i := range storyClusters {
+		storyClusters[i].ClusterID = i
+	}
+
+	return storyClusters, nil
+}
+
 // initializeCentroidsKMeansPlusPlus initializes centroids using improved k-means++ method
 func initializeCentroidsKMeansPlusPlus(data *mat.Dense, k int) *mat.Dense {
 	n, d := data.Dims()
@@ -1200,6 +1383,7 @@ func euclideanDistance(a, b []float64) float64 {
 }
 
 // calculateSilhouetteScore calculates the average silhouette score for clustering quality
+// Uses cosine distance for consistency with embedding space
 func calculateSilhouetteScore(embeddings []EmbeddingRecord, clusters []StoryCluster) float64 {
 	if len(clusters) <= 1 {
 		return 0.0
@@ -1230,7 +1414,9 @@ func calculateSilhouetteScore(embeddings []EmbeddingRecord, clusters []StoryClus
 		sameClusterCount := 0
 		for _, story := range clusters[clusterID].Stories {
 			if story.StoryID != storyID {
-				distance := euclideanDistance(embedding.Embedding, embeddingMap[story.StoryID])
+				// Use cosine distance (1 - cosine similarity) for semantic embeddings
+				sim := cosineSimilarity(embedding.Embedding, embeddingMap[story.StoryID])
+				distance := 1.0 - sim
 				a += distance
 				sameClusterCount++
 			}
@@ -1245,7 +1431,9 @@ func calculateSilhouetteScore(embeddings []EmbeddingRecord, clusters []StoryClus
 			if otherClusterID != clusterID {
 				avgDistance := 0.0
 				for _, story := range otherCluster.Stories {
-					distance := euclideanDistance(embedding.Embedding, embeddingMap[story.StoryID])
+					// Use cosine distance
+					sim := cosineSimilarity(embedding.Embedding, embeddingMap[story.StoryID])
+					distance := 1.0 - sim
 					avgDistance += distance
 				}
 				avgDistance /= float64(len(otherCluster.Stories))
@@ -1282,6 +1470,7 @@ func saveClusters(result ClusteringResult) error {
 }
 
 // calculateDaviesBouldinIndex calculates the Davies-Bouldin index for clustering quality
+// Uses cosine distance for consistency with embedding space
 func calculateDaviesBouldinIndex(embeddings []EmbeddingRecord, clusters []StoryCluster) float64 {
 	if len(clusters) <= 1 {
 		return 0.0
@@ -1326,7 +1515,7 @@ func calculateDaviesBouldinIndex(embeddings []EmbeddingRecord, clusters []StoryC
 		centroids[i] = centroid
 	}
 
-	// Calculate average intra-cluster distances
+	// Calculate average intra-cluster distances using cosine distance
 	intraClusterDistances := make([]float64, len(clusters))
 	for i, cluster := range clusters {
 		if len(cluster.Stories) <= 1 {
@@ -1340,7 +1529,9 @@ func calculateDaviesBouldinIndex(embeddings []EmbeddingRecord, clusters []StoryC
 		for _, story1 := range cluster.Stories {
 			for _, story2 := range cluster.Stories {
 				if story1.StoryID != story2.StoryID {
-					dist := euclideanDistance(embeddingMap[story1.StoryID], embeddingMap[story2.StoryID])
+					// Use cosine distance
+					sim := cosineSimilarity(embeddingMap[story1.StoryID], embeddingMap[story2.StoryID])
+					dist := 1.0 - sim
 					totalDistance += dist
 					count++
 				}
@@ -1350,14 +1541,16 @@ func calculateDaviesBouldinIndex(embeddings []EmbeddingRecord, clusters []StoryC
 		intraClusterDistances[i] = totalDistance / float64(count)
 	}
 
-	// Calculate Davies-Bouldin index
+	// Calculate Davies-Bouldin index using cosine distance for centroids
 	dbIndex := 0.0
 	for i := 0; i < len(clusters); i++ {
 		maxRatio := 0.0
 
 		for j := 0; j < len(clusters); j++ {
 			if i != j {
-				centroidDistance := euclideanDistance(centroids[i], centroids[j])
+				// Use cosine distance for centroid separation
+				sim := cosineSimilarity(centroids[i], centroids[j])
+				centroidDistance := 1.0 - sim
 				if centroidDistance > 0 {
 					ratio := (intraClusterDistances[i] + intraClusterDistances[j]) / centroidDistance
 					if ratio > maxRatio {
@@ -1374,6 +1567,7 @@ func calculateDaviesBouldinIndex(embeddings []EmbeddingRecord, clusters []StoryC
 }
 
 // calculateClusterDistances calculates average intra and inter-cluster distances
+// Uses cosine distance for consistency with embedding space
 func calculateClusterDistances(embeddings []EmbeddingRecord, clusters []StoryCluster) (float64, float64) {
 	embeddingMap := make(map[string][]float64)
 	clusterMap := make(map[string]int)
@@ -1388,7 +1582,7 @@ func calculateClusterDistances(embeddings []EmbeddingRecord, clusters []StoryClu
 		}
 	}
 
-	// Calculate intra-cluster distance
+	// Calculate intra-cluster distance using cosine distance
 	totalIntraDistance := 0.0
 	intraCount := 0
 
@@ -1396,7 +1590,8 @@ func calculateClusterDistances(embeddings []EmbeddingRecord, clusters []StoryClu
 		for _, story1 := range cluster.Stories {
 			for _, story2 := range cluster.Stories {
 				if story1.StoryID != story2.StoryID {
-					dist := euclideanDistance(embeddingMap[story1.StoryID], embeddingMap[story2.StoryID])
+					sim := cosineSimilarity(embeddingMap[story1.StoryID], embeddingMap[story2.StoryID])
+					dist := 1.0 - sim
 					totalIntraDistance += dist
 					intraCount++
 				}
@@ -1409,7 +1604,7 @@ func calculateClusterDistances(embeddings []EmbeddingRecord, clusters []StoryClu
 		avgIntraDistance = totalIntraDistance / float64(intraCount)
 	}
 
-	// Calculate inter-cluster distance
+	// Calculate inter-cluster distance using cosine distance
 	totalInterDistance := 0.0
 	interCount := 0
 
@@ -1418,7 +1613,8 @@ func calculateClusterDistances(embeddings []EmbeddingRecord, clusters []StoryClu
 			if i < j { // Avoid double counting
 				for _, story1 := range cluster1.Stories {
 					for _, story2 := range cluster2.Stories {
-						dist := euclideanDistance(embeddingMap[story1.StoryID], embeddingMap[story2.StoryID])
+						sim := cosineSimilarity(embeddingMap[story1.StoryID], embeddingMap[story2.StoryID])
+						dist := 1.0 - sim
 						totalInterDistance += dist
 						interCount++
 					}
@@ -1949,7 +2145,9 @@ func mergeSingleStoryClusters(embeddings []EmbeddingRecord, clusters []StoryClus
 	log.Printf("🔍 Found %d single-story clusters to merge into %d multi-story clusters",
 		len(singleStoryClusters), len(multiStoryClusters))
 
-	similarityThreshold := 0.3 // Minimum similarity required for merging
+	// Higher threshold for news stories - require strong semantic similarity for merging
+	// 0.55 cosine similarity means stories share significant thematic overlap
+	similarityThreshold := 0.55 // Minimum similarity required for merging
 
 	// Process each single-story cluster
 	for _, singleIdx := range singleStoryClusters {
@@ -2052,6 +2250,110 @@ func updateStorySimilarities(cluster *StoryCluster, embeddingMap map[string][]fl
 		storyEmbedding := embeddingMap[cluster.Stories[i].StoryID]
 		cluster.Stories[i].Similarity = cosineSimilarity(storyEmbedding, cluster.Centroid)
 	}
+}
+
+// splitLowCoherenceClusters identifies and splits clusters with poor internal coherence
+// This addresses "garbage clusters" that group unrelated stories together
+func splitLowCoherenceClusters(embeddings []EmbeddingRecord, clusters []StoryCluster) []StoryCluster {
+	embeddingMap := make(map[string][]float64)
+	for _, embedding := range embeddings {
+		embeddingMap[embedding.StoryID] = embedding.Embedding
+	}
+
+	coherenceThreshold := 0.65 // Clusters must have avg similarity >= 0.65
+	minClusterSize := 4        // Only split clusters with 4+ stories
+
+	var finalClusters []StoryCluster
+
+	for _, cluster := range clusters {
+		if len(cluster.Stories) < minClusterSize {
+			// Keep small clusters as-is
+			finalClusters = append(finalClusters, cluster)
+			continue
+		}
+
+		// Calculate average pairwise similarity (coherence)
+		coherence := calculateClusterCoherenceForCluster(cluster.Stories, embeddingMap)
+
+		if coherence >= coherenceThreshold {
+			// Cluster is coherent, keep it
+			finalClusters = append(finalClusters, cluster)
+			log.Printf("✅ Cluster %d: coherent (%.3f >= %.3f), keeping intact", cluster.ClusterID, coherence, coherenceThreshold)
+		} else {
+			// Cluster has low coherence, split it using mini-hierarchical clustering
+			log.Printf("⚠️  Cluster %d: low coherence (%.3f < %.3f), splitting...", cluster.ClusterID, coherence, coherenceThreshold)
+
+			// Create embeddings subset for this cluster
+			clusterEmbeddings := make([]EmbeddingRecord, len(cluster.Stories))
+			for i, story := range cluster.Stories {
+				clusterEmbeddings[i] = EmbeddingRecord{
+					StoryID:   story.StoryID,
+					VideoID:   story.VideoID,
+					Title:     story.Title,
+					Summary:   story.Summary,
+					Reporter:  story.Reporter,
+					Embedding: embeddingMap[story.StoryID],
+				}
+			}
+
+			// Split into 2 sub-clusters using hierarchical clustering
+			k := 2
+			if len(clusterEmbeddings) >= 6 {
+				k = 3 // Split into 3 if large enough
+			}
+
+			subClusters, err := performHierarchicalClustering(clusterEmbeddings, k)
+			if err != nil || len(subClusters) == 0 {
+				// Fallback: keep original cluster if split fails
+				log.Printf("⚠️  Failed to split cluster %d, keeping as-is", cluster.ClusterID)
+				finalClusters = append(finalClusters, cluster)
+			} else {
+				// Add split sub-clusters
+				for _, subCluster := range subClusters {
+					finalClusters = append(finalClusters, subCluster)
+				}
+				log.Printf("✂️  Split cluster %d into %d sub-clusters", cluster.ClusterID, len(subClusters))
+			}
+		}
+	}
+
+	// Sort clusters by size (largest first)
+	sort.Slice(finalClusters, func(i, j int) bool {
+		return len(finalClusters[i].Stories) > len(finalClusters[j].Stories)
+	})
+
+	// Reassign cluster IDs after sorting
+	for i := range finalClusters {
+		finalClusters[i].ClusterID = i
+	}
+
+	return finalClusters
+}
+
+// calculateClusterCoherenceForCluster calculates coherence for a single cluster
+func calculateClusterCoherenceForCluster(stories []ClusteredStory, embeddingMap map[string][]float64) float64 {
+	if len(stories) < 2 {
+		return 1.0 // Perfect coherence for single-story clusters
+	}
+
+	totalSimilarity := 0.0
+	pairCount := 0
+
+	for i := 0; i < len(stories); i++ {
+		embedding1 := embeddingMap[stories[i].StoryID]
+		for j := i + 1; j < len(stories); j++ {
+			embedding2 := embeddingMap[stories[j].StoryID]
+			similarity := cosineSimilarity(embedding1, embedding2)
+			totalSimilarity += similarity
+			pairCount++
+		}
+	}
+
+	if pairCount == 0 {
+		return 1.0
+	}
+
+	return totalSimilarity / float64(pairCount)
 }
 
 // generateClusteringRecommendations provides actionable recommendations based on clustering results
