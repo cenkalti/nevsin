@@ -1367,20 +1367,6 @@ func cosineSimilarity(a, b []float64) float64 {
 	return dotProduct / (math.Sqrt(normA) * math.Sqrt(normB))
 }
 
-// euclideanDistance calculates Euclidean distance between two vectors
-func euclideanDistance(a, b []float64) float64 {
-	if len(a) != len(b) {
-		return math.Inf(1)
-	}
-
-	sum := 0.0
-	for i := range a {
-		diff := a[i] - b[i]
-		sum += diff * diff
-	}
-
-	return math.Sqrt(sum)
-}
 
 // calculateSilhouetteScore calculates the average silhouette score for clustering quality
 // Uses cosine distance for consistency with embedding space
@@ -2309,9 +2295,7 @@ func splitLowCoherenceClusters(embeddings []EmbeddingRecord, clusters []StoryClu
 				finalClusters = append(finalClusters, cluster)
 			} else {
 				// Add split sub-clusters
-				for _, subCluster := range subClusters {
-					finalClusters = append(finalClusters, subCluster)
-				}
+				finalClusters = append(finalClusters, subClusters...)
 				log.Printf("✂️  Split cluster %d into %d sub-clusters", cluster.ClusterID, len(subClusters))
 			}
 		}
