@@ -4,50 +4,50 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-Nevsin is a YouTube news aggregator CLI tool written in Go that fetches, transcribes, summarizes, and compiles daily Turkish news reports. It monitors specific YouTube channels, uses AI to analyze content, and generates consolidated news reports.
+Nevsin is a YouTube news aggregator CLI tool written in Go that fetches, transcribes, summarizes, clusters, and compiles daily Turkish news reports using AI. It monitors specific YouTube channels, uses Azure OpenAI to analyze content, and generates consolidated news reports published to GitHub Pages.
 
 ## Core Architecture
 
-- **Modular CLI application** with main function in `cmd/nevsin/main.go` using cobra for command structure
-- **Convention over configuration**: No flags, pure file-based operations in working directory
-- **Pipeline-based processing**: fetch-videos → fetch-subtitles → extract-stories → generate-report → generate-html → upload-site
-- **Concurrent processing** with goroutines for video fetching and transcript extraction
-- **Azure OpenAI integration** for thumbnail analysis and transcript summarization
-- **YouTube Data API v3** for video fetching
+### Modular Pipeline Design
+The application follows a **sequential pipeline architecture** with numbered command modules:
+1. `fetch-videos` → Retrieves videos from configured channels
+2. `fetch-subtitles` → Downloads subtitles using yt-dlp
+3. `extract-stories` → Creates AI summaries with structured JSON
+4. `embed-stories` → Generates semantic embeddings
+5. `cluster-stories` → Groups similar stories using ML clustering
+6. `generate-report` → Compiles final markdown/HTML reports
+7. `upload-site` → Publishes to GitHub Pages
 
-### Key Components
+Each command is **file-based** and operates on a working directory convention (no flags).
 
-- `fetchVideosCmd`: Retrieves videos from hardcoded channels using custom handlers
-- `fetchSubtitlesCmd`: Downloads subtitles using yt-dlp
-- `extractStoriesCmd`: Creates AI summaries with structured JSON responses
-- `generateReportCmd`: Compiles final markdown reports with AI-sorted importance
-- `generateHTMLCmd`: Converts markdown report to HTML using Go templates
-- `uploadSiteCmd`: Uploads HTML report to GitHub Pages
-- `runCmd`: Executes full pipeline
-- `cleanCmd`: Removes old data
+### Key Design Principles
+- **Convention over configuration**: Pure file-based operations, no flags
+- **Concurrent processing**: Goroutines for video fetching and subtitle extraction
+- **AI-powered**: Azure OpenAI for thumbnail analysis, summarization, and embedding
+- **Clustering-first**: Uses DBSCAN/K-means with stability analysis to group stories
+- **Fail-fast validation**: Environment variables checked at startup
 
-### File Structure Convention
-
+### Directory Structure
 ```
 ./
-├── .env                        # API keys only
-├── videos/
-│   ├── abc123.json            # Individual video metadata
-│   └── def456.json
-├── subtitles/
-│   ├── abc123.srt             # Individual subtitles
-│   └── def456.srt
-├── stories/
-│   ├── abc123.json            # Individual stories (JSON format)
-│   └── def456.json
-├── report.md                  # Final daily report
-└── report.html                # HTML version of the report
+├── videos/           # Video metadata JSON files
+├── subtitles/        # Simplified subtitle files (second: text format)
+├── stories/          # AI-extracted news stories with timestamps
+├── clusters/         # Clustering results and quality metrics
+├── report.md         # Final markdown report
+├── report.html       # HTML version for GitHub Pages
+└── embeddings.db     # SQLite database for story embeddings
 ```
 
 ### Data Flow
-
 ```
-YouTube API → videos/*.json → subtitles/*.srt → stories/*.json → report.md → report.html → GitHub Pages
+YouTube API → videos/*.json →
+subtitles/*.srt (simplified format) →
+stories/*.json (AI extracted) →
+embeddings.db (vector embeddings) →
+clusters/clusters.json (ML clustering) →
+report.md / report.html →
+GitHub Pages
 ```
 
 ## Development Commands
@@ -60,14 +60,20 @@ go build ./cmd/nevsin
 # Run full pipeline
 ./nevsin run
 
-# Individual commands
+# Run individual commands (in order)
 ./nevsin fetch-videos
 ./nevsin fetch-subtitles
 ./nevsin extract-stories
+./nevsin embed-stories
+./nevsin cluster-stories
 ./nevsin generate-report
-./nevsin generate-html
 ./nevsin upload-site
+
+# Clean all generated files
 ./nevsin clean
+
+# Process specific channel only
+./nevsin fetch-videos "Nevsin Mengu"
 ```
 
 ### Linting
@@ -75,41 +81,124 @@ go build ./cmd/nevsin
 golangci-lint run
 ```
 
+### Testing
+While there are no formal tests yet, you can verify the pipeline:
+```bash
+# Test individual stages
+./nevsin fetch-videos && ls videos/
+./nevsin fetch-subtitles && ls subtitles/
+./nevsin extract-stories && ls stories/
+```
+
 ## Configuration
 
-Requires `.env` file with:
-- `YOUTUBE_API_KEY`: YouTube Data API v3 key
-- `AZURE_OPENAI_ENDPOINT`: Azure OpenAI endpoint URL
-- `AZURE_OPENAI_API_KEY`: Azure OpenAI API key
-- `AZURE_OPENAI_DEPLOYMENT`: GPT-4 deployment name
-- `AZURE_OPENAI_VISION_DEPLOYMENT`: GPT-4 Vision deployment (optional, for thumbnail analysis)
+### Environment Variables (required in `.env`)
+- `YOUTUBE_API_KEY` - YouTube Data API v3 key
+- `AZURE_OPENAI_ENDPOINT` - Azure OpenAI endpoint URL
+- `AZURE_OPENAI_API_KEY` - Azure OpenAI API key
+- `AZURE_OPENAI_DEPLOYMENT` - GPT-4 deployment name (also used for vision)
 
-All environment variables are checked at startup with fail-fast error handling.
+All variables are validated at startup with fail-fast errors.
+
+### Channel Configuration
+Channels are hardcoded in `channels.go` with custom filtering logic. Each channel has:
+- Name, ID (YouTube channel ID)
+- Handler function for custom video selection logic
+
+Example: Nevsin Mengu uses Azure Vision to analyze thumbnails for "Bugün ne oldu?" text.
 
 ## External Dependencies
 
-- **yt-dlp**: Python tool for subtitle extraction (`pip install yt-dlp`)
-- **Go 1.24.2**: Minimum Go version
+### Runtime Dependencies
+- **yt-dlp** (Python tool): Required for subtitle extraction
+  ```bash
+  pip install yt-dlp
+  ```
 - **YouTube Data API v3**: For video metadata
-- **Azure OpenAI GPT-4**: For thumbnail analysis and summarization
+- **Azure OpenAI GPT-4**: For thumbnail analysis, story extraction, and embeddings
+  - Uses `text-embedding-3-large` for embeddings
+  - Uses structured JSON output with jsonschema validation
 
-## Channel Configuration
+### Go Dependencies
+- `github.com/spf13/cobra` - CLI framework
+- `github.com/joho/godotenv` - .env file loading
+- `github.com/invopop/jsonschema` - JSON schema generation for structured AI outputs
+- `github.com/mattn/go-sqlite3` - SQLite for embedding storage
+- `gonum.org/v1/gonum/mat` - Matrix operations for clustering
+- `github.com/yuin/goldmark` - Markdown to HTML conversion
 
-Currently monitors two hardcoded channels with specific selection criteria:
+## Key Implementation Details
 
-### Nevsin Mengu (UCrG27KDq7eW4YoEOYsalU9g)
-- Gets videos from last 48 hours
-- Uses Azure OpenAI GPT-4 Vision to analyze thumbnails
-- Extracts text from thumbnails to find "Bugün ne oldu?" content
-- Fails entire process if thumbnail analysis fails
+### Subtitle Processing
+Subtitles are converted from SRT format to simplified format for LLM processing:
+```
+[second]: [text]
+```
+Example:
+```
+7: Retro, retro arkadaşlar. Retro. Sorun
+10: retrodan kaynaklanıyor. Merkür retrosu
+```
 
-### Fatih Altaylı (UCdS7OE5qbJQc7AG4SwlTzKg)
-- Gets videos from last 48 hours
-- Filters for videos with titles starting with "Fatih Altaylı yorumluyor:"
-- Takes first matching video
+### Story Extraction
+Uses Azure OpenAI structured output with JSON schema validation. Stories include:
+- Title, summary (with bullet-point formatting rules)
+- Start/end seconds and timestamps
+- YouTube URLs with timestamp parameters
+- Reporter attribution
 
-Channel handlers are defined in the `fetchVideosCmd` with custom filtering logic for each channel. Processing happens concurrently with progress reporting.
+### Clustering Algorithm
+The system uses adaptive clustering with stability analysis:
+1. **Normalization**: L2 normalization of embeddings
+2. **Outlier removal**: Statistical outlier detection (2σ threshold)
+3. **Primary method**: DBSCAN with stability validation (3 runs with parameter variations)
+4. **Fallback**: K-means with optimal K selection (evaluated using Silhouette, Davies-Bouldin, Calinski-Harabasz scores)
+5. **Post-processing**: Merge single-story clusters into most similar clusters
 
-## Logging Best Practices
+Quality metrics tracked:
+- Silhouette score (cluster separation)
+- Davies-Bouldin index (cluster definition)
+- Cross-reporter effectiveness (stories from different reporters in same cluster)
+- Cluster importance scores (size + reporter diversity)
 
-- Always use log.Print* function to log something instead of fmt.Println.
+### Report Generation
+- Clusters are merged using AI to create coherent news stories
+- Stories prioritized by AI-assigned importance (1=most important, 10=least)
+- Final output: Markdown with clickable YouTube links (with timestamps)
+- HTML generated using goldmark with embedded CSS
+
+### GitHub Pages Upload
+- Creates/updates `gh-pages` branch in temp directory
+- Commits `index.html` and `index.md`
+- Pushes to remote with proper cleanup
+
+## Logging Conventions
+- **Always use `log.Print*` functions** instead of `fmt.Println`
+- Use emoji prefixes for key operations in clustering (🔍, ✅, ⚠️, etc.)
+- Log progress for concurrent operations with channel names
+- Include detailed error context with `log.Printf("Failed to X: %v", err)`
+
+## Code Organization Notes
+- Main entry point: `cmd/nevsin/main.go` (sets up cobra, loads config)
+- Commands exported as package-level variables: `nevsin.FetchVideosCmd`, etc.
+- Shared types: `YouTubeVideo`, `NewsStory`, `ClusteredStory`, `MergedNewsStory`
+- Retry logic: Built into `makeOpenAIRequest` with exponential backoff for rate limits
+- Embedding storage: SQLite with JSON serialization for float64 arrays
+
+## Important Implementation Patterns
+
+### Azure OpenAI Integration
+- All AI calls go through `makeOpenAIRequest` with retry logic
+- Uses structured output with JSON schema for reliable parsing
+- Includes rate limit handling with `Retry-After` header support
+- Temperature=0.1 for story extraction (consistency), 0 for vision (accuracy)
+
+### Concurrency Patterns
+- Goroutines + WaitGroups for video/subtitle processing
+- Individual goroutine per channel/video for parallel processing
+- Progress logging includes index (e.g., "Channel 2/5: Fatih Altayli")
+
+### Error Handling
+- Fail-fast for missing environment variables
+- Log and continue for individual video/story failures
+- Detailed error context in logs for debugging
