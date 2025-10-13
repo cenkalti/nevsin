@@ -164,4 +164,18 @@ var ChannelConfigs = []ChannelConfig{
 			return selected
 		},
 	},
+	{
+		Name: "Hilal Koylu",
+		ID:   "UCCANgYjjCDRgzqcLYHGaJEA",
+		Handler: func(videos []YouTubeVideo) []YouTubeVideo {
+			var selected []YouTubeVideo
+			for _, v := range videos {
+				if time.Since(v.PublishedAt) > 24*time.Hour {
+					continue
+				}
+				selected = append(selected, v)
+			}
+			return selected
+		},
+	},
 }
