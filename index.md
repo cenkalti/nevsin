@@ -1,405 +1,496 @@
 # Bugün Ne Oldu?
 
-*14 October 2025 tarihli günlük haber raporu - 21 haber birleştirildi*
+*15 October 2025 tarihli günlük haber raporu - 25 haber birleştirildi*
 
-## 1. Hata
+## 1. Mecliste Çözüm Süreci, Demokratikleşme ve Siyasi Gerilim Tartışmaları
 
-Boş yanıt
-
----
-
-## 2. Ortadoğu'da Barış Süreci: Gazze Ateşkesi, Türkiye'nin Rolü ve Trump'ın Politikaları
-
-• Gazze'de ateşkes ve barış süreci başlatıldı
-• Süreçte 70.000'e yakın sivil hayatını kaybetti, çoğu çocuk ve kadın
-• Türkiye, Katar ve Mısır garantör ülke olarak öne çıktı
-• Türkiye, Hamas'ın teslim olmasında ve ateşkesin sağlanmasında etkili oldu
-• Hamas, Gazze yönetimine talip olmayacağını açıkladı
-• Erdoğan, Gazze'nin yeniden imarı ve insani yardım için Türkiye'nin aktif rol alacağını söyledi
-• Barış gücüne asker gönderme konusunda Türkiye kesin karar vermedi
-• Trump'ın barış girişimi küresel şov olarak değerlendirildi
-• Trump, İsrail'e silah desteğini vurguladı ve Netanyahu'yu övdü
-• Trump'ın Türkiye ve Erdoğan'a yönelik övgüleri dikkat çekti, geçmişte ise tehditler uygulamıştı
-• Barış anlaşmasında bağımsız Filistin ve Gazze'nin geleceği net değil
-• Uluslararası uzmanlar anlaşmanın kırılganlığına ve uygulanmasının zorluklarına dikkat çekiyor
-• Türk medyasının gelişmeleri ele alış biçimi eleştirildi
-• Barışın kalıcı olup olmayacağı izleniyor, sürecin adil yürütülmesi gerektiği vurgulanıyor
-• Trump'ın liderlerle ilişkileri ve tavırları tartışma konusu oldu
+• Mecliste demokratikleşme, terörsüz Türkiye ve çözüm süreci konuları tartışılıyor.
+• DEM Parti, anayasal yurttaşlık, hukukun üstünlüğü, kayyumların kaldırılması ve ana dilde eğitim gibi taleplerini açıkladı.
+• Devlet Bahçeli, DEM Parti ve CHP'nin taleplerini maksimalist buldu ve sert eleştiriler yaptı.
+• Fatih Erbakan, Meclis komisyonunun İmralı'ya gitmesini doğru bulmuyor; Öcalan ile görüşmeyi Devlet Bahçeli'nin yapmasını önerdi.
+• Mecliste İYİ Parti, DEM Parti ve CHP arasında sert tartışmalar ve kavga yaşandı.
+• Pervin Buldan, barış sürecinde her partiden temsilci olmasını istedi; medya ve basın özgürlüğü konusunda eleştiriler oldu.
+• Selahattin Demirtaş'ın tahliyesi ve Abdullah Öcalan'ın rolü tartışılıyor; hukuki ve siyasi boyutlar gündemde.
+• MHP'nin açılım sürecindeki tutumu ve sloganlara karşı tavrı sorgulandı.
+• Toplumda sürece karşı güvensizlik var; anketlerde bu görülüyor.
+• İktidar ve muhalefet arasında gerilim artıyor; Bahçeli ve Özgür Özel arasında karşılıklı sert açıklamalar yapıldı.
+• Siyasette yaşlı kuşakların gençleri engellediği ve yenilikçi siyasetçilerin çıkmadığı eleştirildi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=OVMHtHBilyw&t=32s) (⏱️ 00:32-04:04)
-- [Unsal Unlu]() (⏱️ 00:00-00:00)
-- [Murat Yetkin](https://www.youtube.com/watch?v=iF4JBD9LxWk&t=6s) (⏱️ 00:06-00:57)
-- [Serdar Akinan](https://www.youtube.com/watch?v=p8Sg2h9BZIU) (⏱️ 00:00-03:34)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=n1eWDHUmXUE&t=720s) (⏱️ 12:00-16:00)
+- [Hilal Koylu](https://www.youtube.com/watch?v=ZoFsMPlvO7E&t=1113s) (⏱️ 18:33-19:59)
+- [Unsal Unlu](https://www.youtube.com/watch?v=eu-KCx24iHo&t=559s) (⏱️ 09:19-11:41)
+- [Rusen Cakir](https://www.youtube.com/watch?v=fDUVMWGUhAs&t=989s) (⏱️ 16:29-25:26)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=1XKLqq8xrF4&t=2700s) (⏱️ 45:00-50:00)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=DB32QFigbqA&t=1860s) (⏱️ 31:00-32:12)
 
 ---
 
-## 3. Türkiye'de Yüksek Enflasyon ve Ekonomik Belirsizlik Vatandaşı Zorluyor
+## 2. Türkiye'de Yasa Dışı Bahis ve Elektronik Ödeme Sistemleri Soruşturması: Devasa Finansal Hacim ve Kamu Görevlileri Tartışması
 
-• Türkiye'de para arzı son bir yılda %40 arttı.
-• Enflasyon oranları çok yüksek ve %30 bandına yapıştı.
-• Gıda enflasyonu geçen ay %4.62 arttı, yumurta ve balık gibi ürünlerde fiyatlar hızla yükseldi.
-• Tarımda üretici enflasyonu aylık %5.8 ile son 6 ayın zirvesine çıktı.
-• Asgari ücretin satın alma gücü yıl başından bu yana ciddi şekilde düştü.
-• Ücretliler ve dar gelirli vatandaşlar enflasyon altında eziliyor.
-• Kira ve hizmetlerdeki fiyat artışları çok yüksek.
-• Üretim azalıyor, ithalat artıyor; yerli üretici yeterince desteklenmiyor.
-• Elektrik maliyetleri sanayicileri zorluyor, şirketler bütçe yapamıyor.
-• Altın fiyatları rekor kırıyor, gram altın 5515 TL'ye çıktı.
-• Dövizde ani artış ve kriz endişesi var; Londra Swap kanalları kapalı.
-• Resmi enflasyon hedefleri sürekli yukarı revize ediliyor, hedefler tutturulamıyor.
-• Carry trade politikası ve doların baskılanması ihracatçılara zarar verdi.
-• Vergi ve ekonomik politikalar eleştiriliyor; dolaylı vergiler vatandaşı daha fazla etkiliyor.
-• IMF Başkanı küresel ekonomik belirsizlik konusunda uyardı, "Emniyet kemerlerinizi bağlayın" dedi.
-• Altın ve ekonomik önlemler önümüzdeki günlerde daha da önem kazanacak.
-• Mecliste bütçe maratonu başlıyor, ekonomi yönetiminin başarısı tartışılıyor.
+• Türkiye'de yasa dışı bahis pazarı 500 milyar TL büyüklüğe ulaştı
+• Papara ve Payfix gibi elektronik ödeme sistemleri yasa dışı bahis gelirlerinin aklanmasında kullanıldı
+• MASAK raporlarına göre Papara'da 150 milyar TL, Payfix'te 45 milyar TL yasa dışı bahis parası tespit edildi
+• 13.616 Papara hesabından 155 milyar TL kuruluş dışına çıkarıldı
+• 22.000 kişi yasa dışı bahis nedeniyle adli işlem görecek
+• Hesaplar çoğunlukla yoksul ilçelerde ve bazen kimlik bilgileriyle habersiz açıldı
+• Saklanaks adlı yazılımla kimlik doğrulama sistemi aşıldı
+• Paralar kripto para firmalarına ve özel bankalara aktarıldı, bir bankada 75 milyar TL transfer tespit edildi
+• Kripto para ve banka firmaları şüpheli işlemleri bildirmedi veya fark etmedi
+• Yasa dışı bahis ağında Halil Falyalı, Bilal Kadayfçioğlu, Veysel Şahin gibi baronlar öne çıkıyor
+• Paralar yurtdışına (Kıbrıs, Bulgaristan, Dubai, Arnavutluk) transfer edildi
+• Papara'nın sahibi Ahmet Faruk Karslı tutuklandı, Payfix'in sahibi Erkan Kork hakkında iddianame düzenlendi
+• Papara'ya ceza kesen maliye müfettişi ve emniyet siber suçlar amiri emekli olduktan sonra Payfix ve Papara'da yönetici oldu
+• Eskiden kamu görevlileri ilgili sektörde 3-5 yıl çalışamıyordu, bu kural kaldırıldı
+• Bu geçişler etik ve hukuki tartışmalara yol açtı, güven sorunu oluştu
+• Medya kanalları ve güzellik merkezleri gibi işletmeler para aklama için kullanıldı
+• Çiftlik Bank dolandırıcılığında da Papara ödeme sistemi kullanıldı
+• Yasa dışı bahis 13 yaşındaki çocuklara kadar indi, toplumsal çürüme riski var
+• Operasyonlarda eksiklikler ve bazı baronlara dokunulmadığı iddia ediliyor
+• MASAK uzmanları IP numaralarıyla para takibi yapıyor, paralar kriptoya çevriliyor
+• Futbol camiası ve ünlü isimlere büyük miktarda para transferi yapıldığı iddia edildi
+• Medyada kara para aklama ve işsiz kalan gazeteciler tartışılıyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=08guErUANE0&t=386s) (⏱️ 06:26-08:15)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=KwrgD1XQCUE&t=353s) (⏱️ 05:53-08:22)
-- [Hilal Koylu](https://www.youtube.com/watch?v=tnK9ro43-qg&t=1900s) (⏱️ 31:40-34:38)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=OVMHtHBilyw&t=1062s) (⏱️ 17:42-20:15)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=DB32QFigbqA&t=1701s) (⏱️ 28:21-30:39)
+- [Onlar TV](https://www.youtube.com/watch?v=vQFXKO9ITTI&t=1383s) (⏱️ 23:03-25:16)
+- [Ozlem Gurses]() (⏱️ 00:00-00:00)
+- [Serdar Akinan](https://www.youtube.com/watch?v=WJwcW3Uq8DA&t=1394s) (⏱️ 23:14-24:07)
 
 ---
 
-## 4. CHP ve MHP'den Yurtdışı, İç Siyaset ve Toplumsal Açılımlar Gündemde
+## 3. Gazze'de Barış Anlaşması, Yeniden İmar ve Türkiye'nin Rolü
 
-• CHP lideri Özgür Özel, yurtdışındaki vatandaşlara telefon kayıt ücreti ve vergilerde kolaylık vaat etti.
-• Özel, Brüksel'de miting düzenledi ve Türkiye'yi yurtdışında şikayet ettiği için eleştirildi.
-• Cumhurbaşkanı Erdoğan, Özel'i yurtdışındaki açıklamaları nedeniyle hedef aldı.
-• CHP'de kurultay davası ve parti içi tartışmalar sürüyor; rüşvet iddiaları gündemde.
-• Kemal Kılıçdaroğlu'nun geri dönüp dönmeyeceği tartışılıyor.
-• Muhalefet kulislerinde Erdoğan'ın muhalefete kavga etmeleri yönünde talimat verdiği iddia ediliyor.
-• Yeni anayasa ve hukuk reformu süreci başlatılacak; Erdoğan'ın yeniden seçilmesinin önü açılabilir.
-• CHP, hükümetin Filistin ve Gazze politikasını eleştiriyor; Türkiye'nin çıkarlarının garantörü olduğunu vurguluyor.
-• MHP lideri Devlet Bahçeli, Alevi açılımı yaptı; cemevlerinin ibadethane olarak tescil edilmesini istedi.
-• Bahçeli'nin açıklamaları olumlu karşılandı; Alevi ve Kürt açılımı tartışmaları gündemde.
-• MHP'nin açılımlarının CHP'nin tabanını zayıflatma amacı taşıdığı değerlendiriliyor.
+• Gazze'nin yeniden inşası için 70 milyar dolar gerektiği açıklandı
+• Savaşta 67.000 kişi öldü, 14.000'i çocuk
+• 2 milyon kişi yerinden edildi, insani dram yaşanıyor
+• İsrail, Körfez ülkeleri ve Türkiye'nin katılımıyla barış anlaşması imzalandı
+• Anlaşmada Gazze'nin Filistin'in parçası olduğuna dair net bir ifade yok
+• Hamas'ın silah bırakması isteniyor, Hamas bunu reddediyor
+• Ateşkes sağlandı, rehineler ve mahkumlar serbest bırakıldı
+• Barışın kalıcı olup olmayacağı tartışmalı
+• Türkiye'nin garantör ülke olması ve diplomatik rolü öne çıktı
+• Erdoğan, anlaşmanın tarihi önemde olduğunu söyledi
+• İsrail'e güvenilmediği ve ileride yeni sorunlar çıkabileceği belirtiliyor
+• Batı dünyasında İsrail karşıtı protestolar arttı
+• 6 Şubat depremi sonrası boşta kalan konteynerların Gazze'ye gönderilmesi önerildi
+• İsrail'in soykırım suçunun cezasız kalmaması gerektiği vurgulandı
+• Barış planının insani boyutunun zayıf kaldığı eleştirildi
+• Şu anda olumlu tek gelişme bombalamanın durması ve insani yardımın başlaması
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=N9bHzSbjd1A&t=2220s) (⏱️ 37:00-45:00)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=n1eWDHUmXUE&t=960s) (⏱️ 16:00-21:20)
-- [Hilal Koylu](https://www.youtube.com/watch?v=tnK9ro43-qg&t=197s) (⏱️ 03:17-06:18)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=OVMHtHBilyw&t=937s) (⏱️ 15:37-17:01)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=DB32QFigbqA&t=1932s) (⏱️ 32:12-36:43)
+- [Serdar Akinan](https://www.youtube.com/watch?v=WJwcW3Uq8DA&t=1003s) (⏱️ 16:43-21:35)
+- [Unsal Unlu](https://www.youtube.com/watch?v=eeWXjWwbsyo&t=128s) (⏱️ 02:08-05:29)
+- [Rusen Cakir](https://www.youtube.com/watch?v=fDUVMWGUhAs&t=747s) (⏱️ 12:27-16:24)
 
 ---
 
-## 5. Türkiye'de Ekonomik Zorluklar, Barınma Krizi ve Eğitimde Eşitsizlik Derinleşiyor
+## 4. Türkiye'de Ekonomi, Siyaset ve Toplumda Derinleşen Sorunlar
 
-• Üniversite eğitim süresinin 3 yıla düşmesi gündemde.
-• Türkiye'de 295 üniversite var, mezun olmak iş bulmak için yeterli değil.
-• Öğrenciler ve aileleri yurt ve barınma sorunlarıyla karşı karşıya.
-• İstanbul'da ortalama kira 33.000 TL'ye ulaştı.
-• Emekliler de kira ödeyemediği için huzurevi sırası bekliyor.
-• Huzurevi sayısı yetersiz, emeklilerin yaşam koşulları zorlaşıyor.
-• Gençler gelecekten umutsuz, yurtdışına göç etmek istiyor.
-• Yurtdışında hayal edilen hayatın gerçek olmadığı belirtiliyor.
-• Türkiye'de ekonomik sıkıntılar nüfusun %75-80'ini etkiliyor.
-• Önlem alınmazsa ekonomik durum daha da kötüleşecek.
-• Zengin ve yoksul aileler arasında eğitim fırsatları çok farklı.
-• Varlıklı ailelerin çocukları yurtdışında iyi okullarda okuyor, yoksul ailelerin çocukları zor şartlarda eğitim alıyor.
-• Eğitimdeki eşitsizlik toplumsal sorunlara yol açıyor.
+• Kredi faizleri yüksek, krediye erişim zor.
+• Faiz indirimleri piyasaya yansımıyor, kredi büyümesi sınırlı.
+• Sanayi ve imalat sektörlerinde istihdam azalıyor.
+• Türk lirası değerli, ihracatçı zorlanıyor.
+• Borsada yabancı yatırımcı az, tasarruflar düşük.
+• Merkez Bankası'nın politikaları ve TL'nin değeri tartışılıyor.
+• Ekonomide belirsizlik ve güvensizlik yatırımcıyı olumsuz etkiliyor.
+• Toplumda adaletsizlik ve yoksulluk öne çıkıyor.
+• Siyasette merkez ve etnik siyaset karşı karşıya.
+• Siyasi partilere ve tartışmalara ilgi azaldı, vatandaş yapılanlara bakıyor.
+• Siyasetçiler için zor bir dönem başlıyor.
+• Siyaset, hukuk ve devlet kavramlarında eksiklikler var.
+• Anayasa uygulanmıyor, gelir dağılımı kötü.
+• Yenilikçi bir sınıf ve anlayış eksik, umut az.
+• Toplumun çoğu demokrasi ve ekonominin kötüye gittiğini düşünüyor.
+• Yargıya güven düşük.
+• Vatandaşlar geçim sıkıntısı ve yüksek enflasyon nedeniyle tepkili.
+• Siyasi partilerden umudunu kesenler artıyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=08guErUANE0&t=740s) (⏱️ 12:20-13:33)
+- [Unsal Unlu](https://www.youtube.com/watch?v=eeWXjWwbsyo&t=1112s) (⏱️ 18:32-21:44)
+- [Rusen Cakir](https://www.youtube.com/watch?v=fDUVMWGUhAs&t=985s) (⏱️ 16:25-16:24)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=1XKLqq8xrF4&t=990s) (⏱️ 16:30-37:00)
 
 ---
 
-## 6. Altın Fiyatlarında Rekor Yükseliş ve Güvenli Yatırım Yöntemleri
+## 5. Ünsal Ban'ın Yurt Dışına Kaçışı ve İBB Başkan Vekili Nuri Aslan'a Açılan Dava: Yargı Süreçleri Tartışılıyor
 
-• Altın fiyatları son günlerde rekor seviyelere ulaştı
-• Yükselişin nedeni sadece ekonomi ve jeopolitik değil, insanların daha fazla almak istemesi de etkili
-• FOMO (kaçırma korkusu) piyasada yaygın
-• Merkez bankaları altın alıyor, dolara olan güven azalıyor
-• Altın fiyatlarının bir süre daha yükselip sonra durağanlaşması bekleniyor
-• Yurt dışında güvenli altın almak için banka hesabı veya borsa yatırım fonları (ETF) kullanılabilir
-• Fiziki altın almak isteyenler sertifikalı ürünleri tercih etmeli
-• Bankacılık sistemine güven önemli, mevduatlara el koyma riski geçmişte yaşandı
-• Türkiye'de bankadan veya fon üzerinden yatırım öneriliyor
-• Fiziki altın saklamak için yurt dışında kasa hizmetleri var ama bunlar zor çözümler
-• Altın, toplumda en güvenli yatırım olarak görülüyor
-• Hatta dilenciler bile kazançlarını altına çeviriyor, bir dilencinin kutusundan 67 çeyrek altın çıktı
-• Dilencilikte organize yapılar ve vergisiz kazançlar var
-• Bu olaylar, altının toplumda ne kadar değerli olduğunu gösteriyor
+• Ünsal Ban, Zehra Taşkesenlioğlu'nun eski eşi ve birçok suçlamayla karşı karşıya.
+• Hakkında borsa manipülasyonu, suç örgütü kurma ve mal varlığı aklama iddiaları var.
+• Adli kontrolle serbest bırakıldıktan sonra Yunanistan'a kaçtı.
+• Gemi adamı belgesiyle kaçışı ve bu belgenin nasıl verildiği sorgulanıyor.
+• Yunanistan'dan oturma izni aldı, bu durumun milli güvenlik açısından tartışıldığı belirtildi.
+• CHP'liler, Ban'ın serbest bırakılmasını eleştiriyor; AK Parti ise Interpol ile geri getirilebileceğini söylüyor.
+• Ünsal Ban'ın rektör olabilmesi için üniversite kurulduğu iddia edildi; yargıdaki bağlantıları ve adalet sistemi sorgulanıyor.
+• İBB Başkan Vekili Nuri Aslan hakkında güvenlik bariyerini aşmak ve görevi yaptırmamak için direnme suçlamasıyla dava açıldı.
+• 6 aydan 3 yıla kadar hapis talebi var; davanın ciddiyeti ve siyasi ortamda bu tür süreçlerin devam edeceği eleştiriliyor.
+• Çağlayan Adliyesi'ndeki olay sonrası borsada %5'in üzerinde düşüş yaşandı.
+• Ekrem İmamoğlu'na yönelik operasyonlardan sonra başkan vekiline dava açılması, siyasi baskı iddialarını gündeme getirdi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=KwrgD1XQCUE) (⏱️ 00:00-02:01)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=OVMHtHBilyw&t=1254s) (⏱️ 20:54-23:27)
+- [Hilal Koylu](https://www.youtube.com/watch?v=ZoFsMPlvO7E&t=1414s) (⏱️ 23:34-24:19)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=1XKLqq8xrF4&t=20s) (⏱️ 00:20-06:00)
+- [Unsal Unlu](https://www.youtube.com/watch?v=eu-KCx24iHo&t=1162s) (⏱️ 19:22-22:59)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=DB32QFigbqA&t=90s) (⏱️ 01:30-03:50)
 
 ---
 
-## 7. Türkiye'de Vergi Usulsüzlükleri, Kara Para Operasyonları ve Siyasi-Medya Çürümüşlüğü
+## 6. Gazeteci Hakan Tosun'un Şüpheli Ölümü ve Adalet Arayışı
 
-• Maliye, yüksek harcama yapanların gelirlerini denetlemeye başladı.
-• Düşük gelir beyan edip yüksek harcama yapanlar tespit ediliyor.
-• Vergi denetimlerinin yetersizliği eleştiriliyor.
-• Son dönemde kara para aklama operasyonları yapıldı.
-• Altın rafinerisi ve finansal şirketler üzerinden büyük para aklama işlemleri gerçekleşti.
-• Bazı kamu görevlileri gözaltına alınmadı, adaletsizlik vurgulandı.
-• Türkiye'de emekli maaşı ve asgari ücret Avrupa'ya göre çok düşük.
-• Medya, sermaye ve siyaset alanında çürümüşlük olduğu belirtiliyor.
-• Medyanın olayları zafer gibi sunması eleştiriliyor.
-• Toplumda büyük eşitsizlik ve adaletsizlik var.
-• Temizlenmesi gereken büyük bir enkaz olduğu ifade ediliyor.
-• Halkın bu duruma karşı çıkması gerektiği savunuluyor.
+• Gazeteci Hakan Tosun, İstanbul Esenyurt'ta uğradığı saldırı sonucu hayatını kaybetti.
+• Hastaneye bilinci kapalı şekilde getirildi, kimliği çıkmadı, ailesine ulaşılamadı.
+• Olay yerindeki güvenlik kamerası kayıtlarını saldırganların yakınları aldı, polis esnaftan kayıtları almadı.
+• Kamera kayıtlarını veren esnaf gözaltına alındı.
+• İki kişi tutuklandı, olayın arkasında kim olduğu belirsiz.
+• Tosun'un kimliği ve eşyalarının kaybolması, üçüncü kişinin kimliği gibi sorular gündemde.
+• Olayın adli vaka olarak değerlendirilmesi eleştirildi, planlı cinayet olabileceği iddia edildi.
+• Gazetecilik örgütleri ve meslektaşları olayın aydınlatılmasını ve adaletin sağlanmasını istiyor.
+• Gazetecilere yönelik şiddet ve tehditler devam ediyor, devletin açıklama yapması bekleniyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=08guErUANE0&t=573s) (⏱️ 09:33-12:14)
-- [Serdar Akinan](https://www.youtube.com/watch?v=p8Sg2h9BZIU&t=214s) (⏱️ 03:34-08:17)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=1XKLqq8xrF4&t=360s) (⏱️ 06:00-10:00)
+- [Unsal Unlu](https://www.youtube.com/watch?v=eu-KCx24iHo&t=2844s) (⏱️ 47:24-48:32)
+- [Hilal Koylu](https://www.youtube.com/watch?v=ZoFsMPlvO7E&t=1920s) (⏱️ 32:00-34:48)
+- [Serdar Akinan]() (⏱️ 00:00-00:00)
 
 ---
 
-## 8. Mansur Yavaş'a Soruşturma ve Ankara'da Siyasi Hareketlilik
+## 7. 11. Yargı Paketi'nde LGBTİ+ Düzenlemeleri ve Toplumsal Tepkiler
 
-• Ankara'nın başkent oluşunun 102. yılı kutlandı
-• Cumhuriyetin 102. yılı da kutlanıyor
-• Mansur Yavaş ve başsavcı Anıtkabir'de yan yana görüntülendi
-• Başsavcı, bir gün önce Mansur Yavaş hakkında soruşturma izni istedi
-• Soruşturma dosyası detaylı hazırlandı ama Yavaş'ı suçlayacak net bir kanıt yok
-• İçişleri Bakanı'nın soruşturma izni vermesi bekleniyor
-• Soruşturma konusu gündemde kalmaya devam ediyor
-• Mansur Yavaş hakkında kamu zararı iddiası var
-• Milliyetçi cephe partileri Mansur Yavaş'a destek verdi
-• Mansur Yavaş'ın cumhurbaşkanı adayı olup olmayacağı tartışılıyor
-• CHP'li belediye başkanlarına operasyonlar yapıldığı belirtiliyor
-• Ankara'da siyasi hareketlilik ve yoğunluk yaşanıyor
-• Hafta sonları siyasi gelişmelerin arttığı gözlemleniyor
+• 11. yargı paketinde LGBTİ+ karşıtı düzenlemeler gündeme geldi.
+• Taslakta biyolojik cinsiyete ve genel ahlaka aykırı davranışlara 1-3 yıl hapis cezası öngörülüyor.
+• Cinsiyet değişikliği yaşı 25'e çıkarılacak.
+• Aynı cinsiyetteki kişilerin evlenme töreni yapması da cezalandırılacak.
+• Düzenleme muğlak ve insan haklarına aykırı olarak eleştiriliyor.
+• AK Parti yetkilileri, kesinleşmiş bir düzenleme olmadığını açıkladı.
+• Muhalefet ve LGBTİ+ hakları savunucuları tepki gösteriyor.
+• Toplumda bireysel özgürlükler ve toplumsal değişim vurgulanıyor.
+• ABD'deki benzer tartışmalar örnek gösteriliyor.
+• Türkiye'de böyle bir yasağın büyük tepki çekeceği belirtiliyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=OVMHtHBilyw&t=583s) (⏱️ 09:43-11:46)
-- [Hilal Koylu](https://www.youtube.com/watch?v=tnK9ro43-qg&t=1527s) (⏱️ 25:27-29:47)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=1XKLqq8xrF4&t=2340s) (⏱️ 39:00-45:00)
+- [Serdar Akinan]() (⏱️ 00:00-00:00)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=DB32QFigbqA&t=30s) (⏱️ 00:30-01:30)
 
 ---
 
-## 9. Türkiye'de Şirket İflasları ve Kapanmalar İşsizliği Artırıyor
+## 8. Bahçeli'nin Cemevi ve Askeri Hastane Açılımı: Siyasi Tartışmalar ve Meclis Gündemi
 
-• Birçok büyük firma konkordato ilan etti ve iflaslarda büyük artış yaşanıyor.
-• Konkordato başvuruları geçen seneye göre %108 arttı.
-• Kesin mühlet alanların oranı %224 yükseldi.
-• İflaslarda %100 artış var.
-• Maliyetlerin yükselmesi şirketleri zorluyor.
-• Alsancak Çimento, Mapsis Savacılık, Didvani Mobilya, Win Metal Endüstri, ADZ Enerji İnşaat, Emsan Elektrik, Bilemsan Elektrik, SMK Life Turizm gibi firmalar konkordato ilan etti.
-• Collins fabrikası Aksaray'da kapandı, 1500 kişi işsiz kaldı.
-• Collins üretimi Mısır'a taşıdı.
-• Son iki yılda tekstil ve giyim sektöründe toplam 200.000 kişi işini kaybetti.
-• Tokat'taki büyük tekstil fabrikasında üretim durdu, 800'den fazla işçi maaş alamıyor ve iş bırakma eylemi yapıyor.
-• Birçok şirket sessizce işçi çıkarmaları yapıyor.
-• Ekonomik sıkıntılar işçi haklarını olumsuz etkiliyor.
+• MHP lideri Devlet Bahçeli, cemevlerinin devlet tarafından ibadethane olarak kabul edilmesini önerdi.
+• Bahçeli ayrıca askeri hastanelerin yeniden açılması gerektiğini söyledi.
+• Cemevlerinin ibadethane sayılması, Alevi toplumunda ve siyasette tartışma yarattı.
+• Muhalefet, Bahçeli'nin Alevi oylarını çekmeye çalıştığını iddia etti.
+• CHP, hem cemevleri hem askeri hastaneler konusunda uzun süredir benzer önerilerde bulunuyor.
+• Bu öneriler geçmişte TBMM'de kabul görmedi.
+• Askeri hastaneler, 15 Temmuz darbe girişiminden sonra kapatılmıştı.
+• Türkiye, NATO ülkeleri arasında askeri hastane sistemine sahip olmayan tek ülke konumunda.
+• Nevşehir'de büyük bir cemevi inşası yapılıyor.
+• Bahçeli'nin önerileri sonrası CHP hemen yasa önerisi verdi.
+• Siyasi partiler arasında önerilerin reddedilip daha sonra iktidar tarafından benzer şekilde kabul edilmesi eleştiriliyor.
+• Bahçeli'nin önerilerinin mecliste ve Cumhurbaşkanı Erdoğan tarafından nasıl karşılanacağı merak ediliyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=08guErUANE0) (⏱️ 00:00-00:24)
+- [Murat Yetkin](https://www.youtube.com/watch?v=VcxQ0rP2jOE&t=4s) (⏱️ 00:04-02:25)
+- [Hilal Koylu](https://www.youtube.com/watch?v=ZoFsMPlvO7E&t=1332s) (⏱️ 22:12-23:31)
 
 ---
 
-## 10. Çözüm Süreci, İmralı Görüşmeleri ve Bölgesel Kürt Politikaları: Medya, Siyaset ve Demokratikleşme Tartışmaları
+## 9. ABD-Türkiye İlişkilerinde Yeni Dönem: Suriye, Savunma ve Nadir Toprak Elementleri Pazarlığı
 
-• Pervin Buldan, medyanın dilini ve çözüm sürecine zarar veren söylemleri eleştirdi.
-• Abdullah Öcalan'ın medyaya yönelik eleştirileri ve barış sürecine dair görüşleri gündeme geldi.
-• Medya dili ve siyasi söylemlerin toplumsal etkisi tartışıldı, iktidarın pozitif dil kullanması istendi.
-• Bülent Arınç, Öcalan ile devlet adına görüşmeye gönüllü olduğunu açıkladı.
-• İmralı'ya heyet gönderilmesi ve Milli Kardeşlik Komisyonu'nun kurulması iddiaları konuşuldu.
-• Komisyonun terörle mücadele ve ceza kanununda değişiklik önerileri hazırlayacağı belirtildi.
-• PKK'lıların silah bırakması ve entegrasyon projeleri gündeme geldi.
-• Diaspora Kürtlerinin sürece katılımı ve yasal düzenleme ihtiyacı vurgulandı.
-• Selahattin Demirtaş'ın serbest bırakılması, sürecin toplumsallaşması açısından önemli görüldü.
-• Kayyum politikası, ana dil ve tutuksuz yargılama gibi demokratikleşme adımları tartışıldı.
-• Türkiye'deki çözüm sürecinin Irak, Suriye ve İran'daki Kürt grupları üzerindeki etkileri aktarıldı.
-• Suriye'de SDG'nin durumu, bölgedeki kırılganlık ve olası çatışma beklentisi anlatıldı.
-• Türkiye'nin Kürtlerle bölgesel yakınlaşması ve yeni toplumsal sözleşme ihtiyacı gündeme geldi.
+• ABD Kongresi, Türkiye ile ilgili kapsamlı bir rapor yayınladı
+• Raporda Türkiye'nin NATO üyeliği, F35 ve S400 krizleri, Kaatsa yaptırımları, F16 satışı ve yazılım güncellemesi talepleri ele alınıyor
+• Türkiye'nin dış politikası 'salıncak devlet' olarak tanımlanıyor, öngörülemez ve pragmatik olduğu vurgulanıyor
+• Türkiye'nin Rusya, Hamas, BRICS gibi yapılarla ilişkileri ABD açısından sorun olarak görülüyor
+• İç politikada CHP'li belediye başkanlarına yönelik davalar, Kürt meselesi ve ekonomik ilişkiler raporda yer alıyor
+• ABD'nin Türkiye'ye tam güvenmediği, dikkatli yaklaşılması gerektiği belirtiliyor
+• Suriye'de SDG ve Şam yönetimi arasında orduların birleşmesi gündemde
+• ABD, Suriye'de arabulucu rolünde ve süreci olumlu etkiliyor
+• Türkiye, SDG'nin Suriye ordusuna entegre olmasını taviz olarak görüyor
+• Türkiye'nin askeri operasyonları ABD ile ilişkileri olumsuz etkileyebilir
+• Suriye-Rusya yakınlaşması, Türkiye'nin bölgedeki stratejisini etkileyebilir
+• S400'lerin Rus üslerine taşınması ve Türkiye'nin elinden çıkarması tartışılıyor
+• Eskişehir'de büyük nadir toprak elementi rezervi bulundu
+• Türkiye, ABD ile bu rezervlerin ortak çıkarılması ve işlenmesi için pazarlık yürütüyor
+• Nadir toprak elementleri, F35 uçakları için kritik öneme sahip
+• Türkiye'nin madencilikte teknoloji ve iş gücü eksikliği var
+• Çin ile yapılan madencilik mutabakatında tıkanma yaşandı
+• ABD ile iş birliği, Türkiye'nin stratejik pazarlık gücünü artırıyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=N9bHzSbjd1A&t=2700s) (⏱️ 45:00-54:48)
-- [Unsal Unlu]() (⏱️ 00:00-00:00)
-- [Hilal Koylu](https://www.youtube.com/watch?v=tnK9ro43-qg&t=829s) (⏱️ 13:49-20:09)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=OVMHtHBilyw&t=842s) (⏱️ 14:02-15:37)
-- [Rusen Cakir](https://www.youtube.com/watch?v=YNUCDq8VSxE&t=1541s) (⏱️ 25:41-27:08)
-- [Serdar Akinan](https://www.youtube.com/watch?v=p8Sg2h9BZIU&t=823s) (⏱️ 13:43-16:30)
+- [Serdar Akinan]() (⏱️ 00:00-00:00)
+- [Rusen Cakir](https://www.youtube.com/watch?v=ow3p4evmIrA&t=1270s) (⏱️ 21:10-33:57)
+- [Onlar TV](https://www.youtube.com/watch?v=cwDSwH8VK6Q&t=364s) (⏱️ 06:04-11:55)
 
 ---
 
-## 11. CHP'li Eski Nilüfer Belediye Başkanı ve Avukat Rezzan Epözdemir'e Rüşvet Soruşturması
+## 10. Ekonomik Kriz Tekstil ve Medya Sektörlerinde Derinleşiyor
 
-• CHP'li eski Nilüfer Belediye Başkanı Turgay Erdem tutuklandı
-• Rüşvet ve irtikap iddiaları var
-• Eşi gözaltına alındı, mal varlıklarına ve bir şirkete el konuldu
-• Benzer rüşvet dosyaları İstanbul, Adana, Antalya ve İzmir'de de bulunuyor
-• İzmir'de CHP il başkanı serbest bırakıldı, Tunç Soyar'ın tutukluluğu sürüyor
-• Avukat Rezzan Epözdemir hakkında rüşvete aracılık suçlamasıyla dava açıldı
-• Epözdemir için 12 yıla kadar hapis talebi var
-• İddianamede iki tanık, rüşvetin Epözdemir tarafından alındığını söyledi
-• 2021 yılında iki tutuklunun tahliyesi ve ev hapsi tedbirinin kaldırılması için rüşvete aracılık ettiği iddia ediliyor
-• Tutukluluğun hukuki açıdan tartışmalı olduğu belirtiliyor
+• Tekstil ve hazır giyim sektöründe büyük sıkıntılar yaşanıyor.
+• Abdullah Kiğılı, devletin sektörü gözden çıkardığını ve üretimin durma noktasına geldiğini söyledi.
+• Anadolu'da birçok fabrika kapanıyor, üretim Mısır gibi ülkelere kayıyor.
+• Sektör temsilcileri, yüksek maliyetler ve krediye erişim zorluğu nedeniyle üreticilerin zor durumda olduğunu belirtti.
+• Sanayiciler, ucuz kredi değil, krediye erişim istiyor.
+• Ekonomik kriz medya sektörünü de etkiledi.
+• Ekol TV, küçülmeye giderek İstanbul ve Ankara bürolarını kapattı.
+• Mübariz Mansimov, medya yerine denizcilik sektörüne odaklanacağını açıkladı.
+• KRT TV, Halk TV, Flash Haber TV ve Hürriyet'te de işten çıkarmalar yaşanıyor.
+• Ekol TV'nin yasa dışı bahis operasyonuna maruz kalacağı iddiaları gündeme geldi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=OVMHtHBilyw&t=706s) (⏱️ 11:46-12:48)
-- [Hilal Koylu](https://www.youtube.com/watch?v=tnK9ro43-qg&t=2267s) (⏱️ 37:47-38:06)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=1XKLqq8xrF4&t=600s) (⏱️ 10:00-16:30)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=DB32QFigbqA&t=750s) (⏱️ 12:30-15:25)
+- [Hilal Koylu](https://www.youtube.com/watch?v=ZoFsMPlvO7E&t=1796s) (⏱️ 29:56-31:52)
 
 ---
 
-## 12. Türkiye'de Gıda Güvenliği ve Protein Üretiminde Ciddi Sorunlar
+## 11. Erdoğan'ın 500 Bin Konut Projesi ve Deprem Bölgesindeki Barınma Sorunları
 
-• Türkiye'de protein üretimi yok olma tehlikesiyle karşı karşıya.
-• Hayvan üreticileri hayvanlarını kestirmeye başladı.
-• Proteinden yoksun beslenme çocukların gelişimini ve yaşlıların sağlığını olumsuz etkiliyor.
-• Türkiye'de satılan bebe bisküvisinde palm yağı kullanılıyor.
-• Palm yağı sağlığa zararlı olarak biliniyor.
-• Palm yağı birçok ülkede yasak, Türkiye'de ise yaygın kullanılıyor.
-• Denetim eksikliği ve üreticilerin sorumsuzluğu eleştiriliyor.
-• Uzmanlar palm yağının gıdalardan çıkarılması gerektiğini savunuyor.
+• Cumhurbaşkanı Erdoğan, 500.000 yeni sosyal konut projesi açıkladı.
+• Proje kapsamında TOKİ aracılığıyla kiralık konut uygulaması başlatılacak.
+• Gazilere, şehit yakınlarına ve üç çocuklu ailelere özel kontenjan ayrılacak.
+• Devlet, kira piyasasını düzenlemeyi hedefliyor.
+• Daha önce açıklanan sosyal konut projelerinde teslimatlar düşük kaldı.
+• Deprem konutlarının yarısı henüz teslim edilmedi.
+• Kamu müteahhitlerinin ödemelerinde gecikmeler yaşanıyor.
+• Hayat pahalılığı ve kira sorunu iktidarın sorumluluğunda görülüyor.
+• Hatay'da kış yaklaşırken konteyner kentlerde yaşayanlar barınma sorunu yaşıyor.
+• TOKİ'nin yaptığı yeni konutlar uzak bölgelerde, ulaşım sıkıntısı var.
+• Deprem bölgesinde insanlar zorla konteynerlerden çıkarılıyor.
+• Ekonomik sıkıntılar devam ediyor, halk geçim zorluğu çekiyor.
+• Muhalefet, hükümetin konut ve ekonomi politikalarını eleştiriyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=08guErUANE0&t=887s) (⏱️ 14:47-15:48)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=DB32QFigbqA&t=925s) (⏱️ 15:25-19:50)
+- [Hilal Koylu](https://www.youtube.com/watch?v=ZoFsMPlvO7E&t=1462s) (⏱️ 24:22-28:17)
 
 ---
 
-## 13. Merkez Sağ ve Milliyetçi Partilerde Birleşme ve Gelecek Tartışmaları
+## 12. Anayasa Mahkemesi Cumhurbaşkanı ve Basın İlan Kurumu Yetkilerini Sınırlandırdı
 
-• Türkiye'de milliyetçi partilerin birleşme ihtimali gündeme geldi.
-• İyi Parti, Zafer Partisi ve Anahtar Parti'nin birleşmesi konuşuluyor.
-• Bu partiler ayrı ayrı seçim barajını aşamıyor.
-• Birleşirlerse oy oranları artabilir ve barajı geçebilirler.
-• Birleşme için en olası yol İyi Parti çatısı altında birleşmek.
-• Anahtar Parti birleşmeye sıcak bakmıyor, kendi gücünü görmek istiyor.
-• Zafer Partisi birleşmeyi en çok isteyen parti gibi görünüyor.
-• Sığınmacı meselesi gündemden düştü, Zafer Partisi'nin etkisi azaldı.
-• Birleşme olursa İyi Parti'nin merkez sağ iddiası zedelenebilir.
-• Partiler arasında eski kırgınlıklar ve çatışmalar var.
-• Seçim atmosferi oluşursa birleşme tartışması daha netleşecek.
-• DEVA Partisi lideri Ali Babacan'ın siyasi geleceği tartışılıyor.
-• Babacan'ın AK Parti'ye dönebileceği iddiaları var, DEVA Partisi bunu reddediyor.
-• Babacan'ın cumhurbaşkanı adayı olması için anketler yapılıyor.
-• DEVA Partisi'nin Erdoğan'a karşı ikinci sırada gösterilmesi eleştiriliyor.
-• CHP'ye yönelik eleştirilerde Babacan'ın adı sıkça geçiyor.
+• Anayasa Mahkemesi, Cumhurbaşkanı Erdoğan'ın Türk parası ile ilgili tek başına karar verme yetkisini iptal etti
+• Artık Türk parası ile ilgili kararlar Meclis'ten yasa olarak geçmek zorunda
+• Cumhurbaşkanlığı hükümet sisteminde verilen bu yetki anayasaya aykırı bulundu
+• Anayasa Mahkemesi ayrıca Basın İlan Kurumu'nun yetkisini de sınırlandırdı
+• Basın İlan Kurumu'nun reklam girdilerini kısması yerel gazeteleri zor durumda bıraktı
+• Medyanın bu önemli kararı yeterince gündeme taşımadığı eleştirildi
+• Yerel gazetelerin kamuoyu oluşturması gerektiği vurgulandı
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=icWTnAa6SRk&t=4s) (⏱️ 00:04-09:28)
-- [Hilal Koylu](https://www.youtube.com/watch?v=tnK9ro43-qg&t=445s) (⏱️ 07:25-13:41)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=DB32QFigbqA&t=1839s) (⏱️ 30:39-31:00)
+- [Unsal Unlu](https://www.youtube.com/watch?v=eu-KCx24iHo&t=1391s) (⏱️ 23:11-27:28)
 
 ---
 
-## 14. Murat Ülker'in Yaşamı ve Sermaye Sahiplerinin Yurt Dışına Çıkışı Tartışması
+## 13. ABD'de Bütçe Krizi ve Göçmen Politikaları Ülke Genelinde Gerilimi Artırıyor
 
-• Murat Ülker, annesinin evinde oturduğunu açıkladı
-• Başka bir evi olmadığını ve tüm evlatların aynı evde yaşadığını söyledi
-• Londra'ya taşındığı iddialarını reddetti, Türkiye'de yaşadığını belirtti
-• Yurt dışındaki şirketleri Türkiye'ye getirdiğini ifade etti
-• Rahmi Koç'un, işleri yurt dışına taşımanın iyi olduğunu söylediği aktarıldı
-• Sermaye sahiplerinin yurt dışına çıkışı ve iktidarın bu duruma bakışı tartışıldı
-• Ciner operasyonu sonrası iş insanlarının medyadan uzak durduğu belirtildi
+• ABD'de bütçe görüşmeleri tıkandı, devlet kurumları kapandı
+• 700.000 devlet çalışanı işe gitmiyor
+• Devletin kapanması maaş ödemelerinde belirsizlik yarattı
+• Bazı devlet kurumlarında işten çıkarmalar başladı
+• Demokratlar ve Cumhuriyetçiler sağlık sigortası sübvansiyonları konusunda anlaşamıyor
+• Demokratlar, sosyal sağlık harcamalarının kesilmesine karşı çıkıyor
+• Cumhuriyetçiler, sübvansiyonları azaltmak istiyor
+• Kamuoyu, sağlık harcamaları konusunda demokratları destekliyor
+• Krizin birkaç hafta hatta aylar sürebileceği tahmin ediliyor
+• Trump yönetimi göçmenlere karşı baskınlar düzenliyor
+• ICE örgütü, fabrikalarda ve restoranlarda baskınlar yapıyor
+• Bazı eyalet valileri, ulusal muhafızların şehirlerine girmesini istemiyor
+• Demokrat taban ICE'a karşı gösteriler ve küçük çaplı saldırılar düzenliyor
+• Trump, Antifa'yı terör örgütü ilan etti ve olağanüstü hal uygulamak istiyor
+• Göçmen ve asayiş politikaları ülkede otoriterleşme ve kaos korkusu yaratıyor
+• Kamuoyunda göçmenlerle mücadele konusunda Trump daha fazla destek görüyor
+• Demokratlar ekonomik konulara odaklanmayı tercih ediyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=OVMHtHBilyw&t=1021s) (⏱️ 17:01-17:42)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=n1eWDHUmXUE&t=1860s) (⏱️ 31:00-36:00)
+- [Rusen Cakir](https://www.youtube.com/watch?v=ow3p4evmIrA&t=33s) (⏱️ 00:33-07:28)
 
 ---
 
-## 15. Gümüşün Altına Göre Yatırım Potansiyeli ve Riskleri
+## 14. Mansur Yavaş'a Soruşturma ve Cumhuriyet Bayramı Kutlamaları Gündemde
 
-• Gümüş, altını sonradan takip eden bir yatırım aracı
-• Altın yükseldikten sonra gümüş de yükseliyor
-• Gümüşün getirisi altına göre daha fazla olabilir ama daha riskli
-• Gümüşte ani ve büyük kayıplar yaşanabiliyor
-• Amerika'da gümüşe 'şeytanın metali' deniyor
-• Herkese uygun bir yatırım değil, büyük dalgalanmalar olabilir
+• Ankara Büyükşehir Belediye Başkanı Mansur Yavaş, CHP Genel Başkanı Özgür Özel'i ziyaret etti.
+• Görüşme sürpriz olarak karşılandı.
+• Mansur Yavaş'a muhalefet partilerinden destek ziyaretleri yapıldı.
+• Yavaş'a, belediyenin düzenlediği konserler nedeniyle soruşturma açıldı.
+• Savcılık, kamu zararı iddiasıyla İçişleri Bakanlığı'ndan izin istedi.
+• Mansur Yavaş, Cumhuriyet Bayramı'nı coşkulu şekilde kutlayacaklarını açıkladı.
+• Milli bayramlardan vazgeçmeyeceklerini vurguladı.
+• 29 Ekim kutlamaları için büyük etkinlikler planlanıyor.
+• Samsun'dan bando ve fener alayı Ankara'ya gelecek.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=KwrgD1XQCUE&t=122s) (⏱️ 02:02-04:31)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=DB32QFigbqA&t=230s) (⏱️ 03:50-06:35)
+- [Hilal Koylu](https://www.youtube.com/watch?v=ZoFsMPlvO7E&t=1205s) (⏱️ 20:05-22:08)
 
 ---
 
-## 16. Akademisyen Emrah Gülsunar Tutuklandı
+## 15. Ekonomik Sıkıntılar ve Toplumsal Tepkiler: Boş Tencere Eylemi ile Elle Yemek Yeme Modası
 
-• Akademisyen Emrah Gülsunar, sosyal medya paylaşımı nedeniyle gözaltına alındı.
-• Venezuela'daki Nobel ödüllü muhalif liderle ilgili anket açtı.
-• Anketin sonucu ve önceki paylaşımları nedeniyle tutuklandığı düşünülüyor.
-• Gülsunar, paylaşımının Türkiye ile ilgili olmadığını açıkladı.
-• Sunucu, tutuklamalara karşı olduğunu belirtti.
+• CHP'li kadınlar 17 Ekim'de boş tencere eylemi yapacak
+• Eylemin amacı ekonomik sıkıntılara dikkat çekmek
+• Kadınlar sokakta protesto düzenleyecek
+• Sosyete çevrelerinde elle yemek yeme modası başladı
+• Bu akım gastroekonomi zirvesinde ortaya çıktı
+• Elle yemek yeme modası magazin yönüyle ilgi çekti
+• Her iki olay da ekonomik koşullara toplumsal tepkiyi gösteriyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=N9bHzSbjd1A&t=300s) (⏱️ 05:00-16:00)
+- [Hilal Koylu](https://www.youtube.com/watch?v=ZoFsMPlvO7E&t=2256s) (⏱️ 37:36-37:46)
+- [Unsal Unlu](https://www.youtube.com/watch?v=eu-KCx24iHo&t=3194s) (⏱️ 53:14-53:46)
 
 ---
 
-## 17. Erdoğan'ın Uçağı Mısır'a İniş Krizi Yaşadı
+## 16. Yasa Dışı Bahis Hesaplarının Coğrafi Dağılımı ve Sosyolojik Boyutu
 
-• Cumhurbaşkanı Erdoğan'ın uçağı, Mısır'ın Şarm El Şeyh Havalimanı'na iniş sırasında pisti pas geçti.
-• Uçak bir süre Kızıldeniz üzerinde bekledi, ardından tekrar iniş yaptı.
-• Olay, İsrail Başbakanı Netanyahu'nun zirveye katılıp katılmayacağıyla ilgili bir krize bağlandı.
-• Erdoğan, Netanyahu'nun geleceğini duyunca uçağın inmemesi talimatını verdiği iddia edildi.
-• Sonrasında Netanyahu'nun gelmeyeceği açıklanınca uçak iniş yaptı.
-• Olay, siyasi ve diplomatik açıdan tartışmalara yol açtı.
+• 22.000 kişinin yasa dışı bahis hesabı var, çoğu İstanbul'un yoksul ilçelerinde.
+• Hesaplar umut için veya maddi sıkıntıdan kiralanıyor.
+• Bu durum toplumsal ve sosyolojik bir sorun olarak değerlendiriliyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=N9bHzSbjd1A&t=960s) (⏱️ 16:00-30:00)
+- [Onlar TV](https://www.youtube.com/watch?v=vQFXKO9ITTI&t=1155s) (⏱️ 19:15-19:46)
 
 ---
 
-## 18. Trabzon'a Deniz Üzerine Yeni Havalimanı Projesi Tartışması
+## 17. Gazeteci Hakan Tosun Cinayeti ve Esenyurt'ta Asayiş Sorunu
 
-• Erdoğan, Trabzon'a deniz üzerine yeni bir havalimanı yapılacağını açıkladı.
-• AK Partililer ve muhalifler projeye itiraz etti.
-• Bölgede zaten havalimanı olduğu, demiryolu gibi alternatiflerin daha mantıklı olabileceği belirtildi.
-• Projenin israf olduğu ve ekonomik olarak zor günlerde gereksiz harcama olduğu vurgulandı.
-• Edirne gibi bazı şehirlerde hiç havalimanı olmadığı hatırlatıldı.
+• Gazeteci ve çevre aktivisti Hakan Tosun cinayetiyle ilgili soruşturma sürüyor
+• Kamera kayıtlarının silindiği ve delil karartma iddiaları var
+• Esenyurt'ta suç örgütleri ve asayiş sorunları artıyor
+• Organize suç şebekeleri dolandırıcılık yapıyor, yakalananlar adli kontrolle serbest bırakılıyor
+• Hukuk devleti olma sorunu vurgulanıyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=N9bHzSbjd1A&t=1800s) (⏱️ 30:00-37:00)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=DB32QFigbqA&t=1312s) (⏱️ 21:52-27:30)
 
 ---
 
-## 19. Online Kedici ve Sokak Kedisi Kurtarma Hikayesi
+## 18. İHA Iğdır Muhabirinin Gözaltına Alınması
 
-• Balıkesir'de bir grup insan denize düşen bir kediyi kurtarmak için mücadele etti.
-• Kedi, ipe tutunmakta zorlandı ve kurtarma anı sosyal medyada ilgi gördü.
-• Sunucu, kedinin "online eğitimle sokak kedisi olduğu" şeklinde esprili bir yorum yaptı.
+• İHA Iğdır muhabiri, gaziler gününde valiye şemsiye tutulmasını haberleştirdiği için gözaltına alındı.
+• Gazetecinin yaptığı haber nedeniyle gözaltına alınması eleştirildi.
+• Basının görevini yapmasının önündeki engeller yatırım ortamını olumsuz etkiliyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=N9bHzSbjd1A&t=3960s) (⏱️ 66:00-69:13)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=1XKLqq8xrF4&t=2220s) (⏱️ 37:00-39:00)
 
 ---
 
-## 20. Esenboğa Havalimanı'nda Su Fiyatı Tepki Çekti
+## 19. Türkiye'de İnanç Özgürlüğü ve Fener Patrikhanesi Tartışmaları
 
-• Ankara Esenboğa Havalimanı'nda 33 cl suyun fiyatı 80 TL oldu
-• Vatandaşlar yüksek su fiyatına isyan etti
-• Güvenlik nedeniyle dışarıdan su sokulamıyor
-• Bu durumun suistimal edildiği ve vicdansızlık olduğu belirtildi
+• Cumhurbaşkanı Erdoğan, ABD Başkanı Trump ile görüşmesinde Heybeliada Ruhban Okulu'nun yeniden açılması konusunu gündeme getirdi.
+• Erdoğan, Patrik Bartolome ile bu konuyu konuşacağını söyledi.
+• Türkiye'de inanç özgürlüğü alanında cemevlerinin ibadethane sayılması önemli bir adım olarak görülüyor.
+• Türkiye'de fikir ve ifade özgürlüğü alanında sorunlar yaşanıyor.
+• İnanç özgürlüğü konusunda adım atılması toplumsal açıdan faydalı olabilir.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=OVMHtHBilyw&t=1215s) (⏱️ 20:15-20:54)
+- [Murat Yetkin](https://www.youtube.com/watch?v=VcxQ0rP2jOE&t=563s) (⏱️ 09:23-10:50)
 
 ---
 
-## 21. Akdeniz Üniversitesi'nde Kanser Hastalarının Bekletilmesi Skandalı
+## 20. Yasa Dışı Bahis ve Uyuşturucuya Karşı Toplumsal Mücadele Gerekliliği
 
-• Akdeniz Üniversitesi'nde kanser hastaları tedavi için bekletildi
-• Parası olan hastalara öncelik verildi, yoksul hastalar ilaçlara ulaşamadı
-• Hekimlerin etik değerlerini kaybettiği ve Hipokrat yeminine uymadığı belirtildi
-• Bu durum büyük bir vicdansızlık ve ahlaksızlık olarak değerlendirildi
+• Cumhurbaşkanının yasa dışı bahis ve uyuşturucuya dair açıklaması geç kalınmış ama önemli.
+• Yasa dışı bahis ve uyuşturucu, toplumsal çürümeye yol açıyor.
+• Sadece emniyet veya maliye değil, toplumun tüm kesimleri mücadele etmeli.
+• Yasa dışı bahis, uyuşturucu kadar hatta daha zararlı olabilir.
+• Yıllardır bu konuda yazılıyor ve anlatılıyor ama yasa dışı bahis kendini güncelliyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=OVMHtHBilyw&t=1407s) (⏱️ 23:27-25:20)
+- [Onlar TV](https://www.youtube.com/watch?v=vQFXKO9ITTI) (⏱️ 00:00-00:36)
+
+---
+
+## 21. 15 Temmuz Genelkurmay Çatı Davasında Orhan Yıkılkan'ın Şok İddiaları
+
+• 15 Temmuz davasında Genelkurmay Başkanı Hulusi Akar'ın başdanışmanı ve özel kalemi Orhan Yıkılkan önemli açıklamalar yaptı.
+• Yıkılkan, Erdoğan'ı Marmaris'ten alacak ekiple ilgili Hulusi Akar'ın uyarıda bulunduğunu söyledi.
+• Mahkemede, Cumhurbaşkanlığı avukatı Süleyman Ayhan ile ilgili bir CD iddiası gündeme geldi, ancak CD'nin varlığı doğrulanmadı.
+• Yıkılkan, kendisine yönelik suçlamaların HTS kayıtları ve kamera görüntüleriyle çürütülebileceğini belirtti.
+• Bilgisayarında ve ajandasında bulunan belgelerle Balyoz davasına benzer şekilde suçlandığını, Melih Gökçek'e suikast planlamakla itham edildiğini, bu davalardan beraat ettiğini söyledi.
+• Hulusi Akar'ın darbe sırasında derdest edilmediğini, emir komutasının devam ettiğini iddia etti.
+• Akıncı Üssü'ne gitme sebebinin yanlış bilgiyle Cumhurbaşkanı ve MİT Müsteşarı'nın alındığı sanılması olduğunu açıkladı.
+• Yıkılkan, darbenin siyasi uzantıları ve FETÖ borsasıyla ilgili önemli iddialarda bulundu.
+• Müesser Yıldız'ın bu davayı yakından takip ettiği ve ana akım medyada haberlerinin yer almadığı vurgulandı.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Serdar Akinan](https://www.youtube.com/watch?v=WJwcW3Uq8DA&t=54s) (⏱️ 00:54-15:08)
+
+---
+
+## 22. Alevi Kimliğinin Bürokrasi ve Siyasette Temsili
+
+• Türkiye'de Kürt kimliğiyle üst düzey makamlara gelmek artık sorun olmaktan çıktı.
+• Alevi kimliğiyle üst düzey bürokrat sayısı ise çok az.
+• Resmi kayıtlara göre, Alevi kimliğini gizlemeden üst kademelerde görev yapan sadece 13 kişi var.
+• Türkiye'de Alevi nüfusunun yaklaşık %10 olduğu tahmin ediliyor.
+• Alevi toplumunun bürokraside yeterince temsil edilmemesi eleştiriliyor.
+• Kültür ve Turizm Bakanlığı'nda Alevi Bektaşi Kültür ve Cemibi Başkanlığı var, ancak bu kurumun toplumu yeterince temsil etmediği düşünülüyor.
+• Alevi toplumunun sünnileştirilmeye veya şiileştirilmeye çalışıldığı yönünde eleştiriler var.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Murat Yetkin](https://www.youtube.com/watch?v=VcxQ0rP2jOE&t=294s) (⏱️ 04:54-09:17)
+
+---
+
+## 23. Diyanet İşleri Başkanlığı'nda Değişim ve Yeni Atamalar
+
+• Ali Erbaş döneminde Diyanet İşleri Başkanlığı'nda lüks ve tarafgirlik eleştirileri vardı.
+• Yeni başkan Prof. Dr. Safi Arpaguş, daha ılımlı ve olumlu bir tutum sergiliyor.
+• Arpaguş, makam arabasını değiştirdi ve Atatürk'ün fotoğrafını makamına astı.
+• Diyanet İşleri Başkanlığı'nın yeni dönemde tutumu merak ediliyor.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Murat Yetkin](https://www.youtube.com/watch?v=VcxQ0rP2jOE&t=720s) (⏱️ 12:00-12:59)
+
+---
+
+## 24. Türkiye'de Yoksulluk ve Sağlıklı Beslenme Sorunu
+
+• Bisam'a göre Eylül'de 4 kişilik bir ailenin açlık sınırı 26.418 TL, yoksulluk sınırı 91.380 TL
+• Sağlıklı beslenmek için bir ailenin günde 880 TL harcaması gerekiyor
+• Asgari ücretin günlük karşılığı ise 733 TL
+• Bu durum ciddi bir çelişki olarak sunuldu
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Unsal Unlu](https://www.youtube.com/watch?v=eu-KCx24iHo&t=917s) (⏱️ 15:17-15:46)
+
+---
+
+## 25. Kıbrıs Seçimleri ve AKP'nin Müdahalesi
+
+• Kıbrıs'ta hafta sonu seçim var
+• AKP'nin ve medyasının seçimlere müdahale ettiği iddia edildi
+• Geçmişte Mehmet Ali Talat'ın seçilmesi için sahte isimle promosyon yapıldığı hatırlatıldı
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Unsal Unlu](https://www.youtube.com/watch?v=eu-KCx24iHo&t=965s) (⏱️ 16:05-17:39)
 
 ---
 
