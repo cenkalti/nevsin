@@ -2,19 +2,19 @@ package nevsin
 
 import (
 	"bytes"
+	"context"
 	"encoding/json"
 	"fmt"
-	"io"
 	"log"
-	"net/http"
 	"os"
 	"path/filepath"
-	"strconv"
 	"strings"
 	"sync"
 	"time"
 
 	"github.com/invopop/jsonschema"
+	"github.com/openai/openai-go/v3"
+	"github.com/openai/openai-go/v3/option"
 	"github.com/spf13/cobra"
 )
 
@@ -156,97 +156,8 @@ func getReporterName(channelID string) string {
 	return "Unknown Reporter"
 }
 
-// parseRetryAfter parses the Retry-After header value and returns duration
-func parseRetryAfter(retryAfter string) time.Duration {
-	if retryAfter == "" {
-		return 0
-	}
-
-	// Try to parse as seconds (numeric value)
-	if seconds, err := strconv.Atoi(retryAfter); err == nil {
-		return time.Duration(seconds) * time.Second
-	}
-
-	// Try to parse as HTTP date format
-	if retryTime, err := time.Parse(time.RFC1123, retryAfter); err == nil {
-		return time.Until(retryTime)
-	}
-
-	return 0
-}
-
-// makeOpenAIRequest makes a request to Azure OpenAI with retry logic for 429 errors
-func makeOpenAIRequest(requestBody []byte, endpoint, apiKey, deployment, apiPath string) ([]byte, error) {
-	url := fmt.Sprintf("%s/openai/deployments/%s/%s?api-version=2024-08-01-preview", endpoint, deployment, apiPath)
-	client := &http.Client{Timeout: 120 * time.Second} // Increased timeout for longer waits
-
-	// Retry configuration - increased for better resilience
-	maxRetries := 5
-	baseDelay := 5 * time.Second
-	maxDelay := 120 * time.Second
-
-	for attempt := 0; attempt <= maxRetries; attempt++ {
-		req, err := http.NewRequest("POST", url, bytes.NewBuffer(requestBody))
-		if err != nil {
-			return nil, fmt.Errorf("failed to create request: %w", err)
-		}
-
-		req.Header.Set("Content-Type", "application/json")
-		req.Header.Set("api-key", apiKey)
-
-		resp, err := client.Do(req)
-		if err != nil {
-			return nil, fmt.Errorf("failed to call Azure OpenAI: %w", err)
-		}
-
-		body, err := io.ReadAll(resp.Body)
-		resp.Body.Close()
-		if err != nil {
-			return nil, fmt.Errorf("failed to read response body: %w", err)
-		}
-
-		// Check for rate limit (429) errors
-		if resp.StatusCode == 429 {
-			if attempt == maxRetries {
-				return nil, fmt.Errorf("azure OpenAI rate limit exceeded after %d retries (status %d): %s", maxRetries, resp.StatusCode, string(body))
-			}
-
-			// Check for Retry-After header
-			retryAfter := resp.Header.Get("Retry-After")
-			retryDelay := parseRetryAfter(retryAfter)
-
-			// If no Retry-After header or invalid, use exponential backoff
-			if retryDelay <= 0 {
-				retryDelay = baseDelay * time.Duration(1<<attempt) // 5s, 10s, 20s, 40s, 80s
-			}
-
-			// Cap the delay to prevent extremely long waits
-			if retryDelay > maxDelay {
-				retryDelay = maxDelay
-			}
-
-			log.Printf("Rate limit hit (attempt %d/%d), retrying in %v (retry-after: %s)...", attempt+1, maxRetries+1, retryDelay, retryAfter)
-			time.Sleep(retryDelay)
-			continue
-		}
-
-		// Handle other non-success status codes
-		if resp.StatusCode != http.StatusOK {
-			return nil, fmt.Errorf("azure OpenAI error (status %d): %s", resp.StatusCode, string(body))
-		}
-
-		// Success - return the response body
-		return body, nil
-	}
-
-	// This should never be reached due to the loop logic
-	return nil, fmt.Errorf("unexpected error in retry loop")
-}
-
 func extractStories(subtitle, videoID, channelID string, chapters []YouTubeChapter) (NewsExtractionResponse, error) {
-	endpoint := Config.AzureOpenAIEndpoint
-	apiKey := Config.AzureOpenAIAPIKey
-	deployment := Config.AzureOpenAIDeployment
+	apiKey := Config.OpenAIAPIKey
 
 	// Generate JSON schema for structured output
 	reflector := jsonschema.Reflector{
@@ -260,12 +171,12 @@ func extractStories(subtitle, videoID, channelID string, chapters []YouTubeChapt
 		schemaObj.Type = "object"
 	}
 
-	// Convert to map[string]any to ensure proper JSON serialization
+	// Convert to interface{} for OpenAI SDK
 	schemaBytes, err := json.Marshal(schemaObj)
 	if err != nil {
 		return NewsExtractionResponse{}, fmt.Errorf("failed to marshal schema: %w", err)
 	}
-	var schema map[string]any
+	var schema any
 	if err := json.Unmarshal(schemaBytes, &schema); err != nil {
 		return NewsExtractionResponse{}, fmt.Errorf("failed to unmarshal schema: %w", err)
 	}
@@ -273,59 +184,44 @@ func extractStories(subtitle, videoID, channelID string, chapters []YouTubeChapt
 	// Format chapter information for LLM context
 	chapterInfo := formatChapterInfo(chapters)
 
-	// Prepare the request payload
-	requestBody := map[string]any{
-		"messages": []map[string]any{
-			{
-				"role":    "system",
-				"content": "Sen Türkçe haber metinlerini analiz eden bir uzmansın. Verilen altyazıdan birden fazla haber hikayesini çıkarman gerekiyor. Her haber için başlık, özet ve başlangıç/bitiş saniyelerini belirle.\n\nALTYAZI FORMATI: Altyazı basitleştirilmiş formattadır. Her satır şu şekildedir:\n[saniye]: [metin]\n\nÖrnek:\n7: Retro, retro arkadaşlar. Retro. Sorun\n10: retrodan kaynaklanıyor. Merkür retrosu\n13: Aslan burcunda gerçekleşiyormuş. Ben\n\nÖZET YAZIM KURALLARI:\n• Özeti basit cümleler halinde yaz\n• Madde işaretleri kullan\n• Her madde kısa ve net olsun\n• Karmaşık cümleler kurma\n• Teknik terimler varsa basit açıkla\n\nSadece gerçek haber içeriğini çıkar, reklam veya genel konuşmaları dahil etme. Her haber için start_second ve end_second değerlerini saniye cinsinden belirle.",
-			},
-			{
-				"role":    "user",
-				"content": fmt.Sprintf("Bu altyazıdan tüm haber hikayelerini çıkar ve her biri için başlık, detaylı özet ve başlangıç/bitiş saniyelerini belirle. Altyazı formatı: [saniye]: [metin] şeklindedir.\n\n%s\n\nALTYAZI:\n%s", chapterInfo, subtitle),
+	// Create OpenAI client
+	client := openai.NewClient(option.WithAPIKey(apiKey))
+
+	// Prepare system and user messages
+	systemContent := "Sen Türkçe haber metinlerini analiz eden bir uzmansın. Verilen altyazıdan birden fazla haber hikayesini çıkarman gerekiyor. Her haber için başlık, özet ve başlangıç/bitiş saniyelerini belirle.\n\nALTYAZI FORMATI: Altyazı basitleştirilmiş formattadır. Her satır şu şekildedir:\n[saniye]: [metin]\n\nÖrnek:\n7: Retro, retro arkadaşlar. Retro. Sorun\n10: retrodan kaynaklanıyor. Merkür retrosu\n13: Aslan burcunda gerçekleşiyormuş. Ben\n\nÖZET YAZIM KURALLARI:\n• Özeti basit cümleler halinde yaz\n• Madde işaretleri kullan\n• Her madde kısa ve net olsun\n• Karmaşık cümleler kurma\n• Teknik terimler varsa basit açıkla\n\nSadece gerçek haber içeriğini çıkar, reklam veya genel konuşmaları dahil etme. Her haber için start_second ve end_second değerlerini saniye cinsinden belirle."
+	userContent := fmt.Sprintf("Bu altyazıdan tüm haber hikayelerini çıkar ve her biri için başlık, detaylı özet ve başlangıç/bitiş saniyelerini belirle. Altyazı formatı: [saniye]: [metin] şeklindedir.\n\n%s\n\nALTYAZI:\n%s", chapterInfo, subtitle)
+
+	// Create chat completion with structured outputs
+	chatCompletion, err := client.Chat.Completions.New(context.TODO(), openai.ChatCompletionNewParams{
+		Messages: []openai.ChatCompletionMessageParamUnion{
+			openai.SystemMessage(systemContent),
+			openai.UserMessage(userContent),
+		},
+		Model:       openai.ChatModelGPT4_1,
+		MaxTokens:   openai.Int(4000),
+		Temperature: openai.Float(0.1),
+		ResponseFormat: openai.ChatCompletionNewParamsResponseFormatUnion{
+			OfJSONSchema: &openai.ResponseFormatJSONSchemaParam{
+				JSONSchema: openai.ResponseFormatJSONSchemaJSONSchemaParam{
+					Name:        "news_extraction",
+					Description: openai.String("Extract news stories from subtitles"),
+					Schema:      schema,
+					Strict:      openai.Bool(true),
+				},
 			},
 		},
-		"max_tokens":  4000,
-		"temperature": 0.1,
-		"response_format": map[string]any{
-			"type": "json_schema",
-			"json_schema": map[string]any{
-				"name":   "news_extraction",
-				"schema": schema,
-			},
-		},
-	}
-
-	jsonBody, err := json.Marshal(requestBody)
+	})
 	if err != nil {
-		return NewsExtractionResponse{}, fmt.Errorf("failed to marshal request: %w", err)
+		return NewsExtractionResponse{}, fmt.Errorf("failed to call OpenAI API: %w", err)
 	}
 
-	// Make request to Azure OpenAI with retry logic
-	responseBody, err := makeOpenAIRequest(jsonBody, endpoint, apiKey, deployment, "chat/completions")
-	if err != nil {
-		return NewsExtractionResponse{}, err
-	}
-
-	var result struct {
-		Choices []struct {
-			Message struct {
-				Content string `json:"content"`
-			} `json:"message"`
-		} `json:"choices"`
-	}
-
-	if err := json.Unmarshal(responseBody, &result); err != nil {
-		return NewsExtractionResponse{}, fmt.Errorf("failed to decode response: %w", err)
-	}
-
-	if len(result.Choices) == 0 || result.Choices[0].Message.Content == "" {
+	if len(chatCompletion.Choices) == 0 || chatCompletion.Choices[0].Message.Content == "" {
 		return NewsExtractionResponse{}, fmt.Errorf("no content in response")
 	}
 
 	// Parse the structured JSON response
 	var newsResponse NewsExtractionResponse
-	if err := json.Unmarshal([]byte(result.Choices[0].Message.Content), &newsResponse); err != nil {
+	if err := json.Unmarshal([]byte(chatCompletion.Choices[0].Message.Content), &newsResponse); err != nil {
 		return NewsExtractionResponse{}, fmt.Errorf("failed to parse structured response: %w", err)
 	}
 

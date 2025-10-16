@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-Nevsin is a YouTube news aggregator CLI tool written in Go that fetches, transcribes, summarizes, clusters, and compiles daily Turkish news reports using AI. It monitors specific YouTube channels, uses Azure OpenAI to analyze content, and generates consolidated news reports published to GitHub Pages.
+Nevsin is a YouTube news aggregator CLI tool written in Go that fetches, transcribes, summarizes, clusters, and compiles daily Turkish news reports using AI. It monitors specific YouTube channels, uses OpenAI and Azure OpenAI to analyze content, and generates consolidated news reports published to GitHub Pages.
 
 ## Core Architecture
 
@@ -23,7 +23,7 @@ Each command is **file-based** and operates on a working directory convention (n
 ### Key Design Principles
 - **Convention over configuration**: Pure file-based operations, no flags
 - **Concurrent processing**: Goroutines for video fetching and subtitle extraction
-- **AI-powered**: Azure OpenAI for thumbnail analysis, summarization, and embedding
+- **AI-powered**: OpenAI for story extraction, Azure OpenAI for thumbnail analysis and embeddings
 - **Clustering-first**: Uses DBSCAN/K-means with stability analysis to group stories
 - **Fail-fast validation**: Environment variables checked at startup
 
@@ -94,9 +94,10 @@ While there are no formal tests yet, you can verify the pipeline:
 
 ### Environment Variables (required in `.env`)
 - `YOUTUBE_API_KEY` - YouTube Data API v3 key
-- `AZURE_OPENAI_ENDPOINT` - Azure OpenAI endpoint URL
-- `AZURE_OPENAI_API_KEY` - Azure OpenAI API key
-- `AZURE_OPENAI_DEPLOYMENT` - GPT-4 deployment name (also used for vision)
+- `OPENAI_API_KEY` - OpenAI API key (for story extraction using GPT-4o)
+- `AZURE_OPENAI_ENDPOINT` - Azure OpenAI endpoint URL (for embeddings and vision)
+- `AZURE_OPENAI_API_KEY` - Azure OpenAI API key (for embeddings and vision)
+- `AZURE_OPENAI_DEPLOYMENT` - GPT-4 deployment name (for vision tasks)
 
 All variables are validated at startup with fail-fast errors.
 
@@ -115,14 +116,18 @@ Example: Nevsin Mengu uses Azure Vision to analyze thumbnails for "Bugün ne old
   pip install yt-dlp
   ```
 - **YouTube Data API v3**: For video metadata
-- **Azure OpenAI GPT-4**: For thumbnail analysis, story extraction, and embeddings
+- **OpenAI API**: For story extraction using GPT-4o with structured outputs
+  - Uses `gpt-4o-2024-08-06` model with strict JSON schema validation
+  - Implemented via `github.com/openai/openai-go/v3` SDK
+- **Azure OpenAI**: For thumbnail analysis and embeddings
   - Uses `text-embedding-3-large` for embeddings
-  - Uses structured JSON output with jsonschema validation
+  - Uses GPT-4 Vision for thumbnail analysis
 
 ### Go Dependencies
 - `github.com/spf13/cobra` - CLI framework
 - `github.com/joho/godotenv` - .env file loading
 - `github.com/invopop/jsonschema` - JSON schema generation for structured AI outputs
+- `github.com/openai/openai-go/v3` - Official OpenAI Go SDK
 - `github.com/mattn/go-sqlite3` - SQLite for embedding storage
 - `gonum.org/v1/gonum/mat` - Matrix operations for clustering
 - `github.com/yuin/goldmark` - Markdown to HTML conversion
@@ -141,11 +146,12 @@ Example:
 ```
 
 ### Story Extraction
-Uses Azure OpenAI structured output with JSON schema validation. Stories include:
+Uses OpenAI API (GPT-4o) with structured output and strict JSON schema validation. Stories include:
 - Title, summary (with bullet-point formatting rules)
 - Start/end seconds and timestamps
 - YouTube URLs with timestamp parameters
 - Reporter attribution
+- Implemented using the official `github.com/openai/openai-go/v3` SDK
 
 ### Clustering Algorithm
 The system uses adaptive clustering with stability analysis:
@@ -187,11 +193,14 @@ Quality metrics tracked:
 
 ## Important Implementation Patterns
 
-### Azure OpenAI Integration
-- All AI calls go through `makeOpenAIRequest` with retry logic
-- Uses structured output with JSON schema for reliable parsing
-- Includes rate limit handling with `Retry-After` header support
-- Temperature=0.1 for story extraction (consistency), 0 for vision (accuracy)
+### AI Integration
+- **Story Extraction**: Uses OpenAI SDK (`github.com/openai/openai-go/v3`) with GPT-4o
+  - Structured output with strict JSON schema validation
+  - Temperature=0.1 for consistency
+  - SDK handles retries automatically
+- **Azure OpenAI**: Used for embeddings and vision tasks
+  - Custom retry logic with exponential backoff for rate limits
+  - Temperature=0 for vision (accuracy)
 
 ### Concurrency Patterns
 - Goroutines + WaitGroups for video/subtitle processing

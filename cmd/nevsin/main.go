@@ -30,6 +30,7 @@ func main() {
 	nevsin.Config.AzureOpenAIEndpoint = getenv("AZURE_OPENAI_ENDPOINT")
 	nevsin.Config.AzureOpenAIAPIKey = getenv("AZURE_OPENAI_API_KEY")
 	nevsin.Config.AzureOpenAIDeployment = getenv("AZURE_OPENAI_DEPLOYMENT")
+	nevsin.Config.OpenAIAPIKey = getenv("OPENAI_API_KEY")
 
 	rootCmd := &cobra.Command{
 		Use:   "nevsin",

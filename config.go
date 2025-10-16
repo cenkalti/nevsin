@@ -6,4 +6,5 @@ var Config struct {
 	AzureOpenAIEndpoint   string
 	AzureOpenAIAPIKey     string
 	AzureOpenAIDeployment string
+	OpenAIAPIKey          string
 }
