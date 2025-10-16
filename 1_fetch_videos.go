@@ -1,8 +1,7 @@
 package nevsin
 
 import (
-	"bytes"
-	"encoding/base64"
+	"context"
 	"encoding/json"
 	"fmt"
 	"io"
@@ -15,6 +14,8 @@ import (
 	"sync"
 	"time"
 
+	"github.com/openai/openai-go/v3"
+	"github.com/openai/openai-go/v3/option"
 	"github.com/sosodev/duration"
 	"github.com/spf13/cobra"
 )
@@ -259,92 +260,34 @@ func fetchYouTubeVideos(channelID string, channelName string) ([]YouTubeVideo, e
 	return videos, nil
 }
 
-// analyzeThumbnail analyzes a thumbnail with Azure OpenAI GPT-4 Vision
+// analyzeThumbnail analyzes a thumbnail with OpenAI GPT-4o Vision
 func analyzeThumbnail(thumbnailURL string) (string, error) {
-	endpoint := Config.AzureOpenAIEndpoint
-	apiKey := Config.AzureOpenAIAPIKey
-	deployment := Config.AzureOpenAIDeployment
+	apiKey := Config.OpenAIAPIKey
 
-	// Download the thumbnail image
-	resp, err := http.Get(thumbnailURL)
-	if err != nil {
-		return "", fmt.Errorf("failed to download thumbnail: %w", err)
-	}
-	defer resp.Body.Close()
+	// Create OpenAI client
+	client := openai.NewClient(option.WithAPIKey(apiKey))
 
-	imageData, err := io.ReadAll(resp.Body)
-	if err != nil {
-		return "", fmt.Errorf("failed to read thumbnail data: %w", err)
-	}
-
-	// Prepare the request payload for Azure OpenAI GPT-4 Vision
-	requestBody := map[string]any{
-		"messages": []map[string]any{
-			{
-				"role":    "system",
-				"content": "You are an expert at analyzing YouTube video thumbnails. Extract and return ONLY the title text shown in the thumbnail. If there is no visible title text, return 'NO_TITLE'.",
-			},
-			{
-				"role": "user",
-				"content": []map[string]any{
-					{
-						"type": "text",
-						"text": "What is the title text shown in this thumbnail? Return only the title text, nothing else.",
-					},
-					{
-						"type": "image_url",
-						"image_url": map[string]string{
-							"url": fmt.Sprintf("data:image/jpeg;base64,%s", base64.StdEncoding.EncodeToString(imageData)),
-						},
-					},
-				},
-			},
+	// Create chat completion with vision using image URL directly
+	chatCompletion, err := client.Chat.Completions.New(context.TODO(), openai.ChatCompletionNewParams{
+		Messages: []openai.ChatCompletionMessageParamUnion{
+			openai.SystemMessage("You are an expert at analyzing YouTube video thumbnails. Extract and return ONLY the title text shown in the thumbnail. If there is no visible title text, return 'NO_TITLE'."),
+			openai.UserMessage([]openai.ChatCompletionContentPartUnionParam{
+				openai.TextContentPart("What is the title text shown in this thumbnail? Return only the title text, nothing else."),
+				openai.ImageContentPart(openai.ChatCompletionContentPartImageImageURLParam{
+					URL: thumbnailURL,
+				}),
+			}),
 		},
-		"max_tokens":  100,
-		"temperature": 0,
-	}
-
-	jsonBody, err := json.Marshal(requestBody)
+		Model:       openai.ChatModelGPT4o,
+		MaxTokens:   openai.Int(100),
+		Temperature: openai.Float(0),
+	})
 	if err != nil {
-		return "", fmt.Errorf("failed to marshal request: %w", err)
+		return "", fmt.Errorf("failed to call OpenAI API: %w", err)
 	}
 
-	// Make request to Azure OpenAI
-	url := fmt.Sprintf("%s/openai/deployments/%s/chat/completions?api-version=2024-08-01-preview", endpoint, deployment)
-	req, err := http.NewRequest("POST", url, bytes.NewBuffer(jsonBody))
-	if err != nil {
-		return "", fmt.Errorf("failed to create request: %w", err)
-	}
-
-	req.Header.Set("Content-Type", "application/json")
-	req.Header.Set("api-key", apiKey)
-
-	client := &http.Client{Timeout: 30 * time.Second}
-	resp2, err := client.Do(req)
-	if err != nil {
-		return "", fmt.Errorf("failed to call Azure OpenAI: %w", err)
-	}
-	defer resp2.Body.Close()
-
-	if resp2.StatusCode != http.StatusOK {
-		body, _ := io.ReadAll(resp2.Body)
-		return "", fmt.Errorf("azure OpenAI error (status %d): %s", resp2.StatusCode, string(body))
-	}
-
-	var result struct {
-		Choices []struct {
-			Message struct {
-				Content string `json:"content"`
-			} `json:"message"`
-		} `json:"choices"`
-	}
-
-	if err := json.NewDecoder(resp2.Body).Decode(&result); err != nil {
-		return "", fmt.Errorf("failed to decode response: %w", err)
-	}
-
-	if len(result.Choices) > 0 && result.Choices[0].Message.Content != "" {
-		extractedTitle := strings.TrimSpace(result.Choices[0].Message.Content)
+	if len(chatCompletion.Choices) > 0 && chatCompletion.Choices[0].Message.Content != "" {
+		extractedTitle := strings.TrimSpace(chatCompletion.Choices[0].Message.Content)
 		log.Printf("Extracted thumbnail title: %s", extractedTitle)
 		return extractedTitle, nil
 	}

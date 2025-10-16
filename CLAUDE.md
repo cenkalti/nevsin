@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-Nevsin is a YouTube news aggregator CLI tool written in Go that fetches, transcribes, summarizes, clusters, and compiles daily Turkish news reports using AI. It monitors specific YouTube channels, uses OpenAI for content analysis and Azure OpenAI for vision tasks, and generates consolidated news reports published to GitHub Pages.
+Nevsin is a YouTube news aggregator CLI tool written in Go that fetches, transcribes, summarizes, clusters, and compiles daily Turkish news reports using AI. It monitors specific YouTube channels, uses OpenAI API for all AI operations, and generates consolidated news reports published to GitHub Pages.
 
 ## Core Architecture
 
@@ -23,7 +23,7 @@ Each command is **file-based** and operates on a working directory convention (n
 ### Key Design Principles
 - **Convention over configuration**: Pure file-based operations, no flags
 - **Concurrent processing**: Goroutines for video fetching and subtitle extraction
-- **AI-powered**: OpenAI for story extraction and embeddings, Azure OpenAI for thumbnail analysis
+- **AI-powered**: OpenAI API for all AI operations (extraction, embeddings, vision)
 - **Clustering-first**: Uses DBSCAN/K-means with stability analysis to group stories
 - **Fail-fast validation**: Environment variables checked at startup
 
@@ -94,10 +94,7 @@ While there are no formal tests yet, you can verify the pipeline:
 
 ### Environment Variables (required in `.env`)
 - `YOUTUBE_API_KEY` - YouTube Data API v3 key
-- `OPENAI_API_KEY` - OpenAI API key (for story extraction and embeddings)
-- `AZURE_OPENAI_ENDPOINT` - Azure OpenAI endpoint URL (for vision tasks)
-- `AZURE_OPENAI_API_KEY` - Azure OpenAI API key (for vision tasks)
-- `AZURE_OPENAI_DEPLOYMENT` - GPT-4 deployment name (for vision tasks)
+- `OPENAI_API_KEY` - OpenAI API key (for all AI operations)
 
 All variables are validated at startup with fail-fast errors.
 
@@ -106,7 +103,7 @@ Channels are hardcoded in `channels.go` with custom filtering logic. Each channe
 - Name, ID (YouTube channel ID)
 - Handler function for custom video selection logic
 
-Example: Nevsin Mengu uses Azure Vision to analyze thumbnails for "Bugün ne oldu?" text.
+Example: Nevsin Mengu uses GPT-4o Vision to analyze thumbnails for "Bugün ne oldu?" text.
 
 ## External Dependencies
 
@@ -116,12 +113,11 @@ Example: Nevsin Mengu uses Azure Vision to analyze thumbnails for "Bugün ne old
   pip install yt-dlp
   ```
 - **YouTube Data API v3**: For video metadata
-- **OpenAI API**: For story extraction and embeddings
-  - Story extraction: Uses `gpt-4o-2024-08-06` model with strict JSON schema validation
-  - Embeddings: Uses `text-embedding-3-large` model for semantic representation
+- **OpenAI API**: For all AI operations
+  - Story extraction: `gpt-4.1` model with strict JSON schema validation
+  - Embeddings: `text-embedding-3-large` model for semantic representation
+  - Vision: `gpt-4o` model for thumbnail analysis
   - Implemented via `github.com/openai/openai-go/v3` SDK
-- **Azure OpenAI**: For thumbnail analysis only
-  - Uses GPT-4 Vision for thumbnail analysis
 
 ### Go Dependencies
 - `github.com/spf13/cobra` - CLI framework
@@ -195,14 +191,11 @@ Quality metrics tracked:
 
 ### AI Integration
 - **OpenAI SDK** (`github.com/openai/openai-go/v3`):
-  - Story Extraction: GPT-4o with structured output and strict JSON schema validation
-    - Temperature=0.1 for consistency
+  - Story Extraction: GPT-4.1 with structured output and strict JSON schema validation (Temperature=0.1)
   - Embeddings: text-embedding-3-large model for semantic representation
+  - Vision: GPT-4o for thumbnail analysis (Temperature=0)
+  - Report Generation: GPT-4.1 for merging and prioritizing stories (Temperature=0.1)
   - SDK handles retries automatically
-- **Azure OpenAI**: Used for vision tasks only
-  - GPT-4 Vision for thumbnail analysis
-  - Custom retry logic with exponential backoff for rate limits
-  - Temperature=0 for vision (accuracy)
 
 ### Concurrency Patterns
 - Goroutines + WaitGroups for video/subtitle processing
