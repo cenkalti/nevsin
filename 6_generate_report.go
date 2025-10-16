@@ -296,12 +296,13 @@ func prioritizeStoriesWithAI(stories []MergedNewsStory) []MergedNewsStory {
 
 // Helper functions to get story metadata from original story files
 func getStoryStartTime(storyID string) string {
-	parts := strings.Split(storyID, "_")
-	if len(parts) < 2 {
+	// Split from right: last part is index, everything before is video ID
+	lastUnderscore := strings.LastIndex(storyID, "_")
+	if lastUnderscore == -1 {
 		return "00:00"
 	}
-	videoID := parts[0]
-	storyIndex := parts[1]
+	videoID := storyID[:lastUnderscore]
+	storyIndex := storyID[lastUnderscore+1:]
 
 	// Read original story file
 	storyPath := filepath.Join("stories", videoID+".json")
@@ -329,12 +330,13 @@ func getStoryStartTime(storyID string) string {
 }
 
 func getStoryEndTime(storyID string) string {
-	parts := strings.Split(storyID, "_")
-	if len(parts) < 2 {
+	// Split from right: last part is index, everything before is video ID
+	lastUnderscore := strings.LastIndex(storyID, "_")
+	if lastUnderscore == -1 {
 		return "00:00"
 	}
-	videoID := parts[0]
-	storyIndex := parts[1]
+	videoID := storyID[:lastUnderscore]
+	storyIndex := storyID[lastUnderscore+1:]
 
 	storyPath := filepath.Join("stories", videoID+".json")
 	data, err := os.ReadFile(storyPath)
@@ -360,12 +362,13 @@ func getStoryEndTime(storyID string) string {
 }
 
 func getStoryURL(storyID string) string {
-	parts := strings.Split(storyID, "_")
-	if len(parts) < 2 {
+	// Split from right: last part is index, everything before is video ID
+	lastUnderscore := strings.LastIndex(storyID, "_")
+	if lastUnderscore == -1 {
 		return ""
 	}
-	videoID := parts[0]
-	storyIndex := parts[1]
+	videoID := storyID[:lastUnderscore]
+	storyIndex := storyID[lastUnderscore+1:]
 
 	storyPath := filepath.Join("stories", videoID+".json")
 	data, err := os.ReadFile(storyPath)
