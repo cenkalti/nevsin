@@ -1,299 +1,347 @@
 # Bugün Ne Oldu?
 
-*16 October 2025 tarihli günlük haber raporu - 15 haber birleştirildi*
+*16 October 2025 tarihli günlük haber raporu - 21 haber birleştirildi*
 
-## 1. Türkiye Ekonomisinde Derin Kriz: Enflasyon, Bütçe Açığı ve Sektörel Çöküşler Gündemde
+## 1. Hata
 
-• Türkiye ekonomisinde ciddi kriz ve çöküşler yaşanıyor.
-• Tekstil ve turizm sektörlerinde büyük istihdam kaybı var, üretim Mısır'a kayıyor.
-• Sanayide satın alma yöneticileri endeksi uzun süredir negatif.
-• Kadınlar ve düşük gelirli kesimler krizden en çok etkilenenler arasında.
-• Büyük holdingler yatırımlarını yurtdışına taşıyor, fabrikalar kapanıyor.
-• Altın fiyatları rekor seviyelere ulaştı, gram altın 5693 TL'yi geçti.
-• Döviz kurları ve faizlerin yükselmesi altına yönelimi artırıyor.
-• Türkiye G20 ülkeleri arasında en yüksek enflasyona sahip ülke oldu (33,29).
-• Elektrik ve su zamları devam ediyor, sübvansiyonlar kaldırılıyor.
-• Gıda enflasyonu Avrupa'da birinci, çocuklarda yetersiz beslenme yaygın.
-• Vergi yükü orta direğe ve dolaylı vergilere biniyor, kamu hizmetlerinde eksiklikler var.
-• 9 aylık bütçe açığı 310 milyar TL'yi geçti, faiz ödemeleri rekor kırdı.
-• Bütçenin yaklaşık %20'si faiz ödemelerine gidiyor, KKM'nin maliyeti 2 trilyon TL.
-• Cumhurbaşkanlığı Sarayı'nın günlük gideri 46 milyon TL, 2026'da 58 milyon TL olacak.
-• Otomotiv sektöründe işçi ücretleri enflasyon ve vergilerle eridi, toplu sözleşme süreci başlıyor.
-• Uyuşturucu kaçakçılığı ve sentetik madde kullanımı artıyor, Mersin kritik merkez oldu.
-• Türkiye'nin çok katmanlı ekonomik stratejiye ihtiyacı olduğu vurgulanıyor.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Hilal Koylu](https://www.youtube.com/watch?v=6espEtaOgr8&t=1230s) (⏱️ 20:30-25:28)
-- [Unsal Unlu](https://www.youtube.com/watch?v=NhJwgJcC60s&t=1519s) (⏱️ 25:19-27:15)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=TtO7Cv5G4gg&t=1800s) (⏱️ 30:00-41:00)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=rxqV4apgup8&t=1258s) (⏱️ 20:58-23:10)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=cjeeKcMU-04&t=944s) (⏱️ 15:44-20:36)
+Boş yanıt
 
 ---
 
-## 2. Türkiye'de Adalet, İfade Özgürlüğü ve LGBTİ+ Hakları Tartışmaları Gündemde
+## 2. Hata
 
-• Rojin Kabaiş ve Hakan Tosun cinayetlerinde adalet arayışı sürüyor.
-• Her iki olayda da adalet sistemine güven sarsıldı, delillerin karartılması ve siyasi bağlantılar iddia edildi.
-• Rojin Kabaiş'in ölümünde iki farklı erkeğe ait DNA bulundu, raporun saklandığı öne sürüldü.
-• Hakan Tosun cinayetinde faillerin rahat tavırları ve siyasi ilişkileri dikkat çekti.
-• Komedyen Özgür Turhan ve diğer sanatçılar, espri ve eleştirileri nedeniyle davalarla karşı karşıya kaldı.
-• Reklam sözleşmeleri feshedildi, milyonluk tazminat davaları açıldı, sosyal medyada boykotlar başladı.
-• Sanatçılar ve komedyenler, ifade özgürlüğü üzerindeki baskılardan şikayetçi.
-• LGBTI+ bireylerle ilgili yeni yasa tasarıları ve yargı paketi tartışmaları gündemde.
-• Taslaklarda genel ahlaka aykırı davranışlara hapis cezası öngörülüyor, cinsiyet değiştirme şartları zorlaştırılıyor.
-• AK Parti yetkilileri böyle bir tasarı olmadığını söylese de, kamuoyunda endişe ve tepki var.
-• İnsan hakları savunucuları ve LGBTI+ aktivistleri düzenlemelere karşı çıkıyor.
-• Türk Hava Kurumu Üniversitesi eski rektörü Ünsal Ban'ın yurt dışına kaçışı, adalette çifte standart eleştirilerine yol açtı.
-• Gazetecilere yönelik gözaltı ve baskılar, basın özgürlüğü sorununu gündeme taşıdı.
-• Toplumda adalet, özgürlük ve insan hakları konularında ciddi tartışmalar yaşanıyor.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=rxqV4apgup8&t=490s) (⏱️ 08:10-11:33)
-- [Unsal Unlu](https://www.youtube.com/watch?v=NhJwgJcC60s&t=82s) (⏱️ 01:22-41:17)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=HYxrOJXpXS0&t=632s) (⏱️ 10:32-14:18)
-- [Rusen Cakir](https://www.youtube.com/watch?v=RprtRbpNuvw&t=3s) (⏱️ 00:03-10:22)
-- [Hilal Koylu](https://www.youtube.com/watch?v=6espEtaOgr8&t=2272s) (⏱️ 37:52-40:18)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=TtO7Cv5G4gg&t=3060s) (⏱️ 51:00-55:00)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=-AjhV-0VOhQ&t=1050s) (⏱️ 17:30-33:00)
+AI çağrısı hatası
 
 ---
 
-## 3. Türkiye'de Siyasette Gerginlik, Kutuplaşma ve Çözüm Süreci Tartışmaları Derinleşiyor
+## 3. Sezgin Baran Korkmaz ve Cihan Ekşioğlu Merkezli Kara Para Operasyonu: Paramount Otel'e El Koyma ve Siyasi Tartışmalar
 
-• Mecliste siyasi partiler arasında sert tartışmalar ve kavga yaşanıyor
-• DEM Parti ve İyi Parti arasında terör, çözüm süreci ve Öcalan'ın rolü üzerine polemikler var
-• Bahçeli, çözüm sürecindeki taleplere karşı çıkıyor, cemevlerinin statüsü ve demokratikleşme talepleri gündemde
-• DEM Parti, Demirtaş'ın serbest kalması için mücadele ediyor, Kürt siyasetinde genç seçmen kaybı yaşanıyor
-• CHP ve liderleri (Ekrem İmamoğlu, Mansur Yavaş, Özgür Özel) hakkında soruşturma ve eleştiriler gündemde
-• CHP'nin büyümesini engellemek için siyasi stratejiler konuşuluyor, muhalefet üzerindeki baskılar artıyor
-• Mecliste muhalefet önergeleri reddediliyor, halkın talepleri göz ardı ediliyor
-• Aydın'da belediye meclisi toplantısında polis barikatı kuruldu, siyasi gerilim yükseldi
-• Basın özgürlüğü ve ifade özgürlüğü konusunda tartışmalar sürüyor
-• Toplumda adalet, eşitlik ve şeffaflık talepleri öne çıkıyor
-• Siyasi kutuplaşma ve öfke toplumsal ruh sağlığını olumsuz etkiliyor
-• Çözüm sürecinde silah bırakma ve af tartışmaları devam ediyor, Barzani'ye mektup iddiası gündemde
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Hilal Koylu](https://www.youtube.com/watch?v=6espEtaOgr8&t=90s) (⏱️ 01:30-05:50)
-- [Unsal Unlu](https://www.youtube.com/watch?v=NhJwgJcC60s&t=443s) (⏱️ 07:23-18:18)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=TtO7Cv5G4gg&t=1200s) (⏱️ 20:00-30:00)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=rxqV4apgup8&t=1568s) (⏱️ 26:08-27:07)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=cjeeKcMU-04&t=4135s) (⏱️ 68:55-70:28)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=-AjhV-0VOhQ&t=3120s) (⏱️ 52:00-67:39)
-- [Murat Yetkin](https://www.youtube.com/watch?v=njJutWdTeU4&t=264s) (⏱️ 04:24-14:31)
-
----
-
-## 4. Sezgin Baran Korkmaz ve Cihan Ekşioğlu Merkezli Kara Para Operasyonu Genişliyor
-
-• İstanbul Cumhuriyet Başsavcılığı kara para aklama iddialarıyla büyük bir operasyon başlattı
-• Sezgin Baran Korkmaz ve Cihan Ekşioğlu dahil 7 kişi hakkında gözaltı kararı verildi
-• 5 kişi gözaltına alındı, Korkmaz şu anda Amerika'da yaşıyor
-• Soruşturmanın merkezinde Paramount Otel'in el değiştirmesi ve otel çökme iddiaları var
-• 132 milyon dolar kara para aklama iddiası bulunuyor
-• Operasyon için yeterli bilgi ve belge toplandı
-• Siyasetçi ve bürokratlarla ilişkiler, dokunulmazlık algısı oluşturdu
-• Güç dengesi değişiyor, yeni bir dönem başlıyor
-• Soruşturmalar eskiye dayanıyor, operasyonlar şimdi hızlandı
+• İstanbul Cumhuriyet Başsavcılığı, Sezgin Baran Korkmaz ve Cihan Ekşioğlu merkezli büyük bir kara para operasyonu başlattı
+• Çok sayıda iş insanı, avukat ve bağlantılı isim hakkında gözaltı kararı verildi
+• Operasyon kapsamında Bodrum'daki Paramount Otel ve Plaza Bodrum'a el kondu, kayyum atandı
+• Paramount Otel TMSF'ye geçti
+• Soruşturma gizli yürütülüyor, Sedat Peker'in 2021'deki iddiaları ve paylaştığı belgeler dosyada etkili oldu
+• Borçlu şirketlere "çökme" ve banka müdürleriyle kurulan ilişkiler üzerinden şirketlerin el değiştirdiği iddia ediliyor
+• Dosyada Rus mafyası bağlantıları, Uniko Sigorta ve Karsan gibi şirketler yer alıyor
+• Sezgin Baran Korkmaz ABD'de kara para aklama ve dolandırıcılıktan tutuksuz yargılanıyor, pasaportuna el kondu
+• Türkiye'de kesinleşmiş hapis cezası var, ABD ve Türkiye arasında mal varlıklarının devri tartışılıyor
+• Soruşturmanın Süleyman Soylu'ya uzanıp uzanmayacağı merak ediliyor
+• Siyasi klikler ve uluslararası baskıların operasyonun arka planında olduğu iddia ediliyor
+• Sedat Peker'in dosyaları ve iddiaları gündemde kalmaya devam ediyor, Türkiye'ye dönüşü hukuken mümkün görünmüyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Nevsin Mengu](https://www.youtube.com/watch?v=-AjhV-0VOhQ&t=360s) (⏱️ 06:00-17:30)
+- [Hilal Koylu](https://www.youtube.com/watch?v=8aUlAZpg7AE&t=143s) (⏱️ 02:23-13:39)
 - [Murat Yetkin](https://www.youtube.com/watch?v=njJutWdTeU4&t=149s) (⏱️ 02:29-04:22)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=rxqV4apgup8&t=1511s) (⏱️ 25:11-26:08)
+- [Bahar Feyzan]() (⏱️ 00:00-00:00)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=rIh2AzNecd0&t=1005s) (⏱️ 16:45-33:00)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=-AjhV-0VOhQ&t=360s) (⏱️ 06:00-17:30)
 
 ---
 
-## 5. Gazze Krizi: Türkiye'nin Rolü, İsrail'deki Siyasi Gelişmeler ve Liderler Arası Diplomasi
+## 4. Türkiye'de Ekonomik Kriz: Üretim, İhracat ve Toplumda Derinleşen Zorluklar
+
+• İşçi, enerji ve hammadde maliyetleri son yıllarda çok arttı
+• Şirketler ucuz döviz kredisi bulamıyor, öz sermaye sıkıntısı var
+• Konkordato ilan eden şirket sayısı artıyor, piyasada tedarik krizi bekleniyor
+• Yapı malzemeleri ve tekstil sektörlerinde rekabet kaybedildi, üretim Mısır gibi ülkelere kayıyor
+• Doların düşük tutulması üretimi ve ihracatı olumsuz etkiliyor
+• Otomotiv ve metal sektörlerinde işçi ücretleri enflasyon ve vergilerle eridi, toplu sözleşme süreci başlıyor
+• İstanbul'da halkın yarısı maddi zorluk yaşıyor, üç kişiden biri temel ihtiyaçlarını karşılayamıyor
+• Kredi kartı borcunu ödeyemeyenlerin oranı %40'a ulaştı, barınma krizi derinleşiyor
+• Türkiye'de gıda enflasyonu Avrupa'da birinci sırada, beş çocuktan biri yetersiz besleniyor
+• Ucuz ve sağlıksız gıda tüketimi arttı, öğün atlamak sıradanlaştı
+• 9 aylık bütçe açığı 310 milyar TL'ye ulaştı, faiz ödemeleri rekor seviyede
+• Vatandaşlar dakikada 19.7 milyon TL vergi ödüyor
+• Türkiye uyuşturucu kaçakçılığında önemli bir koridor haline geldi, sentetik uyuşturucu kullanımı arttı
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Bahar Feyzan]() (⏱️ 00:00-00:00)
+- [Unsal Unlu](https://www.youtube.com/watch?v=NhJwgJcC60s&t=1519s) (⏱️ 25:19-37:50)
+
+---
+
+## 5. Altın Fiyatlarındaki Artış, Türkiye'nin Borçlanma Politikası ve Ekonomik Riskler
+
+• Altın ve gümüş fiyatları son yıllarda dünyada ve Türkiye'de hızla arttı.
+• Türkiye, 184 ton altınla borçlanma yaptı ve bunun maliyeti yaklaşık 14.7 milyar dolar oldu.
+• Altının değer kazanması nedeniyle Türkiye'nin borç yükü 10.3 milyar dolar daha arttı.
+• Altın tahvili ve kira sertifikası gibi finansal araçlar kullanıldı.
+• Borçlanmanın vadesi 2026'da dolacak ve büyük bir ödeme gerekecek.
+• Altın fiyatları yükselmeye devam ederse zarar daha da büyüyebilir.
+• Uzmanlar, altınla borçlanmanın riskli olduğunu ve piyasa bilgisinin eksik olduğunu söylüyor.
+• Altın piyasasında JP Morgan gibi büyük şirketlerin fiyatları manipüle ettiği iddia ediliyor.
+• Altın fiyatlarının yükselmesi Amerika'nın da işine geliyor.
+• Türkiye'de dolar yüksek faizle baskılanıyor, ancak bu baskı uzun sürerse ani yükselişler olabilir.
+• Borsada son dönemde düşüşler ve operasyon haberleri yatırımcı güvenini zedeliyor.
+• Yabancı fonlar riskler nedeniyle Türkiye'ye yatırım yapmaktan çekiniyor.
+• Altın ve gümüşteki artışın konut fiyatlarına yansıması bekleniyor.
+• Türkiye'de nadir element rezervleri abartılıyor, madenciliği çevre için büyük risk taşıyor.
+• Avrupa Birliği ile yapılan karbon anlaşması nedeniyle nadir element çıkarımı ek vergiye yol açabilir.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Bahar Feyzan]() (⏱️ 00:00-00:00)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=UbVAqxQBims) (⏱️ 00:00-10:21)
+
+---
+
+## 6. Gazze Zirvesi ve İsrail-Türkiye-ABD Liderlerinin Tartışmalı Diplomasi Trafiği
 
 • Trump, İsrail meclisinde konuşma yaptı ve İsrail'e en iyi silahları verdiklerini söyledi.
 • Konuşmasında Netanyahu ve muhalefet lideri Lapit'i övdü, Lapit'in adını vermesi seçimler için önemli mesaj olarak görüldü.
-• Trump, İsrail'de daha liberal bir siyaset izlenmesi gerektiğini ima etti.
-• Konuşma sırasında iki komünist partili vekil Trump'ı protesto etti, biri Filistin devletinin tanınmasını istedi ve genel kuruldan çıkarıldı.
+• Trump, Netanyahu'ya radikallerle koalisyon kurmamasını tavsiye etti.
+• Konuşma sırasında iki komünist partili milletvekili Trump'ı protesto etti, biri Filistin devletinin tanınmasını istedi ve genel kuruldan çıkarıldı.
 • İsrail meclisinde farklı kimliklerden vekiller bulunuyor, protesto olayı Türkiye'deki meclis dokunulmazlığı ile karşılaştırıldı.
-• Erdoğan'ın uçağı, Gazze zirvesi için Şarmel Şeyh'e inişten önce havada bekledi, Netanyahu'nun zirveye katılıp katılmayacağı netleşene kadar pisti pas geçti.
-• Netanyahu'nun gelmeyeceği kesinleşince Erdoğan'ın uçağı iniş yaptı, olay Türkiye'de ikinci 'One Minute' vakası olarak yorumlandı.
-• Erdoğan'ın uçağında Hakan Fidan ve İbrahim Kalın'ın da olduğu tahmin edildi.
-• İsrail, Gazze'ye insani yardımların ulaşmasını engelliyor, sınır kapılarını açmıyor.
-• Hamas, ölü İsrailli rehinelerin kimlik tespiti için ekipman istiyor, Türkiye DNA testi için heyet gönderebilir.
-• Milli Savunma Bakanı Yaşar Güler, TSK'nın Gazze'de görev almaya hazır olduğunu açıkladı.
-• Mecliste Filistin'e asker gönderme tezkeresine tüm partiler destek verecek gibi görünüyor.
+• Cumhurbaşkanı Erdoğan'ın uçağı Şarmel Şeyh Havalimanı'na iniş yapmadan önce pisti pas geçti, bir süre havada bekledi.
+• Erdoğan, Netanyahu'nun zirveye katılıp katılmayacağına göre uçağın inişini erteledi, Netanyahu'nun gelmeyeceği kesinleşince tekrar iniş yaptı.
+• Olay Türkiye'de ikinci "One Minute" vakası olarak yorumlandı.
+• İsrail'de bayram nedeniyle devlet görevlileri dış ziyaretlere katılmıyor, Netanyahu'nun gelmemesi tartışma yarattı.
+• Berlin'de Gazze zirvesiyle ilgili Alman gazetecinin paylaşımı gündem oldu.
+• Avrupa siyasetinin küresel ve bölgesel konulardaki etkisizliği tartışıldı, Almanya'nın izleyici konumunda olduğu eleştirildi.
 
 **Bu haberi kapsayan muhabirler:**
 
 - [Bahar Feyzan](https://www.youtube.com/watch?v=15jeNKWRctA) (⏱️ 00:00-06:50)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=rxqV4apgup8&t=323s) (⏱️ 05:23-08:10)
+- [Unsal Unlu](https://www.youtube.com/watch?v=NhJwgJcC60s&t=2610s) (⏱️ 43:30-44:02)
 
 ---
 
-## 6. Sağlık Sisteminde Sorunlar, Üniversitelerde Tartışmalı Uygulamalar ve Disiplin Soruşturmaları
+## 7. Mecliste Terörsüz Türkiye ve Kürt Meselesi: Çözüm Süreci, Demokratikleşme ve Öcalan Tartışmaları
 
-• Türkiye'de sağlık sisteminde ciddi sorunlar yaşanıyor.
-• Hastalar randevu almakta zorlanıyor, doktorlar çok fazla hasta bakıyor.
-• Türkiye'de kişi başı yıllık doktora başvuru sayısı Avrupa'nın iki katı.
-• Hekimlik mesleği değersizleşiyor, genç doktorlar yurtdışına gitmek istiyor.
-• Özel hastanelerde yabancı doktorlar mecburi hizmete tabi değil.
-• Akdeniz Üniversitesi'nde bazı doktorlar disipline sevk edildi.
-• Disiplin gerekçesi, kanser hastalarının sırasını değiştirmek olarak açıklandı.
-• Prof. Dr. Murat Turhan, olayla ilgisi olmadığını ve özel muayenehanesi olmadığını söyledi.
-• Haberi yapan gazetecinin etik problemi olabileceği iddia edildi.
-• Hacettepe Üniversitesi'nde yemekhaneye rezervasyon sistemi getirildi.
-• Rezervasyonlu gelenler daha az ücret ödüyor, öğrenciler uygulamaya tepki gösteriyor.
-• Dünya Tabipler Birliği'nde Türk Tabipleri Birliği'nin Gazze önergesi kabul edildi.
+• Mecliste Terörsüz Türkiye Komisyonu çalışmaları sürüyor, Kürt meselesi ve demokratikleşme gündemde.
+• Komisyona CHP, DEM Parti, TİP, HÜDA PAR, İyi Parti ve Zafer Partisi farklı tutumlarla katılıyor; AK Parti ve MHP'nin katılımı ve tavrı belirleyici.
+• Komisyonun en tartışmalı gündemi, Abdullah Öcalan ile heyet görüşmesi. DEM Parti ve MHP destekliyor, CHP ve AK Parti seçmen tepkisi nedeniyle mesafeli, İyi Parti ve Zafer Partisi ise tamamen karşı.
+• Öcalan'ın meşru muhatap olup olmayacağı, Kürt siyasetinde liderlik ve temsiliyet tartışmalarını tetikliyor.
+• Selahattin Demirtaş'ın tahliyesi ve rolü, Kürt siyasetinde çoğullaşma ve demokratikleşme açısından önemli görülüyor.
+• Komisyon dinlemeleri tamamlandı, yasa ve ortak rapor hazırlığı var; CHP'nin komisyona katılımı parti içi ve dışı baskı yaratıyor.
+• Demokratikleşme ve silahsızlanma süreçlerinin birlikte mi yoksa ayrı mı yürütüleceği tartışılıyor; devlet ve bazı partiler önce silah bırakma, diğerleri eş zamanlı demokratikleşme istiyor.
+• Kayyum uygulamaları, tutuklu siyasetçiler, ifade özgürlüğü ve temel haklar çözümün önündeki engeller olarak öne çıkıyor.
+• Suriye'deki gelişmeler ve bölgesel dinamikler Türkiye'deki süreci doğrudan etkiliyor; SDG ve PKK'nın Suriye'deki varlığı kritik.
+• Milliyetçi partiler ve tabanlarında süreçle ilgili dalgalanmalar, kutuplaşma ve siyasi gerilim artıyor.
+• Komisyonun samimiyeti, siyasi hesaplar ve toplumsal rıza sorgulanıyor; ekonomik kriz ve yoksulluk halkın önceliği olmaya devam ediyor.
+• Sürecin geleceği belirsiz, somut adım atılması için siyasi irade ve toplumsal mutabakat gerekiyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=cjeeKcMU-04&t=1662s) (⏱️ 27:42-48:26)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=rxqV4apgup8&t=1720s) (⏱️ 28:40-32:34)
+- [Unsal Unlu](https://www.youtube.com/watch?v=NhJwgJcC60s&t=443s) (⏱️ 07:23-18:18)
+- [Hilal Koylu](https://www.youtube.com/watch?v=8aUlAZpg7AE&t=1145s) (⏱️ 19:05-23:04)
+- [Murat Yetkin](https://www.youtube.com/watch?v=njJutWdTeU4&t=264s) (⏱️ 04:24-14:31)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=-AjhV-0VOhQ&t=3120s) (⏱️ 52:00-67:39)
+- [Rusen Cakir](https://www.youtube.com/watch?v=5HLe9KCrUJ8) (⏱️ 00:00-07:04)
 
 ---
 
-## 7. Konut ve Borç Sorunlarına Çözüm İçin Yeni Projeler ve Vaatler
+## 8. Sanatçılara ve LGBTİ+ Bireylere Yönelik Yasal Baskılar ve İfade Özgürlüğü Tartışmaları
 
-• Cumhurbaşkanı Erdoğan, 81 ilde sosyal konut projesi başlatacağını açıkladı.
-• Konut fiyatlarının yüksek olmasının nedeni arazi eksikliği, ithal malzeme ve geçmişteki düşük faizler olarak gösteriliyor.
-• Sorunun çözümü için yeni arazi yaratılması ve inşaat maliyetlerinin düşürülmesi gerektiği belirtiliyor.
-• Barınma sorunu gençlerin evlenme ve çocuk yapma kararlarını etkiliyor.
-• CHP Genel Başkanı Özgür Özel, borç faizlerinin düşeceğini ve kredi kartı faizlerinin silineceğini vaat etti.
-• İlk 100 gün içinde kredi kartı faizlerinin silinmesi ve ana paranın bölünmesi planlanıyor.
-• Yolsuzlukların bitirilmesiyle kaynak bulunabileceği ifade ediliyor.
+• Komedyen Özgür Turhan, sosyal medya paylaşımları nedeniyle davalarla karşı karşıya kaldı.
+• Turhan'a Cübbeli Ahmet Hoca ve Galatasaray tarafından dava açıldı, reklam anlaşmaları iptal edildi, maddi zararlar oluştu.
+• Sanatçılara ve sahne şovlarına yönelik baskılar arttı; Mabel Matiz'e hapis cezası istendi, Ediz'in kıyafeti eleştirildi, Manifest kızlarının ve İrfan Değirmenci'nin yurt dışına çıkışı yasaklandı.
+• CHP'li Gürsel Tekin, eleştiriler nedeniyle 80.000 TL tazminat talebiyle dava açtı.
+• 11. yargı paketinde LGBTİ+ bireylere yönelik yeni düzenlemeler gündeme geldi; biyolojik cinsiyete ve genel ahlaka aykırı davranışlara 1-3 yıl hapis cezası öneriliyor.
+• Cinsiyet değiştirme ameliyatı yaşı 18'den 25'e çıkarılıyor, sağlık şartları ağırlaştırılıyor.
+• Tasarıda aile kurumunu koruma gerekçesi öne sürülüyor, dijital platformlara yönelik düzenlemeler planlanıyor.
+• Bu tür düzenlemelerin ayrımcılığı artıracağı ve popülizm amacıyla kullanıldığı belirtiliyor.
+• Toplumda ahlaklı-ahlaksız ayrımı yapılmaya çalışılıyor, faşizme karşı toplumsal mücadele ve dayanışma vurgulanıyor.
+• LGBTI+ bireylerin yaşadığı zorluklar ve toplumsal baskılar kitap ve eylemlerle gündeme getiriliyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilal Koylu](https://www.youtube.com/watch?v=6espEtaOgr8&t=1683s) (⏱️ 28:03-31:14)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=rxqV4apgup8&t=1096s) (⏱️ 18:16-19:31)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=HYxrOJXpXS0&t=608s) (⏱️ 10:08-14:18)
+- [Bahar Feyzan]() (⏱️ 00:00-00:00)
+- [Unsal Unlu](https://www.youtube.com/watch?v=NhJwgJcC60s&t=1368s) (⏱️ 22:48-24:57)
+- [Rusen Cakir](https://www.youtube.com/watch?v=RprtRbpNuvw&t=3s) (⏱️ 00:03-10:22)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=-AjhV-0VOhQ&t=2940s) (⏱️ 49:00-52:00)
 
 ---
 
-## 8. Türkiye'de Toplumsal Depresyon ve Adalet Sorunu Deprem Bölgesinde Derinleşiyor
+## 9. Muhalefet Partilerinde Seçim İşbirliği ve Siyasi Tartışmalar Gündemde
 
-• Türkiye'de uzun süren ekonomik ve sosyal sorunlar depresyon hissini artırıyor
-• Mahfi Eğilmez'in yazısında distimi (kronik depresyon) kavramı tartışıldı
-• Adalet duygusunun eksikliği, toplumda güvensizlik ve umutsuzluk yaratıyor
+• Saadet Partisi'nin yeni lideri Mahmut Arıkan, Yeniden Refah Partisi lideri Fatih Erbakan'ı ziyaret etti.
+• İki parti arasında seçim işbirliği ve ittifak olasılığı konuşuldu.
+• Fatih Erbakan, işbirliğinin mümkün olduğunu ama henüz erken olduğunu söyledi.
+• MHP ile Yeniden Refah arasında üyelik ve oy oranı üzerinden rekabet yaşanıyor.
+• Fatih Erbakan, MHP'yi İmralı görüşmeleri ve genel af tartışmalarında eleştirdi.
+• Yeniden Refah Partisi, Kürt-Türk kardeşliğini ve toplumsal barışı savunduğunu açıkladı.
+• MHP, Yeniden Refah'ın halkta karşılığı olmadığını iddia etti.
+• DEVA Partisi lideri Ali Babacan, Meclis resepsiyonunda Cumhurbaşkanı Erdoğan ile fotoğraf verdi.
+• Fotoğraf sonrası Babacan'a sosyal medyada eleştiriler ve troll saldırıları oldu.
+• Babacan, CHP ile sorunu olmadığını ve eleştirilerin trollerden geldiğini söyledi.
+• Babacan, siyasette üçüncü bir yol açmak istediklerini ve AK Parti'ye dönmeyeceğini belirtti.
+• Babacan, AK Parti'den ayrılma nedenlerini ve mevcut iktidarın sorunlarını anlattı.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Hilal Koylu](https://www.youtube.com/watch?v=8aUlAZpg7AE&t=821s) (⏱️ 13:41-19:05)
+
+---
+
+## 10. Tasarruf Kültürü ve Toplumsal Değişim Gerekliliği
+
+• Türkiye'de aşırı tüketim ve gösteriş kültürü eleştiriliyor.
+• Tasarrufun saygın bir değer olması gerektiği vurgulanıyor.
+• Avrupa'daki sade yaşam örnekleriyle karşılaştırma yapılıyor.
+• Toplumda ve kamuda tasarruf bilincinin yaygınlaşması gerektiği savunuluyor.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Bahar Feyzan]() (⏱️ 00:00-00:00)
+
+---
+
+## 11. Ahmet Minguzi Cinayeti ve Suça Sürüklenen Çocuklar İçin Yasal Düzenleme
+
+• 15 yaşındaki Ahmet Minguzi'nin Kadıköy'de bıçaklanarak öldürülmesi kamuoyunda büyük tepki yarattı.
+• Cinayete karışan çocuklardan dördü adli kontrolle tahliye edildi, biri mahkum oldu.
+• Türkiye'de suça sürüklenen çocuk sayısı son 5 yılda ikiye katlandı.
+• Hükümet, suça sürüklenen çocuklar ve sokak çeteleriyle mücadele için yeni yasal düzenleme hazırlıyor.
+• Düzenlemede çocuklara değil, çetelere verilen cezaların artırılması, çocuklar için rehabilitasyon ve izleme sistemi öngörülüyor.
+• Ailelerin sorumluluğu artırılacak, çocuklara kötü muamele eden ebeveynlere hapis cezası geliyor.
+• Ahmet Minguzi'nin adı Çankaya'da bir kaykay parkına verilecek.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Hilal Koylu](https://www.youtube.com/watch?v=8aUlAZpg7AE&t=1384s) (⏱️ 23:04-29:59)
+
+---
+
+## 12. Silivri'deki Tutuklular ve Beklenen İddianame
+
+- Silivri Cezaevi'nde tutuklu olanlar günleri sayıyor
+- Ekrem İmamoğlu iddianamenin hazırlanmasını talep etti
+- İddianamenin ne zaman çıkacağına dair farklı iddialar var
+- İddianamenin içeriği ve kimleri kapsayacağı merak ediliyor
+- CHP'li bazı isimler ve belediye başkanları iddianamede yer alabilir
+- Silivri'de kış şartları ve sağlık kontrolleri yapılıyor
+- Furkan Karabay cezaevindeki yaşantısını yazıyor
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Ozlem Gurses](https://www.youtube.com/watch?v=rIh2AzNecd0&t=7s) (⏱️ 00:07-13:00)
+
+---
+
+## 13. Türkiye'de Adalet Duygusu ve Toplumsal Depresyon
+
+• Türk toplumunda uzun süreli ekonomik ve sosyal sorunlar depresyon hissini artırıyor
+• Mahfiye Eğilmez'in yazısında distimi (kronik depresyon) kavramı tartışıldı
+• Adalet duygusunun eksikliği, toplumda güvensizlik ve mutsuzluk yaratıyor
 • Demokrasi ve adaletin gerilemesi, toplumsal ruh sağlığını olumsuz etkiliyor
-• Antakya'da deprem sonrası toparlanma süreci çok yavaş ilerliyor
-• Elektrik, yol, iş imkanı gibi temel sorunlar devam ediyor
-• Esnafın işleri kötü, sosyal hayat yok denecek kadar az
-• Birçok kişi başka şehirlere göç etti
-• Deprem suçlarının yargılanmasında ve kayıpların bulunmasında ilerleme yok
-• Bölge halkı psikolojik destek ihtiyacı duyuyor
-• Hükümetin ve yerel yönetimlerin çabaları yetersiz bulunuyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=TtO7Cv5G4gg&t=240s) (⏱️ 04:00-20:00)
 - [Nevsin Mengu](https://www.youtube.com/watch?v=-AjhV-0VOhQ&t=30s) (⏱️ 00:30-06:00)
 
 ---
 
-## 9. Ankara Büyükşehir Belediyesi Soruşturması ve Anayasa Mahkemesi'nin Nadir Element Kararı Gündemde
+## 14. Rojin Kabaiş Cinayeti: Adalet Mücadelesi ve ATK Raporu
 
-• Ankara Büyükşehir Belediyesi'nde Mansur Yavaş'ın sunduğu 97 yolsuzluk dosyasının 55'i aynı bilirkişi tarafından incelendi ve takipsizlik kararı verildi
-• Bilirkişi seçiminde taraflılık iddiaları ortaya atıldı
-• Melih Gökçek dönemine ait dosyaların aklanması ve Mansur Yavaş'ın suçlanması tartışılıyor
-• Anayasa Mahkemesi, Cumhurbaşkanına nadir elementler ve ekonomik işlemlerle ilgili verilen yetkileri iptal etti
-• Eskişehir'deki nadir element rezervleri ve madenlerin ruhsatlandırılması konusu gündeme geldi
-• Mahkeme kararının uygulanıp uygulanmayacağı konusunda belirsizlik var
+• Rojin Kabaiş'in ölümü önce intihar olarak açıklanmıştı
+• Baba Nizamettin Kabaiş uzun süre adalet arayışı yürüttü
+• Son ATK raporunda Rojin'in bedeninde iki farklı erkeğe ait DNA bulundu
+• ATK raporunun 10 ay boyunca saklandığı iddia edildi
+• Üniversite öğrencileri ve kamuoyu, olayın aydınlatılması ve rektörün açıklama yapmasını talep ediyor
+• Adalet Bakanlığı dosyaya müdahil oldu, DNA karşılaştırmaları bekleniyor
+• Olay, ülkede adalet sistemine olan güvenin sarsılmasının sembolü haline geldi
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=NhJwgJcC60s&t=1818s) (⏱️ 30:18-30:37)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=cjeeKcMU-04&t=3856s) (⏱️ 64:16-68:17)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=-AjhV-0VOhQ&t=1050s) (⏱️ 17:30-33:00)
 
 ---
 
-## 10. Suriye Geçici Cumhurbaşkanı Şara'nın Moskova'da Putin ile Kritik Görüşmesi
+## 15. CHP Milletvekili Utku Çakırözer ile İran Raporu ve Basın Özgürlüğü
 
-• Suriye geçici cumhurbaşkanı Ahmet Elşara, Moskova'da Rusya Devlet Başkanı Vladimir Putin ile görüştü.
-• Görüşmede Suriye'deki siyasi gelişmeler ve çözüm süreci ele alındı.
-• Şara, dünyada aktif bir lider profili çiziyor.
-• Putin, eski Suriye lideri Beşar Esad'ın en büyük destekçisi olarak biliniyor.
-• Esad şu anda Moskova'da yaşıyor.
-• Şara, Putin'den Esad'ın Suriye'ye iade edilmesini ve yargılanmasını talep etti.
-• Putin'in Esad'ı iade etmesi beklenmiyor; Esad'ı siyasi bir koz olarak tutuyor.
+• Utku Çakırözer, NATO Parlamenter Asamblesi için İran raporunu hazırladı
+• Raporda İran'ın nükleer silahlanma, vekil güçler ve Rusya'ya silah desteğiyle tehdit oluşturduğu belirtildi
+• Diplomasi ve diyalog önerileri, yaptırımların etkisizliği vurgulandı
+• Türkiye'nin bölgesel rolü ve diplomatik girişimleri raporda öne çıkarıldı
+• Cezaevindeki gazeteciler ve basın özgürlüğü sorunları gündeme getirildi
+• Gazetecilere yönelik tutuklamalar ve saldırılar eleştirildi
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=rxqV4apgup8&t=135s) (⏱️ 02:15-03:30)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=cjeeKcMU-04&t=4097s) (⏱️ 68:17-68:55)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=-AjhV-0VOhQ&t=1980s) (⏱️ 33:00-49:00)
 
 ---
 
-## 11. Türkiye'de Okullarda Hijyen Eksikliği ve Kış Saati Uygulamasının Etkileri
+## 16. Venezuela Muhalefet Lideri Maria Machado'nun Yatırım Çağrısı
 
-• Dünya El Yıkama Günü kutlanıyor.
-• Türkiye'de birçok okulda sabun, tuvalet kağıdı ve dezenfektan eksik.
-• Milyonlarca çocuk sabuna erişemiyor.
-• Veliler temizlik malzemelerini kendi imkanlarıyla sağlamak zorunda kalıyor.
-• Hijyen eksikliği çocukların yaşam hakkını etkiliyor.
-• Kış saati uygulamasından vazgeçilmiyor.
-• Çocuklar sabah erken saatlerde okula gidiyor.
-• Okullarda su ve temizlik malzemesi eksikliği devam ediyor.
-• Yetkililer kış saati uygulamasında geri adım atmıyor.
+• Venezuela'nın muhalif lideri Maria Machado, ülkesinin petrol ve doğal kaynaklarını öne çıkarıyor.
+• Amerikan şirketlerini Venezuela'ya yatırım yapmaya davet ediyor.
+• Röportajda ülkenin yatırım için büyük fırsatlar sunduğu vurgulanıyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilal Koylu](https://www.youtube.com/watch?v=6espEtaOgr8&t=40s) (⏱️ 00:40-01:22)
+- [Bahar Feyzan]() (⏱️ 00:00-00:00)
 
 ---
 
-## 12. Milli Takımda Protokol Krizi ve Maç Sevinci; Fatih Ürek Kalp Krizi Geçirdi
+## 17. Emeklilere Yeni Yılda Zam Beklentisi
 
-• Milli futbol takımı dün önemli bir galibiyet aldı
-• TFF Başkanı İbrahim Hacı Ömeroğlu, protokolde ailesine yer ayrılmadığı için stadı terk etti
-• Kriz son anda çözüldü, ailesine yer ayarlandı
-• Maçta Hakan'ın 100. maçı kutlandı, Merih Demiral iki gol attı
-• Teknik direktör Montella'nın vergi rekortmeni olduğu belirtildi
-• Sanatçı Fatih Ürek kalp krizi geçirdi
-• 20 dakika kalp masajı yapıldı, yoğun bakıma alındı
-• Sağlığına kavuşması temenni edildi
+• Emeklilere yeni yılda ne kadar zam yapılacağına dair çalışmalar sürüyor.
+• Zam oranlarının tatmin edici olmayabileceği yönünde değerlendirmeler var.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=cjeeKcMU-04&t=58s) (⏱️ 00:58-04:45)
+- [Hilal Koylu](https://www.youtube.com/watch?v=8aUlAZpg7AE&t=2375s) (⏱️ 39:35-39:59)
 
 ---
 
-## 13. 5G İhalesi Sonunda Yapılıyor
+## 18. Suriye Cumhurbaşkanı Esad'ın Rusya ile Görüşmesi
 
-• 5G ihalesi uzun süredir erteleniyordu, sonunda yapılıyor.
-• İhaleye üç büyük şirket katılıyor: Turkcell, Vodafone, Telekom.
-• Frekans bantları şirketler arasında bölünmüş durumda.
-• 3 milyar dolardan fazla gelir bekleniyor.
-• Ekonomik kriz döneminde bu gelir önemli olabilir.
+• Suriye Cumhurbaşkanı Beşar Esad, Rusya lideri Putin ile Moskova'da görüştü
+• Görüşme İsrail saldırılarına karşı güvenlik garantileri arayışıyla gerçekleşti
+• Rusya'nın Laskiye ve Tartus'taki üslerine yeniden dönmesi ele alındı
+• Esad'ın toplum nezdinde kaybettiği karizmayı toparlama çabası olduğu iddia edildi
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Murat Yetkin](https://www.youtube.com/watch?v=njJutWdTeU4&t=76s) (⏱️ 01:16-02:26)
+- [Unsal Unlu](https://www.youtube.com/watch?v=NhJwgJcC60s&t=2511s) (⏱️ 41:51-43:01)
 
 ---
 
-## 14. MHP'den Vatandaşlık Tanımı Açıklaması
+## 19. Ucuz Kiralık Konut Modeli ve Belediyelerin Rolü
 
-• MHP Genel Başkan Yardımcısı Fetih Yıldız, Türk vatandaşlığı tanımını 1924 Anayasası'na dayandırdı
-• Milletin tanımı ve egemenliğin sahibi olarak Türk milleti vurgulandı
-• Vatandaşlıkta din ve ırk farkı gözetilmediği belirtildi
+• Başkan Erdoğan ucuz kiralık konut modeli müjdesi verdi
+• Modelin dar gelirli vatandaşlara nefes aldıracağı belirtildi
+• Belediyelerin konut kiralama ve üretme rolü vurgulandı
+• Devletin değil, belediyelerin bu işi yapması gerektiği ifade edildi
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=cjeeKcMU-04&t=4228s) (⏱️ 70:28-72:52)
+- [Unsal Unlu](https://www.youtube.com/watch?v=NhJwgJcC60s&t=2660s) (⏱️ 44:20-44:43)
 
 ---
 
-## 15. Resul Emrah Şahan'dan Müzisyenlere Çağrı: Silivri No9 Bestesi
+## 20. 5G İhalesi Sonunda Yapılıyor
 
-• Resul Emrah Şahan cezaevinden beste gönderdi
-• Silivri No9 adlı eserin notalarını müzisyenlere iletti
-• Müzisyenlerden bu besteyi çalmaları istendi
-• Sanat ve özgürlük vurgusu yapıldı
+• 5G ihalesi uzun süredir erteleniyordu, sonunda yapılıyor
+• İhaleye üç şirket katılıyor: Turkcell, Vodafone, Telekom
+• Frekans bantları şirketler arasında bölünüyor
+• 3 milyar dolardan fazla gelir bekleniyor
+• İhale usulü uygulanıyor ama şirketler arasında paylaşım izlenimi var
+• Ekonomik kriz döneminde hazineye katkı sağlanacak
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=cjeeKcMU-04&t=4407s) (⏱️ 73:27-79:14)
+- [Murat Yetkin](https://www.youtube.com/watch?v=njJutWdTeU4&t=76s) (⏱️ 01:16-02:24)
+
+---
+
+## 21. Fatih Ürek'in Sağlık Durumu
+
+- Fatih Ürek kalp krizi geçirdi
+- Evinde yeni işe başlayan yardımcı sayesinde ambulans çağrıldı
+- Kalbi durdu, uzun süre kalp masajı yapıldı
+- Beyin fonksiyonlarında ciddi zarar oluştu, şu anda komada
+- Kan sulandırıcı ilaçlarını düzenli kullanmadığı için pıhtı attığı belirtildi
+- Doktorlar süreci takip ediyor, iyileşmesi bekleniyor
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Ozlem Gurses](https://www.youtube.com/watch?v=rIh2AzNecd0&t=4680s) (⏱️ 78:00-81:17)
 
 ---
 
