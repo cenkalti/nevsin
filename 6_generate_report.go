@@ -221,6 +221,13 @@ Görevlerin:
 3. Haberin önem derecesini belirle (1=en önemli, 10=en az önemli)
 4. Türkiye gündemindeki yerini değerlendir
 
+BAŞLIK YAZIM KURALLARI:
+• Başlıkları kısa ve öz tut
+• Ana konuya odaklan, birden fazla öğe listeleme
+• Gereksiz detayları başlığa ekleme
+• Alt başlık kullanma (: işaretiyle devam etme)
+• Maksimum 5-7 kelime kullan
+
 ÖZET YAZIM KURALLARI:
 • Özeti basit cümleler halinde yaz
 • Madde işaretleri kullan
