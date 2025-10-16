@@ -2,6 +2,7 @@ package nevsin
 
 import (
 	"bytes"
+	"context"
 	_ "embed"
 	"encoding/json"
 	"fmt"
@@ -13,6 +14,8 @@ import (
 	"time"
 
 	"github.com/invopop/jsonschema"
+	"github.com/openai/openai-go/v3"
+	"github.com/openai/openai-go/v3/option"
 	"github.com/spf13/cobra"
 	"github.com/yuin/goldmark"
 	"github.com/yuin/goldmark/extension"
@@ -44,7 +47,7 @@ type MergedNewsStory struct {
 	VideoSources []VideoSource `json:"-"` // Not included in JSON schema
 }
 
-// ReportGenerationResponse represents the structured response from Azure OpenAI for report generation
+// ReportGenerationResponse represents the structured response from OpenAI for report generation
 type ReportGenerationResponse struct {
 	Stories []MergedNewsStory `json:"stories"`
 }
@@ -111,7 +114,7 @@ func loadClusters() (ClusteringResult, error) {
 	return clusters, nil
 }
 
-// convertClustersToMergedStories converts story clusters to merged stories using Azure OpenAI
+// convertClustersToMergedStories converts story clusters to merged stories using OpenAI API
 func convertClustersToMergedStories(clusters ClusteringResult) []MergedNewsStory {
 	var mergedStories []MergedNewsStory
 
@@ -155,11 +158,9 @@ func convertClustersToMergedStories(clusters ClusteringResult) []MergedNewsStory
 	return mergedStories
 }
 
-// mergeClusterWithAI uses Azure OpenAI to merge stories in a cluster
+// mergeClusterWithAI uses OpenAI API to merge stories in a cluster
 func mergeClusterWithAI(cluster StoryCluster) MergedNewsStory {
-	endpoint := Config.AzureOpenAIEndpoint
-	apiKey := Config.AzureOpenAIAPIKey
-	deployment := Config.AzureOpenAIDeployment
+	apiKey := Config.OpenAIAPIKey
 
 	// Prepare cluster data for AI processing
 	clusterJSON, err := json.MarshalIndent(cluster.Stories, "", "  ")
@@ -186,12 +187,13 @@ func mergeClusterWithAI(cluster StoryCluster) MergedNewsStory {
 		schemaObj.Type = "object"
 	}
 
+	// Convert to interface{} for OpenAI SDK
 	schemaBytes, err := json.Marshal(schemaObj)
 	if err != nil {
 		log.Printf("Failed to marshal schema: %v", err)
 		return MergedNewsStory{Title: "Hata", Summary: "Schema hatası"}
 	}
-	var schema map[string]any
+	var schema any
 	if err := json.Unmarshal(schemaBytes, &schema); err != nil {
 		log.Printf("Failed to unmarshal schema: %v", err)
 		return MergedNewsStory{Title: "Hata", Summary: "Schema hatası"}
@@ -207,11 +209,11 @@ func mergeClusterWithAI(cluster StoryCluster) MergedNewsStory {
 		reporters = append(reporters, reporter)
 	}
 
-	requestBody := map[string]any{
-		"messages": []map[string]any{
-			{
-				"role": "system",
-				"content": `Sen benzer haber hikayelerini birleştiren bir uzmansın. Verilen hikayeleri analiz et ve tek bir tutarlı haber haline getir.
+	// Create OpenAI client
+	client := openai.NewClient(option.WithAPIKey(apiKey))
+
+	// Prepare system and user messages
+	systemContent := `Sen benzer haber hikayelerini birleştiren bir uzmansın. Verilen hikayeleri analiz et ve tek bir tutarlı haber haline getir.
 
 Görevlerin:
 1. Ortak bir başlık oluştur
@@ -224,56 +226,41 @@ Görevlerin:
 • Madde işaretleri kullan
 • Her madde kısa ve net olsun
 • Karmaşık cümleler kurma
-• Teknik terimler varsa basit açıkla`,
-			},
-			{
-				"role":    "user",
-				"content": fmt.Sprintf("Bu benzer haber hikayelerini birleştir ve tek bir tutarlı haber haline getir:\n\n%s", string(clusterJSON)),
+• Teknik terimler varsa basit açıkla`
+	userContent := fmt.Sprintf("Bu benzer haber hikayelerini birleştir ve tek bir tutarlı haber haline getir:\n\n%s", string(clusterJSON))
+
+	// Create chat completion with structured outputs
+	chatCompletion, err := client.Chat.Completions.New(context.TODO(), openai.ChatCompletionNewParams{
+		Messages: []openai.ChatCompletionMessageParamUnion{
+			openai.SystemMessage(systemContent),
+			openai.UserMessage(userContent),
+		},
+		Model:       openai.ChatModelGPT4_1,
+		MaxTokens:   openai.Int(2000),
+		Temperature: openai.Float(0.1),
+		ResponseFormat: openai.ChatCompletionNewParamsResponseFormatUnion{
+			OfJSONSchema: &openai.ResponseFormatJSONSchemaParam{
+				JSONSchema: openai.ResponseFormatJSONSchemaJSONSchemaParam{
+					Name:        "merged_story",
+					Description: openai.String("Merge similar news stories into a single coherent story"),
+					Schema:      schema,
+					Strict:      openai.Bool(true),
+				},
 			},
 		},
-		"max_tokens":  2000,
-		"temperature": 0.1,
-		"response_format": map[string]any{
-			"type": "json_schema",
-			"json_schema": map[string]any{
-				"name":   "merged_story",
-				"schema": schema,
-			},
-		},
-	}
-
-	jsonBody, err := json.Marshal(requestBody)
+	})
 	if err != nil {
-		log.Printf("Failed to marshal request: %v", err)
-		return MergedNewsStory{Title: "Hata", Summary: "İstek hatası"}
-	}
-
-	responseBody, err := makeOpenAIRequest(jsonBody, endpoint, apiKey, deployment, "chat/completions")
-	if err != nil {
-		log.Printf("Failed to call Azure OpenAI for merging: %v", err)
+		log.Printf("Failed to call OpenAI API for merging: %v", err)
 		return MergedNewsStory{Title: "Hata", Summary: "AI çağrısı hatası"}
 	}
 
-	var result struct {
-		Choices []struct {
-			Message struct {
-				Content string `json:"content"`
-			} `json:"message"`
-		} `json:"choices"`
-	}
-
-	if err := json.Unmarshal(responseBody, &result); err != nil {
-		log.Printf("Failed to decode merge response: %v", err)
-		return MergedNewsStory{Title: "Hata", Summary: "Yanıt hatası"}
-	}
-
-	if len(result.Choices) == 0 || result.Choices[0].Message.Content == "" {
+	if len(chatCompletion.Choices) == 0 || chatCompletion.Choices[0].Message.Content == "" {
 		log.Printf("No content in merge response")
 		return MergedNewsStory{Title: "Hata", Summary: "Boş yanıt"}
 	}
 
 	var mergedStory MergedNewsStory
-	if err := json.Unmarshal([]byte(result.Choices[0].Message.Content), &mergedStory); err != nil {
+	if err := json.Unmarshal([]byte(chatCompletion.Choices[0].Message.Content), &mergedStory); err != nil {
 		log.Printf("Failed to parse merged story: %v", err)
 		return MergedNewsStory{Title: "Hata", Summary: "Ayrıştırma hatası"}
 	}
