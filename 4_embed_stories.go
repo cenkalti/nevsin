@@ -1,6 +1,7 @@
 package nevsin
 
 import (
+	"context"
 	"database/sql"
 	"encoding/json"
 	"fmt"
@@ -11,6 +12,8 @@ import (
 	"time"
 
 	_ "github.com/mattn/go-sqlite3"
+	"github.com/openai/openai-go/v3"
+	"github.com/openai/openai-go/v3/option"
 	"github.com/spf13/cobra"
 )
 
@@ -167,46 +170,30 @@ func embeddingExists(db *sql.DB, storyID string) (bool, error) {
 	return count > 0, nil
 }
 
-// generateEmbedding calls Azure OpenAI to generate embeddings for text
+// generateEmbedding calls OpenAI API to generate embeddings for text
 func generateEmbedding(text string) ([]float64, error) {
-	endpoint := Config.AzureOpenAIEndpoint
-	apiKey := Config.AzureOpenAIAPIKey
+	apiKey := Config.OpenAIAPIKey
 
-	// Use text-embedding-3-large for superior semantic quality
-	embeddingDeployment := "text-embedding-3-large"
+	// Create OpenAI client
+	client := openai.NewClient(option.WithAPIKey(apiKey))
 
-	// Prepare the request payload
-	requestBody := map[string]any{
-		"input": text,
-	}
-
-	jsonBody, err := json.Marshal(requestBody)
+	// Generate embedding using text-embedding-3-large for superior semantic quality
+	embedding, err := client.Embeddings.New(context.TODO(), openai.EmbeddingNewParams{
+		Input: openai.EmbeddingNewParamsInputUnion{
+			OfString: openai.String(text),
+		},
+		Model:          openai.EmbeddingModelTextEmbedding3Large,
+		EncodingFormat: openai.EmbeddingNewParamsEncodingFormatFloat,
+	})
 	if err != nil {
-		return nil, fmt.Errorf("failed to marshal request: %w", err)
+		return nil, fmt.Errorf("failed to call OpenAI API: %w", err)
 	}
 
-	// Make request to Azure OpenAI embeddings endpoint
-	responseBody, err := makeOpenAIRequest(jsonBody, endpoint, apiKey, embeddingDeployment, "embeddings")
-	if err != nil {
-		return nil, err
-	}
-
-	// Parse response
-	var result struct {
-		Data []struct {
-			Embedding []float64 `json:"embedding"`
-		} `json:"data"`
-	}
-
-	if err := json.Unmarshal(responseBody, &result); err != nil {
-		return nil, fmt.Errorf("failed to decode embedding response: %w", err)
-	}
-
-	if len(result.Data) == 0 {
+	if len(embedding.Data) == 0 {
 		return nil, fmt.Errorf("no embedding data in response")
 	}
 
-	return result.Data[0].Embedding, nil
+	return embedding.Data[0].Embedding, nil
 }
 
 // saveEmbedding saves an embedding to the database
