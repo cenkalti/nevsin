@@ -1,376 +1,409 @@
 # Bugün Ne Oldu?
 
-*17 October 2025 tarihli günlük haber raporu - 20 haber birleştirildi*
+*18 October 2025 tarihli günlük haber raporu - 22 haber birleştirildi*
 
-## 1. Kürt Meselesi ve Komisyon Tartışmaları
+## 1. Can Holding ve Medya Operasyonları
 
-• TBMM'de Kürt meselesi ve terörsüz Türkiye için kurulan komisyonun çalışmaları sürüyor
-• Komisyonun dinleme aşaması tamamlandı, rapor hazırlık aşamasına geçildi
-• Komisyona siyasi partiler, STK'lar, akademisyenler ve mağdur yakınları sunum yaptı
-• Komisyonun Öcalan'la görüşüp görüşmeyeceği tartışılıyor; DEM Parti ve MHP görüşmeyi destekliyor, CHP ve AKP mesafeli
-• HÜDA PAR, Kürt meselesi ile terörün ayrılması gerektiğini savunuyor
-• CHP, komisyonda yer alarak meşru aktör olmayı ve dengeli bir politika izlemeyi amaçlıyor
-• İyi Parti ve Zafer Partisi, komisyona ve Öcalan'la görüşmeye karşı çıkıyor
-• Komisyonun demokratik işleyişi ve toplumsal desteği zayıf, ekonomik kriz halkın önceliği
-• Kayyum uygulamaları, ana dilde eğitim, tutuklu siyasetçiler ve demokratikleşme talepleri öne çıkıyor
-• Selahattin Demirtaş'ın tahliyesi ve rolü, Kürt siyasetinde liderlik tartışmalarını gündeme getiriyor
-• Suriye'deki gelişmeler ve PKK'nın bölgedeki varlığı süreci doğrudan etkiliyor
-• Muhalefet partileri arasında sertleşen dil ve kutuplaşma artıyor, DEM Parti hedefte
-• Komisyonun başarısı için geniş mutabakat ve somut adımlar gerektiği vurgulanıyor
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Nevsin Mengu](https://www.youtube.com/watch?v=0RZidIcNEhY&t=2820s) (⏱️ 47:00-49:00)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=6QFH0MDK6GU&t=1125s) (⏱️ 18:45-19:53)
-- [Rusen Cakir](https://www.youtube.com/watch?v=r5G3cEUJQRc) (⏱️ 00:00-05:34)
-- [Hilal Koylu](https://www.youtube.com/watch?v=8aUlAZpg7AE&t=1154s) (⏱️ 19:14-23:04)
-
----
-
-## 2. Büyük Holdinglere Kara Para Operasyonları
-
-• Can Holding, Ciner Holding, Papara, Pfix ve Paramount Otel gibi büyük şirketlere kara para aklama, vergi kaçırma ve akaryakıt kaçakçılığı iddialarıyla operasyonlar yapıldı
-• Soruşturmalarda 35'ten fazla kişi gözaltına alındı, 121 şirketin hesaplarında 88 milyar TL'lik şüpheli para hareketi tespit edildi
-• Sezgin Baran Korkmaz, Cihan Ekşioğlu, Kenan Tekdağ, Remzi Sanver ve Şaban Kayıkçı gibi iş insanları ve yöneticiler gözaltına alındı veya yurt dışında bulunuyor
-• Paramount Otel'e TMSF tarafından kayyum atandı, otelin el değiştirme süreci ve bedava ağırlanan siyasetçi, bürokrat ve gazeteciler gündeme geldi
-• Soruşturmaların siyasi bağlantılara, AK Parti içindeki isimlere ve danışmanlara kadar uzanabileceği iddia edildi
-• Cüneyt Zapsu gibi Erdoğan'a yakın isimler de soruşturmalara dahil edildi, bazıları tanık olarak ifade verdi
-• Soruşturmaların Cumhurbaşkanı'nın bilgisi dışında yürütülmesinin mümkün olmadığı öne sürüldü
-• Son yıllarda artan bu tür operasyonlar, iktidar içi güç mücadelesi ve iç hesaplaşmalarla ilişkilendiriliyor
-• Yargı ve bürokrasi içinde rüşvet, suç dosyaları ve şirketlere el koyma iddiaları gündemde
-• Operasyonlar, ülkede kara para ekonomisinin büyümesi, yabancı yatırımcıların çekilmesi ve ekonomik güvensizlikle bağlantılı olarak değerlendiriliyor
+• Can Holding ve Ciner Grubu'na yönelik büyük çaplı operasyonlar düzenlendi
+• Operasyonlarda kara para aklama, akaryakıt ve sigara kaçakçılığı, sanal kumar gelirleri gibi suçlamalar öne çıktı
+• 35 kişi gözaltına alındı, 121 şirketin hesaplarında 88 milyar TL şüpheli para hareketi tespit edildi
+• Kenan Tekdağ, Remzi Sanver ve Atilla Ciner gibi önemli isimler gözaltına alındı veya tutuklandı
+• Cüneyt Zapsu'nun adı soruşturmada geçti, tanık olarak ifadesi alındı
+• Binsat Holding sahipleri de gözaltına alındı; şirketin AK Parti ve büyük projelerle bağlantısı var
+• Operasyonlar devletin farklı kurumları tarafından yürütüldü, sızıntı ihtimaline karşı jandarma tercih edildi
+• Medya, iş dünyası ve devlet bürokrasisinden birçok isim soruşturmalara dahil edildi
+• Operasyonların arkasında iktidar içi güç dengesi değişimi ve hesaplaşma olduğu iddia ediliyor
+• AK Parti içinde Bilal Erdoğan'ın etkisinin arttığı, kabine revizyonu ve parti içi hazırlıkların gündemde olduğu konuşuluyor
+• Soruşturmaların kapsamı dar tutuluyor, bazı iddialar iddianamelere yansımıyor
+• Operasyonlar, medya sahipliği ve paranın kaynağı gibi konularda da tartışma yarattı
 
 **Bu haberi kapsayan muhabirler:**
 
 - [Nevsin Mengu](https://www.youtube.com/watch?v=0RZidIcNEhY&t=10s) (⏱️ 00:10-09:00)
-- [Murat Yetkin](https://www.youtube.com/watch?v=jMS367x0qZc&t=525s) (⏱️ 08:45-12:17)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=6QFH0MDK6GU&t=678s) (⏱️ 11:18-13:17)
-- [Rusen Cakir](https://www.youtube.com/watch?v=obzHoELs-Kg&t=1055s) (⏱️ 17:35-30:02)
-- [Onlar TV](https://www.youtube.com/watch?v=quBLCkt-VWM) (⏱️ 00:00-20:29)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=3E8d_14V3k4&t=600s) (⏱️ 10:00-20:00)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=dfmdqREFAhs) (⏱️ 00:00-14:06)
-- [Unsal Unlu](https://www.youtube.com/watch?v=WhOh2kMpi1s&t=146s) (⏱️ 02:26-03:31)
-- [Hilal Koylu](https://www.youtube.com/watch?v=8aUlAZpg7AE&t=143s) (⏱️ 02:23-13:39)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=jkxugcnClPA&t=700s) (⏱️ 11:40-15:00)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=mTFbkqjY2Us&t=39s) (⏱️ 00:39-27:06)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=re_X2p-4BWk) (⏱️ 00:00-12:38)
 
 ---
 
-## 3. Ekonomide Altın, Dolar ve Kriz Sarmalı
+## 2. Emrah Şener ve BKM Yolsuzluk Soruşturması
 
-• Altın ve gümüş fiyatları dünya genelinde ve Türkiye'de rekor seviyelere ulaştı.
-• Altın fiyatlarındaki artış, yatırımcıların ilgisini artırdı ve güvenli liman olarak öne çıktı.
-• Türkiye'nin altınla borçlanma politikası büyük zarara yol açtı, 2026'da yüksek ödeme yükü bekleniyor.
-• Dolar/TL kuru uzun süredir baskılanıyor, ileride ani yükseliş riski var.
-• IMF'nin tahminlerine göre dolar önümüzdeki yıllarda hızla artacak.
-• Yüksek faiz ve kur baskısı, şirketlerin kapanmasına ve yatırımların yurtdışına kaymasına neden oluyor.
-• Borsa İstanbul'da düşüşler yaşanıyor, yatırımcılar güvensizlik nedeniyle uzaklaşıyor.
-• Sanayide işten çıkarmalar ve konkordato ilanları arttı, tedarik zincirinde ödeme sıkıntıları var.
-• Hazır giyim ve tekstil sektöründe kriz derinleşiyor, üretim yurtdışına kayıyor.
-• Orta sınıfın erimesi, barınma krizi ve gelir dağılımındaki bozulma öne çıkıyor.
-• Türkiye'de tasarruf kültürü eksik, gösteriş ve lüks harcamalar yaygın.
-• Ekonomik sıkıntılar nedeniyle bireysel ve kamusal tasarrufun önemi vurgulanıyor.
-• Patronlar ekonomi politikalarını eleştiriyor, finansal sıkıntıların arttığı belirtiliyor.
+• Eski Merkez Bankası Başkan Yardımcısı ve Bankalararası Kart Merkezi yöneticisi Emrah Şener tutuklandı.
+• Tutuklama, 2023'teki çipli kart ve Troy yazılımı ihalelerinde usulsüzlük, ihaleye fesat, zimmet ve dolandırıcılık iddialarıyla yapıldı.
+• İhalelerin adrese teslim ve mevzuata aykırı şekilde yandaş şirketlere verildiği, teslimattan önce ödeme yapıldığı belirtildi.
+• Boğaziçi Üniversitesi Teknoloji Transfer Ofisi'ne ihalesiz iş verildiği ve Şener'in kardeşi ile Singapur'daki bir şirkete para aktarıldığı iddia edildi.
+• Kurumsal kredi kartlarının şahsi kullanımı ve sahte yemek kartları da dosyada yer aldı.
+• Soruşturmada 8 kişi tutuklandı, kamu zararının 100 milyon lirayı aştığı açıklandı.
+• Emrah Şener, Berat Albayrak ve Nurettin Nebati dönemlerinde ekonomi politikalarının uygulayıcısıydı; döviz rezervlerinin eritilmesiyle ilişkilendirildi.
+• Merkez Bankası, denetim sonrası suç şüphesiyle savcılığa suç duyurusunda bulundu.
+• Operasyonun AK Parti içi güç dengesi değişimi ve siyasi hesaplaşmayla bağlantılı olduğu iddia edildi.
+• Emrah Şener'in imzası olan 200 TL'lik banknotlar mizahi şekilde gündeme geldi.
+• Borsa bu gelişmeler sonrası sert düştü, bazı hisseler taban oldu.
+• Operasyonun zamanlaması ve siyasi boyutu tartışılıyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=UbVAqxQBims) (⏱️ 00:00-10:13)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=6QFH0MDK6GU&t=910s) (⏱️ 15:10-15:57)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=3E8d_14V3k4&t=1200s) (⏱️ 20:00-31:00)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=0RZidIcNEhY&t=780s) (⏱️ 13:00-18:30)
+- [Hilal Koylu](https://www.youtube.com/watch?v=Rc_P_ScUE5E&t=1998s) (⏱️ 33:18-37:46)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=tGXaanKSjHc) (⏱️ 00:00-19:27)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=jkxugcnClPA&t=1112s) (⏱️ 18:32-21:30)
 
 ---
 
-## 4. Yeni Yargı Paketi ve Ahlak Düzenlemeleri
+## 3. Altın ve Piyasalarda Dalgalı Seyir Sürüyor
 
-• AKP'nin hazırladığı yeni yargı paketi ve yasa taslakları gündemde
-• 'Genel ahlaka aykırılık' ve 'hayasızca hareketler' suçlarının kapsamı genişletiliyor, cezalar artırılıyor
-• LGBTİ+ bireyler ve toplumsal normlara uymayan davranışlar hedef alınıyor
-• Sosyal medya paylaşımları, kıyafet, dans gibi konular suç kapsamına girebilir
-• Cinsiyet değişikliği için yaş sınırı yükseltiliyor ve şartlar ağırlaşıyor
-• Platformlara ve medya içeriklerine yeni yasaklar getirilebilir
-• Hukukçular, düzenlemelerin subjektif ve keyfi uygulamalara yol açabileceği uyarısında bulunuyor
-• Muhalefet ve insan hakları savunucuları, düzenlemelerin insan haklarına aykırı olduğunu belirtiyor
-• Suça sürüklenen çocuklar ve çetelerle ilgili de yeni önlemler ve cezalar gündemde
-• Toplumda adalet, özgürlükler ve umutsuzluk tartışmaları artıyor
+- Altın ve gümüş fiyatları son 2 yılda hızla yükseldi, yatırımcılar kazanç sağladı
+- Dolar artmasa da altın ons fiyatı yükseldi, bu durum Türkiye'de de etkili oldu
+- Kısa vadede altın ve gümüşte düşüşler yaşansa da uzun vadede yükseliş trendi devam ediyor
+- Uzmanlar, yeni yatırımcıların dikkatli olması gerektiğini vurguluyor, büyük yükselişlerden sonra sert düşüşler olabiliyor
+- Altın ve gümüşteki kazançlar sonrası yatırımcılar konuta yönelebilir, bu da konut fiyatlarını artırabilir
+- Konut fiyatlarının artması için kredi ve faiz koşullarının değişmesi gerekiyor, şu an kiralar daha hızlı artıyor
+- Borsada son dönemde ciddi kayıplar yaşandı, bazı yatırımcılar büyük zarar gördü
+- Borsada kısa vadeli spekülatörler kazanırken, uzun vadeli yatırımcılar zarar etti
+- Türk bankacılık sektörü güçlü olsa da son dönemde belirsizlikler ve operasyonlar arttı
+- Türkiye'ye yabancı yatırımcı ilgisi azaldı, yerli yatırımcılar üretimden çekiliyor
+- Ekonomide asıl sorun faiz değil, kur ve yapısal reform eksikliği olarak görülüyor
+- Enflasyonla mücadelede sadece faiz değil, yapısal reformlar da şart
+- Türkiye'nin ekonomik kırılganlıkları, döviz borcu ve gelir dağılımı bozukluğu gündemde
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=Wl5-ggmg8qc&t=995s) (⏱️ 16:35-22:04)
-- [Rusen Cakir](https://www.youtube.com/watch?v=obzHoELs-Kg&t=1802s) (⏱️ 30:02-40:14)
-- [Hilal Koylu](https://www.youtube.com/watch?v=8aUlAZpg7AE&t=1400s) (⏱️ 23:20-31:07)
-- [Onlar TV](https://www.youtube.com/watch?v=RaxN5UGi_jQ&t=4085s) (⏱️ 68:05-81:35)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=VBsKyHdLVtI) (⏱️ 00:00-01:51)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=tGXaanKSjHc&t=492s) (⏱️ 08:12-19:27)
 
 ---
 
-## 5. Yargı Kararları ve Adalet Tartışmaları
+## 4. Erkeklerde Cinsel Sağlık ve Kısırlık Sorunları
 
-- Anayasa Mahkemesi, Gezi davası hükümlüsü Tayfun Kahraman'ın adil yargılanma hakkının ihlal edildiğine karar verdi.
-- Karar, Gezi davası hükümlülerinin yeniden yargılanmasının ve serbest bırakılmasının yolunu açıyor.
-- Mahkeme, sosyal medya paylaşımlarının şiddetle bağlantılı olmadığına hükmetti.
-- Avrupa İnsan Hakları Mahkemesi kararlarının Türkiye'de üstünlüğü anayasa ile güvence altına alınmış durumda.
-- Sahte diploma ve belge düzenleyen bir suç örgütü ortaya çıkarıldı, örgüt liderleri firari.
-- Tutuklu kalanlar tahliye edildi, ardından tekrar tutuklama kararı çıktı.
-- Yargıdaki tutuklama ve tahliye süreçlerindeki çelişkiler eleştirildi.
-- Ünsal Ban gibi isimlerin adli kontrolle serbest bırakılması ve suçluların kolayca kaçabilmesi tartışma yarattı.
-- Hayali bir örgüt pankartı taşıyan öğrenciye hapis cezası verildi, mahkeme savunmayı kabul etmedi.
-- Türkiye'de adaletin işleyişi ve hukuk devleti olma iddiası kamuoyunda tartışılıyor.
+• Erkekler ürolojiye en çok cinsel sağlık sorunları için başvuruyor
+• Ereksiyon sorunları, kısırlık ve erken boşalma sık görülen şikayetler
+• Androloji, erkek cinsel sağlığıyla ilgilenen bir tıp dalıdır
+• Türkiye'de androloji çok bilinmiyor, jinekolojinin erkeklere yönelik karşılığıdır
+• Üroloji sadece cinsel sorunlarla ilgilenmez, böbrek taşı ve idrar kaçırma gibi hastalıklarla da ilgilenir
+• Kadınlarda kısırlıkla kadın doğum uzmanları ilgilenir
+• Performans arttırıcı ilaçlar hekim kontrolünde kullanılmalı, reçetesiz ilaçlar gençler için risklidir
+• Erkeklerde sperm sayısı her yıl %2 azalıyor
+• Teknoloji kullanımı, elektromanyetik dalgalar, stres, işlenmiş gıdalar ve hareketsizlik sperm kalitesini düşürüyor
+• Testosteron seviyeleri de geçmişe göre daha düşük
+• Sertleşme problemleri artıyor, kısa sürede 300 milyon erkekte bu sorun bekleniyor
+• Stres, kötü beslenme, hareketsizlik ve tütün kullanımı sertleşme sorunlarını artırıyor
+• Sertleşme problemi damarsal hastalıklarla bağlantılı, kalp sağlığı da kontrol edilmeli
+• Türkiye'de her 10 evli çiftten 1-2'sinde kısırlık problemi var
+• Kısırlık hem erkek hem kadın kaynaklı olabilir, tıbbi adı infertilitedir
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Murat Yetkin](https://www.youtube.com/watch?v=jMS367x0qZc&t=3s) (⏱️ 00:03-08:40)
-- [Onlar TV](https://www.youtube.com/watch?v=RaxN5UGi_jQ&t=627s) (⏱️ 10:27-15:17)
-- [Unsal Unlu](https://www.youtube.com/watch?v=Wl5-ggmg8qc&t=604s) (⏱️ 10:04-10:50)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=6QFH0MDK6GU&t=467s) (⏱️ 07:47-09:03)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=lkqnojjfzSA) (⏱️ 00:00-01:00)
 
 ---
 
-## 6. İğneada Sel Davasında Adalet Krizi
+## 5. Yeni Vergi ve Harç Artışları Meclis'te
 
-- Kırklareli İğneada'da kaçak yapılan bir tesiste 2023'te yaşanan selde 6 kişi hayatını kaybetti
-- Hayatını kaybedenler arasında doktor bir çift de vardı
-- Tesisin kaçak olduğu ve yetkililerin göz yumduğu iddia edildi
-- Tesis sahibi 11 yıl ceza aldı, kamu görevlilerine dava açılmadı
-- Hayatını kaybedenlerin annesi Safiye Yaşa adalet arayışında mahkemede iki gün disiplin hapsi aldı
-- Safiye Yaşa fenalaştı, hastaneye kaldırıldı
-- Adalet Bakanı Yılmaz Tunç'un müdahalesiyle disiplin hapsi kararı kaldırıldı
-- Olayda adalet sistemindeki sorunlar, yanlış kararlar ve yetki suistimali eleştirildi
-- Gazetecilere yönelik baskılar ve gözaltılar da gündeme geldi
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Onlar TV](https://www.youtube.com/watch?v=RaxN5UGi_jQ&t=5583s) (⏱️ 93:03-96:57)
-- [Unsal Unlu](https://www.youtube.com/watch?v=Wl5-ggmg8qc&t=456s) (⏱️ 07:36-08:01)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=6QFH0MDK6GU&t=193s) (⏱️ 03:13-07:47)
-
----
-
-## 7. Gazetecilere Yönelik Şiddet ve Tehditler
-
-- Gazeteciler Şule Aydın ve Murat Ağırel, motosikletli kişiler tarafından tehdit edildi.
-- Bu tehditler savcılığa bildirildi ve suç duyurusunda bulunuldu.
-- Gazetecilere ve ailelerine yönelik tehditlerin ciddi olduğu belirtildi.
-- Gazeteci Hakan Tosun, Esenyurt'ta sokakta öldürüldü.
-- Olay sonrası iki kişi tutuklandı, sonra adli kontrolle serbest bırakıldı.
-- Hakan Tosun çevreci kimliğiyle tanınıyordu.
-- Cinayet failleri, halkın tepkisiyle yakalandı.
-- Gazetecilere yönelik şiddet ve cezasızlık tartışma konusu oldu.
-- Toplumda adalete ve yönetime güvensizlik arttı.
-- Devletin gazetecilerin güvenliğini sağlama sorumluluğu vurgulandı.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=6QFH0MDK6GU&t=543s) (⏱️ 09:03-11:18)
-- [Onlar TV](https://www.youtube.com/watch?v=RaxN5UGi_jQ&t=3960s) (⏱️ 66:00-66:40)
-- [Hilal Koylu](https://www.youtube.com/watch?v=8aUlAZpg7AE&t=2198s) (⏱️ 36:38-37:37)
-- [Unsal Unlu](https://www.youtube.com/watch?v=Wl5-ggmg8qc&t=2029s) (⏱️ 33:49-34:05)
-
----
-
-## 8. Yeni Vergi Düzenlemeleri ve Bütçe Hedefleri
-
-• Meclise yeni bir torba yasa sunuldu
-• Konut kira gelirlerinde vergi istisnası büyük ölçüde kaldırılıyor, sadece bazı gruplar için devam edecek
-• Kira gelirlerinden alınan vergi artacak
-• Konut kredisi faizleri gider olarak düşülemeyecek
-• 4. geçici vergi tekrar getiriliyor
-• Borsada işlem gören yatırım fonlarına vergi istisnası kaldırılıyor
-• Tapu harçları ve araç alım-satımında yeni vergiler getiriliyor
+• Yeni torba yasa ile birçok vergi ve harç artışı Meclis'e sunuldu
+• Konut kira gelirlerinde vergi istisnası büyük oranda kaldırılıyor, sadece emekliler muaf tutulacak
+• Konut kredisi faizleri artık gider olarak düşülemeyecek
+• Geçici vergi dönemi yılda 4'e çıkarılıyor
+• Borsada işlem gören bazı fonlara vergi istisnası kaldırılıyor
+• Tapu harçları ve ikinci el araç satışında noter harçları artırılıyor
+• Tapu satış bedelinin düşük gösterilmesine yönelik cezalar yükseltiliyor
 • Bazı meslek gruplarına yıllık harç uygulaması başlatılıyor
-• Belediyelerden alınan aydınlatma katkı payı artırılıyor
-• Belediye başkanlarının birden fazla yerden huzur hakkı alması sınırlandırılıyor
-• 2026 bütçesinde 15.6 trilyon lira vergi toplanması hedefleniyor
-• 185 milyar liralık özelleştirme geliri bekleniyor, detaylar belirsiz
-• Vergi yükünün büyük kısmı KDV ve ÖTV'den gelecek, dar gelirli vatandaşlar daha çok etkilenecek
-• Vergi gelirlerinde büyük artış var, dolaylı vergiler öne çıkıyor
-• Vergi yükünün demokrasiyle ilişkisi tartışılıyor
+• Belediyelerin aydınlatma giderlerine katkı payı artırılıyor, başkan ve meclis üyelerine tek ödeme sınırı getiriliyor
+• SGK borçlanma ve emeklilik prim oranları yükseltiliyor, işveren prim indirimi imalat dışı sektörlerde azaltılıyor
+• 2026 bütçesinde 15.6 trilyon TL vergi ve 185 milyar TL özelleştirme geliri hedefleniyor, hangi varlıkların satılacağı belirsiz
+• Vergi yükünün KDV ve ÖTV üzerinden vatandaşa yükleneceği belirtiliyor
+• Türkiye'de yoksulluk ve çocuklarda açlık oranı yüksek, ekonomik kriz ve yeni vergiler eleştiriliyor
 
 **Bu haberi kapsayan muhabirler:**
 
 - [Nevsin Mengu](https://www.youtube.com/watch?v=0RZidIcNEhY&t=1470s) (⏱️ 24:30-39:00)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=zVZF2tgQ4kY&t=943s) (⏱️ 15:43-16:49)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=jkxugcnClPA&t=1334s) (⏱️ 22:14-23:30)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=mTFbkqjY2Us&t=3891s) (⏱️ 64:51-67:24)
+- [Hilal Koylu](https://www.youtube.com/watch?v=Rc_P_ScUE5E&t=1644s) (⏱️ 27:24-33:01)
 
 ---
 
-## 9. Türkiye'de Yoksulluk ve Geçim Sıkıntısı
+## 6. Kürt Sorunu ve Çözüm Süreci Tartışmaları
 
-- Türkiye genelinde yoksulluk ve geçim sıkıntısı tartışılıyor
-- Kars milletvekili Adem Çalkın'ın "açlık ve yoksulluk algısı yok" açıklaması tepki çekti
-- Siyasetçilerin gerçeklerden kopuk açıklamalar yaptığı eleştirildi
-- Vatandaşlar yüksek fiyatlar ve gıdaya ulaşmada zorluk yaşıyor
-- CHP'li Zeliha Aksaz Şahbaz, dört çocuktan birinin yoksulluk sınırında olduğunu söyledi
-- Yoksulluk çocuklarda kötü beslenmeye ve sağlık sorunlarına yol açıyor
-- Sorunun sadece Kars'a değil, tüm Türkiye'ye yayıldığı vurgulandı
+• Çözüm süreciyle ilgili yeni bir yasal düzenleme beklentisi var
+• Hükümet, "terörsüz Türkiye süreci yasası" çıkarabilir
+• Abdullah Öcalan, umut hakkı ve kadın mahkumların serbest bırakılmasını talep etti
+• Umut hakkı, ağır müebbet alanların belirli süre sonra serbest bırakılmasını öngörüyor
+• Hükümet umut hakkına sıcak bakmıyor
+• Silah bırakanlara etkin pişmanlık ve eve dönüş yasası tartışılıyor
+• Kürt sorunu ve Kürtlerin temsilciliği gündemde
+• Öcalan, ana akım Kürt hareketinin lideri olarak öne çıkıyor ama tüm Kürtleri temsil etmiyor
+• PKK'nın feshi ve demokratikleşme süreci konuşuluyor
+• TBMM Başkanı Numan Kurtulmuş Diyarbakır'da Kürtçe konuştu, bu Ankara'da tartışma yarattı
+• Kürtçe konuşma bazı çevrelerce popülizm ve anayasa ihlali olarak eleştirildi
+• AK Parti'nin Kürt sorununa yaklaşımı ve siyasi samimiyeti sorgulandı
+• Mecliste siyasi gerilim ve tartışmalar arttı
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=6QFH0MDK6GU&t=15s) (⏱️ 00:15-03:13)
-- [Unsal Unlu](https://www.youtube.com/watch?v=WhOh2kMpi1s&t=654s) (⏱️ 10:54-14:36)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=0RZidIcNEhY&t=2940s) (⏱️ 49:00-54:48)
+- [Hilal Koylu](https://www.youtube.com/watch?v=Rc_P_ScUE5E&t=2360s) (⏱️ 39:20-41:01)
+- [Rusen Cakir](https://www.youtube.com/watch?v=pEDH464mabE&t=3s) (⏱️ 00:03-11:17)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=jkxugcnClPA&t=1694s) (⏱️ 28:14-29:49)
 
 ---
 
-## 10. Sahte E-İmza Soruşturması Büyüyor
+## 7. Uyuşturucu Kullanımı ve Ünlülerde Test Sonuçları
 
-• Sahte e-imza olayları gündeme geldi.
-• Devlet Denetleme Kurulu inceleme ve soruşturma başlattı.
-• BTK başkanının imzası da taklit edildi.
-• 109.199 kişi hakkında kamu davası açıldığı belirtildi.
-• Soruşturmanın geç başlaması ve kurumların sorumluluğu tartışılıyor.
-• Ekonomide 5G devrimiyle bağlantılı sahtecilik iddiaları öne çıktı.
+• Türkiye'nin 2024 uyuşturucu raporu açıklandı
+• Uyuşturucuya bağlı ölümler %40'tan fazla arttı, 2024'te 427 kişi hayatını kaybetti
+• Sentetik madde ve metanfetamin kullanımı ciddi şekilde yükseldi
+• Kaçak sentetik ilaçlarda %227 artış yaşandı, 94 milyon 753 bin adet yakalandı
+• Uyuşturucu baronlarının yakalanmadığı, operasyonların genellikle ünlülere ve küçük çaplı kişilere yapıldığı eleştirildi
+• Ünlülerin adli kurum raporları kamuoyuna açıklandı, bazı ünlülerin testleri temiz çıktı, bazılarında reçeteli ilaçlar tespit edildi
+• Birkaç ünlüde uyuşturucuya dair metabolitler bulundu, olayın teşhir amaçlı yapıldığı ve kişilerin itibarının zedelendiği belirtildi
+• İrem Derici'nin raporu temiz çıktı, sosyal medyada yapılan yorumlara tepki gösterdi
+• Hukuki boyutun tartışmalı olduğu ve ilgili kurumların özür dilemesi gerektiği ifade edildi
+• Uyuşturucu tedavisi görenlerin çoğu erkek ve 25-34 yaş aralığında
+• Sahte reçetelerle ilaç yazan doktorlar ve bazı eczaneler tespit edildi, operasyonlar yapıldı
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=Wl5-ggmg8qc&t=1945s) (⏱️ 32:25-33:17)
+- [Onlar TV](https://www.youtube.com/watch?v=l6XRHNssD0g&t=3s) (⏱️ 00:03-13:04)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=jkxugcnClPA&t=60s) (⏱️ 01:00-07:50)
 
 ---
 
-## 11. Türkiye'de Uyuşturucu ve Dolandırıcılık Krizi
+## 8. Asgari Ücret ve Alım Gücü Eriyor
 
-• Türkiye'de uyuşturucu kullanımı ve buna bağlı ölümler son yıllarda ciddi şekilde arttı.
-• 2024 Emniyet raporuna göre uyuşturucu ölümleri %40'tan fazla yükseldi, 427 kişi hayatını kaybetti.
-• Sentetik ilaç, metanfetamin ve kokain gibi maddelerin yakalanmasında rekorlar kırıldı.
-• Özellikle gençler ve çocuklar arasında uyuşturucu kullanımı yaygınlaşıyor.
-• Uyuşturucu baronlarına karşı yeterli mücadele verilmediği, operasyonların daha çok ünlüler ve küçük suçlulara yönelik olduğu eleştirildi.
-• Aynı dönemde, Kamboçya'da iş vaadiyle dolandırılan Türk vatandaşlarının sayısı arttı.
-• Gençler iş bulma umuduyla Kamboçya'ya gidiyor, pasaportlarına el konuluyor ve dolandırıcılık merkezlerinde çalışmaya zorlanıyor.
-• ABD ve İngiltere bu merkezlere büyük operasyonlar düzenlerken, Türkiye'de yeterli operasyon yapılmadığı belirtildi.
-• Çinli çetelerin Türkiye'den veri topladığı ve bu verilerin Kamboçya'daki dolandırıcılara aktarıldığı iddia edildi.
+• 2026'da asgari ücretin 26.000-27.000 TL olması bekleniyor
+• Asgari ücretliler gelirlerinin çoğunu kiraya harcıyor
+• Orta sınıf azalıyor, yoksulluk artıyor
+• Devlet memurları da geçim sıkıntısı yaşıyor
+• 200 TL'nin alım gücü yıllar içinde çok azaldı
+• 2009'da 200 TL ile 3 çeyrek altın alınabiliyordu
+• 2025'te bir çeyrek altın için 51 adet 200 TL gerekiyor
+• Enflasyon ve paranın değer kaybı öne çıkıyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Onlar TV](https://www.youtube.com/watch?v=RaxN5UGi_jQ&t=3057s) (⏱️ 50:57-65:22)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=jkxugcnClPA&t=1410s) (⏱️ 23:30-25:00)
 
 ---
 
-## 12. Türkiye Nadir Element Üretim Hedefi
+## 9. Rojin Kabaş'ın Şüpheli Ölümü Tartışması
 
-• Türkiye, nadir toprak elementleri üretiminde büyük bir güç olmayı hedefliyor.
-• Cumhurbaşkanı Erdoğan, Türkiye'nin dünyada ilk beş üretici arasına gireceğini açıkladı.
-• Bu hedef, "Türkiye Yüzyılı" vizyonunun bir parçası olarak sunuluyor.
-• Nadir elementler dünyada yaygın ama dağınık bulunuyor, Türkiye'de ise toplu halde var.
-• Bu elementlerin madenciliği çevre ve insan sağlığı için ciddi riskler taşıyor.
-• İşçiler için sağlık riskleri yüksek, sigorta şirketleri bu alanda çalışanları sigortalamıyor.
-• ABD ve bazı ülkeler çevre ve sağlık riskleri nedeniyle bu madenciliği tercih etmiyor.
-• Türkiye'nin bu alanda teşvik edilmesi, çevre ve sağlık sorunlarını artırabilir.
-• Avrupa Birliği ile karbon emisyonu anlaşmaları nedeniyle ihracatta ek vergiler gündeme gelebilir.
+- Van'da üniversite öğrencisi Rojin Kabaş kaybolduktan 18 gün sonra Van Gölü kenarında ölü bulundu.
+- Otopsiye üniversite rektörünün de katılması tartışma yarattı.
+- Ölüm nedeni suda boğulma olarak açıklandı, öldürüldüğüne dair bulgu bulunmadı.
+- Dosyada iki farklı erkeğe ait DNA tespit edildi.
+- Aile ve kamuoyu olayın aydınlatılmasını talep ediyor.
+- Sedat Peker, olayın çözülmesi için destek vereceğini açıkladı.
+- Mecliste Rojin Kabaş için araştırma önergesi verildi, AK Parti ve MHP oylarıyla reddedildi.
+- AK Parti'den Özlem Zengin, önerge oylamasına katılmadığını ve konuyla ilgileneceğini söyledi.
+- Konu, siyasi ve toplumsal tartışmalara yol açtı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=UbVAqxQBims&t=644s) (⏱️ 10:44-14:29)
-- [Unsal Unlu](https://www.youtube.com/watch?v=Wl5-ggmg8qc&t=2268s) (⏱️ 37:48-38:13)
+- [Hilal Koylu](https://www.youtube.com/watch?v=Rc_P_ScUE5E&t=1192s) (⏱️ 19:52-25:05)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=jkxugcnClPA&t=470s) (⏱️ 07:50-09:41)
 
 ---
 
-## 13. Siyasette Parti Geçişleri Tartışması
+## 10. Sağlıklı Yaşam İçin Temel İpuçları
+
+• Stres, vücuttaki tüm sistemleri olumsuz etkiler ve hastalıklara yol açabilir
+• Sağlıklı yaşam için stres yönetimi, uyku, egzersiz ve sağlıklı ilişkiler önemlidir
+• Uzun yaşam için sigara ve alkol sınırlandırılmalı, sağlıklı beslenme tercih edilmeli
+• Beyin sağlığı için şekerden uzak durulmalı, sağlıklı yağlar ve B12 vitamini alınmalı
+• Magnezyum, sindirim, sinir sistemi, kaslar ve hafıza için gereklidir
+• Magnezyum ihtiyacı beslenmeyle karşılanabilir, kabak çekirdeği iyi bir kaynaktır
+• Stresli dönemlerde magnezyum ihtiyacı artar, gerekirse takviye alınabilir
+• B kompleks vitaminler, çinko, A vitamini ve iyot da vücut için önemlidir
+• Tarım ilaçları ve yanlış pişirme vitamin değerini azaltabilir, takviye gerekebilir
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Fatih Altayli](https://www.youtube.com/watch?v=qLFQZkDEV7Q&t=160s) (⏱️ 02:40-04:58)
+
+---
+
+## 11. İmamoğlu Davası ve CHP Kongresi Gelişmeleri
+
+- Ekrem İmamoğlu, ihaleye fesat iddiasıyla yargılanıyor ve uzun süredir tutuklu.
+- Mahkeme, İmamoğlu'nun duruşmaya fiziki katılımını reddetti, SEGBIS ile savunma yapmasına karar verdi.
+- Avukatlar ve uluslararası gözlemciler bu karara karşı çıkıyor.
+- Dava 3 yıldır sonuçlanmadı, delil bulunamıyor.
+- CHP kurultay davası ile İmamoğlu'nun duruşması aynı güne denk geldi.
+- Bu durum, İmamoğlu'nun kamuoyunda görünürlüğünü azaltma amacı taşıdığı şeklinde yorumlanıyor.
+- İstanbul 45. Asliye Hukuk Mahkemesi, CHP'nin il kongresinin durdurulmasını istedi.
+- YSK bu talebi görüşmek üzere toplandı, daha önce benzer talepleri reddetmişti.
+- Bu talebin de reddedilmesi bekleniyor.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Hilal Koylu](https://www.youtube.com/watch?v=Rc_P_ScUE5E&t=142s) (⏱️ 02:22-10:01)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=jkxugcnClPA&t=1915s) (⏱️ 31:55-32:20)
+
+---
+
+## 12. CHP'den AK Parti'ye Geçiş İddiaları Tartışması
 
 • Afyon Belediye Başkanı Burcu Köksal'ın AK Parti'ye geçeceği iddiaları gündeme geldi
-• Bazı CHP'li belediye başkanlarının AK Parti'ye transfer olacağı iddiaları ortaya atıldı
-• Bu iddiaların bir kısmının dezenformasyon olabileceği belirtildi
-• Siyasette parti değiştirme ve transferler seçmen iradesi açısından tartışma yarattı
-• Siyasette güven sorunu ve seçmenin parti kimliğine bakışı gündeme geldi
-• AK Parti'nin merkez sağa açılma ve yeni üye kazanma çabaları konuşuluyor
-• Trabzon'da AK Parti'ye üye olmak isteyenlerin sayısında ciddi azalma yaşandı
-• Bu gelişmeler, partiler arası geçişler ve siyasi güven tartışmalarını öne çıkardı
+• Köksal bu iddiaları yalanladı ve sosyal medyada uzun bir açıklama yaptı
+• Bazı gazeteciler başka CHP'li belediye başkanlarının da AK Parti'ye geçebileceğini öne sürdü
+• Bu iddiaların bir kısmının muhalefeti yıpratmak için dezenformasyon olabileceği belirtildi
+• Siyasetçiler arasında sosyal medya baskısı ve troll saldırıları tartışıldı
+• Seçmen iradesinin gaspı olacağı ve muhalefetin bu tür geçişlere karşı çıkması gerektiği vurgulandı
+• CHP Genel Başkanı Özgür Özel'in yurt dışında mitingler yaptığı ve parti içi dayanışmanın sürdüğü aktarıldı
+• CHP'de belediye başkanlarının tutukluluğu ve parti içi kopuşlar gündemde tutuluyor
+• Mecliste vekil katılımı ve kamu harcamaları da eleştirildi
 
 **Bu haberi kapsayan muhabirler:**
 
 - [Nevsin Mengu](https://www.youtube.com/watch?v=0RZidIcNEhY&t=2480s) (⏱️ 41:20-44:00)
-- [Unsal Unlu](https://www.youtube.com/watch?v=WhOh2kMpi1s&t=1582s) (⏱️ 26:22-27:06)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=mTFbkqjY2Us&t=3356s) (⏱️ 55:56-64:51)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=jkxugcnClPA&t=2180s) (⏱️ 36:20-38:18)
 
 ---
 
-## 14. Kamu Kaynaklarında İsraf Tartışması
+## 13. Ankara'da Lüks ve İhale Tartışması
 
-• Devletin yaptığı bazı havaalanları kullanılmıyor.
-• Balıkesir, Çanakkale, Gökçeada, Kocaeli ve Uşak'taki havaalanlarına uçak inmiyor.
-• Bu havaalanlarına 547 milyon lira harcandı.
-• Çalışanlar iş yapmadan maaş alıyor.
-• Diyarbakır İl Sağlık Müdürü Ankara'ya uçakla gitti, şoförü ise arabayla gitti.
-• Bu durum kamu kaynaklarının boşa harcandığı eleştirilerine yol açtı.
+• Dışişleri Bakanlığı kampüsü inşaatı için yapılan ihalede şirket değişikliği yaşandı
+• İhale sürecinin şeffaf olmadığı iddia edildi
+• İhaleyi alan şirketin sonraki projeler için de söz verdiği belirtildi
+• Şirket değişikliğinin siyasi bağlantılarla ilişkili olabileceği öne sürüldü
+• Aynı dönemde Ankara'da lüks villaların lansmanı yapıldı
+• Villaların fiyatları 2 ila 8 milyon dolar arasında değişiyor
+• Bazı iş insanları birden fazla villa satın aldı
+• AK Partili siyasetçi ve iş insanlarının bu villalara ilgi gösterdiği ifade edildi
+• Toplumda gelir uçurumunun arttığı vurgulandı
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=Wl5-ggmg8qc&t=1462s) (⏱️ 24:22-25:44)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=jkxugcnClPA&t=1010s) (⏱️ 16:50-18:32)
 
 ---
 
-## 15. Cumhur İttifakı'nda Parti Gerilimleri
+## 14. Doğru Beslenme ve Sağlıklı Alışkanlıklar
 
-• Yeniden Refah Partisi ve MHP arasında siyasi gerilim yaşanıyor
-• MHP, Yeniden Refah Partisi'ni küçük parti olarak nitelendirdi
-• Fatih Erbakan, partilerinin üye ve oy oranının MHP'den fazla olduğunu söyledi
-• İmralı ile görüşme ve genel af tartışmaları gündemde
-• Fatih Erbakan, af çıkacaksa halk oylamasına sunulmasını istedi
-• Cumhur İttifakı'nda HÜDA PAR ve MHP arasında fikir ayrılıkları var
-• Farklı partiler aynı ittifakta olsa da her konuda aynı düşünmüyor
-• Diyaloglar açık, birlikte çalışmaya devam ediliyor
-• DEM Parti ile HÜDA PAR arasında resmi bir temas veya işbirliği yok
+• Fonksiyonel beslenme, vücudun ihtiyacına uygun ve doğal besinler seçmektir
+• Paketli, katkılı ve doğada olmayan gıdalardan uzak durulmalı
+• Mevsiminde olmayan sebze ve meyveler tüketilmemeli, kimyasal riski yüksektir
+• Sebze ve meyveler güvenilir kaynaktan alınmalı, tarım ilacını azaltmak için tuzlu-karbonatlı suda bekletilebilir
+• Protein, sağlıklı karbonhidrat ve yağ dengesi sağlanmalı
+• Sürekli yemek yemek önerilmez, ana öğünler arasında en az 4,5 saat olmalı
+• Akşamdan sabaha en az 12 saat açlık olmalı, akşam 8'den sonra yemek yenmemeli
+• Suyu birden değil, zamana yayarak içmek gerekir
+• Yemekle birlikte su içmek sindirimi zorlaştırır, fermente içecekler tercih edilebilir
+• Sirke öğün sırasında sulandırılarak içilebilir, fazlası zararlı olabilir, ev yapımı tercih edilmeli
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilal Koylu](https://www.youtube.com/watch?v=8aUlAZpg7AE&t=821s) (⏱️ 13:41-22:58)
-- [Rusen Cakir](https://www.youtube.com/watch?v=fW31DRdu1vc&t=136s) (⏱️ 02:16-02:51)
+- [Fatih Altayli](https://www.youtube.com/watch?v=qLFQZkDEV7Q&t=86s) (⏱️ 01:26-02:40)
 
 ---
 
-## 16. Narin'in Cinayeti Davasında Tepki ve Avukatın Çekilmesi
+## 15. Balık Nasıl Pişirilmeli?
 
-• Küçük bir kız çocuğu olan Narin'in öldürülmesiyle ilgili davada, suç delillerini ortadan kaldıran Nevzat Bahtiyar'a 4,5 yıl hapis cezası verildi.
-• Avukatı Ali Erılmaz, ses kaydını dinledikten sonra davadan çekildiğini açıkladı.
+• Balık en iyi marine edilerek pişirilir
+• Limon, soğan ve karabiberle marine etmek omega 3'ü korur
+• Fırında düşük sıcaklıkta veya tavada kısık ateşte pişirmek önerilir
+• Yüksek sıcaklık besin değerini azaltır
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=Wl5-ggmg8qc&t=884s) (⏱️ 14:44-15:15)
+- [Fatih Altayli](https://www.youtube.com/watch?v=qLFQZkDEV7Q&t=1222s) (⏱️ 20:22-22:01)
 
 ---
 
-## 17. KKTC Seçimleri ve Ersin Tatar'a Destek Tartışması
+## 16. Damat Dolgusu Nedir? Bilimsel Yönleri ve Uygulama Şartları
 
-- KKTC'de pazar günü seçim yapılacak
-- Ersin Tatar ve rakibi Erman arasında ciddi rekabet var
-- Ankara'daki iktidar Ersin Tatar'ı destekliyor
-- Ersin Tatar'ın AK Parti'nin KKTC şubesi gibi hareket ettiği iddia edildi
-- Mehmet Hasküler ile yapılan röportajın KKTC'de gündem olduğu belirtildi
+• Damat dolgusu, penis boyutunu büyütmek için yapılan bir dolgu işlemidir
+• Bilimsel olarak kabul edilen bir yöntemdir
+• Türkiye'de damat dolgusu adıyla biliniyor
+• Uygun hekimler tarafından yapılmalı, merdiven altı yerlerden kaçınılmalı
+• Penil protez de Türkiye'de mutluluk çubuğu olarak biliniyor
+• Dolgu işlemi hem boyut artışı hem de ilişki süresinde uzama sağlayabilir
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=6QFH0MDK6GU&t=1193s) (⏱️ 19:53-21:40)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=lkqnojjfzSA&t=616s) (⏱️ 10:16-12:02)
 
 ---
 
-## 18. Komedyen Özgür Turhan ve Eti Reklamı Krizi
+## 17. Performans Arttırıcı Doğal Macunlar ve Tehlikeleri
 
-- Komedyen Özgür Turhan'ın Eti bisküvileri reklam işbirliği iptal edildi
-- Gerekçe olarak sosyal medya paylaşımında ırkçılık ve küfürlü ifadeler kullanması gösterildi
-- Şirketin reklam sözleşmesini iptal etmesi haklı bulundu
-- Ancak 5 milyon liralık fatura çıkarılması orantısız bulundu
-- Türkiye'de komedyen olmanın zorlukları vurgulandı
+• Doğal tedavi ve koruyucu önlemler (egzersiz, doğru beslenme) öneriliyor
+• Türkiye'de performans arttırıcı doğal macunlara ilgi var
+• Bu ürünler genellikle sahte ve tehlikeli maddeler içeriyor
+• Doğal macunlar internetten kolayca alınabiliyor
+• Sağlık Bakanlığı yerine Tarım Bakanlığı'ndan ruhsat alınıyor
+• Denetimler yetersiz, ürünler kolayca satılıyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=6QFH0MDK6GU&t=957s) (⏱️ 15:57-18:45)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=lkqnojjfzSA&t=293s) (⏱️ 04:53-07:27)
 
 ---
 
-## 19. İsrail-Hamas Çatışmasında Ateşkes ve Esir Krizi
+## 18. Mahmut Ayhan ve Tarık Işık Haberi: 'I'm the Big Boss'
 
-• İsrail-Hamas çatışmasında ateşkesin bozulması ve esirlerin teslimiyle ilgili gelişmeler yaşandı.
-• İsrail, Hamas'ın elindeki esirlerin tesliminde gecikme olduğu gerekçesiyle tehditte bulundu.
-• Gazze'de ölümler ve hastane saldırıları devam ediyor.
+• Mahmut Ayhan ve Tarık Işık haberi "I'm the big boss" başlığıyla aktarıldı
+• Devlet Tiyatroları Genel Müdürü Tamer Karadağlı'nın makamında misafirlerini ayaklarını masaya koyarak ve 'I the big boss' diyerek karşıladığı iddia edildi
+• Bu davranışın şaşırtıcı olmadığı, Karadağlı'nın karakterine uygun olduğu belirtildi
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=Wl5-ggmg8qc&t=2158s) (⏱️ 35:58-36:56)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=jkxugcnClPA&t=2105s) (⏱️ 35:05-36:20)
 
 ---
 
-## 20. Didem Ünal Demir'in Romanı: Bu Cenazeyi Bana Lütfeder Misiniz?
+## 19. Akran Zorbalığı ve Toplumda Şiddet Artışı
 
-• Didem Ünal Demir'in "Bu Cenazeyi Bana Lütfeder Misiniz?" adlı romanı tanıtıldı.
-• Kitap, boşanma sonrası yeni bir hayat kurmaya çalışan bir kadının hikayesini mizahi bir dille anlatıyor.
-• Anadolu'da bir köye yerleşen karakterin yaşadıkları ve köy hayatı kitapta işleniyor.
-• Kitap, polisiye unsurlar da içeriyor ve editörlüğüyle dikkat çekiyor.
+• Akran zorbalığı ve çocuklar arasında şiddet olayları gündeme getirildi
+• Bir çocuğun bisikletinin frenlerinin kesilmesi sonucu hayatını kaybettiği anlatıldı
+• Akran zorbalığının okullarda yaygın olduğu belirtildi
+• Ailelerin ve eğitimcilerin bu konuda daha duyarlı olması gerektiği vurgulandı
+• Toplumda öfke birikimi ve şiddet eğilimi ele alındı
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=Wl5-ggmg8qc&t=2793s) (⏱️ 46:33-57:50)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=jkxugcnClPA&t=1940s) (⏱️ 32:20-35:05)
+
+---
+
+## 20. Hacettepe Üniversitesi'nde Yemekhane Protestosu ve Gözaltılar
+
+- Hacettepe Üniversitesi'nde yemekhane protestosu yapıldı.
+- Öğrenciler rezervasyon sistemi ve yemek fiyatlarını protesto etti.
+- Polis müdahale etti, 38 öğrenci gözaltına alındı.
+- Öğrenciler yemekleri dağıttı ve yemekhaneyi temizledi.
+- Protestolar daha önce de yapılmıştı.
+- Olay, ülkedeki yoksulluk ve adalet sorunlarıyla ilişkilendirildi.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Hilal Koylu](https://www.youtube.com/watch?v=Rc_P_ScUE5E&t=1508s) (⏱️ 25:08-27:16)
+
+---
+
+## 21. 18 Ekim 2025 Cumartesi Günün Gündemi
+
+• 18 Ekim 2025 Cumartesi gününün gündemi değerlendirildi
+• Ankara'da havanın güzel olduğu belirtildi
+• Sohbet havasında genel bir giriş yapıldı
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=jkxugcnClPA) (⏱️ 00:00-01:00)
+
+---
+
+## 22. Cemil Çiçek'e Yanlışlıkla Gönderilen Torpil Mesajı
+
+• Nefes Gazetesi'nde Cemil Çiçek ile ilgili torpil mesajı haberi yer aldı
+• Bir akademisyenin HSK üyeliği için yanlışlıkla avukat Cemil Çiçek'e mesaj attığı belirtildi
+• Avukat Cemil Çiçek mesajı sosyal medyada paylaştı
+• Yargı bağımsızlığı ve torpil tartışmaları gündeme geldi
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=jkxugcnClPA&t=1789s) (⏱️ 29:49-31:55)
 
 ---
 
