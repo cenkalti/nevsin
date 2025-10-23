@@ -1,226 +1,195 @@
 # Bugün Ne Oldu?
 
-*22 October 2025 tarihli günlük haber raporu - 13 haber birleştirildi*
+*23 October 2025 tarihli günlük haber raporu - 11 haber birleştirildi*
 
-## 1. Belediyelerde ve İş Dünyasında Yolsuzluk Soruşturması
+## 1. Ekonomik Kriz ve Yolsuzluk Gündemi
 
-• Belediyelerde ve iş dünyasında geniş çaplı yolsuzluk ve rüşvet soruşturmaları başlatıldı
-• Aziz İhsan Aktaş iddianamesiyle çok sayıda belediye başkanı, iş insanı ve bürokrat ifadeye çağrıldı
-• Beşiktaş Belediyesi'nde rüşvetin aşevi bağışları ve lüks harcamalarla kamufle edildiği iddia edildi
-• İddianamede hem CHP'li hem AK Partili belediyelerle ilgili usulsüzlük ve rüşvet iddiaları yer aldı
-• İş dünyasından Hamdi Akın, Vedat Aşçı gibi tanınmış isimler izinsiz yapılaşma ve ruhsat süreçlerinde usulsüzlük şüphesiyle sorgulandı
-• Soruşturmaların şeffaf olmaması iş dünyasında tedirginlik ve güvensizlik yarattı
-• İddianamede yapay zeka kullanıldığı ve delil eksikliği olduğu öne sürüldü
-• Medya patronları ve gazetecilere rüşvet dağıtıldığı iddiaları gündeme geldi
-• Siyasi partiler yargılamalarda çifte standart ve siyasi amaç eleştirisi yaptı
-• Yolsuzluk iddiaları, ekonomide güven kaybı ve yabancı yatırımcıların çekilmesiyle sonuçlandı
-• Soruşturmaların kapsamı genişleyerek yeni operasyonların olabileceği belirtiliyor
+- Türkiye'de ekonomik kriz derinleşiyor, enflasyon ve döviz yükseliyor, üretim düşüyor
+- Merkez Bankası'nda üst düzey tutuklamalar ve dolandırıcılık iddiaları gündemde
+- Banknotlardaki imzalar değişti, 20 liranın alım gücü çok düştü
+- İş dünyası ve sanayi odaları faiz indirimi talep ediyor, krediye erişim zor
+- Hükümet yeni vergi paketleriyle vatandaş ve işverenin yükünü artırıyor
+- Ev sahipleri ve apartman sakinlerine yeni vergiler ve zamlar geliyor
+- Kamu işçilerine yapılan zam enflasyon ve vergilerle eridi
+- Gıda fiyatları ve temel ihtiyaçlar çok pahalı, alım gücü azaldı
+- Tüketici güveni ve borsada ciddi düşüşler yaşanıyor
+- Yargı baskısı ve siyasi kutuplaşma piyasaları olumsuz etkiliyor
+- Kara para aklama, yasa dışı bahis ve gri liste süreci devam ediyor
+- Bağımsız gazetecilik baskı altında, medya çoğunlukla iktidarın kontrolünde
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=pNc7M_ALRFc&t=1927s) (⏱️ 32:07-33:24)
-- [Serdar Akinan](https://www.youtube.com/watch?v=yPDdTNMrVPE&t=491s) (⏱️ 08:11-09:55)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=MryrRxXnLqU&t=1721s) (⏱️ 28:41-30:35)
-- [Hilal Koylu](https://www.youtube.com/watch?v=cYJd2wmgov8&t=1420s) (⏱️ 23:40-31:34)
-- [Onlar TV](https://www.youtube.com/watch?v=cwEzON8qlxQ) (⏱️ 00:00-14:10)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=0h-Wd_FRHZY&t=540s) (⏱️ 09:00-18:00)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=2adAc7v14pU&t=747s) (⏱️ 12:27-19:31)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=sOtu6RU5Cq0&t=3960s) (⏱️ 66:00-70:22)
+- [Murat Yetkin](https://www.youtube.com/watch?v=w-j53RFXhBI&t=578s) (⏱️ 09:38-14:33)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=4eCuD-qOsqE&t=1195s) (⏱️ 19:55-21:15)
+- [Hilal Koylu](https://www.youtube.com/watch?v=dhrab1NK4s4&t=1788s) (⏱️ 29:48-31:15)
+- [Serdar Akinan](https://www.youtube.com/watch?v=-GjmlLQrfIw&t=709s) (⏱️ 11:49-06:09)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=9GqxRbEJ09E&t=585s) (⏱️ 09:45-10:55)
+- [Unsal Unlu](https://www.youtube.com/watch?v=_cpaE0yNYl0&t=77s) (⏱️ 01:17-19:07)
 
 ---
 
-## 2. Minguzzi Davası ve Adalet Tartışmaları
+## 2. CHP'de Kurultay ve Liderlik Krizi
 
-• İstanbul'da 14 yaşındaki Mati Ahmet Minguzzi'nin öldürülmesi davasında karar açıklandı
-• Cinayeti işleyen iki çocuk 24'er yıl hapis cezası aldı, ancak 16 yıl yatıp çıkacaklar
-• Diğer iki sanık delil yetersizliğinden beraat etti ve serbest bırakıldı
-• Karar kamuoyunda ve ailede büyük tepkiyle karşılandı, sosyal medyada adalet talebi yükseldi
-• Hakimin karar öncesi siyasi göndermeler yapması ve davaya siyasi anlam yüklemesi eleştirildi
-• Savcılık beraat kararına itiraz edeceğini açıkladı
-• Sedat Peker ve bazı siyasiler davayla ilgili açıklamalar yaptı, adalet sistemine güvenin azaldığı vurgulandı
-• Olayda kamera görüntülerinin silinmesi ve çete bağlantısı iddiaları gündeme geldi
-• Türkiye'de yargı kararlarının toplumda adalet duygusunu karşılamadığı ve çifte standart uygulandığı tartışılıyor
-• Gazetecilere yönelik baskılar, basın özgürlüğü sorunları ve bazı davalarda yakalama kararlarının uygulanmaması da adalet sistemine olan güveni sarsıyor
+• CHP'de kurultay ve parti içi tartışmalar devam ediyor.
+• Eski Hatay Büyükşehir Belediye Başkanı Lütfü Savaş, kurultayın iptali için mahkemeye başvurdu.
+• Ankara 42. Asliye Hukuk Mahkemesi'nden çıkacak karar, parti içinde bölünme ve liderlik değişimi tartışmalarını artırdı.
+• Kemal Kılıçdaroğlu'nun yeniden başkan olup olmayacağı ve Metin Lütfi Baydar'ın aday gösterilmesi konuşuluyor.
+• Parti içinde muhalifler ve mevcut yönetim arasında sert tartışmalar yaşanıyor.
+• Mahkeme kararının CHP'nin temposuna olumsuz etki yapıp yapmayacağı belirsiz.
+• CHP lideri Özgür Özel, Arnavutköy Belediyesi ve Kanal İstanbul projelerinde usulsüzlük iddialarıyla gündemde.
+• CHP, AK Partili belediyelerde kamu zararı ve yolsuzluk iddialarını gündeme taşıyor.
+• Parti içinde disiplin süreçleri ve medya tartışmaları sürüyor.
+• CHP'nin iç çekişmeleri, muhalefetin genel gücünü ve seçmen algısını etkiliyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=0-OX4_bxi1c&t=281s) (⏱️ 04:41-25:19)
-- [Hilal Koylu](https://www.youtube.com/watch?v=cYJd2wmgov8&t=230s) (⏱️ 03:50-10:18)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=0h-Wd_FRHZY&t=2040s) (⏱️ 34:00-58:00)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=MryrRxXnLqU&t=20s) (⏱️ 00:20-02:30)
+- [Serdar Akinan](https://www.youtube.com/watch?v=-GjmlLQrfIw&t=374s) (⏱️ 06:14-19:58)
+- [Rusen Cakir](https://www.youtube.com/watch?v=nc2I08CnFoo&t=3s) (⏱️ 00:03-11:32)
+- [Unsal Unlu](https://www.youtube.com/watch?v=_cpaE0yNYl0&t=1180s) (⏱️ 19:40-21:16)
+- [Hilal Koylu](https://www.youtube.com/watch?v=dhrab1NK4s4&t=137s) (⏱️ 02:17-19:22)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=4eCuD-qOsqE&t=530s) (⏱️ 08:50-10:00)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=sOtu6RU5Cq0&t=1800s) (⏱️ 30:00-42:00)
 
 ---
 
-## 3. Bahçeli'nin Kıbrıs Çıkışı Siyasi Gündemde
+## 3. Büyük Yolsuzluk ve Siyasi Soruşturmalar
 
-• MHP lideri Devlet Bahçeli, KKTC'nin Türkiye'ye 82. il olarak katılması gerektiğini söyledi.
-• Bahçeli'nin bu çıkışı AK Parti ve CHP'de rahatsızlık yarattı, Kıbrıs halkının iradesine saygı vurgulandı.
-• KKTC'de muhalif lider Tufan Erhürman seçimleri kazandı, bu sonuç Türkiye'de siyasi tartışmalara yol açtı.
-• Kıbrıs'ta mafya, kara para ve yasa dışı bahislerin artışı eleştirildi.
-• Türkiye'nin Kıbrıs'a yaklaşımında "yavru vatan" psikolojisinden kurtulması gerektiği belirtildi.
-• Kıbrıs'ta federatif çözüm ve AB üyeliği yeniden gündeme geldi.
-• Bahçeli'nin milliyetçi söylemleri ve siyasette hamaset tartışıldı, toplumda kutuplaşma ve fanatizm eleştirildi.
-• Türkiye'nin kendi iç bütünlüğünü sağlamadan başka yerlere plaka dağıtmasının anlamsız olduğu ifade edildi.
+• Can Holding ve savunma sanayi şirketlerine yönelik büyük bir operasyon başlatıldı
+• Kenan Tektağ ve bazı üst düzey isimler tutuklandı, bazıları sağlık sorunları nedeniyle itiraz etti
+• Tutuklananlar arasında eski Makine Kimya Endüstrisi başkanı, avukatlar ve önemli şirket sahipleri var
+• Soruşturmalarda siyasi bağlantılar ve güç dengeleri iddia edildi
+• Gübretaş dosyasında tonlarca gübrenin kayıp olduğu ortaya çıktı
+• SBK operasyonunda altın rafinerisi ve pırlanta üzerinden kara para aklama iddiaları gündeme geldi
+• Belediyelerde ihalelere fesat karıştırma, naylon fatura ve rüşvet iddiaları araştırılıyor
+• Aziz İhsan Aktaş ve çevresi hakkında detaylı iddianame hazırlandı, birçok belediyede usulsüzlük iddiası var
+• Ankara Büyükşehir Belediyesi'ne de soruşturma başlatıldı, Mansur Yavaş ifade vermeye hazır olduğunu açıkladı
+• Soruşturmaların siyasi hesaplaşmalara alet edilmemesi ve adil yargılama yapılması çağrısı yapıldı
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilal Koylu](https://www.youtube.com/watch?v=cYJd2wmgov8&t=660s) (⏱️ 11:00-23:24)
-- [Rusen Cakir](https://www.youtube.com/watch?v=l63zAyds7dg&t=1754s) (⏱️ 29:14-49:37)
-- [Serdar Akinan](https://www.youtube.com/watch?v=yPDdTNMrVPE&t=8s) (⏱️ 00:08-08:06)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=MryrRxXnLqU&t=782s) (⏱️ 13:02-14:35)
-- [Unsal Unlu](https://www.youtube.com/watch?v=0-OX4_bxi1c&t=79s) (⏱️ 01:19-04:34)
+- [Unsal Unlu](https://www.youtube.com/watch?v=zIv6WRvS3go&t=2635s) (⏱️ 43:55-44:29)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=9GqxRbEJ09E&t=276s) (⏱️ 04:36-06:16)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=4eCuD-qOsqE&t=372s) (⏱️ 06:12-08:50)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=sOtu6RU5Cq0&t=3480s) (⏱️ 58:00-66:00)
+- [Serdar Akinan](https://www.youtube.com/watch?v=-GjmlLQrfIw&t=79s) (⏱️ 01:19-06:12)
 
 ---
 
-## 4. Türkiye'nin Savaş Uçağı Arayışı
+## 4. Adalet Sisteminde Güven Krizi
 
-• Türkiye, F-35 programından çıkarıldıktan sonra yeni savaş uçağı arayışına girdi.
-• Eurofighter savaş uçakları için Avrupa konsorsiyumu ve Katar'dan ikinci el alım seçenekleri değerlendiriliyor.
-• Avrupa'dan yeni uçaklar pahalı ve geç teslim ediliyor, Katar'dan ikinci el uçaklar ise daha ucuz ve hızlı alınabilir.
-• Türkiye, bu uçaklara kendi yazılımını ekleyip ekleyemeyeceğini inceliyor.
-• Cumhurbaşkanı Erdoğan'ın Katar ziyareti sırasında savaş uçağı alımı gündeme geldi.
-• Almanya Başbakanı'nın ziyaretiyle Eurofighter konusu tekrar masaya yatırılacak.
-• Türkiye'nin acil savaş uçağı ihtiyacı var, F-16 ve F-35 tedarikinde sorunlar yaşanıyor.
-• Savunma bütçesi TBMM'de tartışılıyor, Suriye'ye asker gönderme tezkeresi 3 yıl uzatıldı.
-• Bölgedeki güvenlik sorunları ve ekonomik kriz, savunma harcamalarını zorlaştırıyor.
+- Türkiye'de adalet sistemiyle ilgili tartışmalar gündemde
+- Zehra Kınık'ın karıştığı kazada verilen ceza istinaf mahkemesi tarafından bozuldu
+- Kararın bozulmasında yaralananların şikayetlerini geri çekmesi etkili oldu
+- Zehra Kınık'ın cezaevine girmemesi kamuoyunda tepki çekti
+- Birgün gazetesi yöneticileri, bir haber nedeniyle para ve hapis cezası aldı
+- İstanbul'da sokak ortasında yaşanan cinayetler adalet ve güvenlik sorunlarını öne çıkardı
+- Çocuk çeteleri ve mafya yapılanmaları artıyor
+- Adalet sistemindeki sorunlar toplumsal güveni zedeliyor
+- Eğitimden uzak kalan çocuklar risk altında görülüyor
+- Hukukun üstünlüğü ve adaletin önemi tekrar vurgulandı
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=pNc7M_ALRFc&t=1752s) (⏱️ 29:12-32:04)
-- [Murat Yetkin](https://www.youtube.com/watch?v=gcZxcI9zOkQ&t=6s) (⏱️ 00:06-14:11)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=sOtu6RU5Cq0&t=300s) (⏱️ 05:00-14:00)
+- [Unsal Unlu](https://www.youtube.com/watch?v=zIv6WRvS3go&t=1227s) (⏱️ 20:27-22:38)
+- [Serdar Akinan](https://www.youtube.com/watch?v=-GjmlLQrfIw&t=1022s) (⏱️ 17:02-25:17)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=4eCuD-qOsqE&t=1410s) (⏱️ 23:30-27:22)
 
 ---
 
-## 5. Türkiye'de Çocuk Güvenliği ve Krizler
+## 5. Üniversite Öğrencilerinde Güven ve Hijyen Krizi
 
-• Türkiye'de çocuklar hem okulda hem işte şiddet ve ölüm riskiyle karşı karşıya.
-• Konya'da bir çocuk okulda bıçaklanarak öldü.
-• Tekirdağ'da ise 16 yaşındaki bir çocuk iş kazasında hayatını kaybetti.
-• Çocukların şiddete ve ölüme kolayca maruz kalması eleştirildi.
-• Bireysel silahlanmanın ve silaha erişimin artması endişe yaratıyor.
-• İş kazaları ve kadın cinayetleri gibi ölümler sıradanlaşıyor.
-• Ülkenin medeniyet seviyesi bu tür ölümlerle ölçülüyor.
-• Ayrıca, iklim krizi ve kuraklık sorunu büyüyor.
-• Ağaçların kesilmesi ve doğanın tahribi susuzluğa yol açıyor.
-• İklim değişikliği nedeniyle doğal afetlerin artacağı uyarısı yapıldı.
+• Üniversite öğrencileri yemekhane fiyatlarına ve hijyen sorunlarına tepki gösteriyor
+• Hacettepe Üniversitesi'nde rezervasyon sistemi ve zamlar protesto edildi
+• Devlet yurtlarında yemeklerde yabancı madde bulunması meclise taşındı
+• CHP'li vekiller, bu sorunları yönetim eksikliği olarak değerlendirdi
+• ÖSYM sistemine sızılarak bazı öğrencilerin üniversite tercihleri değiştirildi
+• E-devlet şifrelerinin çalınması veri güvenliği endişesi yarattı
+• Sahte diploma ve belgelerle ilgili skandal gündeme geldi
+• Öğrenciler hem barınma hem de eğitimde ciddi sorunlar yaşıyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=MryrRxXnLqU&t=480s) (⏱️ 08:00-09:00)
+- [Hilal Koylu](https://www.youtube.com/watch?v=dhrab1NK4s4&t=1502s) (⏱️ 25:02-29:45)
+- [Unsal Unlu](https://www.youtube.com/watch?v=zIv6WRvS3go&t=925s) (⏱️ 15:25-18:47)
 
 ---
 
-## 6. Polis ve Kamu Çalışanlarına Promosyon Tartışması
+## 6. 'İncinmişsin' Videosuyla Tanınan Hasan'ın Ölümü
 
-• İstanbul Emniyet Müdürlüğü'nde polisler için banka promosyon ihalesi yapıldı
-• İhaleye birçok banka katıldı, en yüksek teklifi VakıfBank verdi
-• Promosyon miktarı 90.000 TL olarak belirlendi
-• Polisler, promosyonun tamamının kendilerine verilmesini talep ediyor
-• Polis ve kamu çalışanları, bankalardan daha yüksek promosyon ve sıfır faizli kredi istiyor
-• Bankaların promosyon ihalelerinde anlaşma yaptığı iddiaları var
-• Kamu çalışanları hak arama mücadelesinde zorluklar ve baskılarla karşılaşıyor
-• Polislerin kendi haklarını savunmakta zorlandığı tartışılıyor
+- Sosyal medyada 'incinmişsin' videosuyla tanınan Hasan'ın hayatını kaybettiği açıklandı
+- Hasan'ın böbrek hastası olduğu ve kamyon borcu nedeniyle zor şartlarda yaşadığı belirtildi
+- Hasan'ın cansız bedeni Konya'da kamyonunda bulundu
+- Bu olay Türkiye'deki sosyal ve ekonomik sorunların bireyler üzerindeki etkisini gösteriyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=0h-Wd_FRHZY&t=180s) (⏱️ 03:00-09:00)
-- [Unsal Unlu](https://www.youtube.com/watch?v=pNc7M_ALRFc&t=2009s) (⏱️ 33:29-36:49)
+- [Serdar Akinan](https://www.youtube.com/watch?v=-GjmlLQrfIw&t=1467s) (⏱️ 24:27-25:17)
 
 ---
 
-## 7. Ateşkes Tartışmaları ve Türkiye'nin Rolü
+## 7. Takvim Gazetesi: İsrail'in Gazze'de Organ Çaldığı İddiası
 
-• Ukrayna ve Gazze'de ateşkes tartışmaları gündemde.
-• Ukrayna'da Trump hızlı ateşkes istiyor, Putin ise doğudaki bölgelerin Rusya'ya bırakılmasını şart koşuyor.
-• Ukrayna bu şartları reddediyor, savaş devam ediyor.
-• ABD'nin Ukrayna'ya gelişmiş silah vermesi savaşın seyrini değiştirebilir.
-• Rusya askeri olarak zorlanıyor, masada avantaj arıyor.
-• Avrupa Birliği Ukrayna'ya ekonomik destek sağlıyor.
-• Gazze'de ise Türkiye arabulucu rolünde, garantör değil.
-• ABD, Türkiye ve Katar'ın süreçte olmasını istiyor, İsrail ise Türk askerine karşı çıkıyor.
-• Ateşkesin kalıcı olması zor, taraflar arasında güven yok.
-• Hamas Türkiye'nin masada olmasını isterken, Fatah karşı çıkıyor.
-• Türkiye, Hamas'a yakınlığı nedeniyle Gazze'de etkili bir aktör olarak görülüyor.
+• Takvim gazetesinin manşetinde, İsrail'in Gazze'de öldürülen Filistinlilerin organlarını çaldığı iddiası yer aldı.
+• Bu iddia sosyal medyada ve Amerikan basınında da yer buldu.
+• Sunucu, bu tür iddiaları diğer etik dışı olaylarla birlikte eleştiriyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=l63zAyds7dg&t=35s) (⏱️ 00:35-15:14)
+- [Unsal Unlu](https://www.youtube.com/watch?v=zIv6WRvS3go&t=3103s) (⏱️ 51:43-52:43)
 
 ---
 
-## 8. Meclisteki Komisyonun Bakanları ve MİT Başkanını Dinlemesi Ertelendi
+## 8. Abdulkadir Uraloğlu'ndan 5G Hız ve Maliyet Açıklaması
 
-• Meclisteki komisyon bu hafta bakanları ve MİT başkanını kapalı oturumda dinleyecekti
-• Bu toplantı bakanların programı uymadığı gerekçesiyle ertelendi
-• Toplantıdan sonra komisyon hukuki düzenlemeler üzerine tartışacaktı
-• Erteleme, süreçte bir terslik olup olmadığı konusunda soru işaretleri yarattı
+• Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, 5G hızının maliyetine dikkat çekti
+• Fazla hız isteyenin maliyetine katlanması gerektiğini söyledi
+• Türkiye'de internetin pahalı olduğu vurgulandı
+• Bakanın açıklamaları eleştirildi
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=cQDU7EXy-Fo&t=4s) (⏱️ 00:04-01:13)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=4eCuD-qOsqE&t=1275s) (⏱️ 21:15-22:15)
 
 ---
 
-## 9. Toplumsal Farklılıklar ve Ortak Gelecek Vurgusu
+## 9. Türkiye'nin Katar'dan Eurofighter Alım Gündemi
 
-• Yayının sonunda toplumsal farklılıkların ve ortak gelecek hayalinin önemi vurgulandı
-• Demokrasiye ulaşmanın yolu olarak farklı görüşlerin bir arada olması gerektiği belirtildi
-• İzleyicilere teşekkür edildi ve yayın sonlandırıldı
+• Türkiye'nin Katar'dan ikinci el Eurofighter savaş uçağı alıp almayacağı tartışılıyor
+• Eurofighter üreticilerinin onayı gerekiyor
+• Almanya'nın onay verdiği, yeni uçak alınmasının daha mantıklı olacağı belirtiliyor
+• MSB, resmi bilgilendirme yapılacağını açıkladı
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=pNc7M_ALRFc&t=3352s) (⏱️ 55:52-56:45)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=4eCuD-qOsqE&t=1335s) (⏱️ 22:15-22:54)
 
 ---
 
-## 10. Türkiye'de Ekmek Fiyatlarındaki Artış ve Enflasyon
+## 10. Ankara'da Deli Dana Hastalığı Vakası ve Şap Hastalığı Son Durumu
 
-- Türkiye'de ekmek fiyatları son bir yılda %41,9 oranında arttı.
-- Avrupa ülkeleriyle karşılaştırıldığında Türkiye'de ekmek enflasyonu çok yüksek.
-- Enflasyonun halkın temel ihtiyaçlarına ciddi etkisi var.
-- Sağlık Bakanı'nın ekmek tüketimiyle ilgili açıklamalarına atıf yapıldı.
-- Türkiye enflasyonda şampiyon oldu.
+• Ankara'da Deli Dana hastalığı vakası görüldü
+• Vakaların yılda bir iki kez yaşandığı, salgın riski olmadığı belirtildi
+• Kesin teşhis ölüm sonrası konulabiliyor
+• Şap hastalığı yaz aylarında yaşandı, bölgedeki çiftçiler zarar gördü
+• Et ve süt ürünleri alımında güven sorunu oluştu, test ve kontrollerin arttığı ifade edildi
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilal Koylu](https://www.youtube.com/watch?v=cYJd2wmgov8&t=1953s) (⏱️ 32:33-34:00)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=4eCuD-qOsqE&t=1642s) (⏱️ 27:22-29:51)
 
 ---
 
-## 11. Lütfü Savaş ve Delegelerden CHP Kurultayının İptali Başvurusu
+## 11. Galatasaray ve Beşiktaş'tan Avrupa'da Başarı, Fenerbahçe Maça Hazırlanıyor
 
-• Eski Hatay Büyükşehir Belediye Başkanı Lütfü Savaş ve bazı delegeler CHP kurultayının iptali için mahkemeye başvurdu.
-• Daha önce benzer başvuruların YSK tarafından reddedildiği belirtildi.
-• Lütfü Savaş'ın CHP geçmişi ve adaylığı tartışıldı.
-• CHP'de parti içi aday tercihleri eleştirildi.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=MryrRxXnLqU&t=1893s) (⏱️ 31:33-33:15)
-
----
-
-## 12. Abdulkadir Selvi'den Kılıçdaroğlu ve Gürsel Tekin Yorumu
-
-• Abdulkadir Selvi'nin yazısında Kemal Kılıçdaroğlu ve Gürsel Tekin'in siyasi durumu değerlendirildi.
-• Gürsel Tekin'in mahkeme kararıyla il başkanı olduğu, ancak siyasi hayatının bittiği belirtildi.
-• Kılıçdaroğlu'nun parti tabanını ikna edecek bir hikaye yazamadığı ve desteğinin azaldığı ifade edildi.
-• Her iki ismin de siyasette küçüldüğü yorumu yapıldı.
+• Galatasaray, Avrupa'da Bodo Glimt'i mağlup ederek başarılı bir sonuç aldı.
+• Beşiktaş ise Konya'da erteleme maçında galip geldi.
+• Fenerbahçe'nin Stuttgart'la oynayacağı maçın heyecanı yaşanıyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=MryrRxXnLqU&t=1995s) (⏱️ 33:15-34:27)
-
----
-
-## 13. İran'da Rejim Yetkilisinin Kızının Düğün Videosu Tartışması
-
-• İran'da rejim ileri gelenlerinden birinin kızının düğün videosu tartışma yarattı.
-• Düğünde kadınların kıyafetleri ve sosyal medyada paylaşılan görüntüler eleştirildi.
-• İran'daki rejim ve toplumsal baskılar gündeme getirildi.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=MryrRxXnLqU&t=2067s) (⏱️ 34:27-35:00)
+- [Unsal Unlu](https://www.youtube.com/watch?v=zIv6WRvS3go&t=1702s) (⏱️ 28:22-29:38)
 
 ---
 
