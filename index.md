@@ -1,265 +1,211 @@
 # Bugün Ne Oldu?
 
-*24 October 2025 tarihli günlük haber raporu - 13 haber birleştirildi*
+*25 October 2025 tarihli günlük haber raporu - 12 haber birleştirildi*
 
-## 1. CHP Kurultay Davası ve Siyasi Tartışmalar
+## 1. Tele1'e Kayyum ve Casusluk Soruşturması Türkiye Gündeminde
 
-• CHP'nin 2023 Kasım kurultayının iptali için açılan davalar sonuçlandı, mahkeme davayı reddetti.
-• Dava, parti içi tartışmaları ve Özgür Özel'in genel başkanlığını gündeme getirdi.
-• Mahkeme, Lütfi Savaş'ın açtığı davada aktif husumet olmadığına hükmetti, birleşen dosyalar için de karar verilmesine yer olmadığı belirtildi.
-• Delegelere rüşvet iddiaları ve siyasi yargı tartışmaları gündeme geldi, ancak iddialar çoğunlukla reddedildi.
-• Karar sonrası Kemal Kılıçdaroğlu'nun genel başkanlığa dönme ihtimali ortadan kalktı.
-• Parti içinde bölünme ve bazı üyelerin ihraç edileceği iddiaları var.
-• CHP'de olağanüstü bir durum yaşanmadı, yönetim görevine devam ediyor.
-• Dava süreci, Türkiye'de adalet sisteminin siyasete etkisi tartışmalarını yeniden alevlendirdi.
-• Ahmet Türk ve Ahmet Özer davalarında beraat ve tahliye talepleri gündeme geldi, kayyum politikası ve Kürtçe'nin statüsü tartışılıyor.
-• CHP'nin kurultay süreci ve yargı kararları, muhalefet ve demokrasi açısından önemli bir sınav olarak değerlendiriliyor.
+- Tele1 televizyon kanalına casusluk soruşturması kapsamında kayyum atandı.
+- Kanalın genel yayın yönetmeni Merdan Yanardağ gözaltına alındı, gözaltı süresi uzatıldı.
+- Soruşturma kapsamında Ekrem İmamoğlu ve kampanya direktörü Necati Özkan da casuslukla suçlanıyor.
+- İddialara göre, 2019 yerel seçimlerinde yabancı istihbarat servisleriyle iş birliği yapıldığı ve milyonlarca kullanıcının kişisel verilerinin sızdırıldığı öne sürüldü.
+- Tele1'in yayını kayyum yönetiminde devam edecek, YouTube kanalı kapatıldı ve içerikler silindi.
+- Soruşturma kapsamında 15 kişi gözaltında, yazılım geliştiriciler de ifadeye çağrıldı.
+- İstanbul Büyükşehir Belediyesi'ne de kayyum atanabileceği iddiaları gündeme geldi.
+- Gelişmeler basın özgürlüğü, demokrasi ve muhalif medyanın durumu açısından endişe yarattı.
+- Aynı dönemde RTÜK ve Türk Telekom'da üst düzey görev değişiklikleri yaşandı, Siber Güvenlik Başkanlığı'na Ümit Önal atandı.
+- Atamalarda liyakat tartışmaları ve kadrolaşma iddiaları öne çıktı.
+- Medya şirketlerine el koyma ve satma uygulamalarının arttığı, bu durumun yasadışı ekonomi riskini artırdığı belirtildi.
+- Toplumsal muhalefetin bu gelişmelere karşı daha aktif olması gerektiği vurgulandı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilal Koylu](https://www.youtube.com/watch?v=7gYLjdJ0Mm8&t=286s) (⏱️ 04:46-07:24)
-- [Unsal Unlu](https://www.youtube.com/watch?v=VSOdTpNjnj8&t=100s) (⏱️ 01:40-02:58)
-- [Onlar TV](https://www.youtube.com/watch?v=sU_dnYnGJw8&t=51s) (⏱️ 00:51-18:06)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=maKD275vc_A&t=284s) (⏱️ 04:44-07:41)
-- [Serdar Akinan](https://www.youtube.com/watch?v=KX4ceCqFyc8&t=50s) (⏱️ 00:50-01:10)
+- [Rusen Cakir](https://www.youtube.com/watch?v=0brA9Yy3ARU&t=23s) (⏱️ 00:23-10:16)
+- [Hilal Koylu](https://www.youtube.com/watch?v=lQobW1SApF0&t=52s) (⏱️ 00:52-39:52)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=L3U9Nu2noC4&t=1569s) (⏱️ 26:09-27:11)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=YLyM9UaFezU) (⏱️ 00:00-10:16)
+- [Serdar Akinan](https://www.youtube.com/watch?v=kvsOFKhnZfw&t=473s) (⏱️ 07:53-16:51)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=AkNsmyVztyk&t=1517s) (⏱️ 25:17-44:00)
 
 ---
 
-## 2. Casusluk Operasyonu ve Siyasi Baskı Tartışması
+## 2. İmamoğlu Ekibine Casusluk Soruşturması Gündemi
 
-• Ekrem İmamoğlu, Necati Özkan ve Merdan Yanardağ'a casusluk suçlamasıyla operasyon yapıldı
-• TELE1'e baskın düzenlendi, Merdan Yanardağ gözaltına alındı
-• Soruşturma, İstanbul Büyükşehir Belediyesi'nden yabancı ülkelere bilgi sızdırıldığı iddiasına dayanıyor
-• Soruşturmanın siyasi baskı ve medya üzerinde kontrol amacı taşıdığı öne sürülüyor
-• DEM Parti ve muhalefet, operasyonları siyasi baskı olarak eleştirdi
-• Soruşturmanın zamanlaması, CHP ve İmamoğlu üzerindeki baskıyı artırıyor
-• Medya ve yargı süreçlerinde siyasi müdahale ve hukuki sorunlar gündemde
-• Savcılara hakim kararı olmadan mal varlığına el koyma yetkisi tartışılıyor
-• İçişleri ve Maliye Bakanları ile ilgili kabine değişikliği iddiaları ve medya üzerinden baskılar sürüyor
-• Medya sektöründe işten çıkarmalar ve operasyonlar yaşanıyor, siyasi ve ekonomik nedenler tartışılıyor
-• Türkiye'de yargı ve medya bağımsızlığı, siyasi baskılar ve hukuk devleti ilkeleri sorgulanıyor
+• İstanbul'da Ekrem İmamoğlu ve ekibine yönelik casusluk iddiaları gündeme geldi
+• Soruşturmanın merkezinde Hüseyin Gün adlı bir kişi yer alıyor; Gün'ün üvey oğlunun ihbarı ile süreç başladı
+• Hüseyin Gün'ün dijital materyallerinde askeri mühimmat ve bazı bakanların fotoğrafları bulundu, yüklü para transferleri tespit edildi
+• Hüseyin Gün'ün geçmişte FETÖ'den yargılandığı ancak beraat ettiği belirtildi
+• Soruşturma kapsamında "İstanbul Senin" ve "Hanende" uygulamalarını geliştiren Kobil Teknoloji şirketi de inceleniyor
+• Kobil Teknoloji'nin Teknofest'te ödül aldığı, bankacılık ve kamu uygulamalarında yaygın kullanıldığı vurgulandı
+• Casusluk iddialarında WICKR (Amazon'a ait kurumsal mesajlaşma uygulaması) ve veri sızıntısı teknik olarak tartışıldı; uzmanlar iddiaların abartılı olduğunu belirtti
+• Necati Özkan ve Merdan Yanardağ'ın Hüseyin Gün ile ilişkisi olduğu iddia edildi; her iki isim de bu iddiaları reddetti
+• Ekrem İmamoğlu ve eşi Dilek İmamoğlu soruşturmayı siyasi buldu, kamuoyunda siyasi operasyon iddiaları öne çıktı
+• CHP ve muhalefet, soruşturmanın asıl amacının siyasi olduğunu savundu
+• Türkiye'de veri güvenliği ve siber güvenlik sorunlarının yaygın olduğu, geçmişte de benzer veri sızıntılarının yaşandığı hatırlatıldı
+• Casusluk iddiaları, seçim güvenliği ve kişisel veri tartışmalarını yeniden gündeme taşıdı
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilal Koylu](https://www.youtube.com/watch?v=7gYLjdJ0Mm8&t=1258s) (⏱️ 20:58-24:39)
-- [Onlar TV](https://www.youtube.com/watch?v=sU_dnYnGJw8&t=3236s) (⏱️ 53:56-60:44)
-- [Unsal Unlu](https://www.youtube.com/watch?v=VSOdTpNjnj8&t=2607s) (⏱️ 43:27-43:52)
-- [Murat Yetkin](https://www.youtube.com/watch?v=IhROalWoxmY&t=5s) (⏱️ 00:05-10:57)
-- [Serdar Akinan](https://www.youtube.com/watch?v=KX4ceCqFyc8&t=109s) (⏱️ 01:49-05:25)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=maKD275vc_A&t=15s) (⏱️ 00:15-03:13)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=AkNsmyVztyk&t=300s) (⏱️ 05:00-11:00)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=O2-8DUFQcL8) (⏱️ 00:00-05:18)
+- [Serdar Akinan](https://www.youtube.com/watch?v=kvsOFKhnZfw&t=1051s) (⏱️ 17:31-22:57)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=YLyM9UaFezU&t=759s) (⏱️ 12:39-16:24)
 
 ---
 
-## 3. Faiz İndirimi ve Ekonomik Kriz Tartışması
+## 3. CHP Kurultay Davası Reddedildi
 
-• Merkez Bankası politika faizini 40,5'ten 39,5'a indirdi, bu karar ekonomik çevrelerde tartışma yarattı.
-• Faiz indiriminin enflasyon ve piyasalara olumlu etkisi olmadığı, enflasyonun yüksek seyretmeye devam ettiği belirtildi.
-• Döviz kuru yükseldi, dolar 42 TL'yi geçti; yabancı yatırımcılar yüksek faizden yararlanırken, vatandaşlar dövizde kalmayı tercih ediyor.
-• Altın fiyatlarında dalgalanma yaşandı, uzmanlar uzun vadede altının değerini koruyacağını belirtti.
-• Yeni vergi düzenlemeleriyle araç, emlak ve bazı mesleklerde vergiler arttı; dolaylı vergilerin oranı yükseldi.
-• 2026 bütçesinde faiz ödemeleri ve vergi yükü artarken, sosyal yardımların yetersiz kalacağı vurgulandı.
-• İstanbul'da ve genel olarak konut fiyatları yüksek, yeni vergiler ve maliyetler nedeniyle düşüş beklenmiyor.
-• Barınma krizi derinleşiyor, devletin sosyal konut projeleri geliştirmesi gerektiği ifade edildi.
-• Akaryakıt ve gıda fiyatlarında ciddi artışlar yaşanıyor, tarımda önlem alınmamasının etkisi eleştirildi.
-• Konya'da ucuz televizyon satışı izdihama yol açtı, bu durum ekonomik sıkıntıların ve alım gücündeki düşüşün göstergesi olarak değerlendirildi.
+- CHP'nin kurultay davası mahkeme tarafından reddedildi, mutlak butlan kararı çıkmadı
+- Kurultay öncesi usulsüzlük iddiaları ve kayyum tartışmaları gündeme geldi, ancak mahkeme bu iddiaları kabul etmedi
+- Lütfi Savaş ve diğer başvurular da reddedildi
+- Kılıçdaroğlu'nun siyasi geleceği ve partiye dönme ihtimali kalmadı, yeni parti iddiaları konuşuluyor
+- CHP'de bölünme beklenmiyor, parti motivasyonu arttı
+- Ekrem İmamoğlu'nun Beylikdüzü davasından beraat etmesi CHP'de olumlu karşılandı ve moral yarattı
+- CHP kurultay davasının reddedilmesi ve olumlu gelişmeler sonrası borsada yükseliş yaşandı, bazı hisseler tavan yaptı
+- Ekrem İmamoğlu'nun diploma davası duruşmasında adliyede kriz ve karmaşa yaşandı, savunma hakkı tartışıldı
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=3MQ5CUU6KEg&t=686s) (⏱️ 11:26-21:08)
-- [Hilal Koylu](https://www.youtube.com/watch?v=7gYLjdJ0Mm8&t=1670s) (⏱️ 27:50-32:08)
-- [Unsal Unlu](https://www.youtube.com/watch?v=VSOdTpNjnj8&t=801s) (⏱️ 13:21-14:36)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=iFGYvSTz-YE) (⏱️ 00:00-04:44)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=maKD275vc_A&t=461s) (⏱️ 07:41-10:15)
+- [Rusen Cakir](https://www.youtube.com/watch?v=0brA9Yy3ARU&t=616s) (⏱️ 10:16-11:32)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=AkNsmyVztyk&t=1140s) (⏱️ 19:00-22:00)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=L3U9Nu2noC4&t=3707s) (⏱️ 61:47-63:01)
 
 ---
 
-## 4. Belediyelerde Kriz ve Yolsuzluk İddiaları
+## 4. Ekonomik Kriz ve Sağlıkta Artan Riskler
 
-• İstanbul'da baraj doluluk oranı %23'e düştü, su krizi yaşanıyor
-• Ümraniye Belediyesi'nin sokakları köpüklü suyla yıkaması israf eleştirilerine yol açtı
-• Beşiktaş ve bazı CHP'li belediyeler hakkında yolsuzluk iddialarıyla ilgili 578 sayfalık iddianame hazırlandı
-• İhalelerde sahte belgeler ve usulsüzlükler tespit edildi, suç örgütü bağlantısı iddia edildi
-• Aynı suç örgütünün AKP'li belediyelerle de iş yaptığı öne sürülüyor, iddianamede bu belediyelere az yer verildiği belirtildi
-• Ankara Büyükşehir Belediye Başkanı Mansur Yavaş hakkında konser harcamaları ve dedikodular nedeniyle soruşturma iddiaları ortaya atıldı
-• Yavaş, iddiaları reddetti ve belge olanların yargıya başvurmasını istedi
-• Bayrampaşa'da CHP'li Hasan Mutlu'nun seçim zaferi sonrası baskı ve tutuklama iddiaları gündeme geldi
-• Seçim iptal edildi, yeniden seçim yapılacak
-• CHP, seçimlerin tekrarlanmasını ve iktidarın sonuçları tanımamasını eleştiriyor
+• Türkiye'de ekonomik sıkıntılar artıyor, firmalar ve vatandaşlar zorlanıyor
+• Asgari ücrete yapılan zamlar açlık sınırının altında kalıyor, alım gücü düşüyor
+• Vergi ve harçlarda artışlar, yeni vergi paketleri gündemde
+• Akaryakıt fiyatları yükseldi, vatandaşın ekonomik yükü arttı
+• SGK Başkanı, emeklilerin daha uzun yaşadığını ve sistemin zorlandığını açıkladı
+• Ekonomik sıkışıklık nedeniyle insanlar tasarruflarını yastık altına çekiyor
+• Kalp krizi ve pıhtı atma vakalarında artış gözlemleniyor
+• Sağlıksız yaşam, sigara, hava kirliliği ve uyuşturucu kullanımı riskleri artırıyor
+• Kalp sağlığı için yaşam tarzı değişikliği ve düzenli kontrol öneriliyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=3MQ5CUU6KEg&t=3617s) (⏱️ 60:17-61:11)
-- [Hilal Koylu](https://www.youtube.com/watch?v=7gYLjdJ0Mm8&t=76s) (⏱️ 01:16-03:41)
-- [Onlar TV](https://www.youtube.com/watch?v=sU_dnYnGJw8&t=1092s) (⏱️ 18:12-36:36)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=maKD275vc_A&t=930s) (⏱️ 15:30-16:49)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=AkNsmyVztyk&t=3000s) (⏱️ 50:00-70:42)
+- [Hilal Koylu](https://www.youtube.com/watch?v=lQobW1SApF0&t=2188s) (⏱️ 36:28-37:18)
 
 ---
 
-## 5. Polis ve Emeklilik Sistemi Sorunları
+## 5. PKK Açıklaması ve Çözüm Süreci Gelişmeleri
 
-• Polislerin banka promosyonları beklentinin altında kaldı, maaşlarının büyük kısmı kiraya gidiyor.
-• Polisler fazla mesai yapıyor, düşük saatlik gelir ve yetersiz izin süreleriyle karşılaşıyor.
-• Polislerin grev hakkı yok, seslerini duyurmakta zorlanıyorlar.
-• Enflasyon nedeniyle maaşlar eridi, çalışma şartları ağırlaştı.
-• Türkiye'de emeklilik sistemi ve SGK'nın durumu tartışılıyor.
-• Emekli sayısı arttı, insanlar daha uzun yaşıyor.
-• Emeklilik yaşının yükselmesi ve iş güvencesi sorunları gündemde.
-• Emeklilik fonları doğru yönetilmiyor, işsizlik fonu başka amaçlarla kullanılıyor.
-• Emeklilerin yaşam koşulları kötüleşiyor, maaşlar yetersiz.
-• Sistemin sürdürülebilir olmadığı ve Avrupa ile farklar olduğu vurgulanıyor.
+- PKK'nın yarın önemli bir açıklama yapması bekleniyor
+- Açıklamanın içeriğiyle ilgili çeşitli senaryolar var
+- PKK'nın elindeki mühimmatın yerini açıklayabileceği konuşuluyor
+- Bazı PKK üyelerinin Türkiye'ye döneceği iddia ediliyor
+- Yurt dışındaki bazı önemli isimlerin de dönüşü gündemde
+- Erdoğan'ın af çağrısı yapabileceği öne sürülüyor
+- Meclis'te çözüm süreci için komisyon kuruldu, yeni yasal düzenlemeler tartışılıyor
+- Sürecin kamuoyuna dikkatli anlatılması gerektiği vurgulanıyor
+- Suriye'de YPG'nin silah bırakmaya yanaşmadığı belirtiliyor
+- 1997'de Fatih Altaylı'nın Öcalan röportajı yıllar sonra yayınlandı ve ilgi çekti
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=3MQ5CUU6KEg&t=3280s) (⏱️ 54:40-59:15)
-- [Unsal Unlu](https://www.youtube.com/watch?v=VSOdTpNjnj8&t=1250s) (⏱️ 20:50-23:02)
+- [Rusen Cakir](https://www.youtube.com/watch?v=K3c3S6jxmFg&t=85s) (⏱️ 01:25-14:02)
+- [Serdar Akinan](https://www.youtube.com/watch?v=kvsOFKhnZfw) (⏱️ 00:00-04:52)
 
 ---
 
-## 6. Adalet Sistemi ve Güvenlik Tartışmaları Türkiye Gündeminde
+## 6. Dışişleri ve Askeriyede FETÖ Operasyonu
 
-• İsveç'te bir göçmen, 16 yaşındaki kıza tecavüzden 3 yıl hapis aldı, ancak sınır dışı edilmedi.
-• Mahkemenin kararı ve gerekçesi kamuoyunda tepki topladı.
-• Mati Ahmet Minguzi davasında iki sanık ağırlaştırılmış müebbet aldı, iki sanık ise beraat etti.
-• Karar sonrası mağdur ailesi ve toplum adalet sistemini eleştirdi.
-• Kamera görüntülerinin silinmesi ve delil yetersizliği tartışma yarattı.
-• Türkiye'de son günlerde şiddet olayları arttı, iki günde dört kadın öldürüldü.
-• Bir kız çocuğunun cesedi su kuyusunda bulundu, cezaevi firarisi yakalandı.
-• İstanbul'da sokakta bir kişi infaz edildi.
-• Cezaevinden açık cezaevine nakledilen bir kişi arama olmadan serbest dolaştı.
-• İçişleri Bakanı'na sorumluluk çağrısı yapıldı.
-• Toplumda adalet sistemi ve güvenlik açıkları yoğun şekilde tartışılıyor.
+- Dışişleri Bakanlığı'nda FETÖ operasyonu düzenlendi.
+- Tel Aviv'deki maslahatgüzarın FETÖ bağlantısı tespit edildi.
+- 21'i Dışişleri'nde çalışan toplam 58 FETÖ şüphelisi yakalandı.
+- FETÖ'nün mahrem imamları, askeriyede gizlilik için özel yöntemler kullandı.
+- Askerlerin ve şüphelilerin cemaatten görünmemesi için içki içmek gibi davranışlar teşvik edildi.
+- Bazı şüpheliler sosyal medyada Atatürk ve rakı fotoğrafları paylaştı.
+- Mahrem imamlar, ilgilendikleri kişilerin sosyal ortamlarda dikkat çekmemesi için talimatlar verdi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=3MQ5CUU6KEg&t=67s) (⏱️ 01:07-06:12)
-- [Unsal Unlu](https://www.youtube.com/watch?v=VSOdTpNjnj8&t=1119s) (⏱️ 18:39-19:23)
+- [Serdar Akinan](https://www.youtube.com/watch?v=kvsOFKhnZfw&t=1878s) (⏱️ 31:18-32:05)
 
 ---
 
-## 7. Altın Rafinerisi'nde Sahte İhracat Operasyonu
+## 7. AK Parti'de Milletvekili Geçişleri ve Parti İçi Dengeler
 
-- İstanbul Altın Rafinerisi'ne büyük bir operasyon düzenlendi
-- Florya'da bir evin kilerinde 500 ila 700 kilo arasında altın bulundu
-- Altınların değeri yaklaşık 3 milyar TL olarak hesaplandı
-- Altınların Halaç ailesine ait olduğu ve miras kaldığı iddia edildi
-- Operasyon kapsamında 24 adrese baskın yapıldı, çok sayıda altın ve para ele geçirildi
-- Şirketin 2023 satış hacmi 230 milyar TL olarak açıklandı
-- Şirketin yurt dışından getirilen altını yerli üretim gibi gösterip sahte ihracat belgeleriyle devletten teşvik aldığı öne sürüldü
-- Devletin 12 milyon dolar zarara uğratıldığı iddia edildi
-- Paravan şirketler kurularak teşvik alındığı, bu şirketlerin çoğunun çalışanlar adına ve aynı adreste kurulduğu belirtildi
-- Şirket sahibi Özcan Halaç ve genel müdür dahil 20 kişi tutuklandı
-- Şirketin siyasi bağlantıları ve operasyonun zamanlaması dikkat çekti
-- Olayda miras, aile içi anlaşmazlıklar ve reddi miras iddiaları da yer aldı
+• AK Parti'ye bazı milletvekillerinin geçeceği iddia edildi.
+• Üç milletvekilinin AK Parti'ye katılması bekleniyor.
+• Bağımsız milletvekillerinin bir kısmı geçmeyeceğini açıkladı.
+• AK Parti içinde reformcu bir kanat olduğu konuşuluyor.
+• Efkan Ala, özgürlüklerin korunmasını savunuyor.
+• Parti içinde güvenlikçi politikalar öne çıkıyor.
+• Reformcu kanadın parti yönetimindeki etkisi azaldı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=VSOdTpNjnj8&t=2325s) (⏱️ 38:45-39:31)
-- [Onlar TV](https://www.youtube.com/watch?v=sU_dnYnGJw8&t=2202s) (⏱️ 36:42-53:56)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=YLyM9UaFezU&t=1149s) (⏱️ 19:09-19:54)
 
 ---
 
-## 8. Türkiye'nin Gazze'de Rolü ve Medya Saldırıları
+## 8. Remzi Sanver'in Tutuklanması ve Siyasi Yansımaları
 
-- Türkiye, Gazze'de ateşkes sonrası uluslararası istikrar gücünde yer almak için hazırlık yapıyor.
-- Türk askerinin Gazze'de görev alması gündemde.
-- Filistinlilerin Türk askerini beklediği iddia ediliyor.
-- İsrail, Gazze'deki medya kuruluşlarına saldırı düzenledi.
-- A Haber, İsrail'in saldırısına uğradı.
-- İsrail'in yardım kuyruğunu hedef aldığı bildirildi.
-- Medya üzerinden algı oluşturma çabaları eleştiriliyor.
+- Remzi Sanver'in tutuklanması gündemde
+- Remzi Sanver Türkiye'deki masonların önemli bir ismi
+- Tutuklanmasının siyasi bir karar olduğu düşünülüyor
+- Türkiye'de benzer davalarda hukukun değil siyasetin belirleyici olduğu vurgulanıyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=VSOdTpNjnj8&t=2854s) (⏱️ 47:34-47:44)
+- [Rusen Cakir](https://www.youtube.com/watch?v=K3c3S6jxmFg&t=3110s) (⏱️ 51:50-55:51)
 
 ---
 
-## 9. Küresel Gerilimler ve Türkiye'nin Rolü
+## 9. CHP'den Dört İsmin İhraç Edilmesi
 
-- Rusya-Ukrayna savaşı sürüyor, ateşkes ihtimali zayıf.
-- ABD, Rusya'nın büyük petrol şirketlerine yaptırım uyguladı.
-- AB, Rusya'dan sıvılaştırılmış doğalgaz alımını 2027'de durduracak.
-- Putin, nükleer füze tatbikatı yaptı.
-- Nükleer tehditler artık daha az korkutucu görülüyor.
-- Trump, Venezuela'ya askeri müdahale sinyali verdi.
-- Trump'ın açıklamaları öngörülemez bulundu.
-- Venezuela lideri Maduro ile Erdoğan'ın yakın ilişkisi var.
-- Türkiye'nin arabuluculuk rolü gündeme geldi.
+• Dört isim CHP'den ihraç edildi.
+• Bu durum esprili bir dille "Butlan oldu, şutlan" şeklinde yorumlandı.
+• Parti içi ayrışmalar ve ihraçlar gündeme geldi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=VSOdTpNjnj8&t=908s) (⏱️ 15:08-15:40)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=maKD275vc_A&t=1383s) (⏱️ 23:03-25:08)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=YLyM9UaFezU&t=1117s) (⏱️ 18:37-19:09)
 
 ---
 
-## 10. İlaç Krizi ve Yabancı Yatırımlar
+## 10. Yüzyılın Konut Projesi ve Başvuru Şartları
 
-- Türkiye'de ilaç bulunamama sorunu artıyor.
-- Eczacılar, yaklaşık 300 ilacın piyasada olmadığını söylüyor.
-- Sorunun nedeni olarak dışa bağımlılık ve fiyat politikası gösteriliyor.
-- Yerli ilaç üretimi zor durumda.
-- Aynı dönemde Amerikalı petrol şirketlerinin Trakya ve Diyarbakır'daki projeleri hızla onaylanıyor.
-- Hükümet, Amerika ve Körfez ülkelerinde yatırım arayışında.
-- Ekonomik politikalar ve dış yatırımlar gündemde öne çıkıyor.
+• Cumhurbaşkanı Erdoğan, Yüzyılın Konut Projesi'ni açıkladı.
+• 500 bin konutun 100 bini İstanbul'da, 30 bini Ankara'da, 21 bini İzmir'de, diğerleri ise çeşitli illerde yapılacak.
+• Projede gelir ve ikamet şartı var; İstanbul için hane halkı aylık net geliri en fazla 145 bin TL olmalı.
+• Başvuru bedeli 5 bin TL olarak belirlendi, ancak başvurunun kesin çıkıp çıkmayacağı belli değil.
+• Projenin detayları ve başvuru koşulları tartışılıyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=VSOdTpNjnj8&t=2430s) (⏱️ 40:30-40:50)
+- [Hilal Koylu](https://www.youtube.com/watch?v=lQobW1SApF0&t=2243s) (⏱️ 37:23-38:59)
 
 ---
 
-## 11. Türkiye'nin Stratejik Önemi Artıyor
+## 11. 2019 İstanbul Seçimleri: Demirtaş, Öcalan ve HDP Seçmeninin Rolü
 
-• Eskişehir'de büyük nadir element rezervi bulundu
-• Türkiye, Çin'den sonra en büyük nadir element rezervine sahip oldu
-• Nadir elementler elektrikli otomobil ve uzay teknolojisi gibi alanlarda kullanılıyor
-• Türkiye'nin stratejik önemi bu gelişmeyle arttı
-• Avrupa'nın SEF savunma programına Türkiye dahil edilmedi
-• Yunanistan ve Rum kesimi Türkiye'nin katılımını engelledi
-• Türkiye'nin jeostratejik önemi Avrupa'da tartışılıyor
-• Türkiye'nin hem enerji hem savunma alanında önemi vurgulandı
+- 2019 İstanbul seçimlerinde Demirtaş'ın açıklaması Öcalan'ın çağrısından bağımsız yapılmış
+- Demirtaş, Öcalan'ın çağrısını bilmiyordu
+- HDP seçmeni İmamoğlu'na destek verdi
+- Bu durum muhalefet ve HDP arasındaki güvensizliği azalttı
+- Son dönemde Demirtaş ve Öcalan arasında gerilim olduğu iddiaları gündemde
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=maKD275vc_A&t=1148s) (⏱️ 19:08-21:40)
+- [Rusen Cakir](https://www.youtube.com/watch?v=K3c3S6jxmFg&t=972s) (⏱️ 16:12-27:00)
 
 ---
 
-## 12. Karadeniz ve Ege'de Sel ve Altyapı Sorunları
+## 12. Ayşe Barım'ın Yakalama Kararının Kaldırılması ve Sağlık Durumu
 
-- Foça, Gökçeada ve Karadeniz sahilinde şiddetli yağışlar ve sel felaketleri yaşandı
-- Sosyal medyada sel ve toprak kayması görüntüleri paylaşıldı
-- Karadeniz sahil yolunda deniz doldurularak duble yollar yapıldı
-- Yol çalışmaları sırasında bazı bölgelerde toprak kaymaları oldu, yollar zarar gördü
-- Geçici önlemlerle yollar daraltıldı ve yeniden yapılıyor
-- Karadeniz sahil yolunda çok sayıda üst geçit var, çoğu şehitlerin adını taşıyor
-- Bölge PKK'ya karşı mücadelede çok şehit verdi
-- Çözüm süreci Karadeniz'de tartışmalı bir konu olarak öne çıkıyor
-- Doğanın dengesinin bozulduğu ve altyapı sorunlarının arttığı vurgulandı
+• Ayşe Barım'ın yakalama kararı kaldırıldı.
+• Barım'ın ciddi sağlık sorunları olduğu ve hastanede tedavi gördüğü belirtildi.
+• Yakalama kararı kaldırılmasına rağmen polislerin hastanede beklemeye devam ettiği aktarıldı.
+• Hakkında yeniden tutuklama kararı çıktığı için hastane odasında cezaevi koğuşu muamelesi yapıldığı ifade edildi.
+• Barım'ın Gezi davasına dahil edilmesinin anlaşılır olmadığı söylendi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=n3-0P2SqwRU&t=226s) (⏱️ 03:46-05:27)
-- [Unsal Unlu](https://www.youtube.com/watch?v=VSOdTpNjnj8&t=2797s) (⏱️ 46:37-46:44)
-
----
-
-## 13. Çağdaş Değerlere Yönelik Baskı Tartışmaları
-
-- Manisa'da bir lisede Atatürk'ün Nutuk kitabı çöpe atıldı
-- Bu olay, çağdaş eğitime karşı bir tutum olarak eleştirildi
-- Nutuk'un yasaklanması mizahi şekilde gündeme geldi
-- Metin Lokumcu, 2011'de Hopa'da bir mitingde hayatını kaybetti
-- Lokumcu'nun ölümü Türkiye'de sembol haline geldi
-- Oğlu Ulaş Lokumcu'nun İzmir Büyükşehir Belediyesi'nde mobbing yaşadığı iddia edildi
-- CHP Genel Başkanı, Lokumcu'nun hesabını sormaktan bahsetti
-- Her iki olayda da çağdaş değerlere ve haklara yönelik baskılar tartışıldı
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Unsal Unlu](https://www.youtube.com/watch?v=VSOdTpNjnj8&t=1199s) (⏱️ 19:59-20:11)
-- [Rusen Cakir](https://www.youtube.com/watch?v=n3-0P2SqwRU&t=719s) (⏱️ 11:59-15:19)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=YLyM9UaFezU&t=1057s) (⏱️ 17:37-18:37)
 
 ---
 
