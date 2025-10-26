@@ -1,211 +1,187 @@
 # Bugün Ne Oldu?
 
-*25 October 2025 tarihli günlük haber raporu - 12 haber birleştirildi*
+*26 October 2025 tarihli günlük haber raporu - 10 haber birleştirildi*
 
-## 1. Tele1'e Kayyum ve Casusluk Soruşturması Türkiye Gündeminde
+## 1. İmamoğlu'na Casusluk Suçlaması ve Cezaevi Gündemi
 
-- Tele1 televizyon kanalına casusluk soruşturması kapsamında kayyum atandı.
-- Kanalın genel yayın yönetmeni Merdan Yanardağ gözaltına alındı, gözaltı süresi uzatıldı.
-- Soruşturma kapsamında Ekrem İmamoğlu ve kampanya direktörü Necati Özkan da casuslukla suçlanıyor.
-- İddialara göre, 2019 yerel seçimlerinde yabancı istihbarat servisleriyle iş birliği yapıldığı ve milyonlarca kullanıcının kişisel verilerinin sızdırıldığı öne sürüldü.
-- Tele1'in yayını kayyum yönetiminde devam edecek, YouTube kanalı kapatıldı ve içerikler silindi.
-- Soruşturma kapsamında 15 kişi gözaltında, yazılım geliştiriciler de ifadeye çağrıldı.
-- İstanbul Büyükşehir Belediyesi'ne de kayyum atanabileceği iddiaları gündeme geldi.
-- Gelişmeler basın özgürlüğü, demokrasi ve muhalif medyanın durumu açısından endişe yarattı.
-- Aynı dönemde RTÜK ve Türk Telekom'da üst düzey görev değişiklikleri yaşandı, Siber Güvenlik Başkanlığı'na Ümit Önal atandı.
-- Atamalarda liyakat tartışmaları ve kadrolaşma iddiaları öne çıktı.
-- Medya şirketlerine el koyma ve satma uygulamalarının arttığı, bu durumun yasadışı ekonomi riskini artırdığı belirtildi.
-- Toplumsal muhalefetin bu gelişmelere karşı daha aktif olması gerektiği vurgulandı.
+• Ekrem İmamoğlu'na casusluk suçlaması yöneltildi ve ifadesi için Çağlayan Adliyesi'ne çağrıldı
+• İstanbul'da Beyoğlu, Bayrampaşa, Şişli ve Kağıthane'de trafik ve eylem kısıtlamaları uygulandı
+• CHP, Çağlayan'da miting düzenledi ve insanları destek için çağırdı
+• Özgür Özel yurt dışı seyahatini yarıda kesip adliyeye geldi
+• Duruşmada basın ve avukatlar salona alınmadı, avukatlar salonu terk etti
+• Bakırköy Başsavcısı'nın duruşmayı kamera odasından izlediği iddia edildi
+• Cezaevlerinde yer ve yatak sıkıntısı yaşanıyor, koşullar zor
+• Furkan Karabay ve Hakan Bahçetepe'nin Silivri Cezaevi'ndeki durumları gündeme geldi
+• Fatih Altaylı'nın cezaevinde sağlığının iyi olduğu, kitap okuduğu belirtildi
+• Cezaevlerinde güvenlik personeline yönelik saldırılar yaşanabiliyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=0brA9Yy3ARU&t=23s) (⏱️ 00:23-10:16)
-- [Hilal Koylu](https://www.youtube.com/watch?v=lQobW1SApF0&t=52s) (⏱️ 00:52-39:52)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=L3U9Nu2noC4&t=1569s) (⏱️ 26:09-27:11)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=YLyM9UaFezU) (⏱️ 00:00-10:16)
-- [Serdar Akinan](https://www.youtube.com/watch?v=kvsOFKhnZfw&t=473s) (⏱️ 07:53-16:51)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=AkNsmyVztyk&t=1517s) (⏱️ 25:17-44:00)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=0i4ZuflJaMg) (⏱️ 00:00-01:17)
+- [Murat Yetkin](https://www.youtube.com/watch?v=c6bxgToDgFU&t=781s) (⏱️ 13:01-13:39)
+- [Rusen Cakir](https://www.youtube.com/watch?v=zeuGnJKm8_Y&t=25s) (⏱️ 00:25-01:07)
+- [Serdar Akinan](https://www.youtube.com/watch?v=r8NFh-jwExM&t=715s) (⏱️ 11:55-12:06)
 
 ---
 
-## 2. İmamoğlu Ekibine Casusluk Soruşturması Gündemi
+## 2. PKK Türkiye'den Çekilme Kararı Aldı
 
-• İstanbul'da Ekrem İmamoğlu ve ekibine yönelik casusluk iddiaları gündeme geldi
-• Soruşturmanın merkezinde Hüseyin Gün adlı bir kişi yer alıyor; Gün'ün üvey oğlunun ihbarı ile süreç başladı
-• Hüseyin Gün'ün dijital materyallerinde askeri mühimmat ve bazı bakanların fotoğrafları bulundu, yüklü para transferleri tespit edildi
-• Hüseyin Gün'ün geçmişte FETÖ'den yargılandığı ancak beraat ettiği belirtildi
-• Soruşturma kapsamında "İstanbul Senin" ve "Hanende" uygulamalarını geliştiren Kobil Teknoloji şirketi de inceleniyor
-• Kobil Teknoloji'nin Teknofest'te ödül aldığı, bankacılık ve kamu uygulamalarında yaygın kullanıldığı vurgulandı
-• Casusluk iddialarında WICKR (Amazon'a ait kurumsal mesajlaşma uygulaması) ve veri sızıntısı teknik olarak tartışıldı; uzmanlar iddiaların abartılı olduğunu belirtti
-• Necati Özkan ve Merdan Yanardağ'ın Hüseyin Gün ile ilişkisi olduğu iddia edildi; her iki isim de bu iddiaları reddetti
-• Ekrem İmamoğlu ve eşi Dilek İmamoğlu soruşturmayı siyasi buldu, kamuoyunda siyasi operasyon iddiaları öne çıktı
-• CHP ve muhalefet, soruşturmanın asıl amacının siyasi olduğunu savundu
-• Türkiye'de veri güvenliği ve siber güvenlik sorunlarının yaygın olduğu, geçmişte de benzer veri sızıntılarının yaşandığı hatırlatıldı
-• Casusluk iddiaları, seçim güvenliği ve kişisel veri tartışmalarını yeniden gündeme taşıdı
+• PKK, Türkiye'deki silahlı güçlerini çekmeye başladığını ve Irak'ın kuzeyine taşıdığını açıkladı
+• Açıklamalar, örgüt yöneticisi Sabri Ok tarafından Kuzey Irak'ta yapıldı
+• Süreç, devletle yapılan görüşmeler ve siyasi adımlar sonrası başladı
+• 11 Temmuz'da Süleymaniye yakınlarında 30 PKK militanı silahlarını yaktı
+• PKK, "geçiş hukuku" adı altında silah bırakanlara özel yasa talep ediyor
+• Cumhurbaşkanlığı ve AK Parti, gelişmeleri olumlu buldu ve "terörsüz Türkiye" vurgusu yaptı
+• Meclis'te tüm partilerin katılımıyla komisyon kuruldu, öneriler toplanıyor
+• PKK'nın Suriye'deki varlığı ve silahlı yapılanması ise sürece dahil edilmedi
+• Suriye'deki durum çözülmeden Türkiye'deki sürecin tam başarıya ulaşamayacağı belirtiliyor
+• Aynı dönemde siyasi iktidarın CHP ve İmamoğlu'na yönelik eleştirileri kamuoyunda tartışma yarattı
+• Barış süreci ve siyasi gelişmeler eş zamanlı yaşanıyor, kamuoyunda kafa karışıklığı oluştu
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=AkNsmyVztyk&t=300s) (⏱️ 05:00-11:00)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=O2-8DUFQcL8) (⏱️ 00:00-05:18)
-- [Serdar Akinan](https://www.youtube.com/watch?v=kvsOFKhnZfw&t=1051s) (⏱️ 17:31-22:57)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=YLyM9UaFezU&t=759s) (⏱️ 12:39-16:24)
+- [Serdar Akinan](https://www.youtube.com/watch?v=r8NFh-jwExM&t=48s) (⏱️ 00:48-11:34)
+- [Rusen Cakir](https://www.youtube.com/watch?v=zeuGnJKm8_Y&t=69s) (⏱️ 01:09-03:23)
+- [Murat Yetkin](https://www.youtube.com/watch?v=c6bxgToDgFU&t=5s) (⏱️ 00:05-12:33)
 
 ---
 
-## 3. CHP Kurultay Davası Reddedildi
+## 3. Ekonomik Kriz ve Siyasi Etkileri
 
-- CHP'nin kurultay davası mahkeme tarafından reddedildi, mutlak butlan kararı çıkmadı
-- Kurultay öncesi usulsüzlük iddiaları ve kayyum tartışmaları gündeme geldi, ancak mahkeme bu iddiaları kabul etmedi
-- Lütfi Savaş ve diğer başvurular da reddedildi
-- Kılıçdaroğlu'nun siyasi geleceği ve partiye dönme ihtimali kalmadı, yeni parti iddiaları konuşuluyor
-- CHP'de bölünme beklenmiyor, parti motivasyonu arttı
-- Ekrem İmamoğlu'nun Beylikdüzü davasından beraat etmesi CHP'de olumlu karşılandı ve moral yarattı
-- CHP kurultay davasının reddedilmesi ve olumlu gelişmeler sonrası borsada yükseliş yaşandı, bazı hisseler tavan yaptı
-- Ekrem İmamoğlu'nun diploma davası duruşmasında adliyede kriz ve karmaşa yaşandı, savunma hakkı tartışıldı
+• Türkiye'de ekonomik kriz derinleşiyor, halkın çoğu gelir kaybı yaşıyor
+• Temel ihtiyaçları karşılamakta zorlananların oranı %60'ın üzerinde
+• Altın ve döviz fiyatlarındaki artış, halkı olumsuz etkiliyor
+• Altın fiyatlarında son günlerde düşüş olsa da uzmanlar bunun geçici olduğunu söylüyor
+• Ev fiyatları yüksek, inşaat maliyetleri nedeniyle düşmesi beklenmiyor
+• Polisler dahil birçok kamu çalışanı, maaşlarının enflasyon karşısında eridiğini belirtiyor
+• Polislerin promosyonları beklentinin altında kaldı, çalışma koşulları ağır
+• Merkez Bankası'nın faiz artırımı ve ekonomi politikalarına güven düşük
+• Halkın çoğu ekonominin önümüzdeki 6 ayda daha da kötüleşeceğini düşünüyor
+• Asgari ücrete zam beklentisi yüksek, %86 acil zam istiyor
+• Ekonomik sıkıntılar siyasi tercihleri etkiliyor, CHP'nin oy oranı yükselirken AK Parti'nin oy oranı düşüyor
+• Kararsız ve sandığa gitmeyen seçmen oranı yüksek, seçmenler ekonomik sorunlar nedeniyle iktidara güvenmiyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=0brA9Yy3ARU&t=616s) (⏱️ 10:16-11:32)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=AkNsmyVztyk&t=1140s) (⏱️ 19:00-22:00)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=L3U9Nu2noC4&t=3707s) (⏱️ 61:47-63:01)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=W6WUEcWhKAw) (⏱️ 00:00-23:02)
 
 ---
 
-## 4. Ekonomik Kriz ve Sağlıkta Artan Riskler
+## 4. Bülent Parlak ve Barış Atay'dan Sabotaj
 
-• Türkiye'de ekonomik sıkıntılar artıyor, firmalar ve vatandaşlar zorlanıyor
-• Asgari ücrete yapılan zamlar açlık sınırının altında kalıyor, alım gücü düşüyor
-• Vergi ve harçlarda artışlar, yeni vergi paketleri gündemde
-• Akaryakıt fiyatları yükseldi, vatandaşın ekonomik yükü arttı
-• SGK Başkanı, emeklilerin daha uzun yaşadığını ve sistemin zorlandığını açıkladı
-• Ekonomik sıkışıklık nedeniyle insanlar tasarruflarını yastık altına çekiyor
-• Kalp krizi ve pıhtı atma vakalarında artış gözlemleniyor
-• Sağlıksız yaşam, sigara, hava kirliliği ve uyuşturucu kullanımı riskleri artırıyor
-• Kalp sağlığı için yaşam tarzı değişikliği ve düzenli kontrol öneriliyor
+• Barış Atay ve Bülent Parlak'ın birlikte yazıp oynadığı 'Sabotaj' tiyatro oyunu büyük ilgi görüyor.
+• Oyun, güncel konuları mizahi bir dille ele alıyor ve seyircilerden olumlu tepkiler alıyor.
+• İkili arasında sahnede iyi bir uyum ve yoldaşlık var.
+• Bülent Parlak, İstanbul'da mütevazı bir ailede büyüdü, eğitim hayatında zorluklar yaşadı ama konservatuvara burslu kabul edildi.
+• Parlak, BKM Mutfak'ta oyunculuk eğitimi aldı ve kendi tarzını oluşturdu.
+• Türkiye'de sanatçılara yönelik siyasi baskıların arttığı, bu baskıların yaratıcılığı da tetiklediği belirtiliyor.
+• Parlak, siyasi görüşleri nedeniyle dizi sektöründe daha az yer aldığını düşünüyor, tiyatro ve sosyal medya projelerine ağırlık veriyor.
+• Ferhan Şensoy'u örnek alıyor, turnelerde ve sahnede seyirciden büyük ilgi görüyor.
+• Yurt dışında da oyunlarını sahneliyorlar, Türk seyircilerden ilgi ve umut mesajları alıyorlar.
+• Parlak'ın kızı Lisa ile yakın bir ilişkisi var, Lisa da oyuncu olmak istiyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=AkNsmyVztyk&t=3000s) (⏱️ 50:00-70:42)
-- [Hilal Koylu](https://www.youtube.com/watch?v=lQobW1SApF0&t=2188s) (⏱️ 36:28-37:18)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=oo2ne0DTxTg&t=20s) (⏱️ 00:20-01:40)
 
 ---
 
-## 5. PKK Açıklaması ve Çözüm Süreci Gelişmeleri
+## 5. Türkiye'de Ebeveynlik, Umut ve Toplumsal Kırgınlıklar
 
-- PKK'nın yarın önemli bir açıklama yapması bekleniyor
-- Açıklamanın içeriğiyle ilgili çeşitli senaryolar var
-- PKK'nın elindeki mühimmatın yerini açıklayabileceği konuşuluyor
-- Bazı PKK üyelerinin Türkiye'ye döneceği iddia ediliyor
-- Yurt dışındaki bazı önemli isimlerin de dönüşü gündemde
-- Erdoğan'ın af çağrısı yapabileceği öne sürülüyor
-- Meclis'te çözüm süreci için komisyon kuruldu, yeni yasal düzenlemeler tartışılıyor
-- Sürecin kamuoyuna dikkatli anlatılması gerektiği vurgulanıyor
-- Suriye'de YPG'nin silah bırakmaya yanaşmadığı belirtiliyor
-- 1997'de Fatih Altaylı'nın Öcalan röportajı yıllar sonra yayınlandı ve ilgi çekti
+• Türkiye'de ebeveynlerin en büyük ortak arzusu çocuklarının mutlu ve güvende olması.
+• Parlak, kız babası olarak umudunun yüksek olduğunu söylüyor.
+• Zor dönemlerin mizahla aşılacağına inanıyor.
+• Toplumda kırgınlıklar ve hayal kırıklıkları yaşanıyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=K3c3S6jxmFg&t=85s) (⏱️ 01:25-14:02)
-- [Serdar Akinan](https://www.youtube.com/watch?v=kvsOFKhnZfw) (⏱️ 00:00-04:52)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=oo2ne0DTxTg&t=2176s) (⏱️ 36:16-39:41)
 
 ---
 
-## 6. Dışişleri ve Askeriyede FETÖ Operasyonu
+## 6. Recep Tayyip Erdoğan'ın Siyasi Yükselişi ve AK Parti'nin Kuruluşu
 
-- Dışişleri Bakanlığı'nda FETÖ operasyonu düzenlendi.
-- Tel Aviv'deki maslahatgüzarın FETÖ bağlantısı tespit edildi.
-- 21'i Dışişleri'nde çalışan toplam 58 FETÖ şüphelisi yakalandı.
-- FETÖ'nün mahrem imamları, askeriyede gizlilik için özel yöntemler kullandı.
-- Askerlerin ve şüphelilerin cemaatten görünmemesi için içki içmek gibi davranışlar teşvik edildi.
-- Bazı şüpheliler sosyal medyada Atatürk ve rakı fotoğrafları paylaştı.
-- Mahrem imamlar, ilgilendikleri kişilerin sosyal ortamlarda dikkat çekmemesi için talimatlar verdi.
+• Recep Tayyip Erdoğan liderliğindeki AKP'nin 23 yıllık iktidarı anlatıldı
+• Erdoğan'ın siyasi yükselişi, cezaevi süreci ve siyasi yasakları ele alındı
+• 1997'de Siirt'te yaptığı konuşma sonrası yargılandı ve hapis cezası aldı
+• Cezaevinde özel koşullarda kaldı, destekçileri yanında oldu
+• Fazilet Partisi'nin kapanması sonrası yenilikçi ekip AK Parti'yi kurdu
+• Parti ismi ve amblemi için reklamcı Erol Olçok ile çalışıldı
+• AK Parti 2001'de kuruldu, Erdoğan siyasi yasaklı olduğu için başbakan olamadı
+• 2002 seçimlerinde AK Parti birinci parti oldu, Abdullah Gül başbakan oldu
+• Anayasa değişikliği ve Siirt seçimlerinin yenilenmesiyle Erdoğan milletvekili ve başbakan oldu
+• Erdoğan'ın yükselişiyle Türkiye'nin siyasi sistemi değişti
+• AK Parti'nin adındaki adalet ve kalkınma kavramları, günümüzde Türkiye'nin en büyük hayali olarak sunuldu
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Serdar Akinan](https://www.youtube.com/watch?v=kvsOFKhnZfw&t=1878s) (⏱️ 31:18-32:05)
+- [Onlar TV](https://www.youtube.com/watch?v=LLZn3diCW5g&t=44s) (⏱️ 00:44-15:01)
 
 ---
 
-## 7. AK Parti'de Milletvekili Geçişleri ve Parti İçi Dengeler
+## 7. Konya'da Ucuz Televizyon Satışında İzdiham
 
-• AK Parti'ye bazı milletvekillerinin geçeceği iddia edildi.
-• Üç milletvekilinin AK Parti'ye katılması bekleniyor.
-• Bağımsız milletvekillerinin bir kısmı geçmeyeceğini açıkladı.
-• AK Parti içinde reformcu bir kanat olduğu konuşuluyor.
-• Efkan Ala, özgürlüklerin korunmasını savunuyor.
-• Parti içinde güvenlikçi politikalar öne çıkıyor.
-• Reformcu kanadın parti yönetimindeki etkisi azaldı.
+• Konya'da bir markette 32 ekran televizyon 1.000 TL'ye satıldı
+• Ucuz televizyon için izdiham yaşandı
+• İnsanlar ihtiyaçlarını karşılamakta zorlanıyor
+• Ucuz ürünler için yoğun talep oluşuyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=YLyM9UaFezU&t=1149s) (⏱️ 19:09-19:54)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=sx3AkRymuHY&t=308s) (⏱️ 05:08-06:38)
 
 ---
 
-## 8. Remzi Sanver'in Tutuklanması ve Siyasi Yansımaları
+## 8. Barajlar Düşerken Ümraniye'de Su İsrafı Eleştirisi
 
-- Remzi Sanver'in tutuklanması gündemde
-- Remzi Sanver Türkiye'deki masonların önemli bir ismi
-- Tutuklanmasının siyasi bir karar olduğu düşünülüyor
-- Türkiye'de benzer davalarda hukukun değil siyasetin belirleyici olduğu vurgulanıyor
+• İstanbul'da baraj doluluk oranı %23'e düştü
+• Ümraniye Belediyesi buna rağmen sokakları köpüklü suyla yıkadı
+• Su sıkıntısı varken bu uygulama eleştirildi
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=K3c3S6jxmFg&t=3110s) (⏱️ 51:50-55:51)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=sx3AkRymuHY&t=277s) (⏱️ 04:37-04:45)
 
 ---
 
-## 9. CHP'den Dört İsmin İhraç Edilmesi
+## 9. Zeynep Talu'nun Müzik ve Yaşam Yolculuğu
 
-• Dört isim CHP'den ihraç edildi.
-• Bu durum esprili bir dille "Butlan oldu, şutlan" şeklinde yorumlandı.
-• Parti içi ayrışmalar ve ihraçlar gündeme geldi.
+• Zeynep Talu'nun günlük hayatı yoğun geçiyor, genellikle gece çalışıyor ve şehirde aktif olarak koşturuyor
+• Pandemi döneminde evde kalmak zorunda kaldı, bu süreçte kızıyla ilgilendi ve evcil hayvanlarıyla vakit geçirdi
+• Pandemi sürecinde Ferhat Göçer ile birlikte birçok şarkı üretti, üretim açısından verimli ama sosyal açıdan zordu
+• Artık sahnede de şarkı söylüyor, farklı müzisyenlerle projelerde yer alıyor ve annesi Çiğdem Talu'nun şarkılarını da seslendiriyor
+• 2026'da yeni bir albüm çıkaracak, hem kendi hem annesinin şarkıları yeni düzenlemelerle yer alacak
+• İlhamını kitap, şiir ve filmlerden alıyor, özellikle diyaloglar ve karakterler etkiliyor
+• Toplumda genel bir kaygı ve mutsuzluk olduğunu, bunun şarkı sözlerine de yansıdığını belirtiyor
+• Sanatçılar sosyal medya ve haberlerdeki olumsuzluklardan etkileniyor, bu da üretim enerjisini düşürüyor
+• Şarkı sözü yazarken genellikle müziğe söz yazıyor, nakarattan başlıyor ve doğru cümleyi bulana kadar denemeler yapıyor
+• Söz yazarlığının en sevdiği yanı şarkıların konserlerde söylenmesi, en zor yanı ise yalnız çalışmak ve büyük sorumluluk almak
+• İlham bazen beklenmedik anlarda geliyor, bazı şarkılar kolay bazıları ise çok zor yazılıyor
+• Müzisyenlerin en büyük sorunu yapay zeka ile üretilen müzikler ve telif hakları konusunda yaşanan sıkıntılar
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=YLyM9UaFezU&t=1117s) (⏱️ 18:37-19:09)
+- [Fatih Altayli](https://www.youtube.com/watch?v=LAr8zMIhI5o&t=17s) (⏱️ 00:17-01:11)
 
 ---
 
-## 10. Yüzyılın Konut Projesi ve Başvuru Şartları
+## 10. Bodrum Cup ve Kültürel Zenginlikler
 
-• Cumhurbaşkanı Erdoğan, Yüzyılın Konut Projesi'ni açıkladı.
-• 500 bin konutun 100 bini İstanbul'da, 30 bini Ankara'da, 21 bini İzmir'de, diğerleri ise çeşitli illerde yapılacak.
-• Projede gelir ve ikamet şartı var; İstanbul için hane halkı aylık net geliri en fazla 145 bin TL olmalı.
-• Başvuru bedeli 5 bin TL olarak belirlendi, ancak başvurunun kesin çıkıp çıkmayacağı belli değil.
-• Projenin detayları ve başvuru koşulları tartışılıyor.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Hilal Koylu](https://www.youtube.com/watch?v=lQobW1SApF0&t=2243s) (⏱️ 37:23-38:59)
-
----
-
-## 11. 2019 İstanbul Seçimleri: Demirtaş, Öcalan ve HDP Seçmeninin Rolü
-
-- 2019 İstanbul seçimlerinde Demirtaş'ın açıklaması Öcalan'ın çağrısından bağımsız yapılmış
-- Demirtaş, Öcalan'ın çağrısını bilmiyordu
-- HDP seçmeni İmamoğlu'na destek verdi
-- Bu durum muhalefet ve HDP arasındaki güvensizliği azalttı
-- Son dönemde Demirtaş ve Öcalan arasında gerilim olduğu iddiaları gündemde
+• Bodrum Cup yelken yarışının 37. yılı düzenleniyor
+• Yarış, denizcilik kültürünü yaymak ve gençleri yelkenciliğe teşvik etmek amacı taşıyor
+• Katılımcılar sadece yelken kullanıyor, motor yasak
+• Yarışa turistler de katılabiliyor, kabin kiralayıp deneyim yaşayabiliyorlar
+• Bodrum'da geleneksel ve modern tekneler üretiliyor, yeni nesil denizciler yetiştiriliyor
+• Yarış, bölge turizmine ve denizcilik kültürüne katkı sağlıyor
+• Şarap ve yemek kültüründe tadım, denge, zarafet ve özgünlük gibi temel faktörler konuşuldu
+• Anadolu'nun ürün ve şarap zenginliği vurgulandı, artizan üretimin önemi anlatıldı
+• Demokrasi, halk iradesinin bir aracı olarak tartışıldı ve sonuçlarına katlanılması gerektiği belirtildi
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=K3c3S6jxmFg&t=972s) (⏱️ 16:12-27:00)
-
----
-
-## 12. Ayşe Barım'ın Yakalama Kararının Kaldırılması ve Sağlık Durumu
-
-• Ayşe Barım'ın yakalama kararı kaldırıldı.
-• Barım'ın ciddi sağlık sorunları olduğu ve hastanede tedavi gördüğü belirtildi.
-• Yakalama kararı kaldırılmasına rağmen polislerin hastanede beklemeye devam ettiği aktarıldı.
-• Hakkında yeniden tutuklama kararı çıktığı için hastane odasında cezaevi koğuşu muamelesi yapıldığı ifade edildi.
-• Barım'ın Gezi davasına dahil edilmesinin anlaşılır olmadığı söylendi.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=YLyM9UaFezU&t=1057s) (⏱️ 17:37-18:37)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=yf_qi5arLQE&t=7s) (⏱️ 00:07-44:28)
+- [Onlar TV](https://www.youtube.com/watch?v=LLZn3diCW5g&t=4s) (⏱️ 00:04-00:41)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=olrnCfeoITc&t=30s) (⏱️ 00:30-22:57)
 
 ---
 
