@@ -163,7 +163,11 @@ func clusterAllStories() error {
 
 	// Split any low-coherence clusters that are too loosely grouped
 	clusters = splitLowCoherenceClusters(filteredEmbeddings, clusters)
-	log.Printf("✂️  After splitting low-coherence clusters: %d final clusters", len(clusters))
+	log.Printf("✂️  After splitting low-coherence clusters: %d clusters", len(clusters))
+
+	// Filter out clusters with only one reporter (no cross-verification)
+	clusters = filterSingleReporterClusters(clusters)
+	log.Printf("🔍 After filtering single-reporter clusters: %d final clusters", len(clusters))
 
 	// Calculate comprehensive clustering quality metrics on filtered data
 	silhouetteScore := calculateSilhouetteScore(filteredEmbeddings, clusters)
@@ -2338,6 +2342,53 @@ func calculateClusterCoherenceForCluster(stories []ClusteredStory, embeddingMap 
 	}
 
 	return totalSimilarity / float64(pairCount)
+}
+
+// filterSingleReporterClusters removes clusters that only contain stories from a single reporter
+// This ensures all remaining clusters have cross-reporter verification
+func filterSingleReporterClusters(clusters []StoryCluster) []StoryCluster {
+	var filteredClusters []StoryCluster
+	var removedCount int
+
+	for _, cluster := range clusters {
+		// Count unique reporters in this cluster
+		reporters := make(map[string]bool)
+		for _, story := range cluster.Stories {
+			reporters[story.Reporter] = true
+		}
+
+		// Keep clusters with 2+ reporters
+		if len(reporters) >= 2 {
+			filteredClusters = append(filteredClusters, cluster)
+		} else {
+			// Log removed single-reporter cluster
+			var reporterName string
+			for reporter := range reporters {
+				reporterName = reporter
+				break
+			}
+			log.Printf("🗑️  Removed single-reporter cluster: %d stories from %s only", len(cluster.Stories), reporterName)
+			removedCount++
+		}
+	}
+
+	if removedCount > 0 {
+		log.Printf("📊 Filtered out %d single-reporter clusters (keeping only cross-verified stories)", removedCount)
+	} else {
+		log.Printf("✅ All clusters have multiple reporters - no filtering needed")
+	}
+
+	// Sort clusters by size (largest first)
+	sort.Slice(filteredClusters, func(i, j int) bool {
+		return len(filteredClusters[i].Stories) > len(filteredClusters[j].Stories)
+	})
+
+	// Reassign cluster IDs after filtering and sorting
+	for i := range filteredClusters {
+		filteredClusters[i].ClusterID = i
+	}
+
+	return filteredClusters
 }
 
 // generateClusteringRecommendations provides actionable recommendations based on clustering results
