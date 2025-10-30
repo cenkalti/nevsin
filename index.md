@@ -1,226 +1,144 @@
 # Bugün Ne Oldu?
 
-*29 October 2025 tarihli günlük haber raporu - 11 haber birleştirildi*
+*30 October 2025 tarihli günlük haber raporu - 6 haber birleştirildi*
 
-## 1. İmamoğlu ve Çevresine Casusluk Soruşturması
+## 1. 29 Ekim Resepsiyonu ve Siyasi Dengeler
 
-• Ekrem İmamoğlu, kampanya direktörü Necati Özkan ve gazeteci Merdan Yanardağ'a casusluk suçlamasıyla soruşturma açıldı ve tutuklamalar yapıldı
-• Hüseyin Gün adlı veri analisti, İngiliz ajanı olmakla suçlandı; geçmişte AK Partili isimlerle de bağlantıları olduğu ortaya çıktı
-• Soruşturmanın siyasi amaçlı olup olmadığı ve delil yetersizliği tartışılıyor
-• Casusluk iddiasıyla suçlananların geçmişte farklı siyasi çevrelerle teması olduğu belirtildi
-• Soruşturma dosyasında "açık kaynak istihbaratı" (herkesin erişebildiği bilgilerden analiz) kavramı öne çıktı; gizli bilgi sızdırıldığına dair net kanıt yok
-• İddialar arasında İBB uygulamalarından veri sızdırıldığı, ancak teknik altyapının uluslararası standartlarda olduğu ve kanıt bulunamadığı vurgulandı
-• Hüseyin Gün'ün etkin pişmanlıktan yararlandığı, bazı suçlamaları reddettiği belirtildi
-• Medyada soruşturmanın asıl amacının Ekrem İmamoğlu'nu ve muhalefeti itibarsızlaştırmak olduğu iddia edildi
-• Toplumda adalet ve ekonomik sıkıntıların arttığı, hukukun araçsallaştırıldığı eleştirildi
-• Casusluk suçlamalarının siyasi tartışmalara ve muhalefet içinde bölünme iddialarına yol açtığı ifade edildi
+• 1 Ekim Meclis açılışı ve 29 Ekim Cumhuriyet Bayramı resepsiyonunda siyasi partilerin katılımı ve fotoğrafları gündem oldu
+• Cumhurbaşkanı Erdoğan, farklı partilerden liderlerle bir araya geldi, ancak CHP ve İYİ Parti bazı etkinlikleri boykot etti
+• DEM Parti'ye kurumsal davet gitmedi, sadece bireysel davet yapıldı, katılım olmadı
+• MHP lideri Devlet Bahçeli resepsiyona katılmadı, parti içinden düşük düzeyde temsil sağlandı
+• Bahçeli'nin yokluğu, AK Parti ile MHP arasında Kıbrıs ve İmralı süreci gibi konularda fikir ayrılıklarına bağlandı
+• DEVA ve Gelecek Partisi liderleri ilk kez AK Parti sonrası resepsiyona katıldı, bu durum muhalefet ve kamuoyunda tartışma yarattı
+• Babacan ve Davutoğlu'nun iktidara yakınlaşması, yeni anayasa ve Cumhurbaşkanlığı süresi gibi konularda uzlaşma arayışı olarak yorumlandı
+• Siyasi partiler arasındaki soğukluk, ittifaklarda yeni arayışlar ve muhalefetin yalnızlaştırılması stratejileri konuşuldu
+• Ekonomi yönetimiyle ilgili Babacan ve Şimşek'in görüşmesi dikkat çekti, ekonomi kulislerinde değişiklik beklentisi oluştu
+• CHP'li belediyelere yönelik operasyonlar, kayyum tartışmaları ve muhalefetin sokakta siyaset yapma çabası öne çıktı
+• AK Parti'de liderlik değişimi iddiaları, Bilal Erdoğan'ın öne çıkarılması ve yeni oluşum söylentileri gündeme geldi
+• Siyasi kutuplaşma, parti değiştiren siyasetçiler ve halkın tepkileri kamuoyunda tartışıldı
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilal Koylu](https://www.youtube.com/watch?v=DdNdWHKlqGg&t=1243s) (⏱️ 20:43-25:16)
-- [Rusen Cakir](https://www.youtube.com/watch?v=ahI7Dnk76Kk&t=29s) (⏱️ 00:29-16:55)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=ZGBZ5P8r5Ek) (⏱️ 00:00-05:49)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=DcYlHk8jNT0&t=438s) (⏱️ 07:18-10:16)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=eM2DnapDiZk&t=1121s) (⏱️ 18:41-26:38)
-- [Onlar TV](https://www.youtube.com/watch?v=N510ZiY7I5U) (⏱️ 00:00-12:17)
+- [Murat Yetkin](https://www.youtube.com/watch?v=pUjWwpdtVV8&t=142s) (⏱️ 02:22-04:42)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=6h3301L4P1Q&t=1098s) (⏱️ 18:18-19:22)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=pUweVI3eUT8&t=125s) (⏱️ 02:05-07:37)
+- [Unsal Unlu](https://www.youtube.com/watch?v=eik1aLbQzKI&t=293s) (⏱️ 04:53-08:08)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=8Hpx6gmODe8&t=20s) (⏱️ 00:20-03:10)
+- [Hilal Koylu](https://www.youtube.com/watch?v=aLSuVm7thsA&t=191s) (⏱️ 03:11-11:10)
+- [Rusen Cakir](https://www.youtube.com/watch?v=6LeN6OmdKNg&t=3s) (⏱️ 00:03-01:23)
+- [Serdar Akinan](https://www.youtube.com/watch?v=lRL5KqF3Fas&t=833s) (⏱️ 13:53-18:14)
 
 ---
 
-## 2. Cumhuriyetin 102. Yılı Coşkusu ve Mesajları
+## 2. Gebze'de Bina Çökmesi ve İhmaller Zinciri
 
-• Cumhuriyetin 102. yılı Türkiye genelinde coşkuyla kutlandı
-• İzmir ve diğer şehirlerde törenler düzenlendi, Atatürk ve silah arkadaşları anıldı
-• Umut dolu mesajlar verildi, Cumhuriyetin demokrasiyle güçlendirilmesi gerektiği vurgulandı
-• Cumhuriyetin eşit vatandaşlık ve toplumsal birlik gibi değerleri öne çıktı
-• Anıtkabir ve Taksim'deki törenlerde bazı uygulamalar ve yasaklar tartışma yarattı
-• CHP'de parti içi gelişmeler yaşandı, liderler arasında yeni bir diyalog başladı
-• MHP lideri Bahçeli, terörsüz Türkiye ve milli birlik mesajı verdi, yeni anayasa ve ana dilde eğitim konularını gündeme getirdi
-• Cumhuriyetin toplumu birleştirici rolü ve değerlerinin korunmasının önemi vurgulandı
+• Kocaeli Gebze'de 7 katlı bir bina deprem olmadan çöktü
+• Bir aile enkaz altında kaldı, iki çocuk hayatını kaybetti, bir genç kız kurtarıldı, anne-baba aranıyor
+• Binada daha önce kayma ve hasar tespit edilmiş, belediyeye bildirilmişti
+• Belediye zabıtası inceleme yapıp sorun olmadığını söylemişti
+• Bina imarda 5 katlı görünürken gerçekte 7 katlıydı, izinsiz kat çıkıldığı belirtildi
+• Metro inşaatının zeminde kaymaya yol açtığı iddia edildi
+• Binanın ruhsatı ve iskanı belediyeler tarafından verilmişti
+• Olayda denetim eksikliği ve ihmaller zinciri olduğu öne sürüldü
+• Soruşturma geç başlatıldı, sorumluların kim olacağı tartışılıyor
+• Medyanın olayı yüzeysel ve eksik aktardığı eleştirildi
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=DcYlHk8jNT0) (⏱️ 00:00-00:43)
-- [Unsal Unlu](https://www.youtube.com/watch?v=ccTB5j-shFY&t=79s) (⏱️ 01:19-22:56)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=xWvcgEGjxs8&t=220s) (⏱️ 03:40-07:04)
-- [Hilal Koylu](https://www.youtube.com/watch?v=DdNdWHKlqGg&t=1745s) (⏱️ 29:05-31:52)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=6h3301L4P1Q&t=1395s) (⏱️ 23:15-24:06)
+- [Unsal Unlu](https://www.youtube.com/watch?v=vVQTXLZdNuU&t=698s) (⏱️ 11:38-16:06)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=qPQTQLUqmCM&t=594s) (⏱️ 09:54-19:14)
+- [Hilal Koylu](https://www.youtube.com/watch?v=aLSuVm7thsA&t=123s) (⏱️ 02:03-03:01)
 
 ---
 
-## 3. Hacettepe'de Öğrencilere Saldırı ve Gözaltı
+## 3. Cumhuriyet Bayramı Coşkusu ve Tartışmalar
 
-• Hacettepe Üniversitesi'nde öğrenciler, yemekhane rezervasyon uygulamasına karşı eylem yaptı
-• Eylemler sırasında öğrencilere palalı ve döner bıçaklı saldırı düzenlendi
-• Saldırganların kimliği henüz belirlenemedi
-• Saldırıya uğrayan 5 öğrenci gözaltına alındı
-• Savcı, öğrencilerin ifadesini almadan tutuklama talebiyle mahkemeye sevk etti
-• Olaylarda gözaltına alınan 6 saldırganın da adliyeye çıkarılması bekleniyor
-• Üniversitede güvenlik önlemlerinin yetersiz olduğu eleştirildi
-• İstanbul Üniversitesi öğrencileri de Hacettepe'ye destek verdi
-• Üniversitelerde artan şiddet ve baskı ortamı eleştirildi
-• İçişleri Bakanı'ndan henüz açıklama gelmedi
+• 29 Ekim Cumhuriyet Bayramı tüm yurtta büyük coşkuyla kutlandı
+• Anıtkabir'e yüz binlerce kişi akın etti, halkın katılımı dikkat çekti
+• Kutlamalarda gençler ve çocuklar öne çıktı, fener alayları ve konserler düzenlendi
+• Bazı şirketlerin ve medyanın Cumhuriyet mesajları samimiyetsiz bulundu
+• AK Parti'nin yapay zekayla hazırlattığı Atatürk videosu ve taşımalı katılım uygulamaları eleştirildi
+• Anıtkabir'de Erdoğan lehine sloganlar tartışma yarattı, siyasi sloganlara tepki gösterildi
+• Atatürk sevgisi sosyal medyada ve toplumda güçlü şekilde hissedildi
+• Cumhuriyetin temel değerleri, demokrasi ve laiklik vurgulandı
+• Cumhurbaşkanlığı hükümet sistemi ve kutuplaşma eleştirildi
+• TOGG ve Altay tankı gibi üretim projeleri üzerinden Cumhuriyetin kazanımları ve özelleştirme tartışıldı
+• Yapay zeka ile Atatürk görsellerinin yaygınlaşması ve orijinalliğin korunması gerektiği belirtildi
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilal Koylu](https://www.youtube.com/watch?v=DdNdWHKlqGg&t=1979s) (⏱️ 32:59-34:31)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=yxrJK4xNmS0&t=3471s) (⏱️ 57:51-59:37)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=6h3301L4P1Q) (⏱️ 00:00-01:37)
+- [Unsal Unlu](https://www.youtube.com/watch?v=eik1aLbQzKI&t=38s) (⏱️ 00:38-01:31)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=8Hpx6gmODe8&t=960s) (⏱️ 16:00-20:30)
+- [Hilal Koylu](https://www.youtube.com/watch?v=aLSuVm7thsA&t=25s) (⏱️ 00:25-01:42)
 
 ---
 
-## 4. Gazze'de Ateşkes İhlalleri ve Yeniden İnşa Tartışması
+## 4. Almanya Başbakanı'nın Türkiye Temasları
 
-• İsrail ve Hamas arasında ateşkes ilan edildi.
-• Ateşkes defalarca ihlal edildi, saldırılar sürüyor.
-• İsrail, Refah'taki patlamayı gerekçe göstererek Gazze'ye yeniden saldırdı.
-• Hamas saldırıyla ilgisi olmadığını açıkladı.
-• Her iki taraf da birbirini ateşkesi bozmakla suçluyor.
-• ABD, İsrail'e ateşkesi ihlal etmemesi için baskı yapıyor.
-• İsrail, ABD onayı olmadan büyük operasyon yapamıyor.
-• Gazze'de insani durum çok kötü, yardım az da olsa arttı.
-• Gazze'nin yeniden inşası için uluslararası planlar tartışılıyor.
-• ABD ve bölge ülkeleri yeniden inşa konusunda anlaşamıyor.
-• Suudi Arabistan ve Körfez ülkeleri, yükün paylaşılmasını istiyor.
+• Almanya Başbakanı Türkiye'yi ziyaret etti
+• Görüşmelerde göçmenler, savunma sanayi ve ekonomi öne çıktı
+• Eurofighter savaş uçaklarının Türkiye'ye satışı gündeme geldi
+• Almanya, Türkiye'ye iltica edenlerin çoğunu ekonomik göçmen olarak görüyor
+• Almanya, bu kişileri topluca Türkiye'ye iade etmek istiyor, Türkiye karşı çıkıyor
+• Vize kolaylığı ve gümrük birliği güncellemesi konularında ilerleme beklenmiyor
+• Türkiye'nin AB üyeliği için kısa vadede gelişme öngörülmüyor
+• Mecliste Terörsüz Türkiye Komisyonu tartışmalı şekilde çalışıyor
+• Komisyonun İmralı'ya gidip gitmeyeceği ve Abdullah Öcalan'ın dinlenmesi tartışılıyor
+• PKK'nın çekilme ve silah bırakma açıklamaları gündemde
+• Cumhurbaşkanı Erdoğan, Almanya Başbakanı ve İmralı heyetiyle görüşmeler yapacak
+• Avrupa'nın Türkiye'ye bakışı güvenlik ve savunma işbirliğine odaklanıyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=DcYlHk8jNT0&t=1257s) (⏱️ 20:57-22:30)
-- [Rusen Cakir](https://www.youtube.com/watch?v=m7OAMRuWmw8&t=45s) (⏱️ 00:45-07:22)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=6h3301L4P1Q&t=1588s) (⏱️ 26:28-28:01)
+- [Murat Yetkin](https://www.youtube.com/watch?v=pUjWwpdtVV8) (⏱️ 00:00-02:21)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=pUweVI3eUT8&t=3722s) (⏱️ 62:02-70:37)
+- [Hilal Koylu](https://www.youtube.com/watch?v=aLSuVm7thsA&t=1938s) (⏱️ 32:18-33:24)
 
 ---
 
-## 5. Hakemlerde Bahis Skandalı Gündemde
+## 5. Futbolda Bahis Skandalı Büyüyor
 
-• TFF, bahis oynayan hakemleri açıkladı
-• TFF Başkanı, 571 hakemden 371'inin bahis hesabı olduğunu söyledi
-• Hakemlerin bahis oynaması suç olarak değerlendirildi
-• Bu durum futbolun güvenilirliğini zedeliyor
-• Futbolseverler ve kulüpler bu durumdan rahatsız
-• Soruşturma Nisan ayından beri sürüyor, çok sayıda maç oynandı
-• Hakemlerin bu davranışı şike şüphesi doğuruyor ve adaletsizlik eleştirileri yapılıyor
+• Türkiye'de futbolda büyük bir bahis skandalı ortaya çıktı
+• 152 hakem hakkında bahis oynadıkları iddiasıyla soruşturma başlatıldı
+• Federasyon, emniyet, MASAK ve MİT birlikte soruşturma yürütüyor
+• Bazı hakemler görevden alındı, bazıları ise maç yönetmeye devam etti
+• Merkez Hakem Kurulu Başkanı ve Zorbay Küçük'ün de bahis hesabı olduğu iddia edildi
+• Soruşturmanın futbolcular ve alt lig kulüp başkanlarına da uzanabileceği belirtildi
+• Yasa dışı bahis operasyonlarında milyonlarca liralık hesaplara el konuldu
+• Skandal futbol camiasında büyük tepki topladı, liglerin durdurulması tartışılıyor
+• Olay, sporun güvenilirliği ve ahlaki bozulma konularında endişe yarattı
+• Skandalın boyutunun büyüyebileceği ve ağır cezaların gündeme gelebileceği vurgulandı
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=DcYlHk8jNT0&t=616s) (⏱️ 10:16-12:00)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=eM2DnapDiZk&t=1623s) (⏱️ 27:03-29:27)
-- [Hilal Koylu](https://www.youtube.com/watch?v=DdNdWHKlqGg&t=253s) (⏱️ 04:13-18:43)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=6h3301L4P1Q&t=1681s) (⏱️ 28:01-30:33)
+- [Hilal Koylu](https://www.youtube.com/watch?v=aLSuVm7thsA&t=1052s) (⏱️ 17:32-29:02)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=pUweVI3eUT8&t=3347s) (⏱️ 55:47-62:02)
+- [Unsal Unlu](https://www.youtube.com/watch?v=eik1aLbQzKI&t=750s) (⏱️ 12:30-13:16)
 
 ---
 
-## 6. Türkiye'nin Eurofighter Alımı ve Batı ile Yakınlaşma
+## 6. ABD Küresel Gerilimlerde Başrolde
 
-• İngiltere ve Almanya başbakanları Türkiye'yi ziyaret etti.
-• Ziyaretlerin ana gündemi savunma sanayi işbirliği ve Eurofighter savaş uçağı alımı oldu.
-• Türkiye, İngiltere ve diğer ülkelerden toplam 42-44 Eurofighter savaş uçağı alıyor.
-• Uçakların toplam bedeli yaklaşık 10.7 milyar dolar olarak açıklandı.
-• Eurofighter'lar, F35'ten daha düşük teknolojiye sahip ancak bölgedeki rakiplerinden daha iyi.
-• Türkiye'nin F16 Block 70 alımı da onaylandı, ancak teslimatlar uzun sürecek.
-• Yerli savaş uçağı KAAN'ın ise 2028'de envantere girmesi bekleniyor.
-• Almanya daha önce satışa engel olmuştu, son dönemde bu blokajı kaldırdı.
-• Türkiye'nin savunma sanayisinde dışa bağımlılığı azaltmak için bu tür alımlar yaptığı vurgulandı.
-• Batı ülkeleri, Türkiye ile ilişkilerde artık demokrasi ve insan hakları yerine ekonomik ve savunma çıkarlarını ön plana çıkarıyor.
-• Avrupa'da aşırı sağın yükselmesi ve Rusya'nın Ukrayna'ya saldırısı, savunma işbirliğini daha önemli hale getirdi.
-• Türkiye, Avrupa için hem savunma partneri hem de göçmen politikalarında önemli bir ülke olarak görülüyor.
-• Batılı liderler, Türkiye'deki siyasi iktidarın değişebileceğini ve yeni yönetimlerle de çalışabileceklerini düşünüyor.
+• ABD, Venezuela'ya ait gemileri uyuşturucu taşıdığı gerekçesiyle vurdu, 57 kişi hayatını kaybetti
+• Amerikan istihbaratı, Venezuela lideri Maduro'nun pilotunu ikna etmeye çalıştı, 50 milyon dolar teklif edildi, pilot reddetti
+• Bu tür casusluk girişimleri Trump ve Biden dönemlerinde de sürdü
+• ABD ile Çin arasında liderler düzeyinde kritik görüşme yapıldı
+• Görüşmede ticaret, nadir toprak elementleri ve nükleer testler konuşuldu
+• Trump, Çin'e uygulanan gümrük vergilerini düşürdü
+• Çin, nadir toprak elementleri ihracat kısıtlamalarını erteledi
+• Nadir toprak elementleri çip üretimi için çok önemli, çoğu Çin'de bulunuyor
+• Trump, ABD'nin nükleer testlere başlaması gerektiğini söyledi
+• Çin, ABD'ye fentanil üretimi ve kaçakçılığı konusunda önlem alacağını belirtti
+• Görüşme sonrası piyasalar olumlu tepki verdi, ancak uzun vadede belirsizlik sürüyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Murat Yetkin](https://www.youtube.com/watch?v=elSEFQ1bpkw&t=34s) (⏱️ 00:34-12:06)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=DcYlHk8jNT0&t=930s) (⏱️ 15:30-17:00)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=eM2DnapDiZk&t=560s) (⏱️ 09:20-18:40)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=yxrJK4xNmS0&t=37s) (⏱️ 00:37-48:04)
-- [Rusen Cakir](https://www.youtube.com/watch?v=8JdHgZ10mPk&t=2s) (⏱️ 00:02-15:11)
-
----
-
-## 7. Siyasi Partilerde İstifalar ve İttifak Tartışmaları
-
-• AK Parti ve CHP'de istifalar ve parti içi sorunlar yaşanıyor
-• AK Parti'de İstanbul ve 9 ilde başkanlar istifa etti, neden olarak başarısızlık ve destek eksikliği gösterildi
-• Bayrampaşa'da iki CHP'li meclis üyesi, belediye başkanını yolsuzlukla suçlayıp partiden ayrıldı ve AK Parti'yi desteklemeye başladı
-• Aydın ve Ankara'da belediye başkanları konserleri iptal etti, halktan ve muhalefetten tepkiler geldi
-• Cumhuriyet Bayramı kutlamalarında bazı etkinlikler iptal edildi, sade kutlamalar yapıldı
-• CHP, Cumhuriyet resepsiyonuna katılmayıp Kadıköy'de miting düzenledi
-• Milliyetçi cephede yeni siyasi ittifaklar ve Mansur Yavaş'ın adaylığı tartışılıyor
-• Cumhurbaşkanlığı seçimlerinde çoklu adaylık ve yeni ittifak senaryoları gündemde
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=DcYlHk8jNT0&t=720s) (⏱️ 12:00-12:55)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=yxrJK4xNmS0&t=3619s) (⏱️ 60:19-60:45)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=xWvcgEGjxs8&t=516s) (⏱️ 08:36-09:25)
-- [Hilal Koylu](https://www.youtube.com/watch?v=DdNdWHKlqGg&t=1546s) (⏱️ 25:46-28:06)
-
----
-
-## 8. Davutoğlu ve Babacan'ın Siyasi Hamleleri
-
-• Ahmet Davutoğlu, devletin önemli noktalarına hakim iki kişiden biri olduğunu söyledi
-• Bu açıklama, AK Parti'ye dönmek istediği şeklinde yorumlandı
-• Davutoğlu, ülke için görev teklif edilirse kabul edebileceğini belirtti
-• Ali Babacan'ın da AK Parti'ye dönüşü ve hükümete destek ihtimali tartışılıyor
-• Babacan, Erdoğan'la kişisel sorunu olmadığını, yönetim tarzı nedeniyle ayrıldığını söyledi
-• Küçük partilerin başkanlık sisteminde etkisinin azaldığı, yeni siyasi hizalanmalar olabileceği konuşuluyor
-• Çözüm süreci ve PKK'lılara af tartışmaları yeniden gündemde
-• Uzmanlar, geçmişteki isyanlarla bugünkü sürecin farklı olduğunu vurguluyor
-• Konu, siyasi arenada ve kamuoyunda çok tartışılıyor
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=DcYlHk8jNT0&t=840s) (⏱️ 14:00-15:30)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=eM2DnapDiZk&t=1768s) (⏱️ 29:28-40:12)
-
----
-
-## 9. Altay Tankı Töreninde Tartışmalar ve TOGG
-
-• Altay tankı teslim töreni düzenlendi.
-• Törende limuzin TOGG aracı dikkat çekti ve sosyal medyada konuşuldu.
-• Limuzin TOGG'un tasarımı golf arabalarına benzetildi.
-• Cumhurbaşkanı Erdoğan törende konuşma yaptı.
-• Erdoğan, Türkiye'nin 25 yıl önce toplu iğne bile üretemediğini söyledi.
-• Bu açıklama siyasiler ve kamuoyunda tartışma yarattı.
-• Muhalefet, Türkiye'nin geçmişte sanayi ve fabrika sahibi olduğunu hatırlattı.
-• 1951'de ilk toplu iğne fabrikasının kurulduğu belirtildi.
-• Cumhuriyet dönemindeki sanayi başarılarına vurgu yapıldı.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=DcYlHk8jNT0&t=255s) (⏱️ 04:15-04:50)
-- [Hilal Koylu](https://www.youtube.com/watch?v=DdNdWHKlqGg&t=93s) (⏱️ 01:33-04:12)
-
----
-
-## 10. Karadağ'da Türk Vatandaşlarına Saldırı
-
-• Karadağ'da Türk vatandaşlarına yönelik gösteriler ve saldırılar yaşandı
-• Türklerin Karadağ'da kendilerini sahipsiz hissettiği belirtildi
-• Bir kavga sonrası Türklerin çalıştığı kasinoya saldırı düzenlendi
-• Olayda bir Karadağlı hafif yaralandı
-• Karadağ, olayların ardından Türk vatandaşlarına vize uygulamasını askıya aldı
-• Türkiye'nin vatandaşlarına sahip çıkması gerektiği vurgulandı
-• Karadağ'ın AB üyeliği sürecinde vizeyi kaldırması bekleniyordu
-• Karadağ'da mafya faaliyetlerinin yaygın olduğu ifade edildi
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=DcYlHk8jNT0&t=1183s) (⏱️ 19:43-20:57)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=eM2DnapDiZk&t=2441s) (⏱️ 40:41-44:06)
-
----
-
-## 11. Kamu Binalarında Atatürk ve Erdoğan Posterleri
-
-• Cumhuriyetin 102. yılı kutlamalarında yeni bir uygulama başlatıldı
-• TSK, bakanlıklar ve okullarda Atatürk ve Cumhurbaşkanı Erdoğan'ın fotoğrafları birlikte asıldı
-• Kamu binalarının dış cephelerine Türk bayrağı, Atatürk ve Erdoğan posterleri yerleştirildi
-• Bu uygulama daha önce bazı bakanlıklarda vardı, şimdi tüm kamu ve askeri binalara yayıldı
-• Bazı kişiler bu durumu Erdoğan'ın Atatürk'e alternatif gösterilmesi olarak yorumladı
-• Geçmişte milli bayramlarda sadece Atatürk'ün fotoğrafı asılıyordu
-• Uygulama tartışmalara yol açtı ve gereksiz bulundu
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=DcYlHk8jNT0&t=43s) (⏱️ 00:43-02:40)
-- [Hilal Koylu](https://www.youtube.com/watch?v=DdNdWHKlqGg&t=1134s) (⏱️ 18:54-20:07)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=8Hpx6gmODe8&t=1810s) (⏱️ 30:10-33:14)
+- [Serdar Akinan](https://www.youtube.com/watch?v=lRL5KqF3Fas&t=1110s) (⏱️ 18:30-24:03)
 
 ---
 
