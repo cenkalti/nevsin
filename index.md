@@ -1,144 +1,193 @@
 # Bugün Ne Oldu?
 
-*30 October 2025 tarihli günlük haber raporu - 6 haber birleştirildi*
+*31 October 2025 tarihli günlük haber raporu - 9 haber birleştirildi*
 
-## 1. 29 Ekim Resepsiyonu ve Siyasi Dengeler
+## 1. 29 Ekim Resepsiyonu ve Çözüm Süreci Gündemi
 
-• 1 Ekim Meclis açılışı ve 29 Ekim Cumhuriyet Bayramı resepsiyonunda siyasi partilerin katılımı ve fotoğrafları gündem oldu
-• Cumhurbaşkanı Erdoğan, farklı partilerden liderlerle bir araya geldi, ancak CHP ve İYİ Parti bazı etkinlikleri boykot etti
-• DEM Parti'ye kurumsal davet gitmedi, sadece bireysel davet yapıldı, katılım olmadı
-• MHP lideri Devlet Bahçeli resepsiyona katılmadı, parti içinden düşük düzeyde temsil sağlandı
-• Bahçeli'nin yokluğu, AK Parti ile MHP arasında Kıbrıs ve İmralı süreci gibi konularda fikir ayrılıklarına bağlandı
-• DEVA ve Gelecek Partisi liderleri ilk kez AK Parti sonrası resepsiyona katıldı, bu durum muhalefet ve kamuoyunda tartışma yarattı
-• Babacan ve Davutoğlu'nun iktidara yakınlaşması, yeni anayasa ve Cumhurbaşkanlığı süresi gibi konularda uzlaşma arayışı olarak yorumlandı
-• Siyasi partiler arasındaki soğukluk, ittifaklarda yeni arayışlar ve muhalefetin yalnızlaştırılması stratejileri konuşuldu
-• Ekonomi yönetimiyle ilgili Babacan ve Şimşek'in görüşmesi dikkat çekti, ekonomi kulislerinde değişiklik beklentisi oluştu
-• CHP'li belediyelere yönelik operasyonlar, kayyum tartışmaları ve muhalefetin sokakta siyaset yapma çabası öne çıktı
-• AK Parti'de liderlik değişimi iddiaları, Bilal Erdoğan'ın öne çıkarılması ve yeni oluşum söylentileri gündeme geldi
-• Siyasi kutuplaşma, parti değiştiren siyasetçiler ve halkın tepkileri kamuoyunda tartışıldı
+• 29 Ekim Cumhuriyet Bayramı resepsiyonu ve siyasi mesajlar gündem oldu
+• Resepsiyona bazı partiler katıldı, MHP lideri Bahçeli katılmadı ve bu durum ittifakta çatlak iddialarına yol açtı
+• DEM Parti resepsiyona davet edilmedi, Babacan ve Davutoğlu'nun katılımı muhalefette tartışıldı
+• Cumhur İttifakı'nda MHP-AK Parti arasında Kıbrıs ve devlet atamaları gibi konularda görüş ayrılıkları yaşanıyor
+• Çözüm süreci yeniden gündeme geldi, PKK Türkiye'den çekildiğini açıkladı
+• DEM Parti, Öcalan ile görüşme ve eve dönüş için yasal düzenleme talep etti
+• Cumhurbaşkanı Erdoğan, DEM İmralı heyetini kabul etti, komisyonun İmralı ile teması tartışılıyor
+• Çözüm Komisyonu, İrlanda modelini incelemek için Dublin'e gidiyor
+• Selahattin Demirtaş, çözüm sürecinin yanlış yürütüldüğünü ve toplumsal desteğin sağlanmadığını eleştirdi
+• Ekonomik sıkıntılar ve siyasi transferler de gündemde yer aldı
+• Sürecin başarısı Türkiye'nin demokrasisi ve toplumsal barışı için kritik görülüyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Murat Yetkin](https://www.youtube.com/watch?v=pUjWwpdtVV8&t=142s) (⏱️ 02:22-04:42)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=6h3301L4P1Q&t=1098s) (⏱️ 18:18-19:22)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=pUweVI3eUT8&t=125s) (⏱️ 02:05-07:37)
-- [Unsal Unlu](https://www.youtube.com/watch?v=eik1aLbQzKI&t=293s) (⏱️ 04:53-08:08)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=8Hpx6gmODe8&t=20s) (⏱️ 00:20-03:10)
-- [Hilal Koylu](https://www.youtube.com/watch?v=aLSuVm7thsA&t=191s) (⏱️ 03:11-11:10)
-- [Rusen Cakir](https://www.youtube.com/watch?v=6LeN6OmdKNg&t=3s) (⏱️ 00:03-01:23)
-- [Serdar Akinan](https://www.youtube.com/watch?v=lRL5KqF3Fas&t=833s) (⏱️ 13:53-18:14)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=03d8Ze56Sew&t=4s) (⏱️ 00:04-04:08)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=kA0gvxDKDWo&t=539s) (⏱️ 08:59-22:05)
+- [Rusen Cakir](https://www.youtube.com/watch?v=5wcdvG_mQkI&t=1665s) (⏱️ 27:45-46:56)
+- [Hilal Koylu](https://www.youtube.com/watch?v=mKWmz5jfgO0&t=624s) (⏱️ 10:24-23:21)
 
 ---
 
-## 2. Gebze'de Bina Çökmesi ve İhmaller Zinciri
+## 2. Tele1 ve Terebir'e Kayyum Tepkisi
 
-• Kocaeli Gebze'de 7 katlı bir bina deprem olmadan çöktü
-• Bir aile enkaz altında kaldı, iki çocuk hayatını kaybetti, bir genç kız kurtarıldı, anne-baba aranıyor
-• Binada daha önce kayma ve hasar tespit edilmiş, belediyeye bildirilmişti
-• Belediye zabıtası inceleme yapıp sorun olmadığını söylemişti
-• Bina imarda 5 katlı görünürken gerçekte 7 katlıydı, izinsiz kat çıkıldığı belirtildi
-• Metro inşaatının zeminde kaymaya yol açtığı iddia edildi
-• Binanın ruhsatı ve iskanı belediyeler tarafından verilmişti
-• Olayda denetim eksikliği ve ihmaller zinciri olduğu öne sürüldü
-• Soruşturma geç başlatıldı, sorumluların kim olacağı tartışılıyor
-• Medyanın olayı yüzeysel ve eksik aktardığı eleştirildi
+- Tele1 ve Terebir televizyonlarına kayyum atandı.
+- Her iki kanalda da çok sayıda çalışan topluca istifa etti.
+- İstifa edenler tazminat haklarından feragat etti.
+- Tele1'in sahibi Merdan Yanardağ'ın tek gelir kaynağı kanal olarak belirtildi.
+- Tele1'in YouTube arşivleri kısa süreliğine silindi, sonra geri geldi.
+- Çalışanların geleceği ve tazminat hakları belirsizliğini koruyor.
+- Medya özgürlüğü ve çeşitliliği açısından bu gelişmeler endişe yarattı.
+- Muhalif medyanın önemli kurumlarının kapatılması toplumsal tepkiyle karşılanmadı.
+- Gazetecilerin işsiz kalması ve meslek dayanışmasının zayıflığı vurgulandı.
+- Medya üzerindeki baskıların toplumun haber alma hakkını etkilediği belirtildi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=6h3301L4P1Q&t=1395s) (⏱️ 23:15-24:06)
-- [Unsal Unlu](https://www.youtube.com/watch?v=vVQTXLZdNuU&t=698s) (⏱️ 11:38-16:06)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=qPQTQLUqmCM&t=594s) (⏱️ 09:54-19:14)
-- [Hilal Koylu](https://www.youtube.com/watch?v=aLSuVm7thsA&t=123s) (⏱️ 02:03-03:01)
+- [Rusen Cakir](https://www.youtube.com/watch?v=5wcdvG_mQkI&t=2816s) (⏱️ 46:56-52:49)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=9oSTYL7h0N0&t=1564s) (⏱️ 26:04-30:19)
+- [Unsal Unlu](https://www.youtube.com/watch?v=NRtWR_rsrxo&t=32s) (⏱️ 00:32-25:44)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=kA0gvxDKDWo&t=1312s) (⏱️ 21:52-27:21)
 
 ---
 
-## 3. Cumhuriyet Bayramı Coşkusu ve Tartışmalar
+## 3. İBB ve CHP'li Belediyelere Soruşturma Dalgası
 
-• 29 Ekim Cumhuriyet Bayramı tüm yurtta büyük coşkuyla kutlandı
-• Anıtkabir'e yüz binlerce kişi akın etti, halkın katılımı dikkat çekti
-• Kutlamalarda gençler ve çocuklar öne çıktı, fener alayları ve konserler düzenlendi
-• Bazı şirketlerin ve medyanın Cumhuriyet mesajları samimiyetsiz bulundu
-• AK Parti'nin yapay zekayla hazırlattığı Atatürk videosu ve taşımalı katılım uygulamaları eleştirildi
-• Anıtkabir'de Erdoğan lehine sloganlar tartışma yarattı, siyasi sloganlara tepki gösterildi
-• Atatürk sevgisi sosyal medyada ve toplumda güçlü şekilde hissedildi
-• Cumhuriyetin temel değerleri, demokrasi ve laiklik vurgulandı
-• Cumhurbaşkanlığı hükümet sistemi ve kutuplaşma eleştirildi
-• TOGG ve Altay tankı gibi üretim projeleri üzerinden Cumhuriyetin kazanımları ve özelleştirme tartışıldı
-• Yapay zeka ile Atatürk görsellerinin yaygınlaşması ve orijinalliğin korunması gerektiği belirtildi
+• İstanbul'da CHP'li belediyeler ve İBB hakkında yolsuzluk, rüşvet, casusluk ve veri sızıntısı iddiaları gündemde
+• Ekrem İmamoğlu ve bazı belediye çalışanları hakkında soruşturmalar yürütülüyor
+• İmamoğlu'nun avukatı Mehmet Pehlivan ve bazı isimler tutuklandı, bazıları ise serbest bırakıldı
+• Esenyurt Belediye Başkanı Ahmet Özer'in tutukluluğu bir yılı geçti, CHP bu duruma tepki gösteriyor
+• Soruşturmalarda etkin pişmanlık ifadeleri kullanılıyor, ancak bu ifadelerin doğruluğu tartışmalı
+• Savcılık, milyonlarca verinin sızdırıldığını iddia etti, ancak iddiaların dayanağı zayıf ve ifadelerde çelişkiler var
+• Soruşturmaların siyasi saiklerle yürütüldüğü ve yargı sistemine güvenin azaldığı öne sürülüyor
+• CHP, mitinglerle kamuoyu oluşturuyor ve siyasi baskıya dikkat çekiyor
+• İddianamelerin yakında açıklanması ve davaların başlaması bekleniyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=6h3301L4P1Q) (⏱️ 00:00-01:37)
-- [Unsal Unlu](https://www.youtube.com/watch?v=eik1aLbQzKI&t=38s) (⏱️ 00:38-01:31)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=8Hpx6gmODe8&t=960s) (⏱️ 16:00-20:30)
-- [Hilal Koylu](https://www.youtube.com/watch?v=aLSuVm7thsA&t=25s) (⏱️ 00:25-01:42)
+- [Onlar TV](https://www.youtube.com/watch?v=kYR7ySfFNVs&t=40s) (⏱️ 00:40-07:01)
+- [Hilal Koylu](https://www.youtube.com/watch?v=mKWmz5jfgO0&t=1405s) (⏱️ 23:25-28:16)
+- [Rusen Cakir](https://www.youtube.com/watch?v=5wcdvG_mQkI&t=13s) (⏱️ 00:13-04:02)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=9oSTYL7h0N0&t=1060s) (⏱️ 17:40-26:04)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=03d8Ze56Sew&t=513s) (⏱️ 08:33-15:37)
 
 ---
 
 ## 4. Almanya Başbakanı'nın Türkiye Temasları
 
-• Almanya Başbakanı Türkiye'yi ziyaret etti
-• Görüşmelerde göçmenler, savunma sanayi ve ekonomi öne çıktı
-• Eurofighter savaş uçaklarının Türkiye'ye satışı gündeme geldi
-• Almanya, Türkiye'ye iltica edenlerin çoğunu ekonomik göçmen olarak görüyor
-• Almanya, bu kişileri topluca Türkiye'ye iade etmek istiyor, Türkiye karşı çıkıyor
-• Vize kolaylığı ve gümrük birliği güncellemesi konularında ilerleme beklenmiyor
-• Türkiye'nin AB üyeliği için kısa vadede gelişme öngörülmüyor
-• Mecliste Terörsüz Türkiye Komisyonu tartışmalı şekilde çalışıyor
-• Komisyonun İmralı'ya gidip gitmeyeceği ve Abdullah Öcalan'ın dinlenmesi tartışılıyor
-• PKK'nın çekilme ve silah bırakma açıklamaları gündemde
-• Cumhurbaşkanı Erdoğan, Almanya Başbakanı ve İmralı heyetiyle görüşmeler yapacak
-• Avrupa'nın Türkiye'ye bakışı güvenlik ve savunma işbirliğine odaklanıyor
+• Almanya Başbakanı Türkiye'yi ziyaret etti ve Cumhurbaşkanı Erdoğan ile görüştü
+• Görüşmelerde Türkiye'nin AB üyeliği, Kopenhag kriterleri ve yargı bağımsızlığı gündeme geldi
+• Almanya, Türkiye'nin AB üyeliği için hukuk devleti ve demokrasi eksiklerini vurguladı
+• Türkiye'nin AB üyeliği yerine stratejik ortaklık ve yeni bir model önerildi
+• Erdoğan, Türkiye'nin kendi kriterleri olduğunu ve yargının bağımsız işlediğini söyledi
+• Alman gazeteciler, Ekrem İmamoğlu'nun tutukluluğu ve hukuk sorunlarını sordu
+• Almanya, İsrail-Gazze geriliminde İsrail'in yanında olduğunu belirtti
+• Almanya Başbakanı'nın kendi bavulunu taşıması sosyal medyada tartışma yarattı
+• Bu davranış, liderlik ve itibar anlayışındaki farkları gündeme getirdi
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=6h3301L4P1Q&t=1588s) (⏱️ 26:28-28:01)
-- [Murat Yetkin](https://www.youtube.com/watch?v=pUjWwpdtVV8) (⏱️ 00:00-02:21)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=pUweVI3eUT8&t=3722s) (⏱️ 62:02-70:37)
-- [Hilal Koylu](https://www.youtube.com/watch?v=aLSuVm7thsA&t=1938s) (⏱️ 32:18-33:24)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=kA0gvxDKDWo&t=338s) (⏱️ 05:38-08:59)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=9oSTYL7h0N0&t=252s) (⏱️ 04:12-11:15)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=03d8Ze56Sew&t=1161s) (⏱️ 19:21-28:31)
+- [Hilal Koylu](https://www.youtube.com/watch?v=mKWmz5jfgO0&t=98s) (⏱️ 01:38-06:47)
 
 ---
 
-## 5. Futbolda Bahis Skandalı Büyüyor
+## 5. Futbol ve Bahiste Büyük Skandal
 
-• Türkiye'de futbolda büyük bir bahis skandalı ortaya çıktı
-• 152 hakem hakkında bahis oynadıkları iddiasıyla soruşturma başlatıldı
-• Federasyon, emniyet, MASAK ve MİT birlikte soruşturma yürütüyor
-• Bazı hakemler görevden alındı, bazıları ise maç yönetmeye devam etti
-• Merkez Hakem Kurulu Başkanı ve Zorbay Küçük'ün de bahis hesabı olduğu iddia edildi
-• Soruşturmanın futbolcular ve alt lig kulüp başkanlarına da uzanabileceği belirtildi
-• Yasa dışı bahis operasyonlarında milyonlarca liralık hesaplara el konuldu
-• Skandal futbol camiasında büyük tepki topladı, liglerin durdurulması tartışılıyor
-• Olay, sporun güvenilirliği ve ahlaki bozulma konularında endişe yarattı
-• Skandalın boyutunun büyüyebileceği ve ağır cezaların gündeme gelebileceği vurgulandı
+• Türkiye'de yasa dışı bahis, futbol şikesi ve kara para aklama büyük bir sorun haline geldi
+• 150'den fazla hakemin bahis oynadığı, bazılarına uzun süreli ceza verildiği açıklandı
+• Hakemler, kulüp başkanları ve futbolcuların bahis skandalına karıştığı iddia edildi
+• TFF, 350 hakemin bahis sitelerine üye olduğunu tespit etti ve disiplin kuruluna sevk etti
+• Bahis skandalının uluslararası boyutu olabileceği, FIFA ve UEFA'nın da ilgilendiği belirtildi
+• Yasa dışı bahis baronlarının futbol ve devletle bağlantıları olduğu iddia edildi
+• Bazı siyasi isimlerin ve devlet yetkililerinin de soruşturmalarda adı geçti
+• Merkez Bankası rezervlerinden milyarlarca doların kaybolduğu iddiası gündeme geldi
+• Soruşturmaların siyasi hesaplaşmalarla bağlantılı olabileceği öne sürüldü
+• Yasa dışı bahis ve kara para aklama, futbolun ve ülkenin güvenilirliğini zedeliyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=6h3301L4P1Q&t=1681s) (⏱️ 28:01-30:33)
-- [Hilal Koylu](https://www.youtube.com/watch?v=aLSuVm7thsA&t=1052s) (⏱️ 17:32-29:02)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=pUweVI3eUT8&t=3347s) (⏱️ 55:47-62:02)
-- [Unsal Unlu](https://www.youtube.com/watch?v=eik1aLbQzKI&t=750s) (⏱️ 12:30-13:16)
+- [Unsal Unlu](https://www.youtube.com/watch?v=NRtWR_rsrxo&t=2412s) (⏱️ 40:12-53:38)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=9oSTYL7h0N0&t=1819s) (⏱️ 30:19-32:08)
+- [Onlar TV](https://www.youtube.com/watch?v=kYR7ySfFNVs&t=2026s) (⏱️ 33:46-87:26)
 
 ---
 
-## 6. ABD Küresel Gerilimlerde Başrolde
+## 6. Kadına Şiddet ve Toplumsal Duyarsızlık
 
-• ABD, Venezuela'ya ait gemileri uyuşturucu taşıdığı gerekçesiyle vurdu, 57 kişi hayatını kaybetti
-• Amerikan istihbaratı, Venezuela lideri Maduro'nun pilotunu ikna etmeye çalıştı, 50 milyon dolar teklif edildi, pilot reddetti
-• Bu tür casusluk girişimleri Trump ve Biden dönemlerinde de sürdü
-• ABD ile Çin arasında liderler düzeyinde kritik görüşme yapıldı
-• Görüşmede ticaret, nadir toprak elementleri ve nükleer testler konuşuldu
-• Trump, Çin'e uygulanan gümrük vergilerini düşürdü
-• Çin, nadir toprak elementleri ihracat kısıtlamalarını erteledi
-• Nadir toprak elementleri çip üretimi için çok önemli, çoğu Çin'de bulunuyor
-• Trump, ABD'nin nükleer testlere başlaması gerektiğini söyledi
-• Çin, ABD'ye fentanil üretimi ve kaçakçılığı konusunda önlem alacağını belirtti
-• Görüşme sonrası piyasalar olumlu tepki verdi, ancak uzun vadede belirsizlik sürüyor
+• Beyoğlu'nda bir adam, bir kadına tasma takıp sokakta dolaştırdı
+• Olayın videosu sosyal medyada yayıldı ve büyük tepki çekti
+• Adam tutuklandı, olay toplumda değer değişimini ve duyarsızlığı gündeme getirdi
+• Türkiye'de kadına yönelik şiddet yaygın ve sıkça haber oluyor
+• Şiddet olaylarının çoğu aile içinden veya yakın çevreden kaynaklanıyor
+• Toplumda şiddeti normalleştiren bakış açıları var
+• İstanbul Sözleşmesi'nden çekilmek şiddet vakalarını artırdı
+• Yasal yaptırımlar çoğu zaman caydırıcı olmuyor
+• Dijital ve psikolojik şiddet de artış gösteriyor
+• Şiddet mağdurları adalete güvenmiyor
+• Medyada şiddet görüntülerinin yayılması toplumsal duyarsızlığa yol açıyor
+• Şiddetin önlenmesi için toplumsal, bireysel ve yasal önlemler alınmalı
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Nevsin Mengu](https://www.youtube.com/watch?v=8Hpx6gmODe8&t=1810s) (⏱️ 30:10-33:14)
-- [Serdar Akinan](https://www.youtube.com/watch?v=lRL5KqF3Fas&t=1110s) (⏱️ 18:30-24:03)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=9oSTYL7h0N0&t=816s) (⏱️ 13:36-15:45)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=WqQ4nLN8Uq4&t=71s) (⏱️ 01:11-25:29)
+
+---
+
+## 7. Adalet ve Güvenlikte Mağduriyet Tartışması
+
+• Saraçhane davasında yargılanan 110 gençten 109'u beraat etti
+• Gençler uzun süre tutuklu kaldı, eğitim ve iş hayatları olumsuz etkilendi
+• Aileler ve gençler mağduriyet yaşadı, tutukluluk süresi sorgulandı
+• Gebze'de metro inşaatı sırasında 7 katlı bina çöktü
+• Bir aile hayatını kaybetti
+• Komşular, binadaki çatlakları önceden CİMER'e bildirdi
+• Metro inşaatının etkisi ve sorumlular araştırılıyor
+• Ulaştırma Bakanı'ndan açıklama bekleniyor
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Bahar Feyzan](https://www.youtube.com/watch?v=kA0gvxDKDWo&t=1825s) (⏱️ 30:25-32:06)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=9oSTYL7h0N0&t=945s) (⏱️ 15:45-17:40)
+
+---
+
+## 8. Tarikat ve Vakıf Yapılarının Devletteki Etkisi
+
+• TÜGVA ve bazı tarikatların devletin çeşitli kademelerinde örgütlendiği iddia ediliyor.
+• TÜGVA'nın başında Bilal Erdoğan'ın olduğu ve vakfın devlet içinde etkili olduğu öne sürülüyor.
+• Vakfa ait bir araçta uzun namlulu silahlar bulunduğu iddiası var.
+• TÜGVA'nın okullardan çocukları seçip kendi ideolojisine göre yetiştirdiği iddia ediliyor.
+• Öğretmenlerin vakıf tarafından maaşa bağlandığı ve çocukları yönlendirdiği belirtiliyor.
+• Vakfın hakim, savcı ve kamu personeli yerleştirdiği, bu kişilerin vakfa bağlı kaldığı öne sürülüyor.
+• WhatsApp yazışmalarında belge saklama, bilgisayar temizleme ve bilgi sızdıranları tehdit etme gibi konuşmalar olduğu iddia ediliyor.
+• Tarikatların polis, jandarma, milli eğitim ve sağlık bakanlığında etkili olduğu öne sürülüyor.
+• Tarikatların büyük servetlere sahip olduğu ve kendi aralarında çatışmalar yaşadığı belirtiliyor.
+• Tarikat yurtlarında kalan çocukların çağdaş eğitimden uzaklaştığı vurgulanıyor.
+• Bilimsel ve çağdaş eğitimin önemi, çocukların aydınlık bir geleceğe ulaşması için desteklenmesi gerektiği ifade ediliyor.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Onlar TV](https://www.youtube.com/watch?v=kYR7ySfFNVs&t=5246s) (⏱️ 87:26-92:18)
+- [Serdar Akinan](https://www.youtube.com/watch?v=YeYUcF0aE5Q) (⏱️ 00:00-20:42)
+
+---
+
+## 9. Yargıtay ve Yeni Şafak Arasında Gerilim
+
+• Yargıtay üyesi Abdullah Yaman ile Yeni Şafak gazetesi arasında tartışma çıktı
+• Yaman, gazetenin bazı yargı kararlarını etkilemeye çalıştığını iddia etti
+• Yeni Şafak'ın iddialarına Yaman sert yanıt verdi
+• Bu tartışma, MHP ile AK Parti arasındaki çekişmeyle ilişkilendirildi
+• MHP, kamu çalışanlarına refah payı verilmesini teklif etti
+• AK Parti ile MHP arasında bazı anlaşmazlıklar olduğu belirtildi
+• Grand Kartal Otel davasında avukat, müvekkilinin akıl sağlığıyla ilgili açıklama yaptı
+• Davada Kültür ve Turizm Bakanı'nın sorumluluğu da gündeme geldi
+• Türk Petrolleri'nde 1 milyar TL'yi aşan akaryakıt kaybı nedeniyle üç yönetici tutuklandı
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Nevsin Mengu](https://www.youtube.com/watch?v=03d8Ze56Sew&t=937s) (⏱️ 15:37-19:21)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=kA0gvxDKDWo&t=4713s) (⏱️ 78:33-84:55)
 
 ---
 
