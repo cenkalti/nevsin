@@ -1,220 +1,140 @@
 # Bugün Ne Oldu?
 
-*3 November 2025 tarihli günlük haber raporu - 11 haber birleştirildi*
+*4 November 2025 tarihli günlük haber raporu - 7 haber birleştirildi*
 
-## 1. AK Parti İktidarında 23 Yıl ve Siyasi Gündem Değişimi
+## 1. Bahçeli'den Demirtaş ve İmralı Açılımı
 
-• AK Parti 2002'de %34 oyla iktidara geldi, 23 yıldır ülkeyi yönetiyor.
-• Bu süreçte siyasi sistem değişti, cumhurbaşkanı artık %50 oyla seçiliyor.
-• AK Parti'nin iktidarıyla çift kutuplu siyasi yapı ve kutuplaşma arttı.
-• Ekonomik ve sosyal sorunlar büyüdü, yoksulluk ve yardıma muhtaçlık arttı.
-• Hukuk devleti, ifade özgürlüğü ve adalet konularında gerileme yaşandı.
-• AK Parti'nin eski kadroları ve yeni partiler (DEVA, Gelecek) siyasi etkisini kaybetti, bazı isimlerin AK Parti'ye dönüşü tartışılıyor.
-• Yerel yönetimlerde parti değişiklikleri ve atamalar gündemde, Bayrampaşa ve Beykoz örnekleri öne çıktı.
-• Gençler siyasete ve liderlere mesafeli, demokrasi ve liyakat beklentisi yüksek.
-• Cumhur İttifakı'nda (AK Parti-MHP) gerilimler arttı, güç paylaşımı ve çözüm süreci tartışmaları yaşanıyor.
-• MHP lideri Bahçeli'nin açıklamaları ve Öcalan'la görüşme iddiaları siyasi gündemi belirliyor.
-• Kürt sorunu ve çözüm süreci yeniden gündemde, İmralı'ya heyet gönderilmesi ve yeni yasal düzenlemeler konuşuluyor.
-• Selahattin Demirtaş'ın mesajları ve Kürt hareketi içindeki rolü tartışılıyor.
-• Sosyal yardımların siyasi araç olarak kullanıldığı, toplumun bağımlı hale geldiği eleştiriliyor.
+• Devlet Bahçeli, Selahattin Demirtaş'ın tahliyesini açıkça destekledi ve İmralı'ya (Abdullah Öcalan) milletvekili heyeti gönderilmesine hazır olduklarını açıkladı.
+• Bahçeli'nin bu çıkışı, geçmişteki sert söylemleriyle çeliştiği için siyasette şaşkınlık yarattı ve çözüm sürecinde yeni bir aşamaya geçildiği yorumları yapıldı.
+• MHP'nin İmralı heyetine katılma isteği, AK Parti ve CHP'nin de sürece dahil olmasını gündeme getirdi; CHP içinde ise bu konuda görüş ayrılıkları yaşanıyor.
+• Demirtaş'ın tahliyesi için Avrupa İnsan Hakları Mahkemesi'nin (AİHM) hak ihlali kararı kesinleşti, Türkiye'nin itirazı reddedildi; gözler hükümetin karara uyup uymayacağına çevrildi.
+• DEM Parti ve muhalefet, Demirtaş ve diğer siyasi tutukluların serbest bırakılmasını isterken, hükümetin tahliyeyi geciktirdiği ve siyasi riskleri gözettiği öne sürülüyor.
+• Bahçeli'nin açıklamaları, Cumhur İttifakı'nda gerilim ve güç dengesi tartışmalarını artırdı; Erdoğan'ın süreci yavaşlattığı, Bahçeli'nin ise hızlandırmak istediği belirtiliyor.
+• İmralı'ya heyet gönderilmesi, Öcalan'a meşruiyet kazandıracağı ve çözüm sürecini kolaylaştıracağı için sembolik ve siyasi açıdan önemli görülüyor.
+• Barış sürecinin lider odaklı değil, demokratik reformlar ve sivil aktörlerin katılımıyla yürütülmesi gerektiği vurgulanıyor.
+• CHP Genel Başkanı Özgür Özel, geçmişte dokunulmazlıkların kaldırılmasına verdikleri destek için özür diledi; Demirtaş ve muhalefet, yeni bir sayfa açılması ve barış için destek çağrısı yaptı.
+• Siyasi partilerde ve kamuoyunda Demirtaş'ın rolü, Kürt hareketinin geleceği ve çözüm sürecinin toplumsal desteği tartışılıyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=HywvB11LnPQ&t=37s) (⏱️ 00:37-01:59)
-- [Rusen Cakir](https://www.youtube.com/watch?v=HioETxv3drY&t=1974s) (⏱️ 32:54-36:08)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=Ue7r9HgCBo8&t=1025s) (⏱️ 17:05-26:00)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=oAmaRtF3pA8&t=1824s) (⏱️ 30:24-41:27)
-- [Murat Yetkin](https://www.youtube.com/watch?v=9piNBiDrJ0A&t=29s) (⏱️ 00:29-01:18)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=kyKfaYeOmiw&t=3456s) (⏱️ 57:36-59:26)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=jT9I-rigoG0&t=206s) (⏱️ 03:26-05:04)
-- [Serdar Akinan](https://www.youtube.com/watch?v=phmmWryJ3YA&t=652s) (⏱️ 10:52-22:16)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=-kX4dYt9_fk&t=145s) (⏱️ 02:25-10:05)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=PgX3YHFQxlk&t=494s) (⏱️ 08:14-22:26)
+- [Rusen Cakir](https://www.youtube.com/watch?v=0uJ0dgAIdnM&t=16s) (⏱️ 00:16-29:47)
+- [Unsal Unlu](https://www.youtube.com/watch?v=40Wf2gah7ac&t=846s) (⏱️ 14:06-20:34)
+- [Serdar Akinan](https://www.youtube.com/watch?v=Ch7t4R7AoQM&t=531s) (⏱️ 08:51-10:36)
+- [Hilal Koylu](https://www.youtube.com/watch?v=Bw-TQfBK3Rk&t=806s) (⏱️ 13:26-19:29)
+- [Murat Yetkin](https://www.youtube.com/watch?v=6oervdhHvxE&t=16s) (⏱️ 00:16-14:05)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=EjV6u_in2vg&t=536s) (⏱️ 08:56-10:00)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=JSzek5dPSrs&t=79s) (⏱️ 01:19-01:20)
+- [Onlar TV](https://www.youtube.com/watch?v=_bSXCveemCo&t=226s) (⏱️ 03:46-13:18)
 
 ---
 
-## 2. Ekim Enflasyonu ve Zam Yağmuru
+## 2. Enflasyon ve Zamlar Geçim Krizini Derinleştiriyor
 
-- TÜİK Ekim ayı enflasyonunu %2.55, yıllık %32.87 olarak açıkladı
-- ENAG ve İTO gibi kurumlar daha yüksek enflasyon oranları duyurdu (ENAG %60, İTO %40.84)
-- Yeniden değerleme oranı %25.49 oldu, bu oranla vergi, harç ve cezalar 2026'da artacak
-- Yurt dışı çıkış harcı, IMEI kayıt ücreti, pasaport harcı ve trafik cezaları yükselecek
-- Gıda, eğitim, konut ve enerji fiyatlarında ciddi artışlar yaşanıyor
-- Doğalgaz ve elektrik faturaları iki katına çıkabiliyor, devlet desteği azaldı
-- Alım gücü düşüyor, maaşlara yapılan zamlar yetersiz kalıyor
-- Devlet yardımına muhtaç hane sayısı %63 arttı, 11 milyon kişi yardımla geçiniyor
-- Türkiye'de her 7 kişiden biri yardıma muhtaç durumda
-- Vergi gelirleri artarken gelir dağılımı adaletsiz, kamu harcamalarında israf ve şeffaflık eksikliği var
-- Ekonomide güven sorunu büyüyor, yapısal reformlar öneriliyor
-- Ekonomi yönetiminde isim değişikliği tartışmaları gündemde, ancak sorunların yapısal olduğu vurgulanıyor
-- Toplumda yoksulluk ve açlık sınırı yükseliyor, sosyal yardımlara olan ihtiyaç artıyor
+• Türkiye'de enflasyon yüksek, TÜİK %32.87, ENAG %60 olarak açıkladı
+• Asgari ücretin alım gücü yıl başından bu yana 6.000 TL eridi, maaşlar enflasyon karşısında yetersiz
+• Memur ve emekli maaşlarına %21 zam yapılacak, ancak vergi, harç ve cezalara %25 zam geldi
+• Gelir vergisi dilimi düşük tutuldu, çalışanlar daha fazla vergi ödeyecek
+• Temel tüketim ürünlerinde yüksek vergi (ÖTV, KDV) ve yeni zamlar gündemde
+• Bütçe açığı büyüdü, ek vergiler ve harç artışları planlanıyor
+• Pasaport, telefon kayıt, araç muayenesi ve MTV gibi kalemlerde ciddi zamlar var
+• Sosyal yardıma bağımlı hane sayısı arttı, genç işsizlik ve yoksulluk yükseldi
+• Kamu harcamalarında israf ve vergi gelirlerinin adaletsiz dağılımı eleştiriliyor
+• Ekonomide yapısal reform, şeffaflık ve adalet talepleri öne çıkıyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=HywvB11LnPQ&t=122s) (⏱️ 02:02-02:54)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=jT9I-rigoG0&t=21s) (⏱️ 00:21-03:26)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=kyKfaYeOmiw&t=271s) (⏱️ 04:31-33:53)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=oAmaRtF3pA8&t=2490s) (⏱️ 41:30-61:52)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=EjV6u_in2vg&t=1251s) (⏱️ 20:51-23:13)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=-kX4dYt9_fk&t=3272s) (⏱️ 54:32-80:41)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=JSzek5dPSrs&t=1653s) (⏱️ 27:33-37:50)
+- [Unsal Unlu](https://www.youtube.com/watch?v=ugVKn3zhIQ8&t=2041s) (⏱️ 34:01-34:21)
+- [Hilal Koylu](https://www.youtube.com/watch?v=Bw-TQfBK3Rk&t=1939s) (⏱️ 32:19-36:13)
 
 ---
 
-## 3. Gündemde Skandal, Soruşturma ve Davalar
+## 3. Türkiye'de Güvenlik ve Afet Endişesi Artıyor
 
-- Todx'in kurucusu Faruk Fatih Özer cezaevinde ölü bulundu
-- Todx skandalı bahis ve kripto para ile para aklama iddialarını gündeme getirdi
-- Skandalın futbolculara ve spor camiasına uzanabileceği konuşuluyor
-- Futbol Federasyonu Başkanı'nın açıklamaları ve medyada siyasetçilerin suçlularla fotoğrafları tartışıldı
-- Süleyman Soylu'nun Todx sonrası açıklamaları ve fotoğraf üzerinden suçlama eleştirildi
-- İBB soruşturmasında avukat Mehmet Pehlivan'ın tutuklanması ve ifade çelişkileri gündeme geldi
-- Esenyurt Belediye Başkanı Ahmet Özer hakkında terör örgütü üyeliği davası açıldı, 7,5-15 yıl hapis isteniyor
-- Sandıklı'da sokak köpeklerinin toplu öldürülmesi ve Kaş'ta mermer ocağına karşı çevre mücadelesi yaşandı
-- Tuncay Özkan'ın Bahar'a açtığı hakaret davası İzmir'de görülüyor, dava konusu CHP ve Anka Ajansı ile ilgili iddialar
+- Türkiye'de son günlerde deprem, bina çökmesi ve uçak acil inişi gibi güvenlik sorunları yaşandı
+- Balıkesir Sındırgı'da sık sık depremler oluyor, hasarlı evlerin boşaltılması gerektiği belirtildi
+- Depremler İzmir, Bursa ve İstanbul'dan da hissedildi, Türkiye'nin depreme hazırlıklı olmadığı vurgulandı
+- Gebze'de bir bina çöktü, aynı aileden dört kişi hayatını kaybetti
+- Bina altından geçen metro inşaatı ve yeraltı suyu çekilmesi nedeniyle zeminde boşluk oluştuğu tespit edildi
+- Kamulaştırma ve çatlak uyarıları dikkate alınmamış, vatandaşların şikayetleri sonuçsuz kalmış
+- AJet'in Köln-İstanbul seferinde uçakta acil iniş paniği yaşandı, yolcular korku dolu anlar yaşadı
+- Uçağın bir gün önce de acil iniş yaptığı ortaya çıktı, şirketin açıklaması yetersiz bulundu
+- Tüm olaylar, Türkiye'de afet ve güvenlik önlemlerinin yetersizliğini gündeme getirdi
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=HywvB11LnPQ&t=552s) (⏱️ 09:12-11:14)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=jT9I-rigoG0&t=1583s) (⏱️ 26:23-28:15)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=oAmaRtF3pA8&t=40s) (⏱️ 00:40-07:02)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=EjV6u_in2vg&t=1690s) (⏱️ 28:10-29:00)
+- [Unsal Unlu](https://www.youtube.com/watch?v=ugVKn3zhIQ8&t=831s) (⏱️ 13:51-14:20)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=PgX3YHFQxlk&t=2523s) (⏱️ 42:03-49:45)
 
 ---
 
-## 4. Atatürk Havalimanı Tartışmaları Sürüyor
+## 4. Adalet ve Kadına Şiddet Tartışmaları
 
-• Atatürk Havalimanı kapatıldı ve millet bahçesine dönüştürüldü.
-• Pistlerin kullanılamaz hale gelmesi eleştirildi.
-• Havalimanının kapatılması milli servet kaybı olarak görüldü.
-• İşletmeci şirkete 389 milyon euro erken fesih tazminatı ödendi.
-• Bu ödeme kamu zararı olarak değerlendirildi.
-• Kararın siyasi bir inatlaşma sonucu alındığı iddia edildi.
-• CHP'li belediyelere yapılan operasyonlarda daha düşük kamu zararları gerekçe gösteriliyor.
+• Akademisyen Eda Saraç, polisle tartıştıktan sonra gözaltına alındı ve tutuklandı
+• Saraç'ın darp edildiği ve şiddet gördüğü iddia edildi
+• Cezaevinden izinli çıkan bir kişi Erzurum'da bir kadını öldürdü, ardından intihar etti
+• Her iki olay da polis şiddeti, adalet sistemi ve kadınlara yönelik şiddet tartışmalarını gündeme getirdi
+• Toplumda güvenlik ve adalet konularında endişeler arttı
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Nevsin Mengu](https://www.youtube.com/watch?v=Ue7r9HgCBo8&t=858s) (⏱️ 14:18-17:05)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=jT9I-rigoG0&t=722s) (⏱️ 12:02-13:33)
+- [Onlar TV](https://www.youtube.com/watch?v=_bSXCveemCo&t=1177s) (⏱️ 19:37-24:18)
+- [Unsal Unlu](https://www.youtube.com/watch?v=ugVKn3zhIQ8&t=1757s) (⏱️ 29:17-29:38)
 
 ---
 
-## 5. Sanatçılarda Yoksulluk ve Emeklilik Sorunu
+## 5. İsrail'de İnsan Hakları İhlalleri Gündemde
 
-- 81 yaşındaki sanatçı Bilge Şen, Altın Portakal Film Festivali'nde yoksulluk ve düşük maaşlardan bahsetti
-- Sanatçıların düşük ücretlerle çalıştığı ve sosyal güvencelerinin yetersiz olduğu vurgulandı
-- Sanatçılar, emeklilikte geçim sıkıntısı yaşadıklarını belirtti
-- Devletin sanat politikaları ve sanatçılara verilen değerin azaldığı eleştirildi
-- Tiyatro sanatçısı Ferahnur Barut, son dönemde sanatçılara baskının arttığını söyledi
-- Türkiye'de emeklilik sistemi ve birikim yapamama sorunları gündeme geldi
-- Sanatçıların yaşadığı ekonomik ve sosyal zorluklar jenerasyonlar boyunca devam ediyor
+- İsrail'de bir askerin Filistinli bir esire tecavüz ettiği ortaya çıktı
+- Bu olayı ortaya çıkaran başsavcı Yifat Tomer Yeruşalmi, hükümet baskısı nedeniyle istifa etti ve gözaltına alındı
+- Olay, insanlık suçu olarak nitelendirildi ve büyük tepki çekti
+- İsrail'in Gazze'ye yönelik saldırılarında çocuk ölümleri devam ediyor
+- Ateşkes iddialarına rağmen saldırılar sürüyor
+- Netanyahu'nun ABD'den aldığı destekle saldırılara devam ettiği öne sürülüyor
+- İşkence ve insan hakları ihlallerini ifşa edenlere yönelik baskı arttı
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=HywvB11LnPQ&t=999s) (⏱️ 16:39-19:37)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=jT9I-rigoG0&t=1926s) (⏱️ 32:06-36:23)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=Ue7r9HgCBo8&t=385s) (⏱️ 06:25-10:42)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=EjV6u_in2vg&t=1593s) (⏱️ 26:33-28:10)
+- [Unsal Unlu](https://www.youtube.com/watch?v=ugVKn3zhIQ8&t=2113s) (⏱️ 35:13-35:34)
 
 ---
 
-## 6. Kamuda İsraf ve TÜGVA İddiaları
+## 6. CHP Kurultayında Ceza Davası Açıldı
 
-- TÜGVA ile ilgili kamu kaynaklarının kişisel çıkarlar için kullanıldığı iddiaları gündemde
-- 15 Temmuz'da kaybolan silahlar ve TÜGVA'ya ait araçların olaylarda kullanıldığı öne sürüldü
-- TÜGVA Ağrı İl Başkanı'nın çalışmadan maaş aldığı ve kamu kurumlarında nüfuz kullandığı iddia edildi
-- Bağış toplama ve mazot yardımlarının amacı dışında kullanıldığı belirtildi
-- Kamuda tasarruf tedbirlerinin uygulanmadığı, araç ve bina kiralamalarının arttığı eleştirildi
-- Türkiye Petrolleri'nin yüksek bedelle helikopter kiralaması ve yolsuzluk iddiaları gündeme geldi
-- Kamuda denetim eksikliği ve kaynak israfı eleştiriliyor
+- CHP'nin 38. Olağan Kurultayı'na ilişkin açılan iptal davası reddedildi
+- Kurultay davası, Anayasa Mahkemesi'nden gelecek dosya beklenerek ertelendi
+- Kurultayda oy karşılığı menfaat sağlandığı iddiasıyla 12 kişi hakkında ceza davası açıldı
+- Bu kişiler için 1-3 yıl hapis ve siyasi yasak talep ediliyor
+- Ceza davasının ilk duruşması Ankara 26. Asliye Ceza Mahkemesi'nde yapılacak
+- Konu, kamuoyunda eskiye göre daha az ilgi görüyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=HywvB11LnPQ&t=473s) (⏱️ 07:53-07:56)
-- [Serdar Akinan](https://www.youtube.com/watch?v=phmmWryJ3YA&t=12s) (⏱️ 00:12-07:53)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=jT9I-rigoG0&t=813s) (⏱️ 13:33-15:35)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=EjV6u_in2vg&t=1217s) (⏱️ 20:17-20:51)
+- [Unsal Unlu](https://www.youtube.com/watch?v=ugVKn3zhIQ8&t=2245s) (⏱️ 37:25-37:44)
 
 ---
 
-## 7. Türkiye'nin Dış Politikada Zorlu Gündemi
+## 7. ABD ve Türkiye'de Seçim Gündemi
 
-- ABD ve Türkiye arasındaki ilişkilerde İsrail ve Gazze konusu öne çıkıyor
-- ABD'li yetkililer, Türkiye ile İsrail'in doğrudan savaşmayacağını belirtti
-- Türkiye'nin Gazze'deki ateşkes sürecinde önemli rol oynadığı vurgulandı
-- Türkiye, İsrail'in Gazze'ye yönelik operasyonunu kınadı ve 2 Mayıs 2024'te İsrail ile ticareti durdurdu
-- Türk askerinin Gazze'ye gönderilmesi tartışılıyor, bazı gazeteciler bu öneriyi eleştirdi
-- ABD'nin Suriye'de PKK'yı tanıyacağı iddiaları gündeme geldi
-- Sudan'da çatışmalar ve katliamlar yaşanıyor, Türkiye'nin Sudan'daki adası ve bölgedeki altın rezervleri nedeniyle olaylara dahil olabileceği iddia edildi
-- Türkiye'nin dış politikası ve tepkisizliği bazı çevrelerce eleştiriliyor
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Unsal Unlu](https://www.youtube.com/watch?v=HywvB11LnPQ&t=1810s) (⏱️ 30:10-30:40)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=oAmaRtF3pA8&t=1578s) (⏱️ 26:18-29:07)
-
----
-
-## 8. Diploma Tartışmaları ve Büyükelçi Ataması Türkiye Gündeminde
-
-• Hakan Fidan'ın yüksek lisans diploması ve denkliği tartışma konusu oldu.
-• Eski büyükelçi Namık Tan, Fidan'ın yeterli diploması olmadığını iddia etti.
-• Fidan'ın yurt dışı diplomasının denkliği geç geldiği halde Bilkent'te yüksek lisansa kabul edildiği belirtildi.
-• Bu tartışmalar AK Parti içinde Fidan'a yönelik eleştirileri artırdı.
-• Saray siyasetinde şeffaflık eksikliği ve iç rekabetin bu tür haberleri tetiklediği ifade edildi.
-• Ekrem İmamoğlu'nun diploması ile ilgili de usulsüzlük iddiaları gündeme geldi.
-• YÖK, daha önce usulsüzlük olmadığını açıklamıştı.
-• Türkiye'nin Suriye'ye yeni büyükelçi olarak Nuh Yılmaz'ı ataması konuşuluyor.
-• Nuh Yılmaz'ın istihbarat geçmişi ve Hakan Fidan'a yakınlığı vurgulandı.
+- New York'ta Zohran Mamdani'nin seçimlerdeki durumu tartışılıyor
+- Mamdani'nin Arapça paylaşımı ve Trump'ın eleştirileri gündemde
+- ABD'de seçim bölgelerinin yeniden belirlenmesi konuşuluyor
+- Ara seçimlerde Trump'ın etkisi sorgulanıyor
+- Türkiye'de Ali Babacan, Gaziosmanpaşa'da miting yaptı
+- Babacan, ekonomik sıkıntılar ve toplumsal sorunlara değindi
+- Babacan'ın siyasi konuşma tarzı tartışıldı
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=HioETxv3drY&t=1267s) (⏱️ 21:07-22:20)
-- [Unsal Unlu](https://www.youtube.com/watch?v=HywvB11LnPQ&t=1302s) (⏱️ 21:42-22:27)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=jT9I-rigoG0&t=935s) (⏱️ 15:35-17:25)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=Ue7r9HgCBo8&t=1905s) (⏱️ 31:45-35:35)
-
----
-
-## 9. Devlet ve Toplumda Güven Tartışmaları
-
-• Susurluk kazası sonrası devlet, siyaset ve mafya ilişkileri gündeme geldi.
-• Olay, Türkiye'de derin devlet tartışmalarını başlattı.
-• Güllü Hanım'ın ölümüyle ilgili yeni bilgiler ortaya çıktı.
-• Güllü Hanım iki kez KADES'ten yardım istedi, ancak şikayetçi olmadı.
-• Şiddet iddiaları arasında aile bireyleri de yer aldı.
-• Her iki olayda da devletin kurumları ve bireyler arasındaki ilişkiler sorgulanıyor.
-• Toplumda adalet ve güvenlik mekanizmalarının işleyişi tartışılıyor.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=jT9I-rigoG0&t=600s) (⏱️ 10:00-12:02)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=kyKfaYeOmiw&t=4009s) (⏱️ 66:49-68:21)
-
----
-
-## 10. Özgür Özel İstanbul Maratonu'nda
-
-- İstanbul Maratonu'na CHP Genel Başkanı Özgür Özel katıldı
-- Özgür Özel, 15 kilometrelik parkuru tamamladı
-- Maraton sırasında eğitim vakıfları için milyonlarca lira bağış toplandı
-- Toplanan bağışlarla birçok öğrenciye burs verilecek
-- Maratona katılan siyasi liderler yeni jenerasyonun göstergesi olarak değerlendirildi
-- Ekrem İmamoğlu'nun maratona katılamadığı belirtildi
-- Tutuklu yerel yöneticiler ve kayyum uygulamaları tartışıldı
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Nevsin Mengu](https://www.youtube.com/watch?v=Ue7r9HgCBo8&t=20s) (⏱️ 00:20-03:06)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=jT9I-rigoG0&t=1741s) (⏱️ 29:01-29:31)
-- [Unsal Unlu](https://www.youtube.com/watch?v=HywvB11LnPQ&t=1185s) (⏱️ 19:45-21:08)
-
----
-
-## 11. Sosyal Medyanın Etkisi Tartışılıyor
-
-• Sosyal medyada son dönemde spekülatif ve doğrulanmamış haberler artıyor
-• Bu haberlerin bazıları yurt dışı kaynaklı ve Fethullahçılıkla ilişkili hesaplardan geliyor
-• Geçmişte Fuat Avni olayında olduğu gibi, bu tür içeriklerin siyaseti etkilememesi gerektiği vurgulanıyor
-• Sosyal medyanın toplum üzerindeki etkisi, Engin Çağlar'ın cenazesinde selfie çekme alışkanlığı üzerinden de tartışıldı
-• Uzmanlar, sosyal medya içeriklerine eleştirel yaklaşılması gerektiğini belirtiyor
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Nevsin Mengu](https://www.youtube.com/watch?v=Ue7r9HgCBo8&t=2644s) (⏱️ 44:04-45:37)
-- [Rusen Cakir](https://www.youtube.com/watch?v=JGlhdD-XGjo&t=25s) (⏱️ 00:25-12:14)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=JSzek5dPSrs&t=2270s) (⏱️ 37:50-45:36)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=PgX3YHFQxlk&t=3002s) (⏱️ 50:02-53:43)
 
 ---
 
