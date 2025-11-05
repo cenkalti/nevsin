@@ -1,140 +1,173 @@
 # Bugün Ne Oldu?
 
-*4 November 2025 tarihli günlük haber raporu - 7 haber birleştirildi*
+*5 November 2025 tarihli günlük haber raporu - 8 haber birleştirildi*
 
-## 1. Bahçeli'den Demirtaş ve İmralı Açılımı
+## 1. Demirtaş Tahliyesi ve Çözüm Süreci Gündemi
 
-• Devlet Bahçeli, Selahattin Demirtaş'ın tahliyesini açıkça destekledi ve İmralı'ya (Abdullah Öcalan) milletvekili heyeti gönderilmesine hazır olduklarını açıkladı.
-• Bahçeli'nin bu çıkışı, geçmişteki sert söylemleriyle çeliştiği için siyasette şaşkınlık yarattı ve çözüm sürecinde yeni bir aşamaya geçildiği yorumları yapıldı.
-• MHP'nin İmralı heyetine katılma isteği, AK Parti ve CHP'nin de sürece dahil olmasını gündeme getirdi; CHP içinde ise bu konuda görüş ayrılıkları yaşanıyor.
-• Demirtaş'ın tahliyesi için Avrupa İnsan Hakları Mahkemesi'nin (AİHM) hak ihlali kararı kesinleşti, Türkiye'nin itirazı reddedildi; gözler hükümetin karara uyup uymayacağına çevrildi.
-• DEM Parti ve muhalefet, Demirtaş ve diğer siyasi tutukluların serbest bırakılmasını isterken, hükümetin tahliyeyi geciktirdiği ve siyasi riskleri gözettiği öne sürülüyor.
-• Bahçeli'nin açıklamaları, Cumhur İttifakı'nda gerilim ve güç dengesi tartışmalarını artırdı; Erdoğan'ın süreci yavaşlattığı, Bahçeli'nin ise hızlandırmak istediği belirtiliyor.
-• İmralı'ya heyet gönderilmesi, Öcalan'a meşruiyet kazandıracağı ve çözüm sürecini kolaylaştıracağı için sembolik ve siyasi açıdan önemli görülüyor.
-• Barış sürecinin lider odaklı değil, demokratik reformlar ve sivil aktörlerin katılımıyla yürütülmesi gerektiği vurgulanıyor.
-• CHP Genel Başkanı Özgür Özel, geçmişte dokunulmazlıkların kaldırılmasına verdikleri destek için özür diledi; Demirtaş ve muhalefet, yeni bir sayfa açılması ve barış için destek çağrısı yaptı.
-• Siyasi partilerde ve kamuoyunda Demirtaş'ın rolü, Kürt hareketinin geleceği ve çözüm sürecinin toplumsal desteği tartışılıyor.
+• Selahattin Demirtaş'ın tahliyesi ve çözüm süreci yeniden Türkiye'nin gündeminde.
+• Avrupa İnsan Hakları Mahkemesi (AİHM), Demirtaş'ın tutukluluğunu hak ihlali saydı ve tahliye kararını kesinleştirdi.
+• MHP lideri Devlet Bahçeli, Demirtaş'ın tahliyesinin Türkiye için hayırlı olacağını söyledi ve İmralı'ya (Abdullah Öcalan'ın bulunduğu cezaevi) Meclis heyeti gönderilmesini önerdi.
+• Cumhurbaşkanı Erdoğan, Demirtaş'ın tahliyesi ve İmralı'ya heyet gönderilmesi konusunda yargı kararına uyacaklarını açıkladı, ancak süreçte temkinli davranıyor.
+• CHP lideri Özgür Özel, geçmişte dokunulmazlıkların kaldırılmasına verdikleri destek için özür diledi ve Demirtaş'ın serbest bırakılmasını savundu.
+• DEM Parti ve muhalefet, Demirtaş'ın tahliyesinin barış ve demokratik siyaset için önemli olduğunu vurguluyor.
+• İYİ Parti ve Zafer Partisi, İmralı'ya heyet gönderilmesine ve Demirtaş'ın tahliyesine karşı çıkıyor.
+• Kamuoyunda İmralı'ya heyet gönderilmesine büyük oranda karşı çıkılsa da, terörsüz Türkiye sürecine destek yüksek.
+• Siyasi partiler arasında çözüm süreci, tahliye ve yeni anayasa gibi başlıklarda görüş ayrılıkları var.
+• Ekrem İmamoğlu ve ailesine yönelik yolsuzluk ve para transferi iddiaları, yurt dışı yasağı ve pasaport iptaliyle gündemde.
+• Türkiye'de yargı bağımsızlığı, siyasi tutukluluklar ve hukuk devleti tartışmaları sürüyor.
+• AK Parti'de post-Erdoğan dönemi, liderlik ve güç mücadelesi, MHP'nin ittifak içindeki rolü ve Bahçeli'nin çıkışları siyasette yeni denge arayışlarını gösteriyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=-kX4dYt9_fk&t=145s) (⏱️ 02:25-10:05)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=PgX3YHFQxlk&t=494s) (⏱️ 08:14-22:26)
-- [Rusen Cakir](https://www.youtube.com/watch?v=0uJ0dgAIdnM&t=16s) (⏱️ 00:16-29:47)
-- [Unsal Unlu](https://www.youtube.com/watch?v=40Wf2gah7ac&t=846s) (⏱️ 14:06-20:34)
-- [Serdar Akinan](https://www.youtube.com/watch?v=Ch7t4R7AoQM&t=531s) (⏱️ 08:51-10:36)
-- [Hilal Koylu](https://www.youtube.com/watch?v=Bw-TQfBK3Rk&t=806s) (⏱️ 13:26-19:29)
-- [Murat Yetkin](https://www.youtube.com/watch?v=6oervdhHvxE&t=16s) (⏱️ 00:16-14:05)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=EjV6u_in2vg&t=536s) (⏱️ 08:56-10:00)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=JSzek5dPSrs&t=79s) (⏱️ 01:19-01:20)
-- [Onlar TV](https://www.youtube.com/watch?v=_bSXCveemCo&t=226s) (⏱️ 03:46-13:18)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=D1dSPTz4OWg&t=453s) (⏱️ 07:33-17:55)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=fj1uxb0Zgnc&t=26s) (⏱️ 00:26-06:16)
+- [Unsal Unlu](https://www.youtube.com/watch?v=u4s7wRvYDko&t=77s) (⏱️ 01:17-21:38)
+- [Hilal Koylu](https://www.youtube.com/watch?v=pPfzGqCu2OE&t=156s) (⏱️ 02:36-18:42)
+- [Serdar Akinan](https://www.youtube.com/watch?v=b0dThZomP_8&t=341s) (⏱️ 05:41-09:05)
+- [Murat Yetkin](https://www.youtube.com/watch?v=uWzAezlaMPA&t=178s) (⏱️ 02:58-15:50)
+- [Onlar TV](https://www.youtube.com/watch?v=RMSlpc4uj-8) (⏱️ 00:00-17:30)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=00cWIuojkZI) (⏱️ 00:00-26:06)
+- [Rusen Cakir](https://www.youtube.com/watch?v=CPiTIgn1QnQ&t=4s) (⏱️ 00:04-11:47)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=fm4e3Lud4os&t=430s) (⏱️ 07:10-09:05)
 
 ---
 
-## 2. Enflasyon ve Zamlar Geçim Krizini Derinleştiriyor
+## 2. Zohran Mamdani New York Belediye Başkanı Seçildi
 
-• Türkiye'de enflasyon yüksek, TÜİK %32.87, ENAG %60 olarak açıkladı
-• Asgari ücretin alım gücü yıl başından bu yana 6.000 TL eridi, maaşlar enflasyon karşısında yetersiz
-• Memur ve emekli maaşlarına %21 zam yapılacak, ancak vergi, harç ve cezalara %25 zam geldi
-• Gelir vergisi dilimi düşük tutuldu, çalışanlar daha fazla vergi ödeyecek
-• Temel tüketim ürünlerinde yüksek vergi (ÖTV, KDV) ve yeni zamlar gündemde
-• Bütçe açığı büyüdü, ek vergiler ve harç artışları planlanıyor
-• Pasaport, telefon kayıt, araç muayenesi ve MTV gibi kalemlerde ciddi zamlar var
-• Sosyal yardıma bağımlı hane sayısı arttı, genç işsizlik ve yoksulluk yükseldi
-• Kamu harcamalarında israf ve vergi gelirlerinin adaletsiz dağılımı eleştiriliyor
-• Ekonomide yapısal reform, şeffaflık ve adalet talepleri öne çıkıyor
+• New York'ta belediye başkanlığı seçimini 34 yaşındaki Zohran Mamdani kazandı.
+• Mamdani, Uganda doğumlu, Hindistan kökenli bir göçmen ve Müslüman.
+• New York'un ilk Müslüman belediye başkanı oldu.
+• Demokratik sosyalist kimliğiyle biliniyor ve sol politikalar savunuyor.
+• Kampanyasında kira sabitlemesi, ücretsiz toplu taşıma ve çocuk bakımı gibi sosyal vaatler öne çıktı.
+• Mamdani, Filistin yanlısı açıklamalar yaptı ve Netanyahu'nun New York'a gelmesi halinde tutuklanması için girişimde bulunacağını söyledi.
+• Donald Trump, Mamdani'nin seçilmesi halinde federal fonları keseceğini açıkladı ve onu komünist olmakla suçladı.
+• Seçime katılım yüksekti, göçmenler ve gençler etkili oldu.
+• Mamdani'nin seçilmesi ABD'de azınlıklar ve göçmenler için önemli bir gelişme olarak değerlendiriliyor.
+• ABD'de siyasi kutuplaşma ve seçim finansmanı tartışmaları devam ediyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=EjV6u_in2vg&t=1251s) (⏱️ 20:51-23:13)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=-kX4dYt9_fk&t=3272s) (⏱️ 54:32-80:41)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=JSzek5dPSrs&t=1653s) (⏱️ 27:33-37:50)
-- [Unsal Unlu](https://www.youtube.com/watch?v=ugVKn3zhIQ8&t=2041s) (⏱️ 34:01-34:21)
-- [Hilal Koylu](https://www.youtube.com/watch?v=Bw-TQfBK3Rk&t=1939s) (⏱️ 32:19-36:13)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=a75WbQWjpsI&t=3140s) (⏱️ 52:20-69:08)
+- [Serdar Akinan](https://www.youtube.com/watch?v=b0dThZomP_8&t=202s) (⏱️ 03:22-05:39)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=fm4e3Lud4os&t=1134s) (⏱️ 18:54-23:24)
+- [Unsal Unlu](https://www.youtube.com/watch?v=CqGeGt52szw&t=338s) (⏱️ 05:38-09:33)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=GGh4KRIpwSQ&t=94s) (⏱️ 01:34-11:24)
+- [Murat Yetkin](https://www.youtube.com/watch?v=uWzAezlaMPA&t=63s) (⏱️ 01:03-01:59)
 
 ---
 
-## 3. Türkiye'de Güvenlik ve Afet Endişesi Artıyor
+## 3. Türkiye'de Ekonomik Kriz ve Yüksek Fiyatlar
 
-- Türkiye'de son günlerde deprem, bina çökmesi ve uçak acil inişi gibi güvenlik sorunları yaşandı
-- Balıkesir Sındırgı'da sık sık depremler oluyor, hasarlı evlerin boşaltılması gerektiği belirtildi
-- Depremler İzmir, Bursa ve İstanbul'dan da hissedildi, Türkiye'nin depreme hazırlıklı olmadığı vurgulandı
-- Gebze'de bir bina çöktü, aynı aileden dört kişi hayatını kaybetti
-- Bina altından geçen metro inşaatı ve yeraltı suyu çekilmesi nedeniyle zeminde boşluk oluştuğu tespit edildi
-- Kamulaştırma ve çatlak uyarıları dikkate alınmamış, vatandaşların şikayetleri sonuçsuz kalmış
-- AJet'in Köln-İstanbul seferinde uçakta acil iniş paniği yaşandı, yolcular korku dolu anlar yaşadı
-- Uçağın bir gün önce de acil iniş yaptığı ortaya çıktı, şirketin açıklaması yetersiz bulundu
-- Tüm olaylar, Türkiye'de afet ve güvenlik önlemlerinin yetersizliğini gündeme getirdi
+• Türkiye'de ekonomik kriz ve yüksek enflasyon gündemde
+• Ankara Sanayi Odası Başkanı, enflasyonun iktidar politikalarıyla arttığını söyledi
+• Yüksek faizler ve krediye erişim zorluğu yatırımları olumsuz etkiliyor
+• CHP lideri, fiyatların Yunanistan'dan bile yüksek olduğunu belirtti
+• Ücretler düşük, zamlar yüksek; halk ekonomik sıkıntı yaşıyor
+• Elektronik ve otomobil fiyatları yurtdışına göre çok yüksek
+• Vatandaşlar, daha uygun fiyat için yurtdışından alışveriş yapıyor
+• Ferrero'nun fındık alımını durdurması üreticiyi zor durumda bıraktı
+• Türkiye, fındıkta dünya lideri olmasına rağmen fiyat belirleyemiyor
+• Mülakatlarda adaletsizlik ve liyakat sorunu gençlerde umutsuzluk yaratıyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=EjV6u_in2vg&t=1690s) (⏱️ 28:10-29:00)
-- [Unsal Unlu](https://www.youtube.com/watch?v=ugVKn3zhIQ8&t=831s) (⏱️ 13:51-14:20)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=PgX3YHFQxlk&t=2523s) (⏱️ 42:03-49:45)
+- [Unsal Unlu](https://www.youtube.com/watch?v=CqGeGt52szw&t=1280s) (⏱️ 21:20-21:33)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=fm4e3Lud4os&t=1619s) (⏱️ 26:59-30:25)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=GGh4KRIpwSQ&t=3356s) (⏱️ 55:56-57:57)
 
 ---
 
-## 4. Adalet ve Kadına Şiddet Tartışmaları
+## 4. Kamu Sektöründe Kriz ve Tepkiler
 
-• Akademisyen Eda Saraç, polisle tartıştıktan sonra gözaltına alındı ve tutuklandı
-• Saraç'ın darp edildiği ve şiddet gördüğü iddia edildi
-• Cezaevinden izinli çıkan bir kişi Erzurum'da bir kadını öldürdü, ardından intihar etti
-• Her iki olay da polis şiddeti, adalet sistemi ve kadınlara yönelik şiddet tartışmalarını gündeme getirdi
-• Toplumda güvenlik ve adalet konularında endişeler arttı
+• Memur-Sen'in imzaladığı toplu sözleşme sonrası memurların gelir kaybı 100.000 lirayı geçti.
+• Sendika başkanı ek zam talep etmek zorunda kaldı.
+• Memurlar ve sendika üyeleri bu durumdan memnun değil.
+• İstinye Üniversitesi'nde bir öğretim görevlisi başörtülü öğrenciye hakaret etti.
+• Üniversite yönetimi, öğretim görevlisinin işine son verdi.
+• Olay sosyal medyada tepki topladı.
+• Aksaray'da ilçe Milli Eğitim Müdürü, kütüphane binasının lokanta yapılmasına karşı çıktığı için görevden alındı.
+• Müdür, görevden alındıktan sonra intihar etti.
+• Olayı CHP'li milletvekili gündeme taşıdı ve Milli Eğitim Bakanı'nın istifası istendi.
+• Eğitim camiası ve kamuoyu olaylara büyük tepki gösterdi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Onlar TV](https://www.youtube.com/watch?v=_bSXCveemCo&t=1177s) (⏱️ 19:37-24:18)
-- [Unsal Unlu](https://www.youtube.com/watch?v=ugVKn3zhIQ8&t=1757s) (⏱️ 29:17-29:38)
+- [Unsal Unlu](https://www.youtube.com/watch?v=CqGeGt52szw&t=1772s) (⏱️ 29:32-30:17)
+- [Hilal Koylu](https://www.youtube.com/watch?v=pPfzGqCu2OE&t=1772s) (⏱️ 29:32-31:33)
 
 ---
 
-## 5. İsrail'de İnsan Hakları İhlalleri Gündemde
+## 5. ABD-Türkiye ve Rojava'da Yeni Gelişmeler
 
-- İsrail'de bir askerin Filistinli bir esire tecavüz ettiği ortaya çıktı
-- Bu olayı ortaya çıkaran başsavcı Yifat Tomer Yeruşalmi, hükümet baskısı nedeniyle istifa etti ve gözaltına alındı
-- Olay, insanlık suçu olarak nitelendirildi ve büyük tepki çekti
-- İsrail'in Gazze'ye yönelik saldırılarında çocuk ölümleri devam ediyor
-- Ateşkes iddialarına rağmen saldırılar sürüyor
-- Netanyahu'nun ABD'den aldığı destekle saldırılara devam ettiği öne sürülüyor
-- İşkence ve insan hakları ihlallerini ifşa edenlere yönelik baskı arttı
+• Ankara Etimesgut Havaalanı yenilenecek ve NATO zirvesinden önce açılacak.
+• Yenilenen havaalanına ilk inen uçak Amerikan başkanının uçağı olacak.
+• ABD Dışişleri Bakan Yardımcılığı'na Kürt asıllı Morön Namdar aday gösterildi.
+• ABD ordusunda görevli bazı subaylar Suriye'de danışmanlık şirketleri kurdu.
+• Bu şirketler Rojava'da petrol ve gaz işleri yapıyor.
+• ABD'li şirketler Kürdistan Petrol Endüstrisi Birliği'nin sözcülüğünü üstleniyor.
+• Rojava özerk yönetimi ve Şam geçiş yönetimiyle iyi ilişkiler kuruldu.
+• Türkiye'den bazı PKK'lıların Irak ve Rojava'ya geçtiği belirtildi.
+• Bölgede 100.000 silahlı kişinin ABD şirketleriyle işbirliği yaptığı ifade edildi.
+• Türkiye'nin güneyinde yeni bir yapı oluştuğu vurgulandı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=EjV6u_in2vg&t=1593s) (⏱️ 26:33-28:10)
-- [Unsal Unlu](https://www.youtube.com/watch?v=ugVKn3zhIQ8&t=2113s) (⏱️ 35:13-35:34)
+- [Unsal Unlu](https://www.youtube.com/watch?v=CqGeGt52szw&t=1217s) (⏱️ 20:17-20:58)
+- [Serdar Akinan](https://www.youtube.com/watch?v=b0dThZomP_8&t=1048s) (⏱️ 17:28-20:26)
 
 ---
 
-## 6. CHP Kurultayında Ceza Davası Açıldı
+## 6. Konut Projeleri ve Şirketlere Kayyum Ataması
 
-- CHP'nin 38. Olağan Kurultayı'na ilişkin açılan iptal davası reddedildi
-- Kurultay davası, Anayasa Mahkemesi'nden gelecek dosya beklenerek ertelendi
-- Kurultayda oy karşılığı menfaat sağlandığı iddiasıyla 12 kişi hakkında ceza davası açıldı
-- Bu kişiler için 1-3 yıl hapis ve siyasi yasak talep ediliyor
-- Ceza davasının ilk duruşması Ankara 26. Asliye Ceza Mahkemesi'nde yapılacak
-- Konu, kamuoyunda eskiye göre daha az ilgi görüyor
+• 500 bin konut projesine yoğun başvuru yapıldı
+• Konut sahibi olma şartlarında aile bireyleri de dikkate alınıyor
+• TOKİ ve Emlak Konut farklı gelir gruplarına projeler sunuyor
+• Kiralık konutlar için yeni sistemler tartışılıyor
+• Kira fiyatlarının yüksekliği çözüm arayışlarını artırıyor
+• Hat Holding ve Investco A.Ş.'ye kayyum atandı
+• TMSF bu şirketlerin yönetimini devraldı
+• Operasyonun borsa manipülasyonlarıyla bağlantılı olduğu açıklandı
+• TMSF'nin şirketlerdeki yeni yönetim kararları gündemde
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=EjV6u_in2vg&t=1217s) (⏱️ 20:17-20:51)
-- [Unsal Unlu](https://www.youtube.com/watch?v=ugVKn3zhIQ8&t=2245s) (⏱️ 37:25-37:44)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=GGh4KRIpwSQ&t=3183s) (⏱️ 53:03-55:23)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=fm4e3Lud4os&t=1546s) (⏱️ 25:46-26:59)
 
 ---
 
-## 7. ABD ve Türkiye'de Seçim Gündemi
+## 7. Köy Edebiyatı ve Anadolu Üretimi
 
-- New York'ta Zohran Mamdani'nin seçimlerdeki durumu tartışılıyor
-- Mamdani'nin Arapça paylaşımı ve Trump'ın eleştirileri gündemde
-- ABD'de seçim bölgelerinin yeniden belirlenmesi konuşuluyor
-- Ara seçimlerde Trump'ın etkisi sorgulanıyor
-- Türkiye'de Ali Babacan, Gaziosmanpaşa'da miting yaptı
-- Babacan, ekonomik sıkıntılar ve toplumsal sorunlara değindi
-- Babacan'ın siyasi konuşma tarzı tartışıldı
+• Fakir Baykurt'un köy edebiyatındaki önemi vurgulandı.
+• Baykurt, köy yaşamı, yoksulluk ve sömürü temalarını işledi.
+• Şavşat'ta öğretmenlik yaptı ve bölgeyle bağlantısı var.
+• Muş Ovası'nın tarımsal verimliliği öne çıkarıldı.
+• Muş'ta arıcılığı genellikle Burdurlular yapıyor.
+• Yerel halkın tarıma ve üretime daha fazla katılması gerektiği belirtildi.
+• Her iki hikaye de Anadolu'nun kırsal yaşamı ve üretim kültürüne odaklanıyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Nevsin Mengu](https://www.youtube.com/watch?v=JSzek5dPSrs&t=2270s) (⏱️ 37:50-45:36)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=PgX3YHFQxlk&t=3002s) (⏱️ 50:02-53:43)
+- [Rusen Cakir](https://www.youtube.com/watch?v=CPiTIgn1QnQ&t=708s) (⏱️ 11:48-15:17)
+- [Unsal Unlu](https://www.youtube.com/watch?v=CqGeGt52szw&t=1357s) (⏱️ 22:37-24:37)
+
+---
+
+## 8. Sosyal Medyada Reyting ve Trend Tartışması
+
+• YouTube reyting raporları ve sosyal medya trendleri gündemde.
+• Buket Aydın'ın YouTube kanalında izlenme artışı dikkat çekti.
+• Kanalda TV programı videoları ve kısa videolar paylaşıldı.
+• Reyting listelerinde gazeteci olmayan isimlerin yer alması eleştirildi.
+• Sunucu, bu listeleri ciddiye almayacağını açıkladı.
+• Ankara Kızılay tabelası sosyal medyada popüler oldu.
+• Gençler tabelanın önünde fotoğraf çekip paylaşıyor.
+• Tabelanın yenilenmesi ve dekor olarak kullanılması konuşuluyor.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Ozlem Gurses](https://www.youtube.com/watch?v=a75WbQWjpsI&t=4272s) (⏱️ 71:12-80:00)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=fm4e3Lud4os&t=1936s) (⏱️ 32:16-34:17)
 
 ---
 
