@@ -1,155 +1,177 @@
 # Bugün Ne Oldu?
 
-*7 November 2025 tarihli günlük haber raporu - 7 haber birleştirildi*
+*8 November 2025 tarihli günlük haber raporu - 9 haber birleştirildi*
 
-## 1. Gazetecilere Yönelik Soruşturma ve Baskılar
+## 1. Siyasette Anketler, İttifak Krizi ve Fezleke Gerginliği
 
-• İstanbul'da çok sayıda gazeteciye yönelik operasyon ve soruşturma başlatıldı
-• Gözaltı ve ifadeye çağırma işlemleri gizli tanık ifadelerine ve para alışverişi iddialarına dayandırıldı
-• Gazetecilere "yalan bilgi yayma" ve "suç örgütüne yardım" suçlamaları yöneltildi
-• Ekrem İmamoğlu ve basın danışmanı Murat Ongun'un isimleri soruşturmalarda geçti
-• HTS (telefon sinyal) kayıtları ve sosyal medya paylaşımları delil olarak gösterildi
-• Gazeteciler suçlamaları reddetti, Emrah Bağdatlı adlı kişinin kim olduğunu bilmediklerini söyledi
-• Gözaltı sonrası bazı gazetecilere yurt dışı çıkış yasağı ve dijital materyallerine el koyma kararı verildi
-• Soruşturma sürecinde adli kontrol uygulandı, bazı gazeteciler serbest bırakıldı
-• Bu uygulamalar basın ve ifade özgürlüğü açısından eleştirildi, hukuki değil siyasi olduğu iddia edildi
-• Gizli tanık sisteminin suistimal edildiği ve gazetecilerin itibarına zarar verildiği belirtildi
-• Soruşturmanın iddianame aşamasında derinleşebileceği konuşuluyor
-• Türkiye'de gazetecilere yönelik baskıların geçmişten bugüne devam ettiği vurgulandı
+- Son anketlerde CHP birinci parti olarak öne çıktı, AK Parti ikinci sırada yer aldı
+- Cumhurbaşkanlığı seçiminde Mansur Yavaş, Ekrem İmamoğlu ve Özgür Özel, Erdoğan'a karşı önde görünüyor
+- CHP ve AK Parti arasında "birinci parti" tartışması yaşanıyor, siyasi üslup sertleşti
+- Muhalefet milletvekilleri hakkında fezlekeler hazırlandı, siyasi baskı iddiaları gündemde
+- MHP ile AK Parti arasında ittifak içinde kriz ve güvensizlik konuşuluyor, MHP'nin etkisi azaldı
+- Çözüm süreci ve İmralı tartışmaları mecliste gündeme geldi, milletvekilleri tedirgin
+- Siyasi liderlerin sosyal medya takipçi analizlerinde Özgür Özel yükselişte, Erdoğan takipçi kaybetti
+- Türkiye'de hukuki tıkanıklık ve siyasi baskıların arttığı eleştiriliyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilal Koylu](https://www.youtube.com/watch?v=xIkHrN__Rew&t=72s) (⏱️ 01:12-13:19)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=EmGCaosEUKA&t=1055s) (⏱️ 17:35-19:05)
-- [Serdar Akinan](https://www.youtube.com/watch?v=5zqaaGy5Rtk&t=723s) (⏱️ 12:03-15:18)
-- [Rusen Cakir](https://www.youtube.com/watch?v=5nc28DSfYZg&t=14s) (⏱️ 00:14-10:21)
-- [Unsal Unlu](https://www.youtube.com/watch?v=VjP_x9Avabo&t=38s) (⏱️ 00:38-08:30)
+- [Hilal Koylu](https://www.youtube.com/watch?v=diYBIQmTCNo&t=305s) (⏱️ 05:05-13:23)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=IIG2fugQu4c) (⏱️ 00:00-01:53)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=Xx4janYG8yU&t=988s) (⏱️ 16:28-18:25)
+- [Serdar Akinan](https://www.youtube.com/watch?v=zuCyMxIg3M0&t=283s) (⏱️ 04:43-06:33)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=FNi3Lbht0wo&t=34s) (⏱️ 00:34-03:10)
+
+---
+
+## 2. Gazetecilere Yönelik Baskı ve Soruşturmalar
+
+- Son dönemde birçok gazeteci gözaltına alındı veya ifadeye çağrıldı
+- Gazetecilere, yazdıkları haberler ve sosyal medya paylaşımları nedeniyle suçlamalar yöneltildi
+- Soruşturmalarda gazetecilere, Ekrem İmamoğlu lehine suç örgütü adına paylaşım yapıp yapmadıkları soruldu
+- Bazı gazetecilere belediyeden elden para alma ve yalan bilgi yaymak gibi iddialar yöneltildi
+- Suçlamalar çoğunlukla gizli tanık ifadelerine ve HTS kayıtlarına dayandırıldı
+- Gazeteciler, yaptıkları yayınların gazetecilik faaliyeti olduğunu savundu
+- Sorgulamalarda gazetecilere yayınlarının ekran görüntüleri gösterildi
+- Gazeteciler ifadeleri alındıktan sonra yurt dışı çıkış yasağıyla serbest bırakıldı
+- Gazetecilere yönelik uygulamaların yasalara uygun olmadığı ve basın özgürlüğünün tehdit altında olduğu belirtildi
+- Basının susturulmasının halkın haber alma hakkını zedeleyeceği vurgulandı
+- Ünlülere yönelik soruşturmalarda da kişilik haklarının zedelendiği tartışıldı
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=FNi3Lbht0wo&t=620s) (⏱️ 10:20-10:41)
 - [Nevsin Mengu](https://www.youtube.com/watch?v=Xx4janYG8yU&t=328s) (⏱️ 05:28-08:50)
-- [Murat Yetkin](https://www.youtube.com/watch?v=TJyR__rvo4o&t=274s) (⏱️ 04:34-15:33)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=cyyeisYdit8&t=2017s) (⏱️ 33:37-54:50)
-- [Onlar TV](https://www.youtube.com/watch?v=WnHloKrAETM&t=158s) (⏱️ 02:38-26:00)
+- [Rusen Cakir](https://www.youtube.com/watch?v=jbVXeqc5e1s&t=4s) (⏱️ 00:04-11:09)
 
 ---
 
-## 2. Ekonomide Bütçe, Vergi ve Enflasyon Tartışmaları
+## 3. Ekonomik Kriz ve Güven Bunalımı Türkiye Gündeminde
 
-- Meclis'te Hazine ve Maliye Bakanlığı bütçesi ve ekonomi yönetimi tartışıldı
-- Bakan Mehmet Şimşek, bütçe açığının eski yönetimden kaynaklandığını söyledi, vergi ve harçlarda artış sinyali verdi
-- Vergi yükünün OECD ülkelerine göre düşük olduğu iddia edildi, muhalefet ise halkın alım gücüne göre yüksek olduğunu savundu
-- Torba yasa ile yeni vergi ve harç artışları, kira geliri istisnasının kaldırılması, tapu harcı cezalarının artırılması gündeme geldi
-- Asgari ücretin yetersizliği, alım gücündeki düşüş ve yoksulluk sınırı tartışıldı
-- Sanayiciler yüksek faiz, finansman sıkıntısı ve vergi artışlarından şikayetçi
-- Tekstil ve sanayi sektöründe kapasite kullanımı düştü, yatırımcılar yurtdışına yöneliyor
-- Dolaylı vergilerin yüksekliği ve vergi sistemindeki adaletsizlik eleştirildi
-- Merkez Bankası'nın enflasyon hedefleri yükseltildi, akaryakıt ve temel ihtiyaçlarda fiyat artışları devam ediyor
-- Kamu tasarrufu politikaları ve ihale sistemindeki şeffaflık eksikliği eleştirildi
-- Kabine değişikliği ve ekonomi yönetiminde değişim iddiaları gündeme geldi
+- Merkez Bankası yıl sonu enflasyon tahminini %31-33 aralığına yükseltti
+- Önceki tahminler tutmadı, ekonomik göstergeler olumsuz
+- Hazine'nin 10 ayda 1.8 trilyon lira açık verdiği açıklandı
+- Faiz ödemeleri 1.7 trilyon lirayı geçti
+- Mehmet Şimşek, Plan ve Bütçe Komisyonu'nda sunum yaptı ve vergi yükünün OECD'ye göre düşük olduğunu söyledi
+- Vergi gelirlerinin şeffaflığı ve harcamaların nereye gittiği sorgulanıyor
+- Vatandaşlar ekonomik kriz ve hayat pahalılığı nedeniyle zor durumda
+- Dar gelirliler daha fazla vergi yükü altında, emekli maaşı ve asgari ücrette iyileşme beklenmiyor
+- Yastık altında 400-500 milyar dolar değerinde altın olduğu tahmin ediliyor, vatandaşlar sisteme güvenmiyor
+- Bürokratların büyük servetleri ve yolsuzluk iddiaları gündemde, devlet-vatandaş güven sorunu büyüyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=72IVXcdGUhc&t=806s) (⏱️ 13:26-17:20)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=FNi3Lbht0wo&t=1151s) (⏱️ 19:11-20:30)
+- [Hilal Koylu](https://www.youtube.com/watch?v=diYBIQmTCNo&t=1397s) (⏱️ 23:17-27:38)
 - [Nevsin Mengu](https://www.youtube.com/watch?v=Xx4janYG8yU&t=1994s) (⏱️ 33:14-36:15)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=cyyeisYdit8&t=951s) (⏱️ 15:51-18:21)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=lDe20RA_HiE&t=89s) (⏱️ 01:29-05:57)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=NyPCAAHK88E) (⏱️ 00:00-01:17)
+- [Serdar Akinan](https://www.youtube.com/watch?v=zuCyMxIg3M0&t=454s) (⏱️ 07:34-09:20)
 
 ---
 
-## 3. Anayasa ve Yargı Krizi Derinleşiyor
+## 4. Erdoğan'ın Bölgesel Rolü ve Yeni Denge Arayışı
 
-• Anayasa Mahkemesi'nin (AYM) verdiği hak ihlali kararları bazı yerel mahkemeler tarafından uygulanmıyor
-• Özellikle Tayfun Kahraman davasında AYM'nin yeniden yargılama kararı İstanbul 13. Ağır Ceza Mahkemesi tarafından reddedildi
-• Yerel mahkeme, AYM'yi yetki aşımıyla suçladı ve kararlarını tanımadı
-• Bu durum hukuk devleti ilkesinin ve anayasal düzenin zedelendiği şeklinde yorumlandı
-• Siyasi isimler, gazeteciler ve hukukçular yargı krizinin ülkeye zarar vereceğini belirtti
-• Hukukta keyfilik ve kuralsızlık, siyasi ve ekonomik istikrarsızlık riskini artırıyor
-• Selahattin Demirtaş'ın tahliyesi ve çözüm süreci tartışmaları da gündemde
-• Bahçeli, Demirtaş'ın serbest bırakılması ve İmralı'ya heyet gönderilmesi gerektiğini söyledi
-• AK Parti ve MHP arasında çözüm süreci ve yargı kararları konusunda görüş ayrılıkları yaşanıyor
-• DEM Parti, Demirtaş'ın tahliyesini ve Öcalan ile görüşmeyi gündeme getiriyor
-• Avrupa İnsan Hakları Mahkemesi ve AYM kararlarının uygulanmaması eleştiriliyor
-• Cumhur İttifakı'nda çatlak iddiaları ve siyasi gerilimler artıyor
+- Gönül Tol'un New York Times'taki makalesi, Erdoğan'ın Batı için yeniden önemli bir lider olarak görüldüğünü vurguladı
+- Batı'nın güvenlik kaygıları nedeniyle demokrasiyi geri plana attığı belirtildi
+- Erdoğan'ın dış politikadaki rolü, iç politikada da iktidarı güçlendiriyor
+- Ortadoğu'da İsrail merkezli yeni bir statüko oluşturulmaya çalışılıyor
+- Kazakistan, İbrahim Anlaşmaları'na katıldı ve bölgedeki dengeler değişiyor
+- Türkiye'nin bu yeni düzende oynayacağı rol ve atacağı adımlar önemli
+- Suriye'nin kuzeyinde SDG'nin varlığı sürüyor, ABD ile ilişkiler gündemde
+- SDG'nin liderlerinin ABD'de ağırlanması ve yaptırımların kaldırılması dikkat çekiyor
+- Türkiye'nin mevcut iktidarı değişmedikçe Suriye'deki durumun değişmeyeceği öngörülüyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Onlar TV](https://www.youtube.com/watch?v=WnHloKrAETM&t=2111s) (⏱️ 35:11-72:03)
-- [Unsal Unlu](https://www.youtube.com/watch?v=72IVXcdGUhc&t=350s) (⏱️ 05:50-06:17)
-- [Serdar Akinan](https://www.youtube.com/watch?v=5zqaaGy5Rtk) (⏱️ 00:00-12:03)
-- [Hilal Koylu](https://www.youtube.com/watch?v=xIkHrN__Rew&t=1612s) (⏱️ 26:52-29:51)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=Xx4janYG8yU&t=854s) (⏱️ 14:14-16:28)
+- [Serdar Akinan](https://www.youtube.com/watch?v=zuCyMxIg3M0&t=620s) (⏱️ 10:20-11:34)
+
+---
+
+## 5. AYM Kararına Yerel Mahkeme Direnci
+
+- Anayasa Mahkemesi (AYM), Gezi davası sanığı Tayfun Kahraman için yeniden yargılama istedi.
+- İstanbul 13. Ağır Ceza Mahkemesi, AYM kararına uymadı ve yeniden yargılamayı reddetti.
+- Yerel mahkeme, AYM'nin delil incelemesi yapamayacağını savundu.
+- Yargıtay Başkanı daha önce AYM kararlarına uyulması gerektiğini belirtmişti.
+- Şamil Tayyar, AYM kararlarının tanınmamasının kaosa yol açacağını söyledi.
+- Türkiye'de yargı kurumları arasında yetki ve karar çatışması yaşanıyor.
+- AYM kararlarının uygulanmaması hukuk devleti ilkesine aykırı olarak değerlendiriliyor.
+- Karar, Tayfun Kahraman'ın ailesi ve kamuoyunda üzüntüyle karşılandı.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=FNi3Lbht0wo&t=780s) (⏱️ 13:00-14:05)
 - [Nevsin Mengu](https://www.youtube.com/watch?v=Xx4janYG8yU&t=737s) (⏱️ 12:17-14:14)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=cyyeisYdit8&t=338s) (⏱️ 05:38-07:14)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=EmGCaosEUKA&t=1381s) (⏱️ 23:01-27:04)
-- [Rusen Cakir](https://www.youtube.com/watch?v=ITKdZJ9wnhk&t=1312s) (⏱️ 21:52-31:18)
 
 ---
 
-## 4. İBB Soruşturması ve Kabine Değişikliği Beklentisi
+## 6. Türk Futbolunda Bahis ve Şike Skandalı
 
-• İstanbul Cumhuriyet Başsavcılığı, İmamoğlu davası ve CHP'li belediyelerle ilgili soruşturmalar yürütüyor
-• Kara para, yasa dışı bahis ve QBank soruşturmaları da devam ediyor
-• Bu soruşturmalar kapsamında tutuklamalar yapılıyor
-• İBB iddianamesinin Kasım ayında çıkması bekleniyor
-• İddianamede 400'den fazla sanık olacağı iddia ediliyor
-• Silivri duruşma salonları Mart sonuna kadar dolu
-• Ekrem İmamoğlu'nun savunma ekibi iddianameyi bekliyor
-• Kabine değişikliği iddiaları var, özellikle İçişleri ve Tarım Bakanı'nın değişmesi bekleniyor
-• Kabine değişikliği için İBB iddianamesinin çıkması bekleniyor
-• İddianamenin çıkış tarihiyle ilgili farklı iddialar bulunuyor
+- Türk futbolunda büyük bir bahis ve şike skandalı ortaya çıktı
+- 371 hakemin bahis hesabı olduğu, 152'sinin aktif olarak bahis oynadığı iddia edildi
+- Eyüpspor başkanı, Kasımpaşa'nın eski sahibi ve başkanı gibi tanınmış isimler hakkında gözaltı kararı verildi
+- Turgay Ciner yurt dışında olduğu için yakalanamadı, Fatih Saraç kısa sürede serbest bırakıldı
+- Suçlamalar arasında görevi kötüye kullanma, şike ve müsabaka sonucunu etkileme var
+- Soruşturma savcılık ve Türkiye Futbol Federasyonu tarafından yürütülüyor
+- Hakemlerin yanı sıra futbolcular, yöneticiler ve menajerlerin de bahis ve şike işlerine karıştığı iddia ediliyor
+- Yasa dışı bahislerde aracı ödeme kuruluşları kullanıldı, bu şirketlerin sahipleri tutuklandı
+- UEFA, Avrupa'daki hakemleri Türkiye'deki bahis skandalı konusunda uyardı
+- Operasyonun nereye kadar uzanacağı ve büyük isimlerin korunup korunmayacağı tartışılıyor
+- Türk futbolunun temizlenmesi için adaletin tam olarak uygulanması gerektiği vurgulanıyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Murat Yetkin](https://www.youtube.com/watch?v=TJyR__rvo4o&t=234s) (⏱️ 03:54-04:34)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=cyyeisYdit8&t=173s) (⏱️ 02:53-05:38)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=lDe20RA_HiE&t=359s) (⏱️ 05:59-07:22)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=FNi3Lbht0wo&t=1637s) (⏱️ 27:17-30:15)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=It8ubMLBsc8) (⏱️ 00:00-28:00)
 
 ---
 
-## 5. Çevre ve Güvenlik Tartışmaları Gündemde
+## 7. Diyanet'in 10 Kasım Hutbesi Tartışması
 
-• Sivas'ta altın madeni bulunması çevre tahribatı tartışmalarını gündeme getirdi
-• Altın çıkaran şirketlerin doğaya ve tarıma zarar verdiği iddia edildi
-• Gebze'de bir bina çöktü, dört kişi hayatını kaybetti
-• Binanın çökme nedeni tam olarak açıklanmadı, metro inşaatının etkisi tartışılıyor
-• Her iki olayda da kamuoyunda çevre ve güvenlik endişeleri arttı
+- Diyanet İşleri Başkanlığı'nın 10 Kasım hutbesinde Atatürk'e yer verilmedi
+- Hutbenin "vefa imandandır" başlığına rağmen Atatürk'ün anılmaması eleştirildi
+- Kocaeli Valiliği ve Müftülüğü, camilerde Atatürk için mevlit okutulmasını istedi
+- İyi Parti, 81 ilde Atatürk için mevlit okutacağını açıkladı
+- Sosyal medyada Atatürk'e yönelik saldırılar ve camide mevlit okutulmasına karşı çıkanlar gündeme geldi
+- Atatürk'ün birleştirici gücü vurgulandı
+- 10 Kasım anmaları ve Atatürk tartışmaları gündemde geniş yer buldu
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=VjP_x9Avabo&t=1645s) (⏱️ 27:25-27:49)
-- [Hilal Koylu](https://www.youtube.com/watch?v=xIkHrN__Rew&t=1795s) (⏱️ 29:55-31:01)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=FNi3Lbht0wo&t=1512s) (⏱️ 25:12-27:17)
+- [Hilal Koylu](https://www.youtube.com/watch?v=diYBIQmTCNo&t=950s) (⏱️ 15:50-21:37)
 
 ---
 
-## 6. 10 Kasım'da Anma ve Ara Tatil Tartışması
+## 8. CHP İstanbul'da Yetki ve Yargı Krizi
 
-• 10 Kasım Atatürk'ü anma günü bu yıl okullardaki ara tatile denk geldi
-• Bu durum, öğrencilerin anma etkinliklerine katılımını etkiledi
-• Kocaeli Valiliği, 10 Kasım'da camilerde Atatürk için mevlit okutulmasına karar verdi
-• Diyanet-Sen Genel Başkanı bu karara tepki gösterdi ve valiliği eleştirdi
-• Sunucular, Atatürk'e dua okunmasından rahatsız olanları eleştirdi
-• Diyanet İşleri Başkanlığı'nın Atatürk'ü anmaması da gündeme geldi
-• Ara tatilin 10 Kasım'a denk gelmesi bazı tartışmalara yol açtı, ancak hükümetin kötü niyeti olmadığı belirtildi
-• Tatil nedeniyle trafikte ve ulaşımda yoğunluk yaşandı
+- CHP İstanbul İl Başkanlığı'nda kayyum ataması ve YSK kararı arasında çatışma yaşandı
+- Gürsel Tekin kayyum olarak banka hesaplarına erişmek istedi
+- YSK, Özgür Çelik'i il başkanı olarak tanıdı
+- Mahkeme ve YSK kararları arasında belirsizlik oluştu
+- CHP lideri Özgür Özel, İstanbul Cumhuriyet Başsavcısı Akın Gürlek'i eleştirdi
+- Gürlek'in Etimaden şirketinde yönetim kurulu üyeliği ve savcılık görevi tartışıldı
+- Gürlek'in istifası, Özel'in açıklamalarından sonra geldi
+- Olaylar, CHP ve yargı arasında gerilimi artırdı
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=VjP_x9Avabo&t=1944s) (⏱️ 32:24-37:00)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=cyyeisYdit8&t=41s) (⏱️ 00:41-02:53)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=FNi3Lbht0wo&t=961s) (⏱️ 16:01-17:29)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=Xx4janYG8yU&t=10s) (⏱️ 00:10-05:28)
 
 ---
 
-## 7. Manifest Grubuna Müstehcenlik Davası
+## 9. Kızılay Tabelasında Gençlerin Asılma Akımı
 
-• Manifest müzik grubuna müstehcenlik ve hayasızca hareket suçlamasıyla dava açıldı.
-• Konserlerdeki kostüm ve danslar dava konusu oldu.
-• Grup üyelerinin imza şartı kaldırıldı, yurt dışı yasağı devam ediyor.
-• Esin Bahat, sosyal medyada tramvay sapığına benzetilerek online zorbalığa uğradı.
-• Online zorbalığın gençler üzerindeki psikolojik etkileri tartışıldı.
-• Sanatçılar ve toplumda hukuk, adalet ve ifade özgürlüğü tartışmaları gündemde.
+- Ankara Kızılay'da gençler tabelaya asılarak fotoğraf çektiriyor
+- Tabelaya barfiks demiri eklendi, gençler sıraya giriyor
+- Bu akım gençler arasında eğlence amaçlı yayılıyor
+- Belediyenin bu ilgiyi değerlendirebileceği konuşuluyor
+- Akımın kimseye zararı olmadığı belirtiliyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Nevsin Mengu](https://www.youtube.com/watch?v=Xx4janYG8yU&t=1105s) (⏱️ 18:25-22:07)
-- [Hilal Koylu](https://www.youtube.com/watch?v=xIkHrN__Rew&t=1340s) (⏱️ 22:20-23:26)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=FNi3Lbht0wo&t=1815s) (⏱️ 30:15-31:57)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=Xx4janYG8yU&t=1327s) (⏱️ 22:07-23:49)
 
 ---
 
