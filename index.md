@@ -1,236 +1,331 @@
 # Bugün Ne Oldu?
 
-*13 November 2025 tarihli günlük haber raporu - 11 haber birleştirildi*
+*14 November 2025 tarihli günlük haber raporu - 16 haber birleştirildi*
 
-## 1. İmamoğlu ve CHP İddianamesi Gündemde
+## 1. İmamoğlu ve CHP'ye Yönelik İddianame Tartışması
 
-• Ekrem İmamoğlu ve CHP'li yöneticiler hakkında hazırlanan çok kapsamlı iddianame gündemde.
-• İddianamede yolsuzluk, rüşvet, usulsüzlük, suç örgütü kurma ve casusluk gibi ağır suçlamalar var.
-• İddianamenin 3700-4000 sayfa olduğu, kısa sürede incelenmesinin imkansız olduğu belirtiliyor.
-• Gizli tanık ifadeleri ve delil eksikliği eleştiriliyor; bazı tanıkların güvenilirliği sorgulanıyor.
-• İddianamenin siyasi amaçlarla hazırlandığı, muhalefeti baskılamak için kullanıldığı iddia ediliyor.
-• CHP'nin kapatılması ihtimali ve bu yönde başsavcılığa yapılan bildirimler tartışılıyor.
-• Siyasi partilerin kapatılması geçmişte yaşandığı için bu ihtimalin tamamen dışlanamayacağı vurgulanıyor.
-• İktidar ve muhalefet arasında iddianame üzerinden sert tartışmalar yaşanıyor.
-• İktidar yanlısı medya iddianameyi manşetlere taşıdı, muhalefet ise siyasi baskı olduğunu savunuyor.
-• Uluslararası basında da iddianame ve siyasi süreçler geniş yer buldu.
-• CHP, iddianamenin açıklarını kamuoyuyla paylaşıyor ve duruşmaların TRT'de canlı yayınlanmasını talep ediyor.
-• Sosyal medya hesaplarına erişim engelleri ve dezenformasyon soruşturmaları başlatıldı.
-• Piyasalarda iddianame ve kapatma tartışmaları nedeniyle dalgalanmalar yaşandı.
-• Toplumda siyasi gerilim ve kutuplaşma artarken, iddianamenin muhalefete mağduriyet algısı kazandırabileceği değerlendiriliyor.
+• Ekrem İmamoğlu ve CHP'li yöneticiler hakkında yaklaşık 4.000 sayfalık bir iddianame hazırlandı.
+• İddianamede İmamoğlu'nun suç örgütü lideri olduğu, CHP'nin örgüt tarafından ele geçirildiği ve büyük kamu zararı oluşturulduğu iddia ediliyor.
+• 143 eylem, 160 milyar TL kamu zararı ve 24 milyon dolar iddiası var; İmamoğlu için 2.500 yıla kadar hapis cezası isteniyor.
+• İddianamede 15 gizli tanık var, ifadelerde çelişkiler, isim değişiklikleri ve kopyala-yapıştır bölümler dikkat çekiyor.
+• Somut delil eksikliği, tekrar eden ifadeler ve bazı isimlerin yanlışlıkla şüpheli yazılması eleştiriliyor.
+• CHP, iddianamenin siyasi amaçlı ve hukuki dayanağının zayıf olduğunu savunuyor; sürecin uzatılması ve siyasi yasak getirilmek istendiği iddia ediliyor.
+• CHP'nin kapatılması ihtimali ve parti içi mücadele de tartışma konusu oldu.
+• İmamoğlu ve CHP'nin sosyal medya hesaplarına erişim engelleri getirildi; gerekçe olarak milli güvenlik ve kamu düzeni gösterildi.
+• Dünya basını, iddianameyi ve İmamoğlu'na yönelik cezalandırma taleplerini yakından izliyor; demokratik sürece devlet müdahalesi eleştiriliyor.
+• Yargı bağımsızlığı, hukukun üstünlüğü ve adalet sistemindeki sorunlar gündemde.
+• CHP, duruşmaların canlı yayınlanmasını ve şeffaflık talep ediyor; mitingler ve sosyal medya üzerinden mücadele sürüyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilal Koylu](https://www.youtube.com/watch?v=-NN7p4AgHWI&t=44s) (⏱️ 00:44-19:12)
-- [Unsal Unlu](https://www.youtube.com/watch?v=LT5GdPw4YtE&t=184s) (⏱️ 03:04-24:12)
-- [Inan Demirel](https://www.youtube.com/watch?v=rNJHRvtYgSo&t=1050s) (⏱️ 17:30-24:40)
-- [Murat Yetkin](https://www.youtube.com/watch?v=vcuDbswWemI&t=177s) (⏱️ 02:57-13:49)
-- [Rusen Cakir](https://www.youtube.com/watch?v=nAPEyczDtDs) (⏱️ 00:00-38:32)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=sMpTHJn31SM&t=63s) (⏱️ 01:03-26:36)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=X5yFvvdWH4Y&t=27s) (⏱️ 00:27-06:00)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=-PeN0T-ojaA&t=425s) (⏱️ 07:05-11:17)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=Qjkk5VI3j0U&t=257s) (⏱️ 04:17-19:28)
-- [Serdar Akinan](https://www.youtube.com/watch?v=c2Uog128ISA&t=547s) (⏱️ 09:07-12:54)
+- [Rusen Cakir](https://www.youtube.com/watch?v=-SCvf8XaE2o&t=1889s) (⏱️ 31:29-40:31)
+- [Serdar Akinan](https://www.youtube.com/watch?v=6NlTR3j8_xE&t=581s) (⏱️ 09:41-18:34)
+- [Unsal Unlu](https://www.youtube.com/watch?v=F9UqKjmpGuI&t=131s) (⏱️ 02:11-02:10)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=2TaSDlYDxYc&t=67s) (⏱️ 01:07-15:04)
+- [Onlar TV](https://www.youtube.com/watch?v=9vnSUtwvjAQ) (⏱️ 00:00-21:00)
+- [Inan Demirel](https://www.youtube.com/watch?v=0V6lET0sLCE&t=610s) (⏱️ 10:10-13:28)
+- [Murat Yetkin](https://www.youtube.com/watch?v=FEAAaP825Oo&t=868s) (⏱️ 14:28-16:32)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=bara4tB7D_E&t=753s) (⏱️ 12:33-18:24)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=kM4ml8tyBew) (⏱️ 00:00-18:11)
+- [Hilal Koylu](https://www.youtube.com/watch?v=_d8yFOg983s&t=136s) (⏱️ 02:16-19:00)
 
 ---
 
-## 2. Erdoğan ve Bahçeli Arasında Kritik Görüşme
+## 2. Türkiye'de Yargı Krizi ve Hukuksuzluk Değerlendirmesi
 
-• Cumhurbaşkanı Erdoğan ve MHP lideri Bahçeli arasında kritik bir görüşme gerçekleşti.
-• Görüşme yaklaşık 40 dakika sürdü, bazı konularda görüş ayrılıkları olduğu belirtildi.
-• Masada terörsüz Türkiye süreci, iddianameler, Esenyurt Belediye Başkanı Ahmet Özer'in tahliyesi, Kuzey Kıbrıs ve Suriye konuları vardı.
-• Ahmet Özer ve Orkun Özeller, tutuklu yargılandıkları davalardan beraat ederek tahliye edildi.
-• Ahmet Özer, tahliyesi sonrası Bahçeli'ye teşekkür etti ve barış ile demokrasi vurgusu yaptı.
-• MHP'nin hükümetle ekonomi ve dış politika başta olmak üzere bazı konularda anlaşmazlıkları olduğu aktarıldı.
-• AKP ve MHP arasında KKTC'nin statüsü konusunda da farklı görüşler bulunuyor.
-• CHP içinde de çeşitli tartışmalar yaşanıyor, Özgür Özel Erdoğan'a çağrıda bulundu.
-• Görüşmenin ardından Cumhur İttifakı'nda buzların eriyip erimediği ve siyasi dengelerin nasıl değişeceği merak ediliyor.
+• Selahattin Demirtaş ve Tayfun Kahraman'ın tahliye talepleri, AİHM ve Anayasa Mahkemesi kararlarına rağmen reddedildi
+• Alt mahkemeler, Anayasa Mahkemesi'nin hak ihlali ve tahliye kararlarını uygulamıyor
+• Bu durum, Türkiye'de büyük bir yargı ve hukuk krizi olarak değerlendiriliyor
+• Anayasa Mahkemesi Başkanı, sistemin hakları koruyamadığını ve yargıçların aciz kaldığını söyledi
+• Muhalefet ve hukukçular, yargı kararlarının tanınmamasını "darbe bildirisi" olarak nitelendiriyor
+• Hukukun üstünlüğü ve adalet sistemi tartışmalı hale geldi
+• Toplumda adaletsizlik, ekonomik sıkıntılar ve hukuksuzluk eleştirileri artıyor
+• Tutuklu yargılananların aileleri, adil yargılama ve insan hakları için toplumsal dayanışma çağrısı yapıyor
+• Yargı krizinin Türkiye'de demokrasi, toplumsal güven ve yaşam kalitesi üzerinde olumsuz etkileri olduğu vurgulanıyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Nevsin Mengu](https://www.youtube.com/watch?v=X5yFvvdWH4Y&t=1140s) (⏱️ 19:00-22:35)
-- [Inan Demirel](https://www.youtube.com/watch?v=rNJHRvtYgSo) (⏱️ 00:00-04:30)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=sMpTHJn31SM&t=1894s) (⏱️ 31:34-34:00)
-- [Hilal Koylu](https://www.youtube.com/watch?v=-NN7p4AgHWI&t=1152s) (⏱️ 19:12-19:12)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=-PeN0T-ojaA&t=1070s) (⏱️ 17:50-19:28)
-- [Serdar Akinan](https://www.youtube.com/watch?v=c2Uog128ISA&t=775s) (⏱️ 12:55-21:26)
+- [Hilal Koylu](https://www.youtube.com/watch?v=_d8yFOg983s&t=1230s) (⏱️ 20:30-27:53)
+- [Inan Demirel](https://www.youtube.com/watch?v=0V6lET0sLCE&t=1190s) (⏱️ 19:50-23:40)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=2TaSDlYDxYc&t=925s) (⏱️ 15:25-27:53)
+- [Unsal Unlu](https://www.youtube.com/watch?v=bm_m78bN404&t=128s) (⏱️ 02:08-02:53)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=YQ8AuwG805A&t=1049s) (⏱️ 17:29-18:43)
+- [Rusen Cakir](https://www.youtube.com/watch?v=-SCvf8XaE2o&t=43s) (⏱️ 00:43-09:52)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=WAWpbw7sz1E&t=3083s) (⏱️ 51:23-54:27)
 
 ---
 
-## 3. C-130 Askeri Uçağı Kazası ve 20 Şehit
+## 3. Denetimsizlik ve Gıda Güvenliği Krizi
 
-- Azerbaycan'dan dönen Türk askeri personelini taşıyan C-130 askeri nakliye uçağı Gürcistan'da düştü
-- 20 asker şehit oldu, farklı rütbelerden personel hayatını kaybetti
-- Uçağın 58 yıllık ve ikinci el olduğu, eski uçakların kullanılması eleştirildi
-- Kazanın nedeni henüz açıklanmadı, kara kutu Ankara'da inceleniyor
-- Olası nedenler arasında teknik arıza, bakım eksikliği, pilotaj hatası ve sabotaj ihtimali tartışılıyor
-- Milli Savunma Bakanlığı, C-130 uçaklarının uçuşlarını geçici olarak durdurdu
-- Hükümetin milli yas ilan etmemesi ve şehit ailelerine yapılan bildirimlerde kullanılan dil eleştirildi
-- Sosyal medyada bilgi kirliliği ve şehit ailelerinin acısının paylaşılma şekli tartışıldı
-- Olayın politik ve toplumsal sonuçları gündemde, şeffaf açıklama talep ediliyor
+• Kocaeli Dilovası'nda kaçak parfüm imalathanesinde patlama oldu, altı kişi hayatını kaybetti
+• Ölenlerin üçü çocuk, altısı kadın
+• İmalathane daha önce iki kez şikayet edildi, adres tespit edilemediği için denetim yapılmadı
+• Atölye İşkur'un yanında olmasına rağmen kayıtlarda yoktu
+• Olayın üzerinin kapatılmaya çalışıldığı iddia edildi
+• İmalathane sahibi Ali Osman Akat'ın kokain ticaretinden hüküm giydiği ve bazı siyasetçilerle ilişkileri olduğu ortaya çıktı
+• İstanbul Ortaköy'de bir aile midye ve kumpir yedikten sonra zehirlendi, anne ve iki çocuk öldü, baba hastanede
+• Olay sonrası dükkan kapatıldı, soruşturma başlatıldı, Almanya devreye girdi
+• Türkiye genelinde son dönemde gıda zehirlenmesi vakaları arttı, birçok şehirde toplu zehirlenmeler yaşandı
+• Gıda güvenliği ve denetim eksikliği ciddi sorun olarak öne çıktı
+• Sağlık sisteminde de eksiklikler ve personel yetersizliği ölümlere yol açıyor
+• Denetimsizlik, kayıt dışı işletmeler ve ucuz gıdaya yönelme krizi derinleştiriyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=-PeN0T-ojaA&t=182s) (⏱️ 03:02-07:05)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=sMpTHJn31SM&t=2182s) (⏱️ 36:22-45:49)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=X5yFvvdWH4Y&t=1625s) (⏱️ 27:05-29:22)
-- [Serdar Akinan](https://www.youtube.com/watch?v=c2Uog128ISA&t=3s) (⏱️ 00:03-06:17)
-- [Unsal Unlu](https://www.youtube.com/watch?v=LT5GdPw4YtE&t=44s) (⏱️ 00:44-06:23)
-- [Murat Yetkin](https://www.youtube.com/watch?v=vcuDbswWemI&t=5s) (⏱️ 00:05-02:56)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=Qjkk5VI3j0U&t=2164s) (⏱️ 36:04-36:14)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=9e1ql8tAKGE&t=560s) (⏱️ 09:20-12:02)
+- [Unsal Unlu](https://www.youtube.com/watch?v=F9UqKjmpGuI&t=1023s) (⏱️ 17:03-17:44)
+- [Murat Yetkin](https://www.youtube.com/watch?v=FEAAaP825Oo&t=218s) (⏱️ 03:38-04:34)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=WAWpbw7sz1E&t=2806s) (⏱️ 46:46-51:23)
 
 ---
 
-## 4. Tahliye Tartışmaları ve Siyasi Yansımalar
+## 4. Epstein Skandalında Sızan Belgeler Gündemde
 
-• Selahattin Demirtaş'ın tahliyesi gündemde.
-• Avrupa İnsan Hakları Mahkemesi (AİHM) Türkiye'nin itirazını reddetti ve ihlal kararı verdi.
-• Hükümet ve AK Parti kanadından tahliye olmayacağı yönünde açıklamalar geldi.
-• Tahliye için uygun zaman beklendiği ve yasal düzenlemelerin gündeme gelebileceği belirtiliyor.
-• Selçuk Mızraklı'nın tahliye başvurusu "örgütten ayrıldığına dair beyanı yok" gerekçesiyle reddedildi.
-• PKK'nın kendini feshettiği iddiası ve Duran Kalkan'ın açıklamaları tartışılıyor.
-• Tahliye ve tutuklama kararlarında çifte standart ve siyasi etki eleştirileri yapılıyor.
-• Gezi davası tutuklusu Tayfun Kahraman'ın tahliye talebi yine reddedildi, hukuk sistemindeki çelişkiler vurgulandı.
-• Fatih Altaylı'nın davası 26 Kasım'da görülecek, serbest kalması bekleniyor.
-• Tele1'e kayyum atanması sonrası gazeteciler yeni adımlar atıyor, basın özgürlüğü tartışılıyor.
+• Jeffrey Epstein skandalında yeni belgeler ve e-postalar sızdırıldı
+• Belgelerde Trump, Clinton, Prens Andrew, Elon Musk, Peter Thiel gibi ünlü isimler yer aldı
+• Trump'ın Epstein'in suçlarını bildiği ve sessiz kaldığı iddia edildi
+• Epstein'ın ABD ve Türkiye büyükelçileriyle yakın ilişkileri olduğu öne sürüldü
+• Belgelerde rüşvet, yasa dışı gelir, Arap şeyhleriyle bağlantılar ve Rusya ile Trump arasında olası ilişkiler iddia edildi
+• Epstein'ın İsrail ajanı olduğu İsrail tarafından kabul edildi
+• Skandalın uluslararası boyutu büyüdü, Norveç başbakanı ve başka üst düzey politikacılar da gündeme geldi
+• Belgeler, ABD siyasetinde ve kamuoyunda büyük yankı uyandırdı
+• Demokratlar belgelerin açıklanmasını isterken, Cumhuriyetçiler karşı çıkıyor
+• Skandalın Trump'ın siyasi geleceğini ve Cumhuriyetçi Parti içindeki dengeleri etkileyebileceği konuşuluyor
+• Belgelerin hukuki ispat gücü zayıf, ancak siyasi etkisi yüksek olabilir
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=LT5GdPw4YtE&t=840s) (⏱️ 14:00-39:30)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=X5yFvvdWH4Y&t=1355s) (⏱️ 22:35-24:40)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=-PeN0T-ojaA&t=1395s) (⏱️ 23:15-23:30)
-- [Hilal Koylu](https://www.youtube.com/watch?v=-NN7p4AgHWI&t=1645s) (⏱️ 27:25-29:54)
-- [Inan Demirel](https://www.youtube.com/watch?v=rNJHRvtYgSo&t=270s) (⏱️ 04:30-06:30)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=sMpTHJn31SM&t=1766s) (⏱️ 29:26-30:46)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=2TaSDlYDxYc&t=1691s) (⏱️ 28:11-41:18)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=5v0PT7iyyJA) (⏱️ 00:00-13:49)
+- [Murat Yetkin](https://www.youtube.com/watch?v=FEAAaP825Oo&t=276s) (⏱️ 04:36-06:50)
+- [Serdar Akinan](https://www.youtube.com/watch?v=6NlTR3j8_xE&t=1802s) (⏱️ 30:02-32:40)
+- [Unsal Unlu](https://www.youtube.com/watch?v=F9UqKjmpGuI&t=1671s) (⏱️ 27:51-28:26)
 
 ---
 
-## 5. Türkiye'de Ekonomik Sıkıntılar Derinleşiyor
+## 5. Askeri Uçak Kazasında 20 Şehit ve Yas Tartışması
 
-• Türkiye'de ekonomik sıkıntılar ve gelir dağılımı bozukluğu artıyor
-• Enflasyon yüksek, asgari ücretli ve emekli tüketimi kısılıyor
-• Kamu harcamaları ve israf devam ediyor
-• Konut fiyatları ve inşaat maliyetleri son 10 yılda çok yükseldi
-• Gençlerin ve yaşlıların ev sahibi olması zorlaştı
-• Kamu hizmetlerinde işlemler yavaş ilerliyor, vatandaşlar zorlanıyor
-• Borsada manipülasyon iddiaları ve küçük yatırımcı için riskler var
-• Yabancı yatırımcı güven sorunu nedeniyle Türkiye'ye gelmiyor
-• Ekonomi yönetiminde değişiklik ve yeni model tartışmaları gündemde
-• Ekonomik sorunların toplumsal sorunlara yol açabileceği uyarısı yapılıyor
-• Altın güvenli liman olarak öne çıkıyor, dolar/TL'nin geleceği belirsiz
+• C130 tipi askeri nakliye uçağı Azerbaycan-Gürcistan sınırında düştü
+• Kazada 20 Türk Silahlı Kuvvetleri personeli şehit oldu
+• Uçak bakım malzemesi taşıyordu, mühimmat yoktu
+• Kazanın nedeni henüz bilinmiyor, teknik arıza, patlama veya sabotaj iddiaları var
+• Kara kutular inceleniyor, detaylı açıklama bekleniyor
+• Uçakların eski ve bakımlarının yetersiz olduğu iddia edildi
+• Diğer C130 uçaklarının uçuşları durduruldu
+• Şehitlerin cenazeleri Türkiye'ye getirildi ve memleketlerine uğurlandı
+• Hükümet milli yas ilan etmedi, bu durum eleştirildi
+• Muhalefet ve toplumda yas ilanı yapılmamasına tepki var
+• Sosyal medyada şehitlerin kimliklerinin erken paylaşılması tartışıldı
+• Son günlerde başka bir yangın söndürme uçağı kazasında da bir pilot şehit oldu, toplam şehit sayısı 21'e yükseldi
+• Kazaların nedenleri ve olası ihmallerle ilgili soru işaretleri sürüyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Nevsin Mengu](https://www.youtube.com/watch?v=X5yFvvdWH4Y&t=1762s) (⏱️ 29:22-45:00)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=HaWqukybYAk&t=380s) (⏱️ 06:20-10:48)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=_wPtPs0-beU&t=346s) (⏱️ 05:46-08:04)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=-PeN0T-ojaA&t=10s) (⏱️ 00:10-03:02)
+- [Serdar Akinan](https://www.youtube.com/watch?v=6NlTR3j8_xE&t=384s) (⏱️ 06:24-09:41)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=9e1ql8tAKGE) (⏱️ 00:00-09:17)
+- [Onlar TV](https://www.youtube.com/watch?v=c8hnhLKjzwM&t=10s) (⏱️ 00:10-06:20)
+- [Unsal Unlu](https://www.youtube.com/watch?v=bm_m78bN404&t=273s) (⏱️ 04:33-05:33)
 
 ---
 
-## 6. Okullarda ve Üniversitelerde Artan Şiddet
+## 6. Türkiye'de Borç Yükü ve Ekonomik Kriz
 
-- Üniversitelerde ve okullarda şiddet olayları artıyor
-- Ankara ve Hacettepe Üniversitelerinde öğrenci grupları arasında ciddi şiddet yaşandı
-- Milliyetçi gruplar, diğer öğrencilere saldırdı ve tehdit etti
-- Güvenlik ve okul yönetimleri yeterli önlem almadı
-- Sosyal medyada öğrenciler birbirini tehdit ediyor
-- Fakülte ve üniversite yönetimlerine görev çağrısı yapıldı
-- Otizmli bir öğrenciye okul müdürü tarafından şiddet uygulandı
-- Müdürün davranışı eleştirildi ve suç olduğu belirtildi
-- Bu olaylar toplumsal barış ve fikir özgürlüğü için tehdit oluşturuyor
-- Toplumun tüm kesimlerinin şiddete karşı durması istendi
+• Türkiye'de kamu projelerinin maliyeti ve borç yükü hızla artıyor
+• Yavuz Sultan Selim Köprüsü'nün maliyeti 2,5 milyar dolardan 7,18 milyar dolara yükseldi
+• Köprü için verilen araç geçiş garantisi nedeniyle devlete ek maliyetler bindi
+• Devletin borç ve faiz yükü son yıllarda katlandı
+• Kredi kartı ve tüketici kredisi borçları rekor seviyeye ulaştı
+• Eylül 2025'te kredi kartı harcamaları 1,8 trilyon liraya, toplam kart harcaması 2,2 trilyon liraya çıktı
+• Batık kredi kartı borcu 115 milyar liraya, toplam batık kredi 500 milyar liraya yükseldi
+• Halk borçla yaşamaya çalışıyor, bazıları tefecilere yöneliyor
+• Maden izinlerinde Cumhurbaşkanı'na tam yetki verildi, yeni kurul oluşturuldu
+• Ekonomik sıkıntılar ve yoksulluk toplumu derinden etkiliyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=-PeN0T-ojaA&t=1600s) (⏱️ 26:40-32:26)
-- [Unsal Unlu](https://www.youtube.com/watch?v=-e-ocTOe_a0&t=513s) (⏱️ 08:33-23:37)
+- [Unsal Unlu](https://www.youtube.com/watch?v=bm_m78bN404&t=404s) (⏱️ 06:44-12:19)
+- [Serdar Akinan](https://www.youtube.com/watch?v=6NlTR3j8_xE&t=1564s) (⏱️ 26:04-29:42)
 
 ---
 
-## 7. Çocuklar ve İşçiler Tehlikede
+## 7. Gümrük Mallarında Büyük Yolsuzluk Skandalı
 
-- Türkiye'de çocuklar ve işçiler ciddi risklerle karşı karşıya
-- Son bir yılda iş kazalarında 72 çocuk hayatını kaybetti
-- 600.000'den fazla çocuk zorunlu eğitim alamıyor
-- 170.000 çocuğa ailesi bakacak kimse yok
-- Yoksulluk ve ekonomik sorunlar çocukları olumsuz etkiliyor
-- Suça sürüklenen çocuk sayısı artıyor
-- Kocaeli Dilovası'nda kaçak parfüm imalathanesinde 6 işçi öldü
-- İmalathane daha önce şikayet edilmesine rağmen denetlenmedi
-- Olayda ihmal ve siyasi bağlantılar tartışılıyor
+• Türkiye'de organize suçlar ve kaçakçılık raporları yayımlandı
+• İnsan ticareti, uyuşturucu, silah ve sahte ürün kaçakçılığı yaygınlaştı
+• Devlet bağlantılı aktörlerin suç ekonomisinde rol aldığı iddia edildi
+• İstanbul'da Milli Emlak şube müdürü Müzeyyen Yazıcı'nın, devletin el koyduğu kaçak malları oğluna ait depoda sakladığı ve piyasaya sattığı ortaya çıktı
+• Malların AKP'li belediyelere verilmiş gibi gösterildiği, aslında satıldığı belirtildi
+• Jandarma 8 ay teknik takip yaptı, 30 Eylül 2025'te operasyon düzenlendi, 14 kişi gözaltına alındı
+• Soruşturma başlatıldı, siyasi bağlantılar ve belediyelerin rolü araştırılıyor
+• Finansal suçlar ve kamu kaynaklarının suistimali arttı, anti-yolsuzluk yasalarının uygulamada zayıf kaldığı vurgulandı
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=-PeN0T-ojaA&t=1946s) (⏱️ 32:26-33:24)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=sMpTHJn31SM&t=2749s) (⏱️ 45:49-48:39)
+- [Unsal Unlu](https://www.youtube.com/watch?v=F9UqKjmpGuI&t=2130s) (⏱️ 35:30-35:45)
+- [Onlar TV](https://www.youtube.com/watch?v=QorI8xOINlA) (⏱️ 00:00-18:41)
+- [Serdar Akinan](https://www.youtube.com/watch?v=6NlTR3j8_xE&t=1114s) (⏱️ 18:34-26:04)
 
 ---
 
-## 8. Epstein Dosyasında Trump ve Barak İddiaları
+## 8. Askeri Uçak Kazalarında Bakım Tartışması
 
-• Jeffrey Epstein dosyasına ait yeni e-posta ve belgeler ortaya çıktı.
-• Belgelerde Trump, Tom Barak ve Clinton gibi isimlerin Epstein ile ilişkileri tartışılıyor.
-• Tom Barak'a Epstein tarafından gönderilen bir e-postada çocuk fotoğrafı istenmesi pedofili iddialarını güçlendirdi.
-• Uçuş kayıtları ve diğer belgeler kamuoyuna sızdı.
-• Epstein dosyası, ABD siyasetinde şantaj ve kirli ilişkiler iddialarını gündeme getirdi.
-• Trump'ın 2016 seçimleri ve Rusya bağlantıları da dosyada yer aldı.
-• Olay, güçlü kişilerin karanlık ilişkilerini ve gazeteciliğin önemini gösteriyor.
+• Son dönemde askeri ve yangın söndürme uçaklarının kazaları gündemde
+• Kazalarda pilot Hasan Bahar ve diğer askerler hayatını kaybetti
+• Uçakların bakımı ve yaşı tartışma konusu oldu
+• Yetkililer "eski uçak yoktur, bakımsız uçak vardır" dedi
+• Muhalefet ve uzmanlar bakımın yeterliliğini ve şeffaflığını sorguladı
+• Uçakların yurtdışında bakıma gönderilmesi eleştirildi
+• Pilotlar sosyal medyada bakım eksikliğinden şikayet etti
+• Kazalar sonrası sorumluların tespit edilip edilmediği belirsiz
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Serdar Akinan](https://www.youtube.com/watch?v=c2Uog128ISA&t=1287s) (⏱️ 21:27-23:11)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=sMpTHJn31SM&t=2919s) (⏱️ 48:39-65:12)
+- [Unsal Unlu](https://www.youtube.com/watch?v=F9UqKjmpGuI&t=1101s) (⏱️ 18:21-20:36)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=WAWpbw7sz1E&t=2931s) (⏱️ 48:51-51:23)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=YQ8AuwG805A&t=421s) (⏱️ 07:01-14:27)
 
 ---
 
-## 9. Vergi ve Akaryakıt Fiyatlarına Yeni Düzenleme
+## 9. Ekonomik Kriz Yaşlı ve Çocukları Zorluyor
 
-- Emlak vergisi artışına üst sınır getirilmesi planlanıyor
-- Sınırın %50-100 arasında olması düşünülüyor
-- Düzenleme torba yasa ile meclise sunulacak
-- Fahiş fiyatlara karşı önlem alınacak
-- Kira ve ev fiyatlarının da kontrol edilmesi gerektiği belirtiliyor
-- Benzin fiyatlarına 1.30 TL zam yapılacak
-- Akaryakıt fiyatlarındaki artışın süreceği ifade ediliyor
+• Türkiye'de ekonomik zorluklar barınma ve çalışma hayatını etkiliyor
+• Emekliler, geçim sıkıntısı nedeniyle ev arkadaşı olarak yaşamaya başlıyor
+• Eskiden öğrenciler arasında yaygın olan ev paylaşımı artık emekliler arasında da görülüyor
+• 75 yaşındaki Ahmet Şahin çalışırken hayatını kaybetti
+• 16 yaşındaki Alperen Uygun, mesleki eğitim sırasında iş kazasında öldü
+• Çocuk ve yaşlılar, ekonomik zorunluluklar nedeniyle çalışmak zorunda kalıyor
+• Mesleki eğitim merkezlerinde (MESEM) çocuk işçi ölümleri artıyor
+• Bu durumlar, ekonomik ve siyasi sorunların sonucu olarak değerlendiriliyor
+• Milli Eğitim Bakanlığı'nın politikaları ve eğitimde tarikat-cemaat etkisi eleştiriliyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=Qjkk5VI3j0U&t=2373s) (⏱️ 39:33-41:03)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=sMpTHJn31SM&t=3912s) (⏱️ 65:12-65:54)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=YQ8AuwG805A&t=2348s) (⏱️ 39:08-40:47)
+- [Unsal Unlu](https://www.youtube.com/watch?v=bm_m78bN404&t=740s) (⏱️ 12:20-15:05)
 
 ---
 
-## 10. Türkiye Organize Suçta İlk 10'da
+## 10. Taciz ve Cinayet İddialarında Örtbas Tartışması
 
-- Türkiye, küresel organize suç endeksinde 10. sırada yer aldı
-- Listenin başında Myanmar, Kolombiya ve Meksika gibi ülkeler bulunuyor
-- Türkiye'de suç örgütleri siyasi ve ekonomik çevrelerden destek alıyor
-- Yargı ile yürütme arasındaki anlaşmazlıklar suçla mücadeleyi zayıflatıyor
-- Uyuşturucu, silah, insan kaçakçılığı ve yolsuzluk öne çıkan suçlar arasında
-- Cezasızlık kültürü hesap verilebilirliği azaltıyor
-- Türkiye'nin üst sıralarda olması eleştiriliyor
+• TÜGVA'da silah bulundurma ve kız öğrencilere taciz iddiaları gündeme geldi
+• Vakıf, iddiaları reddetti ve görüntülerin kurgu olduğunu açıkladı
+• Olayların üstünün örtülmeye çalışıldığı öne sürüldü
+• Iğdır'da taciz iddiası sonrası soruşturma başlatıldı, olayın kapatılması için girişimler yapıldı
+• Olayı sızdıran eski yönetici tutuklandı
+• Van'da Rojin Kabayış'ın cesedi bulundu, iki farklı erkeğe ait DNA tespit edildi
+• Cinayetin üzerinin kapatılmaya çalışıldığı ve hukuksuzluk eleştirildi
+• Sosyal medya kampanyası sonrası DNA'nın bulaşma olmadığı ortaya çıktı
+• Her iki olayda da adalet arayışı ve olayların gizlenmesi tartışma yarattı
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=-PeN0T-ojaA&t=1410s) (⏱️ 23:30-26:10)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=Qjkk5VI3j0U&t=2583s) (⏱️ 43:03-43:12)
+- [Serdar Akinan](https://www.youtube.com/watch?v=6NlTR3j8_xE&t=11s) (⏱️ 00:11-06:21)
+- [Unsal Unlu](https://www.youtube.com/watch?v=F9UqKjmpGuI&t=771s) (⏱️ 12:51-14:25)
 
 ---
 
-## 11. Trump ve Çevresinde Estetik ve Algı Tartışması
+## 11. İmralı Ziyareti Tartışması Büyüyor
 
-- Trump'ın eşiyle ilgili bir parfüm videosu gündeme geldi
-- Videoda oryantalist bakış açısı ve önyargılar eleştirildi
-- Ortadoğu'da çok eşlilikle ilgili yanlış algılar tartışıldı
-- Washington'da "Marolago Face" adlı bir estetik trendi konuşuluyor
-- Trump'ın çevresindeki kadınların benzer estetik işlemler yaptırdığı belirtiliyor
-- Estetik trendlerinin siyasete ve toplumsal algıya etkisi tartışıldı
+• İmralı'ya Meclis komisyonu ziyareti yeniden gündeme geldi
+• Erdoğan ve Bahçeli görüşmesinden sonra Cumhur İttifakı'nda çatlak olmadığı açıklandı
+• MHP ile ilişkilerin hassas yürütülmesi istendi
+• AK Parti içinde İmralı'ya gitme konusunda farklı görüşler var
+• Bahçeli, İmralı ziyaretinin süreci güçlendireceğini söyledi
+• DEM Parti ve Kandil, Öcalan ile görüşme talebini sürdürüyor
+• Diyarbakır anneleri çocuklarının Türkiye'ye dönmesini bekliyor
+• Komisyonun İmralı'ya gitmesi çözüm süreci açısından önemli görülüyor
+• Erdoğan, sürecin başarısı konusunda temkinli davranıyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=-PeN0T-ojaA&t=2004s) (⏱️ 33:24-34:44)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=X5yFvvdWH4Y&t=3015s) (⏱️ 50:15-52:10)
+- [Inan Demirel](https://www.youtube.com/watch?v=0V6lET0sLCE&t=1420s) (⏱️ 23:40-28:30)
+- [Unsal Unlu](https://www.youtube.com/watch?v=F9UqKjmpGuI&t=1268s) (⏱️ 21:08-23:56)
+
+---
+
+## 12. Tele1 Ekibi Tele2 Haber'i Kurdu
+
+• Tele1 kanalına kayyum atandı ve kanalın yönetimi değişti
+• Kanalın genel yayın yönetmeni Merdan Yanardağ görevden alındı ve cezaevinde olduğu belirtildi
+• Tele1'in YouTube kanalı da kayyumun kontrolüne geçti
+• Eski Tele1 ekibi, bağımsız haberciliğe devam etmek için Tele2 Haber adlı yeni bir YouTube kanalı kurdu
+• Tele2 Haber, ilk yayınını Tele1'e kayyumun geldiği saatte yaptı
+• Tele2 Haber'de haftalık yayınlar planlanıyor, mevcut kanalda ise günlük yayınlar sürecek
+• Bağımsız gazeteciliğin önemi vurgulandı ve destek çağrısı yapıldı
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Inan Demirel](https://www.youtube.com/watch?v=0V6lET0sLCE) (⏱️ 00:00-03:05)
+- [Hilal Koylu](https://www.youtube.com/watch?v=_d8yFOg983s&t=1791s) (⏱️ 29:51-30:18)
+
+---
+
+## 13. Yargı Paketinde Çocuk Hakları Tartışması
+
+• 11. Yargı Paketi önümüzdeki hafta Meclis'e gelecek
+• Paketten suça sürüklenen çocuklara yönelik cezai düzenlemeler çıkarıldı
+• Çocuk hakları alanında çalışan STK'lar ve Eşik Platformu bu düzenlemeleri eleştiriyordu
+• Çocuk suçluluğu kavramı yargı paketinden çıkarıldı
+• Çocuk kavramı üzerinden evlilik yaşının düşürülmesi tartışılıyor
+• Hükümetin çocuk haklarını yeterince korumadığı eleştiriliyor
+• Mecliste konu için komisyon kurulacak, bakanlar ve MİT başkanı dinlenecek
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Hilal Koylu](https://www.youtube.com/watch?v=_d8yFOg983s&t=1676s) (⏱️ 27:56-29:01)
+- [Unsal Unlu](https://www.youtube.com/watch?v=bm_m78bN404&t=1115s) (⏱️ 18:35-19:16)
+
+---
+
+## 14. Özgür Özel'den Sandıkta Yarış Çağrısı
+
+• CHP Genel Başkanı Özgür Özel, Cumhurbaşkanı Erdoğan'a sandıkta yarışma çağrısı yaptı
+• Baharda veya kışta aday olursa Erdoğan'ı emekli etmeye hazır olduğunu söyledi
+• Bu açıklamalar, CHP'de kimin aday olacağı tartışmalarını başlattı
+• Özel, gazetecilerle yaptığı toplantıda parlamenter sisteme geçiş ve anayasa değişikliği konularını değerlendirdi
+• Kendi adaylığını düşünmediğini de belirtti
+• Siyasi gündem ve çözüm süreci hakkında görüşlerini paylaştı
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Unsal Unlu](https://www.youtube.com/watch?v=F9UqKjmpGuI&t=1922s) (⏱️ 32:02-32:12)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=YQ8AuwG805A&t=2062s) (⏱️ 34:22-37:05)
+
+---
+
+## 15. ABD'nin Suriye Politikası ve Küresel Krizler Değerlendirildi
+
+- ABD'nin Suriye'deki rolü ve bölgedeki Kürtler ile Şam yönetimi arasındaki denge tartışıldı
+- Türkiye'nin Suriye politikası ve iç politikaya etkileri vurgulandı
+- SDG'nin Suriye'ye entegrasyonu ve IŞİD'e karşı mücadelede yeni işbirlikleri gündemde
+- Suriye'de yerinden yönetim konusu kritik olarak öne çıktı
+- ABD'nin bölgedeki ana aktör olduğu belirtildi
+- The Economist dergisinin 2026 kapağı üzerinden küresel krizler ve jeopolitik gelişmeler değerlendirildi
+- Kapakta Orta Doğu, Ukrayna-Rusya savaşı, Çin'in yükselişi ve ABD'nin krizleri gibi başlıklar öne çıktı
+- Küresel düzenin geleceği ve semboller üzerinden verilen mesajlar analiz edildi
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Rusen Cakir](https://www.youtube.com/watch?v=-SCvf8XaE2o&t=970s) (⏱️ 16:10-30:31)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=YQ8AuwG805A&t=2447s) (⏱️ 40:47-78:47)
+
+---
+
+## 16. CHP İstanbul İl Binasında Skandal
+
+• CHP İstanbul İl Başkanlığı binasında Gürsel Tekin'in odasına dışkı bırakıldı
+• Olay güvenlik kameraları ve tutanaklarla kayıt altına alındı
+• Gürsel Tekin, olayın parti içi kavganın geldiği noktayı gösterdiğini söyledi
+• CHP, odanın anahtarının sadece Tekin ve iki kişide olduğunu açıkladı
+• Olay sosyal medyada ve basında geniş yankı buldu
+• Faillerin tespit edilmesi istendi, olay kamuoyunda tepkiyle karşılandı
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Inan Demirel](https://www.youtube.com/watch?v=0V6lET0sLCE&t=1710s) (⏱️ 28:30-31:37)
+- [Unsal Unlu](https://www.youtube.com/watch?v=F9UqKjmpGuI&t=2549s) (⏱️ 42:29-46:03)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=2TaSDlYDxYc&t=10s) (⏱️ 00:10-01:04)
+- [Serdar Akinan](https://www.youtube.com/watch?v=6NlTR3j8_xE&t=1782s) (⏱️ 29:42-30:02)
 
 ---
 
