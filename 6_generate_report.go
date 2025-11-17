@@ -41,7 +41,7 @@ type VideoSource struct {
 // MergedNewsStory represents a news story merged from multiple sources
 type MergedNewsStory struct {
 	Title        string        `json:"title" jsonschema:"description=Birleştirilmiş haberin başlığı"`
-	Summary      string        `json:"summary" jsonschema:"description=Tüm kaynaklardan birleştirilmiş detaylı haber özeti"`
+	Summary      []string      `json:"summary" jsonschema:"description=Tüm kaynaklardan birleştirilmiş detaylı haber özeti (madde işaretleri dizisi olarak)"`
 	Reporters    []string      `json:"reporters" jsonschema:"description=Bu haberi kapsayan muhabirlerin listesi"`
 	Priority     int           `json:"priority" jsonschema:"description=Haberin önem derecesi (1=en önemli, 10=en az önemli)"`
 	VideoSources []VideoSource `json:"-"` // Not included in JSON schema
@@ -128,7 +128,7 @@ func convertClustersToMergedStories(clusters ClusteringResult) []MergedNewsStory
 			story := cluster.Stories[0]
 			mergedStory := MergedNewsStory{
 				Title:     story.Title,
-				Summary:   story.Summary,
+				Summary:   splitSummaryIntoBulletPoints(story.Summary),
 				Reporters: []string{story.Reporter},
 				Priority:  5, // Default priority
 				VideoSources: []VideoSource{
@@ -158,6 +158,40 @@ func convertClustersToMergedStories(clusters ClusteringResult) []MergedNewsStory
 	return mergedStories
 }
 
+// splitSummaryIntoBulletPoints splits a summary string into bullet points array
+func splitSummaryIntoBulletPoints(summary string) []string {
+	lines := strings.Split(summary, "\n")
+	var bulletPoints []string
+
+	for _, line := range lines {
+		// Trim whitespace
+		line = strings.TrimSpace(line)
+
+		// Skip empty lines
+		if line == "" {
+			continue
+		}
+
+		// Remove common bullet point characters from the beginning
+		line = strings.TrimPrefix(line, "- ")
+		line = strings.TrimPrefix(line, "• ")
+		line = strings.TrimPrefix(line, "* ")
+		line = strings.TrimSpace(line)
+
+		// Add to bullet points if not empty
+		if line != "" {
+			bulletPoints = append(bulletPoints, line)
+		}
+	}
+
+	// If no bullet points were found, return the original summary as a single item
+	if len(bulletPoints) == 0 {
+		return []string{summary}
+	}
+
+	return bulletPoints
+}
+
 // mergeClusterWithAI uses OpenAI API to merge stories in a cluster
 func mergeClusterWithAI(cluster StoryCluster) MergedNewsStory {
 	apiKey := Config.OpenAIAPIKey
@@ -170,7 +204,7 @@ func mergeClusterWithAI(cluster StoryCluster) MergedNewsStory {
 		story := cluster.Stories[0]
 		return MergedNewsStory{
 			Title:     story.Title,
-			Summary:   story.Summary,
+			Summary:   splitSummaryIntoBulletPoints(story.Summary),
 			Reporters: []string{story.Reporter},
 			Priority:  5,
 		}
@@ -191,12 +225,12 @@ func mergeClusterWithAI(cluster StoryCluster) MergedNewsStory {
 	schemaBytes, err := json.Marshal(schemaObj)
 	if err != nil {
 		log.Printf("Failed to marshal schema: %v", err)
-		return MergedNewsStory{Title: "Hata", Summary: "Schema hatası"}
+		return MergedNewsStory{Title: "Hata", Summary: []string{"Schema hatası"}}
 	}
 	var schema any
 	if err := json.Unmarshal(schemaBytes, &schema); err != nil {
 		log.Printf("Failed to unmarshal schema: %v", err)
-		return MergedNewsStory{Title: "Hata", Summary: "Schema hatası"}
+		return MergedNewsStory{Title: "Hata", Summary: []string{"Schema hatası"}}
 	}
 
 	// Collect unique reporters
@@ -229,9 +263,10 @@ BAŞLIK YAZIM KURALLARI:
 • Maksimum 5-7 kelime kullan
 
 ÖZET YAZIM KURALLARI:
-• Özeti basit cümleler halinde yaz
-• Madde işaretleri kullan
-• Her madde kısa ve net olsun
+• Özeti dizi (array) olarak döndür
+• Her madde dizinin ayrı bir elemanı olmalı
+• Madde işareti karakterleri KULLANMA (-, *, vb.)
+• Her madde basit ve kısa bir cümle olsun
 • Karmaşık cümleler kurma
 • Teknik terimler varsa basit açıkla`
 	userContent := fmt.Sprintf("Bu benzer haber hikayelerini birleştir ve tek bir tutarlı haber haline getir:\n\n%s", string(clusterJSON))
@@ -258,18 +293,18 @@ BAŞLIK YAZIM KURALLARI:
 	})
 	if err != nil {
 		log.Printf("Failed to call OpenAI API for merging: %v", err)
-		return MergedNewsStory{Title: "Hata", Summary: "AI çağrısı hatası"}
+		return MergedNewsStory{Title: "Hata", Summary: []string{"AI çağrısı hatası"}}
 	}
 
 	if len(chatCompletion.Choices) == 0 || chatCompletion.Choices[0].Message.Content == "" {
 		log.Printf("No content in merge response")
-		return MergedNewsStory{Title: "Hata", Summary: "Boş yanıt"}
+		return MergedNewsStory{Title: "Hata", Summary: []string{"Boş yanıt"}}
 	}
 
 	var mergedStory MergedNewsStory
 	if err := json.Unmarshal([]byte(chatCompletion.Choices[0].Message.Content), &mergedStory); err != nil {
 		log.Printf("Failed to parse merged story: %v", err)
-		return MergedNewsStory{Title: "Hata", Summary: "Ayrıştırma hatası"}
+		return MergedNewsStory{Title: "Hata", Summary: []string{"Ayrıştırma hatası"}}
 	}
 
 	// Set reporters and video sources
@@ -420,7 +455,12 @@ func formatFinalReport(stories []MergedNewsStory) string {
 
 	for i, story := range stories {
 		report += fmt.Sprintf("## %d. %s\n\n", i+1, story.Title)
-		report += fmt.Sprintf("%s\n\n", story.Summary)
+
+		// Format summary as markdown bullet points
+		for _, point := range story.Summary {
+			report += fmt.Sprintf("- %s\n", point)
+		}
+		report += "\n"
 
 		// Add reporter attribution with video links
 		if len(story.Reporters) > 0 {
