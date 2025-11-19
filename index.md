@@ -1,244 +1,254 @@
 # Bugün Ne Oldu?
 
-*18 November 2025 tarihli günlük haber raporu - 11 haber birleştirildi*
+*19 November 2025 tarihli günlük haber raporu - 12 haber birleştirildi*
 
-## 1. Böcek Ailesi Ölümü ve Gıda Güvenliği
+## 1. Bahçeli'nin İmralı Çıkışı ve Siyasi Kriz
 
-- Almanya'dan İstanbul'a tatile gelen Böcek ailesi otelde kaldıktan sonra hayatını kaybetti
-- Önce çocuklar, ardından anne ve baba yaşamını yitirdi
-- Ölüm nedeni olarak gıda zehirlenmesi ve oteldeki böcek ilaçlamasından sızan gaz ihtimali tartışıldı
-- Otelde pestisit içeren ilaçlama yapıldığı, kullanılan maddenin çok tehlikeli ve panzehiri olmadığı belirtildi
-- İlaçlamayı yapan kişinin sertifikasız olduğu ve denetimsizlik olduğu iddia edildi
-- Otel, restoranlar ve bazı sokak satıcıları mühürlendi, bazı kişiler tutuklandı
-- Adli tıp raporuna göre zehirlenmenin oteldeki ortamdan kaynaklandığı, gıdadan zehirlenme olasılığının düşük olduğu açıklandı
-- Türkiye'de gıda güvenliği, denetimsizlik ve liyakatsizlik sorunları tekrar gündeme geldi
-- Benzer zehirlenme vakaları İzmir, Trabzon ve Bursa'da da yaşandı
-- Cumhurbaşkanı Erdoğan gıda güvenliği konusunda ihmale tolerans gösterilmeyeceğini açıkladı
-- Uzmanlar, Türkiye'de pestisit ve kimyasal kullanımının denetimsiz olduğunu ve halk sağlığını tehdit ettiğini vurguladı
-- Gıda fiyatları, gıda kirliliği ve denetim eksikliği de tartışmalar arasında yer aldı
+- MHP lideri Devlet Bahçeli, İmralı'ya gitmeye hazır olduğunu açıkladı.
+- Bahçeli, gerekirse üç arkadaşıyla birlikte İmralı'ya gideceğini söyledi.
+- Bu çıkış, meclisteki komisyonun Abdullah Öcalan'ı muhatap alıp almayacağı tartışmasını başlattı.
+- Komisyonun İmralı'ya gidip gitmeyeceği cuma günü oylanacak.
+- AK Parti ve MHP arasında süreçle ilgili görüş ayrılıkları yaşanıyor.
+- CHP'nin komisyona katılıp katılmayacağı ve tutumu belirsizliğini koruyor.
+- DEM Parti, Öcalan'ın muhatap alınmasını istiyor.
+- İyi Parti ve Yeniden Refah Partisi sürece karşı çıkıyor, Doğu Perinçek de eleştiriyor.
+- Bahçeli'nin çıkışı MHP grubunda alkışlandı, tabanda destek buldu.
+- Siyasi partiler arasında süreç yönetimi ve komisyona katılım tartışılıyor.
+- Cumhurbaşkanı Erdoğan'ın sessizliği dikkat çekiyor, karar AK Parti'nin elinde.
+- Devlet içinde klik çatışmaları ve yeni egemenlik anlayışı analiz ediliyor.
+- Sürecin siyasi ve toplumsal etkileri, ekonomik ve güvenlik sorunlarıyla birlikte değerlendiriliyor.
+- Selahattin Demirtaş'ın tahliyesi ve rolü de gündemde.
+- Oylama sonrası sürecin yönü ve siyasi dengeler netleşecek.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=hh1B8j-2N7U&t=315s) (⏱️ 05:15-11:24)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=zNc89aWRPFI&t=1224s) (⏱️ 20:24-25:00)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=rGWcJN8bztw&t=279s) (⏱️ 04:39-12:46)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=zHkm5HP_ul8&t=3395s) (⏱️ 56:35-61:31)
-- [Unsal Unlu](https://www.youtube.com/watch?v=F4k9Wr6B2RM&t=81s) (⏱️ 01:21-25:15)
-- [Hilal Koylu](https://www.youtube.com/watch?v=pA-F9OvB0ls&t=1723s) (⏱️ 28:43-31:01)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=GN7mVlW5glQ&t=125s) (⏱️ 02:05-07:42)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=q3tYjhS6AhU&t=90s) (⏱️ 01:30-07:00)
+- [Serdar Akinan](https://www.youtube.com/watch?v=sPDSnaFVch8) (⏱️ 00:00-04:06)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=YJI2DvNd5kA&t=53s) (⏱️ 00:53-03:34)
+- [Murat Yetkin](https://www.youtube.com/watch?v=sWjvDVdZG_0&t=6s) (⏱️ 00:06-13:33)
+- [Unsal Unlu](https://www.youtube.com/watch?v=9laSKAXKO7c&t=80s) (⏱️ 01:20-26:14)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=WwITIvwZ8g4&t=44s) (⏱️ 00:44-21:09)
+- [Inan Demirel](https://www.youtube.com/watch?v=TaBbwcoMXHo&t=370s) (⏱️ 06:10-10:50)
+- [Hilal Koylu](https://www.youtube.com/watch?v=d6kdDlI0itE&t=1171s) (⏱️ 19:31-25:31)
+- [Rusen Cakir](https://www.youtube.com/watch?v=S6D-q_V1AQg&t=185s) (⏱️ 03:05-11:31)
 
 ---
 
-## 2. İmamoğlu ve İBB İddianamesi Tartışmaları
+## 2. Türkiye'de Zehirlenme ve Denetim Krizi
 
-- Ekrem İmamoğlu ve İstanbul Büyükşehir Belediyesi hakkında 7 ay süren soruşturma sonrası iddianame hazırlandı
-- Medyada para dolu valizler, rüşvet, PKK'ya para gönderme gibi iddialar öne çıktı ancak çoğu iddianamede yer almadı
-- İddianamede bazı şirketler ve isimler şüpheli olarak yer almadı, bazıları ise yanlışlıkla eklendi
-- İddianamede sahte fatura, naylon şirketler ve usulsüzlük iddiaları bulunuyor
-- Gizli tanık ve etkin pişmanlık ifadelerinde çelişkiler ve montaj iddiaları var
-- İddianamede 130 milyar TL kamu zararı iddiası var, ancak somut dayanak eksik
-- İlbaklar Grubu gibi bazı şirketler hakkında çok sayıda iddia olmasına rağmen şüpheli listesinde yer almadı
-- İddianamenin çok uzun ve karmaşık olduğu, savunma hakkının kısıtlandığı öne sürüldü
-- Ekrem İmamoğlu'nun sosyal medya hesaplarına milli güvenlik gerekçesiyle erişim engeli getirildi
-- İktidar ve muhalefet kulislerinde iddianamenin siyasi etkileri ve yeni iddianameler tartışılıyor
-- Bazı medya organlarının iddiaları kamuoyunda yanlış algı oluşturdu
-- Mahkeme sürecinin başlaması ve ayrıntıların ortaya çıkması bekleniyor
+- Türkiye'de bir aile tatildeyken kimyasal zehirlenme sonucu hayatını kaybetti
+- Otel odasında yapılan böcek ilacının alüminyum fosfit olduğu düşünülüyor
+- İlaçlamayı yapan firmanın ruhsatı ve eğitimi eksikti
+- Gıda zehirlenmesi ihtimali düşük bulundu
+- Aynı otelde kalan başka turistler de etkilendi ama ölmedi
+- Adli Tıp Kurumu'nun analizleri yetersiz ve yavaş kaldı
+- Türkiye'de pestisit ve kimyasal kullanımında denetim eksikliği var
+- Beyoğlu'nda bir kafede su yerine deterjanla kahve yapıldı, müşteri zehirlendi
+- Kafe mühürlendi, sorumlular gözaltına alındı
+- Son dönemde art arda zehirlenme vakaları yaşanıyor
+- Gıda güvenliği ve hijyen denetimleri yetersiz
+- Tarım ve Sağlık Bakanlığı'nın denetimleri artırması isteniyor
+- İstanbul'da tüm işletmelere kamera ve hijyen eğitimi zorunluluğu getirildi
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Onlar TV](https://www.youtube.com/watch?v=FI59o4SF9FU) (⏱️ 00:00-12:15)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=hh1B8j-2N7U&t=1127s) (⏱️ 18:47-19:52)
-- [Hilal Koylu](https://www.youtube.com/watch?v=pA-F9OvB0ls&t=14s) (⏱️ 00:14-01:55)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=zHkm5HP_ul8&t=24s) (⏱️ 00:24-52:37)
-- [Unsal Unlu](https://www.youtube.com/watch?v=RDXXGpw1_tU&t=559s) (⏱️ 09:19-10:55)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=zNc89aWRPFI&t=20s) (⏱️ 00:20-02:53)
+- [Hilal Koylu](https://www.youtube.com/watch?v=d6kdDlI0itE&t=1710s) (⏱️ 28:30-30:16)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=GN7mVlW5glQ&t=758s) (⏱️ 12:38-14:45)
+- [Unsal Unlu](https://www.youtube.com/watch?v=HrgaMMGFUXE&t=1277s) (⏱️ 21:17-22:04)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=WwITIvwZ8g4&t=1887s) (⏱️ 31:27-36:50)
+- [Serdar Akinan](https://www.youtube.com/watch?v=sPDSnaFVch8&t=767s) (⏱️ 12:47-17:23)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=FMhJ1QWQVG0) (⏱️ 00:00-19:28)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=q3tYjhS6AhU&t=1200s) (⏱️ 20:00-23:45)
 
 ---
 
-## 3. İmralı Tartışmaları ve Çözüm Süreci Gündemi
+## 3. İşsizlik ve Ekonomik Kriz Derinleşiyor
 
-- Türkiye'de çözüm süreci ve İmralı'ya ziyaret tartışmaları gündemde
-- MHP lideri Bahçeli, İmralı'ya gitmeye hazır olduğunu açıkladı
-- PKK'nın Zap bölgesinden çekildiği duyuruldu
-- Mecliste terörsüz Türkiye ve çözüm süreci için komisyon toplantıları yapılıyor
-- Komisyonun İmralı'ya gidip gitmeyeceği ve yasal düzenlemeler tartışılıyor
-- AK Parti ve MHP arasında İmralı ziyareti konusunda görüş ayrılıkları var
-- CHP'nin süreçteki tavrı ve muhalefetin çözüm önerileri sorgulanıyor
-- Selahattin Demirtaş'ın tahliyesi ve Edirne Cezaevi'ndeki durumu gündemde
-- Muhalefete yönelik yargı süreçleri ve siyasi tartışmalar devam ediyor
-- İç cepheyi güçlendirme söylemiyle siyasi partiler arasında çelişkiler yaşanıyor
-- Toplumda genel af ve eve dönüş beklentisi oluştu, ancak yasal pakette yer almıyor
+- TÜİK'e göre işsizlik oranı ve istihdamda ciddi sorunlar var
+- Geniş tanımlı işsizlik ve iş aramaktan vazgeçenlerin sayısı yüksek
+- Kadınlar ve gençlerde işsizlik oranı daha fazla
+- DİSK-AR'a göre gerçek istihdam oranı resmi rakamlardan düşük
+- Ekonomik kriz, sanayi ve hizmet sektörlerinde küçülmeye yol açtı
+- Asgari ücretin alım gücü düştü, zamlar yetersiz kaldı
+- Gelir dağılımı bozuldu, yoksulluk arttı
+- Erdoğan, HAK-İŞ toplantısında hayat pahalılığını çözeceklerini söyledi
+- Toplantıda işçi hakları ve asgari ücret konuşulmadı
+- Kamuoyunda hükümetin ekonomik vaatleri inandırıcı bulunmuyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilal Koylu](https://www.youtube.com/watch?v=pA-F9OvB0ls&t=1601s) (⏱️ 26:41-28:40)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=zNc89aWRPFI&t=960s) (⏱️ 16:00-18:00)
-- [Serdar Akinan](https://www.youtube.com/watch?v=Alm4KX8nKSM&t=1173s) (⏱️ 19:33-23:46)
-- [Murat Yetkin](https://www.youtube.com/watch?v=H5hiWQMl8IE&t=1073s) (⏱️ 17:53-19:47)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=rGWcJN8bztw&t=2103s) (⏱️ 35:03-45:00)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=zHkm5HP_ul8&t=3693s) (⏱️ 61:33-67:31)
-- [Inan Demirel](https://www.youtube.com/watch?v=O31OIkwOEa4&t=840s) (⏱️ 14:00-17:10)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=GN7mVlW5glQ&t=1563s) (⏱️ 26:03-27:00)
+- [Unsal Unlu](https://www.youtube.com/watch?v=HrgaMMGFUXE&t=965s) (⏱️ 16:05-27:49)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=ws-pRMKcOqk&t=2394s) (⏱️ 39:54-59:45)
+- [Hilal Koylu](https://www.youtube.com/watch?v=d6kdDlI0itE&t=1645s) (⏱️ 27:25-27:53)
+- [Inan Demirel](https://www.youtube.com/watch?v=TaBbwcoMXHo&t=80s) (⏱️ 01:20-04:20)
 
 ---
 
-## 4. Siyasette Liderlik Tartışmaları ve Samimiyet
+## 4. Türkiye'de Yargı ve Finans Krizi
 
-- CHP ve AK Parti'de liderlik ve iç tartışmalar gündemde
-- Özgür Özel'in Erdoğan'a mesajı ve CHP'de değişim beklentisi konuşuluyor
-- Ekrem İmamoğlu'nun siyasi geleceği ve parti içindeki etkisi tartışılıyor
-- Kemal Kılıçdaroğlu, Silivri'de bazı tutukluları ziyaret etti ama İmamoğlu'nu ziyaret etmedi
-- Kılıçdaroğlu'nun İmamoğlu'nu ziyaret etmemesi farklı şekillerde yorumlandı
-- Mehmet Sevigen'in oğlunun düğününde birçok eski ve yeni siyasetçi bir araya geldi
-- Düğündeki samimi görüntüler, siyasetteki kutuplaşma ve samimiyetsizlik eleştirilerine yol açtı
-- Siyasetçilerin kamuoyunda sert, özelde ise yakın ilişkiler kurduğu vurgulandı
-- Siyasette onur, tutarlılık ve seçmen duyguları tartışılıyor
-- Mecliste bakanlara yönelik protestolar ve hükümet sistemi eleştirileri devam ediyor
+- Türkiye'de yargının siyasallaşması ve adaletin tarafsızlığı tartışılıyor
+- Yargıdaki atamalar ve etik sorunlar gündeme getiriliyor
+- Borsa ve fon piyasalarında manipülasyon iddiaları ortaya atılıyor
+- Küçük yatırımcıların zarar gördüğü ve siyasi bağlantılı kişilerin fon yönetiminde olduğu öne sürülüyor
+- Kara para aklama operasyonlarında siyasi ve bürokratik bağlantılar iddia ediliyor
+- Yasa dışı bahis, kripto para ve altın sahteciliği sistemin parçası olarak gösteriliyor
+- Ekonomist İbrahim Can, Merkez Bankası'nı eleştirdiği için soruşturma geçiriyor
+- 15 Temmuz davasında yeni iddialar ve FETÖ'nün devlete sızması tekrar gündeme geliyor
+- Türkiye'de finansal suçlar, yolsuzluk ve adalet sistemiyle ilgili ciddi endişeler var
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=rGWcJN8bztw&t=3117s) (⏱️ 51:57-64:36)
-- [Onlar TV](https://www.youtube.com/watch?v=GviKAMkSnws&t=29s) (⏱️ 00:29-01:20)
-- [Inan Demirel](https://www.youtube.com/watch?v=O31OIkwOEa4&t=320s) (⏱️ 05:20-11:00)
-- [Rusen Cakir](https://www.youtube.com/watch?v=MXyasRXHjmQ&t=62s) (⏱️ 01:02-02:41)
-- [Hilal Koylu](https://www.youtube.com/watch?v=pA-F9OvB0ls&t=1222s) (⏱️ 20:22-26:36)
-- [Serdar Akinan](https://www.youtube.com/watch?v=Alm4KX8nKSM) (⏱️ 00:00-07:32)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=zNc89aWRPFI&t=393s) (⏱️ 06:33-11:05)
-- [Unsal Unlu](https://www.youtube.com/watch?v=RDXXGpw1_tU&t=672s) (⏱️ 11:12-17:44)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=q3tYjhS6AhU&t=1700s) (⏱️ 28:20-41:05)
+- [Serdar Akinan](https://www.youtube.com/watch?v=sPDSnaFVch8&t=400s) (⏱️ 06:40-10:51)
+- [Unsal Unlu](https://www.youtube.com/watch?v=HrgaMMGFUXE&t=500s) (⏱️ 08:20-12:20)
 
 ---
 
-## 5. Türkiye'de Ucuz Ölüm ve Denetimsizlik Sorunu
+## 5. YÖK Bütçesi Akademik Desteği Azaltıyor
 
-- 1993 yılında Ümraniye'de çöplük patlaması sonucu yaklaşık 50 kişi öldü
-- Patlama sonrası çöplüğün taşınması için referandum önerildi ama yapılmadı
-- 1994 seçimlerinde Erdoğan çöplük faciasını seçim propagandasında kullandı
-- Çöplük faciası ucuz ölümler ve denetimsizliğin sembolü oldu
-- İstanbul Fatih'te dört kişilik bir aile hayatını kaybetti
-- Bu olaylar ucuz ölüm kavramı ve toplumsal bakış açısını gündeme getirdi
-- Türkiye'de ölümlere verilen tepkinin yetersiz olduğu vurgulandı
-- Kocaeli'de parfüm fabrikasında iş cinayetinde 6 işçi öldü
-- Olay sonrası bazı kamu görevlileri görevden alındı ve akrabalık ilişkileri ortaya çıktı
-- Denetim eksikliği ve liyakat sorunu işçi ölümlerine yol açıyor
-- Trabzon, Urfa ve Mardin'de işçi ölümleri yaşandı
-- 75 yaşında bir kişinin taş ocağında çalışırken ölmesi tartışıldı
-- Kuralsız ve güvencesiz çalışma koşulları eleştirildi
+- YÖK bütçesi Meclis Plan ve Bütçe Komisyonu'nda görüşülüyor
+- Bütçede akademik çalışmalara ayrılan destek azalıyor
+- Kaynaklar sanayiye işçi yetiştirecek okullara aktarılıyor
+- Akademik araştırmaların önemi azalıyor
+- Üniversitelerin sanayiye hizmet eden kurumlara dönüştüğü eleştirileri yapılıyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=F4k9Wr6B2RM&t=416s) (⏱️ 06:56-22:37)
-- [Onlar TV](https://www.youtube.com/watch?v=GviKAMkSnws&t=3415s) (⏱️ 56:55-71:50)
+- [Inan Demirel](https://www.youtube.com/watch?v=TaBbwcoMXHo) (⏱️ 00:00-01:20)
+- [Unsal Unlu](https://www.youtube.com/watch?v=HrgaMMGFUXE&t=2044s) (⏱️ 34:04-34:19)
 
 ---
 
-## 6. CHP'den Para Transferi ve Medya Protestosu Değerlendirmesi
+## 6. Zelenski Ankara'da Barış ve Yolsuzluk Gündemi
 
-- CHP'li Murat Emir yaklaşık 1 trilyon liralık para transferi iddiasını gündeme getirdi
-- Aziz İhsan Aktaş'ın yakınları üzerine şirket kurulduğu ve büyük miktarda para aktarıldığı belirtildi
-- MASAK raporları ve para transferleriyle ilgili soruşturma eksikliği eleştirildi
-- Siyasi ve hukuki süreçlerin işleyişi ve liyakat sorunları vurgulandı
-- Hakimler Savcılar Kurulu'na aday gösterilip seçilemeyen birinin AKP ilçe başkanı yapılması gündeme getirildi
-- CHP 39. Olağan Kurultayı 28-30 Kasım'da yapılacak ve yoğun başvuru bekleniyor
-- CHP'li Umut Akdoğan, TRT'nin ana muhalefete yer vermemesini ve yanlış haber yapmasını protesto etti
-- TRT'nin kamu yayıncılığı görevini yerine getirmediği ve taraflı yayın yaptığı eleştirildi
-- CHP'nin bu tür protestoları artıracağı ifade edildi
+- Ukrayna Devlet Başkanı Zelenski Ankara'ya geldi
+- Zelenski'nin ziyareti kalıcı barış arayışı için yapıldı
+- Ukrayna-Rusya savaşı ve Türkiye'nin terör sorunu gündemde
+- Ukrayna'da büyük bir yolsuzluk skandalı ortaya çıktı
+- Zelenski'nin yakınındaki bazı bakanlar ve danışmanlar yolsuzlukla suçlanıyor
+- Avrupa'da Ukrayna'ya verilen desteğin sorgulanabileceği konuşuluyor
+- Yolsuzlukların aşırı sağ partilere destek sağlayabileceği belirtiliyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=RDXXGpw1_tU&t=301s) (⏱️ 05:01-08:00)
-- [Hilal Koylu](https://www.youtube.com/watch?v=pA-F9OvB0ls&t=803s) (⏱️ 13:23-19:19)
+- [Unsal Unlu](https://www.youtube.com/watch?v=HrgaMMGFUXE&t=2153s) (⏱️ 35:53-36:02)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=q3tYjhS6AhU&t=2465s) (⏱️ 41:05-46:08)
 
 ---
 
-## 7. Deprem Riski ve Konut Dönüşümünde Tartışmalar
+## 7. Konut Satışları ve İnşaatta Son Durum
 
-- Türkiye'de deprem riski büyük bir sorun olarak görülüyor
-- İstanbul'da 1,5 milyon konutun yenilenmesi gerekiyor
-- Mevcut yöntemlerle bu dönüşümün tamamlanması çok uzun sürecek
-- Alternatif ve hızlı konut yapım projeleri geliştirildi fakat uygulanmıyor
-- Bilim insanlarının önerileri siyasi ve bürokratik engellere takılıyor
-- Deprem erken uyarı sistemi Marmara'da 8.4 saniye önceden alarm verdi
-- Konut yapım hızına dair hükümetin iddiaları gerçekçi bulunmuyor
-- Matematiksel hesaplamalar ve resmi açıklamalar eleştiriliyor
-- Siyasi çıkarlar ve rant, bilimsel çözümlerin önüne geçiyor
+- Hükümet bazı taşınmazların satışını onayladı
+- Ankara Çayyolu'nda bir arsa yüksek fiyata satıldı
+- Satışı AK Parti'ye yakın bir iş adamı aldı
+- Yeşil alanların imara açılması eleştirildi
+- İnşaat sektörünü canlandırmak için faizlerin düşürülmesi planlanıyor
+- Deprem bölgelerinde konut yapımı devam ediyor
+- Depremzedeler için yapılan konutlar tartışılıyor
+- Bazı bölgelerde konutların yetersiz olduğu söyleniyor
+- Devlet yaşam standartlarını yükseltmeyi hedefliyor
+- Deprem bölgelerinde yapılan konutlar olumlu karşılanıyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Serdar Akinan](https://www.youtube.com/watch?v=Alm4KX8nKSM&t=1427s) (⏱️ 23:47-28:05)
-- [Unsal Unlu](https://www.youtube.com/watch?v=RDXXGpw1_tU&t=1874s) (⏱️ 31:14-35:44)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=GN7mVlW5glQ&t=1369s) (⏱️ 22:49-26:03)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=WwITIvwZ8g4&t=2256s) (⏱️ 37:36-52:00)
 
 ---
 
-## 8. Suriye ve Kuzey Irak'ta Yeni Dönem
+## 8. Trump'ın Basın ve Dış Politika Gündemi
 
-- Türkiye'nin terörle mücadele hedefi gündemde kalmaya devam ediyor
-- Suriye'de SDG, YPG ve HTŞ grupları arasında çatışmalar yaşanıyor
-- ABD'nin Suriye politikası ve yaptırımlarının kaldırılması tartışılıyor
-- Türkiye, ABD ve Şam arasında Suriye'nin yeniden inşası için görüşmeler yapılıyor
-- Kürtlerin statüsü ve SDG içindeki yabancı savaşçılar önemli bir sorun olarak görülüyor
-- PKK'nın Irak'tan Suriye'ye güç kaydırdığı belirtiliyor
-- Bölgede güç dengeleri ve yeni yapıların oluşumu konuşuluyor
-- Türkiye'nin ekonomi ve döviz arayışı, Körfez sermayesiyle Suriye'nin inşası planlarıyla bağlantılı
-- Kuzey Irak'ta Türkiye ile ilişkiler ve bölgesel gelişmeler dikkat çekiyor
-- Bölgedeki siyasi süreçler ve yerel yönetimlerin yapısı izleniyor
+- Donald Trump gazetecilerle sık sık polemik yaşıyor
+- Trump basına yönelik eleştirilerde bulunuyor ve hakaret ediyor
+- Trump, Epstein dosyasıyla ilgili soruları yanıtladı
+- ABD'de gazeteciler başkanla tartışmalara rağmen görevlerine devam ediyor
+- Türkiye'de ise Cumhurbaşkanı'nın uçağına sadece davetli basın alınıyor
+- Basın özgürlüğü ve gazetecilerin erişimi iki ülkede karşılaştırılıyor
+- Trump, Suudi Arabistan Veliaht Prensi Bin Salman ile Washington'da görüştü
+- Trump, Suudi Arabistan'a F-35 satışı ve Kaşıkçı cinayeti hakkında açıklamalar yaptı
+- Trump'ın dış politikada ticari yaklaşımı öne çıkıyor
+- Amerikan yönetiminin Ortadoğu politikası ve planları tartışılıyor
+- Trump'ın Cumhuriyetçi Parti içindeki etkisi ve Epstein dosyası gündemde
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Serdar Akinan](https://www.youtube.com/watch?v=Alm4KX8nKSM&t=575s) (⏱️ 09:35-19:32)
-- [Rusen Cakir](https://www.youtube.com/watch?v=MXyasRXHjmQ&t=162s) (⏱️ 02:42-13:05)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=hh1B8j-2N7U&t=10s) (⏱️ 00:10-04:00)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=WwITIvwZ8g4&t=3139s) (⏱️ 52:19-57:26)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=q3tYjhS6AhU&t=2768s) (⏱️ 46:08-54:42)
 
 ---
 
-## 9. İmamoğlu'nun Sosyal Medya Hesapları Engellendi
+## 9. Çocuk Ölümleri ve Adalet Tartışması
 
-- Ekrem İmamoğlu'nun Cumhurbaşkanlığı aday ofisi sosyal medya hesapları tekrar engellendi
-- Son 6 günde 4 kez yeni açılan hesaplar da engellendi
-- Engellemeler savcılık talebiyle ve mahkeme kararıyla yapılıyor
-- İktidarın bu konuda tavizsiz davrandığı belirtiliyor
-- Yargı gücünün bu şekilde kullanılmasının yanlış olduğu vurgulanıyor
-- İmamoğlu'na destek veren sosyal medya hesapları da engelleniyor
-- Bu durumun siyasi olduğu ve İmamoğlu'na yönelik algıyı güçlendirdiği ifade ediliyor
+- Şanlıurfa'da bir çocuk işçi, iş yerinde hayatını kaybetti
+- Olay çocuk işçiliği ve emek sömürüsü sorununu gündeme getirdi
+- İstanbul'da 14 yaşındaki Işıl Öykü Dinç trafik kazasında öldü
+- Kazaya karışan sürücü kısa sürede tahliye edildi
+- Soruşturma sürecinde hızlı iddianame ve savcı değişiklikleri yaşandı
+- Her iki olayda da çocukların korunmasında eksiklikler öne çıktı
+- Aileler adaletin sağlanmadığını düşünüyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Inan Demirel](https://www.youtube.com/watch?v=O31OIkwOEa4&t=200s) (⏱️ 03:20-05:20)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=hh1B8j-2N7U&t=1025s) (⏱️ 17:05-18:47)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=zNc89aWRPFI&t=356s) (⏱️ 05:56-06:33)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=GN7mVlW5glQ&t=1620s) (⏱️ 27:00-28:55)
+- [Onlar TV](https://www.youtube.com/watch?v=LAbsAAWRbQ4) (⏱️ 00:00-13:32)
 
 ---
 
-## 10. Hasan Can Kaya'ya Sosyal Medya Tepkisi
+## 10. Gıda Denetimi ve Genç Göçü Tartışması
 
-- Hasan Can Kaya iki yıl önceki bir esprisi nedeniyle sosyal medyada eleştirildi
-- Espri Hz. İsa'ya benzetme içeriyordu ve dine hakaret iddiası gündeme geldi
-- Cumhurbaşkanı danışmanları da tartışmaya katıldı
-- Hasan Can Kaya özür diledi ve hakaret kastı olmadığını açıkladı
-- Sosyal medyada linç kültürü ve dini hassasiyetler üzerinden kampanyalar arttı
-- Komedyenlerin geçmiş paylaşımları nedeniyle savunma yapmak zorunda kaldığı belirtildi
-- Türkiye'de espri yapmanın ve paylaşım yapmanın riskli hale geldiği vurgulandı
-- Geçmiş paylaşımlar nedeniyle gözaltına alınanlar olduğu hatırlatıldı
+- Tarım ve Orman Bakanı, vatandaşların gönüllü gıda denetçisi olacağını açıkladı
+- Vatandaşlar, gıda ile ilgili uygunsuzlukları bakanlığa bildirebilecek
+- Türkiye'nin AB üyelik sürecinde tarım ve gıda alanında ilerleme sağlanamıyor
+- AB raporları, Türkiye'nin gıda güvenliği ve kalite kontrolünde eksik olduğunu belirtiyor
+- Dışişleri Bakanı Hakan Fidan, gençlerin yurt dışına göç ettiğini söyledi
+- Gençlerin göç etme nedenleri arasında ekonomik sıkıntılar ve özgürlük isteği var
+- Vize sorunlarının gençlerin geri dönmemesi korkusundan kaynaklandığı açıklandı
+- Türkiye'de insan hayatının değerinin artırılması gerektiği vurgulanıyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Nevsin Mengu](https://www.youtube.com/watch?v=zNc89aWRPFI&t=770s) (⏱️ 12:50-16:00)
-- [Inan Demirel](https://www.youtube.com/watch?v=O31OIkwOEa4&t=1265s) (⏱️ 21:05-24:30)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=hh1B8j-2N7U&t=1192s) (⏱️ 19:52-21:52)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=GN7mVlW5glQ&t=1105s) (⏱️ 18:25-20:45)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=YJI2DvNd5kA&t=1330s) (⏱️ 22:10-23:51)
 
 ---
 
-## 11. Meclis Gündemine Azalan İlgi
+## 11. Erbil'de Barış Forumu ve Mazlum Abdi Krizi
 
-- Gazeteci Ankara'da mecliste grup toplantılarını izleyecek
-- Siyasetçiler ve gazetecilerle sohbetler planlanıyor
-- AKP'li bir meclis üyesi sosyal medyada anket yaptı
-- Anket, İBB iddianamesinin anlatımıyla ilgiliydi
-- 60.000 takipçiye rağmen ankete az kişi katıldı
-- Düşük ilgi, iddianamenin etkisinin azaldığını gösterdi
-- Meclis ve siyasi gündeme olan ilgi sorgulanıyor
+- Kuzey Irak'ta 6. Ortadoğu Barış ve Güvenlik Forumu düzenlendi
+- Foruma birçok ülkeden ve Türkiye'den siyasi isimler katıldı
+- SDG Komutanı Mazlum Abdi'nin foruma katılması dikkat çekti
+- Mazlum Abdi'nin Erbil'deki otelde kalması Türk heyetlerinde rahatsızlık yarattı
+- Ahmet Davutoğlu, ABD ve İsrail'i Gazze üzerinden eleştirdi
+- Suriye'de federasyon önerisi gündeme geldi
+- Mazlum Abdi, Suriye'deki barış sürecini desteklediklerini açıkladı
+- Barzani ve Kürt bölgesinin barış sürecine desteği vurgulandı
+- Toplantı, bölgedeki siyasi dengeler açısından önemli bulundu
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Inan Demirel](https://www.youtube.com/watch?v=O31OIkwOEa4) (⏱️ 00:00-03:20)
-- [Rusen Cakir](https://www.youtube.com/watch?v=MXyasRXHjmQ) (⏱️ 00:00-01:01)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=GN7mVlW5glQ&t=10s) (⏱️ 00:10-02:05)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=ws-pRMKcOqk&t=586s) (⏱️ 09:46-12:51)
+
+---
+
+## 12. Sanatçılar Yurtdışında Huzur Arıyor
+
+- Muazzez Abacı Amerika'da daha huzurlu hissettiğini söyledi
+- Emel Sayın bu sözleri bir cenazede paylaştı
+- Abacı'nın Türkiye'de huzursuz hissetmesi tartışıldı
+- Bu durum ülke yönetimine bir soru olarak yöneltildi
+- Özlem Gürses Portekiz'den yayın yapıyor
+- Gürses annesinin doğum günü için Portekiz'e gitti
+- Portekiz'de çok sayıda Türk yaşadığını belirtti
+- Gürses tatil ve gezi deneyimlerini paylaştı
+- Yayınlarına Portekiz'den devam edeceğini açıkladı
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Inan Demirel](https://www.youtube.com/watch?v=TaBbwcoMXHo&t=1560s) (⏱️ 26:00-28:08)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=ws-pRMKcOqk&t=6s) (⏱️ 00:06-03:00)
 
 ---
 
