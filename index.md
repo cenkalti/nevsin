@@ -1,106 +1,72 @@
 # Bugün Ne Oldu?
 
-*22 November 2025 tarihli günlük haber raporu - 5 haber birleştirildi*
+*23 November 2025 tarihli günlük haber raporu - 3 haber birleştirildi*
 
-## 1. Türkiye'de Ekonomik Kriz ve Denetimsizlik
+## 1. CHP'nin İmralı Heyetine Katılmama Kararı
 
-- Türkiye'de ekonomik kriz ve hayat pahalılığı derinleşiyor
-- Gıda ve et fiyatları hızla artıyor, halk sağlıklı gıdaya ulaşamıyor
-- Motorin fiyatları yükseldi, ulaşım ve üretim maliyetleri arttı
-- İşsizlik ve yoksulluk oranları yüksek, gençler yurt dışına gitmek istiyor
-- Eğitim sistemi uluslararası sıralamalarda geride, öğrenciler okuduğunu anlamakta zorlanıyor
-- Üniversite mezunlarının üçte biri işsiz
-- Kamusal eğitim ve sağlık yatırımları azalırken vakıflara kaynak aktarılıyor
-- Gıda güvenliği ve denetimsizlik nedeniyle zehirlenme ve ölüm vakaları arttı
-- Otel ve restoranlarda ruhsatsızlık ve liyakat eksikliği ölümlere yol açtı
-- Et ve gıda ithalatında çıkar ilişkileri ve lobiler iddia ediliyor
-- Siyasi ve hukuki sorunlar, adalet ve hukukun üstünlüğü tartışılıyor
-- Sosyal yardımların siyasi amaçlarla kullanıldığı öne sürülüyor
+- TBMM'de İmralı'ya heyet gönderilmesi için komisyon kuruldu
+- CHP, heyete temsilci vermeme kararı aldı ve komisyon toplantısını terk etti
+- AK Parti, MHP ve Den Parti heyete temsilci verdi
+- Kamuoyunda Öcalan'la görüşme tartışma yarattı
+- CHP'nin kararı parti tabanında olumlu karşılandı, bazı kesimler ise taktiksel hata olarak gördü
+- Kürtlerin bir kısmı görüşmeyi desteklerken, çoğunluk karşı çıktı
+- CHP'nin çözüm sürecine katılmama kararı parti içinde ve dışında eleştirildi
+- Kılıçdaroğlu'nun video mesajı parti yönetimine eleştiri olarak yorumlandı
+- CHP'de yolsuzluk iddiaları ve parti içi tartışmalar gündeme geldi
+- CHP'nin muhalefet rolü ve liderliği sosyal medyada tartışıldı
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Serdar Akinan](https://www.youtube.com/watch?v=5ZX5LSGJW4o&t=124s) (⏱️ 02:04-06:06)
-- [Unsal Unlu](https://www.youtube.com/watch?v=63vGPd-aHaA&t=1599s) (⏱️ 26:39-27:04)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=SbCyREUC_B0&t=493s) (⏱️ 08:13-13:32)
+- [Murat Yetkin](https://www.youtube.com/watch?v=Lw7kWG1KojA&t=3s) (⏱️ 00:03-02:57)
+- [Rusen Cakir](https://www.youtube.com/watch?v=PrBJh1AomDU&t=16s) (⏱️ 00:16-04:05)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=_jcbiYZI_Bg) (⏱️ 00:00-10:21)
+- [Serdar Akinan](https://www.youtube.com/watch?v=MQEHouSLF5U&t=6s) (⏱️ 00:06-05:15)
 
 ---
 
-## 2. CHP'nin İmralı Kararı ve Siyasi Yansımalar
+## 2. Kürt Sorunu ve Çözüm Sürecinde Son Durum
 
-- CHP, İmralı'ya gitmeme kararı aldı ve bu karar siyasi tartışmalara yol açtı
-- AK Parti ve MHP, CHP'nin kararını liderlik sorunu olarak değerlendirdi
-- DEM Parti, CHP'nin heyete katılmamasını eleştirdi
-- Meclis komisyonu İmralı'ya ziyaret yapılıp yapılmayacağını oylayacak
-- AK Parti, İmralı ziyaretine olumlu bakıyor
-- Komisyonun kararı ve İmralı süreci medyada farklı şekillerde yer aldı
-- Toplumda Demirtaş'ın serbest bırakılmasına destek yüksek, Öcalan'ın serbest bırakılmasına ise destek düşük
-- Bahçeli'nin terörsüz Türkiye sürecine yaklaşımı MHP tabanında tepkiyle karşılanıyor
-- MHP'nin oy kaybında bu sürecin etkisi olduğu düşünülüyor
-- AK Parti seçmeni sürece temkinli yaklaşıyor, muhalefet seçmeni ise tedirgin
-- Sürecin DEM Parti'nin oylarını CHP'den koparmak için olduğu iddia ediliyor
-- Toplumda Öcalan'ın ön plana çıkması rahatsızlık yaratıyor
+- Kürt sorununun çözümünde ideolojik, siyasi ve anayasal engeller var
+- Devlet ve milletin özdeşleştirilmesi çözümü zorlaştırıyor
+- Siyasi irade eksikliği en büyük engel olarak görülüyor
+- Anayasa Türk kimliği ve dil konusunda kısıtlamalar içeriyor
+- Milliyetçi partiler arasında Kürt sorununa yaklaşımda ayrışma yaşanıyor
+- Toplumsal dönüşüm ve eğitim çözüm için önemli
+- Dış güçlerin etkisi var ama Türkiye'nin kendi çözümünü üretmesi gerekiyor
+- Selahattin Demirtaş'ın serbest bırakılması sürecin ilerlemesi için önemli
+- Demirtaş'ın bırakılmaması güven ortamını zedeliyor
+- AİHM kararlarının uygulanmaması eleştiriliyor
+- Demirtaş'ın bırakılması diğer tutuklular için de örnek olabilir
+- Türkiye'de terör olayları azaldı, sorun yurt dışına kaydı
+- Suriye ve Kuzey Irak'taki gelişmeler çözüm sürecini etkiliyor
+- Suriye'de SDG ile Şam hükümeti arasında anlaşma iddiası var
+- Nusaybin sınır kapısının açılması bölgeyi olumlu etkileyebilir
+- Türkiye ile Kuzey Irak ilişkileri iyileşiyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Serdar Akinan](https://www.youtube.com/watch?v=5ZX5LSGJW4o&t=19s) (⏱️ 00:19-02:04)
-- [Hilal Koylu](https://www.youtube.com/watch?v=B5mFxgNQ3Tg&t=88s) (⏱️ 01:28-16:57)
-- [Unsal Unlu](https://www.youtube.com/watch?v=63vGPd-aHaA&t=1709s) (⏱️ 28:29-30:19)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=aCqV6OJlqbE&t=152s) (⏱️ 02:32-04:15)
+- [Rusen Cakir](https://www.youtube.com/watch?v=PrBJh1AomDU&t=547s) (⏱️ 09:07-34:45)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=_jcbiYZI_Bg&t=625s) (⏱️ 10:25-16:58)
 
 ---
 
-## 3. Siyaset ve Futbolda Gelişmeler
+## 3. Kürt Hareketinde Liderlik Tartışması
 
-- Sultangazi'de mitinglerde kalabalık artıyor
-- Futbolda bahis soruşturmasında yeni operasyonlar bekleniyor
-- Üç savcı yeni operasyonlar için görevlendirildi
-- Kulüp başkanlarının da operasyona dahil olabileceği konuşuluyor
-- Anayasa Mahkemesi Ahmet Özer'in başvurusunu reddetti
-- Ahmet Özer'in göreve iadesi kulislerde gündemde
-- Ahmet Türk'ün de göreve iadesi konuşuluyor
-- Kayyum politikasının sona erebileceği yorumları yapılıyor
-- Demokratik açılımlar beklentisi var
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Unsal Unlu](https://www.youtube.com/watch?v=63vGPd-aHaA&t=854s) (⏱️ 14:14-14:55)
-- [Hilal Koylu](https://www.youtube.com/watch?v=B5mFxgNQ3Tg&t=1552s) (⏱️ 25:52-26:33)
-
----
-
-## 4. Mansur Yavaş'a Soruşturma ve Ulaşım Adımları
-
-- Ankara Büyükşehir Belediye Başkanı Mansur Yavaş hakkında soruşturma izni verildi
-- Yavaş, Danıştay'a itiraz edeceğini açıkladı
-- Soruşturma kararı siyasi tartışmalara yol açtı
-- Yavaş, toplu ulaşımı ücretsiz yaptı
-- Otobüs sayısı artırıldı ve trafik için çalışmalar sürüyor
-- Yavaş, Ankara'da halk tarafından destekleniyor
+- CHP çevrelerinde Demirtaş'ın Öcalan yerine muhatap alınması gerektiği konuşuluyor
+- Demirtaş, Öcalan'la bir sorunu olmadığını açıkladı
+- Demirtaş'ın Öcalan'a rağmen hareket edemeyeceği belirtiliyor
+- Öcalan'ın Kürt hareketi ve PKK üzerindeki etkisi vurgulanıyor
+- Kürt hareketinin liderlik yapısı tek kişiye dayalı olarak tanımlanıyor
+- Demirtaş'ın rolü önemli görülse de Öcalan'ın belirleyici olduğu söyleniyor
+- Öcalan'ın siyasete aktif katılması beklenmiyor
+- Öcalan'ın kanaat önderi ve otorite olarak kalacağı öngörülüyor
+- İmralı'da kalmasının hem kendi tercihi hem de güvenliği için uygun olduğu belirtiliyor
+- Öcalan'ın örgütüyle iletişim kurabildiği ve bazı kolaylıklar sağlandığı iddia ediliyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Serdar Akinan](https://www.youtube.com/watch?v=5ZX5LSGJW4o&t=944s) (⏱️ 15:44-16:42)
-- [Hilal Koylu](https://www.youtube.com/watch?v=B5mFxgNQ3Tg&t=1609s) (⏱️ 26:49-27:26)
-
----
-
-## 5. Demirtaş Ziyareti ve Tahliye Tartışması
-
-- Bülent Arınç cezaevinde Selahattin Demirtaş'ı ziyaret etti
-- Arınç, Demirtaş'ın Erdoğan'la görüşmek istediğini ve siyaseti bırakacağını iddia etti
-- Demirtaş bu iddiaları yalanladı
-- Arınç sözlerinin arkasında durdu
-- Ziyaret ve açıklamalar siyasi tartışmalara yol açtı
-- Demirtaş'ın tahliyesi ve 11. Yargı Paketi gündemde
-- Yargı paketinde infaz ve Covid düzenlemesi olabilir
-- Binlerce kişinin tahliyesi konuşuluyor
-- AK Parti ve MHP infaz düzenlemesi üzerinde çalışıyor
-- Net bir takvim yok, bütçeden sonra hızlanabilir
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Unsal Unlu](https://www.youtube.com/watch?v=63vGPd-aHaA&t=345s) (⏱️ 05:45-06:58)
-- [Hilal Koylu](https://www.youtube.com/watch?v=B5mFxgNQ3Tg&t=1061s) (⏱️ 17:41-19:12)
+- [Rusen Cakir](https://www.youtube.com/watch?v=PrBJh1AomDU&t=245s) (⏱️ 04:05-09:06)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=_jcbiYZI_Bg&t=1023s) (⏱️ 17:03-19:13)
 
 ---
 
