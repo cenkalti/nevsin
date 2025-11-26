@@ -1,223 +1,249 @@
 # Bugün Ne Oldu?
 
-*25 November 2025 tarihli günlük haber raporu - 10 haber birleştirildi*
+*26 November 2025 tarihli günlük haber raporu - 11 haber birleştirildi*
 
-## 1. İmralı Ziyareti ve Siyasi Tartışmaların Büyümesi
+## 1. İmralı Ziyareti ve Siyasi Tartışmaların Gölgesi Altında Süreç Değerlendirmesi
 
-- TBMM komisyonu İmralı Adası'na gizli bir ziyaret gerçekleştirdi.
-- Ziyarete AK Parti, MHP ve DEM Parti milletvekilleri katıldı, CHP heyete üye vermedi.
-- AKP'li Hüseyin Yayman önce gitmediğini söyledi, sonra gittiğini kabul etti.
-- Ziyaretin amacı Abdullah Öcalan ile görüşmek ve çözüm sürecini değerlendirmekti.
-- Görüşmede Suriye'deki 10 Mart mutabakatı, SDG'nin entegrasyonu ve örgütün feshi konuşuldu.
-- Görüşmenin kaydı alındı ancak kamuoyuna açıklanmayacağı belirtildi.
-- Ziyaretin gizlenmesi ve şeffaf yürütülmemesi muhalefet ve toplumda tepki yarattı.
-- DEM Parti, görüşmenin olumlu geçtiğini ve tutanakların açıklanmasını istedi.
-- CHP'nin heyete katılmama kararı parti içinde ve kamuoyunda tartışıldı.
-- Kamuoyunda süreçle ilgili güven sorunu ve toplumsal ikna eksikliği yaşanıyor.
-- Ziyaret sonrası yeni anayasa, infaz düzenlemeleri ve toplumsal entegrasyon gündeme geldi.
-- Selahattin Demirtaş'ın tahliye ihtimali ve Kürt kimliğinin anayasal tanımı tartışılıyor.
-- Siyasi aktörlerin ve gazetecilerin tutumu, süreçteki samimiyet ve şeffaflık sorgulanıyor.
-- İktidara yakın medya ziyareti büyük ölçüde görmezden geldi.
-- Sürecin toplumsal ve siyasi sonuçları, devletin dönüşümü ve demokratikleşme tartışılıyor.
+- İmralı Adası'na siyasi partilerden milletvekilleri ve bir komisyon ziyarette bulundu.
+- Ziyaretin içeriği, amacı ve detayları kamuoyuna açık şekilde paylaşılmadı.
+- Görüşmede sadece ses kaydı alındı, fotoğraf veya video çekilmediği belirtildi.
+- Ziyarete katılan bazı milletvekilleri çelişkili açıklamalar yaptı ve bilgi vermekten kaçındı.
+- Görüşmede Suriye, SDG ve YPG'nin geleceği gibi konuların ele alındığı iddia edildi.
+- Abdullah Öcalan'ın YPG'ye silah bırakma çağrısı yapabileceği konuşuldu.
+- DEM Parti, görüşmenin barış ve demokrasi için tarihi bir adım olduğunu açıkladı.
+- CHP'nin komisyona katılmaması ve süreçteki tutumu tartışma yarattı.
+- Devlet Bahçeli süreci desteklerken, AK Parti ve MHP arasında yaklaşım farkları olduğu gözlendi.
+- Görüşme tutanaklarının 10 yıl gizli kalacağı ve yasal düzenlemelerin gündemde olduğu belirtildi.
+- Çözüm süreci, toplumsal uyum, olası af ve yeni yasal düzenlemeler kamuoyunda tartışılıyor.
+- Sürecin şeffaf yürütülmemesi ve bilgi eksikliği toplumda güven sorunu oluşturdu.
+- Siyasi partiler ve liderler arasında süreçle ilgili farklı açıklamalar ve eleştiriler yapıldı.
+- Suriye'deki gelişmeler ve uluslararası aktörlerin rolü de sürecin bir parçası olarak değerlendiriliyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Serdar Akinan](https://www.youtube.com/watch?v=CJwLol4Lwag&t=4s) (⏱️ 00:04-30:12)
-- [Unsal Unlu](https://www.youtube.com/watch?v=1NkyXBTmKVU&t=1761s) (⏱️ 29:21-33:53)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=eFgpQgrnPvo&t=150s) (⏱️ 02:30-08:55)
-- [Onlar TV](https://www.youtube.com/watch?v=Vk9BP01Gj8c&t=155s) (⏱️ 02:35-07:00)
-- [Murat Yetkin](https://www.youtube.com/watch?v=PUjL58KTFYU&t=33s) (⏱️ 00:33-05:28)
-- [Rusen Cakir](https://www.youtube.com/watch?v=T6KZrf7UxyY) (⏱️ 00:00-08:28)
-- [Hilal Koylu](https://www.youtube.com/watch?v=4AGHeRkw0rA&t=217s) (⏱️ 03:37-10:24)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=4EnL9OAMLIw&t=40s) (⏱️ 00:40-03:52)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=9YKO4cq81WY&t=807s) (⏱️ 13:27-16:17)
-- [Inan Demirel](https://www.youtube.com/watch?v=iRbIRP4vAmQ&t=350s) (⏱️ 05:50-11:30)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=XB_-i1TPoRc&t=1578s) (⏱️ 26:18-31:52)
+- [Hilal Koylu](https://www.youtube.com/watch?v=iI4wgRDDemA&t=1232s) (⏱️ 20:32-28:15)
+- [Rusen Cakir](https://www.youtube.com/watch?v=gzCjI8a21t4&t=531s) (⏱️ 08:51-13:24)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=3PBnqQdtaGk&t=1257s) (⏱️ 20:57-23:25)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=HIsApf3LON0) (⏱️ 00:00-06:04)
+- [Inan Demirel](https://www.youtube.com/watch?v=kSjy6hc7_zw&t=810s) (⏱️ 13:30-17:25)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=oQpwAIrQVpc&t=157s) (⏱️ 02:37-08:28)
+- [Unsal Unlu](https://www.youtube.com/watch?v=1i6PHas23tM&t=39s) (⏱️ 00:39-02:01)
 
 ---
 
-## 2. Kadına Şiddetle Mücadelede Türkiye'nin Tablosu
+## 2. İBB ve ABB'ye Yönelik Yargı Tartışmaları
 
-- 25 Kasım Kadına Yönelik Şiddetle Mücadele Günü olarak anılıyor
-- Türkiye'de kadın cinayetleri ve şiddet olayları devam ediyor
-- Kadın Cinayetlerini Durduracağız Platformu'nun dijital anıtında 411 kadın ismi yer alıyor
-- Son bir yılda yüzlerce kadın cinayeti işlendi ve şüpheli ölümler yaşandı
-- Yetkililer şiddete karşı sıfır tolerans açıklamaları yapıyor ancak cinayetler sürüyor
-- Kadına yönelik şiddet sadece fiziksel değil, ekonomik ve psikolojik şiddet de önemli bir sorun
-- Kadın cinayetlerinde faillerin ceza indirimi aldığı ve adalet arayışında zorluklar yaşandığı belirtiliyor
-- Medyanın mağduru suçlayan dili ve yargıdaki adaletsizlikler eleştiriliyor
-- Kadınlar ve sivil toplum örgütleri meydanlarda ve etkinliklerde mücadele çağrısı yapıyor
-- Kadına yönelik şiddetin siyasete alet edilmemesi gerektiği vurgulanıyor
-- Toplumda duyarlılık ve örgütlü mücadele çağrısı öne çıkıyor
+- İstanbul ve Ankara Büyükşehir Belediye başkanlarına yönelik iddianame ve soruşturmalar gündemde
+- Ekrem İmamoğlu hakkında suç örgütü ve rüşvet iddialarıyla hazırlanan iddianame kabul edildi
+- İddianamede binlerce yıl hapis cezası isteniyor ve gizli tanık ifadeleri kullanıldı
+- İmamoğlu suçlamaları reddediyor ve siyasi baskı iddiaları öne sürülüyor
+- Yargı süreçlerinin siyasallaştığı ve muhalefeti susturma amacı taşıdığı eleştiriliyor
+- Savcı Akın Gürlek'in iddianameyi medyada tanıtması tartışma yarattı
+- Medya ve iktidara yakın gazetelerde iddianamenin öne çıkarılması eleştirildi
+- Duruşma tarihi henüz belli değil, tensip tutanağı bekleniyor
+- Fatih Altaylı ve bazı belediye bürokratlarının tahliye beklentisi var
+- Mansur Yavaş'a ücretsiz çorba dağıtımı nedeniyle soruşturma açıldı
+- Yavaş'ın sosyal belediyecilik uygulamaları suçlama konusu oldu ve kamu zararı iddiaları gündeme geldi
+- Yavaş, soruşturmanın büyümesini beklemiyor ve siyasi baskı olarak görüyor
+- CHP'li belediye başkanlarına yönelik yargı süreçleri muhalefet tarafından eleştiriliyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=1NkyXBTmKVU&t=91s) (⏱️ 01:31-33:53)
-- [Onlar TV](https://www.youtube.com/watch?v=Xv9c_f-Mvzk) (⏱️ 00:00-04:53)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=9YKO4cq81WY&t=4231s) (⏱️ 70:31-74:46)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=4EnL9OAMLIw&t=698s) (⏱️ 11:38-14:19)
+- [Hilal Koylu](https://www.youtube.com/watch?v=iI4wgRDDemA&t=578s) (⏱️ 09:38-20:28)
+- [Inan Demirel](https://www.youtube.com/watch?v=kSjy6hc7_zw&t=1670s) (⏱️ 27:50-31:00)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=HIsApf3LON0&t=737s) (⏱️ 12:17-15:39)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=XB_-i1TPoRc&t=374s) (⏱️ 06:14-21:24)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=3PBnqQdtaGk&t=1540s) (⏱️ 25:40-30:31)
+- [Unsal Unlu](https://www.youtube.com/watch?v=1i6PHas23tM&t=1765s) (⏱️ 29:25-30:03)
 
 ---
 
-## 3. Adalet Sisteminde Tartışmalı Kararlar
+## 3. Fatih Altaylı'ya Hapis Cezası ve Tutukluluk Kararı
 
-- Birçok dosyada adalet sistemindeki sorunlar öne çıkıyor
-- Seher Alaçam'ın ölümü şüpheli bulunuyor ve dosya tekrar açıldı
-- Ayten Erdoğan'ın tutuklanmasında maddi hata ve kumpas iddiaları var
-- Işıl Öykü Dinç'in ölümünde tahliye kararı sonrası hakim hakkında inceleme başlatıldı
-- Pınar Sevim cinayetinde intihar süsü verildiği ve adalet arayışının sürdüğü belirtiliyor
-- Elif Yılmaz cinayetinde ceza indirimi ve yargı kararları tartışılıyor
-- Ezgi Çeken'in meşru müdafaa savunması kabul edilmedi, hapis cezası verildi
-- Muhammed Kendirci'nin iş kazası sonucu ölümü sonrası sorumlular tahliye edildi ve dosya gizli tutuldu
-- Tüm olaylarda aileler ve kamuoyu adalet talep ediyor
+- Fatih Altaylı, cumhurbaşkanına tehdit suçlamasıyla 4 yıl 2 ay hapis cezası aldı.
+- Mahkeme, Altaylı'nın tutukluluğunun devamına karar verdi ve tahliye edilmedi.
+- Dava Silivri Adliyesi'nde görüldü ve duruşmaya gazeteciler, milletvekilleri ve yakınları katıldı.
+- Altaylı'nın sözlerinin Osmanlı padişahlarına dair bir örnekten kaynaklandığı belirtildi.
+- Savcı, Altaylı'nın sözlerini cumhurbaşkanına fiili saldırı ve tehdit olarak değerlendirdi.
+- Altaylı ve avukatları, sözlerinde tehdit unsuru olmadığını savundu.
+- Mahkeme, kaçma şüphesi gerekçesiyle tahliye talebini reddetti.
+- Karar, gazeteciler ve hukukçular tarafından adaletsiz ve hukuka aykırı bulundu.
+- Gazetecilere yönelik baskı ve yargılamalar eleştirildi, kararın basına gözdağı olduğu söylendi.
+- Kararın kesinleşmesi için üst mahkemelere başvuru yapılacak.
+- Altaylı'nın Anayasa Mahkemesi'ne başvuracağı açıklandı.
+- Duruşma sonrası salonda şaşkınlık ve tepki yaşandı, "adalet öldü" sloganları atıldı.
+- Sosyal medyada dolaşan bazı fotoğrafların sahte olduğu belirtildi.
+- Kararın Türkiye tarihinde benzeri olmadığı vurgulandı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Onlar TV](https://www.youtube.com/watch?v=Vk9BP01Gj8c&t=3985s) (⏱️ 66:25-85:33)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=eFgpQgrnPvo&t=2002s) (⏱️ 33:22-35:30)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=8PUFRgpydcA&t=24s) (⏱️ 00:24-38:01)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=XKyyoucWKgE) (⏱️ 00:00-16:03)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=3PBnqQdtaGk) (⏱️ 00:00-10:01)
+- [Murat Yetkin](https://www.youtube.com/watch?v=D0jlXpryBmo&t=6s) (⏱️ 00:06-07:57)
+- [Rusen Cakir](https://www.youtube.com/watch?v=gzCjI8a21t4&t=13s) (⏱️ 00:13-01:20)
+- [Inan Demirel](https://www.youtube.com/watch?v=kSjy6hc7_zw&t=270s) (⏱️ 04:30-13:30)
+- [Serdar Akinan](https://www.youtube.com/watch?v=_3b4BtNfMtY&t=4s) (⏱️ 00:04-09:41)
+- [Hilal Koylu](https://www.youtube.com/watch?v=iI4wgRDDemA&t=1759s) (⏱️ 29:19-29:32)
 
 ---
 
-## 4. İBB Yolsuzluk Davasında Yargı Süreci Başlıyor
+## 4. 25 Kasım Kadına Şiddet Protestoları
 
-- İstanbul Büyükşehir Belediyesi (İBB) hakkındaki yolsuzluk iddianamesi mahkeme tarafından kabul edildi
-- Dava kapsamında 407 sanık bulunuyor ve duruşmalar Silivri Cezaevi yerleşkesinde yapılacak
-- Başsavcı Akın Gürlek, soruşturmanın partiler üstü ve adil yürütüldüğünü savundu
-- Ertan Yıldız'ın itirafçı olması soruşturmada dönüm noktası olarak gösterildi
-- İddianamede rüşvet, yolsuzluk, casusluk ve yasa dışı bahis gibi suçlamalar yer alıyor
-- Soruşturmanın itirafçılar üzerinden ilerlemesi eleştirildi
-- Mahkeme sürecinin şeffaf olacağı ve birkaç yıl sürebileceği öngörülüyor
-- Ekrem İmamoğlu'nun bazı duruşmalara katılması bekleniyor
-- Evraklar henüz Uyap sistemine yüklenmediği için avukatlar dosya içeriğine ulaşamıyor
-- Cumhurbaşkanı Erdoğan ve Kemal Kılıçdaroğlu arasında iddianameyle ilgili siyasi tartışmalar yaşanıyor
+- 25 Kasım Kadına Yönelik Şiddetle Mücadele Günü'nde Türkiye genelinde kadınlar protesto düzenledi
+- İstanbul'da kadınların yürüyüşü polis tarafından engellendi ve 15 kadın gözaltına alındı
+- Kadınlar eşitlik, adalet ve özgürlük taleplerini dile getirdi
+- Kadın cinayetleri ve cezasızlık sorunu protesto edildi
+- Yetkililerin açıklamaları ve uygulamaları kadın örgütleri tarafından eleştirildi
+- İstanbul Sözleşmesi ve ILO 190 için yasal düzenleme talep edildi
+- Kadına şiddete karşı 5. Ulusal Eylem Planı açıklandı ancak önceki planların başarısız olduğu belirtildi
+- Türkiye'de kadın cinayetleri artıyor ve her gün neredeyse bir kadın öldürülüyor
+- 2025 yılı aile yılı ilan edildi, bu karar kadın hakları savunucuları tarafından eleştirildi
+- Kadınların konuşma ve protesto hakkının engellenmesi toplumsal baskı olarak değerlendirildi
+- Kadın hakları mücadelesinde daha fazla çaba gerektiği vurgulandı
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=1NkyXBTmKVU&t=2390s) (⏱️ 39:50-40:06)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=9YKO4cq81WY&t=412s) (⏱️ 06:52-13:27)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=4EnL9OAMLIw&t=466s) (⏱️ 07:46-09:53)
-- [Serdar Akinan](https://www.youtube.com/watch?v=CJwLol4Lwag&t=1822s) (⏱️ 30:22-30:47)
+- [Unsal Unlu](https://www.youtube.com/watch?v=1i6PHas23tM&t=1456s) (⏱️ 24:16-25:15)
+- [Hilal Koylu](https://www.youtube.com/watch?v=iI4wgRDDemA&t=13s) (⏱️ 00:13-03:55)
 
 ---
 
-## 5. Ekonomik Sıkıntılar ve Siyasi Yansımalar
+## 5. Et ve Süt Kurumu'nda Etik Skandalı
 
-- Türkiye'de öğretmenlerin çoğu ekonomik zorluk yaşıyor
-- Öğretmenlerin büyük kısmı kiracı ve kira ödemekte zorlanıyor
-- Birçok öğretmen kredi kartı borcunu ödeyemiyor ve ek iş yapıyor
-- Muhalefet, öğretmen maaşlarının artırılmasını vadediyor
-- Ekonomik sıkıntılar hem iktidar hem muhalefet seçmenleri tarafından hissediliyor
-- Çoğu kişi ekonomide iyileşme olmadığını düşünüyor
-- Gelecek aylarda ekonominin kötüye gideceğini düşünenlerin oranı yüksek
-- CHP'nin oy oranı son dönemde 35 civarında ve partinin tarihi için yüksek
-- CHP, 1977'den beri ilk kez birinci parti oldu
-- Diğer partilerin yükselişi CHP'nin oy artışını sınırlıyor
-- Deprem bölgesinde yapılan yeni konutlar vatandaşlar tarafından olumlu karşılanıyor
-- Sosyal konut projeleri AK Parti'nin oylarını bir miktar artırabilir
-- Ekonomi, siyasi partilerin oy oranlarını en çok etkileyen faktör olarak öne çıkıyor
+- Et ve Süt Kurumu Genel Müdürü'nün yurt dışında et ticareti yapan şirketlere ortak olduğu ortaya çıktı
+- Genel Müdür, Türkiye ile iş yapmadığını söylese de belgeler aksini gösteriyor
+- Bu durumun yasalara ve etik kurallara aykırı olduğu vurgulandı
+- Ankara Büyükşehir Belediyesi'nin ucuz et talebi Et ve Süt Kurumu tarafından reddedildi
+- Muhalefet ve kamuoyu, çıkar çatışması ve etik dışı uygulamalar nedeniyle tepki gösterdi
+- Geçmişte de benzer etik skandallar yaşandığı hatırlatıldı
+- Et fiyatlarının yüksek olmasının nedenlerinden biri olarak bu durum gösterildi
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilal Koylu](https://www.youtube.com/watch?v=4AGHeRkw0rA&t=106s) (⏱️ 01:46-02:27)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=B58wi1XC7ac) (⏱️ 00:00-02:46)
+- [Inan Demirel](https://www.youtube.com/watch?v=kSjy6hc7_zw&t=2135s) (⏱️ 35:35-46:07)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=oQpwAIrQVpc&t=2344s) (⏱️ 39:04-45:46)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=3PBnqQdtaGk&t=1920s) (⏱️ 32:00-34:08)
+- [Serdar Akinan](https://www.youtube.com/watch?v=F-Po74f_EHc&t=1019s) (⏱️ 16:59-18:14)
+- [Unsal Unlu](https://www.youtube.com/watch?v=Yceiij2uzco&t=624s) (⏱️ 10:24-09:28)
 
 ---
 
-## 6. Gazetecilere Yönelik Davalar Gündemde
+## 6. İhmaller Can Kaybına Yol Açtı
 
-- Gazeteciler Zafer Arapkirli ve Fatih Altaylı'nın davaları gündemde
-- Arapkirli'nin davası televizyon programındaki bir yorum nedeniyle açıldı
-- Fatih Altaylı'nın davası ise 26 Kasım'da görülecek
-- Altaylı'nın uzun süredir tutuklu olduğu belirtiliyor
-- Her iki dava da basın ve ifade özgürlüğü açısından önemli görülüyor
-- Gazetecilere yönelik baskılar ve tutuklamalar eleştiriliyor
-- Destek ve dayanışma çağrıları yapılıyor
-- Hukukun araçsallaştırıldığı ve adaletin keyfi uygulandığı iddia ediliyor
+- Böcek ailesi bir otelde zehirlenerek hayatını kaybetti
+- Adli tıp raporunda ölüm nedeni olarak fosfin gazı ve alüminyum fosfit tespit edildi
+- Yiyeceklerde zehir bulunmadı, gözaltına alınan satıcılar suçsuz çıktı
+- Fosfin gazı kokusuz ve tehlikeli olduğu için fark edilmedi
+- Otel ve ilaçlama şirketi çalışanlarının ihmali olduğu iddia edildi
+- Denetimsizlik ve ihmallerin benzer olaylarda cezasızlık algısı yarattığı belirtildi
+- Eskişehir'de çıkan orman yangınında 11 kişi hayatını kaybetti
+- Bilirkişi raporunda yangında ağır ihmal olduğu ortaya çıktı
+- Yangına erken müdahale ekibi ve araçları bölgede yoktu
+- Gözetleme kulelerinde personel eksikliği ve geç müdahale yaşandı
+- Her iki olayda da ihmallerin can kaybına yol açtığı vurgulandı
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=1NkyXBTmKVU&t=2151s) (⏱️ 35:51-36:18)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=4EnL9OAMLIw&t=1515s) (⏱️ 25:15-26:17)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=eFgpQgrnPvo&t=10s) (⏱️ 00:10-01:35)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=3PBnqQdtaGk&t=2050s) (⏱️ 34:10-36:58)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=XB_-i1TPoRc&t=1288s) (⏱️ 21:28-26:16)
+- [Serdar Akinan](https://www.youtube.com/watch?v=F-Po74f_EHc&t=922s) (⏱️ 15:22-16:52)
 
 ---
 
-## 7. Belediye Başkanlarına Soruşturma Tartışması
+## 7. Papa 14. Leo Türkiye'de
 
-- İçişleri Bakanlığı, Ankara Büyükşehir Belediye Başkanı Mansur Yavaş hakkında soruşturma izni verdi
-- Soruşturma gerekçeleri arasında Ankapark yolsuzlukları, konserler ve ücretsiz çorba dağıtımı yer alıyor
-- Yavaş, soruşturmanın haksız olduğunu belirterek Danıştay'a itiraz etti
-- CHP lideri Özgür Özel, Yavaş ve İmamoğlu'nun güçlü aday oldukları için hedef alındığını söyledi
-- Soruşturmaların siyasi olduğu ve algı yönetimi amacı taşıdığı iddia ediliyor
-- Şişli Belediye Başkanı Resul Emrah Şahan hakkında da soruşturma izni verildi
-- Şahan hakkındaki soruşturma, başkan olmadan önceki döneme ait
-- Aynı dosyada adı geçen kayyım hakkında ise soruşturma izni verilmedi
-- Muhalefet, bu durumu çifte standart olarak eleştiriyor
+- Papa 14. Leo ilk yurt dışı ziyaretini Türkiye'ye yapacak
+- Ankara'da Anıtkabir'i ziyaret edecek ve Cumhurbaşkanı Erdoğan ile görüşecek
+- İstanbul'da dini liderlerle buluşacak
+- İznik'te Hristiyanlığın ilk konseyinin yapıldığı yerde tören düzenlenecek
+- Ekümenik birlik bildirisi imzalanması bekleniyor
+- Heybeliada Ruhban Okulu'nun açılması gündeme gelebilir
+- Gazze'deki insanlık dramına dikkat çekilmesi bekleniyor
+- Ziyaretin programı yoğun ve dini etkinlikler içeriyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilal Koylu](https://www.youtube.com/watch?v=4AGHeRkw0rA&t=1436s) (⏱️ 23:56-27:08)
-- [Inan Demirel](https://www.youtube.com/watch?v=iRbIRP4vAmQ&t=1290s) (⏱️ 21:30-23:55)
-- [Unsal Unlu](https://www.youtube.com/watch?v=aNk9cS7gSkY&t=1098s) (⏱️ 18:18-18:48)
+- [Murat Yetkin](https://www.youtube.com/watch?v=D0jlXpryBmo&t=512s) (⏱️ 08:32-11:52)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=STbHkPP1MvU&t=5638s) (⏱️ 93:58-96:00)
 
 ---
 
-## 8. Toplumda Güven ve Siyasetçi Tercihleri
+## 8. İstanbul'da Casusluk Operasyonu Tartışması
 
-- Bir ankette en beğenilen Türk milliyetçisi siyasetçi Mansur Yavaş oldu
-- Mansur Yavaş'ın bağımsız ve partiye bağlı olmadan değerli bulunduğu belirtildi
-- Olası cumhurbaşkanlığı seçiminde Mansur Yavaş'ın Erdoğan karşısında önde olduğu görüldü
-- Ekrem İmamoğlu ve Özgür Özel de Erdoğan karşısında avantajlı çıktı
-- Aynı araştırmada siyaset dışı en güvenilen isimler arasında Sedat Peker ve Müge Anlı yer aldı
-- Sedat Peker'in bazı davalarda hızlı sonuç almasının etkili olduğu belirtildi
-- Toplumda mafya liderlerine duyulan güvenin garipliği vurgulandı
-- Türkiye'de yargıya güvenin azaldığı ve adaletin farklı alanlarda arandığı ifade edildi
+- İstanbul'da casusluk operasyonu düzenlendi ve üç kişi yakalandı
+- Başlangıçta operasyonun Birleşik Arap Emirlikleri ile bağlantılı olduğu açıklandı
+- Daha sonra savcılık BAE bağlantısı olmadığını duyurdu
+- Açıklamalardaki değişiklikler ve çelişkiler tartışma yarattı
+- Operasyonun şeffaflığı ve açıklama süreci eleştirildi
+- Diplomatik ve ekonomik ilişkiler nedeniyle BAE detayının çıkarıldığı iddia edildi
+- Muhalefet ve bazı uzmanlar savcılığın tutumunu ciddiyetsiz buldu
+- Casusluk suçlamalarının hassasiyeti ve soruşturma gizliliği vurgulandı
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=_zc2ylL_Ta4&t=989s) (⏱️ 16:29-21:26)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=eFgpQgrnPvo&t=2130s) (⏱️ 35:30-38:00)
+- [Unsal Unlu](https://www.youtube.com/watch?v=1i6PHas23tM&t=1246s) (⏱️ 20:46-44:29)
+- [Serdar Akinan](https://www.youtube.com/watch?v=F-Po74f_EHc&t=6s) (⏱️ 00:06-07:37)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=STbHkPP1MvU&t=5565s) (⏱️ 92:45-93:58)
+- [Hilal Koylu](https://www.youtube.com/watch?v=iI4wgRDDemA&t=486s) (⏱️ 08:06-09:34)
+- [Inan Demirel](https://www.youtube.com/watch?v=kSjy6hc7_zw&t=1860s) (⏱️ 31:00-33:00)
 
 ---
 
-## 9. Asgari Ücret ve Enflasyon Beklentileri
+## 9. ABD'nin Dış Politikada Venezuela ve Ukrayna Gerilimi
 
-- 2025 asgari ücret tartışmaları Ankara'da gündemde
-- Çeşitli senaryolara göre asgari ücret 25.640 TL ile 29.398 TL arasında olabilir
-- Son kararı Cumhurbaşkanı Erdoğan verecek
-- Asgari ücret tespit komisyonu Aralık başında toplanacak
-- Merkez Bankası Başkanı Fatih Karahan ilk kez YouTube'da canlı yayına çıkacak
-- Yayında para politikası ve ekonomik görünüm anlatılacak
-- Halkın enflasyon beklentisi yüksek ve resmi rakamlara güven az
-- Hükümet ekonomiyi soğutmaya çalışıyor ama vatandaş harcamaya devam ediyor
-- Yastık altı altın ve döviz birikimi ekonomi yönetimini zorluyor
-- Devlet harcamalarında kısıntı yapılmadığı eleştiriliyor
-- Merkez Bankası yeni iletişim stratejisiyle güven artırmaya çalışıyor
+- ABD ile Venezuela arasında siyasi gerginlik sürüyor
+- Maduro, ABD'nin tehditlerine karşı sert açıklamalar yaptı
+- ABD, Venezuela yönetimine baskı uyguluyor ve bazı grupları terörist ilan etti
+- ABD askeri önlemler aldı ancak doğrudan müdahale ihtimali düşük
+- Trump, Venezuela konusunu iç politikada kullanıyor
+- Venezuela'nın Rusya, Çin ve İran ile yakın ilişkileri ABD için sorun
+- Ukrayna'da yeni bir barış planı tartışılıyor
+- Planın Rusya'nın isteklerine yakın olduğu iddia ediliyor
+- Ukrayna ve Avrupa'dan gelen itirazlar nedeniyle plan değiştirildi
+- Türkiye, Ukrayna barış sürecinde arabulucu olarak öne çıkıyor
+- ABD ve Trump'ın Ukrayna politikası tartışılıyor
+- Ukrayna'nın toprak bütünlüğü ve savaş suçları gündemde
+- Barış planlarının detayları henüz kesinleşmedi
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Murat Yetkin](https://www.youtube.com/watch?v=PUjL58KTFYU&t=387s) (⏱️ 06:27-14:59)
-- [Hilal Koylu](https://www.youtube.com/watch?v=4AGHeRkw0rA&t=1628s) (⏱️ 27:08-29:02)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=3PBnqQdtaGk&t=2660s) (⏱️ 44:20-45:32)
+- [Rusen Cakir](https://www.youtube.com/watch?v=HXCIzgwwZdw&t=344s) (⏱️ 05:44-13:40)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=oQpwAIrQVpc&t=1355s) (⏱️ 22:35-27:52)
 
 ---
 
-## 10. Türkiye'de Milliyetçilik ve Cemaat Etkisi
+## 10. Mecliste Bütçe ve Komisyon Tartışması
 
-- Türkiye'de milliyetçi seçmenler farklı partilere dağılmış durumda
-- Milliyetçi oylar toplamda %17'ye kadar çıkabiliyor
-- Anahtar Parti milliyetçi seçmenlerden pay alabiliyor ve oy oranı %2,1 civarında
-- Araştırmalara göre katılımcıların %44,4'ü kendini milliyetçi olarak tanımlıyor
-- Milliyetçiliği partiyle sınırlı görmeyenler çoğunlukta
-- Türk milliyetçiliğini en iyi temsil eden parti olarak en çok 'hiçbiri' cevabı verildi
-- Siyaset kurumuna güvenin azaldığı ve ittifak algısının zayıfladığı belirtiliyor
-- Katılımcıların %36,4'ü kendini bir cemaate veya tarikata yakın hissediyor
-- Erenköy Altın Cemaati ve Alevi Bektaşi en çok yakın hissedilen gruplar arasında
-- Bazı cemaatlerin bürokraside ve ticarette etkili olduğu vurgulanıyor
-- Cemaatlerin oy verme davranışlarını etkileyebilecek güçte olduğu ifade ediliyor
+- Mecliste Milli Savunma Bakanlığı bütçesi görüşüldü
+- Şehit askerlerin fotoğrafları mecliste gösterildi
+- Fotoğrafların siyasi amaçla kullanılması eleştirildi
+- Milli Dayanışma, Kardeşlik ve Demokrasi Komisyonu'nun hukuki dayanağı sorgulandı
+- Komisyonun bütçesi ve harcamalarının kaynağı soruldu
+- Komisyonun meclis iç tüzüğünde yeri olmadığı belirtildi
+- Komisyon kararlarının hukuki geçerliliği tartışıldı
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=B58wi1XC7ac&t=294s) (⏱️ 04:54-09:10)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=_zc2ylL_Ta4&t=588s) (⏱️ 09:48-21:26)
+- [Serdar Akinan](https://www.youtube.com/watch?v=F-Po74f_EHc&t=1114s) (⏱️ 18:34-21:38)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=3PBnqQdtaGk&t=2242s) (⏱️ 37:22-39:17)
+
+---
+
+## 11. Ara Tatil ve Eğitimdeki Sorunlar
+
+- Eskişehir'deki orman yangınında ölen işçilerle ilgili soruşturmada takipsizlik kararı verildi
+- Milli Eğitim Bakanı Yusuf Tekin ara tatillerin kaldırılması konusunun gündemde olduğunu söyledi
+- Ara tatillerin kaldırılmasıyla ilgili kesin bir karar alınmadı
+- Eğitim sistemindeki eksiklikler ve sorunlar tartışıldı
+- Milli Eğitim Bakanı'nın açıklamaları eleştirildi
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=3PBnqQdtaGk&t=2733s) (⏱️ 45:33-49:08)
+- [Unsal Unlu](https://www.youtube.com/watch?v=xWGTKNkJCfc&t=2365s) (⏱️ 39:25-39:37)
 
 ---
 
