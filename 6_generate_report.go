@@ -10,6 +10,7 @@ import (
 	"log"
 	"os"
 	"path/filepath"
+	"sort"
 	"strings"
 	"time"
 
@@ -417,6 +418,11 @@ func formatFinalReport(stories []MergedNewsStory) string {
 	if len(stories) == 0 {
 		return "# Bugün Ne Oldu?\n\nBugün için haber bulunamadı.\n"
 	}
+
+	// Sort stories by number of reporters (highest first)
+	sort.Slice(stories, func(i, j int) bool {
+		return len(stories[i].Reporters) > len(stories[j].Reporters)
+	})
 
 	report := "# Bugün Ne Oldu?\n\n"
 	report += fmt.Sprintf("*%s tarihli günlük haber raporu - %d haber birleştirildi*\n\n", time.Now().Format("2 January 2006"), len(stories))
