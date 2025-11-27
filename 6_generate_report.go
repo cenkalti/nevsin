@@ -424,6 +424,11 @@ func formatFinalReport(stories []MergedNewsStory) string {
 		return len(stories[i].Reporters) > len(stories[j].Reporters)
 	})
 
+	// Limit to top 10 stories
+	if len(stories) > 10 {
+		stories = stories[:10]
+	}
+
 	report := "# Bugün Ne Oldu?\n\n"
 	report += fmt.Sprintf("*%s tarihli günlük haber raporu - %d haber birleştirildi*\n\n", time.Now().Format("2 January 2006"), len(stories))
 
