@@ -43,7 +43,6 @@ type MergedNewsStory struct {
 	Title        string        `json:"title" jsonschema:"description=Birleştirilmiş haberin başlığı"`
 	Summary      []string      `json:"summary" jsonschema:"description=Tüm kaynaklardan birleştirilmiş detaylı haber özeti,maxItems=10"`
 	Reporters    []string      `json:"reporters" jsonschema:"description=Bu haberi kapsayan muhabirlerin listesi"`
-	Priority     int           `json:"priority" jsonschema:"description=Haberin önem derecesi (1=en önemli, 10=en az önemli)"`
 	VideoSources []VideoSource `json:"-"` // Not included in JSON schema
 }
 
@@ -130,7 +129,6 @@ func convertClustersToMergedStories(clusters ClusteringResult) []MergedNewsStory
 				Title:     story.Title,
 				Summary:   splitSummaryIntoBulletPoints(story.Summary),
 				Reporters: []string{story.Reporter},
-				Priority:  5, // Default priority
 				VideoSources: []VideoSource{
 					{
 						Reporter:  story.Reporter,
@@ -148,11 +146,6 @@ func convertClustersToMergedStories(clusters ClusteringResult) []MergedNewsStory
 		// For multiple stories, use AI to merge them
 		mergedStory := mergeClusterWithAI(cluster)
 		mergedStories = append(mergedStories, mergedStory)
-	}
-
-	// Sort by priority using AI
-	if len(mergedStories) > 1 {
-		mergedStories = prioritizeStoriesWithAI(mergedStories)
 	}
 
 	return mergedStories
@@ -206,7 +199,6 @@ func mergeClusterWithAI(cluster StoryCluster) MergedNewsStory {
 			Title:     story.Title,
 			Summary:   splitSummaryIntoBulletPoints(story.Summary),
 			Reporters: []string{story.Reporter},
-			Priority:  5,
 		}
 	}
 
@@ -252,8 +244,6 @@ func mergeClusterWithAI(cluster StoryCluster) MergedNewsStory {
 Görevlerin:
 1. Ortak bir başlık oluştur
 2. Tüm hikayelerdeki bilgileri birleştirerek kapsamlı özet yaz
-3. Haberin önem derecesini belirle (1=en önemli, 10=en az önemli)
-4. Türkiye gündemindeki yerini değerlendir
 
 BAŞLIK YAZIM KURALLARI:
 • Başlıkları kısa ve öz tut
@@ -321,19 +311,6 @@ BAŞLIK YAZIM KURALLARI:
 	}
 
 	return mergedStory
-}
-
-// prioritizeStoriesWithAI uses AI to prioritize merged stories
-func prioritizeStoriesWithAI(stories []MergedNewsStory) []MergedNewsStory {
-	// For now, just sort by existing priority. Could enhance with AI later.
-	for i := 0; i < len(stories)-1; i++ {
-		for j := i + 1; j < len(stories); j++ {
-			if stories[i].Priority > stories[j].Priority {
-				stories[i], stories[j] = stories[j], stories[i]
-			}
-		}
-	}
-	return stories
 }
 
 // Helper functions to get story metadata from original story files
@@ -439,15 +416,6 @@ func getStoryURL(storyID string) string {
 func formatFinalReport(stories []MergedNewsStory) string {
 	if len(stories) == 0 {
 		return "# Bugün Ne Oldu?\n\nBugün için haber bulunamadı.\n"
-	}
-
-	// Sort stories by priority (lower number = higher priority)
-	for i := 0; i < len(stories)-1; i++ {
-		for j := i + 1; j < len(stories); j++ {
-			if stories[i].Priority > stories[j].Priority {
-				stories[i], stories[j] = stories[j], stories[i]
-			}
-		}
 	}
 
 	report := "# Bugün Ne Oldu?\n\n"
