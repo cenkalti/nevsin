@@ -41,7 +41,7 @@ type VideoSource struct {
 // MergedNewsStory represents a news story merged from multiple sources
 type MergedNewsStory struct {
 	Title        string        `json:"title" jsonschema:"description=Birleştirilmiş haberin başlığı"`
-	Summary      []string      `json:"summary" jsonschema:"description=Tüm kaynaklardan birleştirilmiş detaylı haber özeti (madde işaretleri dizisi olarak)"`
+	Summary      []string      `json:"summary" jsonschema:"description=Tüm kaynaklardan birleştirilmiş detaylı haber özeti,maxItems=10"`
 	Reporters    []string      `json:"reporters" jsonschema:"description=Bu haberi kapsayan muhabirlerin listesi"`
 	Priority     int           `json:"priority" jsonschema:"description=Haberin önem derecesi (1=en önemli, 10=en az önemli)"`
 	VideoSources []VideoSource `json:"-"` // Not included in JSON schema
