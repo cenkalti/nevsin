@@ -1,267 +1,225 @@
 # Bugün Ne Oldu?
 
-*27 November 2025 tarihli günlük haber raporu - 12 haber birleştirildi*
+*28 November 2025 tarihli günlük haber raporu - 10 haber birleştirildi*
 
-## 1. Fatih Altaylı Davası ve Hukuk Krizi
+## 1. 11. Yargı Paketi ve Tahliye Düzenlemesi
 
-- Gazeteci Fatih Altaylı'ya 4 yıl 2 ay hapis cezası verildi ve tutukluluğu devam ediyor
-- Ceza, Cumhurbaşkanı'na tehdit suçlamasıyla ve tartışmalı gerekçelerle verildi
-- Kararın hukuki değil siyasi olduğu, basın özgürlüğüne tehdit oluşturduğu savunuluyor
-- Gazetecilere ve muhaliflere yönelik baskıların arttığı, cezaevinde birçok gazeteci ve siyasetçi olduğu belirtiliyor
-- Avrupa İnsan Hakları Mahkemesi ve Anayasa Mahkemesi kararlarının uygulanmaması eleştiriliyor
-- Demokratik açılım ve hukuk devleti tartışmaları gündemde, hukuksuzluk ve adaletsizlik hissi toplumda yaygınlaşıyor
-- 11. Yargı Paketi ile Covid affı ve erken tahliye düzenlemeleri Meclis'te görüşülüyor, on binlerce kişinin tahliyesi bekleniyor
-- Yargı bağımsızlığı, ifade özgürlüğü ve adalet sistemindeki sorunlar Türkiye gündeminde öne çıkıyor
+- 11. Yargı Paketi Meclis'e sunuldu.
+- Paketle yaklaşık 115 bin kişinin tahliyesi bekleniyor.
+- Covid dönemi infaz düzenlemesi kapsamı genişletildi.
+- Terör ve örgütlü suçlar kapsam dışında bırakıldı.
+- Denetimli serbestlik süresi uzatıldı ve tahliye şartları değişti.
+- Toplu alanlarda havaya ateş açma ve yol kesme gibi suçlara yeni cezalar getirildi.
+- Dijital medya ve sosyal medya için erişim engeli kararları kolaylaştırıldı.
+- Gazeteciler ve muhalefet ifade özgürlüğü açısından endişeli.
+- Fatih Altaylı'ya 4 yıl 2 ay hapis cezası verildi ve tutukluluğu devam ediyor.
+- Barolar ve Avrupa Parlamentosu karara tepki gösterdi, çifte standart eleştirildi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=4Agy0SqFdw4&t=38s) (⏱️ 00:38-05:50)
-- [Serdar Akinan](https://www.youtube.com/watch?v=OZRf-YeU1RI&t=831s) (⏱️ 13:51-23:09)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=WVvoJAb1NY8&t=21s) (⏱️ 00:21-05:17)
-- [Hilal Koylu](https://www.youtube.com/watch?v=IKW_iZHHjWQ) (⏱️ 00:00-14:40)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=LFL5g8ZA09U&t=730s) (⏱️ 12:10-25:17)
-- [Rusen Cakir](https://www.youtube.com/watch?v=sSiijna4qIc&t=3s) (⏱️ 00:03-14:12)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=ujT_cAKWhQE&t=4522s) (⏱️ 75:22-77:01)
-- [Onlar TV](https://www.youtube.com/watch?v=Btp9tN-6N6E) (⏱️ 00:00-20:37)
-- [Inan Demirel](https://www.youtube.com/watch?v=dTgCjThk9UA&t=2s) (⏱️ 00:02-09:59)
+- [Hilal Koylu](https://www.youtube.com/watch?v=291rp4mqFPQ&t=108s) (⏱️ 01:48-03:57)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=mS0Kf-SHOlE&t=2024s) (⏱️ 33:44-39:00)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=uk37bXWxhnA&t=341s) (⏱️ 05:41-08:12)
+- [Onlar TV](https://www.youtube.com/watch?v=dN24EXFm4XY&t=104s) (⏱️ 01:44-54:54)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=hinMpJQuF00&t=41s) (⏱️ 00:41-02:36)
+- [Serdar Akinan](https://www.youtube.com/watch?v=9Sd02U6sanM&t=11s) (⏱️ 00:11-07:11)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=cTAFhaWWerE&t=310s) (⏱️ 05:10-10:47)
+- [Unsal Unlu](https://www.youtube.com/watch?v=NRNef6Z5WzM&t=2494s) (⏱️ 41:34-49:01)
+- [Rusen Cakir](https://www.youtube.com/watch?v=mYcHU_9zLO8&t=2067s) (⏱️ 34:27-45:24)
+- [Inan Demirel](https://www.youtube.com/watch?v=Dqk5kWbdbUY&t=2070s) (⏱️ 34:30-39:45)
 
 ---
 
-## 2. İmralı Görüşmeleri ve Siyasi Tartışmalar
+## 2. İmralı Görüşmeleri ve Siyasi Süreç
 
-- İmralı Adası'nda Abdullah Öcalan ile siyasi heyetler ve devlet yetkilileri arasında görüşmeler yapıldı
-- Görüşmelerde Suriye, SDG ve PKK'nın silah bırakması gibi konular gündeme geldi
-- Komisyon toplantılarının ertelenmesi ve tutanakların paylaşılmaması şeffaflık tartışmalarına yol açtı
-- DEM Parti ve bazı muhalefet temsilcileri görüşme detaylarının kamuoyuna açıklanmasını istiyor
-- AK Parti ve MHP, görüşmelerin açıklanmasına sıcak bakmıyor ve süreci devlet politikası olarak görüyor
-- AK Parti, CHP'nin komisyonda yer almasını ve sürece destek vermesini önemsiyor
-- CHP güvenlik gerekçesiyle İmralı heyetine katılmaya mesafeli yaklaşıyor
-- Milli Güvenlik Kurulu ve Milli Savunma Bakanı, PKK ve SDG'nin tehdit olarak görüldüğünü vurguladı
-- Sürecin şeffaf yürütülmemesi ve siyasi partiler arasındaki çekişmeler eleştiriliyor
-- Suriye'deki gelişmeler ve SDG'nin geleceği sürecin seyrini etkiliyor
-- Çözüm sürecinin geleceği ve toplumsal barışın sağlanması için anayasal değişiklikler tartışılıyor
+- İmralı'da Abdullah Öcalan ile siyasi heyetler arasında görüşmeler yapıldı
+- Görüşmelere AK Parti, MHP ve DEM Parti temsilcileri katıldı, CHP ise heyete dahil olmadı
+- Görüşmelerde Öcalan'ın cezaevi koşullarında iyileşmeler sağlandı, sohbet ve kitap okuma hakları genişletildi
+- Suriye, SDG ve YPG'nin geleceği ile entegrasyon konuları öne çıktı
+- Öcalan, CHP'nin de sürece katılmasını istediğini belirtti
+- Görüşmelerin gizli yürütülmesi ve şeffaflık eksikliği kamuoyunda tartışma yarattı
+- Görüşme tutanaklarının komisyona sunulması ve yasal düzenlemeler gündeme geldi
+- Sürecin başarısız olması halinde sert operasyonlar olabileceği ifade edildi
+- Çözüm sürecinin siyasi dengeleri ve partiler arası ilişkileri etkileyebileceği konuşuldu
+- Türkiye'nin Suriye ve Kuzey Irak'taki askeri operasyonları devam ediyor ve süreçle bağlantılı değerlendiriliyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=WVvoJAb1NY8&t=515s) (⏱️ 08:35-13:27)
-- [Rusen Cakir](https://www.youtube.com/watch?v=8VEbF1fnRb8) (⏱️ 00:00-08:25)
-- [Unsal Unlu](https://www.youtube.com/watch?v=4Agy0SqFdw4&t=1347s) (⏱️ 22:27-23:45)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=LFL5g8ZA09U&t=28s) (⏱️ 00:28-05:00)
-- [Murat Yetkin](https://www.youtube.com/watch?v=2XTDpw14_mg&t=6s) (⏱️ 00:06-15:15)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=3ZWjE0LXOC8&t=1620s) (⏱️ 27:00-30:00)
-- [Inan Demirel](https://www.youtube.com/watch?v=h7OfDWwVFK0&t=1325s) (⏱️ 22:05-24:17)
+- [Murat Yetkin](https://www.youtube.com/watch?v=V2ACpjkSazE&t=7s) (⏱️ 00:07-14:34)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=6XWOjwW_vzc&t=3774s) (⏱️ 62:54-68:35)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=cTAFhaWWerE&t=681s) (⏱️ 11:21-13:19)
+- [Serdar Akinan](https://www.youtube.com/watch?v=9Sd02U6sanM&t=883s) (⏱️ 14:43-24:43)
+- [Onlar TV](https://www.youtube.com/watch?v=dN24EXFm4XY&t=3312s) (⏱️ 55:12-70:49)
+- [Unsal Unlu](https://www.youtube.com/watch?v=NRNef6Z5WzM&t=32s) (⏱️ 00:32-25:16)
+- [Hilal Koylu](https://www.youtube.com/watch?v=291rp4mqFPQ&t=895s) (⏱️ 14:55-18:31)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=hinMpJQuF00&t=2990s) (⏱️ 49:50-57:48)
+- [Rusen Cakir](https://www.youtube.com/watch?v=mYcHU_9zLO8&t=1025s) (⏱️ 17:05-21:12)
+- [Inan Demirel](https://www.youtube.com/watch?v=Dqk5kWbdbUY&t=790s) (⏱️ 13:10-27:00)
 
 ---
 
-## 3. CHP Kurultayı ve Parti İçi Değişim
+## 3. CHP Kurultayında Yeni Dönem Başladı
 
-- CHP kurultayı öncesi parti içi tartışmalar ve değişim beklentisi gündemde
-- Özgür Özel'in genel başkanlığı kesinleşmiş görünüyor, rakip beklenmiyor
-- Kemal Kılıçdaroğlu'nun eleştirilerine Özgür Özel yanıt verdi ve vefa vurgusu yaptı
-- Kılıçdaroğlu kurultaya davet edilecek
-- Parti meclisi ve MYK'da önemli değişiklikler bekleniyor
-- Gençlik kotası, kadın-erkek dağılımı ve tüzük değişiklikleri gündemde
-- Ekrem İmamoğlu'nun parti içindeki konumu ve siyasi desteği tartışılıyor
-- İmamoğlu'na yönelik davalar ve tutuklama ihtimali parti tabanında mağduriyet algısını güçlendiriyor
-- CHP'nin mağduriyet algısı seçmen nezdinde avantaj sağlıyor
-- Seçmenler, parti içi tartışmalardan çok adayların kişisel özelliklerine ve vaatlerine önem veriyor
-- AK Parti ekonomi ve sosyal konulara odaklanırken, CHP seçmen kitlesini koruyor
-- Yerel seçimlerde doğru aday belirlemenin önemi vurgulanıyor
+- CHP'nin 39. Olağan Kurultayı başladı ve üç gün sürecek
+- Kurultayda yeni parti programı ve tüzük değişiklikleri kabul edildi
+- Ekonomi, savunma, sendikalaşma ve vatandaşlık gibi alanlarda yenilikler açıklandı
+- Ekonomide yerli üretim ve şeffaflık ön plana çıkarıldı
+- Özgür Özel'in genel başkanlığı kesinleşti ve parti yönetimi güçlendi
+- Kılıçdaroğlu'nun etkisi azaldı, parti içi muhalefet zayıfladı
+- CHP, iktidara hazırlık ve seçmene ulaşma hedefini öne çıkardı
+- Kurultayda tartışmalar sakin geçti, genel merkez etrafında birlik sağlandı
+- CHP ile DEM Parti arasındaki kent uzlaşısı ve açılan davalar gündemdeydi
+- Mecliste ombudsman seçimi sırasında tartışmalar yaşandı ve CHP komisyonu terk etti
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=WVvoJAb1NY8&t=318s) (⏱️ 05:18-08:27)
-- [Inan Demirel](https://www.youtube.com/watch?v=h7OfDWwVFK0&t=480s) (⏱️ 08:00-10:30)
-- [Hilal Koylu](https://www.youtube.com/watch?v=IKW_iZHHjWQ&t=1920s) (⏱️ 32:00-40:31)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=3ZWjE0LXOC8&t=2029s) (⏱️ 33:49-40:16)
-- [Unsal Unlu](https://www.youtube.com/watch?v=4Agy0SqFdw4&t=577s) (⏱️ 09:37-12:55)
+- [Inan Demirel](https://www.youtube.com/watch?v=Dqk5kWbdbUY&t=128s) (⏱️ 02:08-06:10)
+- [Rusen Cakir](https://www.youtube.com/watch?v=mYcHU_9zLO8&t=20s) (⏱️ 00:20-16:59)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=cTAFhaWWerE&t=915s) (⏱️ 15:15-17:10)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=hinMpJQuF00&t=3969s) (⏱️ 66:09-66:56)
+- [Hilal Koylu](https://www.youtube.com/watch?v=291rp4mqFPQ&t=603s) (⏱️ 10:03-11:54)
+- [Unsal Unlu](https://www.youtube.com/watch?v=NRNef6Z5WzM&t=3112s) (⏱️ 51:52-56:06)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=6XWOjwW_vzc&t=235s) (⏱️ 03:55-08:01)
 
 ---
 
-## 4. İBB Davası ve Suçlama Tartışmaları
+## 4. Papa 14. Leo'nun Türkiye ziyareti
 
-- İBB davasında iddianame kabul edildi ve yüzlerce sanık var
-- Duruşma salonu yetersizliği ve duruşma günü belirsizliği yaşanıyor
-- Dava sürecinin seçimlere kadar uzayabileceği konuşuluyor
-- İmamoğlu hakkında suç örgütü iddiaları iddianameye girdi
-- Bazı toplantıların otelde yapıldığı öne sürülüyor
-- Yargılama başlamadan suçlama yapılması eleştiriliyor
-- Gazetecilerin tarafsızlığı ve etik sorumluluğu tartışılıyor
-- Gazeteciler Cemiyeti'nin kınama yayınlaması gerektiği belirtiliyor
-- CHP'nin süreç yönetimi ve sessizliği sorgulanıyor
-- İBB'nin araç kiralama uygulaması ve artan araç sayısı tartışılıyor
-- Araçların akıbeti ve AKP teşkilatına tahsis edilen araçlar gündeme geliyor
-- Belediyeden açıklama bekleniyor
+- Papa 14. Leo ilk yurt dışı ziyaretini Türkiye'ye yaptı
+- Ziyaretin ana nedeni İznik Konsili'nin 1700. yıl dönümüydü
+- Papa Ankara'da Anıtkabir'i ziyaret etti ve Cumhurbaşkanı Erdoğan ile görüştü
+- Cumhurbaşkanlığı Külliyesi'nde resmi tören düzenlendi ve ilahi tartışması yaşandı
+- Papa'nın mesajlarında çoğulculuk, köprü kurma ve birlik vurgusu öne çıktı
+- İstanbul ve İznik'te trafik yoğunluğu oluştu
+- İznik'te Papa ayin yönetti, Fener Rum Patriği Bartolomeos eşlik etti
+- Ziyaret Katolik ve Ortodoks kiliseleri arasında diyalog için önemli görüldü
+- Papa'nın ziyareti ekümenik birliktelik ve Hristiyan dünyasında birlik mesajı olarak değerlendirildi
+- Fener Rum Patrikhanesi'nin ekümenik statüsü ve Lozan Antlaşması'ndaki yeri tartışıldı ve Türkiye'nin tutumu gündeme geldi
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=3ZWjE0LXOC8&t=1800s) (⏱️ 30:00-33:49)
-- [Unsal Unlu](https://www.youtube.com/watch?v=4Agy0SqFdw4&t=1521s) (⏱️ 25:21-26:28)
-- [Inan Demirel](https://www.youtube.com/watch?v=h7OfDWwVFK0&t=1655s) (⏱️ 27:35-29:20)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=WVvoJAb1NY8&t=937s) (⏱️ 15:37-17:23)
+- [Inan Demirel](https://www.youtube.com/watch?v=Dqk5kWbdbUY&t=2890s) (⏱️ 48:10-54:17)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=mS0Kf-SHOlE&t=460s) (⏱️ 07:40-33:44)
+- [Hilal Koylu](https://www.youtube.com/watch?v=291rp4mqFPQ&t=1456s) (⏱️ 24:16-27:57)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=6XWOjwW_vzc&t=1066s) (⏱️ 17:46-39:59)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=hinMpJQuF00&t=158s) (⏱️ 02:38-08:38)
 
 ---
 
-## 5. Papa'nın Tarihi Türkiye Ziyareti
+## 5. Mehmet Ali Ağca'nın İznik'te Gündem Olması
 
-- Papa 14. Leo Türkiye'ye tarihi bir ziyaret gerçekleştiriyor
-- Ziyaretin ana nedeni İznik Konsili'nin 1700. yıldönümü
-- Papa Ankara'da Anıtkabir'i ziyaret ederek barış mesajı verdi
-- Cumhurbaşkanı Erdoğan ile Beştepe'de görüşme yapıldı
-- Papa, Diyanet İşleri Başkanı ve farklı Hristiyan mezheplerinin liderleriyle buluşacak
-- İstanbul ve İznik'te dini ve tarihi mekanlarda ayinler düzenlenecek
-- Ziyaret Katolik ve Ortodoks dünyası için sembolik ve tarihi öneme sahip
-- Fener Rum Patrikhanesi'nin ekümeniklik iddiası ve Türkiye'nin tutumu tartışılıyor
-- Ziyaretin Rusya, Batı ve Ortadoğu dengeleri üzerinde etkileri olabilir
-- Türkiye'nin bu ziyareti jeopolitik ve kültürel fırsata çevirebileceği belirtiliyor
-- Ziyaret sosyal medyada tartışmalara ve komplo teorilerine yol açtı
+- Mehmet Ali Ağca Papa'nın İznik ziyareti sırasında ilçeye geldi
+- Ağca Papa ile görüşmek istediğini açıkladı
+- Ağca'nın geçmişte Papa'ya suikast girişimi ve Abdi İpekçi cinayetiyle bilindiği hatırlatıldı
+- Ağca'nın İznik'te röportaj vermesi ve medyada yer alması tartışma yarattı
+- Yetkililer Ağca'yı İznik'ten çıkarıp İstanbul'a gönderdi
+- Medyanın Ağca'ya mikrofon uzatması eleştirildi
+- Olay sosyal medyada ve kamuoyunda tepki topladı
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Nevsin Mengu](https://www.youtube.com/watch?v=LFL5g8ZA09U&t=300s) (⏱️ 05:00-12:10)
-- [Serdar Akinan](https://www.youtube.com/watch?v=OZRf-YeU1RI&t=1044s) (⏱️ 17:24-23:09)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=ujT_cAKWhQE&t=1570s) (⏱️ 26:10-59:04)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=WVvoJAb1NY8&t=1940s) (⏱️ 32:20-33:27)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=6XWOjwW_vzc&t=2617s) (⏱️ 43:37-47:46)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=cTAFhaWWerE&t=1030s) (⏱️ 17:10-18:15)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=mS0Kf-SHOlE&t=2340s) (⏱️ 39:00-40:22)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=hinMpJQuF00&t=2742s) (⏱️ 45:42-49:38)
 
 ---
 
-## 6. Asgari Ücret ve Ekonomik Zorluklar Türkiye Gündeminde
+## 6. HSK Kararnamesiyle Yargıda Geniş Atama
 
-- Asgari ücret zammı ve IMF programı tartışılıyor
-- Yeni asgari ücretin açlık sınırının altında kalacağı söyleniyor
-- İşçi konfederasyonlarının sessizliği eleştiriliyor
-- Türk-İş Başkanı Ergün Atalay'ın açıklamaları gündemde
-- İşçiler insanca yaşanabilir ücret talebiyle eylem yapıyor
-- Merkez Bankası Başkanı enflasyonun tedavisinin zaman alacağını açıkladı
-- Enflasyonun hayat pahalılığı ve yoksullaşmaya yol açtığı belirtiliyor
-- Vatandaşlar pazar alışverişinde zorlanıyor
-- Emekliler ve dar gelirliler temel gıdayı almakta güçlük çekiyor
+- HSK kararnamesiyle 621 hakim ve savcının görev yeri değişti
+- Bazı atamalar ödül veya ceza niteliğinde yapıldı
+- İBB soruşturmasını yürüten savcılar yeni görevlere atandı
+- İmamoğlu davasına bakan hakim başka ile gönderildi
+- Bursa Başsavcısı Ramazan Solmaz Yargıtay'a atandı
+- İstanbul 40. Ağır Ceza Mahkemesi'ne yeni heyet atandı
+- Bazı önemli davalara bakan hakimler başka adliyelere gönderildi
+- İstanbul adliyelerinde davalar için para konuşulduğu iddia edildi
+- 404 yeni mahkeme açıldı ve yargı kapasitesi artırıldı
+- İstinaf mahkemelerine 115 yeni üye ve 17 yeni daire kuruldu
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=4Agy0SqFdw4&t=1164s) (⏱️ 19:24-20:42)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=WVvoJAb1NY8&t=1193s) (⏱️ 19:53-27:22)
+- [Serdar Akinan](https://www.youtube.com/watch?v=9Sd02U6sanM&t=431s) (⏱️ 07:11-10:33)
+- [Inan Demirel](https://www.youtube.com/watch?v=Dqk5kWbdbUY&t=1810s) (⏱️ 30:10-34:30)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=cTAFhaWWerE&t=647s) (⏱️ 10:47-11:21)
 
 ---
 
-## 7. Et ve Süt Kurumu'nda Şirket İddiası
+## 7. Yeni Kitap Programı ve Okuma Alışkanlıkları
 
-- Et ve Süt Kurumu Genel Müdürü Mücahit Taylan'ın Macaristan'da bir şirketi olduğu iddia edildi
-- Şirketin adresi gerçek bir aile evi olarak bulundu
-- Şirkette tabela veya isim olmadığı belirtildi
-- Taylan'ın bu şirket üzerinden Türkiye'ye et sattığı öne sürüldü
-- Et satışından 40 milyon dolar kar elde edildiği iddia edildi
-- Adresin sahte olduğu iddialar arasında yer aldı
+- Yeni bir kitap programı hazırlanıyor
+- Programda kitap tanıtımları ve yazar röportajları olacak
+- Yayının finansmanı Patreon ve reklam gelirine dayanıyor
+- Sponsoru olmayan bağımsız bir yayın olduğu belirtiliyor
+- Kitap programı yazar ve yayınevlerinden gelir sağlayacak
+- Türkiye'de kitap okuma alışkanlıkları tartışılıyor
+- Kütüphanelerin kullanımı teşvik ediliyor
+- Herkesin kendi zevkine göre kitap seçmesi öneriliyor
+- Kötü kitapların bırakılması gerektiği söyleniyor
+- Dizileri birlikte izleme alışkanlığı da konuşuldu
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=4Agy0SqFdw4&t=797s) (⏱️ 13:17-14:10)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=ujT_cAKWhQE&t=4621s) (⏱️ 77:01-82:29)
+- [Unsal Unlu](https://www.youtube.com/watch?v=NRNef6Z5WzM&t=1664s) (⏱️ 27:44-30:45)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=cTAFhaWWerE&t=1560s) (⏱️ 26:00-26:37)
 
 ---
 
-## 8. Otelde Böcek İlacı Zehirlenmesi Faciası
+## 8. Yeni Türk Edebiyatında Öne Çıkan Kitaplar
 
-- Almanya'dan gelen Böcek ailesi İstanbul'da bir otelde böcek ilacından zehirlendi
-- Ailenin dört ferdi hayatını kaybetti
-- Otopsi ve Adli Tıp raporları ölüm nedeninin böcek ilacı olduğunu gösterdi
-- Otel sahibi, çalışanlar ve ilaçlama firmasından altı kişi tutuklandı
-- Bazı şüpheliler serbest bırakıldı
-- Soruşturma çok yönlü olarak sürüyor
-- Gıda ve ilaçlama denetimlerinin yetersiz olduğu belirtildi
-- Güvenilir ilaçlama firması bulmakta zorluk yaşanıyor
-- Tarım İl Müdürlüğü'nün yeterince yardımcı olmadığı ifade edildi
-- Olayın sistemsel bir sorun olduğu vurgulandı
+- Oğuz Atay'ın hayatı ve eserleri anlatılıyor
+- Atay'ın ölümünden sonra popülerleştiği belirtiliyor
+- Tutunamayanlar ve Tehlikeli Oyunlar gibi eserleri vurgulanıyor
+- Necati İşler'in Miras romanı tanıtılıyor
+- Miras romanında dostluk, yolculuk ve erotizm temaları işleniyor
+- Türk edebiyatında erotizmin azaldığı eleştiriliyor
+- Ömer Denizer'in Görüntü Kırıkları kitabı tanıtılıyor
+- Denizer'in gazetecilik ve kameramanlık anıları paylaşılıyor
+- Coşkun Aral'ın İmkansız Coğrafyalar kitabı tanıtılıyor
+- Aral'ın gazetecilik kariyeri ve uçak kaçırma olayı anlatılıyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=3ZWjE0LXOC8&t=720s) (⏱️ 12:00-20:00)
-- [Inan Demirel](https://www.youtube.com/watch?v=h7OfDWwVFK0&t=1890s) (⏱️ 31:30-35:00)
+- [Rusen Cakir](https://www.youtube.com/watch?v=LQblu7ExHz4&t=812s) (⏱️ 13:32-16:40)
+- [Unsal Unlu](https://www.youtube.com/watch?v=NRNef6Z5WzM&t=5255s) (⏱️ 87:35-94:21)
 
 ---
 
-## 9. ABD'de Güvenlik ve Diplomasi Tartışmaları
+## 9. Türkiye'de Ekonomik Kriz ve Diplomasi
 
-- ABD'de Trump'ın danışmanı ile Rus yetkili arasında bir ses kaydı sızdırıldı
-- Kayıtta Trump'ın Ukrayna-Rusya barış planına ikna edilmesi konuşuluyor
-- Kayıt, Rusların planı yazdığını ve Trump'ın etkilenebileceğini gösteriyor
-- Ses kaydının gizli servislerce sızdırıldığı iddia edildi
-- Trump, kayda dair soruları yanıtlamadı
-- ABD'de hukuk sistemi ve Trump'ın yargı süreçleri tartışılıyor
-- Amerika'da güvenlik önlemleri ve Trump'ın politikaları eleştirildi
-- Trump'ın güvenlik algısı oluşturma çabası gündeme geldi
-- Beyazay'da iki özel harekatçı vuruldu ve katil yakalandı
-- ABD'nin yeni Atina büyükelçisi Yunanistan'da tartışma yarattı
-- Büyükelçinin kıyafeti sosyal medyada konuşuldu
-- ABD'nin dış politika tarzı ve diplomatik temsilcilerin imajı mizahi şekilde ele alındı
-- Dopingin serbest olduğu yeni bir spor turnuvası planı etik tartışmalara yol açtı
-- Sosyal medyanın bilgi üzerindeki etkisi ve manipülasyon riski değerlendirildi
+- Asgari ücretin belirlenmesi için komisyon toplanacak
+- Asgari ücretin 25-26 bin TL olması bekleniyor
+- Açlık sınırı 30.000 TL'ye yükseldi
+- Asgari ücret açlık sınırının altında kaldı
+- Türkiye'de 11 milyon kişi asgari ücretle çalışıyor
+- Toplumda borçluluk ve yoksulluk artıyor
+- Et ithalatı ve gıda güvenliği sorunları yaşanıyor
+- Birleşik Arap Emirlikleri Türkiye'de casuslarının olmadığını açıkladı
+- İki ülke arasında yargı işbirliği görüşmeleri yapıldı
+- Ekonomik ilişkiler ve diplomatik krizlerin önlenmesi için adımlar atılıyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Nevsin Mengu](https://www.youtube.com/watch?v=LFL5g8ZA09U&t=2060s) (⏱️ 34:20-42:38)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=WVvoJAb1NY8&t=2036s) (⏱️ 33:56-36:33)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=ujT_cAKWhQE&t=4949s) (⏱️ 82:29-86:22)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=6XWOjwW_vzc&t=677s) (⏱️ 11:17-15:26)
+- [Unsal Unlu](https://www.youtube.com/watch?v=QDYEJYxFeuE&t=450s) (⏱️ 07:30-08:43)
 
 ---
 
-## 10. Bahçeli'nin Açıklamaları ve İttifak Tartışması
+## 10. Böcek Ailesi Sonrası Gıda Denetimi
 
-- Devlet Bahçeli'nin Nobel Barış Ödülü'ne aday gösterilmesi tartışma yarattı
-- Bahçeli'nin Silivri ve İmralı'yı karşılaştıran sözleri tepki topladı
-- Dilek İmamoğlu ve Türkan Elçi açıklamalara karşı çıktı
-- İYİ Parti lideri Dervişoğlu, AKP-MHP-İmralı ittifakını eleştirdi
-- Zafer Partisi lideri Özdağ muhalefete çağrı yaptı
-- Cumhur İttifakı'nda MHP ve BBP arasında gerginlik yaşanıyor
-- Milliyetçi partiler sürece karşı çıkarken sadece MHP destek veriyor
-- Barış süreci ve siyasi kutuplaşma kamuoyunda tartışılıyor
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Unsal Unlu](https://www.youtube.com/watch?v=5-BwhZsGzZA&t=1251s) (⏱️ 20:51-21:17)
-- [Hilal Koylu](https://www.youtube.com/watch?v=IKW_iZHHjWQ&t=1240s) (⏱️ 20:40-24:30)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=WVvoJAb1NY8&t=809s) (⏱️ 13:29-15:37)
-
----
-
-## 11. İki Şüpheli Ölümde Soruşturma Genişliyor
-
-- Son dönemde iki ayrı şüpheli ölüm olayı gündeme geldi
-- Seher Alaçam 2022'de havuzda ölü bulundu, yanında Hüseyin Gün vardı
-- Başlangıçta ölüm kalp krizi olarak değerlendirildi, cinayet bulgusu bulunmadı
-- Oğlu Ümit Alaçam, annesinin dolandırıldığını ve öldürülmüş olabileceğini iddia etti
-- Mali raporlara göre Seher Alaçam'ın hesaplarından Hüseyin Gün'e büyük miktarda para aktarıldı
-- Soruşturma tekrar açıldı, yeni deliller ve iddialar inceleniyor
-- Şarkıcı Güllü evinde camdan düşerek hayatını kaybetti
-- Olay sırasında evde kızı ve arkadaşları vardı, geçmişte tehdit iddiaları gündeme geldi
-- Olayın aydınlatılması için adli tıp ve teknik incelemeler sürüyor
-- Her iki olayda da ölüm nedenleri ve olası suç şüpheleri tartışılıyor
+- Böcek ailesinin ölümü sonrası gıda denetimleri arttı
+- Midyeci ve kokoreççi esnaf tutuklandı ve sonra serbest bırakıldı
+- Esnaf hijyenik olduklarını ve tahlillerin temiz çıktığını söyledi
+- Olay sonrası esnaf tehditler aldı ve işleri azaldı
+- Sosyal medya baskısının yargı kararlarını etkilediği eleştirildi
+- Devlet yerinde kontroller yaptı ve bozulmuş ürünler ele geçirildi
+- Adalet sisteminin yanlış kararları tartışıldı
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Nevsin Mengu](https://www.youtube.com/watch?v=LFL5g8ZA09U&t=1845s) (⏱️ 30:45-34:20)
-- [Onlar TV](https://www.youtube.com/watch?v=IFqYZ91dVtk) (⏱️ 00:00-18:15)
-
----
-
-## 12. Kaan Tangöze'ye Konser Soruşturması
-
-- Kaan Tangöze, Kahramanmaraş Sütçü İmam Üniversitesi'nde konser verdi.
-- Konserde çevre, orman tahribatı ve hükümet uygulamalarını eleştiren şarkı söyledi.
-- Şarkı sözlerinde imar, rant, ekolojik yıkım ve sistem eleştirisi vardı.
-- Performans sonrası Kaan Tangöze hakkında soruşturma başlatıldı.
-- Üniversite rektörlüğü konserin özel organizasyon olduğunu açıkladı.
-- Sanatçılara yönelik soruşturmaların arttığı belirtildi.
-- Sosyal medyada olay geniş yankı buldu ve tartışmalara yol açtı.
-- Sanat ve eleştirinin soruşturma konusu olması kamuoyunda endişe yarattı.
-- Bilim insanlarının ve sanatçıların özgür olması gerektiği vurgulandı.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Bahar Feyzan](https://www.youtube.com/watch?v=3ZWjE0LXOC8&t=180s) (⏱️ 03:00-12:00)
-- [Hilal Koylu](https://www.youtube.com/watch?v=IKW_iZHHjWQ&t=880s) (⏱️ 14:40-17:05)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=WVvoJAb1NY8&t=1077s) (⏱️ 17:57-19:52)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=LFL5g8ZA09U&t=1517s) (⏱️ 25:17-30:18)
+- [Inan Demirel](https://www.youtube.com/watch?v=Dqk5kWbdbUY&t=2580s) (⏱️ 43:00-48:10)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=cTAFhaWWerE&t=1095s) (⏱️ 18:15-22:37)
 
 ---
 
