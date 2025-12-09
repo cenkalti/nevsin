@@ -1,218 +1,199 @@
 # Bugün Ne Oldu?
 
-*8 December 2025 tarihli günlük haber raporu - 10 haber birleştirildi*
+*9 December 2025 tarihli günlük haber raporu - 10 haber birleştirildi*
 
-## 1. Suriye'de TSK Hareketliliği ve Diplomasi
+## 1. Mecliste Bütçe ve Ekonomik Kriz Tartışması
 
-- Türk Silahlı Kuvvetleri'nin Suriye'ye askeri hareketliliği sosyal medyada gündem oldu
-- TSK'nın Suriye'ye üç koldan girdiği ve konvoyların ilerlediği iddia edildi
-- Milli Savunma Bakanlığı bu hareketliliğin rutin görev değişimi olduğunu açıkladı
-- Genelkurmay Başkanı'nın Şam ziyareti sonrası askeri ve diplomatik temaslar arttı
-- SDG ve Suriye hükümeti arasında entegrasyon ve yerel asayiş gücü tartışılıyor
-- Mazlum Abdi, SDG'nin bazı askeri unsurlarının elinde kalacağını söyledi
-- Türkiye, SDG'nin Suriye ordusuna entegre olmasını ve yabancı unsurların çekilmesini istiyor
-- ABD'nin SDG'ye desteği ve bölgede yeni timler kurduğu iddia edildi
-- ABD, SDG'yi Suriye'nin geleceğinde kalıcı aktör olarak tanıdı
-- Türkiye'nin Suriye politikasında ABD ve Batı'nın etkisi tartışılıyor ve şeffaflık eleştiriliyor
+- Mecliste bütçe görüşmeleri başladı ve 14 gün sürecek.
+- Cumhurbaşkanı Erdoğan bütçe görüşmelerine katılmadı, yerine Cevdet Yılmaz katıldı.
+- Hükümet bütçenin istikrar ve refah getireceğini savundu.
+- Muhalefet bütçenin gerçekçi olmadığını ve vergi yükünün vatandaşın sırtında olduğunu söyledi.
+- Bütçenin büyük kısmı dolaylı vergilere dayanıyor ve bu adaletsizlik eleştiriliyor.
+- Asgari ücret ve emekli maaşlarının yetersizliği sosyal kriz uyarılarına yol açtı.
+- Tarımda küçülme ve döviz kuru baskısı gıda fiyatlarını artırıyor.
+- Ekonomistler bütçenin sürdürülemez olduğunu ve ekonomik krize işaret ettiğini belirtti.
+- Mecliste liderler arasında samimi görüntüler ve tokalaşmalar dikkat çekti.
+- Siyasetçilerin gündemi ile halkın ekonomik sorunları arasında kopukluk olduğu vurgulandı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Inan Demirel](https://www.youtube.com/watch?v=53epg6_1Lgg&t=545s) (⏱️ 09:05-19:20)
-- [Unsal Unlu](https://www.youtube.com/watch?v=PstEms8DReY&t=38s) (⏱️ 00:38-18:10)
-- [Serdar Akinan](https://www.youtube.com/watch?v=v97gahO2LY8&t=734s) (⏱️ 12:14-11:59)
-- [Murat Yetkin](https://www.youtube.com/watch?v=s3huqYgGVEw&t=3s) (⏱️ 00:03-16:17)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=OgJ5QkC0HGc&t=989s) (⏱️ 16:29-18:44)
-- [Rusen Cakir](https://www.youtube.com/watch?v=IwZk_lSX8BE&t=28s) (⏱️ 00:28-14:40)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=ftzzIKonsHs&t=499s) (⏱️ 08:19-12:17)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=PsK5QGXcnnQ&t=1440s) (⏱️ 24:00-29:29)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=unZPyxOSUZc&t=193s) (⏱️ 03:13-06:53)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=111RnHGbj34&t=645s) (⏱️ 10:45-14:29)
+- [Onlar TV](https://www.youtube.com/watch?v=atj-LdRyHR4&t=3488s) (⏱️ 58:08-65:37)
+- [Inan Demirel](https://www.youtube.com/watch?v=XBXer49-Y5w&t=1990s) (⏱️ 33:10-38:10)
+- [Hilal Koylu](https://www.youtube.com/watch?v=ZAD6IAZuRSg&t=1160s) (⏱️ 19:20-21:20)
+- [Unsal Unlu](https://www.youtube.com/watch?v=5nIp3MneBv0&t=81s) (⏱️ 01:21-25:35)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=7YbfQwyEoZE&t=131s) (⏱️ 02:11-09:55)
 
 ---
 
-## 2. TÜSİAD ve Sermayeye Toplumsal Sorumluluk Eleştirisi
+## 2. Suriye'de Artan Askeri Hareketlilik
 
-- Bilal Erdoğan ve Fatih Altaylı, TÜSİAD ve büyük sermaye sahiplerini toplumsal sorumluluklarını yerine getirmemekle eleştirdi.
-- Deprem sonrası TÜSİAD'ın yeterince destek vermediği ve büyük sermayenin yatırım yapmadığı belirtildi.
-- Fatih Altaylı, iş dünyasının hukuksuzluklara ve baskılara sessiz kaldığını söyledi.
-- TÜSİAD'ın geçmişte hükümete eleştiriler yaptığı için baskı gördüğü ve yöneticilerinin gözaltına alındığı aktarıldı.
-- Türkiye'de iş dünyası, devletle uyumlu hareket ediyor ve toplumsal meselelerde risk almaktan kaçınıyor.
-- Sanayiciler ve küçük işletmeler ekonomik olarak zor durumda, işten çıkarmalar arttı.
-- Türkiye'de gelir eşitsizliği artıyor ve orta sınıf küçülüyor.
-- Batı ülkelerinde sermaye sahipleri toplumsal meselelerde daha aktifken, Türkiye'de bu durum zayıf.
-- Fatih Altaylı'nın tutukluluğu sırasında iş dünyasının sessiz kalması eleştirildi.
-- Bilal Erdoğan'ın siyasette daha fazla öne çıktığı ve kamuoyunda kimlik inşası yapıldığı gözlemlendi.
+- Suriye'de Türk Silahlı Kuvvetleri'nin askeri hareketliliği arttı
+- TSK'ya ait zırhlı konvoylar Suriye'de görüntülendi
+- Milli Savunma Bakanlığı bu hareketlerin rutin olduğunu açıkladı
+- Operasyon iddiaları ve askeri sevkiyatlar gündemde
+- Türkiye, Suriye'nin kuzeyinde alanını genişletmek istiyor
+- Türkiye, SDG ve YPG'ye baskı uyguluyor
+- SDG federatif sistem talep ediyor ve ABD ile İsrail'den destek alıyor
+- Şam yönetimi de askeri sevkiyat yaptı ve gerginlik arttı
+- Çözüm süreci ve Suriye operasyonunun birlikte yürütülmesi tartışılıyor
+- Ankara-İmralı-SDG hattında müzakereler olduğu iddia edildi ve Öcalan'dan çağrı beklendiği konuşuluyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=ftzzIKonsHs&t=18s) (⏱️ 00:18-06:31)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=PsK5QGXcnnQ&t=15s) (⏱️ 00:15-19:25)
-- [Inan Demirel](https://www.youtube.com/watch?v=hrJK9GtzfOU&t=512s) (⏱️ 08:32-09:57)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=sun0-_tKFdA&t=417s) (⏱️ 06:57-08:35)
-- [Rusen Cakir](https://www.youtube.com/watch?v=bgFZ26tF-Pw&t=5s) (⏱️ 00:05-11:32)
-- [Unsal Unlu](https://www.youtube.com/watch?v=dsZiESutV0I&t=882s) (⏱️ 14:42-15:37)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=OgJ5QkC0HGc&t=3127s) (⏱️ 52:07-60:00)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=111RnHGbj34&t=900s) (⏱️ 15:00-23:09)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=7YbfQwyEoZE&t=731s) (⏱️ 12:11-14:41)
+- [Inan Demirel](https://www.youtube.com/watch?v=XBXer49-Y5w&t=1450s) (⏱️ 24:10-33:10)
+- [Hilal Koylu](https://www.youtube.com/watch?v=ZAD6IAZuRSg&t=1063s) (⏱️ 17:43-19:20)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=unZPyxOSUZc&t=570s) (⏱️ 09:30-32:16)
+- [Unsal Unlu](https://www.youtube.com/watch?v=WqkYA4TudX8&t=1464s) (⏱️ 24:24-25:42)
 
 ---
 
-## 3. İmamoğlu'nun Diploma Davasında Erteleme
+## 3. Futbolda Bahis ve Şike Soruşturması
 
-- Ekrem İmamoğlu'nun diploma davasında üçüncü kez hakim değişti
-- Dava 16 Şubat 2026'ya ertelendi
-- Hakimlerin sıkça değiştirilmesi siyasi baskı iddialarını artırdı
-- İmamoğlu, davaların siyasi olduğunu savundu
-- Dava süreci cumhurbaşkanlığı adaylığını etkiledi
-- Mahkeme salonunda yoğun destek vardı
-- CHP, İmamoğlu ve diğer belediye başkanlarına sahip çıkıyor
-- CHP'nin yargı ve medya baskısı altında olduğu belirtildi
-- Parti içi değişiklikler ve yeni MYK tartışma yarattı
-- CHP, baskılara rağmen tabanını korudu
+- Futbolda yasa dışı bahis ve şike soruşturması sürüyor
+- 39 kişi adliyeye sevk edildi, 20 kişi tutuklandı
+- Tutuklananlar arasında futbolcular, hakemler ve kulüp başkanları var
+- Bazı futbolcular kendi maçlarına bahis oynadıklarını kabul etti
+- Mert Hakan Yandaş'ın hesabında 274 milyon liralık işlem tespit edildi
+- Hakem Zorbay Küçük adli kontrolle serbest bırakıldı
+- Ahmet Çakar gözaltına alındı ve sağlık sorunları nedeniyle serbest bırakıldı
+- Türkiye Futbol Federasyonu Başkanı basın toplantısı yapacak
+- Soruşturma kapsamında büyük miktarda para transferleri ortaya çıktı
+- Yargı operasyonları devam ediyor ve yeni tutuklamalar bekleniyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=dsZiESutV0I&t=3005s) (⏱️ 50:05-50:15)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=ftzzIKonsHs&t=1092s) (⏱️ 18:12-21:28)
-- [Rusen Cakir](https://www.youtube.com/watch?v=IwZk_lSX8BE&t=1812s) (⏱️ 30:12-41:33)
-- [Inan Demirel](https://www.youtube.com/watch?v=53epg6_1Lgg&t=75s) (⏱️ 01:15-09:05)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=OgJ5QkC0HGc&t=1420s) (⏱️ 23:40-48:30)
+- [Unsal Unlu](https://www.youtube.com/watch?v=WqkYA4TudX8&t=490s) (⏱️ 08:10-23:59)
+- [Inan Demirel](https://www.youtube.com/watch?v=XBXer49-Y5w&t=2290s) (⏱️ 38:10-43:00)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=111RnHGbj34&t=318s) (⏱️ 05:18-07:21)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=7YbfQwyEoZE&t=1121s) (⏱️ 18:41-19:35)
 
 ---
 
-## 4. ABD Büyükelçisi Barrack'ın Tartışmalı Açıklamaları
+## 4. Belediyelerde Sosyal Yardım ve Hak Tartışması
 
-- ABD'nin Ankara Büyükelçisi Tom Barrack'ın açıklamaları Türkiye'de tartışma yarattı
-- Barrack, Suriye'de otonomi ve federal sistemden bahsetti
-- Ortadoğu'da ademi merkeziyetçiliğe ve öz yönetime karşı olduğunu söyledi
-- Demokrasinin bölgede işlemediğini, iyicil monarşinin daha iyi olduğunu savundu
-- Açıklamaları Türk medyasında farklı şekillerde yer aldı ve eleştirildi
-- Bazı izleyiciler Barrack'ın istenmeyen kişi ilan edilmesini önerdi
-- Açıklamalar Türkiye'nin egemenliğine müdahale olarak değerlendirildi
-- ABD ve AB arasında NATO ve güvenlik konusunda görüş ayrılıkları yaşanıyor
-- ABD'li yetkililer AB'nin demokratik olmadığını ve güvenlikte ayrışma olduğunu belirtti
+- İzmir Büyükşehir Belediyesi işçileri haklarının kesildiğini söyledi
+- İşçiler sosyal haklarının geri verilmesini istedi
+- Belediye başkanı işçi düşmanlığı ile suçlandı
+- CHP Genel Başkanı'ndan müdahale talep edildi
+- CHP'li belediyeler sosyal yardım projeleri yapıyor
+- İktidar sosyal yardımların kendi kontrolünde olmasını istiyor
+- Cevdet Yılmaz belediyelerin asli işlerine dönmesini istedi
+- Sosyal yardımların oy tercihlerine etkisi tartışıldı
+- AK Parti'nin 500 bin konut projesi gündemde
+- Konut dağıtımında adalet ve liyakat sorgulanıyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Nevsin Mengu](https://www.youtube.com/watch?v=PsK5QGXcnnQ&t=1165s) (⏱️ 19:25-24:00)
-- [Inan Demirel](https://www.youtube.com/watch?v=53epg6_1Lgg&t=1160s) (⏱️ 19:20-21:30)
-- [Rusen Cakir](https://www.youtube.com/watch?v=IwZk_lSX8BE&t=881s) (⏱️ 14:41-21:21)
-- [Unsal Unlu](https://www.youtube.com/watch?v=dsZiESutV0I&t=413s) (⏱️ 06:53-07:17)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=7YbfQwyEoZE&t=1178s) (⏱️ 19:38-21:07)
+- [Inan Demirel](https://www.youtube.com/watch?v=XBXer49-Y5w&t=920s) (⏱️ 15:20-18:20)
+- [Hilal Koylu](https://www.youtube.com/watch?v=ZAD6IAZuRSg&t=1956s) (⏱️ 32:36-33:42)
 
 ---
 
-## 5. İstanbul Erkek Lisesi'nde Taciz ve Şiddet Skandalı
+## 5. ABD'nin Türkiye ve Ortadoğu Yaklaşımı
 
-- İstanbul Erkek Lisesi'nde 9. sınıf erkek öğrenciler kız öğrenciler hakkında cinsiyetçi ve taciz içeren listeler hazırladı
-- Bazı öğrenciler kızların görüntülerini izinsiz çekip WhatsApp gruplarında paylaştı
-- Olay üst sınıflara iletildi ve bazı 9. sınıf öğrencileri şiddete maruz kaldı
-- Kız öğrenciler sosyal medyada yaşadıkları taciz, ölüm ve tecavüz tehdidini açıkladı
-- Okul yönetiminin yeterli önlem almadığı ve bazı öğrencilerin uzaklaştırıldığı belirtildi
-- Valilik ve Milli Eğitim Bakanlığı soruşturma başlattı, müfettiş görevlendirildi
-- Olay sosyal medyada büyük tepki çekti ve okulun imajı tartışıldı
-- Türkiye'de okullarda artan şiddet, zorbalık ve disiplin sorunları gündeme geldi
-- Eğitim sistemindeki bozulmanın bu tür olaylara zemin hazırladığı vurgulandı
+- ABD'nin Ortadoğu politikası ve demokrasiye yaklaşımı eleştiriliyor
+- ABD'li yetkili Tom Barak'ın açıklamaları Türkiye'de tartışma yarattı
+- Barak, Ortadoğu'da demokrasi gerekmediğini ve Türkiye'nin merkez olabileceğini söyledi
+- Barak'ın sözlerine Bahçeli tepki gösterdi, hükümet ise sessiz kaldı
+- ABD'nin Türkiye'yi Ortadoğu ülkesi olarak gördüğü ifade ediliyor
+- AK Parti'nin ABD desteğiyle içeride baskı kurduğu iddia edildi
+- Bilal Erdoğan son dönemde kamuoyunda daha görünür oldu
+- AK Parti kulislerinde Bilal Erdoğan'ın siyasette yükselişi konuşuluyor
+- Bilal Erdoğan'ın sahada daha aktif olacağı ve parti hizmetlerini anlatacağı belirtiliyor
+- Hakan Fidan ile Bilal Erdoğan arasında rekabet iddiaları var
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Nevsin Mengu](https://www.youtube.com/watch?v=PsK5QGXcnnQ&t=2940s) (⏱️ 49:00-57:19)
-- [Unsal Unlu](https://www.youtube.com/watch?v=PstEms8DReY&t=1797s) (⏱️ 29:57-31:43)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=ftzzIKonsHs&t=1438s) (⏱️ 23:58-25:51)
-- [Inan Demirel](https://www.youtube.com/watch?v=53epg6_1Lgg&t=2090s) (⏱️ 34:50-40:20)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=111RnHGbj34&t=1394s) (⏱️ 23:14-29:13)
+- [Inan Demirel](https://www.youtube.com/watch?v=_2v2_-_wu6k&t=2s) (⏱️ 00:02-15:14)
+- [Hilal Koylu](https://www.youtube.com/watch?v=ZAD6IAZuRSg&t=878s) (⏱️ 14:38-17:40)
 
 ---
 
-## 6. Türkiye'de Adalet ve Siyasi Tartışmalar
+## 6. Medya ve Dijital Reklamda Kriz
 
-- Türkiye'de adalet ve yargı sistemi eleştiriliyor
-- Tutukluluk, hasta tutuklular ve cezaların uygulanmasında sorunlar var
-- 11. Yargı Paketi ile cezasızlık endişesi artıyor
-- Kadın cinayetleri ve depremde ölenlerin sorumluluğu tartışılıyor
-- Toplumda hak arayanların sesi kısılıyor ve sessizlik hakim
-- Avrupa Parlamentosu ve uluslararası çevreler Türkiye'deki demokratik gerilemeyi eleştiriyor
-- Selahattin Demirtaş barış, adalet ve eşitlik mesajı verdi
-- İmralı görüşmeleri ve Abdullah Öcalan ile ilgili şeffaflık sorunu yaşanıyor
-- Mesut Barzani'nin Türkiye ziyareti ve Cizre'deki güvenlik önlemleri tartışma yarattı
-- Bürokratik sorumluluk ve siyasi yönetim eksikliği eleştiriliyor
+- Medya ve reklam sektöründe daralma yaşanıyor
+- Şirketler reklam harcamalarını azalttı
+- Reklam gelirleri dijital ortama kaydı
+- Dijital reklamlar da bu yıl düşük seyretti
+- Sosyal medyada sahte yatırım reklamları yapılıyor
+- Gazetecilerin ve ünlülerin görüntüleri izinsiz kullanılıyor
+- Yapay zeka ile sahte videolar üretiliyor
+- Bu yöntemlerle insanlar dolandırılıyor
+- Savcılık şikayetleri çoğunlukla dikkate almıyor
+- Dolandırıcılığa karşı dikkatli olunmalı
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Nevsin Mengu](https://www.youtube.com/watch?v=PsK5QGXcnnQ&t=1769s) (⏱️ 29:29-37:00)
-- [Inan Demirel](https://www.youtube.com/watch?v=53epg6_1Lgg&t=1290s) (⏱️ 21:30-26:00)
-- [Unsal Unlu](https://www.youtube.com/watch?v=RUXlpEFElcg&t=1233s) (⏱️ 20:33-21:18)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=ftzzIKonsHs&t=950s) (⏱️ 15:50-18:11)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=7YbfQwyEoZE&t=64s) (⏱️ 01:04-02:10)
+- [Onlar TV](https://www.youtube.com/watch?v=atj-LdRyHR4&t=367s) (⏱️ 06:07-10:01)
 
 ---
 
-## 7. Türkiye'de Derinleşen Ekonomik Adaletsizlik
+## 7. Adli Emanetlerde Hırsızlık Skandalı
 
-- Türkiye'de servet ve gelir dağılımında büyük adaletsizlik yaşanıyor
-- En zengin kesim ülke servetinin çoğuna sahip
-- Son 10 ayda 2 milyon kişi borç takibine düştü
-- Çocuklar ve gençler yetersiz beslenme ve açlık sorunu yaşıyor
-- Bir nesil sağlıksız büyüyor ve çocuk işçiliği artıyor
-- Yoksulluk ve işsizlik toplumsal bir kriz haline geldi
-- Afşin'de işsiz bir işçi kendini yakarak dikkat çekti
-- Ekonomik sorunların temelinde demokrasi ve şeffaflık eksikliği var
-- Kurumların hesap vermemesi ve enflasyonun gizlenmesi eleştiriliyor
-- Sorunların çözümü için kolektif akıl ve yeni düşünce sistemleri öneriliyor
+- Konya'da adli emanetlerde 6,5 milyon TL zimmete geçirildi
+- Görevli katip Ayşe Selvi tutuklandı
+- Paralar kripto borsa ve sanal bahiste kullanıldı
+- İstanbul ve İzmir'de adli emanetlerden altın ve silah çalındı
+- Adli emanetlerde hırsızlık olayları artıyor
+- Adalet Bakanı ülke genelinde adli emanetler için teftiş başlattı
+- Yönetmeliklerin gözden geçirileceği açıklandı
+- Adli emanetlerde denetimsizlik ve kötü yönetim eleştirildi
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=OgJ5QkC0HGc&t=2910s) (⏱️ 48:30-52:07)
-- [Unsal Unlu](https://www.youtube.com/watch?v=PstEms8DReY&t=1264s) (⏱️ 21:04-23:47)
-- [Serdar Akinan](https://www.youtube.com/watch?v=v97gahO2LY8&t=734s) (⏱️ 12:14-14:33)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=7YbfQwyEoZE&t=925s) (⏱️ 15:25-18:39)
+- [Inan Demirel](https://www.youtube.com/watch?v=XBXer49-Y5w&t=430s) (⏱️ 07:10-12:40)
 
 ---
 
-## 8. Adli Emanet ve Bahis Soruşturmaları
+## 8. Polis Güvenliği ve Yargı Düzenlemeleri
 
-- İstanbul'da adli emanet memuru Erdal Timurtaş 25 kilo altınla İngiltere'ye kaçtı
-- Olay sonrası 10 kişi gözaltına alındı ve aile üyeleri de sorgulanıyor
-- Bahis ve şike operasyonunda birçok ünlü isim gözaltına alındı
-- Ahmet Çakar sağlık sorunları nedeniyle gözaltıdan çıkarıldı
-- Bahis ve şike soruşturmasında 37 kişi adliyeye sevk edildi
-- Türkiye Futbol Federasyonu Başkanı'nın açıklama yapması bekleniyor
+- Polis Emre Albayrak bir narkotik operasyonunda öldürüldü
+- Olayda suç kaydı olan kişiler yer aldı
+- Uyuşturucu çeteleri toplumsal güvenliği tehdit ediyor
+- 11. yargı paketiyle bazı suçlular cezaevinden çıkacak
+- Polislerin çalışma koşulları ve fazla mesai sorunları var
+- Polisler sendika kuramıyor ve haklarını savunamıyor
+- Gazeteciler de çetelerden tehdit alıyor
+- Toplum yeni düzenlemelere hazır olup olmadığını sorguluyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Inan Demirel](https://www.youtube.com/watch?v=53epg6_1Lgg&t=2420s) (⏱️ 40:20-42:40)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=OgJ5QkC0HGc&t=4706s) (⏱️ 78:26-80:25)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=ftzzIKonsHs&t=737s) (⏱️ 12:17-13:02)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=111RnHGbj34&t=442s) (⏱️ 07:22-10:39)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=unZPyxOSUZc&t=40s) (⏱️ 00:40-03:13)
 
 ---
 
-## 9. Çekmeköy'de Narkotik Operasyonu ve Şehit
+## 9. Türkiye'de Beyin Göçü ve Spor Sorunları
 
-- İstanbul Çekmeköy'de narkotik operasyonu yapıldı
-- Operasyon sırasında bir polis hayatını kaybetti
-- Sosyal medya fenomeni bir gizli tanık ihbarda bulundu
-- Gizli tanık telefonunu jandarmaya verdi ve yazışmalar incelendi
-- Bazı ünlü sunucular gözaltına alındı ve adli kontrolle serbest bırakıldı
-- Uyuşturucu temini ve ticaretiyle ilgili geniş bir ağ ortaya çıkarıldı
-- Uyuşturucu baronlarının korunması ve genç polislerin ölümü eleştirildi
-- Türkiye'nin uyuşturucu rotasında önemli bir ülke olduğu vurgulandı
-- Suç şebekelerinin cüretinin arttığı ve polisin zor durumda olduğu belirtildi
+- Türkiye'den Almanya'ya beyin göçü artıyor
+- İyi eğitimli gençler yurt dışına gidiyor
+- Bu durum ülke için tehlikeli görülüyor
+- Türkiye, yetişmiş insanlarını kaybediyor
+- Avrupa'nın çöplerinin büyük kısmı Türkiye'ye geliyor
+- Sporcular aktif hayat sonrası zorluk yaşıyor
+- Türkiye'de sporcular iş hayatına geçişte zorlanıyor
+- Spor ekosisteminde eski sporculara yeterince yer verilmiyor
+- Spor endüstrisinin yapısı ve finansmanı tartışılıyor
+- Altyapı ve sporcu yetiştirme sorunları var
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=OgJ5QkC0HGc&t=4574s) (⏱️ 76:14-78:26)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=ftzzIKonsHs&t=782s) (⏱️ 13:02-13:56)
+- [Onlar TV](https://www.youtube.com/watch?v=atj-LdRyHR4&t=29s) (⏱️ 00:29-05:26)
+- [Rusen Cakir](https://www.youtube.com/watch?v=uN_j5coXmc0) (⏱️ 00:00-29:15)
 
 ---
 
-## 10. Çözüm Süreci Tartışmaları Gündemde
+## 10. Hata
 
-- Eskişehir'de bir polis çözüm sürecine karşı açıklama yaptı
-- Polis sosyal medyada gündem oldu ve açığa alındı
-- Polis açığa alınmayı olumlu karşıladı
-- Siyasiler ve toplumdan destek ve eleştiriler geldi
-- Polislerin siyasi açıklama yapması tartışıldı
-- Çözüm sürecinde sabotajcılar konusu gündeme geldi
-- Süreci sabote edenlerin kim olduğu tartışıldı
-- Devlet içinde farklı görüşler olduğu ima edildi
-- Yargı ve adalet sistemine güven eksikliği vurgulandı
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Inan Demirel](https://www.youtube.com/watch?v=53epg6_1Lgg&t=1560s) (⏱️ 26:00-30:25)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=OgJ5QkC0HGc&t=1124s) (⏱️ 18:44-23:40)
+- Ayrıştırma hatası
 
 ---
 
