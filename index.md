@@ -1,201 +1,211 @@
 # Bugün Ne Oldu?
 
-*10 December 2025 tarihli günlük haber raporu - 10 haber birleştirildi*
+*11 December 2025 tarihli günlük haber raporu - 10 haber birleştirildi*
 
-## 1. Habertürk'te Uyuşturucu Soruşturması ve Gözaltılar
+## 1. Mecliste Stajyer Çocuklara Taciz Skandalı
 
-- Habertürk Genel Yayın Yönetmeni Mehmet Akif Ersoy ve bazı çalışanlar uyuşturucu soruşturması kapsamında gözaltına alındı
-- Soruşturmayı İstanbul Cumhuriyet Başsavcılığı yürütüyor ve toplamda 8 kişi hakkında gözaltı kararı verildi
-- Gözaltı gerekçesi uyuşturucu kullanmak, bulundurmak ve temin etmek olarak açıklandı
-- Habertürk dış haber editörü Elif Kılınç ve gazeteci Emrullah Erdinç de gözaltına alındı
-- Gözaltına alınanlardan kan ve saç örnekleri alındı, bazıları serbest bırakıldı
-- Soruşturmanın odağında bir sosyal medya fenomeninin olduğu ve dijital yazışmaların geniş bir ağa işaret ettiği belirtildi
-- Habertürk'ün TMSF'ye devredilmesi ve kayyum yönetimi sonrası Mehmet Akif Ersoy görevden alındı
-- Operasyonun hızlıca medyaya sızdırılması ve görevden alma kararı tartışma yarattı
-- Masumiyet karinesi ve adil yargılama vurgusu yapıldı
-- Operasyonun medya ve siyaset dünyasındaki güç mücadeleleriyle bağlantılı olabileceği iddia edildi
+- Meclis lokantasında stajyer kız çocuklarına yönelik cinsel istismar iddiaları ortaya çıktı
+- İstismarın yıllardır devam ettiği ve WhatsApp mesajlarıyla ortaya çıktığı belirtildi
+- Bir aşçı ve bazı meclis çalışanları görevden uzaklaştırıldı, disiplin soruşturması başlatıldı
+- Olay kamuoyunda ve mecliste büyük tepkiyle karşılandı
+- Kadın milletvekilleri mecliste protesto düzenledi ve tüm siyasi partiler olaya tepki gösterdi
+- Birden fazla mağdur olduğu ve başka mağdurların da ortaya çıkabileceği iddia edildi
+- Mecliste çocuklara ve kadınlara yönelik bakış açısının değişmesi gerektiği vurgulandı
+- Mecliste yasal düzenleme hazırlıkları ve çocukları koruma önlemleri gündeme geldi
+- MESEN ve MESEM projeleri kapsamında çalışan çocukların güvenliği ve çocuk işçiliği tartışıldı
+- Çocukların hafta sonu ve akşam mesaiye çağrıldığı, iş kazaları yaşandığı belirtildi
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=7EEXwE0hDT0&t=2234s) (⏱️ 37:14-38:37)
-- [Rusen Cakir](https://www.youtube.com/watch?v=EWdO6VYb0QI&t=4s) (⏱️ 00:04-07:54)
-- [Hilal Koylu](https://www.youtube.com/watch?v=_Q5q9ITQozw&t=1011s) (⏱️ 16:51-21:02)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=1Kcs3p4Xqfc&t=180s) (⏱️ 03:00-07:08)
-- [Murat Yetkin](https://www.youtube.com/watch?v=whT7IcLXFEw&t=23s) (⏱️ 00:23-10:13)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=ju94xoRP8sQ&t=605s) (⏱️ 10:05-17:40)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=M5vs4EhUAmU&t=245s) (⏱️ 04:05-35:30)
-- [Serdar Akinan](https://www.youtube.com/watch?v=joMEN2Q6Aow&t=48s) (⏱️ 00:48-20:08)
-- [Inan Demirel](https://www.youtube.com/watch?v=0ZvYdB3dJjg&t=2s) (⏱️ 00:02-14:17)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=t2ncRUC6T1E&t=970s) (⏱️ 16:10-21:00)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=h_xz9Vdt1-8&t=945s) (⏱️ 15:45-18:14)
+- [Serdar Akinan](https://www.youtube.com/watch?v=VLCktJgGYI8&t=433s) (⏱️ 07:13-07:13)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=1mRdSc4TpvU&t=2117s) (⏱️ 35:17-49:55)
+- [Inan Demirel](https://www.youtube.com/watch?v=i3zz7OK2UVY&t=1986s) (⏱️ 33:06-35:23)
+- [Hilal Koylu](https://www.youtube.com/watch?v=54oZAwOKoog&t=560s) (⏱️ 09:20-13:12)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=bAQnFzshwxc&t=780s) (⏱️ 13:00-15:00)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=yo2ZFcZmq-s&t=798s) (⏱️ 13:18-16:37)
+- [Murat Yetkin](https://www.youtube.com/watch?v=SSlAvzP3dIM&t=6s) (⏱️ 00:06-01:32)
+- [Unsal Unlu](https://www.youtube.com/watch?v=RQ9YKG0Mfl0&t=2180s) (⏱️ 36:20-39:00)
 
 ---
 
-## 2. 2026 Bütçesi ve Kamu Kaynakları Tartışması
+## 2. Gazetecilere Yönelik Tutuklama ve Soruşturmalar
 
-- 2026 bütçesi ve ekonomik beklentiler Meclis'te tartışıldı
-- Kamu ihalelerinde şeffaflık ve kaynak dağılımı eleştirildi
-- Büyük projelerde pazarlık usulü ve belirli şirketlere kaynak aktarımı gündeme geldi
-- NATO zirvesi ve havalimanı projelerine milyarlarca lira harcanacağı açıklandı
-- Kamu harcamalarının öncelikleri ve topluma etkisi sorgulandı
-- Vergi düzenlemeleri ve yeni torba yasa vatandaşın yükünü artırdı
-- Enflasyonun resmi verilerle gerçek hayat arasında fark olduğu belirtildi
-- TÜİK'in enflasyon hesaplama yönteminde değişiklik planı tartışıldı
-- İşsizlik, genç işsizliği ve ara eleman sorunu devam ediyor
-- Asgari ücretin belirlenmesi ve işveren desteği gündemdeydi
+- Gazeteciler Mehmet Akif Ersoy ve Enver Aysever tutuklandı.
+- Mehmet Akif Ersoy, Habertürk'ün eski yayın yönetmeni olarak uyuşturucu temini ve kullanımıyla suçlanıyor.
+- Ersoy'a yönelik suçlamalar arasında grup seks partisi iddiaları ve gizli tanık ifadeleri bulunuyor.
+- Ersoy, suçlamaları reddediyor ve siyasi operasyon yapıldığını öne sürüyor.
+- Soruşturma kapsamında medya sektöründen başka isimler de gözaltına alındı.
+- Olay, medya ve siyaset dünyasında büyük tartışma yarattı.
+- Enver Aysever, YouTube'da yaptığı eleştirel açıklamalar nedeniyle gözaltına alındı ve tutuklandı.
+- Aysever'in tutuklanması ifade özgürlüğü ve basın özgürlüğü açısından eleştirildi.
+- Her iki gazetecinin tutuklanması, masumiyet karinesi ve yargı süreçlerinin adaleti konusunda tartışmalara yol açtı.
+- Medya sektöründe güç savaşları, el değiştirmeler ve siyasi etkiler gündeme geldi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=aYn_jtErmio) (⏱️ 00:00-14:59)
-- [Unsal Unlu](https://www.youtube.com/watch?v=7EEXwE0hDT0&t=1560s) (⏱️ 26:00-27:09)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=Su8-e6uTVPQ&t=2s) (⏱️ 00:02-34:53)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=1mRdSc4TpvU&t=17s) (⏱️ 00:17-06:45)
+- [Hilal Koylu](https://www.youtube.com/watch?v=54oZAwOKoog&t=802s) (⏱️ 13:22-20:31)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=yo2ZFcZmq-s&t=36s) (⏱️ 00:36-13:12)
+- [Unsal Unlu](https://www.youtube.com/watch?v=QRsNC_HgMd0&t=130s) (⏱️ 02:10-03:01)
+- [Inan Demirel](https://www.youtube.com/watch?v=i3zz7OK2UVY&t=310s) (⏱️ 05:10-10:31)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=bAQnFzshwxc&t=120s) (⏱️ 02:00-05:00)
+- [Murat Yetkin](https://www.youtube.com/watch?v=SSlAvzP3dIM&t=304s) (⏱️ 05:04-14:18)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=h_xz9Vdt1-8&t=25s) (⏱️ 00:25-06:10)
 
 ---
 
-## 3. CHP'de İstifa ve Meclis Tartışmaları
+## 3. Güllü'nün Ölümünde Cinayet Şüphesi
 
-- CHP Mersin Milletvekili Hasan Ufuk Çakır disipline sevk edildi
-- Çakır, kararı beklemeden CHP'den istifa etti
-- Gürsel Tekin, Çakır'a destek verdi
-- CHP'de parti içi tartışmalar ve tasfiye iddiaları gündeme geldi
-- Büyükçekmece Adliyesi'nde altın ve gümüş hırsızlığı yaşandı
-- Zabıt katibi ve eşi yurt dışına kaçtı, aileden gözaltılar oldu
-- Adalet Bakanı adli emanetlerde teftiş başlattı
-- TBMM'de kamuya işe alımlarda torpil ve akraba kayırmacılığı tartışıldı
-- CHP'li Gökhan Günaydın, AK Partili isimlerin çocuklarının sınavsız atanmasını eleştirdi
-- AKP'li Özlem Zengin, bu atamaları savundu ve sosyal medyada gündem oldu
+- Şarkıcı Güllü'nün ölümüyle ilgili cinayet şüphesi güçlendi
+- TÜBİTAK ses kayıtlarını analiz etti ve Güllü'nün kızı tarafından camdan atıldığı iddiası ortaya çıktı
+- Olay gecesi evde eğlence vardı ve Güllü'nün sevdiği şarkı çalındı
+- Kızı Tuğyan ve arkadaşı Sultan Nur Ulu gözaltına alındı
+- Şüpheliler yurt dışına kaçmaya çalışırken yakalandı
+- Olayda WhatsApp yazışmaları ve kamera kayıtları delil olarak toplandı
+- Bilirkişi raporunda Güllü'nün itilerek düştüğü belirtildi
+- Soruşturma kapsamında telefonlara el kondu ve şifreler inceleniyor
+- Güllü'nün kızı suçlamaları reddetti
+- Soruşturmanın kısa sürede tamamlanması ve iddianamenin hazırlanması bekleniyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=1Kcs3p4Xqfc&t=600s) (⏱️ 10:00-15:51)
-- [Unsal Unlu](https://www.youtube.com/watch?v=_2T6h3EZE90&t=1110s) (⏱️ 18:30-21:53)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=ju94xoRP8sQ&t=10s) (⏱️ 00:10-05:05)
+- [Inan Demirel](https://www.youtube.com/watch?v=i3zz7OK2UVY&t=2125s) (⏱️ 35:25-38:01)
+- [Hilal Koylu](https://www.youtube.com/watch?v=54oZAwOKoog&t=1465s) (⏱️ 24:25-25:47)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=h_xz9Vdt1-8&t=1094s) (⏱️ 18:14-26:25)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=yo2ZFcZmq-s&t=2029s) (⏱️ 33:49-34:34)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=bAQnFzshwxc&t=1020s) (⏱️ 17:00-22:00)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=1mRdSc4TpvU&t=4448s) (⏱️ 74:08-76:36)
+- [Unsal Unlu](https://www.youtube.com/watch?v=RQ9YKG0Mfl0&t=2081s) (⏱️ 34:41-35:28)
 
 ---
 
-## 4. Güllü'nün Ölümünde Cinayet Şüphesi
+## 4. Silivri'de İmamoğlu Davası Hazırlığı
 
-- Güllü adlı kadın Yalova'da yüksekten düşerek hayatını kaybetti
-- Olay başta şüpheli ölüm olarak kayda geçti
-- Güllü'nün kızı ve arkadaşı cinayet şüphesiyle gözaltına alındı
-- Gözaltına alınanlar yurt dışına kaçmaya çalışırken yakalandı
-- Evdeki kamera kayıtlarının devre dışı bırakıldığı iddia edildi
-- WhatsApp yazışmaları ve teknik deliller soruşturmada kullanıldı
-- Bilirkişi raporunda kadının itilerek düştüğü belirtildi
-- Kasten öldürme suçlaması öne çıktı ve soruşturma gizlilikle sürüyor
+- Silivri'de 2295 kişilik yeni bir duruşma salonu inşa ediliyor
+- Bu salonun Ekrem İmamoğlu davası için hazırlandığı belirtiliyor
+- Davada çok sayıda sanık, avukat ve izleyici yer alacak
+- Her duruşmada hakim değişikliği olması eleştiriliyor
+- Yarın bilirkişi duruşması yapılacak
+- Salonun güvenliği için yeraltı tünelleri ve jandarma görevlileri planlanıyor
+- Anayasa Mahkemesi'nde kamu görevlisine hakaret suçunun ceza alt sınırı görüşülüyor
+- Bu karar Ekrem İmamoğlu'nun davalarını etkileyebilir
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=1Kcs3p4Xqfc&t=2400s) (⏱️ 40:00-43:02)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=ju94xoRP8sQ&t=1324s) (⏱️ 22:04-24:14)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=M5vs4EhUAmU&t=2631s) (⏱️ 43:51-69:17)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=bAQnFzshwxc&t=1020s) (⏱️ 17:00-17:00)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=1mRdSc4TpvU&t=4596s) (⏱️ 76:36-77:07)
+- [Unsal Unlu](https://www.youtube.com/watch?v=RQ9YKG0Mfl0&t=448s) (⏱️ 07:28-08:07)
 
 ---
 
-## 5. Modern Çağda Toplumsal ve Ruhsal Kriz
+## 5. Yeşil Olduğunu İddia Eden Kişiden Telefon
 
-- Modern çağda insanlar yorgunluk ve odaklanma sorunu yaşıyor
-- Dijitalleşme sosyal ilişkileri ve ruh sağlığını olumsuz etkiliyor
-- Gençler sosyal aktivitelerden uzaklaşıyor ve yalnızlık artıyor
-- Klasik dinler ve toplumsal sistemler günümüz sorunlarına çözüm sunamıyor
-- Yeni bir yaşam tarzı ve inanç anlayışı arayışı öne çıkıyor
-- Toplumda değerli bireyler dağınık, zararlı olanlar ise organize
-- Türkiye'nin potansiyelini kullanamaması önemli bir sorun olarak görülüyor
-- Birleşik yetkin akıl ve dijital denge önerileri gündeme geliyor
-- Uyku, fiziksel temas ve sosyal kodlara dönüş öneriliyor
+- Saygı Öztürk'ü arayan kişi Mahmut Yıldırım olduğunu iddia etti
+- Yıldırım, 90'larda derin devletle anılan bir isimdi
+- Kendisinin Suriye'de yaşadığını söyledi
+- Abdullah Öcalan'a suikast girişiminden bahsetti
+- Devletin yerini bildiğini iddia etti
+- Kimliğinin doğruluğu kesinleşmedi
+- Oğlunun Ankara'da iş yaptığı ve bağlantıları olduğu belirtildi
+- Telefon görüşmesinin zamanlaması dikkat çekici bulundu
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Serdar Akinan](https://www.youtube.com/watch?v=joMEN2Q6Aow&t=1889s) (⏱️ 31:29-39:48)
-- [Rusen Cakir](https://www.youtube.com/watch?v=J-LLlNLyPnc) (⏱️ 00:00-28:43)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=PDdb2nzKzn4) (⏱️ 00:00-02:44)
+- [Serdar Akinan](https://www.youtube.com/watch?v=VLCktJgGYI8&t=1167s) (⏱️ 19:27-20:31)
+- [Inan Demirel](https://www.youtube.com/watch?v=i3zz7OK2UVY&t=2290s) (⏱️ 38:10-41:46)
+- [Unsal Unlu](https://www.youtube.com/watch?v=mH1yZ4KCO_4&t=1928s) (⏱️ 32:08-32:52)
 
 ---
 
-## 6. MHP ve AKP'de Oy Kaybı Tartışması
+## 6. Kürt Meselesi ve Siyasi Tartışmalar
 
-- MHP'nin oy oranı %4'ün altına düştü iddiası var
-- AKP ve MHP'nin oylarında düşüş görülüyor
-- CHP'nin oy oranı arttı ve arayı açtı
-- Ekonomik sıkıntılar halkı etkiliyor ve oy oranlarını düşürüyor
-- AKP içinde MHP ile ittifakın geleceği tartışılıyor
-- Üç farklı ittifak senaryosu konuşuluyor
-- Anket sonuçlarının güvenilirliği sorgulanıyor
-- Anket şirketlerinin tarafsızlığı eleştiriliyor
+- İstanbul'da Dem Parti'nin düzenlediği konferansta Abdullah Öcalan'ın mesajı tartışma yarattı
+- Öcalan'ın sosyalizm ve Marx eleştirileri Türk solunda farklı tepkilere yol açtı
+- Kimlik politikaları ve sınıf mücadelesi konuları öne çıktı
+- Türk solunun kendini yenilemesi gerektiği vurgulandı
+- Mesut Barzani'nin Türkiye ziyareti siyasi anlamlar taşıdı
+- Barzani'nin ziyareti çözüm süreci ve bölgesel ilişkilerle bağlantılı olarak değerlendirildi
+- AK Parti çözüm sürecini sadece Öcalan'la yürütmek istemiyor
+- Erdoğan çözüm sürecini tamamen sahiplendiğini açıkladı
+- Türkiye'nin Suriye'nin kuzeyinde askeri üs kurma planları konuşuluyor
+- Suriye'deki Kürt gruplarının özerk yapı kurma ihtimali gündemde yer aldı ve ABD'de tartışıldı
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=7EEXwE0hDT0&t=722s) (⏱️ 12:02-22:05)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=ju94xoRP8sQ&t=305s) (⏱️ 05:05-06:33)
+- [Rusen Cakir](https://www.youtube.com/watch?v=NB8_SCEEsIg) (⏱️ 00:00-24:45)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=TNuKKluy4xU) (⏱️ 00:00-10:01)
+- [Serdar Akinan](https://www.youtube.com/watch?v=VLCktJgGYI8) (⏱️ 00:00-07:13)
 
 ---
 
-## 7. Çalışanların Zam ve Hak Mücadelesi
+## 7. Ekonomide Faiz ve Asgari Ücret Gündemi
 
-- Metal işçileri %10 zam teklifine karşı çıkıyor
-- İşverenlerin düşük zam teklifi tepki çekiyor
-- Metal işçileri grev hazırlığı yapıyor
-- Bazı sektörlerde zam oranları daha yüksek
-- Vergi müfettişleri de düşük ücretlerden şikayetçi
-- Vergi müfettişleri özel yasa ve haklar istiyor
+- Merkez Bankası ve Fed faiz indirdi veya indirim bekleniyor
+- Asgari ücret görüşmeleri başladı, tahmini rakamlar 27.500-28.500 TL arası
+- JP Morgan 2026 asgari ücret tahminini 27.630 TL olarak açıkladı
+- CHP lideri asgari ücreti 39.000 TL'ye çıkarma sözü verdi
+- Ekonomik kriz nedeniyle kredi kartı borçları arttı ve takibe düşenler çoğaldı
+- TÜSİAD'da başkanlık krizi yaşanıyor ve yeni başkan aranıyor
+- Yargı süreçleri ve yurt dışı yasakları iş dünyasını etkiliyor
+- Dövizde eski tarihli banknot krizi ve fiziki dolar talebi gündemde
+- Altın ve gümüş yatırımlarının 2026'da da kazandıracağı öngörülüyor
+- Enflasyonu düşürmekte zorluklar yaşanıyor ve kısa vadede iyimserlik beklenmiyor
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=7EEXwE0hDT0&t=1975s) (⏱️ 32:55-36:55)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=ju94xoRP8sQ&t=393s) (⏱️ 06:33-08:56)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=yo2ZFcZmq-s&t=1361s) (⏱️ 22:41-26:00)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=1mRdSc4TpvU&t=3182s) (⏱️ 53:02-74:08)
 
 ---
 
-## 8. Türkiye'nin Suriye ve Filistin Gündemi
+## 8. ABD'den Türkiye'ye F35 Şartı
 
-- AK Parti ve CHP yönetimleri terörsüz Türkiye hedefini görüştü
-- Toplantılarda Suriye'deki gelişmeler ele alındı
-- Ömer Çelik terörsüz bölge hedefinin önemini vurguladı
-- Hakan Fidan Suriye'de huzur ve barış istedi
-- Sırrı Sakık Kürtlere haksızlık yapıldığını söyledi
-- Cumhurbaşkanı Erdoğan Filistin'e özgürlük çağrısı yaptı
-- Erdoğan Türkiye'nin insanlık için güçlü olması gerektiğini belirtti
-- Filistin ve Suriye gündemde öne çıktı
+- ABD, Türkiye'nin F35 programına dönmesi için S400 hava savunma sistemlerinden vazgeçmesini istedi
+- ABD'li yetkililer S400'lerin tamamen ortadan kaldırılması gerektiğini belirtti
+- Bu açıklamalar Türkiye'ye açık bir uyarı olarak değerlendirildi
+- Rusya da konu hakkında açıklama yaptı
+- Türkiye'den henüz resmi bir yanıt gelmedi
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=1Kcs3p4Xqfc&t=1200s) (⏱️ 20:00-23:23)
-- [Unsal Unlu](https://www.youtube.com/watch?v=7EEXwE0hDT0&t=1629s) (⏱️ 27:09-27:42)
+- [Unsal Unlu](https://www.youtube.com/watch?v=RQ9YKG0Mfl0&t=1864s) (⏱️ 31:04-31:17)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=yo2ZFcZmq-s&t=1924s) (⏱️ 32:04-32:36)
 
 ---
 
-## 9. Türkiye'nin F-35 ve S-400 Krizi
+## 9. Trump'ın Erdoğan İle Yakın İlişkisi
 
-- ABD, Türkiye'nin F-35 programına dönmesi için S-400 hava savunma sistemini elinde bulundurmamasını istiyor
-- Türkiye'nin S-400'leri elinde tutması F-35 teslimatını ve programdaki rolünü engelliyor
-- S-400'ler için farklı çözüm önerileri tartışılıyor
-- Türkiye'nin NATO ve Avrupa güvenliğindeki önemi vurgulanıyor
-- Belçika, Avrupa'nın Türkiye olmadan güvenli olamayacağını belirtti
-- Türkiye'nin F-16, Eurofighter ve milli savaş uçağı Kaan projeleri gündemde
-- Trump yönetiminin yeni güvenlik belgesi Amerika'nın küresel rolünde değişiklik öngörüyor
-- ABD'nin dış politikasında milliyetçi ve göçmen karşıtı bir ton öne çıkıyor
-- Rusya ve Çin'in etki alanları zımnen kabul ediliyor
+- Donald Trump, Erdoğan ile yakın ilişkisini anlattı
+- Trump, Erdoğan'dan bazı tutukluları serbest bırakmasını istediğini söyledi
+- Erdoğan'ın bu talepleri yerine getirdiği belirtildi
+- Trump, Türkiye'yi güçlü bir ülke olarak tanımladı
+- Bu açıklamalar Türkiye'de yargı bağımsızlığı tartışmasına yol açtı
+- İktidar yanlısı gazetelerde bu habere yer verilmedi
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=1Kcs3p4Xqfc&t=2940s) (⏱️ 49:00-52:00)
-- [Rusen Cakir](https://www.youtube.com/watch?v=FsGbQcj05gY&t=1698s) (⏱️ 28:18-36:59)
+- [Unsal Unlu](https://www.youtube.com/watch?v=RQ9YKG0Mfl0&t=122s) (⏱️ 02:02-03:07)
+- [Hilal Koylu](https://www.youtube.com/watch?v=54oZAwOKoog&t=1766s) (⏱️ 29:26-31:16)
 
 ---
 
-## 10. İmamoğlu'nun Babasından Komünizm Yorumu
+## 10. Türkiye'de Kara Para Aklama Gündemi
 
-- Ekrem İmamoğlu'nun babası Hasan İmamoğlu Sözcü Gazetesi'ne röportaj verdi
-- Hasan İmamoğlu geçmişte komünizm korkusuyla mücadele ettiğini söyledi
-- Bu korkudan dolayı pişman olduğunu belirtti
-- Komünizmin yanlış tanıtıldığını ifade etti
-- Mal ve mülke el koymanın komünizm değil faşizm olduğunu söyledi
-- Sosyalist ve komünistlere haksızlık yapıldığını vurguladı
-- İnsan hakları ve kul hakkı kavramları da tartışıldı
+- MASAK raporunda Ahmet Çakar ve eşinin hesaplarında yüksek miktarda para trafiği tespit edildi
+- Türkiye'de kara para aklama ve suç gelirlerinin aklanması yaygın bir sorun olarak öne çıkıyor
+- Bazı şirketlerin cirolarında anormal artışlar ve şüpheli işlemler dikkat çekiyor
+- Laleli'de kurulan sistemle ihracat yapılmış gibi gösterilerek milyarlarca lira aklandığı iddia ediliyor
+- Sadece iki operasyonda 159 milyar liralık şüpheli işlem tespit edildiği belirtiliyor
+- Türkiye'nin kara para aklama nedeniyle FATF tarafından gri listeye alındığı vurgulanıyor
+- Mossad'ın Türkiye'den Hamas'a para transferiyle ilgili belge yayınladığı ve bunun uluslararası yankı uyandırdığı aktarılıyor
+- Altın kaçakçılığı ve kara para trafiğinin Sudan, BAE ve Suudi Arabistan üzerinden de gerçekleştiği iddia ediliyor
+- Uluslararası baskılar ve belgeler, Türkiye'nin Suriye'ye askeri operasyon hazırlıklarını etkiledi
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=7EEXwE0hDT0&t=1400s) (⏱️ 23:20-26:00)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=ju94xoRP8sQ&t=1744s) (⏱️ 29:04-31:28)
+- [Unsal Unlu](https://www.youtube.com/watch?v=RQ9YKG0Mfl0&t=993s) (⏱️ 16:33-17:55)
+- [Serdar Akinan](https://www.youtube.com/watch?v=VLCktJgGYI8&t=633s) (⏱️ 10:33-17:22)
 
 ---
 
