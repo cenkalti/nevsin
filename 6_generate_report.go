@@ -268,7 +268,7 @@ BAŞLIK YAZIM KURALLARI:
 			openai.SystemMessage(systemContent),
 			openai.UserMessage(userContent),
 		},
-		Model:       openai.ChatModelGPT4_1,
+		Model:       openai.ChatModelGPT5_2,
 		MaxTokens:   openai.Int(2000),
 		Temperature: openai.Float(0.1),
 		ResponseFormat: openai.ChatCompletionNewParamsResponseFormatUnion{

@@ -197,7 +197,7 @@ func extractStories(subtitle, videoID, channelID string, chapters []YouTubeChapt
 			openai.SystemMessage(systemContent),
 			openai.UserMessage(userContent),
 		},
-		Model:       openai.ChatModelGPT4_1,
+		Model:       openai.ChatModelGPT5Mini,
 		MaxTokens:   openai.Int(4000),
 		Temperature: openai.Float(0.1),
 		ResponseFormat: openai.ChatCompletionNewParamsResponseFormatUnion{
