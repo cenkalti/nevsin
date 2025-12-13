@@ -268,9 +268,8 @@ BAŞLIK YAZIM KURALLARI:
 			openai.SystemMessage(systemContent),
 			openai.UserMessage(userContent),
 		},
-		Model:       openai.ChatModelGPT5_2,
-		MaxTokens:   openai.Int(2000),
-		Temperature: openai.Float(0.1),
+		Model:               openai.ChatModelGPT5_2,
+		MaxCompletionTokens: openai.Int(2000),
 		ResponseFormat: openai.ChatCompletionNewParamsResponseFormatUnion{
 			OfJSONSchema: &openai.ResponseFormatJSONSchemaParam{
 				JSONSchema: openai.ResponseFormatJSONSchemaJSONSchemaParam{
