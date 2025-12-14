@@ -1,67 +1,44 @@
 # Bugün Ne Oldu?
 
-*13 December 2025 tarihli günlük haber raporu - 3 haber birleştirildi*
+*14 December 2025 tarihli günlük haber raporu - 2 haber birleştirildi*
 
-## 1. Medya çevresinde uyuşturucu soruşturması büyüyor
+## 1. Yapay Zekâ Sanat Dünyasını Dönüştürüyor
 
-- İstanbul merkezli bir uyuşturucu ve cinsel istismar iddialı soruşturma medya ve siyaset gündemine taşındı.
-- Operasyonda 8 kişi gözaltına alındı ve 4 kişi hakkında tutuklama kararı verildi.
-- Tutuklananlar arasında Mehmet Akif Ersoy, Mahmut Manaz ve Ufuk Tetik isimleri de anıldı.
-- Savcılık bazı konutlarda uyuşturucu kullanımı, kadınlara uyuşturucu temini ve menfaat karşılığı zorlama iddialarını soruşturuyor.
-- Mehmet Akif Ersoy iddiaları reddetti ve uyuşturucu kullanmadığını söyledi.
-- Soruşturma kapsamında Ersoy’dan kan ve saç örnekleri alındı.
-- Dosyada telefonlar ve dijital materyaller inceleniyor ve HTS ile baz kayıtları değerlendiriliyor.
-- Sercan Yaşar adlı bir fenomenin telefonundaki görüntü ve yazışmaların soruşturmayı ilerlettiği ileri sürüldü.
-- Bazı kadın sunucuların gözaltına alınıp daha sonra serbest bırakıldığı belirtildi.
-- Soruşturmanın Çağlayan adliyesi merkezli yürütüldüğü ve itirazların gündemde olduğu aktarıldı, gizli tanıkların güvenilirliği de tartışıldı; dosyanın adli mi siyasi mi olduğu konuşuluyor, Şamil Tayyar gibi isimler “siyasi operasyon” iddiasını dillendirdi ve TMSF’nin medya alanındaki rolü de tartışmaya eklendi; ayrıca Sky ECC şifreli haberleşme sisteminin 2021’de Avrupa’da kırılmasıyla Türkiye’de 4500 cihazın tespit edildiği ve olası kara para ile suç ağları bağlantılarının yeni hesaplaşmalara yol açabileceği iddia edildi.
+- Yapay zekânın sanat ve medyada oyunculuk, ses ve görüntü üretiminde insan performansını taklit edebildiği konuşuldu.
+- Bu durumun prodüksiyon, senaryo ve haber yazımı gibi alanlarda üretimi hızlandırabileceği belirtildi.
+- Ses ve görüntü taklidi ile manipülasyon ve yalan üretme riski olduğuna dikkat çekildi.
+- Yapay zekâdan sonuç almak için verilen komutun belirleyici olduğu ve buna prompt denildiği anlatıldı.
+- Müzikte dijitalleşme ve streaming dinleme alışkanlıklarını değiştirdi.
+- DAW gibi stüdyo yazılımlarının üretimi kolaylaştırdığı ve yapay zekânın da benzer bir hız etkisi yaratabileceği söylendi.
+- Telif ve verinin kaynağı gibi hak sorunlarının yapay zekâ ile büyüyeceği vurgulandı.
+- Canlı performanstaki insanî enerjinin yapay zekâ ile kolay kopyalanamayacağı ifade edildi.
+- Bir konuk şarkı yazımının zamanla duygusal anlatımdan gözlem ve kurguya kaydığını söyledi.
+- 2025 başından itibaren kayıtlara girildiği ve yayınlanmamış birçok şarkı için yeni yayın planları olduğu aktarıldı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Serdar Akinan](https://www.youtube.com/watch?v=62SM1p2oX7w&t=877s) (⏱️ 14:37-22:32)
-- [Inan Demirel](https://www.youtube.com/watch?v=WWh_SkBkktE&t=65s) (⏱️ 01:05-01:45)
-- [Onlar TV](https://www.youtube.com/watch?v=lm_TilVBqHs) (⏱️ 00:00-04:56)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=lK3cIBNFo2o&t=648s) (⏱️ 10:48-21:16)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=aiWYyyRVW-0&t=804s) (⏱️ 13:24-19:38)
+- [Fatih Altayli](https://www.youtube.com/watch?v=gPOGuV-KD9Y&t=1494s) (⏱️ 24:54-30:36)
 
 ---
 
-## 2. İBB davasında tutukluluklar sürüyor
+## 2. Ersoy iddiaları ve medya tartışması
 
-- İstanbul 40. Ağır Ceza Mahkemesi, İBB ile ilgili geniş kapsamlı davanın tensip zaptını hazırladı.
-- Dosyada 402 sanık bulunuyor ve 105 tutuklunun tutukluluğunun devamına karar verildi.
-- Mahkeme, yargılamanın azami süresini 4600 gün olarak belirledi.
-- Mehmet Akif Ersoy tutuklanmasının ardından avukatı aracılığıyla kamuoyuna açıklama yaptı.
-- Ersoy, kararın gerçeğe aykırı ve hukuki temelden yoksun olduğunu söyledi.
-- Suçlamaların gizli tanık beyanlarına dayandığını ve bu beyanların çelişkili olduğunu savundu.
-- Ersoy, suçlamaları reddetti ve hukuki mücadele yürüteceğini belirtti.
-- Yayındaki değerlendirmede gizli tanık uygulamasının tek başına delil yapılmasının riskli olduğu vurgulandı.
-- Panel, geçmiş davalara benzer hata ve toplumsal zarar ihtimaline dikkat çekti.
-- Duruşmaların canlı yayınlanması önergesi Meclis’te AKP ve MHP oylarıyla reddedildi ve canlı yayın ihtimali zayıfladı.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Inan Demirel](https://www.youtube.com/watch?v=WWh_SkBkktE) (⏱️ 00:00-01:05)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=lK3cIBNFo2o) (⏱️ 00:00-03:58)
-- [Rusen Cakir](https://www.youtube.com/watch?v=RIe75GXmpHY&t=3s) (⏱️ 00:03-08:27)
-
----
-
-## 3. Mecliste stajyer taciz iddiası
-
-- TBMM ana binasında bir lise öğrencisi stajyere taciz iddiası gündeme geldi.
-- İddiaya göre 52 yaşındaki sözleşmeli personel stajyeri sıkıştırdı ve bir çalışan durumu yetkililere bildirdi.
-- Mağdurun yakınları tacizin bir süredir sürdüğünü öne sürdü.
-- Olayın kamuoyuna yansımasının ardından şüpheli gözaltına alındı ve tutuklandı.
-- Soruşturmaya savcılık devam ederken Meclis Genel Sekreterliği ve Başkanlık makamı titiz inceleme yapıldığını açıkladı.
-- Staj yönetmeliği kapsamında meslek lisesi öğrencilerinin Meclis mutfağı gibi birimlere gönderilebildiği belirtildi.
-- Benzer vakaların 2018’den bu yana dönem dönem yaşandığı iddiaları da dile getirildi.
-- CHP’li Mahmut Tanal konuyu soru önergesiyle Meclis gündemine taşıdı ve Meclis araştırması istedi.
-- CHP, geçmişteki uyarıların dikkate alınmadığını savunarak sorumluların ortaya çıkarılmasını talep etti.
-- Ayrı raporlar Türkiye’de çocuklara yönelik cinsel istismar dosyalarının yüksek seyrettiğini ve bazı vakalarda sosyal medyanın istismarda araç olduğunu ortaya koyuyor.
+- Sabah gazetesinde Mehmet Akif Ersoy hakkında ağır suçlamalar içeren görüntü ve iddialar yayımlandı.
+- İddialar arasında uyuşturucu kullanımı ve cinsel içerikli suçlamalar yer aldı.
+- Mehmet Akif Ersoy iddiaları kesin bir dille reddetti ve avukatları üzerinden açıklama yaptı.
+- Haberlerin ardından Dezenformasyonla Mücadele Merkezi çevresinde istifaların yaşandığı belirtildi.
+- Yorumlarda bu dosyanın medya ve siyaset bağlantılı bir iç rekabet veya hesaplaşma olabileceği öne sürüldü.
+- Gazetecilere yönelik gözaltı ve tutuklamaların arttığı, Enver Aysever ve Merdan Yanardağ örnekleriyle tartışıldı.
+- Ersoy’un iktidara yakın görülen bir isim olduğu ve bu nedenle dosyasının farklı değerlendirildiği dile getirildi.
+- İddiaların doğruluğunun adalete güven tartışmaları nedeniyle netleşmesinin zor olabileceği söylendi.
+- Ayrı bir gündem olarak Gençlik ve Spor Bakan Yardımcısı Enes Eminoğlu’nun Bilecik ziyaretindeki protokolde cübbeli bir kişinin görüntüsü tartışma yarattı.
+- Bu görüntü tarikat temsilcilerinin protokollerde görünmesi ve devlet-toplum ilişkisi açısından yorumlandı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=-hgFEvtMaw8) (⏱️ 00:00-01:51)
-- [Serdar Akinan](https://www.youtube.com/watch?v=62SM1p2oX7w&t=437s) (⏱️ 07:17-10:54)
+- [Serdar Akinan](https://www.youtube.com/watch?v=2FQ_NwGzxbg&t=882s) (⏱️ 14:42-17:36)
+- [Rusen Cakir](https://www.youtube.com/watch?v=ISvP7aXqDSc&t=22s) (⏱️ 00:22-11:36)
 
 ---
 
