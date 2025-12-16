@@ -1,166 +1,168 @@
 # Bugün Ne Oldu?
 
-*15 December 2025 tarihli günlük haber raporu - 8 haber birleştirildi*
+*16 December 2025 tarihli günlük haber raporu - 8 haber birleştirildi*
 
-## 1. Medya Operasyonu ve Sızıntı Tartışması
+## 1. Uyuşturucu Soruşturması Medya ve Siyasette
 
-- Habertürk genel yayın yönetmeni Mehmet Akif Ersoy gözaltına alındı, görevden alındı ve tutuklandı.
-- Operasyonda Ela Rümeysa Cebeci hakkında da soruşturma yürütüldüğü ve bazı spikerlerin telefonlarının incelendiği belirtildi.
-- Sabah Gazetesi haberlerinde uyuşturucu ve cinsel içerikli ağır iddialar geniş yer buldu.
-- İddialarda jandarmaya ifade verdiği aktarılan bir kadının anlatımları öne çıkarıldı.
-- Ersoy iddiaları reddetti ve süreci siyasi operasyon olarak niteledi.
-- Ersoy daha sonra siyasi operasyon ifadesinin maksadı aşan bir yorum olduğunu söyleyerek geri adım attı.
-- Ersoy’un babası videolu açıklama yaparak oğlunun masum olduğuna inandığını söyledi.
-- Haberde Furkan T olarak geçen kişinin Furkan Torlak olduğu öne sürüldü ve Torlak istifa ettiğini açıkladı.
-- Torlak doğrudan bir suçlama ile muhatap olmadığını ifade etti.
-- Bazı yorumlarda olayın bürokrasi, siyaset, iş dünyası ve medya içine yayılabileceği söylendi, yeni gözaltı iddiaları dile getirildi ve TMSF uyarısı gibi kulis bilgileri aktarıldı.
+- Mehmet Akif Ersoy merkezli uyuşturucu soruşturmasında Adli Tıp raporları savcılığa gönderildi.
+- Raporda bazı şüphelilerin saç ve kan örneklerinde kokain ve türevleri tespit edildi.
+- Mehmet Akif Ersoy’un ifadesinde madde kullanmadığını söylediği, ancak saç örneğinde pozitif bulgu çıktığı aktarıldı.
+- Ela Rümeysa Cebeci’de kokain yanında esrar ve sentetik madde bulguları olduğu belirtildi.
+- Bazı isimlerde sadece saç testinin pozitif çıktığı ve bunun daha uzun dönemi gösterebildiği anlatıldı.
+- Dosyada uyuşturucu yanında örgüt kurma, şantaj ve tehdit gibi daha ağır suçlamaların da yer aldığı kaydedildi.
+- Soruşturmada “kütüphane” diye anılan bir mekânda arama yapıldığı ve uyuşturucu bulunmadığı bildirildi.
+- Aynı aramada üç ruhsatsız tabanca ele geçirildiği ve silahların güvenlik görevlilerine ait olabileceği söylendi.
+- Bazı şüphelilerin ifade verip serbest bırakıldığı, bazı isimler için ise tutuklama kararları bulunduğu aktarıldı.
+- Soruşturma belgeleri ve fotoğraf paylaşımları üzerinden siyasi amaç ve algı yönetimi tartışmaları yaşandı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Inan Demirel](https://www.youtube.com/watch?v=Y3Oao5-opUg&t=426s) (⏱️ 07:06-10:17)
-- [Rusen Cakir](https://www.youtube.com/watch?v=6cWBcDFRrtk&t=494s) (⏱️ 08:14-11:16)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=OWioXX7GtkQ&t=940s) (⏱️ 15:40-23:00)
-- [Murat Yetkin](https://www.youtube.com/watch?v=nGqX0u11hrE&t=26s) (⏱️ 00:26-05:08)
-- [Unsal Unlu](https://www.youtube.com/watch?v=gAWwCRynJXo&t=843s) (⏱️ 14:03-15:04)
-- [Serdar Akinan](https://www.youtube.com/watch?v=x8Elu7Bch4E&t=123s) (⏱️ 02:03-05:56)
+- [Murat Yetkin](https://www.youtube.com/watch?v=Ik07sNRuMZI) (⏱️ 00:00-02:48)
+- [Onlar TV](https://www.youtube.com/watch?v=gtL4cLf4nnc&t=3241s) (⏱️ 54:01-64:35)
+- [Serdar Akinan](https://www.youtube.com/watch?v=BTwi6uADwac&t=54s) (⏱️ 00:54-22:01)
+- [Rusen Cakir](https://www.youtube.com/watch?v=rZY9t2T-24I&t=44s) (⏱️ 00:44-02:23)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=3EjZ9QNk-dE) (⏱️ 00:00-07:12)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=KKCu1XL-efI&t=120s) (⏱️ 02:00-10:00)
+- [Inan Demirel](https://www.youtube.com/watch?v=QSYgdjBEst8&t=934s) (⏱️ 15:34-30:20)
 
 ---
 
-## 2. Meclis Süreci Raporlarında Af Tartışması
+## 2. Bilal Erdoğan’ın rolü tartışılıyor
 
-- Meclis’te “Terörsüz Türkiye” ve çözüm süreci kapsamında partiler raporlarını Meclis Başkanlığı’na sundu.
-- İmralı’ya yapılan heyet ziyareti sonrası Meclis komisyonunun rapor hazırladığı, ancak ortak metin ihtimalinin belirsiz olduğu değerlendiriliyor.
-- CHP’nin heyette yer almaması şeffaflık ve siyasi meşruiyet tartışmalarını büyüttü.
-- Raporlarda af ve denetimli serbestlik seçenekleri öne çıktı.
-- Denetimli serbestlik mahkeme gözetiminde serbest bırakılma anlamına geliyor.
-- Bazı raporlarda Abdullah Öcalan’ın ve PKK mensuplarının durumuna dair ifadeler olduğu iddia edildi.
-- MHP suçlu ile suçsuz ayrımı isterken, bazı partilerin daha geniş af yaklaşımına açık olduğu aktarıldı.
-- Öcalan’ın süreçte merkezi rolünün kabul edilmesi gerektiği görüşü dillendirilirken, iktidarın bunu açıkça vurgulamaktan kaçındığı belirtiliyor.
-- Bahçeli’nin Öcalan’a yönelik “kurucu önder” ifadesi meşruiyet tartışmasını yeniden alevlendirdi.
-- Sürecin Suriye boyutunun da bulunduğu ve sahadaki gelişmelerin iç siyaseti etkilediği yorumları yapıldı.,
+- Bilal Erdoğan’ın bir toplantıdaki konuşması ve son dönemde artan görünürlüğü Ankara kulislerinde yeni bir siyasi rol tartışmasını büyüttü.
+- Erdoğan konuşmasında babasına “cumhurbaşkanımız” diye atıf yaptı ve “içimizdeki fitneler, kaypaklar, hainlere verdiğimiz primler” sözleriyle parti içi gerilim mesajı verdi.
+- Aynı konuşmada İsrail’in Gazze’deki eylemlerine atıfla Türkiye’nin daha güçlü olması halinde bunun engellenebileceğini savundu.
+- Bazı yorumcular bu çıkışın muhalefetten çok AK Parti içindeki kliklere yönelik bir uyarı olabileceğini ileri sürdü.
+- Kulislerde Bilal Erdoğan’ın orta ve uzun vadede AK Parti genel başkanlığı veya cumhurbaşkanlığı için hazırlanabileceği iddiaları dile getirildi.
+- Bu iddialar, parti teşkilatında genç ve yakın çevreden isimlerin kritik görevlere getirildiği ve bürokrasinin buna göre pozisyon aldığı yorumlarıyla desteklendi.
+- Bilal Erdoğan için kısa vadede adaylık ihtimalinin zayıf olduğu, daha çok “mevcudiyeti koruma” ve siyasi mirasın taşınması rolü üstlenebileceği değerlendirmeleri de yapıldı.
+- Tartışmayı büyüten başlıklardan biri, Bilal Erdoğan’ın Fethullahçı yayıncıların YouTube’da çok izlenmesinden şikayet etmesi ve bunun nedenini sorgulaması oldu.
+- Yorumlarda bu durum, iktidara yakın medyanın güven ve izleyici kaybına bağlandı ve platformların “algoritma” denilen öneri sistemiyle izleyiciyi farklı içeriklere yönlendirdiği hatırlatıldı.
+- AK Parti’deki oy kaybının önemli kısmının kendi seçmeninden geldiği ve parti içi çatışmaların görünür hale geldiği, buna karşın partinin medyada daha kapalı bir yapıya dönüştüğü eleştirileri yapıldı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=6cWBcDFRrtk&t=1179s) (⏱️ 19:39-23:59)
-- [Unsal Unlu](https://www.youtube.com/watch?v=gAWwCRynJXo&t=244s) (⏱️ 04:04-19:29)
-- [Murat Yetkin](https://www.youtube.com/watch?v=nGqX0u11hrE&t=470s) (⏱️ 07:50-09:36)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=OWioXX7GtkQ&t=1635s) (⏱️ 27:15-34:00)
+- [Inan Demirel](https://www.youtube.com/watch?v=4x1RikTpnWU&t=331s) (⏱️ 05:31-13:43)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=fPsY6QgsNto&t=445s) (⏱️ 07:25-12:45)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=KKCu1XL-efI&t=900s) (⏱️ 15:00-20:00)
+- [Serdar Akinan](https://www.youtube.com/watch?v=BTwi6uADwac&t=2154s) (⏱️ 35:54-39:30)
 
 ---
 
-## 3. Yoksullaşma ve asgari ücret gündemi
+## 3. Kara Para ve Dolandırıcılık Alarmı
 
-- Türkiye’de gelir dağılımı adaletsizliği ve yoksullaşma tartışılıyor.
-- En zengin yüzde 20’nin toplam gelirden büyük pay aldığı vurgulanıyor.
-- Emeklilerin geçim sıkıntısı nedeniyle ucuz otellerde yaşaması örnek olarak gösteriliyor.
-- Asgari ücret toplumun ana gündemi olarak öne çıkıyor.
-- Brüt asgari ücretin 26.584 TL, net asgari ücretin 22.104 TL olduğu belirtiliyor.
-- Araştırmalar asgari ücretin açlık ve yoksulluk sınırının altında kaldığını gösteriyor.
-- Asgari ücret artışı için yüzde 20 ile yüzde 40 arasında farklı zam senaryoları konuşuluyor.
-- Sendikalar ve işverenler arasında tekliflerde belirgin görüş ayrılığı olduğu aktarılıyor.
-- TÜRK-İŞ’ten sızdığı iddia edilen 39.000 TL teklifi kamuoyunda tartışma yaratıyor.
-- Bölgesel eşitsizliklerin İstanbul ve Ankara ile Van ve Muş gibi iller arasında farkları büyüttüğü söyleniyor.
+- Yasa dışı bahis ve kara para iddiaları yeniden gündeme geldi.
+- Gençlerin ve çocukların yasa dışı ağlar tarafından hedef alındığı belirtildi.
+- Spor kulüplerine verilen sponsorlukların parayı meşrulaştırma aracı olabileceği öne sürüldü.
+- Reklam firmaları, aracılar, danışmanlar ve siyasi bağlantılar için soruşturma çağrısı yapıldı.
+- Tuzlaspor ile ilgili bazı bağlantıların da incelenebileceği iddia edildi.
+- Gri liste tartışmalarında finansal denetim eksikliği ve kara para riski vurgulandı.
+- Gençlerin kendi adlarına hesap açtırılarak yasa dışı işlemlerde kullanılabildiği anlatıldı.
+- Ülkede 10.102.000 yeni icra dosyası olduğu bilgisi paylaşıldı.
+- Derin yoksulluk ve emeklilerin geçim sıkıntısı sokak röportajlarına yansıdı.
+- Gelir adaletsizliği ve servetin dar bir grupta toplanmasının toplumsal gerilimi artırdığı söylendi; sosyal adalet çağrısı yapıldı.,"Bursa'da altın yatırım vaadiyle 40 kişinin yaklaşık 120 milyon TL dolandırıldığı bildirildi.","Uzmanlar SPK dışı para toplamaya karşı uyardı ve teminat olmadan yatırım yapılmamasını istedi.","Bakırköy'deki bir davada yabancı yatırımcı gibi davranan şüphelilerle 200.000 TL ön ödeme alındığı iddia edildi.","Paranın sahte çıktığı ve şüphelilerin yurt dışına kaçtığı, farklı ülke bağlantıları olabileceği öne sürüldü.","Altın ve gümüş piyasasında küresel belirsizliklerin fiyatları desteklediği, 2025-2026 için daha yüksek ons hedeflerinin konuşulduğu aktarıldı."], 
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=6cWBcDFRrtk&t=286s) (⏱️ 04:46-08:14)
-- [Murat Yetkin](https://www.youtube.com/watch?v=nGqX0u11hrE&t=579s) (⏱️ 09:39-15:07)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=OWioXX7GtkQ&t=2040s) (⏱️ 34:00-38:00)
+- [Serdar Akinan](https://www.youtube.com/watch?v=BTwi6uADwac&t=2371s) (⏱️ 39:31-44:59)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=dNWAbD55Qpc&t=1508s) (⏱️ 25:08-29:27)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=bMVEQgDsmzs&t=1729s) (⏱️ 28:49-29:33)
+- [Onlar TV](https://www.youtube.com/watch?v=7ro7s9WSKck&t=745s) (⏱️ 12:25-18:47)
 
 ---
 
-## 4. İç kriz ve dış politikada zayıflama
+## 4. Bölgede gerilim ve güvenlik alarmı
 
-- Bütçe görüşmeleriyle birlikte Meclisin denetim gücünün zayıfladığı eleştiriliyor.
-- Cumhurbaşkanlığı sisteminde bakanların seçilmiş olmaması, yasama denetimi tartışmasını büyütüyor.
-- Sayıştayın etkisizleştiği ve Meclisin hazine üzerindeki kontrolünün azaldığı ileri sürülüyor.
-- Açlık sınırı ve asgari ücret verileri, gelir adaletsizliğini yeniden gündeme taşıyor.
-- İç politikada demokrasi, hukuk ve refah başlıklarının geri plana itildiği savunuluyor.
-- İç sorunlar görünmez olurken dış politika gündemlerine aşırı odaklanma eleştirisi yapılıyor.
-- Saray içi güç çatışmalarının ve iktidar içi hamlelerin kamuoyuna yansıdığı aktarılıyor.
-- Türkiye’nin ekonomik ve askeri kapasite sorunları nedeniyle bölgesel etkisinin zayıfladığı iddia ediliyor.
-- ABD güvenlik stratejisinde Yunanistanın Doğu Akdenizde daha öne çıktığı değerlendirmesi paylaşılıyor.
-- Yunanistanın İsrail ve Suudi Arabistan ile yakınlaşması ve üçlü işbirliği girişimleri öne çıkıyor, Türkiye’nin rolünün gerilediği vurgulanıyor.
+- PKK içinde yeni bir yapılanma ve koordinasyon iddiaları gündeme geldi.
+- İddiaya göre Besê, Duran Kalkan ve Sabri Ok örgütte yeni bir koordinasyon kurdu.
+- Kandil ve Öcalan çevresinde güç mücadelesi yaşandığı öne sürüldü.
+- Suriye’nin Haseke bölgesinde tünel kazıları ve askeri hazırlık görüntüleri olduğu iddia edildi.
+- Suriye’de YPG/SDG unsurlarının İHA’larla vurulduğu belirtildi.
+- Mazlum Abdi’nin İsrail ile ilişki arayışında olduğu iddiası tartışıldı.
+- Türkiye’nin bölgede daha güvenlik odaklı bir çizgiye yöneldiği vurgulandı.
+- Karadeniz’de gemilere ve deniz unsurlarına yönelik saldırıların arttığı aktarıldı.
+- Türkiye’ye doğru gelen bir silahlı drone Çankırı üzerinde F-16 tarafından düşürüldü.
+- Milli Savunma Bakanlığı açıklamasında NATO vurgusu öne çıktı ve olaylar gerilimi artıran bir mesaj olarak değerlendirildi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=6cWBcDFRrtk&t=24s) (⏱️ 00:24-04:39)
-- [Serdar Akinan](https://www.youtube.com/watch?v=x8Elu7Bch4E&t=359s) (⏱️ 05:59-10:42)
+- [Serdar Akinan](https://www.youtube.com/watch?v=BTwi6uADwac&t=1640s) (⏱️ 27:20-30:46)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=dNWAbD55Qpc&t=2994s) (⏱️ 49:54-50:50)
 
 ---
 
-## 5. Fransa ve ABD’de tartışmalı düzenlemeler
+## 5. İfade ve sanata mahkeme kararları
 
-- Fransa’da bazı aşırı sağcılar genel evlerin yeniden açılmasını talep etti.
-- Fransa’da genel ev işletmek yasak, seks işçiligi ise bazı koşullarda sürüyor.
-- 2016 düzenlemesiyle müşteriler cezalandırılıyor ve amaç talebi azaltmak.
-- Yeni tartışmada kooperatif ve denetimli çalışma gibi modeller gündeme geldi.
-- Kadın hakları ve insan hakları çevreleri bu talepleri eleştirdi.
-- ABD’de Trump döneminde göçe karşı daha sert bir çizgi benimsendi.
-- Trump yönetimi göçü kendi belirlediği kriterlerle yeniden şekillendirmek istiyor.
-- Trump’ın önerdiği golden visa ile 1 milyon dolar bağış karşılığında hızlandırılmış yeşil kart konuşuluyor.
-- EB-5 yatırım programı ile golden visa arasındaki farklar tartışıldı.
-- Para transferleri kara para denetimine takılabilir ve bazı ülkelere sınırlama gelebilir denildi.
+- Mahkemeler, ifade ve sahne performanslarına ilişkin kararlarla gündeme geldi.
+- Eski AK Parti milletvekili Hüseyin Kocabıyık, Cumhurbaşkanına hakaret suçundan 2 yıl 5 ay 5 gün hapis cezası aldı.
+- Mahkeme, hükümle birlikte Kocabıyık hakkında tahliye kararı verdi.
+- Kocabıyık duruşmada suçlamaları reddettiğini söyledi.
+- Erdoğan’ın avukatı ve savcı, Kocabıyık için üst sınırdan ceza talep etti.
+- Gazeteci Fatih Altaylı’ya verilen 4 yıl 2 ay hapis cezasının gerekçeli kararı açıklandı.
+- Mahkeme, Altaylı’nın Cumhurbaşkanına yönelik tehdit içeren açıklamayı iletme kastı olduğunu değerlendirdi.
+- Kararda, videonun yüz binlerce kez izlendiği ve mesajın başkalarına iletildiği vurgulandı.
+- Altaylı’nın avukatları kararı temyize götürdü ve süreç sürüyor.
+- Gerekçeli kararda, kaçma şüphesi halinde tutuklama tedbirinin uygulanabileceği belirtildi ve bu ifade tartışma yarattı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=M5HuT0P80ho&t=488s) (⏱️ 08:08-11:36)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=OWioXX7GtkQ&t=2280s) (⏱️ 38:00-47:00)
+- [Inan Demirel](https://www.youtube.com/watch?v=QSYgdjBEst8&t=109s) (⏱️ 01:49-05:30)
+- [Onlar TV](https://www.youtube.com/watch?v=gtL4cLf4nnc&t=5160s) (⏱️ 86:00-87:45)
 
 ---
 
-## 6. Türkiye’de İki İsmin Ardından
+## 6. Süreç tartışmaları partiler turuna taşındı
 
-- Akademisyen Nermin Abadan Unat’ın vefatı anıldı.
-- Unat, Mülkiye olarak bilinen Siyasal Bilgiler Fakültesi’nin ilk kadın asistanlarındandı.
-- Kadınların akademide yerleşmesi için önemli katkılar yaptı.
-- Kadın ve toplum konularında çalışmalar yürüttü.
-- Akademik özgürlüğü savundu ve çok sayıda akademisyen yetiştirdi.
-- Yayınlar, Abadan Unat’ın anısına ithaf edildi.
-- Ayrıca yazar Vedat Türkali’nin vefatı ve mirası hatırlatıldı.
-- Türkali, 2016’da 97 yaşında hayatını kaybetti.
-- Gerçek adı Abdülkadir Pirasan olarak aktarıldı.
-- Komünist kimliği ve uzun süren cezaevi yıllarıyla anıldı, roman, senaryo ve şiirler yazdı.
+- Hendek olaylarının yıl dönümünde süreç yeniden tartışıldı.
+- 2013-2015 çözüm süreci, Kobani olayları ve 7 Haziran seçimlerinin etkileri hatırlatıldı.
+- Hendek sürecinin nedenleri ve sonuçlarına dair değerlendirmeler yapıldı.
+- DEM Parti’nin talepleri ve 99 sayfalık raporu kamuoyunda eleştirildi.
+- Raporda özerklik, dil ve kimlik gibi ağır talepler olduğu öne sürüldü.
+- İmralı heyeti siyasi partileri ziyaret etmeye başladı.
+- Heyet Gelecek Partisi lideri Ahmet Davutoğlu ile görüştü.
+- Heyetin Cumhurbaşkanı ile görüşmelerinin sarayda yapıldığı ve parti görüşmesi olmadığı belirtildi.
+- Komisyonların rapor hazırladığı, AKP raporunun henüz sunulmadığı aktarıldı.
+- Sürecin yasal düzenleme aşamasına geçirilmesinin planlandığı ifade edildi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=gAWwCRynJXo&t=1172s) (⏱️ 19:32-21:32)
-- [Rusen Cakir](https://www.youtube.com/watch?v=sjad5jC_E7w&t=646s) (⏱️ 10:46-13:01)
+- [Serdar Akinan](https://www.youtube.com/watch?v=BTwi6uADwac&t=1355s) (⏱️ 22:35-25:54)
+- [Inan Demirel](https://www.youtube.com/watch?v=QSYgdjBEst8&t=2160s) (⏱️ 36:00-37:55)
 
 ---
 
-## 7. Gülşah Durbay hayatını kaybetti
+## 7. DSP’den Kılıçdaroğlu’na liderlik iddiası
 
-- Manisa Şehzadeler Belediye Başkanı Gülşah Durbay hayatını kaybetti.
-- Durbay uzun süredir kanser tedavisi görüyordu ve hastalığın yayıldığı sürecin hızlandığı belirtildi.
-- Vefatının ardından siyasi çevrelerden taziye ve duygusal mesajlar geldi.
-- Seçilme döneminde Durbay hakkında ortaya atılan çirkin iddialar yeniden gündeme geldi.
-- Bu tür iftiraların özellikle seküler kadın siyasetçilere yönelik yaygın bir söylem olduğu vurgulandı.
-- Cenaze ve tören programına dair erteleme bilgileri paylaşıldı.
+- DSP Genel Başkanı Önder Aksakal’ın Kemal Kılıçdaroğlu’nu partiye davet ettiği iddia edildi.
+- İddiaya göre Aksakal, Kılıçdaroğlu’na DSP liderliğini üstlenmesini teklif etti.
+- Teklifin olası amacı ve siyasete etkileri yorumlandı.
+- Bir yayında teklifin “milleti kurtaracak” bir adım gibi sunulduğu aktarıldı.
+- Bazı yorumcular iddiaya ilişkin değerlendirme yapmaktan kaçındı.
+- Haberin şimdilik iddia niteliğinde olduğu ve doğrulama gerektirdiği belirtildi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Nevsin Mengu](https://www.youtube.com/watch?v=OWioXX7GtkQ&t=26s) (⏱️ 00:26-05:30)
-- [Murat Yetkin](https://www.youtube.com/watch?v=nGqX0u11hrE&t=310s) (⏱️ 05:10-05:39)
+- [Inan Demirel](https://www.youtube.com/watch?v=QSYgdjBEst8&t=2525s) (⏱️ 42:05-43:47)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=dNWAbD55Qpc&t=3464s) (⏱️ 57:44-58:10)
 
 ---
 
-## 8. Bondi Saldırısı Sonrası Tartışmalar
+## 8. İBB davası ve seçim senaryoları
 
-- Avustralya’nın Sydney kentindeki Bondi bölgesinde bir saldırı yaşandı.
-- Saldırıda en az 12 kişinin hayatını kaybettiği iddia edildi.
-- Bazı kaynaklarda saldırganın IŞİD bağlantılı olabileceği öne sürüldü.
-- Saldırı sırasında Ahmed El Ahmed adlı Müslüman bir kişinin saldırgana müdahale ettiği aktarıldı.
-- Bu müdahalenin birçok kişinin hayatını kurtardığı belirtildi.
-- Olayın ardından saldırının zamanlamasıyla ilgili şüpheler dile getirildi.
-- Bazı yorumlarda olayın başka amaçlarla kurgulanmış olabileceği iddiası gündeme geldi.
-- Hanuka dönemi gibi sembolik tarihlerde hedef seçimi tartışmaları da öne çıktı.
-- Gelişmeler, İslamofobi ve toplumsal algı tartışmalarıyla birlikte değerlendirildi.
+- İstanbul Büyükşehir Belediyesi ile ilgili yaklaşık 407 sanıklı büyük bir dava hazırlandığı belirtildi.
+- Duruşmanın 9 Mart 2026’da Silivri’de geniş salon ihtiyacıyla başlayacağı ifade edildi.
+- UYAP’ın tahmini sürelerine dayanarak davanın yıllarca sürebileceği ve bunun adil yargılanma hakkını zorlayabileceği tartışıldı.
+- Mahkeme, cezaevi ve duruşma salonlarının kapasite planlamasının süreçte kritik bir lojistik mesele olduğu vurgulandı.
+- Bu büyüklükte bir davanın sanıklar ve avukatlar için yoğun pratik yük oluşturacağı dile getirildi.
+- İddianame, gizli tanık ve delil toplama yöntemleri üzerinden yargı sürecine dönük tartışmalar aktarıldı.
+- Seçim takvimi için 2027 sonbaharı veya 2028 ilkbaharı ihtimallerinin öne çıktığı konuşuldu.
+- Ekrem İmamoğlu’na yönelik davaların siyasi tasfiyeye dönük olduğu iddiaları gündeme getirildi.
+- Alternatif aday senaryoları ve adaylara yönelik baskı ihtimalleri değerlendirildi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Nevsin Mengu](https://www.youtube.com/watch?v=OWioXX7GtkQ&t=2940s) (⏱️ 49:00-50:30)
-- [Serdar Akinan](https://www.youtube.com/watch?v=x8Elu7Bch4E&t=12s) (⏱️ 00:12-02:00)
+- [Onlar TV](https://www.youtube.com/watch?v=gtL4cLf4nnc&t=3992s) (⏱️ 66:32-74:27)
+- [Rusen Cakir](https://www.youtube.com/watch?v=rZY9t2T-24I&t=1075s) (⏱️ 17:55-22:12)
 
 ---
 
