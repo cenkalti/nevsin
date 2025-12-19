@@ -1,170 +1,153 @@
 # Bugün Ne Oldu?
 
-*18 December 2025 tarihli günlük haber raporu - 8 haber birleştirildi*
+*19 December 2025 tarihli günlük haber raporu - 7 haber birleştirildi*
 
-## 1. Meclis’te Kürt sorunu tartışması
+## 1. Mehmet Akif Ersoy soruşturması büyüyor
 
-- TBMM’de Kürt sorunu ve güvenlik başlıkları için yürüyen komisyon sürecinde çalışma süresi ve gündem maddeleri tartışma konusu oldu.
-- CHP, komisyon çalışmaları ve dinlemeler sonrası hazırladığı 53 sayfalık raporu Meclis Başkanlığı’na sundu ve raporda “umut hakkı” ya da Abdullah Öcalan’a özgürlük çağrısı olmadığını açıkladı.
-- CHP raporu, Türkiye’de Kürt sorunu olduğunu kabul etti ve çözümün demokratikleşmenin parçası olması gerektiğini savundu.
-- Raporda ana dilde eğitim için isteyenlere imkan tanınması, kayyım uygulamasının kaldırılması, yer adlarının iadesi, koruculuk sisteminin kaldırılması ve seçim barajının yüzde 3’e indirilmesi gibi öneriler yer aldı.
-- CHP’nin 29 maddelik özetinde AİHM ve AYM kararlarının uygulanması, terör tanımının AB standartlarına uyarlanması ve Cumhurbaşkanına hakaret suçunun kaldırılması gibi talepler de öne çıktı.
-- DEM Parti raporunda “umut hakkı” ifadesinin bulunması ve Bahçeli’nin açıklamaları bu kavramı yeniden gündeme taşıdı.
-- “Umut hakkı”, uzun süreli hapis sonrası mahkûma belirli şartlarla dışarı çıkma ihtimali veren bir düzenleme olarak anlatıldı ve kamuoyunda Öcalan’la ilişkilendirildi.
-- MHP’den CHP raporuna eleştiriler gelirken AK Parti’nin raporunu daha sonra sunacağı ve Meclis’te ortak bir çerçeve aranacağı belirtildi.
-- DEM Parti’nin 4 Ocak 2026’da Diyarbakır’da Öcalan için özgürlük talebiyle miting yapacağını açıklaması yeni bir siyasi gerilim başlığı oldu.
-- Bahçeli, mitingin yasal çerçevede yapılmasına itiraz etmediğini söyledi ve Öcalan’ın İmralı’dan çıkış çağrısı yapmadığını vurguladı; MHP içinde ve siyasette tepkiler sürdüldü; süreçte Suriye, SDG ve bölgesel güvenlik belirsizlikleri de tartışmalara eşlik etti; kulislerde İmralı merkezli bir koordinasyon ve PKK’lıların “eve dönüşü” için şartlı salıverme gibi geçici bir hukuki çerçeve ihtimali konuşuldu.
+- İstanbul merkezli bir uyuşturucu soruşturması, sosyal medya fenomenleri, bazı ünlüler ve medya çalışanlarına uzanan gözaltılarla gündeme geldi.
+- Soruşturmanın başlangıcının, fenomen Sercan Yaşar’ın telefonundan çıkan veriler ve jandarmanın yaklaşık iki ay süren teknik takibi olduğu aktarıldı.
+- Sercan Yaşar 27 Kasım’da gözaltına alındı ve evinde yaklaşık 5 gram esrar ile hassas terazi bulunduğu belirtildi.
+- Yaşar, uyuşturucu kullandığını kabul etti ve satma ya da temin etme iddialarını reddetti.
+- Dosyada etkin pişmanlık seçeneğinin gündeme geldiği ve dijital şifrelerin verilmesiyle inceleme sürecinin sürdüğü anlatıldı.
+- Operasyon kapsamında Aleyna Tilki, İrem Sak, Danla Bilic ve Mümine Sena Yıldız gibi isimlerin ifadeye çağrıldığı veya gözaltına alındığı ve Adli Tıp’ta kan ile saç testi verdikleri bildirildi.
+- Bazı isimlerin aramalarda suç unsuruna rastlanmadığı yönünde avukat beyanları paylaşıldı ve bir kısmının adli işlemler sonrası serbest bırakıldığı aktarıldı.
+- Şeyma Subaşı, Şevval Şahin, Mert Vidinli, Kasım Garipoğlu ve bazı iş insanları hakkında yakalama kararı çıkarıldığı ve bazılarının yurt dışında olabileceği iddia edildi.
+- Soruşturmanın Habertürk çevresi ve Mehmet Akif Ersoy adı etrafında da tartışıldığı ve bazı medya isimlerinin ifadeye çağrıldığı bilgisi paylaşıldı.
+- Şamil Tayyar ve bazı gazeteciler, dosyada devlet, siyaset, ticaret, medya ve yargı hatlarında çürüme ve çıkar ilişkileri olabileceğini ileri sürdü ve masumiyet karinesi vurgusu yaptı, Süleyman Soylu ise kendisiyle ilgili iddiaları reddettiği aktarıldı; bazı yorumlarda gizli tanık ifadelerinde para akışı ve yargı bağlantıları iddialarının yer aldığı söylendi ve Serkan Topel adı öne çıktı denildi; iddiaların doğrulanması gerektiği hatırlatıldı; gizli tanığın kimliği açıklanmayan kişi olduğu belirtildi; etkin pişmanlığın itiraf karşılığı ceza indirimi imkânı olduğu açıklandı; şafak baskınları ve test uygulamalarının hukuki etkileri eleştirildi; operasyonun medya ve siyaset dengeleri için kullanılabileceği iddiası da tartışıldı; soruşturmanın yasa dışı bahis ve kara para bağlantılarına uzanabileceği de öne sürüldü; ünlülerin çevresindeki organizatör ve aracı ağların tedarik zinciri açısından incelenmesi gerektiği söylendi; medyada ifşa ve skandal odaklı yayınların kişilere zarar verdiği vurgulandı; bazı yorumcular ülkedeki yoksulluk ve ekonomik gündemin geri planda kaldığını savundu; daha geniş çerçevede medya sahipliği ve akreditasyon düzeni nedeniyle haberciliğin zayıfladığı ve bazı haberlerin erişime kapatıldığı eleştirileri dile getirildi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=5bwsgC6wWOg&t=908s) (⏱️ 15:08-17:15)
-- [Inan Demirel](https://www.youtube.com/watch?v=Itci2XGOOS0&t=535s) (⏱️ 08:55-11:20)
-- [Murat Yetkin](https://www.youtube.com/watch?v=ag-hySL4VYk&t=384s) (⏱️ 06:24-10:45)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=QkCzY0ID4HA&t=2014s) (⏱️ 33:34-37:44)
-- [Serdar Akinan](https://www.youtube.com/watch?v=7kR0N2nscLw&t=431s) (⏱️ 07:11-16:58)
+- [Inan Demirel](https://www.youtube.com/watch?v=-ZSQoXYL4vE&t=656s) (⏱️ 10:56-23:43)
+- [Unsal Unlu](https://www.youtube.com/watch?v=ObGnQsfDttw&t=436s) (⏱️ 07:16-12:41)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=kAkq_yTjD5s&t=452s) (⏱️ 07:32-20:10)
+- [Onlar TV](https://www.youtube.com/watch?v=MD3FQMMF_kI&t=5s) (⏱️ 00:05-04:30)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=klcxyoRXitY&t=31s) (⏱️ 00:31-29:18)
+- [Hilal Koylu](https://www.youtube.com/watch?v=bnr8HCJc5nQ&t=58s) (⏱️ 00:58-25:30)
+- [Serdar Akinan](https://www.youtube.com/watch?v=hVEbvhMPYb0&t=654s) (⏱️ 10:54-13:24)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=JH2lN2cWNw8&t=1004s) (⏱️ 16:44-21:21)
+- [Murat Yetkin](https://www.youtube.com/watch?v=jWnSVoy8u7U&t=636s) (⏱️ 10:36-18:13)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=rmC6F2wyfj0&t=1816s) (⏱️ 30:16-31:03)
 
 ---
 
-## 2. Uyuşturucu Soruşturması Ünlülere Uzandı
+## 2. Meclis’te Terörsüz Türkiye Raporları
 
-- İstanbul merkezli uyuşturucu soruşturması dalga dalga büyüdü ve bazı sosyal medya fenomenleri ile ünlü isimler hakkında adli işlemler yapıldı.
-- Soruşturmada Ela Rümeysa Cebeci İstanbul Adliyesi’nde ifade verdi ve Adli Tıp raporunda kokain ve esrar bulgusu olduğu bilgisi paylaşıldı.
-- Savcılık Cebeci hakkında uyuşturucu temin etme ve kullanımını kolaylaştırma şüphesiyle işlem yaptı ve tutuklama kararı açıklandı.
-- Cebeci’nin basına yansıyan ilk beyanında uyuşturucu kullanmadığını söylediği aktarıldı ve süreçte ek delillerin dikkate alındığı belirtildi.
-- Mehmet Akif Ersoy’un da aynı uyuşturucu soruşturması kapsamında tutuklandığı ve test sonuçlarının pozitif olduğunun konuşulduğu ifade edildi.
-- Soruşturmanın başlangıcında Sercan Yaşar’ın ifadesi, teknik takip ve dijital incelemelerin etkili olduğu ve Yaşar’ın etkin pişmanlık kapsamında bilgi verip tahliye olduğu anlatıldı.
-- İkinci ve sonraki operasyonlarda Aleyna Tilki, Danla Bilic, İrem Sak ve Mümine Sena Yıldız dahil bazı isimlerin gözaltına alındığı ve bazı kişiler için yakalama kararı çıkarıldığı bildirildi.
-- Soruşturmada saç ve kan testleri gibi adli tıp incelemeleri ile telefon ve tablet incelemeleri üzerinden delil toplandığı aktarıldı.
-- Dosyada örgütlü yapı şüphesi ve operasyonun yeni gözaltılarla genişleyebileceği değerlendirmeleri yer aldı.
-- Bazı iddialarda dosyanın yasa dışı bahis gibi başka alanlara uzanabileceği ve sonuçlarının siyaset ile bürokraside yankı yaratabileceği öne sürüldü ve bazı bağlantılar medyaya yansıdı.
+- Meclis’te “Terörsüz Türkiye” süreci için parti raporları toplanmaya başladı.
+- AKP, PKK’nın silah bırakması, yapısal tasfiyesi ve yurt içi ile yurt dışı unsurlarının takibini içeren raporunu Meclis Başkanlığı’na sundu.
+- AKP raporunda, silah bırakan PKK mensuplarının hukuki statüsü için geçici bir yasal düzenleme önerildi.
+- MHP’nin AKP raporunu desteklediği ve anayasa tartışmasına girilmediği aktarıldı.
+- CHP, demokratikleşme ve hukuk vurgusu yapan 55 sayfalık bir rapor yayımladı.
+- CHP’nin paketi, yargı reformu, AİHM kararlarının uygulanması ve bazı isimlerin serbest bırakılması gibi talepler içerdi.
+- Bazı yorumcular, sürecin sahibi olduğu öne sürülen siyasi aktörlerin net sorumluluk üstlenmediğini ve raporların eksik kaldığını savundu.
+- Komisyonlarda raporların ilerleyen haftalarda değerlendirilmesi ve ortak bir metin hazırlanması bekleniyor.
+- 4 Ocak’ta Diyarbakır’da planlanan Abdullah Öcalan’a özgürlük mitingi tartışma yarattı.
+- Devletin yetkisi ile partilerin sorumluluğu arasındaki gerilim ve af ile Öcalan başlıkları üzerinden sert siyasi polemikler sürüyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilal Koylu](https://www.youtube.com/watch?v=Ux2b9fSYBJ0&t=73s) (⏱️ 01:13-17:46)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=QkCzY0ID4HA&t=473s) (⏱️ 07:53-30:22)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=5bwsgC6wWOg&t=32s) (⏱️ 00:32-06:55)
-- [Inan Demirel](https://www.youtube.com/watch?v=zl4yaDepVdI) (⏱️ 00:00-02:30)
+- [Inan Demirel](https://www.youtube.com/watch?v=-ZSQoXYL4vE&t=2820s) (⏱️ 47:00-56:00)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=kAkq_yTjD5s&t=1544s) (⏱️ 25:44-36:55)
+- [Unsal Unlu](https://www.youtube.com/watch?v=ObGnQsfDttw&t=267s) (⏱️ 04:27-05:22)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=klcxyoRXitY&t=2685s) (⏱️ 44:45-48:16)
+- [Hilal Koylu](https://www.youtube.com/watch?v=bnr8HCJc5nQ&t=1689s) (⏱️ 28:09-33:24)
 
 ---
 
-## 3. İktidar Kulislerinde Operasyon ve Tasfiye İddiaları
+## 3. Özgür Özel’in Brüksel temasları tartışması
 
-- İktidar kulislerinde operasyonların sadece adli değil siyasi sonuçları da olabileceği konuşuluyor.
-- Mehmet Akif Ersoy dosyasında Sercan Yaşar’ın etkin pişmanlıktan yararlandığı ve bazı kayıtların medyaya yansıdığı iddia edildi.
-- Yorumlarda bu sürecin AK Parti içinde tasfiye ve güç mücadelesiyle bağlantılı olabileceği öne sürüldü.
-- Ahmet Şık’ın yazısı üzerinden saray içi çekişme iddiaları ve Bilal Erdoğan, Hakan Fidan, Fahrettin Altun gibi isimler etrafındaki tartışmalar gündeme geldi.
-- İletişim Başkanlığı ve çevresindeki troll ağı iddiaları da aynı çerçevede değerlendirildi.
-- İletişim Başkanlığında görevli Furkan Torlak’ın istifa ettiği, kendisine doğrudan bir suçlama yöneltilmediği ve iddiaları reddettiği aktarıldı.
-- TGRT Haber’in Torlak’la ilgili bir içeriği sildiği ve bunun görünürlüğü azaltmak için yapılmış olabileceği iddia edildi.
-- Kabine değişikliği söylentilerinde İçişleri Bakanı Ali Yerlikaya’nın görevden alınabileceği ve MHP’nin rahatsız olduğu kulislerde dile getirildi.
-- Yerlikaya ile Bülent Turan arasında gerilim iddiaları ve bazı paylaşımların bu soğukluğu gösterdiği öne sürüldü.
-- Kulislerde operasyonun kabineye sıçrayabileceği ve bazı üst düzey isimlerin soruşturma kapsamında olabileceği iddia edildi, Sedat Peker’in dönüş sinyalleri ve erişim engelleri de tartışıldı.,"Temiz eller" söylemiyle sunulan hamlelerin aynı zamanda siyasi hesaplaşma olabileceği görüşü de dile getirildi, iki ihtimalin birlikte yürüyebileceği belirtildi.,"Mehmet Şimşek’in görevden alınacağı" iddiaları konuşuldu, bunun ekonomi üzerinde olumsuz etki yaratacağı yorumu yapıldı ve ihtimal düşük görüldü.,"Cumhurbaşkanı yardımcılığında değişiklik" iddiası gündeme geldi ve Cevdet Yılmaz yerine Murat Kurum ismi kulislerde anıldı.,"Murat Kurum’un deprem ve sosyal konut projeleri" nedeniyle bu role uygun görüldüğü ve ittifak dengeleri açısından tercih edilebileceği söylendi.,"İBB iddianamesi ek klasörlerinde" gizli tanık "Ceviz"in ifadesi ortaya çıktığı ve Ilbak Holding’le ilgili Abdullah Gül ve kardeşini işaret eden bir iddia yer aldığı aktarıldı.,"Murat Ilbak’ın itirafçı olduğu ve serbest bırakıldığı" bilgisi paylaşıldı ve bu ifadelerin ana iddianamede değil ek klasörlerde bulunması tartışma yarattı.,"Yorumlarda" operasyonların finans, medya, bürokrasi ve iş dünyasında dengeleme aracı olabileceği ve sadakat arayışının öne çıktığı değerlendirmeleri yapıldı.,"Bazı yorumcular" sürecin ekonomik sıkıntılar ve toplumsal yoksunluk gündemiyle birlikte okunması gerektiğini savundu.
+- CHP’li Özgür Özel’in Brüksel’deki temasları ve Avrupa Sosyalist Parti liderler zirvesindeki konuşması Türkiye’de tartışma yarattı.
+- Özel konuşmasında demokrasi ve otoriterlik riskine dikkat çekti ve Avrupa ile ilişkilerde bu eksenin belirleyici olduğunu vurguladı.
+- Özel’in Avrupa Konseyi Başkanı ile görüşemediğini ve kendisine kısa süre ayrılmadığını söylemesi de iç politikada eleştirildi.
+- AK Parti Sözcüsü Ömer Çelik açıklamalara sert tepki gösterdi ve CHP’den Zeynel Emre yanıt verdi.
+- Bazı yorumcular Özel’in uluslararası platformlarda meseleleri anlatma çabasını olumlu ve şeffaf buldu.
+- Özel’in Avrupa kurumlarına Türkiye hakkında yaptığı başvuru da gündeme geldi ve bunun bir şikayet mi yoksa resmi bir girişim mi olduğu tartışıldı.
+- Tartışma muhalefetin yurtdışı temas kurma yöntemleri ve bunun Türkiye’de nasıl algılandığı sorusuna odaklandı.
+- Gündem, Avrupa’nın güvenlik tercihleri ve Ukrayna savaşı sonrası oluşan yeni dengelerle birlikte değerlendirildi.
+- Programlarda Suriye, SDG ile ilişkiler, Hakan Fidan’ın diplomasisi, ABD ve İsrail’le denge arayışı gibi başlıklar da dış politika çerçevesinde ele alındı.
+- Rusya ile S-400 süreci ve Kremlin’den gelen açıklamalar hatırlatılarak Türkiye’nin jeopolitik konumu ve savunma sanayiinin etkisi tartışıldı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Serdar Akinan](https://www.youtube.com/watch?v=7kR0N2nscLw&t=1742s) (⏱️ 29:02-43:45)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=QkCzY0ID4HA&t=113s) (⏱️ 01:53-07:53)
-- [Hilal Koylu](https://www.youtube.com/watch?v=Ux2b9fSYBJ0&t=1087s) (⏱️ 18:07-21:48)
-- [Inan Demirel](https://www.youtube.com/watch?v=zl4yaDepVdI&t=510s) (⏱️ 08:30-12:30)
+- [Unsal Unlu](https://www.youtube.com/watch?v=ObGnQsfDttw&t=1090s) (⏱️ 18:10-19:16)
+- [Inan Demirel](https://www.youtube.com/watch?v=-ZSQoXYL4vE&t=3360s) (⏱️ 56:00-61:45)
+- [Hilal Koylu](https://www.youtube.com/watch?v=bnr8HCJc5nQ&t=1531s) (⏱️ 25:31-27:57)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=kAkq_yTjD5s&t=1212s) (⏱️ 20:12-24:51)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=klcxyoRXitY&t=1759s) (⏱️ 29:19-40:16)
 
 ---
 
-## 4. S-400 ve SDG gündemi büyüyor
+## 4. Levent Gültekin gözaltına alındı
 
-- Bloomberg, Erdoğan’ın Putin’e S-400’leri iade etmeyi teklif etmiş olabileceğini yazdı.
-- Kremlin, görüşmede S-400 iadesinin gündeme gelmediğini açıkladı.
-- Ankara, iddialara dair resmi bir doğrulama yapmadı.
-- S-400 tartışması, Türkiye’nin F-35 programına dönme isteği ve ABD yaptırımlarıyla ilişkilendirildi.
-- S-400’lerin yaklaşık 2,5 milyar dolarlık maliyeti ve iade halinde telafi seçenekleri de konuşuldu.
-- Milli Savunma Bakanlığı, Türkiye’ye giren tescilli bir İHA’nın F-16’larla güvenli alana yönlendirilip düşürüldüğünü duyurdu.
-- İHA olayı, hava savunma kapasitesi ve önlemlerin güçlendirilmesi tartışmasını artırdı.
-- Suriye’de Şam yönetiminin SDG’ye 13 maddelik bir entegrasyon teklifi ilettiği iddia edildi.
-- Teklifte SDG’nin Suriye ordusu içinde üç tümenli bir yapıyla yeniden örgütlenmesi öne çıktı.
-- İddialar, sınır koruma ve bazı komuta alanlarında SDG’ye geniş rol verilebileceğini söylüyor, ancak metin doğrulanmadı, petrol ve sınır kapıları gibi başlıklar belirsiz kaldı, Türkiye’de ise SDG’nin meşruiyeti ve güvenlik riskleri tartışıldı.
+- Gazeteci Levent Gültekin gece yarısından sonra gözaltına alındı.
+- Gerekçe olarak halkı yanıltıcı bilgiyi alenen yayma suçlaması gösterildi.
+- Avukatı hangi yayın nedeniyle işlem yapıldığının net açıklanmadığını söyledi.
+- Bir yayında geçen AK Parti ve dindarlık eleştirisinin soruşturmaya konu edildiği belirtildi.
+- İfadesi alındı ve savcı tutuklama talep etmedi.
+- Gültekin serbest bırakıldı ve yurt dışı yasağı ile imza yükümlülüğü getirildi.
+- Olay basın özgürlüğü ve eleştiri hakkının daralması tartışmalarını artırdı.
+- Aynı dönemde sosyal medya hesap kapatmaları da baskı endişelerini güçlendirdi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Inan Demirel](https://www.youtube.com/watch?v=zl4yaDepVdI&t=750s) (⏱️ 12:30-16:20)
-- [Serdar Akinan](https://www.youtube.com/watch?v=7kR0N2nscLw&t=13s) (⏱️ 00:13-07:10)
-- [Murat Yetkin](https://www.youtube.com/watch?v=ag-hySL4VYk&t=707s) (⏱️ 11:47-19:28)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=5bwsgC6wWOg&t=1064s) (⏱️ 17:44-25:54)
+- [Inan Demirel](https://www.youtube.com/watch?v=-ZSQoXYL4vE&t=160s) (⏱️ 02:40-08:24)
+- [Unsal Unlu](https://www.youtube.com/watch?v=ObGnQsfDttw&t=143s) (⏱️ 02:23-06:43)
+- [Serdar Akinan](https://www.youtube.com/watch?v=hVEbvhMPYb0&t=44s) (⏱️ 00:44-05:04)
 
 ---
 
-## 5. Ücret pazarlığı ve barınma krizi
+## 5. Bütçe Açığında Garantili Projeler Tartışması
 
-- Asgari ücret için ikinci toplantı yapıldı ve komisyon süreci tartışma yarattı.
-- Türk-İş toplantıya katılmadı ve masada sendika gibi muamele görmediklerini söyledi.
-- Çalışma Bakanı işçi temsilcilerini ziyaret etti ve Ergün Atalay ile gerginlik yaşandığı aktarıldı.
-- Türk-İş olmadan komisyonun hükümetin istediği sonuca gideceği yorumu yapıldı.
-- Mecliste asgari ücret artışı ve enflasyon verileri üzerinden sert eleştiriler gündeme geldi.
-- Bazı siyasetçiler TÜİK verilerine güvenmediklerini ve gerçek enflasyonun daha yüksek olduğunu savundu.
-- JP Morgan’ın asgari ücrete yüzde 20-25 civarında zam öngörüsü kamuoyuna yansıdı.
-- TÜİK’in asgari yaşam maliyeti hesabı yapmaması eleştirildi.
-- Bürokratlar için konuşulan 30 bin TL seyyanen zam teklifi adaletsiz bulundu ve geri çekildiği belirtildi.
-- Ankara’da evsiz ve emeklilerin otogara sığındığı görüntüler barınma krizini yeniden gündeme taşıdı ve kira enflasyonunun çok yüksek olduğu ifade edildi.
+- 2025 bütçesinde büyük bir açık olduğu ve 2026’da açığın büyümesinin beklendiği belirtildi.
+- Hükümetin buna rağmen ekonominin kontrol altında olduğunu söylemesi eleştirildi.
+- Bütçe yükünün önemli bir kısmının yap-işlet-devret projelerindeki döviz garantilerinden kaynaklandığı aktarıldı.
+- Ek sözleşmelerle proje sürelerinin ve garanti edilen araç sayılarının artırıldığı ifade edildi.
+- Kuzey Marmara Otoyolu örneğinde şirketlere ek avantajlar sağlandığı ve bunun kamu maliyetini artırdığı söylendi.
+- Şehir hastanelerinde kamu-özel ortaklığı modelinin devlete kira yükü getirdiği belirtildi.
+- Hasta ve röntgen garantisi gibi taahhütlerin kamuya ek maliyet yarattığı vurgulandı.
+- Kamu ihalelerinde 21B davet usulünün rekabeti azalttığı ve maliyeti yükselttiği savunuldu.
+- Bingöl’de bazı ihalelerin iptal edilip açık ihaleyle yapılınca tasarruf sağlandığı örneği verildi.
+- Genel olarak şeffaflık ve rekabetin artmasının bütçe üzerindeki yükü azaltacağı görüşü dile getirildi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Inan Demirel](https://www.youtube.com/watch?v=Itci2XGOOS0&t=192s) (⏱️ 03:12-08:55)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=QkCzY0ID4HA&t=2470s) (⏱️ 41:10-44:58)
-- [Hilal Koylu](https://www.youtube.com/watch?v=Ux2b9fSYBJ0&t=2015s) (⏱️ 33:35-36:51)
+- [Unsal Unlu](https://www.youtube.com/watch?v=qvtcLrp1Pak&t=1043s) (⏱️ 17:23-17:59)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=rmC6F2wyfj0&t=764s) (⏱️ 12:44-16:59)
 
 ---
 
-## 6. İslamcılıkta dönüşüm ve ahlak tartışması
+## 6. Asgari Ücret Masasında İşçi Krizi
 
-- Gazeteci Ruşen Çakır, 1980’lerden beri izlediği İslami hareketlerin zamanla muhalif ve alternatif söylemden uzaklaştığını anlattı.
-- AK Parti döneminde hedeflenen “dindar nesil”in toplumsal bir üstünlük kuramadığı ve bazı gençlerin iktidar, para ve güçle tanışınca yozlaşabildiği iddia edildi.
-- Muhafazakar ailelerin çocuklarında dinden soğuma ile deizm ve ateizm eğilimlerinin arttığı öne sürüldü.
-- Dindar çevrelerden bazı isimlerin uyuşturucu ve cinsel içerikli skandal iddialarıyla anılmasının, dinin toplumsal algısına zarar verdiği belirtildi.
-- Prof. Dr. Mustafa Öztürk, medyanın uyuşturucu soruşturmalarını ülkenin daha yakıcı gündemlerinin önüne taşıyabildiğini ve tartışmaların mahremiyet ile sorumluluk dengesini bozduğunu söyledi.
-- Öztürk, dindarlık ile ahlakın sıkça yanlış eşleştirildiğini, “görsel” dindarlık ve takiye eleştirilerinin bu bağlamda önem kazandığını dile getirdi.
-- Devletin ve iktidar çevrelerinin gösterişli yaşam tarzının toplumsal ahlaki çürümeyi hızlandırdığı görüşü paylaşıldı.
-- Çakır ayrıca Yayıncılar Birliği’nin kitapçılara verdiği ödüllerden ve Kayseri’deki Akabe Kitabevi örneğinden söz ederek 1990’larda güçlü olan dindar yayıncılık ve kitabevi etkisinin bugün zayıfladığını aktardı.
+- Asgari ücret tespit komisyonu toplantılarına işçi temsilcileri katılmadı.
+- Türk-İş ve Başkanı Ergün Atalay, sürece davet edilmediklerini veya etkileri azaltılarak dahil edildiklerini söyledi.
+- Çalışma Bakanı Vedat Işıkan görüşmeleri yürüttü ve işçinin masada olmamasını önemsiz gördüğünü belirtti.
+- Bakanlığın gündeme getirdiği mobil pazarlık masası önerisi tartışma yarattı.
+- İşçi olmadan yapılacak pazarlığın adil olmayacağı ve kararların meşruiyetinin zayıflayacağı eleştirileri öne çıktı.
+- Görüşmeler sürerken farklı zam tahminleri konuşuluyor ve ekonomik sıkıntılar gündemde kalıyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=0RAVTO4KSso&t=3s) (⏱️ 00:03-10:55)
-- [Inan Demirel](https://www.youtube.com/watch?v=Itci2XGOOS0&t=1935s) (⏱️ 32:15-66:22)
+- [Unsal Unlu](https://www.youtube.com/watch?v=ObGnQsfDttw&t=884s) (⏱️ 14:44-17:21)
+- [Hilal Koylu](https://www.youtube.com/watch?v=bnr8HCJc5nQ&t=2207s) (⏱️ 36:47-38:08)
 
 ---
 
-## 7. Tepki çeken hakaret ve iddialar
+## 7. Tribünlerde Leyla Zana gerginliği
 
-- Bursaspor tribünlerinde Leyla Zana’ya ağır küfür ve hakaret edildiği görüntüler gündem oldu.
-- Kamera kayıtları olduğu ve bazı kişilerin kimliklerinin belli olduğu iddia edildi.
-- Olayın kin ve düşmanlığa tahrik suçu kapsamında soruşturulup soruşturulmayacağı tartışıldı.
-- Mecliste taciz iddialarıyla ilgili soruşturmanın sürdüğü bildirildi.
-- Meclis lokantasındaki aşçıların stajyer kadınları taciz ettiği iddiaları gündeme geldi.
-- Meclis Destek Hizmetleri’nde bir kadının üst düzey bir yetkiliyi tacizle suçladığı aktarıldı.
-- Kadının şikayetten vazgeçmesi için tehdit edildiğini ve İstanbul’a sürüldüğünü iddia ettiği belirtildi.
-- Kadının yeni ifade verdiği ve suç duyurusunda bulunduğu bildirildi.
-- 2020 tarihli Kamer Genç mezarı görüntüleri üzerinden CHP’ye karalama kampanyası yapıldığı iddia edildi.
-- Özgür Özel ve bazı CHP’lilerin mezar başında rakı döktüğü görüntüler yeniden paylaşıldı ve tepki çektiği aktarıldı.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Inan Demirel](https://www.youtube.com/watch?v=Itci2XGOOS0&t=1150s) (⏱️ 19:10-22:00)
-- [Hilal Koylu](https://www.youtube.com/watch?v=Ux2b9fSYBJ0&t=1682s) (⏱️ 28:02-30:43)
-
----
-
-## 8. Kararsız Seçmenler ve Şehzadeler Kararı
-
-- Asal Araştırma anketinde kararsız seçmenler %27,4 ile en büyük grup olarak öne çıktı.
-- Aynı ankette CHP %33,8 ile birinci, AK Parti %31,3 ile ikinci sırada yer aldı.
-- Kararsızlığın ana nedenleri ekonomik sıkıntı ve siyaset yorgunluğu olarak gösterildi.
-- Başka bir araştırmada AK Parti’nin oy kazanmış görünmesi, anket sonuçlarında farklılık olduğunu ortaya koydu.
-- Manisa Şehzadeler Belediyesi’nde boşalan başkanlık için belediye meclisinde seçim yapılacak.
-- AK Parti, merhum başkanın yerine aday çıkarmama kararı aldığını açıkladı.
-- Parti kararını etik duruş ve insani sorumluluk gerekçesiyle savundu, ancak karar eleştiriler de aldı.
-- Şehzadeler Belediye Meclisi’nde CHP 18 üye ile çoğunlukta, AK Parti 5 ve MHP 4 üyeye sahip.
+- Soma Spor ile Bursaspor maçında Bursaspor taraftarları Leyla Zana hakkında küfürlü tezahüratlar yaptı.
+- Olay sosyal medyada ve siyasette geniş tepki topladı.
+- Pervin Buldan hakaretleri kınadı ve bu dili reddetti.
+- İYİ Parti cephesinden olayla ilgili farklı açıklamalar geldi.
+- Bazı Soma tribünlerinde Leyla Zana’ya destek pankartı açıldı.
+- Yorumlarda, Bursaspor tribünlerinin geçmişte ırkçı pankart ve saldırı iddialarıyla da gündeme geldiği hatırlatıldı.
+- “Beyaz Toros” ve Mahmut Yıldırım gibi sembollerin 1990’lardaki faili meçhul şiddet dönemine gönderme olduğu belirtildi.
+- Bursaspor Başkanı Enes Çelik’in açıklamaları ve isim karışıklığı tartışma konusu oldu.
+- Tepkilerin bir kısmının “gizli ajanda” söylemiyle açıklanması eleştirildi.
+- Leyla Zana’nın Kürt siyasetinde sembol bir isim olduğu ve Meclis’te Kürtçe yemin ettiği hatırlatıldı, tezahüratların bireylere yönelmesinin kabul edilemez olduğu vurgulandı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Inan Demirel](https://www.youtube.com/watch?v=zl4yaDepVdI&t=1110s) (⏱️ 18:30-20:40)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=T6Oli5OHWLQ&t=415s) (⏱️ 06:55-10:30)
+- [Hilal Koylu](https://www.youtube.com/watch?v=bnr8HCJc5nQ&t=2051s) (⏱️ 34:11-35:30)
+- [Rusen Cakir](https://www.youtube.com/watch?v=fitOS5Q_rBw&t=28s) (⏱️ 00:28-09:29)
 
 ---
 
