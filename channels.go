@@ -192,4 +192,18 @@ var ChannelConfigs = []ChannelConfig{
 			return selected
 		},
 	},
+	{
+		Name: "Hilmi Hacaloglu",
+		ID:   "UCs3cazhme2QXgJM3qJPDPIQ",
+		Handler: func(videos []YouTubeVideo) []YouTubeVideo {
+			var selected []YouTubeVideo
+			for _, v := range videos {
+				if time.Since(v.PublishedAt) > 24*time.Hour {
+					continue
+				}
+				selected = append(selected, v)
+			}
+			return selected
+		},
+	},
 }
