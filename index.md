@@ -1,91 +1,168 @@
 # Bugün Ne Oldu?
 
-*22 December 2025 tarihli günlük haber raporu - 4 haber birleştirildi*
+*26 December 2025 tarihli günlük haber raporu - 8 haber birleştirildi*
 
-## 1. Medya ve Ünlüler Soruşturması Büyüyor
+## 1. Gözaltılar ve kaynak gizliliği tartışması
 
-- İstanbul merkezli bir soruşturma, uyuşturucu ve fuhuş iddialarıyla medya ve ünlüler dünyasına uzandı.
-- Soruşturmanın başlangıcında sosyal medya fenomeni Sercan Yaşar’ın ifadesi ve telefon verileri olduğu aktarıldı.
-- Spiker Ela Rümeysa Cebeci’nin tutuklandığı ve telefonundan çıkan yazışmaların dosyada belirleyici olduğu söylendi.
-- Mehmet Akif Ersoy hakkında narkotik ve fuhuş iddiaları gündeme geldi ve Ersoy suçlamaları reddetti.
-- İş insanı Saadettin Saran ifade verdi, evlerinde arama yapıldı ve saç ile kan örnekleri alındı.
-- Saran hakkında adli kontrol ve yurt dışına çıkış yasağı uygulandı ve test sonuçlarının beklendiği belirtildi.
-- Soruşturmada “gizli tanık” iddiaları ve “Kanarya” kod adıyla anılan sızıntılar kamuoyunda tartışma yarattı.
-- İstanbul Cumhuriyet Başsavcılığı tarafından paylaşılan bulanık parti görüntüleri ve sosyal medyadaki videoların doğruluğuna dair uyarılar yapıldı.
-- Dosyada fuhuşa teşvik, aracılık, yer temini, uyuşturucu temini ve ticareti gibi suçlamalar yer aldı.
-- Bazı şüpheliler tutuklandı, bazıları adli kontrolle serbest kaldı ve yeni tutuklamalar duyurulduğu aktarıldı.
+- Gazeteci Barış Terkoğlu, bir eğlence mekanındaki polis kimlik kontrolünde kendini savcı olarak tanıtan kişi iddiasını haberleştirdikten sonra ifade için götürüldü.
+- Terkoğlu’nun telefonu alındı ve sorguda asıl odak haber kaynağının kim olduğu sorusu oldu.
+- Avukatlar ve yorumcular, gazetecinin kaynağını açıklamama hakkının yasal güvence altında olduğunu vurguladı.
+- Terkoğlu aynı gün serbest bırakıldı ve bazı yayınlarda hakkında yurt dışı çıkış yasağı kararı bulunduğu aktarıldı.
+- Haberin ardından HSK’ya bildirim yapıldığı ve iddia edilen savcıyla ilgili süreç başlatıldığı bilgisi paylaşıldı.
+- Fenerbahçe Başkanı Saadettin Saran, uyuşturucu iddialarıyla yürütülen soruşturma kapsamında gözaltına alındı ve adli kontrolle serbest bırakıldı.
+- Saran hakkında ilk aşamada daha ağır suçlamalar konuşulurken sevk ve karar aşamasında dosyanın uyuşturucu kullanımı iddiasına dönmesi tartışma yarattı.
+- Adli kontrolün yurt dışı yasağı ve düzenli imza gibi yükümlülükler içerdiği belirtildi.
+- Adli tıp numunesinde saç örneğinde uyuşturucu tespiti iddiası gündeme geldi ve Saran sonucu reddedip ek test istedi.
+- Saran’ın kulüp binasında gözaltına alınması ve test bilgilerinin medyaya yansıması, Fenerbahçe camiasında tepki ve sahiplenmeye yol açtı ve adliye önünde taraftarlar toplandı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Murat Yetkin](https://www.youtube.com/watch?v=WWN9TKsdSlI&t=864s) (⏱️ 14:24-15:26)
-- [Rusen Cakir](https://www.youtube.com/watch?v=HWbg2dP7wCs&t=18s) (⏱️ 00:18-19:38)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=UP8Q3Oettlc&t=12s) (⏱️ 00:12-06:13)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=gU-xjH-wGr0&t=970s) (⏱️ 16:10-24:05)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=N5fQInU43gg&t=120s) (⏱️ 02:00-12:00)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=lJwRDL1E9Lo&t=719s) (⏱️ 11:59-39:28)
-- [Inan Demirel](https://www.youtube.com/watch?v=hqoenV-qXtY&t=840s) (⏱️ 14:00-21:50)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=ZOIi5ryKVh0&t=90s) (⏱️ 01:30-05:00)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=LyunrSZyXzo&t=500s) (⏱️ 08:20-19:03)
+- [Onlar TV](https://www.youtube.com/watch?v=oxG1janJyC0&t=13s) (⏱️ 00:13-08:21)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=wpYVbc2whsk) (⏱️ 00:00-05:09)
+- [Rusen Cakir](https://www.youtube.com/watch?v=mZqevfdQI70&t=34s) (⏱️ 00:34-18:58)
+- [Inan Demirel](https://www.youtube.com/watch?v=CF1s-OCrmz8&t=1s) (⏱️ 00:01-03:23)
 
 ---
 
-## 2. AK Parti kulislerinde Bilal ve Fidan
+## 2. Tahliyeler ve cezaevi tartışmaları
 
-- AK Parti kulislerinde yeniden yapılanma ve görev değişikliği iddiaları konuşuluyor.
-- Bu süreçte Bilal Erdoğan’ın kamusal görünürlüğü paneller, toplantılar ve sosyal medya paylaşımlarıyla arttı.
-- Bazı yorumlar bu görünürlüğü siyasi bir hazırlık ve liderlik zemini arayışı olarak değerlendiriyor.
-- 1 Ocak’ta İstanbul’da Gazze için Galata Köprüsü’nde sabah erken saatte kitlesel bir buluşma ve yürüyüş planlandı.
-- Organizasyonun Bilal Erdoğan öncülüğünde yürütüleceği ve bunun kamuoyu mobilizasyonu amacı taşıdığı yorumları yapıldı.
-- Etkinliğe spor kulübü yöneticilerinin davet edildiği ve taraftar katılımının istenebileceği iddia edildi.
-- İktidarın sokak gösterilerine temkinli yaklaştığı ve bazı eylemleri sınırladığı tartışmaları yeniden gündeme geldi.
-- Öte yandan Dışişleri Bakanı Hakan Fidan, AK Parti içinde sert eleştirilere ve görev değişikliği söylentilerine konu oldu.
-- Tartışmalar Fidan’ın SDG ve YPG’ye yönelik sert söylemleri ve Suriye politikasındaki çizgi üzerinden yürüdü.
-- Bazı AK Parti milletvekilleri dış politika kararının nihai olarak Cumhurbaşkanı Erdoğan’a ait olduğunu vurguladı ve Fidan’ın sözlerinin farklı yorumlandığını söyledi.
-Kabine değişikliği iddialarında Fidan’ın yerine MİT Başkanı İbrahim Kalın’ın gelebileceği de konuşuldu.
-Fidan, Yaşar Güler, İbrahim Kalın ve yeni Suriye büyükelçisi Nuh Yılmaz Şam’a giderek SDG’nin entegrasyonu, yerel güvenlik ve IŞİD tehdidi gibi başlıkları ele aldı.
+- Yeni infaz ve yargı düzenlemeleriyle on binlerce hükümlünün tahliye edildiği belirtildi.
+- Tahliyelerin ilk etapta yaklaşık 50-55 bin kişiyi etkileyebileceği aktarıldı.
+- Paketin hırsızlık, dolandırıcılık ve uyuşturucu gibi suçlara karışanları da kapsayabileceği iddiası tartışma yarattı.
+- Bazı tahliye olan kişiler görüntülerde hükümete ve Erdoğan’a teşekkür etti.
+- Bazı yorumlarda bu adımların sokak güvenliği ve kamu düzeni için risk oluşturabileceği savunuldu.
+- Cezaevlerinde muhalifler ile adli suçlardan yatanlara farklı muamele yapıldığı iddiaları yeniden gündeme geldi.
+- Buna karşın Tayfun Kahraman, Can Atalay, Osman Kavala ve Selahattin Demirtaş gibi isimlerin hâlâ cezaevinde olduğu vurgulandı.
+- Tayfun Kahraman’ın cezaevi nakli sırasında sıcak ve havasız ring aracında bekletildiği ve MS atağı geçirdiği iddia edildi.
+- Kahraman’ın hastaneden dönüşte ilaç saatini kaçırdığı için gerekli ilacı alamadığı ve geceyi ağrıyla geçirdiği öne sürüldü.
+- Anayasa Mahkemesinin Tayfun Kahraman için hak ihlali ve yeniden yargılama kararı verdiği ancak uygulamada ilerleme olmadığı belirtildi.,"Silivri Cezaevi ziyaretlerinde tutukluların sağlık ve moral durumuna dair gözlemler ve cezaevi koşullarına ilişkin eleştiriler paylaşıldı.","İBB soruşturmasına ilişkin yargılamaların Mart ayında başlayacağı ve Ekrem İmamoğlu için AİHM’de erken inceleme başlatıldığı duyuruldu.","Kamuoyunda yeni paketlerin adalet duygusunu zedelediği ve mağdurlar açısından sorun doğurabileceği görüşü öne çıktı."], 
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=N5fQInU43gg&t=1200s) (⏱️ 20:00-25:00)
-- [Inan Demirel](https://www.youtube.com/watch?v=ODOWOlOP7Sw&t=1076s) (⏱️ 17:56-21:27)
-- [Murat Yetkin](https://www.youtube.com/watch?v=WWN9TKsdSlI&t=232s) (⏱️ 03:52-14:23)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=lJwRDL1E9Lo&t=2560s) (⏱️ 42:40-51:39)
+- [Inan Demirel](https://www.youtube.com/watch?v=CF1s-OCrmz8&t=670s) (⏱️ 11:10-13:55)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=ZOIi5ryKVh0&t=1320s) (⏱️ 22:00-30:40)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=LyunrSZyXzo&t=1528s) (⏱️ 25:28-26:18)
+- [Serdar Akinan](https://www.youtube.com/watch?v=RVe4vqab1u8&t=11s) (⏱️ 00:11-11:03)
+- [Rusen Cakir](https://www.youtube.com/watch?v=mZqevfdQI70&t=2201s) (⏱️ 36:41-39:10)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=wpYVbc2whsk&t=988s) (⏱️ 16:28-19:23)
 
 ---
 
-## 3. Türkiye’de İHA Olayları Endişe Yarattı
+## 3. Medya Üzerinde Tarafsızlık Tartışması Büyüyor
 
-- Türkiye’nin farklı bölgelerinde art arda İHA düşmesi veya düşürülmesi gündem oldu.
-- Çankırı, Ankara çevresi, Kocaeli, Bursa, Balıkesir-Bandırma ve Gümüşhane gibi noktalarda olaylar bildirildi.
-- Bazı İHA’ların F-16’lar tarafından etkisiz hale getirildiği iddia edildi.
-- Bandırma 6. Ana Jet Üssü gibi stratejik yerlere yakın olaylar hava sahası güvenliği endişesini artırdı.
-- Mecliste Milli Savunma Bakanlığı’nın İHA olaylarına dair yeterli açıklama yapmadığı eleştirileri dile getirildi.
-- Gelişmeler Türkiye’nin çok katmanlı hava savunması Çelik Kubbe ve mevcut kapasitenin sorgulanmasına yol açtı.
-- Tartışmalar S-400’lerin durumu ve F-35 süreci gibi savunma tedariki başlıklarıyla birlikte ele alındı.
-- Türkiye’nin ABD ile ilişkilerde yakınlaşma arayışı ve olası politika dönüşleri yeniden konuşulmaya başladı.
-- İsrail, Yunanistan ve Güney Kıbrıs liderlerinin üçlü zirvesi Ankara açısından bölgesel risk işareti olarak değerlendirildi.
-- Olayların Karadeniz’de Rusya-Ukrayna hattındaki gerilimle bağlantılı olabileceği yorumları yapıldı.
+- İktidara yakın medya ve gazetecilik sınırları yeniden tartışma konusu oldu.
+- Ahmet Hakan ve Hande Fırat yazılarıyla gazetecinin parti sözcüsü gibi konuşmaması gerektiğini vurguladı.
+- Tartışmalar CNN Türk ve Hürriyet ekseninde yayın politikası, liyakat ve editör tercihleri üzerinden büyüdü.
+- Zafer Şahin tartışmalar sonrası bir CNN Türk programına katılmama kararı aldı.
+- Bazı yorumlar iktidar medyasının siyasi aktör gibi davrandığını ve gazetecilik standartlarının zedelendiğini savundu.
+- Medya içindeki ayrışma geçim için pozisyonunu koruyanlar ve iktidarı savunmayı görev görenler olarak tarif edildi.
+- Bir sunucu ekrandan çekildiğini ve yayınlarına YouTube üzerinden devam edeceğini açıkladı.
+- Devlet kurumları arasında güvensizlik ve güç mücadelesi iddiaları haberlerin algılanışını etkileyen bir unsur olarak değerlendirildi.
+- Basın özgürlüğü, gazetecilere baskı ve uzun tutukluluk eleştirileri yeniden gündeme geldi.
+- Halkı yanıltıcı bilgi suçlamasının bazen doğru bilginin yayılmasını da engellediği örneklerle anlatıldı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=N5fQInU43gg&t=1800s) (⏱️ 30:00-35:00)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=lJwRDL1E9Lo&t=3316s) (⏱️ 55:16-62:24)
-- [Murat Yetkin](https://www.youtube.com/watch?v=WWN9TKsdSlI&t=599s) (⏱️ 09:59-10:29)
+- [Inan Demirel](https://www.youtube.com/watch?v=CF1s-OCrmz8&t=1075s) (⏱️ 17:55-25:05)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=S622FY-KgSE&t=833s) (⏱️ 13:53-17:10)
+- [Rusen Cakir](https://www.youtube.com/watch?v=mZqevfdQI70&t=1142s) (⏱️ 19:02-21:08)
+- [Onlar TV](https://www.youtube.com/watch?v=oxG1janJyC0&t=502s) (⏱️ 08:22-47:09)
+- [Serdar Akinan](https://www.youtube.com/watch?v=RVe4vqab1u8&t=1551s) (⏱️ 25:51-30:49)
 
 ---
 
-## 4. İstanbul ve Ankara’da kritik uyarılar
+## 4. Libya uçağı kazası tartışma yarattı
 
-- İstanbul’da yağmur etkili olurken baraj doluluk oranı yüzde 17’nin altına indi.
-- Yetkililer, su kaynaklarında son 10 yılın en kötü seviyesinin görüldüğünü bildirdi.
-- Sazdere Barajı kullanım dışına alındı.
-- Kısa süreli yağışların sorunu çözmediği ve güçlü kar yağışı olmazsa yazın ciddi su sıkıntısı yaşanabileceği belirtildi.
-- Ankara İl Jandarma Komutanlığı, yılbaşı öncesi Ankara ve İstanbul için IŞİD tehdidine dair uyarı yazısı gönderdi.
-- Yazıda, pazar yerleri ve alışveriş merkezleri gibi kalabalık alanlara yönelik olası saldırılara karşı dikkatli olunması istendi.
-- Uyarı, Türkiye’de IŞİD’in aktif ya da uyuyan hücreleri olabileceği endişesini artırdı.
+- Türkiye’ye gelen Libya askeri heyetini taşıyan Falcon 50 uçağı dönüş yolunda kaza yaptı.
+- Uçağın kara kutularına ulaşıldı ve kazanın nedeni için inceleme sürüyor.
+- Kazayla ilgili sabotaj ihtimali ve istihbarat bağlantısı iddiaları kamuoyunda tartışılıyor.
+- Malta merkezli Harmony Jets adlı şirketin Hafter’e paralı asker taşıdığı iddiası gündeme geldi.
+- Şirketin Mossad ve Rus paralı asker ağlarıyla bağlantılı olabileceğine dair iddialar paylaşıldı.
+- Kazadaki bir generalin Türkiye ile gerilim yarattığı ve Türkiye’nin Libya’daki çıkarlarına etkisi konuşuldu.
+- Selahattin Ennemuş’un Libya’da Genelkurmay Başkanlığına atanmasının Türkiye ile ilişkilere yansıması değerlendirildi.
+- Bölgede denizde ticaret gemilerine saldırılar ve bazı İHA sorunları gibi başka güvenlik olayları da arttı.
+- Bu gelişmeler jeopolitik hareketliliği ve komşu ülkelerle ilişkilerde gerginlik riskini öne çıkardı.
+- Türkiye’de aynı dönemde dış politikada çok kutupluluk ve doğuya yönelme tartışmaları yeniden gündeme geldi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=gU-xjH-wGr0&t=1451s) (⏱️ 24:11-25:10)
-- [Inan Demirel](https://www.youtube.com/watch?v=hqoenV-qXtY&t=1476s) (⏱️ 24:36-25:14)
+- [Serdar Akinan](https://www.youtube.com/watch?v=RVe4vqab1u8&t=1324s) (⏱️ 22:04-23:39)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=LyunrSZyXzo&t=1331s) (⏱️ 22:11-25:25)
+
+---
+
+## 5. Ekonomik sıkıntı işçi ve sanayiyi vuruyor
+
+- Tekstil başta olmak üzere bazı fabrikaların kapandığı ve satışa çıktığı örnekler gündeme geldi.
+- Kapanmaların 300-350 kişilik istihdam kaybı gibi sonuçlar doğurduğu belirtildi.
+- Bazı işçilerin 64 gündür maaş alamadığı ve bu nedenle eylem yaptığı aktarıldı.
+- İşçiler sosyal güvencesizlikten şikayet etti ve patronların yakınlarının kayırıldığını iddia etti.
+- Yüksek enflasyonun temel ihtiyaçları pahalılaştırdığı ve alım gücünü düşürdüğü vurgulandı.
+- Kredi kartı borçları, esnaf borçları ve iflaslarda artış olduğu ifade edildi.
+- Bütçe yapısı ve vergi yükünün adaletsiz dağıldığı eleştirileri dile getirildi.
+- Altın fiyatlarındaki yükselişin küresel gelişmeler ve ABD politikalarıyla bağlantılı olduğu anlatıldı.
+- Konut ve otomobil fiyatlarının yükseldiği, gıdaya erişimde zorlanma ve kalite düşüşü yaşandığı söylendi.
+- Asgari ücret ve emekli maaşlarının yoksullaşmayı artırdığı değerlendirmesi yapıldı, genç işsizlik ve eğitim ile iş piyasası uyumsuzluğu öne çıkarıldı, uzun vadeli yapısal reform ihtiyacı vurgulandı ve CHP’nin açlık sınırına göre asgari ücret, ücretsiz okul yemeği ve bazı ÖTV düzenlemeleri gibi önerileri paylaşıldı.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Serdar Akinan](https://www.youtube.com/watch?v=RVe4vqab1u8&t=663s) (⏱️ 11:03-12:37)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=S622FY-KgSE&t=1031s) (⏱️ 17:11-56:57)
+
+---
+
+## 6. SDG Şam entegrasyon görüşmeleri belirsiz
+
+- SDG ile Şam yönetimi arasında güçlerin ve idarenin entegrasyonuna dair görüşmelerde belirsizlik sürüyor.
+- SDG lideri Mazlum Abdi, tarafların ortak bir anlayışa ulaştığını ve bir mutabakattan söz edildiğini söyledi.
+- Suriye televizyonu, yakında kamuoyuna açıklanacak bir anlaşmaya varıldığını yazdı.
+- Suriye Enformasyon Bakanlığı ise SDG’nin uygulanamaz talepleri nedeniyle anlaşma sağlanamadığını açıkladı.
+- Basına yansıyan iddialara göre metin 13 maddeden oluşuyor ve personelin devri, yetki paylaşımı ve petrol gelirlerinin bölüşümü gibi başlıklar içeriyor.
+- Görüşmelerin Mart ayına kadar uzayabileceği ve sürecin kopma noktasına geldiği yorumları yapılıyor.
+- ABD’nin yıl sonuna kadar çözüm istediği belirtilirken Türkiye’nin sürece müdahil olabileceği ve Ankara-Washington koordinasyonu da tartışılıyor.
+- Anlaşma olup olmadığı ve olası koşullar taraflardan gelen çelişkili açıklamalar nedeniyle netleşmiş değil.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Inan Demirel](https://www.youtube.com/watch?v=CF1s-OCrmz8&t=835s) (⏱️ 13:55-17:55)
+- [Serdar Akinan](https://www.youtube.com/watch?v=RVe4vqab1u8&t=1042s) (⏱️ 17:22-22:02)
+
+---
+
+## 7. Bilal Erdoğan ve yeni aydın tartışması
+
+- Bilal Erdoğan’ın yılbaşı sabahı İstanbul’daki Gazze mitinginde konuşacağı duyuruldu.
+- Erdoğan, son dönemde kamuoyunda daha görünür bir isim haline geldi.
+- Konuşmalarında “yeni aydın sınıfı” ve “yerli ve milli aydın” ihtiyacını dile getirdi.
+- Bu çıkış bazı yorumlarda devletin yeni aydınlar üretme fikri olarak değerlendirildi.
+- Eleştirilerde, aydının resmî atamalarla değil toplumun yaşadığı sorunlardan doğduğu vurgulandı.
+- Ekonomi tartışması kapsamında 2021’de 9,8 milyon TL olan bir rezidans dairesinin 2025’te 90 milyon TL’ye çıktığı örneği verildi.
+- Bu artışın nedenlerinin açıklanması gerektiği ve gelir adaleti sorularının öne çıktığı belirtildi.
+- Erdoğan’ın konuşmasında aydın tanımının toplum tarafından verildiği ve resmî yöntemlerle belirlenemeyeceği görüşü de aktarıldı.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Bahar Feyzan](https://www.youtube.com/watch?v=ZOIi5ryKVh0&t=2420s) (⏱️ 40:20-46:19)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=LyunrSZyXzo&t=1580s) (⏱️ 26:20-29:38)
+
+---
+
+## 8. İhale ve Borsada Usulsüzlük İddiaları
+
+- TCDD’nin 2025 için 35 dizel-elektrikli lokomotif alımı ve 3 yıllık servis ihalesinde yerlilik şartının fiilen devre dışı bırakıldığı iddia edildi.
+- 2017 genelgesi ve 2025 yatırım programında raylı sistemlerde yüzde 51 yerlilik zorunluluğu bulunduğu hatırlatıldı.
+- İhalede yabancı firmaların teklif verdiği ve Stadler’ın teklifinin kabul edilmiş göründüğü aktarıldı.
+- İhale dokümanları üzerinden yetki, usul ve paranın dolaşımıyla ilgili soru işaretleri dile getirildi.
+- Kontrol Matik ile ilgili bir e-posta iddiasında, ilişkili bir ortağın yaklaşık 32 milyon hisseyi yaklaşık 500 milyon TL’ye sattığı öne sürüldü.
+- Satıştan iki gün sonra şirkete Dünya Bankası projelerine katılmama cezası geldiği iddiası paylaşıldı.
+- Bu zamanlama nedeniyle içeriden öğrenenlerin ticareti şüphesi doğduğu ve SPK’nın inceleme yapması gerektiği belirtildi.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Serdar Akinan](https://www.youtube.com/watch?v=RVe4vqab1u8&t=1426s) (⏱️ 23:46-25:47)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=ZOIi5ryKVh0&t=2260s) (⏱️ 37:40-40:20)
 
 ---
 
