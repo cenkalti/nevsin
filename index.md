@@ -1,44 +1,24 @@
 # Bugün Ne Oldu?
 
-*27 December 2025 tarihli günlük haber raporu - 2 haber birleştirildi*
+*28 December 2025 tarihli günlük haber raporu - 1 haber birleştirildi*
 
-## 1. TFF 2011 dönemi soruşturması genişliyor
+## 1. Türkiye’de siyaset ve devlet tartışması
 
-- TFF’nin 2011 dönemiyle bağlantılı yeni bir soruşturma başlatıldığı bildirildi.
-- Dün gözaltına alınan Lütfi Arıboğa, İlhan Helvacı, Ebru Köksal ve Ahmet Gülüm ifade sonrası serbest bırakıldı.
-- Bazı şüphelilere yurt dışına çıkış yasağı uygulandığı, bazı isimlerin savcılıkça serbest bırakıldığı aktarıldı.
-- Sabah saatlerinde aralarında eski yöneticilerin de olduğu 26 kişi daha gözaltına alındı.
-- Soruşturmanın 3 Temmuz şike süreci ve sonrasındaki kumpas iddialarıyla bağlantılı ele alındığı belirtildi.
-- Lütfi Arıboğa’nın e-postaları ve HTS kayıtlarında Mehmet Baransu ile yoğun iletişim iddiası dosyada öne çıktı.
-- Bu bilgi ve belgelerin savcılığa iletilmesi üzerine bazı eski yöneticilerin ifadeye çağrıldığı anlatıldı.
-- Soruşturmada Mehmet Ali Aydınlar gibi bazı dönem isimlerinin yer almaması kamuoyunda sorgulandı.
-- Ayrı bir dosyada Saadettin Saran’ın yurt dışından dönerek ifadesine gittiği ve sürecin Fenerbahçe camiasında tepki doğurduğu aktarıldı.
-- Kişisel verilerin ve tahlil sonuçlarının basına sızdırıldığı iddiası tartışma yarattı ve bunun algı operasyonu olabileceği söylendi, taraftarın Kadıköy ve Çağlayan’da toplandığı belirtildi.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Bahar Feyzan](https://www.youtube.com/watch?v=nugzcb9-Gss&t=729s) (⏱️ 12:09-16:53)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=JhJA2R9Lfrk&t=16s) (⏱️ 00:16-00:52)
-
----
-
-## 2. Bütçe ve eşitsizlik tartışması büyüyor
-
-- Bütçe görüşmelerinde kaynakların halk yerine sermayeyi koruduğu eleştirileri öne çıktı.
-- Tarım bütçesinin yetersiz kaldığı, tarımsal altyapının yenilenmesi için yüksek bir maliyet gerektiği söylendi.
-- Faiz ödemelerinin çok yükseldiği ve bütçe üzerinde büyük baskı oluşturduğu iddia edildi.
-- Sosyal yardımların arttığı, bunun kalıcı yoksulluğu ve bağımlılığı büyüttüğü eleştirisi yapıldı.
-- Bütçenin ağırlıkla vergilerle finanse edildiği, gelir vergisi ve tüketim vergilerinin halkı zorladığı vurgulandı.
-- Kur korumalı mevduat ve kamu-özel işbirliği projelerinin bütçeye ek yük getirdiği örneklerle anlatıldı.
-- Asgari ücret için yüzde 50 artış ve artışın bir bölümünün devlet tarafından desteklenmesi önerisi gündeme geldi.
-- TÜK tarafından yayımlanan raporda gelir eşitsizliğinin arttığı ve en alt yüzde 20’nin gelirden düşük pay aldığı belirtildi.
-- Sunucu, resmî verilerin gerçeği tam yansıtmadığını ve eşitsizliğin daha ağır olabileceğini savundu.
-- Şamil Tayyar’ın açıklamaları iktidar içinde liyakat sorunu ve yönetimsel zayıflık tartışmalarını yeniden alevlendirdi.
+- Diyarbakır’da bir toplantıda Doğa Ergil’in 30 yıl önce hazırladığı Doğu Raporu yeniden tartışıldı.
+- Raporda Kürt sorunu ve uluslaşma politikalarının yarattığı bütünleşmeme krizi öne çıkarıldı.
+- Rapor, çatışma ve asimilasyona giden kaynakların kalkınmaya ayrılsaydı farklı sonuçlar doğacağını vurguladı.
+- Toplantıda çözüm sürecinin neden tıkandığı ve yerel aktörlerin sorumluluğu konuşuldu.
+- Aynı dönemde dış politikada 2025 sonrası yön değişimi ve 2026’da daha zorlu bir tablo beklentisi gündeme geldi.
+- Analizde AB süreci, Gümrük Birliği ve F-35 F-16 ile CAATSA başlıkları kritik dosyalar olarak aktarıldı.
+- Bölgesel ittifaklar ile enerji, savunma, yapay zeka ve iklim gibi uzun vadeli risklere dikkat çekildi.
+- Mehmet Uçum’un yazısı terörsüz Türkiye söylemi üzerinden liderlik ve demokrasi tartışmasını yeniden alevlendirdi.
+- Yazı temsili demokrasi, yargı bağımsızlığı ve düşünce özgürlüğü sorunlarına dair eleştirilerle değerlendirildi.
+- Çiğdem Toker’in belge temelli çalışması kamu ihaleleri ve garantili projelerde iktidar sermaye ilişkisini anlattı, buna simbiyoz dendi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=GwgYcG7C-Mk&t=267s) (⏱️ 04:27-14:44)
-- [Serdar Akinan](https://www.youtube.com/watch?v=j5ZnIj82xmY&t=417s) (⏱️ 06:57-09:29)
+- [Rusen Cakir](https://www.youtube.com/watch?v=f46UGMQIynU&t=24s) (⏱️ 00:24-12:10)
+- [Serdar Akinan](https://www.youtube.com/watch?v=lI-0U221WQI&t=1062s) (⏱️ 17:42-24:08)
 
 ---
 
