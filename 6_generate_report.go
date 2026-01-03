@@ -254,9 +254,12 @@ BAŞLIK YAZIM KURALLARI:
 • Maksimum 5-7 kelime kullan
 
 ÖZET YAZIM KURALLARI:
-• Özeti dizi (array) olarak döndür
+• Özeti dizi (array) olarak döndür, maksimum 10 madde
 • Her madde dizinin ayrı bir elemanı olmalı
 • Madde işareti karakterleri KULLANMA (-, *, vb.)
+• Her madde MUTLAKA yaklaşık 10 kelime olmalı (8-12 kelime arası)
+• ÖNEMLİ: Son (10.) maddede geri kalan tüm bilgiyi yazmaya ÇALIŞMA
+• Eğer bilgi çoksa, en önemli 10 maddeyi seç ve özetle
 • Her madde basit ve kısa bir cümle olsun
 • Karmaşık cümleler kurma
 • Teknik terimler varsa basit açıkla`
