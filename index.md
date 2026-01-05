@@ -1,46 +1,72 @@
 # Bugün Ne Oldu?
 
-*4 January 2026 tarihli günlük haber raporu - 2 haber birleştirildi*
+*5 January 2026 tarihli günlük haber raporu - 3 haber birleştirildi*
 
-## 1. Maduro Operasyonu ve Türkiye Tartışması
+## 1. ABD Maduro’yu New York’a Götürdü
 
-- ABD özel kuvvetleri Maduro’yu gece baskınıyla kaçırdığı iddia edildi.
-- Trump operasyonu doğrulayıp ABD’nin Venezuela’da kalacağını söyledi.
-- Karakas’ta saraya baskın yapıldı, çatışmasız gerçekleştiği belirtildi.
-- Operasyonda bazı noktalar bombalandı, 40’tan fazla ölüm bildirildi.
-- Trump petrol ve kaynaklar için yaptığını açıkça savundu.
-- Nadir toprak elementleri gibi kritik madenler de hedef gösterildi.
-- Çin, Rusya, İran gibi ülkeler kınadı, BM endişe bildirdi.
-- AB Maduro’nun meşruiyetsiz olduğunu söyleyip barışçıl geçiş istedi.
-- Türkiye Dışişleri taraflara itidal çağrısı yaptı, kınama kullanmadı.
-- Türkiye’de Erdoğan’ın sessizliği, muhalefetin Maduro eleştirileri tartışıldı.
+- ABD, Venezuela’da gece baskınıyla Devlet Başkanı Maduro’yu yakaladı.
+- Maduro’nun New York’a zorla götürüldüğü ve yargılanacağı bildirildi.
+- Operasyonda Delta Force ve istihbarat desteğiyle helikopter kullanıldığı aktarıldı.
+- Maduro’nun kelepçeli fotoğrafları ve minibüs görüntüleri büyük tartışma yarattı.
+- Beyaz Saray suçlamayı narkoterörizm ve uyuşturucu ağı iddialarıyla gerekçelendirdi.
+- Maduro hakkında 2020’den beri soruşturma ve yeni iddianame olduğu söylendi.
+- Trump görüntüleri paylaştı, müdahale sinyali veren açıklamalar yaptı.
+- New York Times, Maduro’ya Türkiye’ye sürgün teklif edildiğini yazdı.
+- Karakas’ta patlama sesleri, korku ve gıda ilaç stokları bildirildi.
+- Uzmanlar petrol, maden ve Çin etkisinin gerçek motivasyon olabileceğini söylüyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=9yTJnrdOIqo&t=7s) (⏱️ 00:07-25:15)
-- [Murat Yetkin](https://www.youtube.com/watch?v=yikO53sYHL4&t=6s) (⏱️ 00:06-01:35)
-- [Inan Demirel](https://www.youtube.com/watch?v=5_udWdFaKbk&t=577s) (⏱️ 09:37-20:25)
-- [Unsal Unlu](https://www.youtube.com/watch?v=Um7SFdAWxJU&t=347s) (⏱️ 05:47-08:21)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=GbRYOYGYq_0) (⏱️ 00:00-05:19)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=Wi-J1vju8go&t=141s) (⏱️ 02:21-10:49)
+- [Murat Yetkin](https://www.youtube.com/watch?v=IkvpkN2cPHo&t=221s) (⏱️ 03:41-07:27)
+- [Serdar Akinan](https://www.youtube.com/watch?v=fcfPGsz1csc&t=13s) (⏱️ 00:13-14:21)
+- [Rusen Cakir](https://www.youtube.com/watch?v=81In7Jn93J4&t=5s) (⏱️ 00:05-03:06)
+- [Inan Demirel](https://www.youtube.com/watch?v=BWK1fjxM4sc) (⏱️ 00:00-10:50)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=XoZCzjTRSvQ&t=16s) (⏱️ 00:16-01:56)
 
 ---
 
-## 2. Siyaset ve medya yakınlığı tartışması
+## 2. ABD Eylemi Sonrası Türkiye'nin Tavrı
 
-- 2025 son günlerinde Mehmet Akif Ersoy üzerinden tartışma başladı.
-- İddiaya göre genç bir gazeteci Erdoğan’ın uçağına alındı.
-- Konu iktidar medyasında büyüdü, Hürriyet ve CNN Türk katıldı.
-- Tartışma gazeteci-siyasetçi ilişkileri ve mesafeyi yeniden gündem yaptı.
-- Sunucu, gazetecinin siyasetçiye yakın olmaması gerektiğini vurguladı.
-- Yıllar içinde medyanın bağımsızlığının zayıfladığı örneklerle anlatıldı.
-- Geçmişte Erdoğan bazı bağımsız gazetecileri uçağa almıştı denildi.
-- Tele1 ve bazı gazetecilere baskı ile tutuklamalar örnek gösterildi.
-- Bu süreçte bazı gazetecilerden parti savunması istendiği öne sürüldü.
-- Ayrı gündemde CHP’li Hasan Ufuk Çakır’ın AK Parti’ye geçeceği iddia edildi.
+- ABD eylemi sonrası uluslararası tepkiler farklı tonlarda ortaya çıktı.
+- Rusya, İran ve Küba sert eleştiri getirirken Çin ölçülü kaldı.
+- Bazı Avrupa liderleri sessiz kaldı, ortak tepki zayıf göründü.
+- İspanya gibi ülkeler ayrı tutum aldı, AB içinde ayrışma konuşuldu.
+- Beş Latin Amerika ülkesi ABD’yi kınadı, bölgesel tepki büyüdü.
+- Gelişme, BM ve uluslararası düzenin etkinliğini yeniden sorgulattı.
+- Uluslararası hukukun ve lider dokunulmazlıklarının zedelenmesi tartışıldı.
+- Türkiye net kınama yapmadı, dışişleri kısa ve temkinli metin yayımladı.
+- Sessizlik, iktidar-muhalefet gerilimini artırdı; Özel ve Çelik karşı karşıya geldi.
+- Erdoğan-Trump görüşmesi, F-35, F-16 ve Halkbank dengelerini etkileyebilir.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=3ukP5yFei2o&t=4s) (⏱️ 00:04-11:11)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=9yTJnrdOIqo&t=1516s) (⏱️ 25:16-26:59)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=Wi-J1vju8go&t=1250s) (⏱️ 20:50-37:42)
+- [Inan Demirel](https://www.youtube.com/watch?v=BWK1fjxM4sc&t=651s) (⏱️ 10:51-16:41)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=GbRYOYGYq_0&t=1717s) (⏱️ 28:37-34:04)
+- [Rusen Cakir](https://www.youtube.com/watch?v=81In7Jn93J4&t=617s) (⏱️ 10:17-14:08)
+- [Murat Yetkin](https://www.youtube.com/watch?v=IkvpkN2cPHo&t=447s) (⏱️ 07:27-10:27)
+
+---
+
+## 3. SDG ile Şam Arasında Görüşmeler
+
+- SDG ile Şam yönetimi arasında yeni görüşmeler yapıldığı bildirildi.
+- Görüşmelerden olumlu sonuçlar çıktığına dair iddialar gündeme geldi.
+- Mazlum Abdi ile Cülani’nin bir araya geldiği öne sürüldü.
+- Askeri entegrasyon konusunda bazı başlıklarda mutabakat sağlandığı iddia edildi.
+- SDG birliklerinin tümenler halinde Suriye ordusuna entegre edilmesi konuşuluyor.
+- Sivil idari dosyalarda 10 Mart anlaşmasının süresinin uzatılması öngörülüyor.
+- Şam yönetimi görüşmenin sahada somut sonuç vermediğini açıkladı.
+- SDG tarafı resmi açıklama beklenmesi gerektiğini, detayların sonra paylaşılacağını söyledi.
+- Sürecin Türkiye’deki çözüm tartışmaları ve PKK adımlarıyla bağlantısı vurgulanıyor.
+- Görüşmelerin nasıl işleyeceği ve kalıcılığı konusunda belirsizlik sürüyor.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Inan Demirel](https://www.youtube.com/watch?v=BWK1fjxM4sc&t=1004s) (⏱️ 16:44-20:02)
+- [Rusen Cakir](https://www.youtube.com/watch?v=WlT5VRcUsZE&t=58s) (⏱️ 00:58-01:15)
 
 ---
 
