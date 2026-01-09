@@ -1,217 +1,149 @@
 # Bugün Ne Oldu?
 
-*8 January 2026 tarihli günlük haber raporu - 10 haber birleştirildi*
+*9 January 2026 tarihli günlük haber raporu - 7 haber birleştirildi*
 
-## 1. Halep’te Şam-SDG Çatışması Derinleşiyor
+## 1. Halep’te SDG-Şam Çatışması Büyüyor
 
-- Şam ile SDG görüşmeleri entegrasyon ve kaynak paylaşımında tıkandı.
-- 10 Mart mutabakatı uygulanamadı, sahada gerilim hızla arttı.
-- Halep çevresinde Şam ordusu SDG’ye karşı operasyon başlattı.
-- Eşrefiye ve Şeyh Maksut’ta çatışma iddiaları, tahliyeler yaşandı.
-- Binlerce sivil göç etti, sokağa çıkma yasakları bildirildi.
-- SDG, Halep’te varlık yok derken mesajlar çelişkili göründü.
-- Çatışmanın merkezinde petrol, tahıl, baraj ve elektrik kontrolü var.
-- ABD SDG’yi koruyor; Türkiye SDG kazanımlarını tehdit görüyor.
-- MSB, Şam isterse Türkiye’nin destek verebileceğini açıkladı.
-- Yeşil ışık iddiaları ve İsrail hattı, dengeleri karmaşıklaştırıyor.
+- Halep’te Kürt yoğun mahallelerde çatışmalar üçüncü gününde tırmandı.
+- Şeyh Maksut ve Eşrefiye’de SDG/YPG direnişi sürüyor, kuşatma var.
+- Şam güçleri operasyonu ayıklama diye tanımlıyor, SDG sivilleri savunuyor.
+- Taraflar sivilleri hedef almak ve kalkan yapmakla suçlaşıyor.
+- Havan, topçu ve sokak çatışmaları sonrası on binlerce sivil tahliye edildi.
+- Gece-sabah ateşkesi denendi, ABD arabuluculuğuyla kalıcı çözüm arandı.
+- 30 Mart ve 1 Nisan anlaşmaları YPG çekilmesini öngörüyordu.
+- Tahliye otobüsleri gönderildi, PKK emriyle sürecin durduğu iddia edildi.
+- MİT, ABD ve Suriye istihbaratlarıyla temas kurup mesaj iletti.
+- Türkiye, siyasi çözümü vurgularken gerekirse askeri destek seçeneğini duyurdu.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Serdar Akinan](https://www.youtube.com/watch?v=3FBCwIsB-ks&t=96s) (⏱️ 01:36-08:41)
-- [Hilal Koylu](https://www.youtube.com/watch?v=pbY4Lg7PbN4&t=1742s) (⏱️ 29:02-30:18)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=VCC-nsvA0yY&t=1346s) (⏱️ 22:26-31:10)
-- [Inan Demirel](https://www.youtube.com/watch?v=_EC5pm9176g) (⏱️ 00:00-06:24)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=vqn9S6C5Orw&t=1084s) (⏱️ 18:04-19:38)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=yVCdNcXwVt4&t=105s) (⏱️ 01:45-16:00)
-- [Murat Yetkin](https://www.youtube.com/watch?v=xMJ0liD2EvQ&t=660s) (⏱️ 11:00-13:20)
-- [Unsal Unlu](https://www.youtube.com/watch?v=LgM202ruy9Q&t=540s) (⏱️ 09:00-11:04)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=NK7y-OnjcRg&t=32s) (⏱️ 00:32-07:05)
+- [Serdar Akinan](https://www.youtube.com/watch?v=NMcTSqrOMTo&t=1273s) (⏱️ 21:13-24:26)
+- [Unsal Unlu](https://www.youtube.com/watch?v=e_hUB37mQ8I&t=539s) (⏱️ 08:59-10:56)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=O5enn_pRzy8&t=1243s) (⏱️ 20:43-21:08)
+- [Murat Yetkin](https://www.youtube.com/watch?v=6nsgkK-30ZM&t=187s) (⏱️ 03:07-19:10)
+- [Rusen Cakir](https://www.youtube.com/watch?v=gon8slZfsTU&t=4s) (⏱️ 00:04-10:21)
 
 ---
 
-## 2. Emekli Maaşı Tartışması Siyaseti Geriyor
+## 2. 20 Bin TL Emekli Maaşı Tartışması
 
-- Türkiye’de emekli maaşları ve geçim krizi gündemin merkezinde.
-- Külliyede yapılacak toplantıda emekli maaş artışı seçenekleri görüşülecek.
-- En düşük emekli aylığı 21.500-22.000 TL bandına çıkabilir.
-- Seyyanen zam beklentisi var, maliyeti bütçeyi ciddi zorlayabilir.
-- Hükümet büyüme vurgusu yaparken asgari ücret konuşulmuyor eleştirisi var.
-- Yüksek dış borç ve faiz ödemeleri ekonomik manevra alanını daraltıyor.
-- ÖTV, KDV ve vergi dilimleri çalışanların reel kaybını artırıyor.
-- CHP, asgari ücret ve emekli maaşı için Meclis’te nöbet başlatacak.
-- BES devlet katkısı düşürüldü, tamamlayıcı emeklilik sistemi tartışılıyor.
-- İran protestoları örneği, ekonomik sıkıntıların siyaseti değiştirebileceğini gösteriyor.
+- En düşük emekli maaşı için 20.000 TL teklifi hazırlandı.
+- Teklif TBMM’ye sunuldu, AK Parti ve MHP oylarıyla geçebilir.
+- Kabul edilirse, Cumhurbaşkanı onayıyla düzenleme yürürlüğe girecek hemen.
+- Yaklaşık 4,9 milyon emekli düzenlemeden doğrudan etkilenecek.
+- Cumhurbaşkanı Erdoğan direktifiyle 20.000 TL seviyesi kamuoyuna açıklandı.
+- CHP ve emekli dernekleri 39.000 TL talep ederek tepki gösteriyor.
+- Meclis’te uzun oturumlar nedeniyle oylama ve gündem tartışmaları yaşandı.
+- Teklifin yetersiz olduğuna dair parti içinde itirazlar da dile getirildi.
+- Maliye ve Çalışma Bakanlıklarıyla görüşmeler yapıldığı özellikle vurgulandı.
+- Erdoğan grup konuşmasında asgari ücret ve emeklileri anmadı eleştirildi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=7OK9KuJqlXQ&t=75s) (⏱️ 01:15-22:00)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=vqn9S6C5Orw&t=1181s) (⏱️ 19:41-20:10)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=VCC-nsvA0yY&t=2171s) (⏱️ 36:11-41:21)
-- [Inan Demirel](https://www.youtube.com/watch?v=_EC5pm9176g&t=520s) (⏱️ 08:40-11:35)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=yVCdNcXwVt4&t=1800s) (⏱️ 30:00-33:00)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=NK7y-OnjcRg&t=2870s) (⏱️ 47:50-58:00)
+- [Unsal Unlu](https://www.youtube.com/watch?v=e_hUB37mQ8I&t=733s) (⏱️ 12:13-12:37)
+- [Murat Yetkin](https://www.youtube.com/watch?v=6nsgkK-30ZM&t=46s) (⏱️ 00:46-03:04)
 
 ---
 
-## 3. Mecliste vekil transferleri hızlandı
+## 3. Suç Ağları ve Delil Tartışmaları
 
-- AK Parti’ye üç milletvekili daha katıldı, transferler yeniden gündemde.
-- AK Parti’ye geçen isimler Şahin, Karatutlu ve Çakır olarak açıklandı.
-- Bu katılımlarla AK Parti’nin Meclis’teki sandalye sayısı 275’e yükseldi.
-- Seçimden bu yana AK Parti’ye toplam 14 milletvekili geçti.
-- Hedefin anayasa değişikliği veya erken seçim için 360 sayısı olduğu konuşuluyor.
-- Mevcut aritmetik, 360-400 eşiğine tek başına ulaşmaya yetmiyor.
-- Kulislerde AK Parti ile temaslı 10-15 milletvekili iddiası dolaşıyor.
-- Süreçte MHP ve Devlet Bahçeli’nin tavrının belirleyici olacağı belirtiliyor.
-- CHP’de Hasan Ufuk Çakır transferi sonrası öz eleştiri tartışması büyüdü.
-- Saadet Partisi paylaşımı, istifa ve geçişlere sert gönderme yaptı.
+- Türkiye’de dijital delil üretiminde Cellebrite yazılımı yaygın kullanılıyor.
+- Cihazdan veri çekimi için imaj alma ve delil zinciri şart.
+- Güncelleme ve sözleşme yoksa delillerin güvenilirliği tartışmalı hale geliyor.
+- Yabancı mahkemelerde yazılım açıkları nedeniyle delillere itiraz örnekleri var.
+- Yargıtay ve CMK, usule uygun dijital delil toplamayı zorunlu kılıyor.
+- Yasa dışı bahis pazarı büyüyor, milyarlarca lira akışı iddia ediliyor.
+- Şebekeler baron, finans, pazarlama ve çağrı merkeziyle örgütleniyor.
+- Para aklama hesap kiralama, şirketler, emlak ve dövizle yapılıyor.
+- Ödeme altyapıları ve aracı şirketlerle ilgili soruşturmalar gündemde.
+- 2025 narkotik raporu, üretim artışı ve liman kaçakçılığını gösteriyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=8Z41r4l-YB8) (⏱️ 00:00-11:37)
-- [Unsal Unlu](https://www.youtube.com/watch?v=LgM202ruy9Q&t=125s) (⏱️ 02:05-08:29)
-- [Inan Demirel](https://www.youtube.com/watch?v=_EC5pm9176g&t=695s) (⏱️ 11:35-14:10)
-- [Rusen Cakir](https://www.youtube.com/watch?v=bDZvtCsQjUI&t=3s) (⏱️ 00:03-14:08)
-- [Hilal Koylu](https://www.youtube.com/watch?v=pbY4Lg7PbN4&t=594s) (⏱️ 09:54-26:00)
+- [Serdar Akinan](https://www.youtube.com/watch?v=NMcTSqrOMTo&t=260s) (⏱️ 04:20-21:10)
+- [Onlar TV](https://www.youtube.com/watch?v=khKko2Rc9go&t=175s) (⏱️ 02:55-59:16)
 
 ---
 
-## 4. Uyuşturucu Soruşturması Medyaya ve Ünlülere Uzandı
+## 4. İstanbul’da Şiddetli Fırtına Etkisi
 
-- Medyada ünlülerin uyuşturucu test sonuçları yeniden geniş yankı buldu.
-- Bazı ünlülerin testlerinin pozitif çıktığı iddiası kamuoyunda tartışıldı.
-- Sokakta madde kullanan gençlerin görüntüleri yayılıp tepki topladı.
-- Uzmanlar uyuşturucuya erişimin kolaylaştığını ve baronları işaret etti.
-- Soruşturmada 26 kişinin ifadesi alındı, süreç genişletildi.
-- Mahkeme 19 kişi için tutuklama kararı verdi, 7 kişi serbest.
-- Bebek Otel sahibi Muzaffer Yıldırım ve müdürü tutuklandı.
-- Fenomen Burak Altındağ ve Ceyda Ersoy da tutuklananlar arasında.
-- Habertürk bağlantılı iddialarda etkin pişmanlık ifadeleri dosyaya girdi.
-- Nişantaşı’nda çete iddiaları ve gençlerin suça itilmesi vurgulandı.
+- İstanbul genelinde şiddetli fırtına ve kuvvetli rüzgar etkili oldu.
+- Mecidiyeköy’de tehlikeli anlar yaşandı, sokaktakilere uyarılar yapıldı.
+- Sabiha Gökçen çevresinde pistte ve sahilde etkileyici görüntüler oluştu.
+- Denizde dalgalar kabardı, karada eşyalar rüzgârla savruldu.
+- Bazı görüntülerde vinç devrilmesi ve zor anlar kaydedildi.
+- İzleyici bildirimleri fırtınanın geniş bölgeleri etkilediğini gösterdi.
+- Meteorolog Bünyamin Sürmeli fırtınanın nedenlerini kamuoyuna açıkladı.
+- Alçak basınç ile lodos birleşince rüzgâr 88–90 km/s ulaştı.
+- Basınç denizi yükseltti, çatılar uçtu ve hasar oluştu.
+- Fırtına sonrası soğuk dalga bekleniyor, sıcaklık 6°C düşecek.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Nevsin Mengu](https://www.youtube.com/watch?v=yVCdNcXwVt4&t=1600s) (⏱️ 26:40-30:00)
-- [Inan Demirel](https://www.youtube.com/watch?v=_EC5pm9176g&t=940s) (⏱️ 15:40-16:50)
-- [Hilal Koylu](https://www.youtube.com/watch?v=pbY4Lg7PbN4&t=62s) (⏱️ 01:02-09:51)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=VCC-nsvA0yY&t=1870s) (⏱️ 31:10-36:11)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=O5enn_pRzy8&t=94s) (⏱️ 01:34-03:22)
+- [Serdar Akinan](https://www.youtube.com/watch?v=NMcTSqrOMTo&t=1414s) (⏱️ 23:34-24:00)
 
 ---
 
-## 5. Yerel Yönetimlerde Tartışma ve Su Krizi
+## 5. Siyasette Etik ve Temsil Tartışmaları
 
-- Sosyal medyada Bolu ve Maltepe meclis görüntüleri tartışma yarattı.
-- Bolu Belediye Meclisi’nde MHP’li üyenin sözleri tepki çekti.
-- Maltepe’de konuşmacının kaba ve bilgisiz ifadeleri eleştirildi.
-- Tartışmalar parti kimliğinden çok nezaket ve insanlık üzerinden yürüdü.
-- Ankara’da haftalardır su kesintileri yaşanıyor ve şikayetler artıyor.
-- Cumhurbaşkanı Erdoğan, kesintiler üzerinden Mansur Yavaş’ı hedef aldı.
-- Ankara Büyükşehir Belediyesi, uzun açıklamayla kuraklık ve altyapıyı gerekçe gösterdi.
-- Belediye, eski borular ve geciken yenilemelerin sorunu büyüttüğünü belirtti.
-- Gerede tünelinden gelen su miktarında ciddi azalma rapor edildi.
-- ASKİ, tasarruf için tarife, sulama kısıtı ve pompa sistemleri planladı.
+- TBMM’de milletvekili geçişleri yeniden gündemin merkezine oturdu.
+- Ahmet Akın’ın AK Parti’ye geçeceği iddialarını kendisi yalanladı.
+- Sık parti değişimleri tabanda güven ve moral kaybı yaratıyor.
+- Bu geçişlerin seçmen iradesine ve sandık güvenine zarar verebileceği konuşuluyor.
+- Siyasi etik için istifa edip yeniden adaylık önerisi yeniden tartışıldı.
+- Türkiye siyasetinde yeni bir denge oluştuğu ve bunun test edildiği söylendi.
+- AK Parti grup toplantısındaki bazı görüntüler kamuoyunda tepki topladı.
+- Görüntülerde asker selamı ve uygunsuz yakın davranışlar tartışıldı.
+- Parti içinden ve muhalefetten onur, temsil eleştirileri yükseldi.
+- AK Parti grup yönetiminin tepkisi ve tutumu da ayrıca değerlendirildi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilal Koylu](https://www.youtube.com/watch?v=pbY4Lg7PbN4&t=1821s) (⏱️ 30:21-39:51)
-- [Unsal Unlu](https://www.youtube.com/watch?v=7OK9KuJqlXQ&t=218s) (⏱️ 03:38-05:39)
-- [Inan Demirel](https://www.youtube.com/watch?v=_EC5pm9176g&t=1010s) (⏱️ 16:50-20:08)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=NK7y-OnjcRg&t=3480s) (⏱️ 58:00-61:27)
+- [Unsal Unlu](https://www.youtube.com/watch?v=e_hUB37mQ8I&t=275s) (⏱️ 04:35-16:44)
 
 ---
 
-## 6. Minnesota’da ICE Operasyonunda Ölüm Tartışması
+## 6. ABD’de Gerilim ve Trump Baskısı
 
-- ABD’de yayılan videoda araçtaki bir kadın vurularak öldürüldü.
-- Saldırgan grup kendini kurtarma grubu diye tanımladı, tepki çekti.
-- Olay Minneapolis ve Minnesota’da göçmen polisi ICE operasyonlarıyla ilişkilendirildi.
-- Ölen kişinin Rene Nicole Good, 37 yaşında anne olduğu bildirildi.
-- Görüntülerde tartışma, kısa arbede, çığlıklar ve itişmeler görülüyor.
-- Yetkililer saldırıyı şiddet yanlısı isyancı saldırısı olarak niteledi.
-- Olay George Floyd’un öldürüldüğü yere yaklaşık 800 metre uzaklıkta.
-- Vurulan bir ICE görevlisinin hastaneye kaldırıldığı, durumunun incelendiği açıklandı.
-- Sunucular, ABD Başkanı’nın eylemi savunduğu iddiasını sert eleştirdi.
-- Görüntüler yeni protesto ve siyasi tartışmaları tetikledi, soruşturma sürüyor.
+- ABD’de toplumsal gerilim yeniden yükseldi, özellikle Minnesota öne çıktı.
+- George Floyd’un öldürüldüğü yere yakın bölgede yeni bir ölüm konuşuluyor.
+- Görüntülerde bir kadının aracındayken yetkililerce vurulduğu iddia edildi.
+- Olay, insan onuruna aykırı bulunarak sert biçimde eleştirildi.
+- İddiaya göre ABD Başkanı, videodaki müdahaleyi savunarak tartışmayı büyüttü.
+- Minnesota Valisi’nin ordu çağırma tehdidi, gerilimin seviyesini gösterdi.
+- New York Times analizine göre Trump’ın iç politikadaki gücü zayıflıyor.
+- Yargı, Kongre ve Federal Reserve, Trump’ın hamlelerini sınırlıyor.
+- Trump’ın öngörülemez ve kışkırtıcı tavrı, krizleri derinleştiriyor.
+- Yorumcular, şiddet görüntülerinin iktidarı sürdürme stratejileriyle bağını tartıştı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=LgM202ruy9Q&t=675s) (⏱️ 11:15-11:56)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=vqn9S6C5Orw&t=18s) (⏱️ 00:18-10:18)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=yVCdNcXwVt4&t=960s) (⏱️ 16:00-26:40)
+- [Serdar Akinan](https://www.youtube.com/watch?v=NMcTSqrOMTo&t=1685s) (⏱️ 28:05-32:30)
+- [Unsal Unlu](https://www.youtube.com/watch?v=e_hUB37mQ8I&t=676s) (⏱️ 11:16-11:47)
 
 ---
 
-## 7. ABD ve Avrupa İlişkilerinde Yeni Gerilimler
+## 7. Tayfun Kahraman'ın Sağlık ve Tahliye Tartışması
 
-- ABD’de Grönland’a askeri müdahale seçeneği konuşulduğu öne sürüldü.
-- Raporda Rus gemisine ABD helikopterleri ve özel kuvvetleri indiği iddia edildi.
-- Bu iddiaların bağımsız kaynaklarla doğrulanması gerektiği özellikle vurgulandı.
-- ABD dış politikada ittifaklardan uzaklaşma eğilimi gösteriyor değerlendirmesi yapıldı.
-- Trump yönetiminin NATO ve Avrupa’ya daha mesafeli yaklaştığı aktarıldı.
-- Bu yaklaşımın AB-ABD ilişkilerinde yeni dengeler arayışını hızlandırdığı belirtildi.
-- Avrupa ülkelerinin jeostratejik konumlarını yeniden belirleme ihtiyacı arttı.
-- Tarihsel örneklerle ABD’nin daha izoleci politikalara kayabileceği söylendi.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Serdar Akinan](https://www.youtube.com/watch?v=IdyFEcYj7Mo&t=1711s) (⏱️ 28:31-28:47)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=yVCdNcXwVt4&t=3138s) (⏱️ 52:18-55:40)
-
----
-
-## 8. Kahraman ve Demirtaş dosyalarında tartışma
-
-- Tayfun Kahraman’ın dosyası, adli yetki karmaşasını yeniden gündeme taşıdı.
-- MS hastası olduğu belirtilen Kahraman, Cerrahpaşa Tıp Fakültesi’ne kaldırıldı.
-- Adalet Bakanı, nihai kararın Adli Tıp Kurumu’nda olduğunu söyledi.
-- Yorumcular, Anayasa Mahkemesi kararlarının bağlayıcılığına dikkat çekti.
-- Bu nedenle uygulamada sorun ve kurumlar arası yetki tartışması sürüyor.
-- Kamuoyunda, hukuki süreçlerin işleyişi ve sorumluluklar tartışılıyor.
-- Öte yandan Selahattin Demirtaş için konuşulan tahliye beklentisi gerçekleşmedi.
-- Demirtaş’a cumhurbaşkanına hakaretten 1 yıl 5 ay verildi.
-- Erdoğan’ın avukatı, farklı konuşmalara ayrı cezalar istediği belirtildi.
-- Kabul edilseydi toplam cezanın 11 yıl 8 aya çıkacağı aktarıldı.
+- Tayfun Kahraman, Gezi davası kapsamında cezaevinde tutuluyor.
+- Kahraman’ın MS hastası olduğu ve kriz geçirdiği açıklandı.
+- Tedavisinin Cerrahpaşa Tıp Fakültesi’nde sürdüğü bilgisi paylaşıldı.
+- AKP grup toplantısı öncesi sağlık durumu yeniden gündeme geldi.
+- Adalet Bakanı, nihai kararın Adli Tıp’tan çıkacağını söyledi.
+- Yorumcular, Anayasa Mahkemesi kararlarının bağlayıcılığını hatırlattı.
+- Yerel mahkemelerle kurumlar arasında yetki ve uygulama uyuşmazlığı tartışıldı.
+- Anayasa Mahkemesi kararına rağmen tahliye yapılmadığı iddia edildi.
+- Programlarda, ifade özgürlüğü nedeniyle tutuklu gazeteciler gündeme taşındı.
+- Kamuoyundan Kahraman’ın serbest bırakılması ve sağlık hakkına saygı istendi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=LgM202ruy9Q&t=818s) (⏱️ 13:38-15:05)
-- [Inan Demirel](https://www.youtube.com/watch?v=_EC5pm9176g&t=384s) (⏱️ 06:24-08:40)
-
----
-
-## 9. İstanbul’da Lodos Fırtınası Hasar Yarattı
-
-- İstanbul’da şiddetli lodos fırtınası etkili oldu, hasar oluştu.
-- Rüzgar hızları yer yer 88-90 kilometreye kadar yükseldi.
-- Uçan çatılar ve kırılan tekneler hasarın boyutunu gösterdi.
-- Deniz kıyısında taşkınlar görülerek bazı bölgeler su bastı.
-- Görüntülerde özellikle Tuzla’daki teknelerin kırıldığı aktarıldı.
-- Yetkililer ve yayınlar, gün boyu riskli hava koşullarına dikkat çekti.
-- Cumartesi yeniden lodos bekleniyor, ardından sert soğuk geliyor.
-- Soğuk hava dalgasıyla birlikte İstanbul’da kar ihtimali konuşuluyor.
-- Meteorolog Bünyamin Sürmeli, ani hava dalgalarını iklime bağladı.
-- Akdeniz havzasının iklim değişikliğinden güçlü biçimde etkilendiği vurgulandı.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Ozlem Gurses](https://www.youtube.com/watch?v=VCC-nsvA0yY&t=2481s) (⏱️ 41:21-62:03)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=yVCdNcXwVt4) (⏱️ 00:00-00:30)
-
----
-
-## 10. Trump’la İlgili Video ve İddia
-
-- BBC Farsça, Trump’ı taklit eden bir video yayımladı ve öne çıkardı.
-- Taklit performansı ve Türkçe tercümesi, izleyiciler arasında hızla paylaşıldı.
-- Videodaki konuşma üslubu ve çeviri, izleyicilerde güçlü etki yarattı.
-- Trump hakkında sosyal medyada içerikler çoğalırken yeni bir iddia gündeme geldi.
-- Bir kadın, Donald Trump’ın kızı olduğunu kamuoyuna açıkladı.
-- Kadın, iddiasını kanıtlamak için DNA testi yapılmasını talep ediyor.
-- İddia, kısa sürede medyada geniş yer buldu ve tartışıldı.
-- Kamuoyunda, iddianın doğruluğu ve olası sonuçları konuşuluyor.
-- Trump’la ilgili gelişmeler, hem eğlence hem siyaset gündemine taşındı.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Bahar Feyzan](https://www.youtube.com/watch?v=vqn9S6C5Orw&t=1213s) (⏱️ 20:13-20:46)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=yVCdNcXwVt4&t=30s) (⏱️ 00:30-01:45)
+- [Unsal Unlu](https://www.youtube.com/watch?v=e_hUB37mQ8I&t=817s) (⏱️ 13:37-14:56)
+- [Onlar TV](https://www.youtube.com/watch?v=khKko2Rc9go&t=3794s) (⏱️ 63:14-65:25)
 
 ---
 
