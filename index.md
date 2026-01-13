@@ -1,188 +1,167 @@
 # Bugün Ne Oldu?
 
-*12 January 2026 tarihli günlük haber raporu - 9 haber birleştirildi*
+*13 January 2026 tarihli günlük haber raporu - 8 haber birleştirildi*
 
-## 1. Geçim Krizi ve Enflasyon Tartışması
+## 1. Bebek Operasyonları ve Ünlüler Tartışması
 
-- Türkiye’de gıda ve enerji fiyatları hızla artmaya devam ediyor.
-- Dünyada gıda fiyatları düşerken Türkiye’de artış eleştiriliyor.
-- Et tüketimi Avrupa’ya göre düşük, et fiyatları hızla yükseliyor.
-- Benzin fiyatlarındaki sıçrama, geçim baskısını daha da artırıyor.
-- Sıkı para politikası ve talep baskılama, üretimi zorluyor eleştirisi var.
-- TÜK verileriyle enflasyon hesaplarında tutarsızlık iddiaları gündemde.
-- Telefon ve internet kalemleri artarken endeks düşüyor eleştiriliyor.
-- 2026 asgari ücret 28.075 TL, açlık sınırı altında kaldı.
-- Emeklilerin çoğu asgari ücretin altında maaş alıyor.
-- Zam şikayetleri zengin kesime de yayılırken siyaset tepki topluyor.
+- İstanbul merkezli uyuşturucu soruşturması Bebek hattında operasyonlarla büyüdü.
+- 28 Aralık’ta Bebek’te otel baskını yapıldı, görüntüler internete sızdı.
+- Aynı dönemde 34 mekâna baskınlar düzenlendi, ek gözaltılar geldi.
+- Otel sahibi ve işletme müdürü tutuklandı, dosyada fuhuş iddiaları var.
+- 9 Ocak’ta Bebek’te dokuz mekâna daha baskın düzenlendi.
+- Can Yaman iki kez arandı, karakolda gece geçirdi.
+- Sorguda sosyal medya ve gelir soruldu, telefonuna el konuldu.
+- Polis tutanağı uyuşturucu bulunmadığını yazdı, haberlerle çelişti.
+- Savcılık Can Yaman’ı serbest bıraktı, yurt dışı yasağı koymadı.
+- Beşinci dalgada altı ünlü hakkında gözaltı kararı açıklandı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=yefiQkiQA18&t=270s) (⏱️ 04:30-19:59)
-- [Inan Demirel](https://www.youtube.com/watch?v=pKdxEnDu91s&t=2995s) (⏱️ 49:55-53:49)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=DMCzYLElrvo&t=1401s) (⏱️ 23:21-25:29)
-- [Hilal Koylu](https://www.youtube.com/watch?v=YoHbsQw3fb4&t=390s) (⏱️ 06:30-09:51)
+- [Onlar TV](https://www.youtube.com/watch?v=4tPEti_S2NM) (⏱️ 00:00-02:41)
+- [Inan Demirel](https://www.youtube.com/watch?v=V4GC3R6Vo0A&t=1940s) (⏱️ 32:20-40:00)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=aCuXF5nZQTM&t=181s) (⏱️ 03:01-13:14)
+- [Hilal Koylu](https://www.youtube.com/watch?v=JRpKfpfKCPs&t=78s) (⏱️ 01:18-12:15)
 
 ---
 
-## 2. Bebek Otel Baskını ve Sızıntı Tartışması
+## 2. İran Protestoları ve Bölgesel Riskler
 
-- Bebek Otel’e cuma gecesi jandarma 200 kişiyle baskın düzenledi.
-- Operasyonda işletme sahibi gözaltına alındı, ifadeler soruşturmaya girdi.
-- Otel daha önce narkotik kontrolü gördü, sahibi geçmişte tutuklandı.
-- Aramalarda otelde gizli bir oda bulunduğu ve kritik olduğu belirtildi.
-- Genel müdür ifadesinde uyuşturucu ve kalıntılar ele geçirildiğini söyledi.
-- Kamera kayıtları bazı tanınmış isimlerin çıkışını gösterdi, iddia edildi.
-- Ali Koç, Demirören, Özdemir ve Buruk’un otelde olduğu öne sürüldü.
-- Görüntü ve ifade sızıntıları gizlilik ihlali ve itibar infazı tartıştırdı.
-- Can Yaman gözaltına alındı, iki aramada madde bulunmadı.
-- Yaman test sonrası serbest kaldı, İtalya’ya döndü, dedi.
+- İran genelinde protestolar sürerken internet kesintileri bilgi akışını zorlaştırıyor.
+- Doğrulama güçleşirken şiddet olayları ve infaz iddiaları gündemde kalıyor.
+- Muhalif kaynaklar ölü sayısını yüzlerden binlere değişen aralıkta veriyor.
+- Bir doktor videosu kamyonlara yüklenen cenazeleri gösterdiğini öne sürüyor.
+- Uzmanlar bazı şiddet eylemlerinde devlet destekli aktör ihtimalini tartışıyor.
+- İran yönetiminin protestocuları kriminalize edip sert müdahaleye yöneldiği belirtiliyor.
+- ABD ve İsrail müdahalesi ihtimali, Rusya ve Çin etkisiyle tartışılıyor.
+- Avrupa Parlamentosu bazı İranlı diplomatlara giriş izni vermedi.
+- Macron ölümlere tepki gösterip İran’a öldürmeme çağrısı yaptı.
+- Türkiye’de Bahçeli, İran’ın bütünlüğü korunmalı diyerek dış müdahaleye karşı uyardı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=AZd1Xiz234c&t=26s) (⏱️ 00:26-00:43)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=DMCzYLElrvo&t=56s) (⏱️ 00:56-23:20)
-- [Inan Demirel](https://www.youtube.com/watch?v=pKdxEnDu91s&t=1860s) (⏱️ 31:00-40:30)
+- [Hilal Koylu](https://www.youtube.com/watch?v=JRpKfpfKCPs&t=966s) (⏱️ 16:06-32:46)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=aCuXF5nZQTM&t=2848s) (⏱️ 47:28-51:16)
+- [Murat Yetkin](https://www.youtube.com/watch?v=pShU8MBBcvk&t=162s) (⏱️ 02:42-17:19)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=V_9xV2gMNxw&t=228s) (⏱️ 03:48-09:11)
 
 ---
 
-## 3. İran’da Protestolar ve Ekonomik Çöküş
+## 3. Halep Gündemi Bahçeli-DEM Gerilimini Büyüttü
 
-- İran’da 27-28 Aralık’tan beri sokak protestoları devam ediyor.
-- Eylemlerin ana nedeni ağır ekonomik kriz ve geniş memnuniyetsizlik.
-- Riyal bir yılda dolara karşı yaklaşık yüzde 80 düştü.
-- Temel gıda enflasyonu yüzde 70’i aştı, elektrik kesintileri yaşanıyor.
-- Kadınlar protestolarda öne çıkıyor, Mahsa Amini vakası hatırlatılıyor.
-- İran genelinde yayılıyor, merkezlerde katılım düşük kalıyor.
-- Birleşik muhalif liderlik yok; çarşı hareketleri kritik görülüyor.
-- Devlet sert baskı uyguluyor; 500’den fazla ölüm iddiası var.
-- Yönetim idam tehdidi savuruyor, gösterileri terör ve isyan sayıyor.
-- İnternet kesiliyor; ABD-İsrail suçlamaları ve Trump görüşme iddiaları var.
+- Halep merkezindeki çatışmaların bittiği iddia edildi, sahada belirsizlik sürüyor.
+- Suriye’nin diğer bölgelerinde güvenlik güçleri ile SDG çatışmaları devam ediyor.
+- TBMM’de Halep ve Suriye politikası üzerine sert tartışmalar yaşandı.
+- Bahçeli grup toplantısında SDG lideri Mazlum Abdi’yi hedef aldı.
+- Abdi’yi İsrail’in kuklası ve PKK’ya sadakatsiz olmakla suçladı.
+- Bahçeli, Öcalan’ı sürecin kurucu önderi sayarak Abdi’den ayırdı.
+- Bahçeli, Trump’ın SDG’yi ayaküstü sattığını söyleyerek eleştirdi.
+- DEM Parti, Mazlum Abdi’nin Türkiye’ye gelip yetkililerle görüşmesini önerdi.
+- AK Parti’den Ömer Çelik, 10 Mart anlaşmasının kabulünü savundu.
+- Kayyum tartışmaları sürerken MHP, belediye meclisi formülünü öne çıkardı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Inan Demirel](https://www.youtube.com/watch?v=pKdxEnDu91s&t=730s) (⏱️ 12:10-15:00)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=AZd1Xiz234c&t=120s) (⏱️ 02:00-23:15)
-- [Rusen Cakir](https://www.youtube.com/watch?v=ciP-HFWAhoc&t=197s) (⏱️ 03:17-19:52)
+- [Inan Demirel](https://www.youtube.com/watch?v=V4GC3R6Vo0A&t=880s) (⏱️ 14:40-26:00)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=aCuXF5nZQTM&t=2205s) (⏱️ 36:45-47:28)
+- [Murat Yetkin](https://www.youtube.com/watch?v=pShU8MBBcvk&t=4s) (⏱️ 00:04-02:36)
 
 ---
 
-## 4. AKP’de Tartışmalar ve Emekli Gündemi
+## 4. Siyasette çağrılar, tartışmalar ve umutsuzluk
 
-- Mersin’de CHP’den AKP’ye geçen Hasan Ufuk Çakır tartışma yarattı.
-- Çakır, AK Parti toplantısında Erdoğan’a selam vererek konuştu.
-- Sunucu, bu geçişi siyasi çıkar ve fırıldaklık olarak yorumladı.
-- Konuşma, Çakır’ın CHP listelerine nasıl girdiği tartışmasını yeniden gündeme taşıdı.
-- Meclis’te CHP milletvekilleri emekli maaşı görüşmeleri için nöbet tutuyor.
-- Görüşmelerde emekli maaşı rakamı ve zam beklentisi öne çıkıyor.
-- AKP grup başkanvekili, nöbet tutanlara “sersem” göndermesi yaptı.
-- Bu sözler tepki çekti, sunucu emeklilerin zor durumunu vurguladı.
-- Diğer yandan Bilal Erdoğan’ın “dindar insan iyidir” çıkışı konuşuluyor.
-- Yorumcular, muhafazakâr çevrede öz eleştiri ve güven arayışını aktardı.
+- Erdoğan yeniden üç çocuk çağrısı yaparak nüfus artışını teşvik etti.
+- İktidar kulislerinde geçim sıkıntısı nedeniyle çağrı eleştirildi, tepkiler yükseldi.
+- 2025'in aile yılı ilanı, kadın ölümleriyle yan yana eleştirildi.
+- İktidarın halkla temas hamleleri kulislerde endişe konusu oldu.
+- İmamoğlu kapsamlı röportajında cumhurbaşkanlığı tartışmasını bitirmek istediğini söyledi.
+- İmamoğlu, aday olamazsa seçim meşruiyeti zarar görür dedi.
+- CHP içinde liderlik ve adaylık tartışmalarında Özel ve Yavaş anıldı.
+- Bilal Erdoğan'ın dindar insan iyidir sözü liyakat tartışması doğurdu.
+- Toplumdaki karamsarlık pandemi benzetmesiyle anlatıldı, sosyal medya etkili denildi.
+- Gençlerin umutsuzluğu, eğitim sorunları ve yurt dışı planları vurgulandı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Inan Demirel](https://www.youtube.com/watch?v=pKdxEnDu91s&t=190s) (⏱️ 03:10-05:30)
-- [Unsal Unlu](https://www.youtube.com/watch?v=yefiQkiQA18&t=1200s) (⏱️ 20:00-20:52)
+- [Hilal Koylu](https://www.youtube.com/watch?v=JRpKfpfKCPs&t=767s) (⏱️ 12:47-16:06)
+- [Unsal Unlu](https://www.youtube.com/watch?v=WSRGfRySuPo&t=236s) (⏱️ 03:56-06:49)
 
 ---
 
-## 5. Halep’te SDG çekildi, tartışmalar büyüdü
+## 5. Çalık’ın Ameliyatı ve Özkan Yazıları
 
-- Halep’te çatışmaların şimdilik durduğu ve büyük kayıp olmadığı bildirildi.
-- Şeyh Maksut ve Eşrefiye’de SDG/YPG varlığının bittiği aktarıldı.
-- Bölgede iki mahallenin denetiminin Şam yönetimine geçtiği belirtildi.
-- SDG’nin bir anlaşmayı kabul edip güçlerini çektiği iddia edildi.
-- Bazı kaynaklar Şam ile SDG entegrasyonuna çok yaklaşıldığını yazdı.
-- SDG’li Sipan Hemo, bir yetkilinin anlaşmayı ertelediğini söyledi.
-- Güvenlik kaynakları Kandil’in SDG’ye kalıp savaş talimatı verdiğini öne sürdü.
-- MİT’in Mazlum Abdi ve İlham Ahmed’le temas kurduğu iddiası paylaşıldı.
-- Türkiye’de Halep eleştirileri sonrası bazı AK Parti kökenliler hedef gösterildi.
-- Çözüm için tarafların kaygıları gözetilmeli, Türkiye etkilenir değerlendirmesi yapıldı.
+- Necati Özkan, Hakikat Mektupları başlığıyla yazı dizisine başladı.
+- Özkan, tutuklu bulunduğu davaların belgelerini okuduğunu belirtti.
+- İddianame ve ek klasörleri incelediğini, delil eksikliği iddia etti.
+- Okuduklarını kamuoyuna anlaşılır biçimde aktaracağını söyledi.
+- Beylikdüzü Belediye Başkanı Murat Çalık riskli bir ameliyat geçirdi.
+- Ameliyatın başarılı geçtiği ve durumunun iyi olduğu bildirildi.
+- Ailesiyle kısa bir röportaj yapılarak sağlık bilgisi paylaşıldı.
+- Mahkeme ve cezaevi süreçleriyle sağlığın çakışmasına dikkat çekildi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Inan Demirel](https://www.youtube.com/watch?v=pKdxEnDu91s&t=900s) (⏱️ 15:00-23:30)
-- [Rusen Cakir](https://www.youtube.com/watch?v=ciP-HFWAhoc&t=1940s) (⏱️ 32:20-49:04)
+- [Inan Demirel](https://www.youtube.com/watch?v=V4GC3R6Vo0A&t=2890s) (⏱️ 48:10-50:58)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=aCuXF5nZQTM&t=2070s) (⏱️ 34:30-36:45)
 
 ---
 
-## 6. İmamoğlu’nun Röportajı ve Diploma Davası
+## 6. Emekli Maaşı Artışı Meclis Gündeminde
 
-- Ekrem İmamoğlu, Cansu Çamlıbel’e kapsamlı bir röportaj verdi.
-- İmamoğlu’nun üniversite diplomasının iptali davası 15 Ocak’ta görülecek.
-- Sürecin idare mahkemesinde yürüdüğü ve hukuki gündem oluşturduğu belirtildi.
-- İmamoğlu, diploma davasına rağmen adaylığının sürdüğünü vurguladı.
-- AB üyeliğini ve demokrasinin korunmasını temel hedef olarak anlattı.
-- Değerler siyaseti kurma ihtiyacını ve yeni bir çizgiyi savundu.
-- Kürt meselesinde çözüm gerektiğini, siyasi iradenin önemini söyledi.
-- ABD ve Trump dönemiyle ilişkilere dair değerlendirmelerini paylaştı.
-- NATO’nun Türkiye için önemini ve güvenlik boyutunu vurguladı.
-- Aday olamazsa alternatif adaylar olacağını, meşruiyet tartışılacağını söyledi.
+- Meclis’te en düşük emekli maaşı artışı gündeme geldi.
+- AKP-MHP teklifi maaşı 18.900’den 20.020 liraya çıkarıyor.
+- CHP, en düşük maaşa seyyanen zamla 20 bin hedefliyor.
+- Yasal düzenleme 15 Ocak’ta Plan ve Bütçe’de ele alınacak.
+- CHP milletvekilleri Meclis’te nöbet tutarak baskı kuruyor.
+- Görüşmelerin Perşembe günü Genel Kurul’da yapılması bekleniyor.
+- Oturumda sert tartışmalar ve gerginlik yaşanacağı öngörülüyor.
+- Gerginlik nedeniyle oturumun canlı yayınlanabileceği konuşuluyor.
+- Kaynak tartışması sürüyor; Özel şirketlerden vergi alınmasını öneriyor.
+- Konuşmacılar, kararın uygulanması için somut adımlar atılmasını vurguluyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=AZd1Xiz234c&t=46s) (⏱️ 00:46-01:08)
-- [Inan Demirel](https://www.youtube.com/watch?v=pKdxEnDu91s&t=330s) (⏱️ 05:30-12:10)
+- [Inan Demirel](https://www.youtube.com/watch?v=V4GC3R6Vo0A&t=87s) (⏱️ 01:27-14:40)
+- [Unsal Unlu](https://www.youtube.com/watch?v=WSRGfRySuPo&t=1060s) (⏱️ 17:40-18:32)
 
 ---
 
-## 7. Gündemde özür ve karar krizi
+## 7. Leyla Şahin Usta sözleri tartışma yarattı
 
-- Kadri Gürser, Mediaskop yazısında dalgınlıkla yaptığı hatayı anlattı.
-- Gürser, mağdur avukat Baver Karakuş’tan kamuoyuna açık özür diledi.
-- Olayın medyada ve televizyonlarda hızla yayıldığı belirtildi.
-- Tartışmada kişisel hata ve oluşan mağduriyetin altı çizildi.
-- Diğer gündemde Tayfun Kahraman’ın hastaneye kaldırıldığı bildirildi.
-- Eşi Meriç Kahraman’ın MS hastası olduğu ve atak geçirdiği aktarıldı.
-- Anayasa Mahkemesi kararının hâlâ uygulanmadığına dikkat çekildi.
-- Uygulama için adli tıp onayı beklendiği bilgisi paylaşıldı.
-- Sunucu, hastane personeline teşekkür ederken yetkilileri eleştirdi.
-- İki olayda da kamuoyu tepkisi ve insanî boyut öne çıktı.
+- AK Parti vekili Leyla Şahin Usta’nın Meclis sözleri tartışma yarattı.
+- Açıklamalarının Alevilere dair değerlendirmeler içerdiği ve tepki çektiği belirtildi.
+- Özgür Özel, Usta’nın görevden alınmasını talep etti kamuoyunda.
+- Gökhan Günaydın, Usta’dan düzeltme ya da açıklama beklediklerini söyledi.
+- Gece Meclis’te emeklilerle ilgili nöbet tutanlara sert ifadeler kullandığı iddia edildi.
+- Tepkiler büyüyünce Usta, Alevi kurumlarını ziyaret etmeye başladı denildi.
+- Bir cemevine gidip fotoğraf çektirmesi yeni tartışmaları tetikledi kamuoyunda.
+- Bazı yorumcular, bu ziyareti imaj düzeltme çabası olarak gördü.
+- Sunucu, davranışı dinî tutarlılıkla çelişen iki yüzlülük diye niteledi.
+- Yapılan çağrılar sonrası Usta’dan özür mesajı beklentisi arttı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=ciP-HFWAhoc&t=33s) (⏱️ 00:33-03:16)
-- [Unsal Unlu](https://www.youtube.com/watch?v=yefiQkiQA18&t=136s) (⏱️ 02:16-04:26)
+- [Inan Demirel](https://www.youtube.com/watch?v=V4GC3R6Vo0A&t=2735s) (⏱️ 45:35-48:10)
+- [Unsal Unlu](https://www.youtube.com/watch?v=WSRGfRySuPo&t=489s) (⏱️ 08:09-12:51)
 
 ---
 
-## 8. Sansür ve Siyasi Baskı Tartışması
+## 8. TÜGVA Futbol Hamlesi Tartışma Yarattı
 
-- Ekol TV’nin Akın Gürlek ziyaret haberlerine mahkeme engeli getirildi.
-- Mahkeme kararıyla haber sayfaları erişime kapatıldı, içerikler kaldırıldı.
-- Ekol TV’nin sosyal medya paylaşımlarının da silindiği bildirildi.
-- Sunucu, haberlerin temizlenmesini sansür ve baskı örneği saydı.
-- Ünsal Ünlü, birçok siyasetçi ve aktivistin susturulduğunu söyledi.
-- Listede Demirtaş, Yüksekdağ, Can Atalay ve Osman Kavala yer aldı.
-- Ekrem İmamoğlu gibi isimlerin de dışlandığı ve hedef alındığı belirtildi.
-- Programda insanlık onuru ve temel haklara sahip çıkma çağrısı yapıldı.
-- Hak ve özgürlükler için birlikte hareket edilmesi gerektiği vurgulandı.
-- Tartışma, medyaya müdahale ve siyasi baskı iddialarını büyüttü.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Inan Demirel](https://www.youtube.com/watch?v=pKdxEnDu91s&t=1410s) (⏱️ 23:30-25:45)
-- [Unsal Unlu](https://www.youtube.com/watch?v=yefiQkiQA18&t=1692s) (⏱️ 28:12-28:39)
-
----
-
-## 9. Grönland’ın Artan Stratejik Önemi
-
-- Trump’ın Grönland’ı satın alma söylemi yeniden uluslararası gündeme geldi.
-- Grönland, Danimarka’ya bağlı özerk bir bölge olarak yönetiliyor.
-- Danimarka, adaya ekonomik katkı sağlıyor ve yetkileri paylaşıyor.
-- Ada, uranyum, nikel, kobalt ve petrol gibi kaynaklar barındırıyor.
-- Küresel ısınma, buzların erimesiyle Arktik’in önemini artırıyor.
-- Yeni ticaret yolları ve kaynaklara erişim olasılığı güçleniyor.
-- ABD, Rusya ve Çin rekabeti Grönland’ı stratejik hedef yapıyor.
-- ABD’nin ilgisi, Çin ve Rusya etkisini dengeleme amacı taşıyor.
-- Truman döneminde de Grönland için benzer satın alma teklifi yapılmıştı.
-- Tartışmaların NATO dengeleri ve 4. madde danışma süreçlerini etkileyebileceği konuşuluyor.
+- Bilal Erdoğan son dönemde etkinliklerle görünürlüğünü artırdı.
+- 1 Ocak’ta Galata Köprüsü mitinginde birçok siyasi isim vardı.
+- TÜGVA’nın kurduğu gençlik ligi ve altyapı turnuvası tanıtıldı.
+- Açılışı Bilal Erdoğan yaptı ve organizasyonun hedefleri anlatıldı.
+- Tanıtımda federasyon başkanı, Montella ve Gençlik Bakanı yer aldı.
+- Paylaşılan fotoğrafta isimlerin Bilal Erdoğan yanında dizildiği görüldü.
+- Eleştirmenler bu tabloyu biat ve iki yüzlülük örneği saydı.
+- Organizasyonun liselere inip gençleri siyasileştireceği iddia edildi.
+- Federasyon Başkanı Hacıosmanoğlu’nun geçmiş tartışmaları yeniden gündeme geldi.
+- Resmi açıklamalar altyapıya katkı ve yetenek keşfini öne çıkardı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=AZd1Xiz234c&t=1437s) (⏱️ 23:57-25:46)
-- [Rusen Cakir](https://www.youtube.com/watch?v=ciP-HFWAhoc&t=1193s) (⏱️ 19:53-32:20)
+- [Inan Demirel](https://www.youtube.com/watch?v=V4GC3R6Vo0A&t=2400s) (⏱️ 40:00-45:35)
+- [Unsal Unlu](https://www.youtube.com/watch?v=WSRGfRySuPo&t=142s) (⏱️ 02:22-12:11)
 
 ---
 
