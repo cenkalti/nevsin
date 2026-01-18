@@ -1,44 +1,44 @@
 # Bugün Ne Oldu?
 
-*17 January 2026 tarihli günlük haber raporu - 2 haber birleştirildi*
+*18 January 2026 tarihli günlük haber raporu - 2 haber birleştirildi*
 
-## 1. Soruşturmalarda Jet, Ünlüler ve Dolandırıcılık
+## 1. Ekonomide Güven Krizi ve Soruşturmalar
 
-- Rabia Karaca ifadesi, jet ve uyuşturucu iddialarını gündeme taşıdı.
-- Milli voleybolcu Derya Çayırgan dosyaya dahil edilerek gözaltına alındı.
-- Gözaltı gerekçesi narkotik değil, İBB soruşturması bağlantısı olarak açıklandı.
-- MASAK raporlarında 2021 sonrası şüpheli hesap girişleri iddia edildi.
-- Savcılık, suçlamayı suçtan kaynaklı malvarlığı aklama olarak değerlendirdi.
-- Çayırgan hakkında elektronik kelepçeli ev hapsi adli kontrolü uygulandı.
-- İddia edilen jetin sahibi Veysel Demirci, tahsis yok dedi.
-- Demirci, jette gizli bölme ve uyuşturucu iddiasını reddetti.
-- Ünlülerde ATK testleri konuşuldu; Kaynarca ve Müftüoğlu negatif çıktı.
-- Dini duygularla dolandırıcılıkta, şeytan çıkarma seanslarıyla para toplandığı belirtildi.
+- Ekonomi politikalarının belirli grupları zengin ettiği iddia edildi.
+- Enflasyonun düşmediği, fiyatların hâlâ yüksek kaldığı belirtildi.
+- CDS primindeki artışın yatırımcı güvenini zayıflattığı anlatıldı.
+- CDS, ülke borcunu ödememe riskine karşı sigorta primi.
+- Şirketlerin sürekli revize edilen kârlılık vaatleri eleştirildi.
+- Bankalar çevresinde operasyon ve soruşturmaların arttığı öne sürüldü.
+- İş Bankası, Şişecam ve Habertürk çevresinde incelemeler konuşuluyor.
+- Bankacılık sisteminin zayıf olduğu, 2000’lere benzer riskler var.
+- Emekli ve asgari ücretlilerin geçim sıkıntısı derinleşti denildi.
+- TRT’nin kamu geliriyle taraflı yayın yaptığı eleştirileri yükseldi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=sUTPJOh85dI&t=72s) (⏱️ 01:12-09:06)
-- [Onlar TV](https://www.youtube.com/watch?v=vwPAlmF7j3k) (⏱️ 00:00-00:57)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=ejgiJGKbLcA&t=170s) (⏱️ 02:50-04:36)
+- [Hilal Koylu](https://www.youtube.com/watch?v=vJ4lJOh64gA&t=388s) (⏱️ 06:28-13:48)
 
 ---
 
-## 2. Suriye’de Güç Dengeleri Yeniden Şekilleniyor
+## 2. Suriye’de güç dengeleri yeniden şekilleniyor
 
-- Ahmet Eşara, Erbil’de Şems TV’ye Arapça röportaj verdi.
-- Röportaj son anda yayınlanmadı, kesitleri Suriye TV yayımladı.
-- Türkmen gazeteci İbrahim Bozan, yayımlanan kesitleri Türkçeye çevirdi.
-- Yorumcular, Eşara’yı cihatçı geçmişten uzak, milliyetçi çizgide gördü.
-- Konuşmalarında din vurgusu zayıf, Suriye ve Arap kimliği öne çıktı.
-- Kürtlere söylemi düşmanca değil, ama itaat ettiren tonda oldu.
-- Rusen Çakır, röportajı yerinde yapamadı, yurt dışı yasağı var.
-- Öte yandan ABD, SDG ile Şam görüşmelerini canlandırmaya çalışıyor.
-- Lindsey Graham, SDG’yi IŞİD’e karşı güçlü müttefik saydı.
-- Tom Barrack’ın Türkiye’deki protokol fotoğrafı oturma düzeni tartışması yarattı.
+- 22 Aralık sonrası Suriye’de sahada gerilim ve çekilmeler arttı.
+- YPG’nin Halep’te bazı mahallelerden çekildiği, çatışmalar yaşandı.
+- Eşrefiye ve Şeyhmaksut’ta yoğun çatışma görüntüleri gündeme geldi.
+- SDG’nin Fırat’ın doğusuna çekilmeye ikna edildiği iddia ediliyor.
+- Şam yönetiminin güç kazandığı, ABD’nin devreye girdiği konuşuluyor.
+- HTŞ’nin koordineli biçimde petrol sahalarını ele geçirdiği bildirildi.
+- 10 Mart mutabakatı tartışmaları, taraflar arasında yeni gerginlik doğurdu.
+- Kürtçe, Nevruz ve vatandaşlık haklarına dair kararlar açıklandı deniyor.
+- Ahmet Eşara’nın dış destekle yükseldiği, içeride rıza aradığı vurgulanıyor.
+- İran’da geniş protestolar, internet kesintileri ve Starlink kullanımı konuşuldu.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=hAz1qJUzKaY&t=4s) (⏱️ 00:04-11:43)
-- [Inan Demirel](https://www.youtube.com/watch?v=iEGvB6R2IVc&t=315s) (⏱️ 05:15-15:21)
+- [Serdar Akinan](https://www.youtube.com/watch?v=Gyud3OtIqs4&t=170s) (⏱️ 02:50-03:59)
+- [Rusen Cakir](https://www.youtube.com/watch?v=redGIQ0lKWk&t=23s) (⏱️ 00:23-14:32)
 
 ---
 
