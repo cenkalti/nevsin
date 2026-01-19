@@ -1,44 +1,89 @@
 # Bugün Ne Oldu?
 
-*18 January 2026 tarihli günlük haber raporu - 2 haber birleştirildi*
+*19 January 2026 tarihli günlük haber raporu - 4 haber birleştirildi*
 
-## 1. Ekonomide Güven Krizi ve Soruşturmalar
+## 1. Şam SDG’yi Fırat’ın Doğusuna İtti
 
-- Ekonomi politikalarının belirli grupları zengin ettiği iddia edildi.
-- Enflasyonun düşmediği, fiyatların hâlâ yüksek kaldığı belirtildi.
-- CDS primindeki artışın yatırımcı güvenini zayıflattığı anlatıldı.
-- CDS, ülke borcunu ödememe riskine karşı sigorta primi.
-- Şirketlerin sürekli revize edilen kârlılık vaatleri eleştirildi.
-- Bankalar çevresinde operasyon ve soruşturmaların arttığı öne sürüldü.
-- İş Bankası, Şişecam ve Habertürk çevresinde incelemeler konuşuluyor.
-- Bankacılık sisteminin zayıf olduğu, 2000’lere benzer riskler var.
-- Emekli ve asgari ücretlilerin geçim sıkıntısı derinleşti denildi.
-- TRT’nin kamu geliriyle taraflı yayın yaptığı eleştirileri yükseldi.
+- Suriye ordusu, Halep sonrası Fırat’ın doğusuna hızla ilerledi.
+- SDG, Rakka ve Deyrizor gibi Arap bölgelerinden çekildi.
+- Çekilme çoğu yerde çatışmasız oldu, bilgi kirliliği sürdü.
+- Arap aşiretlerinin saf değiştirmesi SDG’nin pazarlığını zayıflattı.
+- ABD desteğinin gerilemesi SDG’nin askeri gücünü belirleyici etkiledi.
+- Şam ile SDG arasında 14 maddelik ateşkes ve mutabakat imzalandı.
+- Petrol, gaz sahaları ve sınır kapıları merkezi yönetime devredilecek.
+- SDG unsurları bireysel olarak Suriye ordusuna entegre edilecek.
+- Türkiye memnun; Şam’a destek, güvenlik ve göç kaygısı öne çıktı.
+- IŞİD tutukluları, Kürtlerin hak talepleri ve statü belirsiz kaldı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=ejgiJGKbLcA&t=170s) (⏱️ 02:50-04:36)
-- [Hilal Koylu](https://www.youtube.com/watch?v=vJ4lJOh64gA&t=388s) (⏱️ 06:28-13:48)
+- [Rusen Cakir](https://www.youtube.com/watch?v=EnqddT5gQvA&t=25s) (⏱️ 00:25-13:34)
+- [Murat Yetkin](https://www.youtube.com/watch?v=SMNeeZKv7AQ&t=7s) (⏱️ 00:07-02:19)
+- [Hilal Koylu](https://www.youtube.com/watch?v=OzyIP5hEhQA&t=2s) (⏱️ 00:02-02:27)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=jKzrROHfuaE&t=26s) (⏱️ 00:26-25:27)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=tUlJPXMXcOI&t=2100s) (⏱️ 35:00-44:00)
+- [Inan Demirel](https://www.youtube.com/watch?v=mjje-l8YvCQ&t=131s) (⏱️ 02:11-06:06)
 
 ---
 
-## 2. Suriye’de güç dengeleri yeniden şekilleniyor
+## 2. Soruşturmalar, İddianameler ve Operasyon Tartışmaları
 
-- 22 Aralık sonrası Suriye’de sahada gerilim ve çekilmeler arttı.
-- YPG’nin Halep’te bazı mahallelerden çekildiği, çatışmalar yaşandı.
-- Eşrefiye ve Şeyhmaksut’ta yoğun çatışma görüntüleri gündeme geldi.
-- SDG’nin Fırat’ın doğusuna çekilmeye ikna edildiği iddia ediliyor.
-- Şam yönetiminin güç kazandığı, ABD’nin devreye girdiği konuşuluyor.
-- HTŞ’nin koordineli biçimde petrol sahalarını ele geçirdiği bildirildi.
-- 10 Mart mutabakatı tartışmaları, taraflar arasında yeni gerginlik doğurdu.
-- Kürtçe, Nevruz ve vatandaşlık haklarına dair kararlar açıklandı deniyor.
-- Ahmet Eşara’nın dış destekle yükseldiği, içeride rıza aradığı vurgulanıyor.
-- İran’da geniş protestolar, internet kesintileri ve Starlink kullanımı konuşuldu.
+- Ekrem İmamoğlu dosyasında iddianame ve soruşturma tartışmaları büyüyor.
+- Süreçte yolsuzluk ve rüşvet iddialarıyla başlayan suçlamalar öne çıktı.
+- İddianamede casusluk gibi sıra dışı suçlamalar gündeme getirildi.
+- Kişisel onura yönelik ithamların kullanılması sert biçimde eleştirildi.
+- Siyasi yasak ihtimali tartışılırken CHP, İmamoğlu’nu aday görüyor.
+- Ön seçim vurgusu yapıldı, 19 Mart müdahalesinin etkileri konuşuldu.
+- Beylikdüzü Belediye Başkanı Murat Çalık tutuklandı, sağlık endişeleri arttı.
+- Aykut Erdoğdu hakkında rüşvete aracılık iddiası var, reddediyor.
+- Soruşturma korkusuyla telefon dolandırıcılığı ve veri sızıntısı riski anlatıldı.
+- Uyuşturucu operasyonlarında baronlar, finans ağları ve müsadere eksikleri tartışıldı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Serdar Akinan](https://www.youtube.com/watch?v=Gyud3OtIqs4&t=170s) (⏱️ 02:50-03:59)
-- [Rusen Cakir](https://www.youtube.com/watch?v=redGIQ0lKWk&t=23s) (⏱️ 00:23-14:32)
+- [Hilal Koylu](https://www.youtube.com/watch?v=6xf2y3s5CWM&t=399s) (⏱️ 06:39-13:56)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=tUlJPXMXcOI&t=780s) (⏱️ 13:00-25:00)
+- [Inan Demirel](https://www.youtube.com/watch?v=y3gMPjUb-tw&t=1430s) (⏱️ 23:50-60:13)
+
+---
+
+## 3. Siyaset, ekonomi ve Erdoğan sonrası tartışması
+
+- AK Parti’nin kampanyası ve billboard saldırıları sert eleştirildi.
+- İBB hizmetlerinin hedef alınması muhalefetçe siyasi baskı sayıldı.
+- Serkan Özcan, enflasyon ve işsizliği iktidar politikalarına bağladı.
+- Emekli maaşları ve hayat pahalılığı kampanyayla örtülüyor denildi.
+- Bilal Erdoğan’ın “dindar insan iyidir” mesajı kamuoyunda tartışıldı.
+- Özcan, dinin siyasette araçsallaştırılmasının soğuma yarattığını söyledi.
+- Liyakatsizlik, kayırma ve yolsuzluk iddiaları dindarlık algısını zedeledi.
+- The Economist, “Erdoğan sonrası” döneme dair olası senaryoları yazdı.
+- Analiz, Bilal Erdoğan görünürlüğüyle veliaht tartışmasını gündeme taşıdı.
+- Lider partisi yapısı, ekonomi baskısı ve riskler belirsizliği artırıyor.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Hilal Koylu](https://www.youtube.com/watch?v=6xf2y3s5CWM&t=1082s) (⏱️ 18:02-22:04)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=jKzrROHfuaE&t=1529s) (⏱️ 25:29-29:37)
+
+---
+
+## 4. Cinayetler ve adalet tartışmaları gündemde
+
+- 17 yaşındaki Atlas Çağlayan, 15 yaşındaki çocuk tarafından öldürüldü.
+- Cinayet sonrası mağdur aile ve kamuoyu güçlü tepki gösterdi.
+- Olay, çocuk suçluluğu ve ceza adaletini yeniden tartıştırdı.
+- Uzmanlar, hapsin suçu azaltmadığını ve ıslah etmediğini söylüyor.
+- Önleyici politikalar için ücretsiz kurslar, spor ve eğitim destekleri önerildi.
+- Bakanlık koordinasyonunda risk haritalandırması ve sosyal programlar planlanıyor.
+- Hrant Dink suikastının 19. yıldönümünde anma etkinlikleri düzenlendi.
+- Dink'in gazeteciliği ve Agos'taki çalışmaları yeniden hatırlandı.
+- Cinayetin azmettiricileri ve örgütlenmesi tam aydınlatılmadı.
+- Soruşturmanın eksikleri ve politik motivasyon belirsizliği vurgulandı.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Nevsin Mengu](https://www.youtube.com/watch?v=tUlJPXMXcOI&t=1500s) (⏱️ 25:00-35:00)
+- [Rusen Cakir](https://www.youtube.com/watch?v=zfsSWdhh7tE&t=1742s) (⏱️ 29:02-31:14)
 
 ---
 
