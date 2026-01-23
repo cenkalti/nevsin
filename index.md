@@ -1,197 +1,174 @@
 # Bugün Ne Oldu?
 
-*22 January 2026 tarihli günlük haber raporu - 9 haber birleştirildi*
+*23 January 2026 tarihli günlük haber raporu - 8 haber birleştirildi*
 
-## 1. Davos’ta Trump çıkışları krizi büyüttü
+## 1. Meclis’te emekli maaşı tartışması büyüdü
 
-- Davos’ta Trump konuşması küresel düzen tartışmasını yeniden alevlendirdi.
-- Trump, Grönland çıkışıyla Danimarka ve Avrupa’dan sert tepki aldı.
-- Grönland’ın üs, madenler ve jeopolitik konumuyla önemi vurgulandı.
-- Trump, NATO ve Batı ittifakı için sert ve ayrıştırıcı mesajlar verdi.
-- Trump, Avrupa’ya ek vergi planından vazgeçtiğini açıkladı.
-- Davos’ta ABD ticaret temsilcisi konuşması salonda yuhalamayla kesildi.
-- Bazı liderler “kurallara dayalı düzen” anlatısının seçici uygulandığını söyledi.
-- Macron, kuralların zayıfladığı bir dünyaya girildiği uyarısı yaptı.
-- BlackRock CEO’su Fink, yapay zekanın beyaz yakalı işleri azaltacağını söyledi.
-- Fink, servet yoğunlaşmasının demokrasi ve piyasa güvenini zedeleyebileceğini savundu.
+- Meclis’te en düşük emekli aylığının 20 bin TL olması görüşüldü.
+- Düzenleme torba yasa içinde geçirildiği için muhalefet itiraz etti.
+- CHP’li vekiller kürsüye tabut ve mezar taşı getirerek protesto yaptı.
+- Genel Kurul’da sözlü tartışma büyüdü, itişme ve kavga yaşandı.
+- AK Parti ve MHP milletvekilleri müdahale ederek protestoyu engelledi.
+- Bazı vekiller, yokken yerine oy kullanıldığını söyleyip sahtekârlık dedi.
+- Özlem Zengin, maaşların yetersiz olduğunu, şartlar düzelince bakılacağını söyledi.
+- Muhalefet, emekliye kaynak bulunamazken faiz ödemelerinin arttığını savundu.
+- Eleştiriler, kur hesabıyla 20 bin TL’nin abartılı gösterildiğini öne sürdü.
+- Emeklilerin gıda ve ısınma sıkıntısı sokak röportajlarına yansıdı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilal Koylu](https://www.youtube.com/watch?v=wOZJ7oRyOS4&t=2182s) (⏱️ 36:22-40:38)
-- [Inan Demirel](https://www.youtube.com/watch?v=vKY-IDOrI8w&t=41s) (⏱️ 00:41-02:33)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=uOvQjtcweeo&t=26s) (⏱️ 00:26-08:31)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=GxVnyTD33XQ&t=25s) (⏱️ 00:25-37:41)
-- [Unsal Unlu](https://www.youtube.com/watch?v=Qa8BuFA7F6Y&t=2290s) (⏱️ 38:10-38:50)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=q7E8SJxvzQM&t=21s) (⏱️ 00:21-10:00)
+- [Unsal Unlu](https://www.youtube.com/watch?v=OpRJkeQwNJE&t=78s) (⏱️ 01:18-11:52)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=PsuPxORVLG4&t=22s) (⏱️ 00:22-06:21)
+- [Hilal Koylu](https://www.youtube.com/watch?v=WHdCmLGIXgc&t=72s) (⏱️ 01:12-09:39)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=q7E8SJxvzQM&t=1460s) (⏱️ 24:20-31:00)
+- [Serdar Akinan](https://www.youtube.com/watch?v=MJ5x_KId-j4&t=15s) (⏱️ 00:15-16:40)
 
 ---
 
-## 2. Ünlü İsimli Narkotik Soruşturması Büyüyor
+## 2. Suriye Dengeleri Türkiye’de Kürt Gündemi
 
-- Narkotik soruşturmasında Bilal Hancı ve üç kişi gözaltına alındı.
-- Şüpheliler Adli Tıp’ta tahlil verdi, sonuçlar dosyaya girdi.
-- Üç şüpheliye adli kontrol ve ev hapsi uygulanması istendi.
-- Bilal Hancı için ev hapsi, Abdullah Gençal için tutuklama talep edildi.
-- Esat Yontuç hakkında yurt dışında yakalama kararı çıkarıldığı bildirildi.
-- Yontuç suçlamaları reddetti, ilk uçakla döneceğini açıkladı.
-- Dosyada uyuşturucu temini, kullanımı ve fuhuşa aracılık iddiaları yer aldı.
-- Şeyma Subaşı’nın tahlilinin pozitif çıktığı, dönüşte gözaltı yaşandı.
-- Ezgi Eyiboğlu, ev fotoğrafları iddiasını yalanladı, test pozitifti.
-- Mehmet Akif Ersoy ve Mustafa Manas tutuklu, ek ifadeler bekleniyor.
+- Suriye’deki yeni tablo, Türkiye’de Kürt siyasetini doğrudan etkiliyor.
+- Türkiye’de kutuplaşma artarken, bazı kesimler zafer, bazıları öfke yaşıyor.
+- Diyarbakır mitingi yasağı ve ertelemeler, iç politik gerilimi gösterdi.
+- SDG lideri Mazlum Abdi Erbil’de KDP ve Barzani’yle görüştü.
+- ABD, SDG ile IŞİD’e karşı müttefikliğin bittiğini açıkladı.
+- ABD, kamplardaki yaklaşık 7.000 IŞİD tutuklusunu Irak’a taşıyacak.
+- 20 Ocak ateşkesi sürerken çatışmalar devam ediyor, devirler gerçekleşmedi.
+- Türkiye, sınır gelişmelerine göre askeri seçenekleri açık tutuyor.
+- Anketlerde Terörsüz Türkiye sürecine güven düşük, şüphe yüksek görünüyor.
+- Yorumcular, dış desteğe güvenmenin riskini tarihsel örneklerle vurguluyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=G8oMfPj3kJI) (⏱️ 00:00-02:01)
+- [Rusen Cakir](https://www.youtube.com/watch?v=3fU66oU49UM&t=3s) (⏱️ 00:03-12:50)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=HO0lEkrkwtw&t=76s) (⏱️ 01:16-10:15)
+- [Murat Yetkin](https://www.youtube.com/watch?v=IScn3TuKoNI&t=3s) (⏱️ 00:03-03:30)
+- [Serdar Akinan](https://www.youtube.com/watch?v=MJ5x_KId-j4&t=1001s) (⏱️ 16:41-19:56)
+
+---
+
+## 3. Erdoğan Sonrası Haleflik Kulisleri Isınıyor
+
+- Ankara kulislerinde Erdoğan sonrası dönem ve haleflik tartışmaları büyüyor.
+- Bilal Erdoğan, Katar televizyonundaki soru sonrası yeniden gündeme geldi.
+- Röportajın tamamı yayınlanmadı, sadece tanıtım görüntüleri paylaşıldı.
+- Bilal Erdoğan’ın son dönemde görünürlüğü ve siyasi temasları arttı.
+- TÜRGEV, TÜGVA ve Etnospor çalışmaları Bilal’in bilinen alanları.
+- Hakan Fidan, MİT geçmişi ve dış tecrübesiyle güçlü görülüyor.
+- Fidan’ın Trump ile fotoğrafı, haleflik yorumlarını yeniden alevlendirdi.
+- Bazıları babadan oğula geçişi eleştiriyor, halkın kararını vurguluyor.
+- AK Parti’de teşkilat yenileniyor, genç isimler kritik görevlere geldi.
+- Ali Yerlikaya’nın odasını topladığı iddiası, görev değişikliği söylentisi doğurdu.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Ozlem Gurses](https://www.youtube.com/watch?v=HO0lEkrkwtw&t=2843s) (⏱️ 47:23-48:28)
+- [Inan Demirel](https://www.youtube.com/watch?v=NkWo5UKAtPM&t=5s) (⏱️ 00:05-15:24)
+- [Hilal Koylu](https://www.youtube.com/watch?v=WHdCmLGIXgc&t=1884s) (⏱️ 31:24-36:23)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=PsuPxORVLG4&t=382s) (⏱️ 06:22-07:48)
+
+---
+
+## 4. Yüksek kâr vaadiyle vurgun iddiaları
+
+- Yasin Kapıyoldaş hakkında 30 milyon dolarlık dolandırıcılık iddiası gündemde.
+- Merter’de Altın Kemer Döviz üzerinden tekstilcilere yüksek kâr vaat edildi.
+- Mağdurlar 25 kilo altın ve milyonlarca dolar kaybettiklerini anlatıyor.
+- Sistem başta kâr payı ödedi, sonra ödemeler kesildi.
+- Bazı mağdurlar şantaj ve tehditlerle baskı gördüklerini öne sürüyor.
+- Kapıyoldaşın mal kaçırıp varlıkları başkalarına devrettiği iddia ediliyor.
+- Mağdurlar ve ortak Bülent Özbek icra takibi başlattı.
+- Mahkeme, şikayete konu malvarlıklarına tedbir kararı koydu.
+- Kapıyoldaş suçlamaları reddediyor, iflas ettiğini ve ödeme yapamadığını söylüyor.
+- Ayrı dosyada yasa dışı bahis soruşturmaları, yargı baskısı iddialarını artırdı.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Onlar TV](https://www.youtube.com/watch?v=GAmqTcJscA4) (⏱️ 00:00-04:33)
+- [Hilal Koylu](https://www.youtube.com/watch?v=WHdCmLGIXgc&t=1238s) (⏱️ 20:38-24:39)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=Z8e6hesUyW0&t=406s) (⏱️ 06:46-14:12)
+
+---
+
+## 5. Diyarbakır’da Öcalan Mitingi Yasağı
+
+- Diyarbakır Valiliği 25 Ocak Öcalan mitingini yasakladı.
+- Yasak 23 Ocak 01.00’den 26 Ocak gece yarısına uzandı.
+- Valilik gerekçede sınır içi dışı gelişmeleri ve etkilerini işaret etti.
+- Yetkin’in aktardığına göre hava koşulları da gerekçe gösterildi.
+- DEM Parti yetkilileri yasağa rağmen mitingi yapacaklarını açıkladı.
+- Mitingin ana talebi Öcalan’a özgürlük sloganıyla duyuruldu.
+- Kararın güvenlik önlemi mi siyasi baskı mı olduğu tartışılıyor.
+- DEM Parti ile MHP arasında sert sözlü gerilim tırmandı.
+- Erdoğan ile Bahçeli görüşmesinde konunun ele alındığı konuşuluyor.
+- Ankara’da Yerlikaya’nın değişebileceği, Davut Gül’ün gelebileceği iddia edildi.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Murat Yetkin](https://www.youtube.com/watch?v=IScn3TuKoNI&t=210s) (⏱️ 03:30-04:44)
+- [Unsal Unlu](https://www.youtube.com/watch?v=OpRJkeQwNJE&t=723s) (⏱️ 12:03-16:24)
+- [Hilal Koylu](https://www.youtube.com/watch?v=WHdCmLGIXgc&t=1702s) (⏱️ 28:22-31:19)
+
+---
+
+## 6. Gazetecilere Yönelik Baskı Tartışması
+
+- Medyaskop adliye muhabiri Furkan Karabay gözaltına alındı, mahkemeye sevk edildi.
+- Karabay hakkında tutuklama talebi bulunuyor, mahkeme kararının çıkması bekleniyor.
+- Suçlama, halkı kin ve düşmanlığa tahrik eden yalan haber.
+- Yorumcular, doğru habere rağmen suçlama yapıldığını öne sürüyor.
+- Avukatlar delil eksikliği ve keyfi adli kontrol uygulamalarını eleştiriyor.
+- Yurt dışı çıkış yasağında farklı muamele iddiaları eşitlik tartışması yarattı.
+- Basın özgürlüğüne yargı baskısının sistematik hale geldiği savunuluyor.
+- Gazetecilik suç değildir vurgusu yapılarak yıldırma amacı iddiası dile getirildi.
+- Sosyal medyada gazetecilerin hedef gösterilmesi, kadınlara daha ağır saldırılar örneklendi.
+- Ayrıca gazetecilerin liderlere soru sorması kamu yararı açısından önemli görüldü.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Unsal Unlu](https://www.youtube.com/watch?v=OpRJkeQwNJE&t=1091s) (⏱️ 18:11-18:30)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=q7E8SJxvzQM&t=2100s) (⏱️ 35:00-40:50)
+- [Rusen Cakir](https://www.youtube.com/watch?v=Ci8M7LX9MI4&t=14s) (⏱️ 00:14-15:47)
+
+---
+
+## 7. Yontunç soruşturmasında gözaltı kararı
+
+- Acun Medya yöneticisi Esat Yontunç hakkında yakalama kararı çıkarıldı.
+- Yontunç, ilk uçakla Türkiye’ye dönünce havalimanında gözaltına alındı.
+- Soruşturma, narkotik ve fuhuş iddialarıyla bağlantılı yürütülüyor.
+- Yontunç’a uyuşturucu kullanımını kolaylaştırma ve aracılık suçlamaları yöneltildi.
+- Yontunç suçlamaları reddetti, iddiaları kabul etmediğini açıkladı.
+- Gözaltı sonrası sağlık kontrolü için Adli Tıp’a götürülecek.
+- Kan, saç ve tırnak örnekleri alınarak rutin işlemler yapılacak.
+- Ardından adliyeye sevk edilip savcı ve hakim karşısına çıkacak.
+- Aynı operasyonda sosyal medya fenomeni şarkıcı Bilal Hancı gözaltına alındı.
+- Hancı’nın ifadesi sızdı, eşi aldatıldığını söyleyip açıkladı.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Hilal Koylu](https://www.youtube.com/watch?v=WHdCmLGIXgc&t=1482s) (⏱️ 24:42-26:08)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=Z8e6hesUyW0&t=212s) (⏱️ 03:32-06:42)
+
+---
+
+## 8. Ünlü İsimler Gündemde Yeniden
+
+- Sedat Peker, yardım ve destek faaliyetleriyle yeniden gündeme geldi.
+- Bazı davalara müdahil olup mağdurlara destek verdiği anlatıldı.
+- Osmaniye’de işçilik yapan kanser hastasına maddi yardım ulaştırıldı.
+- Peker’e destek veren ve teşekkür eden kişilerin paylaşımları aktarıldı.
+- Peker’in Türkiye’ye dönme niyeti üzerine çeşitli değerlendirmeler yapıldı.
+- Şeyma Subaşı’nın adı uyuşturucu operasyonlarında geçtiği iddia edildi.
+- Subaşı yurtdışından döndü ve sosyal medya tarzını değiştirdi.
+- Instagram’da manevi içerikler paylaşması takipçilerce dikkat çekti.
+- Erdoğan’ı takip etmesi, yeni yönelim işareti olarak yorumlandı.
+- Subaşı için kişisel dönüşüm ve hayatını değiştirme arayışı konuşuluyor.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Hilal Koylu](https://www.youtube.com/watch?v=WHdCmLGIXgc&t=2189s) (⏱️ 36:29-38:11)
 - [Nevsin Mengu](https://www.youtube.com/watch?v=q7E8SJxvzQM&t=2450s) (⏱️ 40:50-42:47)
-- [Unsal Unlu](https://www.youtube.com/watch?v=Qa8BuFA7F6Y&t=2608s) (⏱️ 43:28-54:55)
-- [Hilal Koylu](https://www.youtube.com/watch?v=wOZJ7oRyOS4&t=1322s) (⏱️ 22:02-28:38)
-- [Inan Demirel](https://www.youtube.com/watch?v=vKY-IDOrI8w&t=1910s) (⏱️ 31:50-40:15)
-
----
-
-## 3. Nusaybin Provokasyonu Süreci Yeniden Gerdi
-
-- Nusaybin’de Türk bayrağına yönelik saldırı provokasyon olarak değerlendirildi.
-- Olayın failleri netleşmedi, siyasetçiler karşılıklı suçlamalar yöneltti.
-- Bahçeli, uzatılan elin yumruğa dönüşebileceği uyarısı yaptı.
-- Erdoğan, bayrağa uzananların hesabı sorulacak diyerek sert çıktı.
-- MHP ile DEM Parti arasında gerilim büyüdü, açıklamalar sertleşti.
-- Mecliste komisyon kuruldu, İmralı ziyaretleri yapıldı, şeffaflık eleştirildi.
-- Umut hakkı ve yasal düzenleme tartışmaları somut adım eksikliğiyle sürüyor.
-- Kayyumlar, Demirtaş ve Kavala örnekleri demokratikleşme tartışmasını besledi.
-- Suriye’de SDG-Şam entegrasyonu ve Haseke ateşkesi belirsizlik taşıyor.
-- ABD’nin YPG desteğini azaltma mesajları sürecin seyrini etkiledi.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Unsal Unlu](https://www.youtube.com/watch?v=4-gw340vD3U&t=30s) (⏱️ 00:30-25:12)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=Sxx3xgAMQrY) (⏱️ 00:00-04:41)
-- [Hilal Koylu](https://www.youtube.com/watch?v=wOZJ7oRyOS4&t=51s) (⏱️ 00:51-19:29)
-- [Inan Demirel](https://www.youtube.com/watch?v=ohB7IhnGruc&t=401s) (⏱️ 06:41-09:16)
-
----
-
-## 4. Meclis’te usul, basın ve emekli krizi
-
-- Meclis kulislerinde Murat Yetkin’in hedef alınması büyük tepki topladı.
-- Cumhurbaşkanı Erdoğan grup toplantısı çıkışında gazetecilerle kısa sohbet etti.
-- Kulislerde gazetecilerin sıraya dizilmesi ve konum baskısı anlatıldı.
-- Yorumcular, gazeteciliğin tarafsızlık ve kamu yararı çizgisinin zayıfladığını söyledi.
-- Basının siyasetçilere serbestçe soru sorabilmesi kamu yararına görülüyor.
-- Meclis’te emekli maaşı düzenlemesi tartışıldı, zam yetersiz bulundu.
-- Bazı yayınlarda en düşük emekli aylığının 20.000 TL olduğu aktarıldı.
-- Özlem Zengin’in açıklamaları ve sorumluluk tartışmaları eleştirilerin odağında kaldı.
-- Celal Adan, başkası adına oy pusulası verilmesini ifşa etti.
-- Kadıköy’de 20 bin kişilik cami projesi kaynak tartışması yarattı.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Nevsin Mengu](https://www.youtube.com/watch?v=q7E8SJxvzQM&t=1860s) (⏱️ 31:00-35:00)
-- [Hilal Koylu](https://www.youtube.com/watch?v=wOZJ7oRyOS4&t=1177s) (⏱️ 19:37-22:02)
-- [Inan Demirel](https://www.youtube.com/watch?v=vKY-IDOrI8w&t=1080s) (⏱️ 18:00-24:40)
-- [Unsal Unlu](https://www.youtube.com/watch?v=Qa8BuFA7F6Y&t=92s) (⏱️ 01:32-36:00)
-
----
-
-## 5. CHP Üzerindeki İddialar ve Tepkiler
-
-- Aziz İhsan Aktaş raporu, CHP’li belediye başkanlarına suçlamaları inceliyor.
-- Raporda, Zeydan Karalar’a yönelik iddiaların çürütülmeye çalışıldığı belirtildi.
-- İhaleye fesat ve örgüt bağlantısı iddiaları raporda güçlenmedi.
-- Haber, yargı süreçlerinde uzman raporlarının belirleyici olabileceğini aktardı.
-- CHP’li gruplar, dikkat çekmek için alanlarda gece gündüz nöbet tutuyor.
-- Eylemlerin siyasal etkileri ve medya yansımaları tartışma konusu oldu.
-- Nöbet eylemlerine yönelik eleştiriler ve destekler kamuoyuna yansıdı.
-- TÜGVA’nın Kılıçdaroğlu’nun gayrimenkullerine haciz koyduğu bildirildi.
-- Kılıçdaroğlu ve avukatları haciz kararına itiraz ettiğini açıkladı.
-- CHP’nin iç ve dış politikayı birlikte okuyamadığı eleştirisi yapıldı.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Unsal Unlu](https://www.youtube.com/watch?v=Qa8BuFA7F6Y&t=2197s) (⏱️ 36:37-37:00)
-- [Hilal Koylu](https://www.youtube.com/watch?v=wOZJ7oRyOS4&t=1718s) (⏱️ 28:38-31:08)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=Sxx3xgAMQrY&t=661s) (⏱️ 11:01-12:22)
-
----
-
-## 6. Gazze için yeni barış kurulu kuruldu
-
-- Davos’ta Gazze için yeni bir barış kurulu planı duyuruldu.
-- Kurula katılım anlaşması imzalandı, uygulanacak planın çerçevesi açıklandı.
-- Yapının başında Trump bulunuyor ve veto yetkisi tartışma yarattı.
-- Türkiye’yi Erdoğan değil, Dışişleri Bakanı Hakan Fidan temsil etti.
-- Fidan’ın kurulun icra komitesinde yer alacağı ve imza attığı belirtildi.
-- Plan, Gazze dışından yönetilecek teknokratik geçiş hükümeti öngörüyor.
-- Kushner’in yeniden imar ve yatırım odaklı Gazze planı yeniden gündeme geldi.
-- Arjantin, BAE, Katar, Suudi Arabistan ve Mısır katılımcılar arasında.
-- Türkiye, Ürdün ve Vietnam da kurula katılmayı kabul etti.
-- Fransa, Almanya, Norveç, Danimarka ve İsveç katılmayı reddetti.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Nevsin Mengu](https://www.youtube.com/watch?v=q7E8SJxvzQM&t=600s) (⏱️ 10:00-20:40)
-- [Inan Demirel](https://www.youtube.com/watch?v=vKY-IDOrI8w&t=155s) (⏱️ 02:35-06:50)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=uOvQjtcweeo&t=550s) (⏱️ 09:10-10:26)
-
----
-
-## 7. Asrın jeti iddiaları ve Bilal Erdoğan
-
-- Asrın jeti tartışmasında soruşturmaya yeni ifadeler eklendi.
-- Fatih Keleş’in jetle kadınlarla seyahat ettiği iddia edildi.
-- Jetin kiralandığı ve Murat Gül İbrahimoğlu’yla bağlantısı konuşuldu.
-- Kadınların telefonundaki fotoğraflar Münih yolculuğunu doğrular nitelikte.
-- Münih’te resmi fuar ziyaretleri ile akşam eğlenceleri gündeme geldi.
-- Aynı dönemde Bilal Erdoğan’ın kamuoyundaki görünürlüğü de tartışıldı.
-- Bilal Erdoğan’ın Arap televizyonuna verdiği röportajın teaser’ı konuşuldu.
-- Röportajda Babasının halefi olacak mısınız sorusu yöneltildi.
-- Bilal Erdoğan’ın bu soruya net yanıt vermediği belirtildi.
-- Röportajın yayın saati ve Arapça konuşması belirsiz kaldı.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Ozlem Gurses](https://www.youtube.com/watch?v=G8oMfPj3kJI&t=485s) (⏱️ 08:05-09:41)
-- [Inan Demirel](https://www.youtube.com/watch?v=vKY-IDOrI8w&t=410s) (⏱️ 06:50-11:40)
-
----
-
-## 8. TCMB Faizi Yüzde 37’ye İndirdi
-
-- Türkiye’de gözler TCMB’nin yarınki faiz kararına çevrilmişti.
-- Piyasada 150 veya 200 baz puan indirim konuşuluyordu.
-- Baz puan, faiz değişimini ölçer; 100 baz puan yüzde 1’dir.
-- Karar açıklandı; politika faizi yüzde 38’den yüzde 37’ye indirildi.
-- Bu indirim, piyasa beklentilerinin altında kaldı yorumları yapıldı.
-- Ekonomistler, enflasyonla faiz arasındaki ilişkiyi yeniden değerlendirdi.
-- 200 baz puan olsaydı, kredi faizleri hemen düşmeyebilirdi denildi.
-- Yüksek döviz rezervleri iddiaları, kurun seyrini destekleyebilir görüşü var.
-- Küresel çalkantıların borsayı olumsuz etkileyebileceği de vurgulandı.
-- Rezerv artışı ve seçim ekonomisine geçiş tartışmaları yeniden alevlendi.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Ozlem Gurses](https://www.youtube.com/watch?v=GxVnyTD33XQ&t=2262s) (⏱️ 37:42-38:37)
-- [Inan Demirel](https://www.youtube.com/watch?v=vKY-IDOrI8w&t=1480s) (⏱️ 24:40-28:40)
-
----
-
-## 9. Seçim Takvimi ve Anketler Gündemde
-
-- Seçim tarihinin henüz kesinleşmediği, olası takvimler tartışılıyor.
-- Olası seçim senaryolarında 2026 sonu ve 2027 sonu öne çıkıyor.
-- Seçim takviminin ekonomi ve dış politikaya bağlı şekillenebileceği vurgulandı.
-- İsrail iç siyaseti ve Netanyahu’nun durumu dolaylı etkiler yaratabilir.
-- Bu pazar seçim olsa anketi ORC tarafından kamuoyuyla paylaşıldı.
-- Ankette CHP yüzde 33,1 ile ilk sırada yer aldı.
-- AK Parti yüzde 30,8 ile ikinci sırada ölçüldü.
-- DEM Parti yüzde 8,3 seviyesinde, diğer partiler daha düşük kaldı.
-- CHP ile AK Parti arasındaki fark yaklaşık 2,2 puan açıklandı.
-- Seçim ekonomisi, zamlar ve yaşam maliyeti tercihleri etkiliyor.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Bahar Feyzan](https://www.youtube.com/watch?v=Sxx3xgAMQrY&t=744s) (⏱️ 12:24-13:49)
-- [Inan Demirel](https://www.youtube.com/watch?v=vKY-IDOrI8w&t=1720s) (⏱️ 28:40-31:50)
 
 ---
 
