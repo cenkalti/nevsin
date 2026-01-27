@@ -1,130 +1,71 @@
 # Bugün Ne Oldu?
 
-*26 January 2026 tarihli günlük haber raporu - 6 haber birleştirildi*
+*27 January 2026 tarihli günlük haber raporu - 3 haber birleştirildi*
 
-## 1. Medya, adalet ve toplumsal gündem
+## 1. Yargı tartışmaları ve Silivri duruşmaları
 
-- Ekol TV’ye savcılık ziyareti ve erişim engelleri tartışma yarattı.
-- Bazı haberlere başsavcının talebiyle engel getirildiği öne sürüldü.
-- Kanalın finansörleri ve yasadışı bahis bağlantıları iddiaları gündeme taşındı.
-- Özgür Özel, Yalova mitinginde konuyu ve iddiaları hatırlattı.
-- Özel, Akın Gürlek hakkında görüntü yayınlanacağını ima etti.
-- Gazeteci Fatih Altaylı, Silivri cezaevi deneyimlerini ayrıntılarıyla paylaştı.
-- Koğuş yaşamı, ziyaret süreçleri ve görevlilerin tutumu anlatıldı.
-- Altaylı, Seçil Erzan’a verilen ağır cezanın adalet boyutunu tartıştı.
-- Serdar Akınan, Terörsüz Türkiye belgeseli için hazırlık yaptığını duyurdu.
-- Rusen Çakır, Adalet Ağaoğlu’nu anarak edebi mirasını vurguladı.
+- Aziz İhsan Aktaş davası Silivri’de geniş katılımla başladı.
+- İddianamede 385 ihale ve 63 yolsuzluk eylemi yer aldı.
+- Savcılık, Aktaş için 704 yıla varan hapis istedi.
+- Aktaş etkin pişmanlıktan yararlandı, serbest kaldı, korumalar verildi.
+- VIP giriş görüntüleri ve rahat hareketi kamuoyunda tepki çekti.
+- Basın ve avukatlara sayı sınırlaması getirildi, izleme zorlaştı.
+- Soruşturmaların tek beyana dayanması ve seçicilik iddiaları tartışıldı.
+- Sedef Kabaş yeniden gözaltına alındı, paylaşımları dosyaya girdi.
+- Muhalefet, yargı bağımsızlığı ve ifade özgürlüğü baskısını vurguladı.
+- İmamoğlu’na dönük idari-yargısal kuşatma ve devlet refleksi konuşuldu.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=XJxrlgRguHg&t=1153s) (⏱️ 19:13-26:08)
-- [Serdar Akinan](https://www.youtube.com/watch?v=dpa2cbyn9qI&t=909s) (⏱️ 15:09-18:02)
-- [Rusen Cakir](https://www.youtube.com/watch?v=uBrtcoj_a_M&t=599s) (⏱️ 09:59-12:16)
-- [Inan Demirel](https://www.youtube.com/watch?v=JC_Xcp2hMb8&t=1432s) (⏱️ 23:52-26:41)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=WZdalDC4E3I&t=722s) (⏱️ 12:02-31:29)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=zo2l47-ZVks) (⏱️ 00:00-05:07)
+- [Murat Yetkin](https://www.youtube.com/watch?v=CDjPQBsEGVo&t=303s) (⏱️ 05:03-05:51)
+- [Onlar TV](https://www.youtube.com/watch?v=qLfjwvKqGrA&t=633s) (⏱️ 10:33-16:56)
+- [Serdar Akinan](https://www.youtube.com/watch?v=Q5Q4MP5bjqQ&t=6s) (⏱️ 00:06-15:39)
+- [Unsal Unlu](https://www.youtube.com/watch?v=Rmyb0ByoUkc&t=591s) (⏱️ 09:51-12:12)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=tZsyM7EoUkg&t=24s) (⏱️ 00:24-01:15)
 
 ---
 
-## 2. Bahçeli’nin Kilim Söylemi Tartışması
+## 2. Suriye Gelişmeleri Süreci Yeniden Tartıştırdı
 
-- Bahçeli’nin TV100 röportajındaki kilim anekdotu büyük tartışma yarattı.
-- Bahçeli, kilimin Öcalan’dan İmralı heyeti aracılığıyla geldiğini söyledi.
-- Kilim iddiası sosyal medyada hızla yayıldı, mizahi paylaşımlar öne çıktı.
-- DEM Eş Genel Başkanı Tuncer Bakırhan, söylemin acıları zaferleştirdiğini savundu.
-- Bakırhan, saç örme paylaşımları nedeniyle gözaltı ve tutuklamaları örnek verdi.
-- Bahçeli, SDG ve YPG’nin Suriye’den tamamen temizlenmesi gerektiğini yineledi.
-- Suriye’de YPG/SDG ile Şam gerilimi sonrası yeni çatışmalar ihtimali konuşuluyor.
-- Kandil etkisi, kantonlaşma riski ve dezenformasyonun süreci zorlaştırdığı belirtildi.
-- Tarsus’ta Suriyeli Kürt gence saldırı sonrası baba-oğul gözaltına alındı.
-- Yorumlarda şeffaflık, hukuk, eşit vatandaşlık ve toplumsal barış vurgulandı.
+- Suriye’deki gelişmeler, Türkiye’de çözüm süreci tartışmasını yeniden alevlendirdi.
+- Ankara’nın Suriye’de hedeflerine yaklaşması, sürece ihtiyaç sorusu doğurdu.
+- Geçmiş süreçte Suriye etkisiyle kopuş yaşandığı yeniden hatırlatıldı.
+- Öcalan’ın Kandil ve SDG üzerindeki etkisi sınırlı mı tartışılıyor.
+- Görüşmelerin şeffaf olmaması, kamuoyunda güven krizini derinleştiriyor.
+- Mecliste Öcalan’ın meşrulaştırılmaması, önemli bir kırılma sayılıyor.
+- Demirtaş’ın durumu ve açıklanan tutanaklar belirsizliği artırıyor.
+- Kürt hareketinde temsiliyet sorunu sürüyor, PKK sonrası seçenek zayıf.
+- 18 Ocak anlaşmasıyla SDG çekildi, çatışmalar ve provokasyonlar arttı.
+- Bahçeli’nin müdahaleleri, iç siyaset ve seçim dengelerini etkiliyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=HY9pCVhOrgg&t=96s) (⏱️ 01:36-05:44)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=WZdalDC4E3I&t=173s) (⏱️ 02:53-03:36)
-- [Inan Demirel](https://www.youtube.com/watch?v=JC_Xcp2hMb8&t=521s) (⏱️ 08:41-18:06)
-- [Rusen Cakir](https://www.youtube.com/watch?v=e0Gb8yJYAhs&t=90s) (⏱️ 01:30-01:46)
+- [Rusen Cakir](https://www.youtube.com/watch?v=9_J9Q_KnGIM&t=50s) (⏱️ 00:50-01:28)
+- [Onlar TV](https://www.youtube.com/watch?v=qLfjwvKqGrA&t=79s) (⏱️ 01:19-10:31)
+- [Unsal Unlu](https://www.youtube.com/watch?v=Rmyb0ByoUkc&t=84s) (⏱️ 01:24-24:20)
+- [Murat Yetkin](https://www.youtube.com/watch?v=CDjPQBsEGVo&t=218s) (⏱️ 03:38-05:02)
 
 ---
 
-## 3. İddialar ve operasyonlar gündemde
+## 3. Operasyonlar suç ağlarını mercek altına aldı
 
-- Bebek Otel baskını sonrası sızan fotoğraf kamuoyunda tartışma yarattı.
-- Fotoğrafta Ali Koç ile Okan Buruk yan yana görülüyor.
-- İddiaya göre Koç, Buruk’a “Sırada sensin” dedi.
-- Galatasaray kulübü tehdidi kınadı, sert bir açıklama yayımladı.
-- Fotoğrafın soruşturma dosyasından sızdırıldığı iddiaları gündeme geldi.
-- İspanya polisi Kanarya Adaları açıklarında büyük kokain operasyonu yaptı.
-- Operasyonla Avrupa tarihinin en büyük kokain sevkiyatı yakalandı iddiası.
-- Sky ECC şifreli mesajlaşma ağından 4.500 kişilik liste çıkarıldı.
-- Listede Türkiye bağlantılı isimler olduğu iddiası tartışma yarattı.
-- Eski voleybolcu Derya Çayırgan iddiaları reddetti, dava açtı.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Inan Demirel](https://www.youtube.com/watch?v=JC_Xcp2hMb8&t=1088s) (⏱️ 18:08-23:48)
-- [Serdar Akinan](https://www.youtube.com/watch?v=dpa2cbyn9qI&t=650s) (⏱️ 10:50-14:52)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=WZdalDC4E3I&t=4506s) (⏱️ 75:06-81:24)
-
----
-
-## 4. Viral penguen tartışması büyüyor
-
-- Beyaz Saray, Trump’ı içeren yapay zekâ görseli paylaştı.
-- Görseldeki penguen, 2007 Werner Herzog belgeselinden alındı.
-- Paylaşım sosyal medyada “nihilist penguen” etiketiyle hızla yayıldı.
-- Bazıları penguenlerin Grönland’da değil Antarktika’da yaşadığını vurguladı.
-- Tartışma, Trump’ın Grönland söylemleri ve AB ticaret gerilimiyle büyüdü.
-- Belgeseldeki penguenin yalnız yürüyüşü tekrar gündeme taşındı.
-- Bilim insanları yön hatası, hastalık veya manyetik alan etkisini söylüyor.
-- Yorumcular, penguene insan duyguları yüklenmemesi gerektiğini vurguluyor.
-- Sembollerin siyasi amaçlarla kullanılmasının toplumsal etkileri tartışılıyor.
-- Minneapolis’te hemşire Alex Pretty ölümü sonrası federal ajanlar eleştirildi.
+- Uluslararası operasyonlarda büyük miktarda kokain ele geçirildiği bildirildi.
+- Europol soruşturmasında binlerce isim bulunduğu, 4.500 adı geçti.
+- Operasyonların farklı ülkelerle bağlantılı yürütüldüğü özellikle vurgulandı.
+- Mersin’de “lavaş çetesi” adıyla organize suç operasyonu yapıldığı aktarıldı.
+- İddialara göre Mersin’de 10 milyar liralık para birikimi var.
+- Bu paranın yalnızca lavaş ticaretinden gelmiş olabileceği sorgulandı.
+- Büyükçekmece’de vergi denetim bürosunda yolsuzluk soruşturması başlatıldı.
+- Naylon fatura ile vergi kaçırma, rüşvet ve aracılık iddiaları yer aldı.
+- Klimacı kılığında kurulan gizli kameralarla para teslimi kayda alındı.
+- Soruşturmada dalga dalga gözaltılar, itirafçılar ve baskı iddiaları konuşuldu.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Inan Demirel](https://www.youtube.com/watch?v=JC_Xcp2hMb8&t=7s) (⏱️ 00:07-02:31)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=XJxrlgRguHg&t=2070s) (⏱️ 34:30-49:14)
-
----
-
-## 5. CHP’de strateji tartışması derinleşiyor
-
-- Güncel anketlerde CHP ile AK Parti arasındaki fark yakın.
-- Asal Araştırma verilerine göre CHP yaklaşık yüzde 33 önde.
-- Kararsızlar dağıtılınca oranların anlamlı biçimde değişebileceği belirtiliyor.
-- CHP içinde yol haritası ve siyaset tarzı tartışmaları sürüyor.
-- Bazı isimler mitinglerin seçmene ulaşmada yetersiz kaldığını savunuyor.
-- Partinin yeniden saha siyasetine dönmesi gerektiği vurgulanıyor.
-- İbrahim Özkan’ın eleştirileri ve İmamoğlu’na yakınlığı gündeme geliyor.
-- Özgür Özel ve bazı kadrolar erken seçim talebini tartışmaya açıyor.
-- Parti içinde örgütlerin rolü ve tutunma arayışları konuşuluyor.
-- CHP yönetimi seçmen beklentilerine uygun strateji geliştirmeye çalışıyor.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Ozlem Gurses](https://www.youtube.com/watch?v=WZdalDC4E3I&t=3840s) (⏱️ 64:00-65:01)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=XJxrlgRguHg&t=353s) (⏱️ 05:53-19:12)
-
----
-
-## 6. Gazze planı ve ekonomi gündemi
-
-- ABD ve İsrail öncülüğünde Gazze Barış Kurulu gündeme geldi.
-- Türkiye adına Hakan Fidan kurulda yer aldı, imzayı attı.
-- Erdoğan katılmama kararı aldı, Netanyahu ve Trump daveti kabul etti.
-- Kurul planında Gazze için büyük yatırımlar ve kentsel dönüşüm bulunuyor.
-- Planın Filistinliler ve Hamas açısından sonuçları belirsiz görünüyor.
-- Bilal Erdoğan Türkiye-İsrail ilişkileri ve ticaret akışını değerlendirdi.
-- İç piyasada benzin ve diğer enerji ürünlerine zam konuşuluyor.
-- Gram altın 7.100 TL’yi aştı, gümüş 110 dolar üstünde.
-- Fed toplantısının değerli metaller üzerinde etkili olabileceği belirtiliyor.
-- Emekli bayram ikramiyesinin 5.000-5.500 TL’ye çıkması bekleniyor.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Inan Demirel](https://www.youtube.com/watch?v=JC_Xcp2hMb8&t=338s) (⏱️ 05:38-08:34)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=WZdalDC4E3I&t=220s) (⏱️ 03:40-08:45)
+- [Serdar Akinan](https://www.youtube.com/watch?v=Q5Q4MP5bjqQ&t=788s) (⏱️ 13:08-13:43)
+- [Unsal Unlu](https://www.youtube.com/watch?v=Rmyb0ByoUkc&t=682s) (⏱️ 11:22-12:03)
+- [Onlar TV](https://www.youtube.com/watch?v=te59oKn3XFM&t=4945s) (⏱️ 82:25-92:12)
 
 ---
 
