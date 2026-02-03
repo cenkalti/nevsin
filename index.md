@@ -1,91 +1,89 @@
 # Bugün Ne Oldu?
 
-*2 February 2026 tarihli günlük haber raporu - 4 haber birleştirildi*
+*3 February 2026 tarihli günlük haber raporu - 4 haber birleştirildi*
 
-## 1. Epstein Belgeleri Küresel Soruşturma Başlattı
+## 1. Epstein Belgelerinde Türkiye Bağlantısı İddiaları
 
-- ABD Adalet Bakanlığı Epstein dosyalarından üç milyonu aşkın içerik yayımladı.
-- Belgeler AppStay gibi sitelere yüklendi, bazı kısımlar karartıldı.
-- Bakanlık pornografik içerikleri kaldırdığını, mağdurların korunacağını açıkladı.
-- Gazeteciler dünya çapında inceleme başlattı, gerçek-sahte ayrımı yapılıyor.
-- Dosyalar, çocuk istismarı yanında şantaj ve güç ağı iddiaları içeriyor.
-- Trump dahil birçok ünlü anılıyor, isim geçmesi suç kanıtı değil.
-- Epstein 2019’da cezaevinde şüpheli öldü, hücre görüntüleri paylaşıldı.
-- Türkiye bağlantıları iddiaları gündemde; Ören yazışmaları, Rixos eğitim mailleri tartışıldı.
-- Express uçağının Türkiye’ye dokuz gelişi ve para transferleri iddia ediliyor.
-- Siyasetçiler ve kamuoyu soruşturma istiyor, daha çok belgenin çıkacağı söyleniyor.
+- ABD’de yayımlanan Epstein belgeleri yeni iddiaları yeniden gündeme taşıdı.
+- 2009 şikayet dilekçesi, Türkiye’den reşit olmayan kız taşındığını öne sürüyor.
+- Dilekçede 15 yaşındaki Jane Doe’un Maxwell tarafından ağa sokulduğu yazıldı.
+- 2009’da pilot Visowski, Türkiye uçuşlarını hatırlamadı, kayıt istedi.
+- Avukatlar, 1998-2002 döneminde kayıtların eksik kalabileceğini tartıştı.
+- 2010 ifadesinde Adriana Ross, Türkiye iddiasına cevap vermeyi reddetti.
+- Türkiye bağlantılı yazışmalar, Rixos ve Savarona dosyalarıyla ilişkilendirildi.
+- Özgür Özel, bazı isimleri andı; Ören ve Tamince suçlamaları reddetti.
+- Kayıp çocuklar, deprem dönemleri ve Meclis araştırması çağrıları öne çıktı.
+- Belgelerde Trump, Barak, Maxwell yazışmaları ve karartmalar tartışma yarattı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=LF15Qqn-5LA&t=24s) (⏱️ 00:24-21:31)
-- [Rusen Cakir](https://www.youtube.com/watch?v=t3-f0d8KVGc&t=23s) (⏱️ 00:23-18:30)
-- [Unsal Unlu](https://www.youtube.com/watch?v=cP1Rua93ccQ&t=103s) (⏱️ 01:43-02:47)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=JC6BtvacdzY&t=65s) (⏱️ 01:05-04:00)
-- [Serdar Akinan](https://www.youtube.com/watch?v=xMOHOH0xAKY) (⏱️ 00:00-13:34)
-- [Inan Demirel](https://www.youtube.com/watch?v=3vbFjEAm5tE&t=3s) (⏱️ 00:03-07:31)
-- [Hilal Koylu](https://www.youtube.com/watch?v=xSsWHnMD9K0&t=2s) (⏱️ 00:02-03:42)
+- [Onlar TV](https://www.youtube.com/watch?v=Bqkjfgo-sfE) (⏱️ 00:00-01:54)
+- [Serdar Akinan](https://www.youtube.com/watch?v=MFhV_NQnbvU) (⏱️ 00:00-01:30)
+- [Inan Demirel](https://www.youtube.com/watch?v=WSsR5vO2x5g&t=2254s) (⏱️ 37:34-43:40)
+- [Unsal Unlu](https://www.youtube.com/watch?v=OWalNj_H0nQ&t=77s) (⏱️ 01:17-06:17)
+- [Hilal Koylu](https://www.youtube.com/watch?v=kCSODvTC07I&t=1024s) (⏱️ 17:04-21:52)
+- [Murat Yetkin](https://www.youtube.com/watch?v=rMJ24cja7yk&t=690s) (⏱️ 11:30-14:07)
 
 ---
 
-## 2. Türkiye’nin Kürt ve Bölge Gündemi
+## 2. Borç Faiz ve Enflasyon Baskısı
 
-- Türkiye’de Kürt meselesi ve bölgesel gerilimler yeniden tartışılıyor.
-- Öcalan’ın süreçte kilit aktör olduğu, ancak görünürlüğü düşük kalıyor.
-- Devletin Öcalan adını anmaktan kaçındığı, İmralı dediği belirtiliyor.
-- Tecritin kaldırılması ve Öcalan’ın topluma doğrudan konuşması isteniyor.
-- Suriye’de SDG yapısı sahadan silinmedi, idari entegrasyona giriyor.
-- Yerel güvenlikte halk savunma güçleri rol alacak, yeni düzen kuruluyor.
-- Kürtçe ders ve Nevruz gibi kültürel haklar gündeme geliyor.
-- CHP Kürt sorunu toplantısı yaptı, parti içinden ulusalcı tepkiler geldi.
-- ABD–İran gerilimi sürerken Türkiye arabuluculuk için temaslar yürütüyor.
-- Nükleer ve füze talepleri, Hürmüz riski ve piyasa dalgalanması konuşuluyor.
+- Hazine projeksiyonu, 2022 sonrası faiz ödemelerinin anaparayı geçtiğini gösteriyor.
+- 2025 sonuna dek yeni borç olmasa bile ağır ödeme yükü var.
+- Tahmini toplam ödeme 16,5 trilyon lira seviyesine ulaşıyor.
+- Yüksek reel faiz, yatırımı frenleyip istihdam yaratılmasını zorlaştırıyor.
+- Tekstil sektöründeki işten çıkarmalar, ekonomideki baskıyı yansıtıyor.
+- Şirketler TL’ye güvenmeyip döviz kredi kullanıyor, risk artıyor.
+- Enflasyon yıllık düşse de aylık artışlar yüksek kalıyor.
+- TÜİK ocakta %4,84, ENAG %6,32 aylık enflasyon açıkladı.
+- Kredi kartı takibe dönüşüm oranı beş yılın zirvesinde.
+- Yoksulluk sınırı 101.706 TL, asgari ücret 28.075 TL kaldı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=9Jgfcf6r9rQ&t=23s) (⏱️ 00:23-11:09)
-- [Serdar Akinan](https://www.youtube.com/watch?v=xMOHOH0xAKY&t=1234s) (⏱️ 20:34-24:50)
-- [Murat Yetkin](https://www.youtube.com/watch?v=nk-PjqJoJTk&t=5s) (⏱️ 00:05-06:47)
+- [Inan Demirel](https://www.youtube.com/watch?v=WSsR5vO2x5g&t=45s) (⏱️ 00:45-13:00)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=0jnmFmi7dZ0&t=356s) (⏱️ 05:56-11:02)
+- [Unsal Unlu](https://www.youtube.com/watch?v=OWalNj_H0nQ&t=998s) (⏱️ 16:38-23:26)
 
 ---
 
-## 3. Siyasette tartışmalar ve toplumsal tepkiler
+## 3. CHP'den Barış Konferansı Mesajı
 
-- AKP içinde emekli maaşları ve 20 bin TL eleştirileri büyüdü.
-- Muhalefet konuyu gündemde tutarken iktidar savunma dili arıyor.
-- Vedat Işıkan’ın emeklilere simit verdiği görüntüler yeni tepkiler doğurdu.
-- Tarkan konseri sonrası etkinliklerin siyasileştirilmesi tartışması yeniden alevlendi.
-- Konserde farklı kimlikler birlikte eğlendi, siyasetten uzak durma çağrısı yapıldı.
-- Selçuk Bayraktar etnik değil medeniyet söylemiyle yeni çerçeve sundu.
-- Eleştiriler, söylemde hukukun üstünlüğü ve eşit yurttaşlık eksikliğine odaklandı.
-- Mersin milletvekilinin parti değişimi ve sözleri sert tepkiler topladı.
-- Yorumcular tartışmanın isimlerden çok, zihniyet sorunu olduğunu vurguladı.
-- Migros depo işçileri ücret ve koşullar için hak mücadelesi yürütüyor.
+- İstanbul'da Toplumsal Barış ve Demokrasi konferansı yapıldı.
+- Konferans geniş ilgi gördü ve yoğun biçimde tartışıldı.
+- Etkinlik CHP'nin yeni dönem siyasetinin aracı olarak tasarlandı.
+- Fikir, tutuklu Şişli Belediye Başkanı Resul Emrah Şahan'dan geldi.
+- Çalışma, genel başkan perspektifi ve kolektif parti emeğiyle şekillendi.
+- Yerel demokrasi ve Kürt meselesi bütüncül zeminde ele alındı.
+- Bazıları etkinliği Kürt konferansı diye yorumladı, başlıkta geçmedi.
+- Konuşmacı seçimi ve basın erişimi tartışıldı, dezenformasyon eleştirildi.
+- CHP, konferansların süreceğini ve çözüm reçeteleri üreteceğini açıkladı.
+- CHP Kahramanmaraş'ta deprem süreci için hükümeti yetersizlikle eleştirdi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Inan Demirel](https://www.youtube.com/watch?v=7VnODqcc3y4&t=2360s) (⏱️ 39:20-48:15)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=LF15Qqn-5LA&t=1536s) (⏱️ 25:36-33:55)
-- [Unsal Unlu](https://www.youtube.com/watch?v=cP1Rua93ccQ&t=197s) (⏱️ 03:17-04:01)
+- [Rusen Cakir](https://www.youtube.com/watch?v=WMZ3xfcfJPE&t=2s) (⏱️ 00:02-00:14)
+- [Murat Yetkin](https://www.youtube.com/watch?v=rMJ24cja7yk&t=9s) (⏱️ 00:09-00:39)
 
 ---
 
-## 4. Kadınlara Destek ve Diplomasi Gündemi
+## 4. Bahçeli'den Öcalan ve kayyım çağrısı
 
-- Program, Arsa ve Ev ile yeni bir işbirliği başlattığını duyurdu.
-- İşbirliği, kadın sporuna ve kadınlara desteği temel alıyor.
-- Sunucu, geçmişte Hatay Voleybol’a sponsorluk deneyimini hatırlattı.
-- İlerleyen yayınlarda şirketin faaliyetleri ve destekleri anlatılacak.
-- ABD, Venezuela için yeni bir kadın büyükelçi atadı.
-- Büyükelçinin soyadının Doğu bağlantısı taşıdığı belirtildi.
-- Diplomatın Türk vatandaşı Aydın Doğu ile evli olduğu aktarıldı.
-- Büyükelçinin Latin Amerika konusunda uzun görev tecrübesi bulunuyor.
-- Daha önce Nikaragua büyükelçisi olarak görev yaptığı söylendi.
-- Türkçe bildiği ve Türkiye’yi iyi tanıdığı vurgulandı.
+- MHP lideri Devlet Bahçeli, grup toplantısında hükümete çağrı yaptı.
+- Bahçeli, Öcalan’ın sözlerinin dinlenmesini ve umut hakkını savundu.
+- Kayyımla görevden alınan Ahmet Türk ve Ahmet Özer'in iadesini istedi.
+- Kayyım uygulamalarının sona ermesi gerektiğini açıkça dile getirdi.
+- Bahçeli, Selahattin Demirtaş'ın tahliye edilip evine dönmesini önerdi.
+- Konuşmada hükümete dönük net mesajlar veren bir slogan kullandı.
+- Açıklamalar, komisyon raporu gecikmeleri ve Suriye denklemiyle ilişkilendirildi.
+- Yorumcular, adımların sembolik ve siyasi açıdan zor olduğunu vurguladı.
+- Tuncer Bakırhan, umut hakkı ve tutukluların serbestliğini desteklediğini söyledi.
+- Bakırhan, Kürt ulusal birliği çağrısını yineledi, tartışmalar sürdü.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=JC6BtvacdzY) (⏱️ 00:00-01:03)
-- [Rusen Cakir](https://www.youtube.com/watch?v=t3-f0d8KVGc&t=1684s) (⏱️ 28:04-29:00)
+- [Inan Demirel](https://www.youtube.com/watch?v=WSsR5vO2x5g&t=780s) (⏱️ 13:00-21:45)
+- [Murat Yetkin](https://www.youtube.com/watch?v=rMJ24cja7yk&t=61s) (⏱️ 01:01-14:54)
 
 ---
 
