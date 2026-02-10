@@ -1,110 +1,193 @@
 # Bugün Ne Oldu?
 
-*9 February 2026 tarihli günlük haber raporu - 5 haber birleştirildi*
+*10 February 2026 tarihli günlük haber raporu - 9 haber birleştirildi*
 
-## 1. Özarslan istifası Keçiören'i sarstı
+## 1. Keçiören Krizi CHP’yi Sarstı
 
-- Keçiören Belediye Başkanı Mesut Özarslan CHP'den istifa etti, bağımsız kaldı.
-- İstifayı 8 Şubat akşamı X hesabından yaptığı paylaşımla duyurdu.
-- Kulislerde bir aydır AKP'ye geçişi konuşuluyordu, yalanlamıştı.
-- Özarslan, Özgür Özel'in WhatsApp'tan hakaret ettiğini iddia etti.
-- Özel, küfür etmediğini söylerken bazı sert ifadeleri kabul ediyor.
-- Mesaj ekran görüntülerini Erdem Atay paylaştı, KVKK tartışması doğdu.
-- Özarslan'a Mansur Yavaş ve CHP yönetimi ulaşamadıklarını açıkladı.
-- Portaş dönemine dair Sayıştay bulguları ve inceleme iddiaları gündemde.
-- Keçiören Meclisi'nde istifalar sürerse CHP çoğunluğu kaybedebilir.
-- Kulislerde Erdoğan'ın TBMM'de rozet takacağı tarihi 11 Şubat konuşuluyor.
+- Keçiören Belediye Başkanı Mesut Özarslan CHP’den istifa etti.
+- İstifada Özgür Özel’le mesajlaşma, küfür ve hakaret iddiası öne çıktı.
+- Özel, Özarslan’ı üç kez çağırdığını ve sert mesajları savundu.
+- Özarslan’ın AK Parti’ye geçebileceği kulisleri Ankara siyasetini hareketlendirdi.
+- Ömer Çelik katılım kararını dışlamadı, MYK değerlendirmesi konuşuldu.
+- Şamil Tayyar, geçişin şimdilik rafa kaldırıldığını duyurdu.
+- İçişleri müfettişleri Portaş dönemi ihaleleri için inceleme başlattı.
+- Ankaragücü tribün liderlerine ev vaadi iddiası tartışma yarattı.
+- Mansur Yavaş ilçe başkanlarını topladı, meclis hamlesi iddiası gündemde.
+- Olay CHP’de aday belirleme, liyakat ve denetim tartışmalarını büyüttü.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Serdar Akinan](https://www.youtube.com/watch?v=Bkb75z7pmXg&t=13s) (⏱️ 00:13-06:06)
-- [Rusen Cakir](https://www.youtube.com/watch?v=3lFP4_SL2fQ&t=20s) (⏱️ 00:20-14:45)
-- [Murat Yetkin](https://www.youtube.com/watch?v=kOm5f51mrgY&t=11s) (⏱️ 00:11-17:44)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=An2LXQkBL2Y&t=74s) (⏱️ 01:14-06:29)
-- [Inan Demirel](https://www.youtube.com/watch?v=LjNbJO47LMA&t=5s) (⏱️ 00:05-00:42)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=GVwAVy_PzEE&t=18s) (⏱️ 00:18-06:21)
-- [Unsal Unlu](https://www.youtube.com/watch?v=IiCimRBqzec&t=98s) (⏱️ 01:38-03:56)
+- [Onlar TV](https://www.youtube.com/watch?v=BQsA-toxclM&t=872s) (⏱️ 14:32-16:52)
+- [Hilal Koylu](https://www.youtube.com/watch?v=Q3ohQcu_Bx4&t=2300s) (⏱️ 38:20-39:43)
+- [Rusen Cakir](https://www.youtube.com/watch?v=w6cIuqPptUM&t=3s) (⏱️ 00:03-13:31)
+- [Unsal Unlu](https://www.youtube.com/watch?v=CC70qOtcZUs&t=657s) (⏱️ 10:57-12:26)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=oQoS-XCzedE&t=1014s) (⏱️ 16:54-19:50)
+- [Inan Demirel](https://www.youtube.com/watch?v=6ZnQYZownRw&t=23s) (⏱️ 00:23-05:20)
+- [Serdar Akinan](https://www.youtube.com/watch?v=BPx2jvt5b8E&t=1298s) (⏱️ 21:38-24:31)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=4yAWzzulVJo&t=238s) (⏱️ 03:58-09:44)
 
 ---
 
-## 2. Operasyonlar ve yargı tartışmaları büyüyor
+## 2. Sessiz Tahliyeler ve Soruşturma Dönüşümü
 
-- Yayınlanan casusluk iddianamesi muhalif isimleri ve medyayı hedefledi.
-- Şüpheliler arasında Ekrem İmamoğlu, Necati Özkan ve Merdan Yanardağ var.
-- İddianamenin delilleri, suçlamaların dayanağı ve kapsamı kamuoyunda tartışıldı.
-- Tele1’e kayyum atanacağı ve müsadere isteneceği iddiası gündeme geldi.
-- Bebek’te Clubhouse spor kulübüne 100 polisle narkotik baskını yapıldı.
-- Aramalarda yasaklı madde bulunmadığı, buna rağmen gözaltılar oldu.
-- Mekan sahibi Menderes Utku gözaltına alındı, bazı bağlantılar tutuklandı.
-- Operasyon sonrası elitlere yönelik tasfiye algısı ve popülizm tartışıldı.
-- Elif Atayman’ın 10 aydır tutuklu kaldığı ileri sürüldü.
-- Hücre ve kötü koşul iddiaları yargı bağımsızlığı eleştirilerini artırdı.
+- Turgay Ciner hakkındaki yakalama kararı, WE Soda açıklamasıyla kaldırıldı.
+- Can Holding soruşturmaları sonrası Ciner Grubu’na el koymalar yaşanmıştı.
+- 11 Eylül 2025’te Can Holding’e soruşturma, 28 Eylül karar geldi.
+- Atilla Ciner ve bazı yöneticiler gözaltına alındı, kayyım atandı.
+- Son beş ayda kayyım iadesi, tahliyeler ve geri adımlar görüldü.
+- Cihan Ekşioğlu Paramont Otel dosyasında tutuklanmıştı, sessizce tahliye edildi.
+- Tefecilik tutukluluğu aylık incelemeyle 9 Şubat 2026’da bitti.
+- Ekşioğlu’na 2016’da koruma verildiği ve bağlantılar iddia edildi.
+- Taner Çağlı’nın itirafçı olup tahliye edildiği, yeni operasyon bekleniyor.
+- Ekim Alptekin, Flynn üzerinden Gülen’i hedefleyen lobi iddialarını anlattı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=An2LXQkBL2Y&t=3768s) (⏱️ 62:48-70:19)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=GVwAVy_PzEE&t=381s) (⏱️ 06:21-30:57)
-- [Serdar Akinan](https://www.youtube.com/watch?v=Bkb75z7pmXg&t=542s) (⏱️ 09:02-09:54)
+- [Inan Demirel](https://www.youtube.com/watch?v=8S19THeqrqE&t=943s) (⏱️ 15:43-20:30)
+- [Serdar Akinan](https://www.youtube.com/watch?v=BPx2jvt5b8E&t=510s) (⏱️ 08:30-13:29)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=oQoS-XCzedE&t=4612s) (⏱️ 76:52-77:58)
 
 ---
 
-## 3. Eşitsizlik Yoksulluk ve Artan Suçlar
+## 3. Yargı Süreçlerinde Çifte Standart Tartışması
 
-- Küresel ölçekte servet, az sayıda kişinin elinde yoğunlaşıyor.
-- Davos çevresi ve büyük yatırımcı politikaları eşitsizliği derinleştiriyor deniyor.
-- Milyarlarca insan yoksulluk veya düşük gelir sınırında yaşıyor.
-- Medyada zenginlik parlatılıyor, yoksulluğun gerçek yüzü görünmüyor.
-- Türkiye’de yaşananın geçici değil, yönetilen çöküş olduğu savunuldu.
-- Ocakta faiz ödemesi 453,68 milyar liraya ulaştı denildi.
-- Her 100 liralık harcamanın 28 lirası faize gidiyor iddiası.
-- Gıda enflasyonu %10’dan %40’a; konut enflasyonu yüksek seyrediyor.
-- Resmi işsizlik %7,7; geniş tanımlı işsizlik %28-29 açıklandı.
-- Avrupa’da yoksulluk, sokak suçları ve nüfus gerilemesi tartışılıyor.
+- Mihalgazi Belediye Başkanıyla ilgili hakaret içerikli tweet gündem oldu.
+- Tweetin sahibi olduğu iddia edilen kişi tutuklanarak cezaevine gönderildi.
+- Tepkiler, kadın siyasetçiye yönelik ifadelerin hedef alınmasına yoğunlaştı.
+- Cumhurbaşkanı Erdoğan, tartışılan kadın siyasetçiyi grup toplantısına çağırdı.
+- Yorumcular, görünüş değil yapılan iş üzerinden eleştiri yapılmalı dedi.
+- İnan Demirel, yargıda çifte standart eleştirilerini gündeme taşıdı.
+- Yahşihan Belediye Başkanı için hızlı iddianame, dört ay sonra tahliye örneği verildi.
+- Bu örnek, iktidarın yargı uygulamalarındaki tutumunu tartışmaya açtı.
+- İmamoğlu’nun yakın koruması Bektaş Kamburoğlu gözaltına alındı, serbest kaldı.
+- HTS, baz sinyali ve tanık ifadeleri soruldu; adli kontrol uygulandı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Serdar Akinan](https://www.youtube.com/watch?v=Bkb75z7pmXg&t=367s) (⏱️ 06:07-09:01)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=6Cm0ALakGUY&t=506s) (⏱️ 08:26-10:26)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=4yAWzzulVJo&t=19s) (⏱️ 00:19-03:57)
+- [Inan Demirel](https://www.youtube.com/watch?v=6ZnQYZownRw&t=1760s) (⏱️ 29:20-31:40)
+- [Onlar TV](https://www.youtube.com/watch?v=xupQ4J5xSNA&t=3800s) (⏱️ 63:20-78:16)
 
 ---
 
-## 4. Epstein Dosyası Yeniden Gündemde
+## 4. Güvenlik ve toplumsal tartışmalar büyüyor
 
-- ABD Adalet Bakanlığı, Epstein dosyasına ait çok sayıda belge yayımladı.
-- Ghislaine Maxwell, Epstein’in yakın dostu ve iddia edilen sağ kolu.
-- Maxwell hakkında çocuk istismarı ve fuhuş ağı suçlamaları bulunuyor.
-- Maxwell 2 Temmuz 2020’de tutuklandı, 20 yıl hapse çarptırıldı.
-- Maxwell şu an Teksas’ta federal bir hapishane kampında tutuluyor.
-- Senatörler, Maxwell’e video bağlantısıyla soru yöneltmeye hazırlanıyor.
-- Senatörlere tüm belgelere erişim için şifreli bağlantı sağlandı.
-- Maxwell suçlamaları reddediyor, susma hakkını kullanabileceği belirtiliyor.
-- CBS görüntüleri, cezaevi hücresine başka mahkum girdi iddiası taşıdı.
-- Dosyanın uluslararası ve Türkiye bağlantıları, Antalya spa iddialarıyla tartışıldı.
+- İTO Başkanı Avdagiç, yurtdışı turizm harcamalarını sert biçimde eleştirdi.
+- Avdagiç, harcamaları azaltacak yeni politika ve önlemler önerdi.
+- TEMU gibi yurtdışı alışverişinin iç piyasaya etkisi tartışma yarattı.
+- Yurtdışından gelen ürünlerin Türkiye’de pahalı satılması gündeme geldi.
+- Turizmi ve iç piyasayı canlandıracak adımların atılması gerektiği vurgulandı.
+- Türkiye’de IŞİD saldırılarının toplumsal hafızada derin izleri hatırlatıldı.
+- Irak ve Suriye cezaevlerinde yaklaşık 2000 Türk vatandaşı olduğu belirtildi.
+- Türkiye’nin IŞİD’lileri geri getirme planlarının pazarlık konusu olabileceği söylendi.
+- Geri alınacak radikalleşmiş militanların toplum güvenliği için risk oluşturacağı savunuldu.
+- İstanbul’da bazı yabancı müzik gruplarının konserleri valilik kararıyla iptal edildi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=8F74Zi_CSN0&t=123s) (⏱️ 02:03-40:40)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=An2LXQkBL2Y&t=4230s) (⏱️ 70:30-86:42)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=oQoS-XCzedE&t=4215s) (⏱️ 70:15-76:52)
+- [Inan Demirel](https://www.youtube.com/watch?v=6ZnQYZownRw&t=3000s) (⏱️ 50:00-54:06)
+- [Serdar Akinan](https://www.youtube.com/watch?v=BPx2jvt5b8E&t=1471s) (⏱️ 24:31-30:38)
 
 ---
 
-## 5. Erken Seçim ve İktidar Planları
+## 5. Ankara Irak ve İran’a Odaklandı
 
-- Erken seçim olasılığı 2026 için yeniden kamuoyunda tartışıldı.
-- Ekonomik göstergeler ve röportajlar seçim ihtimalini gündemde tuttu.
-- AK Parti’li Mustafa Elitaş, seçim için 2027 sonu dedi.
-- Elitaş, Kasım 2027 veya 2028 seçeneklerini öne çıkardı.
-- Anayasa çerçevesinde Erdoğan’ın yeniden adaylığı senaryoları anlatıldı.
-- Yerel ve genel seçim takvimleriyle olası tarihler karşılaştırıldı.
-- Erdoğan’ın iç siyasetten geri çekilerek gürültüyü başkalarına bıraktığı iddia edildi.
-- Yönetimin koku giderme stratejisiyle yeni kadrolar oluşturduğu öne sürüldü.
-- Hakan Fidan, İbrahim Kalın ve Burhanettin Duran isimleri konuşuldu.
-- Bilal Erdoğan’ın öne çıkarılıp parti liderliğine hazırlanabileceği savunuldu.
+- Ankara, Suriye sonrası odağını Irak ve İran’a çevirdi.
+- Hakan Fidan, CNN Türk’te Ahmet Hakan’ın sorularını yanıtladı.
+- Fidan, hava harekatıyla rejim değişmeyeceğini, yayılma riski söyledi.
+- Türkiye, PKK silah bırakana kadar Irak-Suriye’den çekilmeyeceğini belirtti.
+- PKK’nın Mahmur, Sincar ve Kandil’de askeri varlık kurduğu vurgulandı.
+- Fidan ve Yaşar Güler, sıranın Irak’ta olduğunu ima etti.
+- Irak hükümeti olası harekattan çekiniyor; Haşdi Şabi ve ABD etkili.
+- Türkiye, kara müdahalesi istenmediğini, çözümün silah bırakma olduğunu savundu.
+- Fidan, İran dosyasında uranyum zenginleştirmeye odaklanılmasını istedi.
+- İran’ın nükleer kapasitesi, Suudi Arabistan ve Mısır’da domino etkisi yaratabilir.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=An2LXQkBL2Y&t=1604s) (⏱️ 26:44-38:52)
-- [Serdar Akinan](https://www.youtube.com/watch?v=Bkb75z7pmXg&t=594s) (⏱️ 09:54-15:32)
+- [Murat Yetkin](https://www.youtube.com/watch?v=0u7YwAJ9yj0&t=4s) (⏱️ 00:04-01:13)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=4yAWzzulVJo&t=585s) (⏱️ 09:45-14:51)
+
+---
+
+## 6. Ramazan Öncesi Yardım ve Dolandırıcılık
+
+- Ramazan öncesi yoksulluk ve sosyal yardım ihtiyacı yeniden vurgulandı.
+- Fitre ve zekatın kimleri kapsadığına dair sorular gündeme geldi.
+- En düşük emekli maaşının yetersizliği tartışmaların merkezinde yer aldı.
+- Yoksulluk ve açlık gibi sorunların siyasette öncelik olması istendi.
+- Fitre ve zekat, Ramazan’da ihtiyaç sahiplerine verilen dini yardımlardır.
+- Sosyal medyada sahte kredi ilanlarıyla dolandırıcılık vakaları arttı.
+- Mağdurlar, e-Devlet görünümlü sahte sayfalara şifrelerini girdi.
+- Dolandırıcılar başvuru ücreti diye önce 5.786 TL istedi.
+- Sonra yaklaşık 11.786 TL daha alıp toplam 17.000 TL.
+- Kiralanmış yabancı veya üçüncü şahıs IBAN’ları kullanıldığı belirtildi.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Unsal Unlu](https://www.youtube.com/watch?v=boZMzIJNYwU&t=1737s) (⏱️ 28:57-29:34)
+- [Onlar TV](https://www.youtube.com/watch?v=xupQ4J5xSNA&t=4696s) (⏱️ 78:16-84:10)
+
+---
+
+## 7. Meclis Taciz Davasında Tahliye Tepkisi
+
+- Mecliste stajyer öğrencilere taciz ve istismar iddiaları gündeme geldi.
+- Olayla ilgili dava sürerken beş sanıktan dördü tahliye edildi.
+- Sanıklar hakkında iddianamede 16 yıla kadar hapis istendi.
+- Tahliye kararı kadın örgütleri ve çocuk hakları savunucularını harekete geçirdi.
+- Gruplar kararı protesto etti ve adliye önünde eylemler düzenledi.
+- Tahliyeler sosyal medyada geniş tepki yarattı ve tartışma büyüdü.
+- Cumhuriyet Başsavcılığı tahliye kararına resmen itiraz etti.
+- Uzmanlar çocukların rıza veremeyeceğini özellikle vurguladı kamuoyunda.
+- Yargılama sürecindeki sorgulama yöntemleri eleştirildi, mağdurun korunması istendi.
+- Kamuoyunda itiraz sonrası kararın değişip değişmeyeceği konuşuluyor yoğun şekilde.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Hilal Koylu](https://www.youtube.com/watch?v=Q3ohQcu_Bx4&t=1999s) (⏱️ 33:19-35:45)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=kukS7MOPCl8&t=369s) (⏱️ 06:09-06:37)
+
+---
+
+## 8. Bad Bunny Super Bowl’da Tartışma Yarattı
+
+- Bad Bunny, Super Bowl devre arası gösterisinde sahne aldı.
+- Gösteri ağırlıkla İspanyolca ve Latin kültürü etrafında kurgulandı.
+- Sahnede Puerto Rico kimliği ve göçmen tarihi vurguları öne çıktı.
+- Şeker kamışı gibi sembollerle sömürgecilik ve emek geçmişi hatırlatıldı.
+- Performans, göçmenlik ve Hispanik toplumun sorunlarına dikkat çekti.
+- Puerto Rico’nun statüsü ve ABD ile ilişkileri dolaylı biçimde işlendi.
+- Donald Trump gösteriyi sert eleştirdi ve rezalet olarak niteledi.
+- Tartışmalar, Trump ile kültür savaşları gerilimini yeniden gündeme taşıdı.
+- Bad Bunny sonrasında Instagram paylaşımlarını sildi, profilini boşalttı.
+- New York Times ve yorumcular, gösteriyi çok seslilik açısından olumladı.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Bahar Feyzan](https://www.youtube.com/watch?v=4yAWzzulVJo&t=892s) (⏱️ 14:52-21:30)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=oQoS-XCzedE&t=3406s) (⏱️ 56:46-70:15)
+
+---
+
+## 9. Boğaziçi’nde kayyum protestosu ve müdahale
+
+- Boğaziçi Üniversitesi’nde kayyum rektörün kulüp kapatma kararı protesto edildi.
+- Protestolar sırasında kampüste polis ile öğrenciler arasında arbede yaşandı.
+- Güvenlik güçleri müdahalede biber gazı kullandı, çatışma büyüdü.
+- Yoğun gerilimin ardından çevik kuvvet kampüs içinden geri çekildi.
+- Öğrenciler protestoları sürdürdüklerini ve direnişe devam ettiklerini duyurdu.
+- Haberlerde kampüste polis baskınlarının tekrarlandığı, gerginliğin arttığı aktarıldı.
+- Akademisyenlerin ve bazı bölümlerin kaybedildiği, akademik boşalma yaşandığı belirtildi.
+- Öğrenci kulüplerine ait eşyaların alındığı ve alanların boşaltıldığı söylendi.
+- Üniversitenin itibar kaybettiği ve uluslararası sıralamalarda gerilediği vurgulandı.
+- Bazı akademisyenler ders kitaplarını saklayıp geleceğe umut bırakmak istedi.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Onlar TV](https://www.youtube.com/watch?v=xupQ4J5xSNA&t=5050s) (⏱️ 84:10-88:24)
+- [Hilal Koylu](https://www.youtube.com/watch?v=Q3ohQcu_Bx4&t=2145s) (⏱️ 35:45-36:56)
 
 ---
 
