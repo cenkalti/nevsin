@@ -1,193 +1,158 @@
 # Bugün Ne Oldu?
 
-*10 February 2026 tarihli günlük haber raporu - 9 haber birleştirildi*
+*11 February 2026 tarihli günlük haber raporu - 7 haber birleştirildi*
 
-## 1. Keçiören Krizi CHP’yi Sarstı
+## 1. Akın Gürlek Adalet Bakanı Atandı
 
-- Keçiören Belediye Başkanı Mesut Özarslan CHP’den istifa etti.
-- İstifada Özgür Özel’le mesajlaşma, küfür ve hakaret iddiası öne çıktı.
-- Özel, Özarslan’ı üç kez çağırdığını ve sert mesajları savundu.
-- Özarslan’ın AK Parti’ye geçebileceği kulisleri Ankara siyasetini hareketlendirdi.
-- Ömer Çelik katılım kararını dışlamadı, MYK değerlendirmesi konuşuldu.
-- Şamil Tayyar, geçişin şimdilik rafa kaldırıldığını duyurdu.
-- İçişleri müfettişleri Portaş dönemi ihaleleri için inceleme başlattı.
-- Ankaragücü tribün liderlerine ev vaadi iddiası tartışma yarattı.
-- Mansur Yavaş ilçe başkanlarını topladı, meclis hamlesi iddiası gündemde.
-- Olay CHP’de aday belirleme, liyakat ve denetim tartışmalarını büyüttü.
+- Akın Gürlek, Resmi Gazete kararıyla Adalet Bakanı olarak atandı.
+- Görevdeki bakan Yılmaz Tunç görevden alındı, devir süreci başladı.
+- Gürlek, son 17 ay İstanbul Cumhuriyet Başsavcısı görevindeydi.
+- Bu dönemde İmamoğlu ve CHP’li belediyelere yönelik operasyonlar yürütüldü.
+- Demirtaş, Kaftancıoğlu, Berberoğlu ve Gezi gibi dosyalar hatırlatıldı.
+- Eleştiriler, AYM hak ihlali kararlarına uymadığı iddialarıyla büyüdü.
+- Muhalefet atamayı ödüllendirme saydı, siyasi amaç vurgusu yaptı.
+- Bakanlıkla HSK ve atamalarda etkisi artacak endişesi dile getirildi.
+- İş dünyası ve medya bağlantılı soruşturmalarla güç kullanımı tartışıldı.
+- Danışman Furkan Torlak iddialar sonrası görevinden istifa etti.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Onlar TV](https://www.youtube.com/watch?v=BQsA-toxclM&t=872s) (⏱️ 14:32-16:52)
-- [Hilal Koylu](https://www.youtube.com/watch?v=Q3ohQcu_Bx4&t=2300s) (⏱️ 38:20-39:43)
-- [Rusen Cakir](https://www.youtube.com/watch?v=w6cIuqPptUM&t=3s) (⏱️ 00:03-13:31)
-- [Unsal Unlu](https://www.youtube.com/watch?v=CC70qOtcZUs&t=657s) (⏱️ 10:57-12:26)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=oQoS-XCzedE&t=1014s) (⏱️ 16:54-19:50)
-- [Inan Demirel](https://www.youtube.com/watch?v=6ZnQYZownRw&t=23s) (⏱️ 00:23-05:20)
-- [Serdar Akinan](https://www.youtube.com/watch?v=BPx2jvt5b8E&t=1298s) (⏱️ 21:38-24:31)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=4yAWzzulVJo&t=238s) (⏱️ 03:58-09:44)
+- [Inan Demirel](https://www.youtube.com/watch?v=34kxz_VCCwI&t=38s) (⏱️ 00:38-08:57)
+- [Onlar TV](https://www.youtube.com/watch?v=490ChQSgcos) (⏱️ 00:00-14:39)
+- [Serdar Akinan](https://www.youtube.com/watch?v=cs4uEKAm1fA) (⏱️ 00:00-08:35)
+- [Murat Yetkin](https://www.youtube.com/watch?v=UlEXWt9ZoWY&t=43s) (⏱️ 00:43-04:26)
+- [Hilal Koylu](https://www.youtube.com/watch?v=sTwQRcvuS1U&t=32s) (⏱️ 00:32-09:15)
+- [Unsal Unlu](https://www.youtube.com/watch?v=uCMarA8VfBw&t=119s) (⏱️ 01:59-06:34)
 
 ---
 
-## 2. Sessiz Tahliyeler ve Soruşturma Dönüşümü
+## 2. Adalet ve İçişlerinde Bakan Değişimi
 
-- Turgay Ciner hakkındaki yakalama kararı, WE Soda açıklamasıyla kaldırıldı.
-- Can Holding soruşturmaları sonrası Ciner Grubu’na el koymalar yaşanmıştı.
-- 11 Eylül 2025’te Can Holding’e soruşturma, 28 Eylül karar geldi.
-- Atilla Ciner ve bazı yöneticiler gözaltına alındı, kayyım atandı.
-- Son beş ayda kayyım iadesi, tahliyeler ve geri adımlar görüldü.
-- Cihan Ekşioğlu Paramont Otel dosyasında tutuklanmıştı, sessizce tahliye edildi.
-- Tefecilik tutukluluğu aylık incelemeyle 9 Şubat 2026’da bitti.
-- Ekşioğlu’na 2016’da koruma verildiği ve bağlantılar iddia edildi.
-- Taner Çağlı’nın itirafçı olup tahliye edildiği, yeni operasyon bekleniyor.
-- Ekim Alptekin, Flynn üzerinden Gülen’i hedefleyen lobi iddialarını anlattı.
+- Cumhurbaşkanı Erdoğan, 11 Şubat 2026 Resmi Gazete kararı yayımladı.
+- Kararla Adalet ve İçişleri bakanlıklarında görev değişimi yapıldı.
+- Adalet Bakanı Yılmaz Tunç görevden alındı, yerine Akın Gürlek atandı.
+- İçişleri Bakanı Ali Yerlikaya görevden alındı, yerine Mustafa Çiftçi getirildi.
+- Bazı kaynaklar, değişikliklerin görevden af talepleriyle bağlantılı olduğunu aktardı.
+- Akın Gürlek, İstanbul Cumhuriyet Başsavcılığı görevinden bakanlığa geçti.
+- Mustafa Çiftçi, Erzurum Valiliğinden İçişleri Bakanlığı görevine atandı.
+- Atamalar Meclis’te tartışma yarattı, CHP protesto ederek kürsüyü işgal etti.
+- Yemin oturumunda AK Parti ve CHP arasında arbede çıktı, yaralanmalar bildirildi.
+- Kabine kulislerinde başka değişiklik iddiaları konuşuldu, bazıları yalanlandı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Inan Demirel](https://www.youtube.com/watch?v=8S19THeqrqE&t=943s) (⏱️ 15:43-20:30)
-- [Serdar Akinan](https://www.youtube.com/watch?v=BPx2jvt5b8E&t=510s) (⏱️ 08:30-13:29)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=oQoS-XCzedE&t=4612s) (⏱️ 76:52-77:58)
+- [Murat Yetkin](https://www.youtube.com/watch?v=UlEXWt9ZoWY&t=3s) (⏱️ 00:03-00:33)
+- [Hilal Koylu](https://www.youtube.com/watch?v=sTwQRcvuS1U) (⏱️ 00:00-00:31)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=FDWVyV-i2Ok&t=24s) (⏱️ 00:24-34:50)
+- [Onlar TV](https://www.youtube.com/watch?v=KEZ4C4OSriQ&t=2430s) (⏱️ 40:30-51:26)
+- [Unsal Unlu](https://www.youtube.com/watch?v=uCMarA8VfBw&t=395s) (⏱️ 06:35-10:11)
+- [Inan Demirel](https://www.youtube.com/watch?v=34kxz_VCCwI&t=2s) (⏱️ 00:02-00:16)
 
 ---
 
-## 3. Yargı Süreçlerinde Çifte Standart Tartışması
+## 3. CHP’de Mesut Özarslan Krizi
 
-- Mihalgazi Belediye Başkanıyla ilgili hakaret içerikli tweet gündem oldu.
-- Tweetin sahibi olduğu iddia edilen kişi tutuklanarak cezaevine gönderildi.
-- Tepkiler, kadın siyasetçiye yönelik ifadelerin hedef alınmasına yoğunlaştı.
-- Cumhurbaşkanı Erdoğan, tartışılan kadın siyasetçiyi grup toplantısına çağırdı.
-- Yorumcular, görünüş değil yapılan iş üzerinden eleştiri yapılmalı dedi.
-- İnan Demirel, yargıda çifte standart eleştirilerini gündeme taşıdı.
-- Yahşihan Belediye Başkanı için hızlı iddianame, dört ay sonra tahliye örneği verildi.
-- Bu örnek, iktidarın yargı uygulamalarındaki tutumunu tartışmaya açtı.
-- İmamoğlu’nun yakın koruması Bektaş Kamburoğlu gözaltına alındı, serbest kaldı.
-- HTS, baz sinyali ve tanık ifadeleri soruldu; adli kontrol uygulandı.
+- CHP grup toplantısında gündem Mesut Özarslan krizi oldu bugün.
+- Özgür Özel, Özarslan’a attığı mesajları satır satır okudu.
+- Özel, mesajların arkasında durduğunu ve özür dilemediğini söyledi.
+- Mesajlarda sert ifadeler olduğu, hakaret tartışmaları büyüdü kamuoyunda.
+- Özel, Özarslan’ın milli ve manevi değerlere hakaret etmediğini savundu.
+- Keçiören Başkanı’nı üç kez genel merkeze çağırdığını belirtti Özel.
+- Özel, Özarslan’ın istifa edip AK Parti’ye geçeceğini iddia etti.
+- AKP Sözcüsü Ömer Çelik, MYK’da karar yok dedi.
+- AKP içinde transferin soruşturmalarla ilişkisi ve karantina önerisi konuşuluyor.
+- Mansur Yavaş ve Ankara belediye başkanları, partiye bağlılık mesajı verdi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=4yAWzzulVJo&t=19s) (⏱️ 00:19-03:57)
-- [Inan Demirel](https://www.youtube.com/watch?v=6ZnQYZownRw&t=1760s) (⏱️ 29:20-31:40)
-- [Onlar TV](https://www.youtube.com/watch?v=xupQ4J5xSNA&t=3800s) (⏱️ 63:20-78:16)
+- [Inan Demirel](https://www.youtube.com/watch?v=0hdowMJ9Rzg) (⏱️ 00:00-07:53)
+- [Rusen Cakir](https://www.youtube.com/watch?v=HgwldHTQPaU) (⏱️ 00:00-11:39)
+- [Hilal Koylu](https://www.youtube.com/watch?v=ZB-IkIjgWZY&t=13s) (⏱️ 00:13-18:01)
+- [Onlar TV](https://www.youtube.com/watch?v=KEZ4C4OSriQ&t=96s) (⏱️ 01:36-24:55)
 
 ---
 
-## 4. Güvenlik ve toplumsal tartışmalar büyüyor
+## 4. Mustafa Çiftçi İçişleri Bakanı Atandı
 
-- İTO Başkanı Avdagiç, yurtdışı turizm harcamalarını sert biçimde eleştirdi.
-- Avdagiç, harcamaları azaltacak yeni politika ve önlemler önerdi.
-- TEMU gibi yurtdışı alışverişinin iç piyasaya etkisi tartışma yarattı.
-- Yurtdışından gelen ürünlerin Türkiye’de pahalı satılması gündeme geldi.
-- Turizmi ve iç piyasayı canlandıracak adımların atılması gerektiği vurgulandı.
-- Türkiye’de IŞİD saldırılarının toplumsal hafızada derin izleri hatırlatıldı.
-- Irak ve Suriye cezaevlerinde yaklaşık 2000 Türk vatandaşı olduğu belirtildi.
-- Türkiye’nin IŞİD’lileri geri getirme planlarının pazarlık konusu olabileceği söylendi.
-- Geri alınacak radikalleşmiş militanların toplum güvenliği için risk oluşturacağı savunuldu.
-- İstanbul’da bazı yabancı müzik gruplarının konserleri valilik kararıyla iptal edildi.
+- Mustafa Çiftçi, Resmi Gazete kararıyla İçişleri Bakanı oldu.
+- Görevden alınan Ali Yerlikaya, Erdoğan’a teşekkür ederek veda etti.
+- Çiftçi, atama öncesi yaklaşık beş yıl Erzurum Valisiydi.
+- Konya-Çumra doğumlu, İmam Hatip ve Ankara SBF mezunu.
+- İlahiyat eğitimi aldı, açıköğretimde hukuk okuduğu belirtildi.
+- Hafız olduğu ve Kur’an yarışmalarında derece aldığı aktarıldı.
+- İskilipli Atıf mezarı ziyareti tepki çekti, yargıya taşındı.
+- Erzurum Kongresi binası yıkım tartışmasında tepkilerle geri adım attı.
+- Oğlunun TikTok paylaşımları polis saygısı konusunda endişe yarattı.
+- MHP çevreleri destek verirken CHP ve bazı kesimler atamayı eleştirdi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=oQoS-XCzedE&t=4215s) (⏱️ 70:15-76:52)
-- [Inan Demirel](https://www.youtube.com/watch?v=6ZnQYZownRw&t=3000s) (⏱️ 50:00-54:06)
-- [Serdar Akinan](https://www.youtube.com/watch?v=BPx2jvt5b8E&t=1471s) (⏱️ 24:31-30:38)
+- [Inan Demirel](https://www.youtube.com/watch?v=34kxz_VCCwI&t=538s) (⏱️ 08:58-15:21)
+- [Serdar Akinan](https://www.youtube.com/watch?v=cs4uEKAm1fA&t=515s) (⏱️ 08:35-13:13)
+- [Hilal Koylu](https://www.youtube.com/watch?v=sTwQRcvuS1U&t=682s) (⏱️ 11:22-16:53)
+- [Murat Yetkin](https://www.youtube.com/watch?v=UlEXWt9ZoWY&t=100s) (⏱️ 01:40-02:45)
 
 ---
 
-## 5. Ankara Irak ve İran’a Odaklandı
+## 5. Zorlu Konser İptalleri Tartışma Yarattı
 
-- Ankara, Suriye sonrası odağını Irak ve İran’a çevirdi.
-- Hakan Fidan, CNN Türk’te Ahmet Hakan’ın sorularını yanıtladı.
-- Fidan, hava harekatıyla rejim değişmeyeceğini, yayılma riski söyledi.
-- Türkiye, PKK silah bırakana kadar Irak-Suriye’den çekilmeyeceğini belirtti.
-- PKK’nın Mahmur, Sincar ve Kandil’de askeri varlık kurduğu vurgulandı.
-- Fidan ve Yaşar Güler, sıranın Irak’ta olduğunu ima etti.
-- Irak hükümeti olası harekattan çekiniyor; Haşdi Şabi ve ABD etkili.
-- Türkiye, kara müdahalesi istenmediğini, çözümün silah bırakma olduğunu savundu.
-- Fidan, İran dosyasında uranyum zenginleştirmeye odaklanılmasını istedi.
-- İran’ın nükleer kapasitesi, Suudi Arabistan ve Mısır’da domino etkisi yaratabilir.
+- İstanbul Zorlu PSM’de iki metal konseri iptal edildi bugün.
+- İptal gerekçesi toplumsal değerlere aykırılık ve kamu tepkisi.
+- Beşiktaş Kaymakamlığı konserleri yasaklayan kararı duyurdu resmi olarak.
+- Bazı medya kampanyaları grupları satanizm propagandasıyla hedef gösterdi.
+- Gruplardan Slaughter to Prevail ve vokalistin tepkisi aktarıldı.
+- İstanbul Valisi açıklamaları ve Akit kampanyasının etkisi konuşuldu.
+- Tartışma sanat özgürlüğü ve kültürel yasaklar endişesini büyüttü.
+- AKMAR Pasajı örneğiyle geçmişteki benzer etiketlemeler hatırlatıldı.
+- Ayrı gündemde, 49 yıllık işletme devri özelleştirme eleştirisi aldı.
+- MAPEK 485 maden sahasını ihaleye açtı, çevresel risk uyarıları var.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Murat Yetkin](https://www.youtube.com/watch?v=0u7YwAJ9yj0&t=4s) (⏱️ 00:04-01:13)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=4yAWzzulVJo&t=585s) (⏱️ 09:45-14:51)
+- [Onlar TV](https://www.youtube.com/watch?v=KEZ4C4OSriQ&t=1501s) (⏱️ 25:01-40:30)
+- [Hilal Koylu](https://www.youtube.com/watch?v=ZB-IkIjgWZY&t=1323s) (⏱️ 22:03-25:11)
+- [Serdar Akinan](https://www.youtube.com/watch?v=cs4uEKAm1fA&t=971s) (⏱️ 16:11-23:45)
 
 ---
 
-## 6. Ramazan Öncesi Yardım ve Dolandırıcılık
+## 6. Ankara’da İmralı ve sonrası gündemi
 
-- Ramazan öncesi yoksulluk ve sosyal yardım ihtiyacı yeniden vurgulandı.
-- Fitre ve zekatın kimleri kapsadığına dair sorular gündeme geldi.
-- En düşük emekli maaşının yetersizliği tartışmaların merkezinde yer aldı.
-- Yoksulluk ve açlık gibi sorunların siyasette öncelik olması istendi.
-- Fitre ve zekat, Ramazan’da ihtiyaç sahiplerine verilen dini yardımlardır.
-- Sosyal medyada sahte kredi ilanlarıyla dolandırıcılık vakaları arttı.
-- Mağdurlar, e-Devlet görünümlü sahte sayfalara şifrelerini girdi.
-- Dolandırıcılar başvuru ücreti diye önce 5.786 TL istedi.
-- Sonra yaklaşık 11.786 TL daha alıp toplam 17.000 TL.
-- Kiralanmış yabancı veya üçüncü şahıs IBAN’ları kullanıldığı belirtildi.
+- ‘Terörsüz Türkiye’ süreci kapsamında Ankara’da kritik görüşmeler yapıldı.
+- Pervin Buldan ve Mithat Sancar Beştepe’de Erdoğan’la görüştü.
+- Toplantıda Efgan Alaylı ve MİT Başkanı İbrahim Kalın vardı.
+- Görüşmede İmralı süreci, yasal çerçeve ve raporlar ele alındı.
+- Sürecin siyasi yansımaları, muhalefete baskı iddialarıyla tartışıldı.
+- Akın Gürlek atamalarının gerilimi artırabileceği değerlendirmeleri yapıldı.
+- Erken seçim ve anayasa değişikliği olasılıkları kulislerde konuşuluyor.
+- Bloomberg analizi, Erdoğan sonrası senaryoların tabu olmadığını yazdı.
+- Analize göre Bilal Erdoğan’ın görünürlüğü ve rolleri giderek artıyor.
+- Riskler olarak enflasyon, geçim sıkıntısı ve Kürt meselesi vurgulandı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=boZMzIJNYwU&t=1737s) (⏱️ 28:57-29:34)
-- [Onlar TV](https://www.youtube.com/watch?v=xupQ4J5xSNA&t=4696s) (⏱️ 78:16-84:10)
+- [Murat Yetkin](https://www.youtube.com/watch?v=UlEXWt9ZoWY&t=752s) (⏱️ 12:32-13:51)
+- [Hilal Koylu](https://www.youtube.com/watch?v=ZB-IkIjgWZY&t=2156s) (⏱️ 35:56-36:06)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=uh_g1c0SyEo&t=54s) (⏱️ 00:54-26:03)
 
 ---
 
-## 7. Meclis Taciz Davasında Tahliye Tepkisi
+## 7. Epstein Belgeleri ve Siyasi Sarsıntı
 
-- Mecliste stajyer öğrencilere taciz ve istismar iddiaları gündeme geldi.
-- Olayla ilgili dava sürerken beş sanıktan dördü tahliye edildi.
-- Sanıklar hakkında iddianamede 16 yıla kadar hapis istendi.
-- Tahliye kararı kadın örgütleri ve çocuk hakları savunucularını harekete geçirdi.
-- Gruplar kararı protesto etti ve adliye önünde eylemler düzenledi.
-- Tahliyeler sosyal medyada geniş tepki yarattı ve tartışma büyüdü.
-- Cumhuriyet Başsavcılığı tahliye kararına resmen itiraz etti.
-- Uzmanlar çocukların rıza veremeyeceğini özellikle vurguladı kamuoyunda.
-- Yargılama sürecindeki sorgulama yöntemleri eleştirildi, mağdurun korunması istendi.
-- Kamuoyunda itiraz sonrası kararın değişip değişmeyeceği konuşuluyor yoğun şekilde.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Hilal Koylu](https://www.youtube.com/watch?v=Q3ohQcu_Bx4&t=1999s) (⏱️ 33:19-35:45)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=kukS7MOPCl8&t=369s) (⏱️ 06:09-06:37)
-
----
-
-## 8. Bad Bunny Super Bowl’da Tartışma Yarattı
-
-- Bad Bunny, Super Bowl devre arası gösterisinde sahne aldı.
-- Gösteri ağırlıkla İspanyolca ve Latin kültürü etrafında kurgulandı.
-- Sahnede Puerto Rico kimliği ve göçmen tarihi vurguları öne çıktı.
-- Şeker kamışı gibi sembollerle sömürgecilik ve emek geçmişi hatırlatıldı.
-- Performans, göçmenlik ve Hispanik toplumun sorunlarına dikkat çekti.
-- Puerto Rico’nun statüsü ve ABD ile ilişkileri dolaylı biçimde işlendi.
-- Donald Trump gösteriyi sert eleştirdi ve rezalet olarak niteledi.
-- Tartışmalar, Trump ile kültür savaşları gerilimini yeniden gündeme taşıdı.
-- Bad Bunny sonrasında Instagram paylaşımlarını sildi, profilini boşalttı.
-- New York Times ve yorumcular, gösteriyi çok seslilik açısından olumladı.
+- DOJ, Epstein dosyasını senatörlere şifreli linkle iletti.
+- Paylaşılan belgelerde birçok isim ve fotoğraf karartılmış görünüyor.
+- Bazı kongre üyeleri karartmaları eleştirip tam şeffaflık talep etti.
+- Thomas Massie ve Ro Khanna konuyu partiler üstü gündeme taşıdı.
+- Belgelerde rahatsız edici ifadeler içeren e-posta yazışmaları da yer aldı.
+- Dosyada Trump adının sık geçmesi siyasi baskıyı artırdı.
+- Uzmanlar, 2026 ara seçimleri sonrası azil tartışması öngörüyor.
+- Belgelerde Sultan Ahmed bin Süleyem gibi uluslararası isimler geçti.
+- Mücahit Ören’in adı yazışmalarla anıldı, mesajını erişime kapattı.
+- Maxwell bağlantıları, mağdurlar ve adadaki iddialar yeniden tartışıldı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=4yAWzzulVJo&t=892s) (⏱️ 14:52-21:30)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=oQoS-XCzedE&t=3406s) (⏱️ 56:46-70:15)
-
----
-
-## 9. Boğaziçi’nde kayyum protestosu ve müdahale
-
-- Boğaziçi Üniversitesi’nde kayyum rektörün kulüp kapatma kararı protesto edildi.
-- Protestolar sırasında kampüste polis ile öğrenciler arasında arbede yaşandı.
-- Güvenlik güçleri müdahalede biber gazı kullandı, çatışma büyüdü.
-- Yoğun gerilimin ardından çevik kuvvet kampüs içinden geri çekildi.
-- Öğrenciler protestoları sürdürdüklerini ve direnişe devam ettiklerini duyurdu.
-- Haberlerde kampüste polis baskınlarının tekrarlandığı, gerginliğin arttığı aktarıldı.
-- Akademisyenlerin ve bazı bölümlerin kaybedildiği, akademik boşalma yaşandığı belirtildi.
-- Öğrenci kulüplerine ait eşyaların alındığı ve alanların boşaltıldığı söylendi.
-- Üniversitenin itibar kaybettiği ve uluslararası sıralamalarda gerilediği vurgulandı.
-- Bazı akademisyenler ders kitaplarını saklayıp geleceğe umut bırakmak istedi.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Onlar TV](https://www.youtube.com/watch?v=xupQ4J5xSNA&t=5050s) (⏱️ 84:10-88:24)
-- [Hilal Koylu](https://www.youtube.com/watch?v=Q3ohQcu_Bx4&t=2145s) (⏱️ 35:45-36:56)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=2QlS0aM1FyQ&t=368s) (⏱️ 06:08-19:24)
+- [Hilal Koylu](https://www.youtube.com/watch?v=ZB-IkIjgWZY&t=1512s) (⏱️ 25:12-35:55)
 
 ---
 
