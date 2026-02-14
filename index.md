@@ -1,108 +1,146 @@
 # Bugün Ne Oldu?
 
-*13 February 2026 tarihli günlük haber raporu - 5 haber birleştirildi*
+*14 February 2026 tarihli günlük haber raporu - 7 haber birleştirildi*
 
-## 1. Yargı Paketi ve Siyasi Baskı Tartışması
+## 1. Bakan Değişikliği Sonrası Siyasi Gerilim
 
-- Akın Gürlek Adalet Bakanı oldu ve hızlı şekilde HSK’yı topladı.
-- Bakan yardımcılarının yetkileri değişti, cezaevi işleri başka isme geçti.
-- Açıklanan 12. yargı paketi Ceza Kanunu ve infaza odaklanıyor.
-- İnfaz düzenlemesinde umut hakkı tartışması siyasi sonuçlar doğurabilir.
-- Terörle mücadele yasası değişikliği Terörsüz Türkiye süreciyle ilişkilendiriliyor.
-- PKK üyelerinin tahliyesinde istihbarat ve emniyet raporları tartışılıyor.
-- Taslak infaz raporu komisyonda görüşülüp ardından Meclis’e taşınacak.
-- Muhalefet, atamaların yargıyı siyasallaştırıp baskıyı artıracağını savunuyor.
-- CHP kurultay davasında mutlak butlan ihtimali meşruiyet krizini büyütebilir.
-- Bölgesel krizler ve Suriye tartışmaları iç politikayı etkileyen baskı yaratıyor.
+- Gece yarısı kararnamesiyle Adalet ve İçişleri bakanlıklarında değişiklik yapıldı.
+- Adalet Bakanlığına Yılmaz Tunç yerine Akın Gürlek atandı.
+- İçişleri Bakanlığında Ali Yerlikaya yerine Mustafa Çiftçi görevlendirildi.
+- Atamaların gerekçesi ve yeni isimlerin geçmiş soruşturmaları tartışma yarattı.
+- TBMM’deki törenlerde sert protestolar ve yumruklu kavga görüntüleri görüldü.
+- Gürlek’in A Haber açıklamaları masumiyet karinesi ihlali diye eleştirildi.
+- CMK maddelerinin yanlış yorumlandığı, soruşturma rolü karıştırıldı denildi.
+- Gizli tanık ve avukat görüşmeleri sözleri savunma hakkını zayıflatabilir.
+- Gürlek’in HSK, savcı atamaları ve cezaevlerinde hızlı değişim bekleniyor.
+- CHP’li Mahmut Tanal’ın eylemleri aktivizm ve dikkat çekme örneği sayıldı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=7jONIt03uDY&t=11s) (⏱️ 00:11-24:51)
-- [Serdar Akinan](https://www.youtube.com/watch?v=PE-pc0XeS0Q) (⏱️ 00:00-07:15)
-- [Unsal Unlu](https://www.youtube.com/watch?v=NZuMwJghqMY&t=949s) (⏱️ 15:49-18:00)
-- [Murat Yetkin](https://www.youtube.com/watch?v=6RiUap-YPKc&t=3s) (⏱️ 00:03-08:51)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=7mqTcBxFRpY&t=212s) (⏱️ 03:32-04:04)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=JvN8WzQ1D4s&t=203s) (⏱️ 03:23-10:04)
+- [Serdar Akinan](https://www.youtube.com/watch?v=lNT6ayEqfe8) (⏱️ 00:00-09:29)
+- [Inan Demirel](https://www.youtube.com/watch?v=ttvU7b71ZYo&t=1123s) (⏱️ 18:43-31:22)
 
 ---
 
-## 2. Boğaziçi’nde Erdoğan Ziyareti ve Protestolar
+## 2. Küresel riskler iklim ve jeopolitiği zorluyor
 
-- Boğaziçi Üniversitesi’nde 4 Ocak 2021’den beri direniş sürüyor.
-- Direniş, rektörlüğe Melih Bulu atanmasıyla başlamıştı.
-- Daha sonra rektör olarak Naci İnci göreve getirildi.
-- Cumhurbaşkanı Erdoğan yurt açılışı için üniversiteyi ziyaret etti.
-- Ziyaret öncesi kampüs çevresine barikatlar ve yoğun güvenlik kuruldu.
-- Kafeler kapatıldı, servisler durduruldu, bazı alanlara giriş sınırlandı.
-- Elektrikler kesildiği iddia edildi, dersler çevrimiçi yapıldı.
-- İdari işler de uzaktan yürütüleceği öğrencilere ve personele duyuruldu.
-- Öğrenciler ve akademisyenler protesto düzenledi, bazı öğrenciler gözaltına alındı.
-- Uygulamalar özgürlükleri kısıtlayan korku iklimi olarak yorumlandı.
+- Bilim insanları AMOC akıntısının yavaşlama riskine dikkat çekiyor.
+- Buzullar eriyince tatlı su karışıyor, okyanus suyunun batması zorlaşıyor.
+- Akıntı zayıflarsa Kuzey Avrupa’ya ılık su taşınması azalıyor.
+- Bazı bölgelerde soğuma ve mini buzul çağı etkisi görülebilir.
+- Diğer bölgelerde kuraklık, aşırı sıcaklar, sel ve fırtınalar artabilir.
+- Etkilerin 2030’larda başlaması, 2035’lerde kısmen derinleşmesi bekleniyor.
+- Bazı projeksiyonlar akıntının 2057 civarı durabileceğini öne sürüyor.
+- Değişimler tarımı, enerji talebini ve yaşam koşullarını zorlayabilir.
+- Avrupa yenilenebilir enerji ve dijital tarımla önlem arıyor, bağımlılık sürüyor.
+- Ayrıca yapay zekâ ve İran gerilimi gibi başka krizler büyüyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Murat Yetkin](https://www.youtube.com/watch?v=6RiUap-YPKc&t=531s) (⏱️ 08:51-10:56)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=D-k4hjbpB-s&t=1715s) (⏱️ 28:35-44:26)
-- [Serdar Akinan](https://www.youtube.com/watch?v=PE-pc0XeS0Q&t=1178s) (⏱️ 19:38-21:56)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=X5cF7LUypv0&t=528s) (⏱️ 08:48-26:28)
+- [Serdar Akinan](https://www.youtube.com/watch?v=lNT6ayEqfe8&t=1413s) (⏱️ 23:33-26:14)
 
 ---
 
-## 3. İstanbul’da Konser Yasakları Tartışması
+## 3. Trafik cezaları artarken sel vurdu
 
-- İstanbul Valiliği bazı konserleri toplumsal değerlere aykırı diyerek yasakladı.
-- Yasaklanan etkinlikler çoğunlukla death metal ve rock türünde.
-- Bazı iddialarda şeytani veya Satanist propaganda yapıldığı öne sürüldü.
-- Geçen hafta da benzer iki konserin yasaklandığı bildirildi.
-- Haftada iki konser ve iki şirket etkinliğinin engellendiği söyleniyor.
-- Bahsi geçen gruplardan biri God Is An Astronaut olarak paylaşıldı.
-- Biletler ve organizasyonlar aylar öncesinden planlanmış ve hazırlanmıştı.
-- İptaller bilet iadesi, program değişikliği ve lojistik sorunlar doğurdu.
-- Yasakların bazı basın ve yerel yetkililerin tepkileriyle bağlantısı tartışıldı.
-- Kararlar sansür tartışması başlattı, sanat camiasında baskı kaygısı artırdı.
+- Trafik kanununda kapsamlı değişiklikler ve yüksek para cezaları getirildi.
+- Şehir içi ve şehirlerarası hız ihlallerinde cezalar belirgin arttı.
+- Bazı hız ihlallerinde ehliyetler 30-90 gün geri alınıyor.
+- Kırmızı ışık, makas, drift ve telefon kullanımına ağır yaptırımlar var.
+- Alkollü veya uyuşturuculu araç kullanma cezaları ciddi yükseltildi.
+- Ölümlü yaralanmalı kazada kaçana hapis ve uzun men geliyor.
+- Türkiye genelinde şiddetli yağışlar, sel ve taşkın görüntüleri paylaşıldı.
+- Antalya-Konya otoyolu su altında kaldı, ulaşım aksadı.
+- Muğla, Bodrum ve Ortakent'te evleri su bastı, hasar büyüdü.
+- İklim değişikliği mevsimleri kısaltıp kuraklık ve seli artırıyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Murat Yetkin](https://www.youtube.com/watch?v=6RiUap-YPKc&t=658s) (⏱️ 10:58-11:49)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=D-k4hjbpB-s&t=1466s) (⏱️ 24:26-28:35)
-- [Unsal Unlu](https://www.youtube.com/watch?v=NZuMwJghqMY&t=1167s) (⏱️ 19:27-19:43)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=X5cF7LUypv0&t=47s) (⏱️ 00:47-03:51)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=JvN8WzQ1D4s&t=1062s) (⏱️ 17:42-27:42)
 
 ---
 
-## 4. Bahis ve kripto ağında operasyon
+## 4. OnlyFans Soruşturmasında 25 Gözaltı Kararı
 
-- Yasa dışı bahis baronu Veysel Şahin’e operasyon yürütüldü.
-- Şahin’in Kıbrıs merkezli olup Türkiye’de de ağ kurduğu belirtildi.
-- Daha önce tutuklanıp cezalar almasına rağmen tahliye edildiği aktarıldı.
-- Savcılık soruşturmasında Şahin’in kripto varlıklarına el konuldu.
-- El konulan kripto miktarı olarak 460 milyon avro açıklandı.
-- Şeref Yazıcı’nın Şahin’in kasası veya yardımcısı olduğu söylendi.
-- Yazıcı’ya atfedilen DarkX kripto firmasına el koyma iddiaları paylaşıldı.
-- DarkX’in Çekya bağlantıları ve farklı ülkelerde ayakları olduğu anlatıldı.
-- Stadyum reklamlarında bahis ve kripto tanıtımları soruşturma çağrısı yaptı.
-- Operasyonun gerekçesi kara para aklama şüphesi ve dijital iz zorluğu.
+- OnlyFans içerik üreticisi olduğu iddia edilen 25 kişiye gözaltı kararı.
+- Operasyon sekiz ilde eş zamanlı baskınlarla gerçekleştirildi.
+- Soruşturma kara para aklama bürosu kapsamında yürütülüyor.
+- Şüphelilerin OnlyFans gelirlerini finans sistemine sokmaya çalıştığı öne sürüldü.
+- Yaklaşık 300 milyon lira değerinde malvarlığına el konuldu.
+- El konulanlar arasında 14 araç, 2 şirket, 10 taşınmaz var.
+- Beş şüphelinin yurt dışında, üç şüphelinin cezaevinde olduğu belirtildi.
+- Diğer şüpheliler gözaltına alındı veya haklarında arama kararı çıkarıldı.
+- Merve Taşkın için gözaltı kararı var, yurt dışında.
+- OnlyFans 2023’te engellendi, VPN ile erişim sürdüğü söylendi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Onlar TV](https://www.youtube.com/watch?v=6XJwWf5UPng) (⏱️ 00:00-05:02)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=D-k4hjbpB-s&t=896s) (⏱️ 14:56-24:26)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=JvN8WzQ1D4s&t=804s) (⏱️ 13:24-15:06)
+- [Inan Demirel](https://www.youtube.com/watch?v=ttvU7b71ZYo) (⏱️ 00:00-09:43)
 
 ---
 
-## 5. Merkez Bankası enflasyon tahminini yükseltti
+## 5. Kara Para Operasyonlarında Gözaltılar
 
-- Merkez Bankası Başkanı Karahan, Ocak enflasyonunu kötü havaya bağladı.
-- Sebze ve meyve fiyat artışları, yüksek enflasyonun nedeni olarak gösterildi.
-- Sunucular açıklamaları bahane ve kurumları aklama çabası diye eleştirdi.
-- Banka enflasyon raporunu sundu, ara hedefini yüzde 16'da bıraktı.
-- Tahmin aralığı yükseldi, hedef fiilen yaklaşık yüzde 18'e revize edildi.
-- Karahan, kira enflasyonunun bu yıl yüzde 30-36 olabileceğini söyledi.
-- Tahminler Hazine ve zam süreçlerinde referans alındığı için önem taşıyor.
-- Revizyonların sabit gelirli milyonları doğrudan etkilediği vurgulandı.
-- Kısa sürede yapılan revizyonların kurumun kredibilitesini zayıflattığı belirtildi.
-- Tekstil ve mobilyada zorluk, işten çıkarmalar ve siyasallaşma eleştirildi.
+- Bugün çok sayıda adrese operasyon yapıldı, gözaltı kararları verildi.
+- Soruşturmanın odağında müstehcenlik değil, kara para aklama şüphesi bulunuyor.
+- Yaklaşık 25 kişi hakkında işlem var, dört kişi yurt dışında.
+- Haberde bazı isimler Gizem Bağda, Merve Taşkın diye geçti.
+- Mal varlıklarına tedbir kondu, yaklaşık 300 milyon TL tespit edildi.
+- MASAK kapsamında iki şirket, 10 taşınmaz ve 14 araca el konuldu.
+- Polis aramalarında bazı erotik materyal ve çeşitli eşyalar gösterildi.
+- Dijital bağış ve ödeme sistemleri denetimi zorlaştırıyor, vergi izleme sorunları doğuruyor.
+- Uyuşturucu ve karapara operasyonlarının sert yürütülmesi, gözdağı tartışmalarını büyüttü.
+- Siyasi mesaj, iktidar içi mücadele ve dosya zamanlaması iddiaları gündemde. 
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=NZuMwJghqMY&t=76s) (⏱️ 01:16-15:47)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=PSN770XaIFQ&t=4s) (⏱️ 00:04-28:48)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=Y1ChnrGHE-Y&t=384s) (⏱️ 06:24-16:04)
+- [Inan Demirel](https://www.youtube.com/watch?v=ttvU7b71ZYo&t=584s) (⏱️ 09:44-18:42)
+
+---
+
+## 6. Ekonomide Daralma ve Alım Gücü
+
+- Tekstil ve giyim sektöründe üretim ile istihdam sert düştü.
+- Aralık itibarıyla tekstil üretimi yıllık yüzde 9,8 geriledi.
+- Giyim üretimi aynı dönemde yıllık yüzde 29,2 düştü.
+- Son üç yılda sektörde yüzbinlerce çalışan işini kaybetti.
+- Resmi işsizlik verileriyle sahadaki tablo arasında tutarsızlık eleştirildi.
+- Ulaşım maliyetleri metrobüs ve Marmaray örnekleriyle ağırlaştı.
+- Günlük hayat pahalılığı vatandaş gelirinde daha büyük pay alıyor.
+- Emekli maaşları artsa da alım gücü belirgin biçimde düşüyor.
+- En düşük emekli maaşı alanların sayısı hızla yükseldi.
+- Kira, gıda ve enflasyon artışı maaşları eritip yardımları artırıyor.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=JvN8WzQ1D4s&t=907s) (⏱️ 15:07-17:41)
+- [Serdar Akinan](https://www.youtube.com/watch?v=lNT6ayEqfe8&t=725s) (⏱️ 12:05-17:01)
+
+---
+
+## 7. Boğaziçi’nde yurt açılışı tartışması
+
+- Cumhurbaşkanı Erdoğan Boğaziçi Üniversitesi’nde yeni yurdun açılışını yaptı.
+- Açılış günü kampüsün tatil edilmesi eleştirilerin merkezinde yer aldı.
+- Törende öğrencilerin görünmemesi, etkinliğin öğrencisiz kurgulandığı iddialarını doğurdu.
+- Bazı eleştirilerde kampüsün boşaltıldığı, gerçek öğrencilerin dışarıda bırakıldığı söylendi.
+- Yerine farklı grupların getirildiği ve görüntülerin bu şekilde oluşturulduğu öne sürüldü.
+- Kampüs içinde polis barikatları, kimlik kontrolleri ve sıkı düzen dikkat çekti.
+- Ziyaretin propaganda gösterisine dönüştüğü, sahnelenmiş atmosfer yaratıldığı iddia edildi.
+- AK Parti’li gençlerle yapılan etkinlik ve konuşmalar ayrıca tartışma yarattı.
+- Yorumlarda üniversitenin kimliği, bağımsızlığı ve özerkliği vurgulandı.
+- Son yıllarda akademik niteliğin zayıflatıldığına dair eleştiriler yeniden gündeme geldi.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=JvN8WzQ1D4s&t=633s) (⏱️ 10:33-13:24)
+- [Serdar Akinan](https://www.youtube.com/watch?v=lNT6ayEqfe8&t=569s) (⏱️ 09:29-12:05)
 
 ---
 
