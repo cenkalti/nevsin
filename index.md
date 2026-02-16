@@ -1,86 +1,88 @@
 # Bugün Ne Oldu?
 
-*15 February 2026 tarihli günlük haber raporu - 4 haber birleştirildi*
+*16 February 2026 tarihli günlük haber raporu - 4 haber birleştirildi*
 
-## 1. Siyaset ve Kürt Dosyasında Yeni Tartışmalar
+## 1. Gürlek açıklamalarıyla hukuk tartışması
 
-- Ali Babacan, YouTube röportajında CHP’ye mesafe koyduğunu söyledi.
-- DEVA’nın altılı masa deneyimi ve yeni ittifak arayışları tartışıldı.
-- Babacan’ın CHP tarihi vurgusu ve eleştirileri seçim etkisiyle konuşuldu.
-- Münih’te Macron ile Mazlum Abdi’nin görüntüleri Türkiye’de tartışma yarattı.
-- İktidar medyasının YPG/PKK dilini süreçlere göre değiştirmediği eleştirildi.
-- Münih’te İlham Ahmet ve Mazlum Abdi, temaslarda öne çıktı.
-- Marco Rubio ile aynı masadaki fotoğraf, ABD ilgisini gösterdi.
-- Şam-Kürt mutabakatının ilerlediği, Halep dengeleri sonrası konuşuldu.
-- Orhan Miroğlu, Kürtlerin farklı halklarla dostluk kurabileceğini savundu.
-- PKK’nin paradigmasının eskidiği, fesih ve tasfiye ihtimali değerlendirildi.
+- İstanbul Başsavcısı Akın Gürlek’in A Haber röportajı tartışma yarattı.
+- Gürlek, İBB ve İmamoğlu soruşturmasını yüzyılın soruşturması diye anlattı.
+- Tutukluların avukatla görüşmesine sınırlama önerileri savunma hakkı endişesi doğurdu.
+- 80 baro, avukat erişimini daraltan düzenlemelere sert tepki gösterdi.
+- İmamoğlu’nun diploma iptali sonrası idari ve ceza davaları sürüyor.
+- 16 Şubat’ta 59. Asliye Ceza’da duruşma yapılması bekleniyor.
+- Silivri yargılamalarında yoğun güvenlik ve giriş engelleri eleştirildi.
+- CHP’de erken seçim çağrısı sürerken aday belirsizliği büyüyor.
+- İmamoğlu engellenirse Mansur Yavaş öne çıkabilir değerlendirmesi yapıldı.
+- Mecliste terörsüz Türkiye komisyonu, umut hakkı ve hukuk konuşuldu.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Inan Demirel](https://www.youtube.com/watch?v=5Yb8tp0H-OM&t=1290s) (⏱️ 21:30-26:15)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=9t-TCdm4rVk&t=353s) (⏱️ 05:53-13:33)
-- [Rusen Cakir](https://www.youtube.com/watch?v=CrjTZrCT25Y&t=22s) (⏱️ 00:22-11:25)
+- [Unsal Unlu](https://www.youtube.com/watch?v=0CQPnBXVm4Q&t=669s) (⏱️ 11:09-14:47)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=5ixpYZrCAQI&t=36s) (⏱️ 00:36-04:58)
+- [Rusen Cakir](https://www.youtube.com/watch?v=Tq3upUk3KpI&t=832s) (⏱️ 13:52-24:55)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=M2IWKydrAPg&t=11s) (⏱️ 00:11-10:26)
+- [Murat Yetkin](https://www.youtube.com/watch?v=Qi5G9xK3org&t=278s) (⏱️ 04:38-13:52)
 
 ---
 
-## 2. Sosyal medya, başarı ve hayat dersleri
+## 2. Münih Konferansı Güvenlik Dengelerini Tartıştı
 
-- Defne Samyeli’nin YouTube röportajı, Twitter’da geniş gündem yarattı.
-- Deren Talu, ilişkilerde herkesin evlilik istediğini söyledi röportajda.
-- Programda fenomenlik ve sosyal medyada görünür olma tartışıldı.
-- Ruşen Çakır, Dilan Yeşilgöz üzerinden Avrupa’daki Kürt başarısını konuştu.
-- Yorumlarda, başarının kökene değil liyakata dayanması gerektiği vurgulandı.
-- Filistin konusundaki görüşleri, Yeşilgöz’e yönelik tepkileri artırdı bazı kesimlerde.
-- Aziz Sancar örneğiyle, emeğin ve başarının kutlanması gerektiği söylendi.
-- Kadriye Olgar, yoksulluktan eczacılığa uzanan yaşamını anlattı detaylarıyla.
-- Borçla eczane kurdu, Kanarya Mahallesi’nde güven kazanıp büyüdü.
-- 54 yıllık evliliği, aktif yaşamı ve Hayatın Şifreleri kitabını paylaştı.
+- Münih Güvenlik Konferansı başladı ve birkaç gün sürmesi bekleniyor.
+- Konferans, artık siyaset barometresi değil, sismograf gibi görülüyor.
+- Türkiye, önceki yıllara göre daha düşük düzeyde temsil gönderdi.
+- Mehmet Şimşek katıldı ancak Suriye panelinde konuşma yapmadı.
+- Hulusi Akar ve MİT Başkanı İbrahim Kalın da yer aldı.
+- Rusya ve İran davet edilmezken, Çin ve Hindistan konferansa katıldı.
+- Macron’un gizli nükleer görüşme sözleri Avrupa başkentlerinde alarma yol açtı.
+- Türkiye’nin nükleer teknoloji alımı iddiaları da konferansta tartışıldı.
+- Mazlum Abdi ve İlham Ahmed görüşmeler yaptı, Batı’da sıcak karşılandı.
+- İran gerilimi, ABD savaş gemileri ve Pasifik gerilimleri öne çıktı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Inan Demirel](https://www.youtube.com/watch?v=5Yb8tp0H-OM&t=2578s) (⏱️ 42:58-46:20)
-- [Rusen Cakir](https://www.youtube.com/watch?v=_xOIc_4CJPw&t=1696s) (⏱️ 28:16-35:40)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=rfEXfNR5nOE&t=90s) (⏱️ 01:30-23:30)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=M2IWKydrAPg&t=1085s) (⏱️ 18:05-26:48)
+- [Murat Yetkin](https://www.youtube.com/watch?v=Qi5G9xK3org&t=5s) (⏱️ 00:05-02:55)
+- [Rusen Cakir](https://www.youtube.com/watch?v=Tq3upUk3KpI&t=1496s) (⏱️ 24:56-37:48)
 
 ---
 
-## 3. Gürlek’in açıklamaları tartışma yarattı
+## 3. Boğaziçi Ziyareti Kutuplaşma Tartışması
 
-- Adalet Bakanı Akın Gürlek, A Haber’de açıklamalarda bulundu.
-- Gürlek iddianameyi savundu, arkasında durduğunu özellikle söyledi.
-- Gizli tanık iddialarını reddetti, maddi deliller bulunduğunu belirtti.
-- Mahkemelerin bağımsız olduğunu, yargıya müdahale etmeyeceğini vurguladı.
-- Tutukluların avukat görüşmelerine dair yeni düzenleme yapılacağını açıkladı.
-- Anayasa hukukçusu Tolga Şirin, açıklamalarda hukuki hatalar olduğunu söyledi.
-- Şirin, yemin ve CMK atıflarının yanlış yorumlandığını belirtti.
-- İsim verilerek süren davaların konuşulması masumiyet karinesini zedeler dedi.
-- 80 baro ortak açıklamayla, avukatları hedef alan sözlere tepki gösterdi.
-- Gürlek ceza ve infaz değişikliği ile yeni yargı paketlerini duyurdu.
+- Cumhurbaşkanı Erdoğan, Boğaziçi Üniversitesi'nde kız ve erkek yurdu açılışına gitti.
+- Ziyaret öncesi kampüs sterilize edildi, yoğun güvenlik önlemleri uygulandı.
+- Bir kız yurdu boşaltıldı, yurtlarda arama yapıldığı öne sürüldü.
+- Akademisyenler ve öğrencilerin çoğu karşılamaya katılmadı veya alınmadı.
+- Karşılayan kalabalıkta öğrenci olmayan, dışarıdan getirilenler olduğu iddia edildi.
+- Fotoğraflardaki “biz çoğunluğuz” söylemi kampüs gerçeğini çarpıtmakla eleştirildi.
+- Yorumcular, Boğaziçi’nde yönetim atamalarını ve kayırmacılık iddialarını hatırlattı.
+- Kulüplerin kapatılması, arşivlerin yok edilmesi gibi suçlamalar gündeme geldi.
+- Üniversitenin bilim üretimi ve özgür düşünceyle değerli olduğu vurgulandı.
+- “Biz-siz” dili kutuplaşmayı artırır, toplumu Lübnanizasyona sürükleyebilir denildi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Inan Demirel](https://www.youtube.com/watch?v=5Yb8tp0H-OM&t=55s) (⏱️ 00:55-05:26)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=KKCeYsthARk&t=421s) (⏱️ 07:01-10:46)
+- [Unsal Unlu](https://www.youtube.com/watch?v=0CQPnBXVm4Q&t=86s) (⏱️ 01:26-07:31)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=M2IWKydrAPg&t=629s) (⏱️ 10:29-18:02)
 
 ---
 
-## 4. Artan Cezalar ve Geçim Baskısı
+## 4. Van’da Et Kuyrukları Gündemde
 
-- Yurt dışı alışveriş ve iç piyasadaki fiyatlar yeniden tartışma yarattı.
-- Küçük esnaf, artan maliyet ve vergilerle ayakta kalmaya çalışıyor.
-- İTO Başkanı Şekip Avdagiç’e atıfla eleştiriler gündeme taşındı.
-- Vize kısıtlamalarına rağmen yurtdışı harcamalarının yükseldiği vurgulandı.
-- Resmi verilere göre turizm geliri arttı, yurtdışı harcama büyüdü.
-- Bazı site ve rezervasyon hizmetlerine erişim kısıtlamaları da tartışıldı.
-- Yeni trafik cezaları kanunu yakında yürürlüğe girecek deniliyor.
-- Ehliyetsiz sürüşe 40 bin, iptalli ehliyete 200 bin ceza.
-- Kırmızı ışık ihlalinde ceza 80 bin liraya ulaşabilecek.
-- Emeklilikte krize karşı tamamlayıcı sistem önerisi eleştiriliyor.
+- Sosyal medyada Van’da et kuyruklarını gösteren fotoğraf paylaşıldı.
+- Fotoğrafın Van Et ve Süt Kurumu önünde çekildiği söylendi.
+- Kaynak olarak Gazete Van gösterildi, tarih 24 Kasım 2025.
+- İnsanlar soğukta bir kilo kıyma veya et için bekledi.
+- Kuyrukların birkaç aydır sürdüğü, kronikleştiği özellikle vurgulandı.
+- Bazı paylaşımlar bunun Ramazan öncesi olduğunu iddia etti.
+- Sunucu, bunun Ramazan’la sınırlı olmadığını ve sürdüğünü söyledi.
+- Görüntüler yoksulluk ve temel gıdaya erişim sorunlarını gündeme taşıdı.
+- Ayrıca Çin’de peluşunu sürükleyen yavru maymun görüntüleri tartışıldı.
+- Maymunun dışlandığı, peluşu güven ve yalnızlık sembolü oldu.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=9t-TCdm4rVk) (⏱️ 00:00-05:52)
-- [Hilal Koylu](https://www.youtube.com/watch?v=e3bKS8g5WKU&t=1160s) (⏱️ 19:20-21:24)
+- [Unsal Unlu](https://www.youtube.com/watch?v=0CQPnBXVm4Q&t=452s) (⏱️ 07:32-10:11)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=v_u4A3lIpKc&t=123s) (⏱️ 02:03-03:35)
 
 ---
 
