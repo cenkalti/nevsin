@@ -1,129 +1,109 @@
 # Bugün Ne Oldu?
 
-*17 February 2026 tarihli günlük haber raporu - 6 haber birleştirildi*
+*18 February 2026 tarihli günlük haber raporu - 5 haber birleştirildi*
 
-## 1. CHP ve Boğaziçi’nde gerilim tartışması
+## 1. Terörsüz Türkiye Raporu Mecliste Tartışıldı
 
-- Boğaziçi’nde Üstün Ergüder, Erdoğan’ın eski ziyaretlerini anlattı.
-- Kampüsün Hisarüstü şehirleşmesiyle sıkıştığı, sorunların aktarıldığı belirtildi.
-- Semih Tezcan dönemindeki duvarın yeşil alanı koruduğu vurgulandı.
-- 28 Şubat sürecinde Boğaziçi’nin başörtülü öğrencileri okutmayı sürdürdüğü söylendi.
-- Ergüder, güncel direnişlerin hedefinin özerklik ve akademik özgürlük olduğunu dedi.
-- Ergüder’e göre Türkiye’de bağımsız burjuvazi zayıf, devlet belirleyici.
-- İhalelerle zenginleşen yeni sınıf, sermayenin özerkliğini aşındırıyor.
-- CHP’de kurultayın yok sayılması anlamındaki mutlak butlan davası konuşuluyor.
-- Geçici tedbir olasılığı, Özgür Özel’in yetkilerinin askıya alınmasını tartıştırıyor.
-- Özel, Akın Gürlek’e mal varlığını açıklama çağrısı yaparak meydan okudu.
+- Terörsüz Türkiye Komisyonu 198 gün sonra raporunu tamamladı.
+- Rapor komisyon oylamasından geçti, TBMM Genel Kurulunda resmileşmedi.
+- Oylamada 47 evet, 2 hayır, 1 çekimser kaydedildi.
+- Türkan Elçi oy kullanmadı, kayıp ailelerini temsil ettiğini söyledi.
+- Raporda PKK’nın silah bırakmasının teyidi ve izleme mekanizması önerildi.
+- Sürece özel müstakil yasa, genel af olmayacak şekilde tasarlandı.
+- İnfazda esneklik, koşullu salıverme ve umut hakkı tartışma yarattı.
+- AYM ve AİHM kararlarına uyum, bazı tutukluları etkileyebilir.
+- Kayyum yerine meclisin başkan seçmesi önerisi muhalefetçe eleştirildi.
+- DEM Parti rapor dilini eleştirdi, liderler zirvesi çağrısı yaptı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=sQw0hKahZNY&t=60s) (⏱️ 01:00-02:40)
-- [Rusen Cakir](https://www.youtube.com/watch?v=3ZMzaNfHjAE) (⏱️ 00:00-07:56)
-- [Murat Yetkin](https://www.youtube.com/watch?v=PmiKxj-4cPg&t=215s) (⏱️ 03:35-04:21)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=a31bFkXsXYY) (⏱️ 00:00-06:25)
-- [Serdar Akinan](https://www.youtube.com/watch?v=fV_4PRj-0ts&t=390s) (⏱️ 06:30-12:56)
+- [Serdar Akinan](https://www.youtube.com/watch?v=DL1X63OsN_M&t=275s) (⏱️ 04:35-10:06)
+- [Rusen Cakir](https://www.youtube.com/watch?v=PfyEmpaJKnY&t=3s) (⏱️ 00:03-11:34)
+- [Murat Yetkin](https://www.youtube.com/watch?v=7Gkhva6pQ0g&t=1s) (⏱️ 00:01-14:31)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=BHJ6lnGRCyE&t=40s) (⏱️ 00:40-40:41)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=rbTr4d25-Xc&t=1980s) (⏱️ 33:00-36:00)
 
 ---
 
-## 2. Ankara’nın Kürt Politikası Yeniden Tartışılıyor
+## 2. Dizi Tartışmaları Sansür ve Otosansür
 
-- Münih’te SDG temsilcileri Batılı ve Suriyeli yetkililerle aynı masadaydı.
-- Fotoğrafta Marco Rubio, Şeybani, Mazlum Abdi ve İlham Ahmed görüldü.
-- DEM’den Hatimoğulları, benzer fotoğrafın Ankara’da çekilmesini istedi bugün.
-- Türkiye’nin Kürtlerle sembolik ilişki kurmaktan kaçındığı eleştirildi açıkça.
-- Şeybani, SDG temaslarının ABD ve Türkiye onayıyla yürüdüğünü söyledi.
-- Türkiye medyası Münih görüntülerini çoğunlukla “terörist” diliyle verdi.
-- Konuklar, Ankara’nın yeni duruma net ve şeffaf politika koymasını savundu.
-- Değerlendirmelere göre Kürtler fiilen otonomiye yakın statü kazandı.
-- İmralı heyeti, Öcalan’ın birinci aşamanın tamamlandığını aktardı.
-- TBMM komisyonu 18 Şubat’ta PKK’nın fesih teyidini görüşecek.
+- Bir dizideki domuz eti sahnesi toplumsal gerilimi yeniden alevlendirdi.
+- RTÜK üyesi İlhan Taşçı, dizi için inceleme başvurusu yaptı.
+- Şikâyet, laik-dindar kesimleri karşılaştırıp ötekileştirme iddiasına dayanıyor.
+- Gazeteciler, ilahiyatçılar ve Türk Ortodoks topluluğundan sert tepkiler geldi.
+- Eleştiriler, reyting için seküler-muhafazakâr kutuplaşmayı kışkırtma suçlamasına odaklandı.
+- Tartışma, düzenleme, sansür ve ifade özgürlüğü dengesini yeniden gündeme taşıdı.
+- Bahçeli’nin Yeraltı dizisini övmesi, yapımların siyaset bağını gösterdi.
+- Arka Sokaklar oyuncusu Zafer Ergin’in Bahçeli’ye sitemi konuşuldu.
+- Berlin’de Özgün Amal’ın açıklaması, baskı ve otosansür tartışmasını büyüttü.
+- Baylok, Ayşe Barım, Aybüke Pusat örnekleri eşit hukuk kaygısını artırdı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Inan Demirel](https://www.youtube.com/watch?v=scmpzVb6AaY&t=7s) (⏱️ 00:07-23:29)
-- [Murat Yetkin](https://www.youtube.com/watch?v=PmiKxj-4cPg&t=5s) (⏱️ 00:05-14:07)
-- [Rusen Cakir](https://www.youtube.com/watch?v=DF4pBIplFWk&t=3s) (⏱️ 00:03-09:22)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=BHJ6lnGRCyE&t=2641s) (⏱️ 44:01-51:52)
+- [Inan Demirel](https://www.youtube.com/watch?v=U8HEpsFDb5A&t=3s) (⏱️ 00:03-01:42)
+- [Serdar Akinan](https://www.youtube.com/watch?v=DL1X63OsN_M&t=609s) (⏱️ 10:09-11:56)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=rbTr4d25-Xc&t=600s) (⏱️ 10:00-22:50)
 
 ---
 
-## 3. Epstein dosyaları gölgesinde ABD krizi
+## 3. İstanbul’da uyuşturucu soruşturması genişliyor
 
-- ABD Kongresi’ne şifreli linkle çok sayıda Epstein belgesi açıldı.
-- Yaklaşık dört milyon belge, onbinlerce video ve fotoğraf iddia ediliyor.
-- Belgeler Epstein ağının uluslararası kapsamını ve suç iddialarını anlatıyor.
-- Adalet Bakanlığı ve FBI, delil karartma suçlamalarıyla eleştiriliyor.
-- Dosyada siyasetçi ve ünlü isimlerin geçtiği iddiaları gündemde.
-- Bazı görüntülerin sahte olabileceği, bu yüzden teyit gerektiği vurgulanıyor.
-- NYT analizi, “Epstein sınıfı”nın demokrasiye etkisini tartışıyor.
-- Kararda süper PAC’ler ve milyarder bağışlarıyla siyaset parayla kuşatıldı.
-- Ray Dalio’ya göre ABD, 2008 sonrası borç döngüsünde zorlanıyor.
-- Borç faizi bütçeyi sıkıştırırken, enflasyon ve güvenli varlıklar konuşuluyor.
+- İstanbul Başsavcılığı yeni bir uyuşturucu operasyonu başlattı, soruşturma büyüyor.
+- 25 kişi için gözaltı kararı verildi, 19’u yakalandı.
+- Altı şüpheli bulunamadı, birinin Brezilya’da olduğu belirtildi.
+- Gözaltında Murat Dalkılıç, Kaan Tangöze ve İsmail Hacıoğlu var.
+- Bazı adreslerde esrar bulundu, küçük miktarlar da kayda geçti.
+- Züber firmasının iki ortağı ve bazı mekan sahipleri gözaltında.
+- Dosya, 28 Aralık ve 5 Ocak dalgalarının devamı.
+- Suçlamalar kullanımın yanında kolaylaştırma ve ticareti de kapsayabiliyor.
+- Operasyonlar itiraflar ve dijital mesaj delilleriyle genişliyor.
+- Cem Küçük, operasyonların yaza kadar sürebileceğini iddia etti.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=sQw0hKahZNY&t=585s) (⏱️ 09:45-35:42)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=b_pZyzG1yw8) (⏱️ 00:00-09:05)
-- [Serdar Akinan](https://www.youtube.com/watch?v=fV_4PRj-0ts&t=777s) (⏱️ 12:57-17:51)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=C8D8qEbTc4o) (⏱️ 00:00-16:43)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=TBGJStMTOiY&t=37s) (⏱️ 00:37-01:15)
 
 ---
 
-## 4. Türkiye’de Tartışmalı Dosyalar Gündemde
+## 4. Erdoğan’ın Adaylığı ve Siyasi Mesajları
 
-- Defne Joy Foster’ın ölümü yeniden şüpheli bulunarak gündeme taşındı.
-- Anne, mahkemede yeterince dinlenmediğini ve sürecin eksik kaldığını söyledi.
-- Anayasa Mahkemesi ve AİHM başvurularının reddedildiği belirtildi.
-- O gece evde Tolga Karel ve Kerem Altan’ın olduğu hatırlatıldı.
-- Aile, dosyanın yeniden açılması ve yeni soruşturma yapılmasını istiyor.
-- Avukat Ersan Taştekin’in dosyayı izlediği, sonra şüpheli öldüğü aktarıldı.
-- İstanbul’daki siyah yalıda günler süren partiler iddiası soruşturuluyor.
-- Partilerde kilo düzeyinde kokain kullanımı ve özel misafirler anlatılıyor.
-- Yalı, Garipoğlu ailesiyle ilişkilendiriliyor; Kasım Garipoğlu için arama kararı var.
-- Açık mektup, küçük uyuşturucu manşetleri yerine lojistik ağların çökertilmesini savundu.
+- AK Parti’li Bekir Bozdağ, Erdoğan’ın adaylığı tartışmasını değerlendirdi.
+- Bozdağ, Erdoğan yeniden aday olursa anayasaya aykırı denemez dedi.
+- Tartışma, Anayasa’nın 101. maddesi ve süre yorumlarına odaklandı.
+- Erken seçim ya da anayasa değişikliği ihtimali kamuoyunda konuşuluyor.
+- Erdoğan, Afrika ziyaretinden dönüşte gazetecilerin sorularını yanıtladı.
+- Erdoğan, CHP’nin siyasi üslubunu eleştirdi ve sert ifadeler kullandı.
+- Aile politikalarını savundu, nüfus artışını stratejik hedef gösterdi.
+- Rusya ve Suudi Arabistan örnekleriyle nüfus politikasını gerekçelendirdi.
+- Açıklamalar, iktidarın siyaset tarzı ve gündemini yansıttı.
+- Erdoğan’ın mesajları, olası siyasi adımlara işaret olarak yorumlandı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=a31bFkXsXYY&t=386s) (⏱️ 06:26-13:51)
-- [Serdar Akinan](https://www.youtube.com/watch?v=fV_4PRj-0ts&t=33s) (⏱️ 00:33-06:30)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=rbTr4d25-Xc&t=1370s) (⏱️ 22:50-27:00)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=TBGJStMTOiY&t=164s) (⏱️ 02:44-03:20)
 
 ---
 
-## 5. Siyasette etik tartışmaları büyüyor
+## 5. Aysever iddianamesi ve Cengiz soruşturması
 
-- Ahmet Davutoğlu, NaO TV’de maddi sıkıntı yaşadığını söyledi.
-- Davutoğlu, bazı siyasetçilerin benzer şikayetlerinin tartışma yarattığını belirtti.
-- Eski bakanların şirket yönetimlerine geçmesini eleştirdi, doğru bulmadı.
-- Bu tür ticari görevlere geçişin etik açıdan sorunlu olabileceğini vurguladı.
-- Mehmet Ağar’ın yeni İçişleri Bakanı Mustafa Çiftçi ziyareti gündem oldu.
-- Ziyarete ait fotoğraf kamuoyunda tartışma ve yorumlara neden oldu.
-- Ağar, ziyaretin bakanlık geleneğiyle hayırlı olsun amaçlı olduğunu savundu.
-- Geçmişte Ali Yerlikaya gibi yetkilileri de ziyaret ettiğini söyledi.
-- Sunucu, ziyaretin diyalogları güçlendirme niyeti taşıyabileceğini değerlendirdi.
-- İki olay, siyaset ve ilişki ağlarına dair etik tartışmaları büyüttü.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Murat Yetkin](https://www.youtube.com/watch?v=PmiKxj-4cPg&t=75s) (⏱️ 01:15-02:37)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=sQw0hKahZNY&t=243s) (⏱️ 04:03-05:27)
-
----
-
-## 6. ABD-İran geriliminde askeri ve medya hamleleri
-
-- ABD’nin Orta Doğu’ya büyük bir askeri yığınak yaptığı bildirildi.
-- Bölgeye iki uçak gemisi grubu, savaş gemileri gönderiliyor.
-- Denizaltıların da sevk edildiği ve uzun savaş kapasitesi vurgulanıyor.
-- Bu güçlerin aylar sürebilecek savaşı destekleyecek füzelere sahip olduğu belirtildi.
-- Olası senaryolar arasında İran’ın nükleer tesislerine saldırı öne çıkıyor.
-- Diğer senaryolar rejim değişikliği ya da askeri kapasiteyi kırma.
-- Nükleer tesis saldırısının ağır zarar verip rejimi devirmeyebileceği söylendi.
-- Kara işgali ihtimali düşük görülüyor; geçmiş örnekler uzun sürdü.
-- İran’ın İHA üretimi ve Hürmüz hamlesi savaş süresini etkileyebilir.
-- İran, Netanyahu’nun kaçırıldığı provokatif videolarla algı oluşturuyor.
+- Gazeteci Enver Aysever hakkında iddianame hazırlandı, hapis istemi var.
+- İddianamede Aysever için üç yıla kadar hapis talep ediliyor.
+- Süreçte duruşma takvimi belirlenecek ve Aysever mahkemeye çıkacak.
+- Konuk, ilk duruşmada tahliye kararı beklediğini dile getirdi.
+- Savcılığın istediği cezanın mahkemede değişebileceği hatırlatıldı.
+- Polis memuru Mehmet Cengiz’in intihar ettiği yönünde haberler paylaşıldı.
+- Ailesi, Cengiz’in amirleriyle uyumsuzluk ve baskı yaşadığını söyledi.
+- İddialar arasında görev değişikliği, izin engeli ve müdür baskısı var.
+- Cengiz’in karakolda X-ray cihazı başında görevlendirildiği aktarıldı.
+- Olayla ilgili soruşturma başlatıldı, hassas yürütülmesi çağrısı yapıldı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Serdar Akinan](https://www.youtube.com/watch?v=fV_4PRj-0ts&t=1071s) (⏱️ 17:51-21:51)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=sQw0hKahZNY&t=409s) (⏱️ 06:49-08:20)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=C8D8qEbTc4o&t=1011s) (⏱️ 16:51-17:37)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=rbTr4d25-Xc&t=3165s) (⏱️ 52:45-57:36)
 
 ---
 
