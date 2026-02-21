@@ -1,45 +1,65 @@
 # Bugün Ne Oldu?
 
-*20 February 2026 tarihli günlük haber raporu - 2 haber birleştirildi*
+*21 February 2026 tarihli günlük haber raporu - 3 haber birleştirildi*
 
-## 1. Yargı ve emniyette güven krizi
+## 1. ABD-İran Gerilimi Bölgeyi Tedirgin Etti
 
-- Bakırköy Savcılığı Casperlar çetesine operasyon düzenledi, 17 şüpheli yakalandı.
-- Gözaltına alınanların dokuzu polis, dijital deliller incelemeye alındı.
-- WhatsApp yazışmaları polislerle çete arasında bilgi paylaşımını gösterdi.
-- Polnet verilerinin sızması hedef takibini kolaylaştıran kritik bir risk.
-- Bazı verilerin yurt dışına sızdığı, istihbarat bağlantısı iddia edildi.
-- Tuzlaspor çevresinde yasa dışı bahis, şike ve para aklama iddiaları tartışıldı.
-- MASAK ve mali şube incelemeleri bazı şüpheli para akışlarını doğruladı.
-- Gazeteci Alican Uludağ, 22 paylaşım gerekçesiyle gözaltına alındı.
-- Uludağ İstanbul’da tutuklandı, basın örgütlerinden sert tepkiler yükseldi.
-- Resmî Gazete atamaları ve adliye saldırısı, kurum güvenini tartışmaya açtı.
+- ABD’nin İran’a saldırmış olabileceği iddiası yayınlara yansıdı.
+- Sunucular saldırı olmamasını diledi ve ciddi endişe paylaştı.
+- ABD, bölgeye büyük deniz ve hava gücü konuşlandırdı.
+- İran’a yaklaşık on günlük uyarı verildiği iddia edildi.
+- Rusya, İran’a destek mesajı için bölgeye gemi gönderdi.
+- Olası çatışmanın bölgesel ve küresel gündemi gölgeleyeceği söylendi.
+- Gerilimin Türkiye’ye göç dalgası ve istikrarsızlık riski var.
+- Türkiye, sınır güvenliği ve bölgesel etkiler nedeniyle kaygılı.
+- Dışişleri Bakanı Hakan Fidan’ın bölge temasları sürdüğü aktarıldı.
+- Bu gelişmeler, arabuluculuk girişimlerini yeniden önemli hale getirdi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Onlar TV](https://www.youtube.com/watch?v=4CzK2Xlqqqo&t=552s) (⏱️ 09:12-35:32)
-- [Murat Yetkin](https://www.youtube.com/watch?v=K5x2Dx32Tq0&t=139s) (⏱️ 02:19-06:56)
-- [Unsal Unlu](https://www.youtube.com/watch?v=ZpdhfV1O580&t=94s) (⏱️ 01:34-15:44)
+- [Rusen Cakir](https://www.youtube.com/watch?v=8u1b6nFOuq8&t=3s) (⏱️ 00:03-13:36)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=FERHR5ULo7s&t=175s) (⏱️ 02:55-03:11)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=h1cCqX4lwWM&t=3029s) (⏱️ 50:29-57:41)
 
 ---
 
-## 2. Sosyal Medyada Din ve Yüzeysellik
+## 2. Alican Uludağ’ın Tutuklanması Tartışma Yarattı
 
-- Sosyal medyada dinî ve tarihî içerikler hızla yayılıyor.
-- Samsunlu fenomen Celal Karatüre esnaf dükkânlarında ilahiler söylüyor.
-- Videolarda küçük orkestra eşliği ve neşeli tavırlar dikkat çekiyor.
-- İlahilerin reklamla iç içe kullanılması ticarileşme eleştirisi doğuruyor.
-- İzlenme sayıları milyonlara çıkarken repertuarın sınırlı olduğu söyleniyor.
-- Ramazan yaklaşırken benzer dinî içeriklerin daha da artacağı öngörülüyor.
-- TikTok’ta Atatürk’e benzeyen kişiler canlı yayında bağış topluyor.
-- Bazı izleyicilerin bilgi yerine duyguya kapılıp para verdiği savunuluyor.
-- Yorumcular bunu toplumsal yüzeysellik ve sığlaşma göstergesi sayıyor.
-- Türkiye’de gençler dinden uzaklaşıyor, cemaatlerin çekiciliği azalıyor.
+- Gazeteci Alican Uludağ Ankara’daki evinden gece gözaltına alındı.
+- Gözaltı sırasında aile fertleri ve çocuklarının evde olduğu belirtildi.
+- Soruşturma İstanbul Cumhuriyet Başsavcılığı tarafından başlatıldı, Uludağ İstanbul’a götürüldü.
+- Savcılık, Cumhurbaşkanına hakaret içeren eski bir tweeti gerekçe gösterdi.
+- Uludağ paylaşımının eleştiri olduğunu, ifade vermediğini söyledi.
+- İstanbul ve Ankara’da meslek örgütleri, gazeteciler ve barolar tepki gösterdi.
+- Uludağ, gazeteciliğine ve kaynaklarına gözdağı verildiğini savundu.
+- Tutuklama kararı verilerek süreç adli baskı tartışmalarını büyüttü.
+- Adalet Bakanı Akın Gürlek sonrası atamalar yargı bağımsızlığı kaygısı doğurdu.
+- İstanbul Cumhuriyet Başsavcılığına Fatih Dönmez atanması eleştirileri artırdı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=4ZXain_7Ncs&t=58s) (⏱️ 00:58-12:07)
-- [Rusen Cakir](https://www.youtube.com/watch?v=7iih64EHqVY&t=5s) (⏱️ 00:05-08:55)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=h1cCqX4lwWM&t=30s) (⏱️ 00:30-22:12)
+- [Rusen Cakir](https://www.youtube.com/watch?v=zpG13-nwL8A&t=32s) (⏱️ 00:32-17:50)
+
+---
+
+## 3. Meclis Komisyonu Raporu Tartışma Yarattı
+
+- TBMM Milli Dayanışma, Kardeşlik ve Demokrasi Komisyonu raporu yayımlandı.
+- Rapor, bazı değişiklikler yapılmadan nihai metin olarak açıklandı.
+- Metne ayrıca ek tutanaklar ve komisyon görüşme kayıtları eklendi.
+- Muhalefet, raporda Kürt sorunu başlığının eksik kaldığını savundu.
+- Eleştiriler, raporun terör eksenine sıkıştığı iddiasında yoğunlaştı.
+- Muhalefet itirazları şerh değil, tutanak ekiyle rapora girdi.
+- Rapor, AYM ve AİHM kararlarına uyum önerileri içeriyor.
+- Muhalefet, önerilerin yetersiz kaldığını ve kapsamın dar tutulduğunu söyledi.
+- Tartışma, infaz reformu ve seçim mevzuatı olasılıklarına bağlandı.
+- Öcalan görüşmeleri ve tecrit tartışması gündemde, kısa vadede açılım beklenmiyor.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=h1cCqX4lwWM&t=1836s) (⏱️ 30:36-50:25)
+- [Rusen Cakir](https://www.youtube.com/watch?v=zpG13-nwL8A&t=1071s) (⏱️ 17:51-46:31)
 
 ---
 
