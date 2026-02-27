@@ -1,88 +1,68 @@
 # Bugün Ne Oldu?
 
-*26 February 2026 tarihli günlük haber raporu - 4 haber birleştirildi*
+*27 February 2026 tarihli günlük haber raporu - 3 haber birleştirildi*
 
-## 1. Laiklik Tartışması Eğitimde Krize Döndü
+## 1. Laiklik Tartışması Okullara ve Siyasete Taştı
 
-- Türkiye’de laiklik tartışması, Ramazan okulu genelgeleriyle yeniden alevlendi.
-- 168 imzalı laiklik bildirisi yayımlandı, aydınlar ve STK’lar imzaladı.
-- Cumhurbaşkanı Erdoğan grup toplantısında imzacıları hedef alarak eleştirdi.
-- MHP lideri Bahçeli de bildiriyi sert sözlerle kınadı.
-- Milli Eğitim Bakanı Yusuf Tekin, imzacılar hakkında dava açılacağını açıkladı.
-- Bazı kuruluşlar Tekin hakkında suç duyurusu yaparak dava başlattı.
-- Hukukçular, devletin tek dine dayalı okul uygulamalarını eleştirdi.
-- İmam hatipte çocuklara okutulan selefi yemin görüntüleri gündeme geldi.
-- İl Milli Eğitim soruşturma başlattı; Erdoğan görüntüyü savundu.
-- Kocaeli’de zil yerine ilahi çalınması ve veli gözaltı iddiası konuşuldu.
+- 168 imzalı laiklik bildirisi siyasette yeni tartışma başlattı.
+- İktidar kanadı bildiriyi hedef aldı, sert açıklamalar yaptı.
+- Bazı imzacılar ve destekçiler sosyal medyada linç edildi.
+- Bildirinin ardından hakaret ve tahrik iddialarıyla suç duyuruları yapıldı.
+- Laikliği savunan üç kişi pankart eylemi sonrası gözaltına alındı.
+- Gözaltılar bazı vakalarda ev hapsine çevrildiği belirtildi.
+- Milli Eğitim Bakanlığı okullara Ramazan etkinlikleri genelgesi gönderdi.
+- Velilerden tepkiler geldi, Derince’de bir veli gözaltı anlattı.
+- Okullarda din odaklı uygulamalar ve çocuklara imza tartışıldı.
+- Erdoğan ve muhalefet laiklik üzerinden kutuplaşma ve gündem eleştirileri yaptı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Inan Demirel](https://www.youtube.com/watch?v=0EmN34Xy8DQ&t=1s) (⏱️ 00:01-00:36)
 - [Nevsin Mengu](https://www.youtube.com/watch?v=5Doc9CB95EQ&t=10s) (⏱️ 00:10-09:30)
-- [Rusen Cakir](https://www.youtube.com/watch?v=ckr5FoxBlTY&t=3s) (⏱️ 00:03-09:29)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=wjhEp_NDQgk&t=58s) (⏱️ 00:58-12:14)
-- [Serdar Akinan](https://www.youtube.com/watch?v=1O07yWgBCTI&t=34s) (⏱️ 00:34-02:49)
+- [Onlar TV](https://www.youtube.com/watch?v=mNow9U1EKP4&t=220s) (⏱️ 03:40-31:49)
+- [Inan Demirel](https://www.youtube.com/watch?v=xWZgmtkFBOg&t=4s) (⏱️ 00:04-00:36)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=f2JegShwaQ0&t=49s) (⏱️ 00:49-15:47)
 
 ---
 
-## 2. Bölgede Pazarlıklar ve Güvenlik Gündemi
+## 2. Siyaset ve kamu iddiaları gündemde
 
-- ABD ile İran Cenevre’de müzakereleri sürdürürken orta yol arıyor.
-- Masada İran’ın nükleer faaliyetleri belirli süre dondurma teklifi konuşuluyor.
-- Teklif, uranyum zenginleştirmeye sınır ve düşük seviyeye izin içeriyor.
-- Taraflar bölgesel etkileri değerlendiriyor, savaş riskini azaltma beklentisi öne çıkıyor.
-- ABD’de İran’a olası operasyonun küresel maliyeti yüksek görülüyor.
-- Kasım kongre seçimleri öncesi ABD kamuoyunda operasyon desteği düşük.
-- İsrail’in İran konusunda aceleci olmadığı, perde arkasında pazarlıklar sürdüğü söyleniyor.
-- Türkiye’nin İran’a yönelik operasyonda yer alacağı iddialarını MSB reddetti.
-- Bir F-16 pilotu ölümü soruşturması sürüyor, spekülasyonlara uyarı yapıldı.
-- İmralı’da Öcalan’a güçlü talep iletildiği ve MİT raporu hazırlandığı konuşuluyor.
+- Tunç Soyer’in tutukluluğu ve iddialar programda yeniden gündeme geldi.
+- Kızı ve avukatı, Soyer’in sekiz aydır tutuklu olduğunu söyledi.
+- Soruşturma, kentsel dönüşüm kooperatifleriyle ilgili zimmet iddialarına dayanıyor.
+- Avukat, zimmete dair delil olmadığını ve sorumluluğun kooperatifte olduğunu belirtti.
+- AKP Tekirdağ vekili Mestan Özcan’ın “geçinemiyorum” sözü tepki topladı.
+- Özcan’ın ailesinin, çok şubeli Özcanlar Köfte işletmesiyle bağlantısı hatırlatıldı.
+- Fiyat ve porsiyon değişimleri, yüksek zamlarla birlikte örneklerle anlatıldı.
+- Vergi beyanlarında dalgalanma ve KDV uygulamasıyla haksız avantaj iddiası gündeme geldi.
+- Aile Bakanlığı’nda torpil iddiası ve haberlere erişim engeli tartışması büyüdü.
+- Sunucu, tehdit ve taciz mesajları için savcılığa başvurduğunu açıkladı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=wjhEp_NDQgk) (⏱️ 00:00-00:56)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=5Doc9CB95EQ&t=2280s) (⏱️ 38:00-44:30)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=b68mxl48cS8&t=48s) (⏱️ 00:48-02:22)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=5Doc9CB95EQ&t=1620s) (⏱️ 27:00-29:00)
+- [Onlar TV](https://www.youtube.com/watch?v=mNow9U1EKP4&t=1911s) (⏱️ 31:51-38:30)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=f2JegShwaQ0&t=228s) (⏱️ 03:48-21:00)
 
 ---
 
-## 3. Özel’in siyaset gündemi tartışması
+## 3. Öcalan Mesajı ve Sürecin Seyri
 
-- Özgür Özel, siyasetin ilahi tartışmaması gerektiğini söyledi.
-- Dinî ritüellerin uygun yerde, zamanda ve saygıyla yapılmasını savundu.
-- Siyasetin gündemi işsizlik, yoksulluk ve ekonomik çözüm olmalı dedi.
-- Dini yaşama saygı duyduğunu, siyasetin odağını ayırdı.
-- Özel’in Silivri ziyaretleri ve miting pratiği muhalefette tartışıldı.
-- Muhalefeti birleştirme çabası ve meydan çağrıları öne çıktı.
-- İletişim zayıflıkları ve hikâye kurma eksikleri eleştirildi.
-- İktidarın Erdoğan merkezli, kriz odaklı siyaset kurduğu değerlendirildi.
-- Saraçane daveti ve 19 Mart bölge miting planları aktarıldı.
-- Özel, Akın Gürlek’i mal varlığını açıklamaya çağırdı.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Nevsin Mengu](https://www.youtube.com/watch?v=5Doc9CB95EQ&t=1020s) (⏱️ 17:00-22:00)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=b68mxl48cS8&t=269s) (⏱️ 04:29-27:34)
-
----
-
-## 4. Erdoğan’ın 72. yaş kutlamaları gündemde
-
-- Cumhurbaşkanı Erdoğan 72 yaşına girerken doğum günü kutlamaları paylaşıldı.
-- AK Parti, Erdoğan için kutlama videosu ve mesajları yayımladı.
-- İstanbul Valisi Davut Gül’ün paylaştığı eski fotoğraf gündem oldu.
-- 1994 seçimleri döneminden Erdoğan’la ilgili bir anı hatırlatıldı.
-- İhsan Aktaş, Erdoğan’ın geçmişteki tavrına dair anlatım yaptı.
-- Eski CHP’lilerin AK Parti’ye geçiş sonrası övgüleri tartışma yarattı.
-- Doğum günü mesajları, Erdoğan çevresindeki güç dengelerini gösterdi.
-- Ufuk Güldemir’in 2005 yazısı, balık tutma vurgusuyla okundu.
-- Yazı, liderin normalliğinin siyaset açısından önemli olduğuna değindi.
-- İktidar içinde gelecek stratejisi ve yeni anayasa senaryoları konuşuluyor.
+- 27 Şubat’ta Öcalan mesajı Ankara’da iki dilde okundu.
+- Geçen yıl İstanbul’daki barış çağrısının bugün birinci yıldönümü.
+- Kürtçe metni Veys Aktaş okudu, Türkçeyi Pervin Buldan.
+- Geçen yıl metni Ahmet Türk okumuş, Önder ekleme yapmıştı.
+- Mesaj, doğrudan hemen silah bırakma çağrısı içermedi.
+- Öcalan silahlı siyasetin sonu ve yeni aşama vurgusu yaptı.
+- Anayasa, vatandaşlık, dil ve yerel yönetimlerde değişiklik istedi.
+- 42, 66 ve 127’nci maddeler süreçte öne çıktı.
+- PKK’nın fesih, silah bırakma ve sembolik yakma adımları anlatıldı.
+- Kayyum, tutuklular, Meclis adımları ve entegrasyon hâlâ belirsiz.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Nevsin Mengu](https://www.youtube.com/watch?v=5Doc9CB95EQ&t=1320s) (⏱️ 22:00-27:00)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=b68mxl48cS8&t=1655s) (⏱️ 27:35-30:17)
+- [Rusen Cakir](https://www.youtube.com/watch?v=ADSREu8E2Ro&t=20s) (⏱️ 00:20-09:30)
+- [Murat Yetkin](https://www.youtube.com/watch?v=IlG2hk2TjHI&t=219s) (⏱️ 03:39-15:10)
+- [Onlar TV](https://www.youtube.com/watch?v=mNow9U1EKP4&t=3832s) (⏱️ 63:52-70:30)
 
 ---
 
