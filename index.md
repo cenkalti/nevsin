@@ -1,70 +1,135 @@
 # Bugün Ne Oldu?
 
-*1 March 2026 tarihli günlük haber raporu - 3 haber birleştirildi*
+*2 March 2026 tarihli günlük haber raporu - 6 haber birleştirildi*
 
-## 1. İran’a Saldırılar Bölgesel Krizi Büyüttü
+## 1. İran Krizi Bölgeye Yayılıyor
 
-- İsrail, İran’a geniş çaplı hava ve füze saldırıları başlattı.
-- Operasyona ABD’nin destek verdiği ve koordinasyon sağladığı aktarıldı.
-- İlk dalgada liderlik kampüsü ve güvenlik toplantısı hedef alındı.
-- Hamaney’in öldürüldüğü iddiası sonra resmen doğrulandı denildi.
-- Şemhani ve üst düzey komutan ölümleri hakkında çelişkiler yaşandı.
-- Saldırılarda F35, B2, Tomahawk ve sığınak delici mühimmat kullanıldı.
-- İran’ın 300 füze fırlattığı ve geniş misilleme planladığı öne sürüldü.
-- Hürmüz Boğazı’nda gemiler bekledi, sigorta riskleri taşımayı azalttı.
-- Türkiye tarafsızlık vurguladı, Erdoğan ve muhalefetten sert tepkiler geldi.
-- Dezenformasyon uyarıları yapıldı, bölgesel savaş ve göç riski tartışıldı.
+- ABD ve İsrail İran’a saldırılar başlattı, bölgesel kriz derinleşti.
+- Tahran’da hastane ve sivil hedeflerin vurulduğu iddiaları tartışılıyor.
+- İran, son 48 saatte ABD üslerine ve bölgeye füzeler fırlattı.
+- CENTCOM bazı vurulma görüntülerini yayımladı, kayıplar konusunda belirsizlik sürüyor.
+- Körfez kentleri, Irak ve Erbil dahil farklı noktalar hedef alındı.
+- Hürmüz Boğazı çevresinde gemi trafiği, sigorta ve sevkiyat riski arttı.
+- İran’da Hamaney’in öldüğü duyuruldu, geçici liderlik konseyi atandı.
+- Trump’ın sert çağrıları ve suikast tartışmaları uluslararası hukuk eleştirisi doğurdu.
+- Dünya liderleri tepki verdi, Avrupa’da protestolar ve anketlerde karşıtlık öne çıktı.
+- Erdoğan barış çağrısı yaptı, telefon diplomasisi ve arabuluculuk belirsiz kaldı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Inan Demirel](https://www.youtube.com/watch?v=-BqUhxUC4hQ&t=12s) (⏱️ 00:12-26:33)
-- [Hilal Koylu](https://www.youtube.com/watch?v=EiKmrJfjXdM&t=23s) (⏱️ 00:23-29:58)
-- [Serdar Akinan](https://www.youtube.com/watch?v=da4QH7IyhmQ&t=18s) (⏱️ 00:18-20:24)
-- [Murat Yetkin](https://www.youtube.com/watch?v=EX_RY3cMUCw&t=147s) (⏱️ 02:27-06:04)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=F-xv3OvrkNI&t=506s) (⏱️ 08:26-09:48)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=X7nm38VJByc&t=5s) (⏱️ 00:05-27:13)
+- [Unsal Unlu](https://www.youtube.com/watch?v=36q5xlx6mZY&t=148s) (⏱️ 02:28-04:26)
+- [Serdar Akinan](https://www.youtube.com/watch?v=APFLXCbcONA&t=18s) (⏱️ 00:18-03:15)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=eap2HCyoQ6o&t=19s) (⏱️ 00:19-14:22)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=NmazXBqkSCE&t=13s) (⏱️ 00:13-45:08)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=rIyDwObe1XY&t=215s) (⏱️ 03:35-23:00)
+- [Hilal Koylu](https://www.youtube.com/watch?v=kKnGR3YUk1Y&t=330s) (⏱️ 05:30-06:55)
+- [Inan Demirel](https://www.youtube.com/watch?v=Y2vJVUT25QA) (⏱️ 00:00-00:24)
 
 ---
 
-## 2. Gazeteci ve Tanju Özcan Gözaltıları
+## 2. Savaş gerilimi Türkiye piyasalarını sarstı
 
-- Anka Genel Yayın Yönetmeni Kenan Şener hakkında gözaltı kararı verildi.
-- Soruşturma, Anka’nın İncirlik’ten canlı yayın yapmasıyla bağlantılı yürütülüyor.
-- Adana Cumhuriyet Başsavcılığı, üssün faaliyetlerinin görüntülenmesini inceliyor.
-- Bazı gazeteciler gözaltına alındı veya ifade için çağrıldı.
-- Avukatlar, yakalama kararının orantısız ve gereksiz olduğunu savundu.
-- Tartışmada askeri tesis görüntülemenin yasak olup olmadığı konuşuldu.
-- Olayın basın özgürlüğüne baskı ve gözdağı riski taşıdığı belirtildi.
-- CHP’li Bolu Belediye Başkanı Tanju Özcan sabah saatlerinde gözaltına alındı.
-- Özcan geceyi gözaltında geçirdi, soruşturmanın sürdüğü bildirildi.
-- İddialar, vakıf üzerinden yardım talebi ve market baskısı üzerine. 
+- Bölgesel savaş gerilimi piyasaları dalgalandırdı, Borsa düşüşle açıldı.
+- Altın, gümüş ve petrol fiyatlarında spekülatif yükselişler gözlendi.
+- Hürmüz Boğazı riskleri sigorta ve nakliye maliyetlerini artırdı.
+- Uzmanlar, Hürmüz’ün kapanmasının düşük ihtimal olduğunu vurguladı.
+- Petrolün kısa vadede 80 dolar civarında dengelenmesi öngörüldü.
+- Petroldeki her 10 dolarlık artış cari açığı büyütebilir.
+- Artan enerji maliyetleri Türkiye’de enflasyonu ve fiyatları yukarı iter.
+- Merkez Bankası likiditeyi sıkılaştırdı, gecelik faiz 40’a çıktı.
+- Repo ihaleleri durduruldu, vadeli döviz satım işlemleri başlayacak.
+- Borsa İstanbul algoritmik işlemleri sınırladı, panik satışlarını önlemeyi hedefledi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Inan Demirel](https://www.youtube.com/watch?v=-BqUhxUC4hQ&t=2658s) (⏱️ 44:18-50:47)
-- [Hilal Koylu](https://www.youtube.com/watch?v=EiKmrJfjXdM&t=19s) (⏱️ 00:19-00:23)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=X7nm38VJByc&t=1634s) (⏱️ 27:14-29:47)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=rIyDwObe1XY&t=21s) (⏱️ 00:21-03:34)
+- [Serdar Akinan](https://www.youtube.com/watch?v=APFLXCbcONA&t=1216s) (⏱️ 20:16-43:44)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=NmazXBqkSCE&t=2992s) (⏱️ 49:52-52:12)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=eap2HCyoQ6o&t=862s) (⏱️ 14:22-34:14)
+- [Inan Demirel](https://www.youtube.com/watch?v=rSsdCjC9pIA&t=1130s) (⏱️ 18:50-34:00)
 
 ---
 
-## 3. Laiklik ve Medya Tartışmaları Büyüyor
+## 3. Hamaney’in ölümüyle İran’da belirsizlik
 
-- Sözcü TV’de bir astrologun savaş tahminleri kamuoyunda tartışma yarattı.
-- Yorumlarda astroloji değerlendirmeleriyle uzman analizleri sıkça karşılaştırıldı.
-- Eleştiriler yayın profesyonelliği, standartlar ve etik tercihleri üzerinde yoğunlaştı.
-- Tartışma, medyanın konu seçimi ve konuk çeşitliliğini gündeme taşıdı.
-- X’te Cübbeli Ahmet ile Halis Bayancuk arasında sert polemik başladı.
-- Polemik, Arnavutköy’de öğretmenin çocuklara selefi andı içirtmesiyle büyüdü.
-- MEB’in Ramazan genelgesiyle okullarda dini motiflerin arttığı savunuldu.
-- Cübbeli, selefileri müşriklik suçlamaları ve askerlik karşıtlığıyla eleştirdi.
-- Bayancuk karşılık verdi, canlı yayında tartışma çağrısı yaptı.
-- MEB, laikliği savunan bildiri imzacıları hakkında suç duyurusu yaptı.
+- Ali Hamaney’in öldürülmesi İran’da tarihi bir kırılma yarattı.
+- Ülkede vilayet-i fakih ile cumhurbaşkanlığı arasında paralel yapı var.
+- Devrim Muhafızları ve bağlı kurumlar devlet aygıtını fiilen denetliyor.
+- Hamaney ordu, yargı, medya ve dış politikada belirleyiciydi.
+- Ölüm sonrası üç kişilik geçici konseyin yetki kullandığı bildirildi.
+- Sokakta intikam sloganları yükseldi, Pezeşkian da intikam vurguladı.
+- Liderlik için Mücteba Hamaney, Laricani, Ruhani gibi isimler konuşuluyor.
+- Uzmanlar Meclisi ve Anayasa Koruyucular Konseyi seçimi etkileyebilir.
+- Ekonomik kriz ve protesto geçmişi, istikrarsızlık riskini artırıyor.
+- Vekil güç ağlarının zayıflaması, rejimin bölgesel etkisini azaltıyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Inan Demirel](https://www.youtube.com/watch?v=-BqUhxUC4hQ&t=3050s) (⏱️ 50:50-55:49)
-- [Rusen Cakir](https://www.youtube.com/watch?v=u1wUFT4Kwao&t=52s) (⏱️ 00:52-09:51)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=X7nm38VJByc&t=1840s) (⏱️ 30:40-31:59)
+- [Rusen Cakir](https://www.youtube.com/watch?v=T-5l0rhRYps&t=37s) (⏱️ 00:37-10:54)
+- [Serdar Akinan](https://www.youtube.com/watch?v=iMRivMAiPEI&t=688s) (⏱️ 11:28-52:47)
+- [Hilal Koylu](https://www.youtube.com/watch?v=kKnGR3YUk1Y&t=415s) (⏱️ 06:55-11:30)
+- [Inan Demirel](https://www.youtube.com/watch?v=rSsdCjC9pIA&t=820s) (⏱️ 13:40-18:50)
+
+---
+
+## 4. İncirlik Yayını Sonrası Gazetecilere Gözaltı
+
+- Türkiye’de gazetecilik faaliyetleri yeniden suçlama konusu tartışılıyor.
+- Anka Haber Ajansı Genel Yayın Yönetmeni Kenan Şener gözaltına alındı.
+- Gözaltı gerekçesi İncirlik Üssü çevresindeki canlı yayın oldu.
+- Yetkililer yayının milli güvenlik riski oluşturduğunu öne sürdü.
+- Anka canlı yayınında üste hareketlilik ve iddialar sorgulanmıştı.
+- Adana’da Anka’dan dört gazeteci daha gözaltına alındı.
+- Gözaltına alınanlar Şener, Ölçer, Bilen ve Bıçakçı olarak açıklandı.
+- Alican Uludağ’ın tutuklanmasının CMK’ya aykırı olabileceği savunuldu.
+- Gazeteciler gözaltı kararını sosyal medyadan öğrenip emniyete gitti.
+- Meslek örgütleri Anka önünde destek eylemleri düzenleyeceklerini bildirdi.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Inan Demirel](https://www.youtube.com/watch?v=rSsdCjC9pIA&t=2880s) (⏱️ 48:00-55:38)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=NmazXBqkSCE&t=2710s) (⏱️ 45:10-49:49)
+- [Unsal Unlu](https://www.youtube.com/watch?v=36q5xlx6mZY&t=71s) (⏱️ 01:11-02:27)
+
+---
+
+## 5. Aramco Saldırısı ve İran Desteği
+
+- Suudi Arabistan’daki Aramco tesisleri füze saldırısıyla hedef alındı.
+- Yayında, tesiste vurulma anına ait görüntüler paylaşıldı.
+- Aramco’nun Suudi ekonomisi için hayati önemde olduğu vurgulandı.
+- Saldırının petrol fiyatlarını ve küresel ekonomiyi etkileyebileceği değerlendirildi.
+- Saldırıda kullanılan füzede Rus veya Çin izleri olduğu iddia edildi.
+- Rusya ve Çin’in İran’a lojistik ve askeri destek verdiği öne sürüldü.
+- Bu desteğin kargo uçaklarıyla füze, radar ve ekipman taşıdığı söylendi.
+- Desteğin İran’ın harekât kabiliyetini belirgin biçimde güçlendirdiği belirtildi.
+- Sürece dahil olmada bölgesel denge ve enerji çıkarları vurgulandı.
+- Destek denilince lojistik, mühimmat ve eğitim unsurları kastedildi.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Serdar Akinan](https://www.youtube.com/watch?v=APFLXCbcONA&t=964s) (⏱️ 16:04-17:23)
+- [Inan Demirel](https://www.youtube.com/watch?v=rSsdCjC9pIA&t=72s) (⏱️ 01:12-01:59)
+
+---
+
+## 6. Canlı Yayın Tartışmaları ve Linç İddiaları
+
+- Gürsel Tekin’in katıldığı TV programından canlı yayın kesitleri paylaşıldı.
+- Programda gençlerin, katılımcıların ve salonun tepkileri ekrana yansıdı.
+- Bazı iddialar gündeme geldi, tartışmalar büyüdü ve gergin anlar yaşandı.
+- Geçmişe dair anekdotlar aktarıldı, özür ve açıklamalar da yapıldı.
+- Yayının atmosferi ve stüdyodaki gerilim izleyicilere ayrıntılı biçimde aktarıldı.
+- Gazeteci Özlem Gürses, yayında insani endişelerini dile getirdi.
+- İran halkı ve İsrailli Türk öğrenci için kaygısını anlattı.
+- Bu sözler sosyal medyada çarpıtılarak aleyhine paylaşımlar yapıldı.
+- Gürses, hedef gösterildiğini ve yaftalandığını kamuoyuna açıkladı.
+- Olay, sosyal medyada linç kampanyası tartışmalarını yeniden alevlendirdi.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Ozlem Gurses](https://www.youtube.com/watch?v=eap2HCyoQ6o&t=2400s) (⏱️ 40:00-45:57)
+- [Inan Demirel](https://www.youtube.com/watch?v=rSsdCjC9pIA&t=2555s) (⏱️ 42:35-48:00)
 
 ---
 
