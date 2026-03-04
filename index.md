@@ -1,172 +1,150 @@
 # Bugün Ne Oldu?
 
-*3 March 2026 tarihli günlük haber raporu - 8 haber birleştirildi*
+*4 March 2026 tarihli günlük haber raporu - 7 haber birleştirildi*
 
-## 1. Hürmüz Riskiyle Savaş Derinleşiyor
+## 1. Bölgesel gerilimde Türkiye alarmda
 
-- İran-İsrail-ABD çatışması dördüncü günde, karşılıklı saldırılar sürüyor.
-- Lübnan cephesi büyüdü, İsrail Hizbullah gerekçesiyle kara harekatı başlattı.
-- Sivil kayıplar artıyor, okul ve hastane vurulduğuna dair bilgiler var.
-- UAEA, Natanz zenginleştirme tesisinde hasar oluştuğunu açıkladı.
-- İran misillemeleri Körfez, Irak, Ürdün ve Kıbrıs’a yayıldı.
-- Hürmüz Boğazı’nda belirsizlik var; sevkiyat aksıyor, gemiler bekliyor.
-- Tanker saldırısı iddialarıyla sigorta zorlaştı; navlun artışı bekleniyor.
-- Petrol ve LNG arzı riski fiyatları yükseltti, spekülasyon endişesi büyüdü.
-- Türkiye için İran gazı kesintisi ve yakıt-elektrik maliyetleri riski var.
-- Nükleer uranyum stok iddiaları ve rejim değişikliği tartışmaları sürüyor.
+- ABD destekli İsrail saldırıları ve İran misillemeleri bölgeyi gerdi.
+- İran kaynakları çok sayıda can kaybı olduğunu duyurdu.
+- Devrim Muhafızları bazı gemilerin ateşe verildiğini iddia etti.
+- ABD bu iddiaları reddetti, petrol piyasalarında dalgalanma yaşandı.
+- Türkiye, çatışmaya girmediğini ve savaş dışında kaldığını vurguladı.
+- MSB, Türkiye'ye yönelen balistik tehdidin engellendiğini açıkladı.
+- NATO hava savunması müdahale etti, parçalar Hatay Dörtyol'a düştü.
+- Dışişleri İran Büyükelçisini çağırdı, olayın nedeni araştırılıyor.
+- Ankara'da Hakan Fidan merkezli güvenlik ve diplomasi trafiği sürüyor.
+- Uzayan çatışma enerji, gıda, göç ve nükleer riskleri büyütüyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Inan Demirel](https://www.youtube.com/watch?v=2_VnNZkW7KM&t=251s) (⏱️ 04:11-07:06)
-- [Hilal Koylu](https://www.youtube.com/watch?v=MvN54vki7vo&t=55s) (⏱️ 00:55-31:57)
-- [Rusen Cakir](https://www.youtube.com/watch?v=fp_OjORh2Kw&t=1442s) (⏱️ 24:02-41:52)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=LP8Iv94naVw&t=139s) (⏱️ 02:19-09:08)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=UbRujW05P28&t=2160s) (⏱️ 36:00-41:20)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=hjLgYGY29RU&t=1263s) (⏱️ 21:03-42:30)
-- [Murat Yetkin](https://www.youtube.com/watch?v=0G7I4qDIBz4&t=3s) (⏱️ 00:03-00:37)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=mK4DTQJ0qNE&t=59s) (⏱️ 00:59-01:54)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=PjmNqrEZApc&t=320s) (⏱️ 05:20-39:07)
+- [Onlar TV](https://www.youtube.com/watch?v=ri_nqGGQk40&t=3242s) (⏱️ 54:02-57:23)
+- [Hilal Koylu](https://www.youtube.com/watch?v=dICozqWgOs4&t=53s) (⏱️ 00:53-05:13)
+- [Murat Yetkin](https://www.youtube.com/watch?v=aVbC8Nm9IPY&t=547s) (⏱️ 09:07-15:24)
+- [Unsal Unlu](https://www.youtube.com/watch?v=m6f1qXtTKuE&t=121s) (⏱️ 02:01-31:03)
 
 ---
 
-## 2. Akaryakıt Zamları Enflasyonu Yeniden Zorluyor
+## 2. Enflasyon ve akaryakıt baskısı büyüyor
 
-- İran gerilimi ve tesis saldırıları petrol fiyatlarını yukarı itiyor.
-- Türkiye enerji ithalatçısı olduğu için artışlar hemen içeri yansıyor.
-- Petrolün birkaç ay 80 dolar civarında dengelenmesi bekleniyor.
-- Boğaz kapanırsa petrolün 120-200 dolara çıkabileceği uyarısı yapıldı.
-- Motorine 4-4,5 TL, benzine 3 TL zam konuşuluyor.
-- Mazotun yarın 67 TL olması, 70 TL eşiği gündemde.
-- Akaryakıt artışı taşımayı pahalılaştırıp gıda ve hizmet fiyatlarını yükseltecek.
-- TÜİK enflasyonu aylık %2,96, yıllık %31,53 açıkladı.
-- CHP eşel mobil ve fiyat sabitleme önerdi, hükümet isteksiz görünüyor.
-- Merkez Bankası gecelik faiz artışı ve döviz ihaleleriyle baskıyı azaltıyor.
+- Türkiye’de şubat enflasyonu aylık yüzde 2,96 açıklandı.
+- Yıllık enflasyon yüzde 31,53 ile hedeflerin üstünde kaldı.
+- Gıda fiyatları aylık yüzde 6,89 artarak baskı yarattı.
+- Eğitim kalemi yıllık yüzde 55,8 ile öne çıktı.
+- Asgari ücret ve emekli maaşlarının alım gücü geriledi.
+- Kira zam tavanı mart için yüzde 33,39 oldu.
+- Körfez’deki çatışmalar petrol fiyatlarını yükseltti, zam riski arttı.
+- Beklenen benzin ve motorin zammı geri çekildi, ÖTV’den karşılanacak.
+- Uzmanlar Merkez Bankası’ndan acil faiz açıklaması bekliyor, güven vurguluyor.
+- Eşel mobilin dönüşü tartışıldı, kalıcı çözüm ihtimali düşük görüldü.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Inan Demirel](https://www.youtube.com/watch?v=2_VnNZkW7KM&t=427s) (⏱️ 07:07-09:27)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=UbRujW05P28&t=2480s) (⏱️ 41:20-49:50)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=hjLgYGY29RU&t=2569s) (⏱️ 42:49-56:08)
-- [Hilal Koylu](https://www.youtube.com/watch?v=MvN54vki7vo&t=855s) (⏱️ 14:15-18:30)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=6sgg0pdUlP4&t=728s) (⏱️ 12:08-94:00)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=AQb-KVOlsbY&t=431s) (⏱️ 07:11-15:44)
+- [Hilal Koylu](https://www.youtube.com/watch?v=dICozqWgOs4&t=1392s) (⏱️ 23:12-40:50)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=mK4DTQJ0qNE&t=295s) (⏱️ 04:55-31:54)
+- [Unsal Unlu](https://www.youtube.com/watch?v=m6f1qXtTKuE&t=1469s) (⏱️ 24:29-24:56)
 
 ---
 
-## 3. Kürt Kartı ve Bölgesel Planlar
+## 3. Tutuklamalar ve siyaset gerilimi büyüyor
 
-- ABD 2014’te Suriye’de kendi kara gücünü kullanmadı
-- Yerel ortak olarak PYD/YPG üzerinden SDG adlı güç kuruldu
-- PKK’nın terör tanımı, ABD-SDG ilişkisini sürekli tartışmalı kıldı
-- Suriye iç savaşında yaklaşık 18 bin kişi öldüğü tahmin edildi
-- Ölümlerin önemli kısmının Kürt bölgelerinde yaşandığı vurgulandı
-- ABD ve İsrail, gerektiğinde yerel grupları kara gücü yapıyor
-- Kürt grupların İran’a karşı yeniden kullanılması riski tartışıldı
-- Bu vekil güç politikaları Kürt halkı için olumsuz sonuçlar doğurdu
-- Türkiye’de terör tehdidi ve güvenlik dengeleri etkilenebilir denildi
-- Bölgede bağımsız birleşik Kürdistan iddiaları ve özerklik tartışıldı
+- Mecliste iftar düzenlendi, CHP temsilcileri yemeğe katılmadı.
+- CHP lideri Özgür Özel, katılmama gerekçesini ve eleştirilerini açıkladı.
+- Bolu Belediye Başkanı Tanju Özcan ve yardımcısı irtikap iddiasıyla tutuklandı.
+- Özel, tutuklamayı demokrasiye darbe saydı, savcıyı eleştirdi.
+- Özcan’ın kurduğu vakıf bursları ve soruşturma iddiaları gündeme geldi.
+- Tutuklanan Özcan, Sincan Cezaevi’ne sevk edilerek hapsedildi.
+- CHP ve muhalefet, yeni eylem ve miting planlarını tartışıyor.
+- İktidar-muhalefet gerilimi, belediyelere yönelik operasyon iddialarıyla tırmandı.
+- Boykot çağrıları yapıldı, market zincirleri siyasi tartışmanın merkezine oturdu.
+- Savcı Şaban Sakınan yakalandı, kozmik oda ve usulsüzlük iddiaları konuşuldu.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Murat Yetkin](https://www.youtube.com/watch?v=0G7I4qDIBz4&t=290s) (⏱️ 04:50-06:16)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=LP8Iv94naVw&t=1262s) (⏱️ 21:02-27:16)
+- [Hilal Koylu](https://www.youtube.com/watch?v=dICozqWgOs4&t=331s) (⏱️ 05:31-18:23)
+- [Unsal Unlu](https://www.youtube.com/watch?v=m6f1qXtTKuE&t=474s) (⏱️ 07:54-32:36)
+- [Onlar TV](https://www.youtube.com/watch?v=ri_nqGGQk40&t=2759s) (⏱️ 45:59-53:58)
 
 ---
 
-## 4. Savaş Etkisiyle Piyasalarda Sert Dalga
+## 4. İstanbul’da iki ölüm, ihmaller tartışması
 
-- Savaşın yayılma riski piyasalarda sert dalgalanma yarattı.
-- Borsada sabah panik satışlarıyla düşüş yüzde 5,5'e ulaştı.
-- Gün içinde tepki alımları geldi, kayıp yüzde 3,5'e geriledi.
-- Hareketlerin önemli kısmı spekülatif ve haber akışına bağlı.
-- Önümüzdeki bir hafta piyasalarda yüksek dalga boyu bekleniyor.
-- Altın, gümüş ve petrol fiyatlarında ani yükselişler görüldü.
-- Küresel piyasalardaki belirsizlik risk iştahını hızlı biçimde düşürdü.
-- Merkez Bankası TL'yi desteklemek için 5 milyar dolar sattı.
-- Bu müdahale, piyasaya döviz arzını artıran doğrudan satıştır.
-- Erdoğan, belirsizlik büyümeden yangının söndürülmesi gerektiğini söyledi.
+- İstanbul Çekmeköy’de lise öğretmeni Fatma Nur Çelik öldürüldü.
+- Saldırıyı okulda 17 yaşındaki öğrencinin bıçakla yaptığı bildirildi.
+- Olayda bir öğretmen ve bir öğrenci daha yaralandı.
+- Şüpheli öğrenci yakalandı, çıkarıldığı mahkemece tutuklandı.
+- İfadesinde intihar edeceğini söyledi, kişisel husumet olmadığını belirtti.
+- Saldırı okul güvenliği eksikleri ve rehberlik yetersizliğini gündeme taşıdı.
+- Bakan Yardımcısı Yelkenci’nin açıklaması tepki çekti, tartışma büyüdü.
+- Cumhurbaşkanı Erdoğan, olayla ilgili gerekenin yapılacağını söyledi.
+- Aynı isimli başka bir kadın ve kızı evde ölü bulundu.
+- Bu ikinci olayda istismar davası, tehditler ve ihmaller eleştirildi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilal Koylu](https://www.youtube.com/watch?v=MvN54vki7vo&t=83s) (⏱️ 01:23-28:07)
-- [Inan Demirel](https://www.youtube.com/watch?v=2_VnNZkW7KM) (⏱️ 00:00-02:42)
+- [Hilal Koylu](https://www.youtube.com/watch?v=dICozqWgOs4&t=1297s) (⏱️ 21:37-22:42)
+- [Unsal Unlu](https://www.youtube.com/watch?v=m6f1qXtTKuE&t=656s) (⏱️ 10:56-46:07)
+- [Onlar TV](https://www.youtube.com/watch?v=ri_nqGGQk40&t=213s) (⏱️ 03:33-45:54)
 
 ---
 
-## 5. Diplomasi Vurgusu ve NATO Angajmanı
+## 5. CNN Türk Ekibinin İsrail’de Gözaltısı
 
-- Türkiye hükümeti savaşa girmeyeceğini, diplomasiyi sürdüreceğini vurguluyor.
-- Muhalefet partileri diplomasi çağrısı yapıyor, savaşa karşı duruyor.
-- CHP lideri Özgür Özel, Hakan Fidan’ı öngörüsüzlükle eleştirdi.
-- Fidan, Türkiye’nin savaşı önlemek için yoğun çaba gösterdiğini söyledi.
-- Fidan, saldırıyı geciktirdiklerini, zaman kazandırdıklarını özellikle savundu.
-- Tartışma, gecikmenin bölgeye daha fazla asker yığdırıp yığdırmadığıdır.
-- Fransa, İngiltere ve ABD’nin bölgede askerî angajmanı gündemde kalıyor.
-- Macron, Fransa’nın nükleer doktrinini yeniden gözden geçirebileceğini belirtti.
-- Degol uçak gemisinin bölgeye sevkiyatı, caydırıcılık mesajı sayılıyor.
-- NATO’nun nükleer şemsiye ve kuvvet havuzu rolü tartışılıyor. 
+- CNN Türk muhabiri Emrah Çakmak ve ekip canlı yayında gözaltına alındı.
+- Gözaltı İsrail’de görev sırasında gerçekleşti, kameramanın da alındığı bildirildi.
+- Gazeteciler akşam saatlerinde serbest bırakıldı ve çalışmaya döndü.
+- Olay basın özgürlüğüne darbe olarak değerlendirildi, örgütler tepki gösterdi.
+- Ekip daha önce savaş bölgelerinde görev yapmış deneyimli gazetecilerden oluşuyor.
+- Gözaltında telefonların şifrelerinin açıldığı iddiası kamuoyuna yansıdı.
+- Sunucu şifre kırmada kullanılan bir koddan ve yazılımdan bahsetti.
+- İddialar basın güvenliği ve kişisel veri güvenliği endişesi doğurdu.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Murat Yetkin](https://www.youtube.com/watch?v=0G7I4qDIBz4&t=239s) (⏱️ 03:59-14:13)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=LP8Iv94naVw&t=699s) (⏱️ 11:39-31:07)
+- [Unsal Unlu](https://www.youtube.com/watch?v=m6f1qXtTKuE&t=2486s) (⏱️ 41:26-42:07)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=mK4DTQJ0qNE&t=149s) (⏱️ 02:29-03:11)
 
 ---
 
-## 6. Emekli ikramiyesi 4.000 TL kaldı
+## 6. Fatmanur Çelik ve Kızının Ölümü
 
-- Emekli bayram ikramiyesinde artış yapılmadı, tutar 4.000 TL kaldı.
-- Kararın ekonomi gündeminde yer aldığı ve kamuoyuna açıklandığı belirtildi.
-- AK Parti kulisleri, zam olmayacağını ve kararın netleştiğini aktardı.
-- Hükümet, bütçe kısıtları ve disiplin ihtiyacını gerekçe gösterdi.
-- Savaşların tetiklediği mali baskılar ve gider artışları vurgulandı.
-- İkramiye artışı talebiyle oluşacak toplam maliyet yeniden tartışıldı.
-- Uzmanlar, yüksek faiz politikasının halkı zorladığını söyledi.
-- Uzun süren ekonomik durgunluğun alım gücünü daha da düşürdüğü anlatıldı.
-- Emeklilerin yaşam koşullarının iyileştirilmesi gerektiği özellikle vurgulandı.
-- 4.000 TL’nin maddi etkisi sınırlı, psikolojik rahatlama sağlayabilir denildi.
+- Fatmanur Çelik ve kızı ölü bulundu, olay tepki topladı.
+- Ölümler sahilde bulundu iddiasıyla duyuruldu, yer tartışması sürüyor.
+- Bazı bilgiler Ukrayna’da bulunduklarını söylerken, detaylar netleşmedi.
+- Çelik daha önce istismara uğradığını anlattı, adalet nöbeti tuttu.
+- Savcılık şüpheliye tutuklama istedi, ancak kişi serbest kaldı.
+- Bakanlığın müdahale ettiği iddiaları gündeme geldi, avukat açıklama yaptı.
+- Olay sonrası yeni soruşturma açıldı, gizlilik ve yayın yasağı kondu.
+- Toplumda öfke ve endişe büyüdü, adalet çağrıları yükseldi.
+- Cenazede gerginlik yaşandı, erkekler kadınlara müdahale etti.
+- Kadınlar polis korumasıyla mezarlıktan çıkarıldı, olay araştırılıyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=LP8Iv94naVw&t=2187s) (⏱️ 36:27-37:02)
-- [Hilal Koylu](https://www.youtube.com/watch?v=MvN54vki7vo&t=1140s) (⏱️ 19:00-23:30)
+- [Hilal Koylu](https://www.youtube.com/watch?v=dICozqWgOs4&t=1129s) (⏱️ 18:49-20:56)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=mK4DTQJ0qNE&t=1952s) (⏱️ 32:32-34:04)
 
 ---
 
-## 7. Basın Özgürlüğü ve Gazeteci Dayanışması
+## 7. İç Cephe Tartışması ve Birlik Çağrısı
 
-- Türkiye medyasında kutuplaşmanın arttığı ve tarafsızlığın zayıfladığı vurgulandı.
-- Tarafsız kalmanın mümkün olduğu ve korunması gerektiği savunuldu.
-- İranlı gazeteci sürgünde olduğunu ve zorlu deneyimler yaşadığını anlattı.
-- İran halkına destek, umut ve pozitif enerji çağrısı yaptı.
-- İzleyicilerden insanî ilgi ve daha güçlü dayanışma istedi.
-- İsrail’de CNN Türk muhabiri canlı yayında gözaltına alındı.
-- Muhabirin telefonda görüntü göstermesi askerin müdahalesine yol açtı.
-- Olay basın ve ifade özgürlüğü açısından ciddi endişe yarattı.
-- Meslektaşın serbest bırakılması ve haklarının korunması istendi.
-- Güvenlikçi politikaların basın özgürlüğünü zayıflattığı tartışıldı. 
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Nevsin Mengu](https://www.youtube.com/watch?v=UbRujW05P28&t=32s) (⏱️ 00:32-02:30)
-- [Rusen Cakir](https://www.youtube.com/watch?v=UaSyVj0KQs8&t=2427s) (⏱️ 40:27-42:12)
-
----
-
-## 8. Çekmeköy’de Öğretmen Cinayeti Tartışması
-
-- Çekmeköy’de biyoloji öğretmeni Fatma Nur Çelik bıçaklanarak öldürüldü.
-- Saldırganın okula bıçakla geldiği, öğretmene sarılıp saldırdığı aktarıldı.
-- Zanlının ifadesinde rehber öğretmeni öldürmeye gittiğini söylediği belirtildi.
-- Öğretmenin okul yönetimine daha önce güvenlik endişelerini ilettiği bildirildi.
-- Çelik’in eşinden ayrıldığı ve lösemi tedavisi gören çocuğu olduğu söylendi.
-- Olay öğretmen güvenliği ve okullarda şiddet riskini yeniden gündeme taşıdı.
-- Cenazeye vali, milletvekilleri ve Milli Eğitim yetkilileri katıldı, tepkiler yükseldi.
-- Katılımcılar bürokrasi ve okul yönetiminin gerekli önlemleri alıp almadığını sorguladı.
-- Bazı görüşler ağır suçlarda ailelerin daha fazla sorumluluk üstlenmesini savundu.
-- Yorumcular şiddete eğilimli öğrencilere yönelik etkili mekanizma eksikliği vurguladı.
+- İran’a büyük saldırı sonrası iç cephe tartışması yeniden alevlendi.
+- Bölgedeki savaş ve krizlerin Türkiye’yi doğrudan etkileyebileceği vurgulandı.
+- Hamas, Gazze, İsrail ve Suriye gelişmeleri güvenlik risklerini artırıyor.
+- MHP lideri Bahçeli, milli güvenliğin en öncelikli konu olduğunu söyledi.
+- Bahçeli, İran’a saldırıyı kınadı, suikastleri alçakça diye niteledi.
+- Küresel dengelerin bozulduğunu, ABD ve Siyonizm iddialarını gündeme getirdi.
+- Bahçeli, Atatürk ve Kurtuluş Savaşı vurgusuyla birlik çağrısı yaptı.
+- Terörsüz Türkiye söyleminde Atatürk referansının kullanılacağı belirtildi.
+- İç siyasette kutuplaşma ve muhalefete düşman muamelesi eleştirildi.
+- Belediyeler davası ve tutuklu başkanlar, iç barış ihtiyacına örnek gösterildi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Nevsin Mengu](https://www.youtube.com/watch?v=UbRujW05P28&t=2990s) (⏱️ 49:50-55:33)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=hjLgYGY29RU&t=148s) (⏱️ 02:28-21:03)
+- [Rusen Cakir](https://www.youtube.com/watch?v=Yro97Xq2Ayw&t=4s) (⏱️ 00:04-11:01)
+- [Hilal Koylu](https://www.youtube.com/watch?v=dICozqWgOs4&t=504s) (⏱️ 08:24-12:15)
 
 ---
 
