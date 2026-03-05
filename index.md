@@ -1,150 +1,192 @@
 # Bugün Ne Oldu?
 
-*4 March 2026 tarihli günlük haber raporu - 7 haber birleştirildi*
+*5 March 2026 tarihli günlük haber raporu - 9 haber birleştirildi*
 
-## 1. Bölgesel gerilimde Türkiye alarmda
+## 1. İran Füzeleri Bölgesel Gerilimi Tırmandırdı
 
-- ABD destekli İsrail saldırıları ve İran misillemeleri bölgeyi gerdi.
-- İran kaynakları çok sayıda can kaybı olduğunu duyurdu.
-- Devrim Muhafızları bazı gemilerin ateşe verildiğini iddia etti.
-- ABD bu iddiaları reddetti, petrol piyasalarında dalgalanma yaşandı.
-- Türkiye, çatışmaya girmediğini ve savaş dışında kaldığını vurguladı.
-- MSB, Türkiye'ye yönelen balistik tehdidin engellendiğini açıkladı.
-- NATO hava savunması müdahale etti, parçalar Hatay Dörtyol'a düştü.
-- Dışişleri İran Büyükelçisini çağırdı, olayın nedeni araştırılıyor.
-- Ankara'da Hakan Fidan merkezli güvenlik ve diplomasi trafiği sürüyor.
-- Uzayan çatışma enerji, gıda, göç ve nükleer riskleri büyütüyor.
+- İran kaynaklı füzenin Hatay Dörtyol yakınlarına parça düşürdüğü bildirildi.
+- MSB, balistik mühimmatın NATO unsurlarınca havada imha edildiğini açıkladı.
+- Yetkililer hedefin Türkiye olmadığını, rotanın Kıbrıs yönünde olabileceğini söyledi.
+- Türkiye İran büyükelçisini çağırdı, tansiyonun düşmesini talep etti.
+- Kürecik radarı ve Doğu Akdeniz’deki gemiler savunmada kritik rol oynadı.
+- Resmi bilgi eksikliği İncirlik, Kıbrıs ve Ceyhan hedef tartışmalarını büyüttü.
+- Nahçıvan Havalimanı’na saldırı iddiaları ve Azerbaycan’ın protestosu gündeme geldi.
+- Provokasyon, manipülasyon ve elektronik yanıltma ihtimalleri uzmanlarca değerlendirildi.
+- ABD ve İsrail’in Kürt grupları silahlandırma iddiaları gerilimi artırıyor.
+- Uzmanlar savaşın uzayabileceğini, İran’da iç kriz ve göç olduğunu söylüyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=mK4DTQJ0qNE&t=59s) (⏱️ 00:59-01:54)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=PjmNqrEZApc&t=320s) (⏱️ 05:20-39:07)
-- [Onlar TV](https://www.youtube.com/watch?v=ri_nqGGQk40&t=3242s) (⏱️ 54:02-57:23)
-- [Hilal Koylu](https://www.youtube.com/watch?v=dICozqWgOs4&t=53s) (⏱️ 00:53-05:13)
-- [Murat Yetkin](https://www.youtube.com/watch?v=aVbC8Nm9IPY&t=547s) (⏱️ 09:07-15:24)
-- [Unsal Unlu](https://www.youtube.com/watch?v=m6f1qXtTKuE&t=121s) (⏱️ 02:01-31:03)
+- [Serdar Akinan](https://www.youtube.com/watch?v=-Uq5T4LP2r0&t=280s) (⏱️ 04:40-07:06)
+- [Rusen Cakir](https://www.youtube.com/watch?v=8MwEAJyzKZY&t=434s) (⏱️ 07:14-14:00)
+- [Inan Demirel](https://www.youtube.com/watch?v=9uF_abfp2Hc&t=102s) (⏱️ 01:42-24:55)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=6MDtOQT3B5w&t=11s) (⏱️ 00:11-09:13)
+- [Hilal Koylu](https://www.youtube.com/watch?v=AGIlNb0jNs8&t=72s) (⏱️ 01:12-17:22)
+- [Murat Yetkin](https://www.youtube.com/watch?v=dbxB4Hn06iU&t=3s) (⏱️ 00:03-03:17)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=9yXkGEHZSMo&t=129s) (⏱️ 02:09-32:49)
 
 ---
 
-## 2. Enflasyon ve akaryakıt baskısı büyüyor
+## 2. Savaşın Altıncı Gününde Tepkiler Büyüyor
 
-- Türkiye’de şubat enflasyonu aylık yüzde 2,96 açıklandı.
-- Yıllık enflasyon yüzde 31,53 ile hedeflerin üstünde kaldı.
-- Gıda fiyatları aylık yüzde 6,89 artarak baskı yarattı.
-- Eğitim kalemi yıllık yüzde 55,8 ile öne çıktı.
-- Asgari ücret ve emekli maaşlarının alım gücü geriledi.
-- Kira zam tavanı mart için yüzde 33,39 oldu.
-- Körfez’deki çatışmalar petrol fiyatlarını yükseltti, zam riski arttı.
-- Beklenen benzin ve motorin zammı geri çekildi, ÖTV’den karşılanacak.
-- Uzmanlar Merkez Bankası’ndan acil faiz açıklaması bekliyor, güven vurguluyor.
-- Eşel mobilin dönüşü tartışıldı, kalıcı çözüm ihtimali düşük görüldü.
+- Savaş altıncı gününde sürüyor, sahadan çok sayıda görüntü geliyor.
+- Yorumcular, anlık haber yerine soğukkanlı analiz ihtiyacı vurguluyor.
+- İnsani kriz büyüyor, ekonomik ve politik etkiler bölgede derinleşiyor.
+- Türkiye açısından İran sınırı ve güvenlik dengeleri kritik görülüyor.
+- İsrail ve Netanyahu'ya içte dışta tepkiler belirgin biçimde artıyor.
+- Uluslararası kamuoyunda İsrail sert eleştiri ve nefret odağına dönüşüyor.
+- Trump, savaş çabuk biter demişti; ABD’de eleştiriler çoğalıyor.
+- Kongrede itirazlar yükseliyor, Trump tabanında onay oranı düşüyor.
+- Hamas sonrası İsrail’de sağ güçleniyor, bölgesel hegemonya tartışılıyor.
+- Türkiye-İsrail ilişkileri ve İbrahim Anlaşmaları yeni dengelerle gündemde.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=AQb-KVOlsbY&t=431s) (⏱️ 07:11-15:44)
-- [Hilal Koylu](https://www.youtube.com/watch?v=dICozqWgOs4&t=1392s) (⏱️ 23:12-40:50)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=mK4DTQJ0qNE&t=295s) (⏱️ 04:55-31:54)
-- [Unsal Unlu](https://www.youtube.com/watch?v=m6f1qXtTKuE&t=1469s) (⏱️ 24:29-24:56)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=xwfBLmXRhXI&t=163s) (⏱️ 02:43-03:41)
+- [Rusen Cakir](https://www.youtube.com/watch?v=8MwEAJyzKZY&t=842s) (⏱️ 14:02-25:20)
+- [Unsal Unlu](https://www.youtube.com/watch?v=b7YXpDBabnA&t=519s) (⏱️ 08:39-09:21)
+- [Serdar Akinan](https://www.youtube.com/watch?v=-Uq5T4LP2r0&t=20s) (⏱️ 00:20-01:17)
 
 ---
 
-## 3. Tutuklamalar ve siyaset gerilimi büyüyor
+## 3. Ekonomide Döviz Baskısı ve Zamlar
 
-- Mecliste iftar düzenlendi, CHP temsilcileri yemeğe katılmadı.
-- CHP lideri Özgür Özel, katılmama gerekçesini ve eleştirilerini açıkladı.
-- Bolu Belediye Başkanı Tanju Özcan ve yardımcısı irtikap iddiasıyla tutuklandı.
-- Özel, tutuklamayı demokrasiye darbe saydı, savcıyı eleştirdi.
-- Özcan’ın kurduğu vakıf bursları ve soruşturma iddiaları gündeme geldi.
-- Tutuklanan Özcan, Sincan Cezaevi’ne sevk edilerek hapsedildi.
-- CHP ve muhalefet, yeni eylem ve miting planlarını tartışıyor.
-- İktidar-muhalefet gerilimi, belediyelere yönelik operasyon iddialarıyla tırmandı.
-- Boykot çağrıları yapıldı, market zincirleri siyasi tartışmanın merkezine oturdu.
-- Savcı Şaban Sakınan yakalandı, kozmik oda ve usulsüzlük iddiaları konuşuldu.
+- Merkez Bankası, doları 44 altında tutmak için müdahale etti.
+- Üç günde 26 milyar dolar satıldığı iddiası gündeme geldi.
+- Müdahalelerin yeni vergiler ve mali önlemler doğurabileceği konuşuluyor.
+- Nisan enflasyon verilerinin olumsuz gelebileceği uyarıları yapılıyor.
+- Hürmüz Boğazı riski enerji ve gıda tedarikini tehdit ediyor.
+- Savaş beklentisi altını yükseltti, teminat satışlarıyla geri çekti.
+- Euro-dolar paritesi ve içerideki fiyatlama farkları yeniden tartışıldı.
+- Petrol tırmanıyor, benzin ve motorine yeni zam beklentisi arttı.
+- Eşel Mobil benzeri destek mekanizmaları yeniden gündeme getirildi.
+- Emekli bayram ikramiyesi artışı tartışıldı, Meclis'te protestolar yaşandı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilal Koylu](https://www.youtube.com/watch?v=dICozqWgOs4&t=331s) (⏱️ 05:31-18:23)
-- [Unsal Unlu](https://www.youtube.com/watch?v=m6f1qXtTKuE&t=474s) (⏱️ 07:54-32:36)
-- [Onlar TV](https://www.youtube.com/watch?v=ri_nqGGQk40&t=2759s) (⏱️ 45:59-53:58)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=9yXkGEHZSMo&t=2740s) (⏱️ 45:40-46:27)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=xwfBLmXRhXI&t=221s) (⏱️ 03:41-12:20)
+- [Hilal Koylu](https://www.youtube.com/watch?v=AGIlNb0jNs8&t=1169s) (⏱️ 19:29-23:55)
+- [Unsal Unlu](https://www.youtube.com/watch?v=b7YXpDBabnA&t=305s) (⏱️ 05:05-06:36)
 
 ---
 
-## 4. İstanbul’da iki ölüm, ihmaller tartışması
+## 4. TBMM iftar tartışması ve siyaset
 
-- İstanbul Çekmeköy’de lise öğretmeni Fatma Nur Çelik öldürüldü.
-- Saldırıyı okulda 17 yaşındaki öğrencinin bıçakla yaptığı bildirildi.
-- Olayda bir öğretmen ve bir öğrenci daha yaralandı.
-- Şüpheli öğrenci yakalandı, çıkarıldığı mahkemece tutuklandı.
-- İfadesinde intihar edeceğini söyledi, kişisel husumet olmadığını belirtti.
-- Saldırı okul güvenliği eksikleri ve rehberlik yetersizliğini gündeme taşıdı.
-- Bakan Yardımcısı Yelkenci’nin açıklaması tepki çekti, tartışma büyüdü.
-- Cumhurbaşkanı Erdoğan, olayla ilgili gerekenin yapılacağını söyledi.
-- Aynı isimli başka bir kadın ve kızı evde ölü bulundu.
-- Bu ikinci olayda istismar davası, tehditler ve ihmaller eleştirildi.
+- TBMM’de düzenlenen iftar, menü ve sunumuyla tartışma yarattı.
+- TBMM Başkanı milletvekillerini iftara davet etti, katılım sınırlı kaldı.
+- Muhalefet liderlerinin çoğu iftara katılmadı, alternatif programlar yaptı.
+- Mecliste servis edilen yemeklerin seçimi, ülke yoksulluğuyla kıyaslandı.
+- Bir milletvekili, yemeklerin Meclis aşçılarınca yapıldığını savundu.
+- Aynı vekil, peynir ekmek çayla iftar olur dedi.
+- Bu sözler, yaygın açlık ve derin yoksulluk nedeniyle tepki çekti.
+- Yorumlarda, Meclis uygulamasının halkın hayatıyla bağdaşmadığı vurgulandı.
+- Seçim dönemlerinde kaynakların açılmasının sıradanlaştığı eleştirisi dile getirildi.
+- Ayrıca iç siyasette Bahçeli, kayyum ve ittifak gerilimleri konuşuldu.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilal Koylu](https://www.youtube.com/watch?v=dICozqWgOs4&t=1297s) (⏱️ 21:37-22:42)
-- [Unsal Unlu](https://www.youtube.com/watch?v=m6f1qXtTKuE&t=656s) (⏱️ 10:56-46:07)
-- [Onlar TV](https://www.youtube.com/watch?v=ri_nqGGQk40&t=213s) (⏱️ 03:33-45:54)
+- [Hilal Koylu](https://www.youtube.com/watch?v=AGIlNb0jNs8&t=1043s) (⏱️ 17:23-19:28)
+- [Unsal Unlu](https://www.youtube.com/watch?v=b7YXpDBabnA&t=120s) (⏱️ 02:00-05:03)
 
 ---
 
-## 5. CNN Türk Ekibinin İsrail’de Gözaltısı
+## 5. Havacılıkta kriz ve yolcu paniği
 
-- CNN Türk muhabiri Emrah Çakmak ve ekip canlı yayında gözaltına alındı.
-- Gözaltı İsrail’de görev sırasında gerçekleşti, kameramanın da alındığı bildirildi.
-- Gazeteciler akşam saatlerinde serbest bırakıldı ve çalışmaya döndü.
-- Olay basın özgürlüğüne darbe olarak değerlendirildi, örgütler tepki gösterdi.
-- Ekip daha önce savaş bölgelerinde görev yapmış deneyimli gazetecilerden oluşuyor.
-- Gözaltında telefonların şifrelerinin açıldığı iddiası kamuoyuna yansıdı.
-- Sunucu şifre kırmada kullanılan bir koddan ve yazılımdan bahsetti.
-- İddialar basın güvenliği ve kişisel veri güvenliği endişesi doğurdu.
+- Adana-Ankara seferi uçak şiddetli türbülansa girerek panik yarattı.
+- Yolcuların çektiği görüntüler sosyal medyada paylaşılınca olay gündem oldu.
+- Sunucular, panik davranışların diğer yolcuları daha fazla tedirgin ettiğini söyledi.
+- Kabin ekibinin yönlendirmesine uymanın ve sakin kalmanın önemi vurgulandı.
+- Öte yandan savaş, küresel havacılıkta ciddi aksamalara yol açtı.
+- Hava sahası kapanmaları uçuşları zorlaştırdı, seyahat kısıtları arttı.
+- Turizm sektörü bu belirsizlik nedeniyle birçok bölgede sekteye uğradı.
+- Bazı bölgelerde insanlar mahsur kaldı, tahliyeler gündeme geldi.
+- Dubai’de otellere zarar ve havaalanına füze parçaları düştü.
+- Abu Dhabi, turistlerin büyük kısmını güvenle evlerine ulaştırdığını açıkladı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=m6f1qXtTKuE&t=2486s) (⏱️ 41:26-42:07)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=mK4DTQJ0qNE&t=149s) (⏱️ 02:29-03:11)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=9yXkGEHZSMo&t=2310s) (⏱️ 38:30-39:54)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=xwfBLmXRhXI&t=1182s) (⏱️ 19:42-20:26)
 
 ---
 
-## 6. Fatmanur Çelik ve Kızının Ölümü
+## 6. Gazetecilik Deneyimi ve CHP İletişimi
 
-- Fatmanur Çelik ve kızı ölü bulundu, olay tepki topladı.
-- Ölümler sahilde bulundu iddiasıyla duyuruldu, yer tartışması sürüyor.
-- Bazı bilgiler Ukrayna’da bulunduklarını söylerken, detaylar netleşmedi.
-- Çelik daha önce istismara uğradığını anlattı, adalet nöbeti tuttu.
-- Savcılık şüpheliye tutuklama istedi, ancak kişi serbest kaldı.
-- Bakanlığın müdahale ettiği iddiaları gündeme geldi, avukat açıklama yaptı.
-- Olay sonrası yeni soruşturma açıldı, gizlilik ve yayın yasağı kondu.
-- Toplumda öfke ve endişe büyüdü, adalet çağrıları yükseldi.
-- Cenazede gerginlik yaşandı, erkekler kadınlara müdahale etti.
-- Kadınlar polis korumasıyla mezarlıktan çıkarıldı, olay araştırılıyor.
+- Serdar Akinan, Cem Tekel ile röportaja giriş yaptı.
+- Programda Mehmet Ali Birand anıldı, saha gazeteciliği vurgulandı.
+- Cem Tekel, uzun yıllara yayılan bölge saha deneyimini anlattı.
+- Birand’ın genç muhabirlere fırsat verdiği örneklerle aktarıldı.
+- Birand’ın haber sezgisi için kokuyu alma yaklaşımı hatırlatıldı.
+- Saha anıları Çeçenistan ve Grozni örnekleriyle desteklendi.
+- Bahar Feyzan, CHP’nin iletişim stratejisini sert biçimde eleştirdi.
+- İran kaynaklı gelişmeler varken program yürütülmesi sorgulandı.
+- Medya yönetiminde liyakat eksikliği ve hatalı atamalar vurgulandı.
+- İletişim ve organizasyon sorunlarının seçim gündeminde etki azalttığı söylendi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilal Koylu](https://www.youtube.com/watch?v=dICozqWgOs4&t=1129s) (⏱️ 18:49-20:56)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=mK4DTQJ0qNE&t=1952s) (⏱️ 32:32-34:04)
+- [Serdar Akinan](https://www.youtube.com/watch?v=-Uq5T4LP2r0&t=78s) (⏱️ 01:18-04:39)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=9yXkGEHZSMo&t=2394s) (⏱️ 39:54-45:34)
 
 ---
 
-## 7. İç Cephe Tartışması ve Birlik Çağrısı
+## 7. Türkiye İspanya Sosyal Medya Dayanışması
 
-- İran’a büyük saldırı sonrası iç cephe tartışması yeniden alevlendi.
-- Bölgedeki savaş ve krizlerin Türkiye’yi doğrudan etkileyebileceği vurgulandı.
-- Hamas, Gazze, İsrail ve Suriye gelişmeleri güvenlik risklerini artırıyor.
-- MHP lideri Bahçeli, milli güvenliğin en öncelikli konu olduğunu söyledi.
-- Bahçeli, İran’a saldırıyı kınadı, suikastleri alçakça diye niteledi.
-- Küresel dengelerin bozulduğunu, ABD ve Siyonizm iddialarını gündeme getirdi.
-- Bahçeli, Atatürk ve Kurtuluş Savaşı vurgusuyla birlik çağrısı yaptı.
-- Terörsüz Türkiye söyleminde Atatürk referansının kullanılacağı belirtildi.
-- İç siyasette kutuplaşma ve muhalefete düşman muamelesi eleştirildi.
-- Belediyeler davası ve tutuklu başkanlar, iç barış ihtiyacına örnek gösterildi.
+- İspanya Başbakanı Pedro Sanchez’in Türkiye açıklamaları sosyal medyada yankı buldu.
+- Türkiye ve İspanya arasında çevrimiçi ortamda sıcak dayanışma mesajları yayıldı.
+- Paylaşımlar, iki ülke halkları arasında yakınlaşmayı güçlendirdiği yorumlandı.
+- Sanchez’in bazı kararları ve söylemleri Türkiye’de olumlu karşılandı.
+- Maçlarda gösterilen destek görüntüleri sosyal medyada sıkça paylaşıldı.
+- Kullanıcılar, İspanya ile gönül köprüsü kurulduğu temasını öne çıkardı.
+- İspanya’nın bazı silah anlaşmalarını iptal etmesi dikkat çekti.
+- Bu gelişme, Türkiye’de dayanışma algısını daha da kuvvetlendirdi.
+- Sosyal medya etkileşimi, diplomatik gündeme de dolaylı katkı sundu.
+- Paylaşımlar, iki toplumda karşılıklı sempatiyi artıran bir trend yarattı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=Yro97Xq2Ayw&t=4s) (⏱️ 00:04-11:01)
-- [Hilal Koylu](https://www.youtube.com/watch?v=dICozqWgOs4&t=504s) (⏱️ 08:24-12:15)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=9yXkGEHZSMo&t=2045s) (⏱️ 34:05-38:26)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=xwfBLmXRhXI&t=2818s) (⏱️ 46:58-56:22)
+
+---
+
+## 8. Program Kapanışında Kedi Videoları
+
+- Program kapanışında izleyicilere neşeli ve hafif içerikler sunuldu.
+- İki viral kedi videosu yayın sonunda ekrana getirildi.
+- Videolardan biri veteriner ziyareti üzerinden mizahi anlar içerdi.
+- Diğer videoda kedi, cezaevine götürülüyormuş gibi gösterildi.
+- Sunucu, bu görüntülerle izleyicileri gülümseterek yayını bitirdi.
+- Kapanış bölümünde ayrıca genç bir ressamın sergisi tanıtıldı.
+- Ressamın bir eseri programda özel olarak öne çıkarıldı.
+- Tanıtılan eser, bir yardım kuruluşuna bağışlandığı belirtildi.
+- Sunucu, yayını kapatırken akşam programını da duyurdu.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Bahar Feyzan](https://www.youtube.com/watch?v=9yXkGEHZSMo&t=2835s) (⏱️ 47:15-48:38)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=xwfBLmXRhXI&t=3382s) (⏱️ 56:22-57:55)
+
+---
+
+## 9. Şiddet iddialarında adalet tartışması büyüyor
+
+- Kadına yönelik şiddet ve kadın cinayetlerinde artış yaşandığı vurgulandı.
+- Öğretmen Fatmanur Çelik bıçaklanarak öldürüldü, kamuoyu tepki gösterdi.
+- Fatma Nur Çelik ve kızına yönelik istismar davası gündeme taşındı.
+- Aileler süreçte ihmaller olduğunu söyleyerek adalet talebini yineledi.
+- İstismarcıların serbest kalması eleştirildi, tutuklama çağrıları yapıldı.
+- Kadın örgütleri, avukatlar ve muhalefet davaları izleyeceklerini açıkladı.
+- 18,5 yaşındaki Muhammed polis çevirmesinde Fikirtepe’de gözaltına alındı.
+- Uyuşturucu şüphesi vardı, araçta ve adreslerde delil bulunmadı.
+- Muhammed telefon şifresi vermeyince darp ve işkence iddiasında bulundu.
+- Adli Tıp akut travma raporu verdi, polisler soruşturuluyor.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Hilal Koylu](https://www.youtube.com/watch?v=AGIlNb0jNs8&t=1439s) (⏱️ 23:59-41:52)
+- [Onlar TV](https://www.youtube.com/watch?v=mzGHFQCUQsQ) (⏱️ 00:00-12:29)
 
 ---
 
