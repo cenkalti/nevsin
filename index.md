@@ -1,192 +1,92 @@
 # Bugün Ne Oldu?
 
-*5 March 2026 tarihli günlük haber raporu - 9 haber birleştirildi*
+*6 March 2026 tarihli günlük haber raporu - 4 haber birleştirildi*
 
-## 1. İran Füzeleri Bölgesel Gerilimi Tırmandırdı
+## 1. İran Savaşı Büyürken Bölgesel Riskler
 
-- İran kaynaklı füzenin Hatay Dörtyol yakınlarına parça düşürdüğü bildirildi.
-- MSB, balistik mühimmatın NATO unsurlarınca havada imha edildiğini açıkladı.
-- Yetkililer hedefin Türkiye olmadığını, rotanın Kıbrıs yönünde olabileceğini söyledi.
-- Türkiye İran büyükelçisini çağırdı, tansiyonun düşmesini talep etti.
-- Kürecik radarı ve Doğu Akdeniz’deki gemiler savunmada kritik rol oynadı.
-- Resmi bilgi eksikliği İncirlik, Kıbrıs ve Ceyhan hedef tartışmalarını büyüttü.
-- Nahçıvan Havalimanı’na saldırı iddiaları ve Azerbaycan’ın protestosu gündeme geldi.
-- Provokasyon, manipülasyon ve elektronik yanıltma ihtimalleri uzmanlarca değerlendirildi.
-- ABD ve İsrail’in Kürt grupları silahlandırma iddiaları gerilimi artırıyor.
-- Uzmanlar savaşın uzayabileceğini, İran’da iç kriz ve göç olduğunu söylüyor.
+- İran-ABD-İsrail çatışması altıncı gününde sürüyor, belirsizlik devam ediyor.
+- Düşük maliyetli İHA’lar büyük sistemlerde ciddi hasar oluşturabiliyor.
+- ABD, İran’ın balistik füze altyapısını kalıcı zayıflatmayı hedeflediğini söylüyor.
+- Hürmüz Boğazı ve deniz taşımacılığı riski enerji fiyatlarını artırıyor.
+- Sivil kayıplar, okul vurulması ve yüksek çocuk ölümü iddiaları gündemde.
+- Bilgi kirliliği büyüyor; Türkiye ve Nahçıvan’a füze iddiaları tartışılıyor.
+- Türkiye tarafsız denge arıyor; NATO ve İncirlik iddiaları net değil.
+- Kürt grupların rolü konuşuluyor; silahlandırma iddiaları doğrulanmadı.
+- Erbil ve Süleymaniye’de İran füzeleri görüldü, hedefler tartışılıyor.
+- Avrupa’da tepkiler artıyor; İspanya bazı silah anlaşmalarını iptal etti.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Serdar Akinan](https://www.youtube.com/watch?v=-Uq5T4LP2r0&t=280s) (⏱️ 04:40-07:06)
-- [Rusen Cakir](https://www.youtube.com/watch?v=8MwEAJyzKZY&t=434s) (⏱️ 07:14-14:00)
-- [Inan Demirel](https://www.youtube.com/watch?v=9uF_abfp2Hc&t=102s) (⏱️ 01:42-24:55)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=6MDtOQT3B5w&t=11s) (⏱️ 00:11-09:13)
-- [Hilal Koylu](https://www.youtube.com/watch?v=AGIlNb0jNs8&t=72s) (⏱️ 01:12-17:22)
-- [Murat Yetkin](https://www.youtube.com/watch?v=dbxB4Hn06iU&t=3s) (⏱️ 00:03-03:17)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=9yXkGEHZSMo&t=129s) (⏱️ 02:09-32:49)
+- [Rusen Cakir](https://www.youtube.com/watch?v=8gXqPv5hErU&t=2746s) (⏱️ 45:46-54:21)
+- [Murat Yetkin](https://www.youtube.com/watch?v=WEEyC0sbE48&t=108s) (⏱️ 01:48-05:35)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=USpcGTfwbiU) (⏱️ 00:00-01:03)
+- [Inan Demirel](https://www.youtube.com/watch?v=Se24O-KQxR8&t=6s) (⏱️ 00:06-02:56)
+- [Onlar TV](https://www.youtube.com/watch?v=438vPi9XxUw&t=444s) (⏱️ 07:24-33:16)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=2s1avHf63Wk&t=988s) (⏱️ 16:28-51:57)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=isBaMAodPb0&t=16s) (⏱️ 00:16-04:06)
+- [Serdar Akinan](https://www.youtube.com/watch?v=HdvsgXNIHLM&t=93s) (⏱️ 01:33-02:56)
 
 ---
 
-## 2. Savaşın Altıncı Gününde Tepkiler Büyüyor
+## 2. Gözaltı işkence iddiası ve davalar
 
-- Savaş altıncı gününde sürüyor, sahadan çok sayıda görüntü geliyor.
-- Yorumcular, anlık haber yerine soğukkanlı analiz ihtiyacı vurguluyor.
-- İnsani kriz büyüyor, ekonomik ve politik etkiler bölgede derinleşiyor.
-- Türkiye açısından İran sınırı ve güvenlik dengeleri kritik görülüyor.
-- İsrail ve Netanyahu'ya içte dışta tepkiler belirgin biçimde artıyor.
-- Uluslararası kamuoyunda İsrail sert eleştiri ve nefret odağına dönüşüyor.
-- Trump, savaş çabuk biter demişti; ABD’de eleştiriler çoğalıyor.
-- Kongrede itirazlar yükseliyor, Trump tabanında onay oranı düşüyor.
-- Hamas sonrası İsrail’de sağ güçleniyor, bölgesel hegemonya tartışılıyor.
-- Türkiye-İsrail ilişkileri ve İbrahim Anlaşmaları yeni dengelerle gündemde.
+- Kadıköy Fikirtepe’de 18,5 yaşındaki Muhammed polis çevirmesinde gözaltına alındı.
+- Muhammed, Kadıköy Asayiş’te ağır dayak ve cinsel işkence iddia etti.
+- Muhammed ve avukatı iddiaları resmi polis tutanağına kaydettirdi.
+- Savcılık aynı gün soruşturma başlattı, beş polis şüpheli gösterildi.
+- Adli Tıp raporunun Muhammed lehine bulgular içerdiği aktarıldı.
+- Görüntü kayıtları ve diğer deliller inceleniyor, emniyette idari inceleme sürüyor.
+- Avukat, şüphelilerin tutuklanmasını istedi; psikolojik durumunun kötü olduğu belirtildi.
+- Baro, gözaltında avukat erişiminin engellenmemesi gerektiğini vurguladı.
+- Gündemde ayrıca Silivri’de İBB davası, 400’ü aşkın sanıkla başlıyor.
+- Duruşmalar yeni salonda yapılacak; basın erişimi ve internet sorunları konuşuluyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=xwfBLmXRhXI&t=163s) (⏱️ 02:43-03:41)
-- [Rusen Cakir](https://www.youtube.com/watch?v=8MwEAJyzKZY&t=842s) (⏱️ 14:02-25:20)
-- [Unsal Unlu](https://www.youtube.com/watch?v=b7YXpDBabnA&t=519s) (⏱️ 08:39-09:21)
-- [Serdar Akinan](https://www.youtube.com/watch?v=-Uq5T4LP2r0&t=20s) (⏱️ 00:20-01:17)
+- [Onlar TV](https://www.youtube.com/watch?v=0W_OKZIjigs) (⏱️ 00:00-18:06)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=isBaMAodPb0&t=2948s) (⏱️ 49:08-53:33)
+- [Rusen Cakir](https://www.youtube.com/watch?v=JGz6N907PAA&t=1688s) (⏱️ 28:08-37:54)
 
 ---
 
-## 3. Ekonomide Döviz Baskısı ve Zamlar
+## 3. Şiddetle Mücadelede Medya ve Toplum
 
-- Merkez Bankası, doları 44 altında tutmak için müdahale etti.
-- Üç günde 26 milyar dolar satıldığı iddiası gündeme geldi.
-- Müdahalelerin yeni vergiler ve mali önlemler doğurabileceği konuşuluyor.
-- Nisan enflasyon verilerinin olumsuz gelebileceği uyarıları yapılıyor.
-- Hürmüz Boğazı riski enerji ve gıda tedarikini tehdit ediyor.
-- Savaş beklentisi altını yükseltti, teminat satışlarıyla geri çekti.
-- Euro-dolar paritesi ve içerideki fiyatlama farkları yeniden tartışıldı.
-- Petrol tırmanıyor, benzin ve motorine yeni zam beklentisi arttı.
-- Eşel Mobil benzeri destek mekanizmaları yeniden gündeme getirildi.
-- Emekli bayram ikramiyesi artışı tartışıldı, Meclis'te protestolar yaşandı.
+- Kadına yönelik cinayetler ve toplumsal nedenleri yeniden yoğun tartışılıyor.
+- Araştırmaya göre dizilerin çoğunda kadına şiddet sahneleri bulunuyor.
+- Uzmanlar dizilerin tek neden olmadığını, sosyal etkenleri vurguluyor.
+- 6284 kapsamında uzaklaştırma var, elektronik kelepçe uygulaması yetersiz kalıyor.
+- Takıntılı saldırganlarda hukuki tedbir yanında tedavi ve yatış gerekebiliyor.
+- Nefsi müdafaa değerlendirmesinde orantı, koşullar ve deliller belirleyici oluyor.
+- Suça sürüklenen çocuk kavramı, çocukları çoğunlukla mağdur kabul ediyor.
+- Sosyal medya ve oyunlar çocukları etkiliyor, yaş doğrulama isteniyor.
+- Sosyal medyada Tanıl’a yönelik örgütlü linç ve çarpıtma eleştiriliyor.
+- Genç ressam Yasemen İslamoğlu, eserini Basader’e bağışladı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=9yXkGEHZSMo&t=2740s) (⏱️ 45:40-46:27)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=xwfBLmXRhXI&t=221s) (⏱️ 03:41-12:20)
-- [Hilal Koylu](https://www.youtube.com/watch?v=AGIlNb0jNs8&t=1169s) (⏱️ 19:29-23:55)
-- [Unsal Unlu](https://www.youtube.com/watch?v=b7YXpDBabnA&t=305s) (⏱️ 05:05-06:36)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=E1CCA35KdTs&t=562s) (⏱️ 09:22-10:41)
+- [Rusen Cakir](https://www.youtube.com/watch?v=JGz6N907PAA&t=2278s) (⏱️ 37:58-45:06)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=2s1avHf63Wk&t=58s) (⏱️ 00:58-16:26)
 
 ---
 
-## 4. TBMM iftar tartışması ve siyaset
+## 4. Kur ve emtia baskısı büyüyor
 
-- TBMM’de düzenlenen iftar, menü ve sunumuyla tartışma yarattı.
-- TBMM Başkanı milletvekillerini iftara davet etti, katılım sınırlı kaldı.
-- Muhalefet liderlerinin çoğu iftara katılmadı, alternatif programlar yaptı.
-- Mecliste servis edilen yemeklerin seçimi, ülke yoksulluğuyla kıyaslandı.
-- Bir milletvekili, yemeklerin Meclis aşçılarınca yapıldığını savundu.
-- Aynı vekil, peynir ekmek çayla iftar olur dedi.
-- Bu sözler, yaygın açlık ve derin yoksulluk nedeniyle tepki çekti.
-- Yorumlarda, Meclis uygulamasının halkın hayatıyla bağdaşmadığı vurgulandı.
-- Seçim dönemlerinde kaynakların açılmasının sıradanlaştığı eleştirisi dile getirildi.
-- Ayrıca iç siyasette Bahçeli, kayyum ve ittifak gerilimleri konuşuldu.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Hilal Koylu](https://www.youtube.com/watch?v=AGIlNb0jNs8&t=1043s) (⏱️ 17:23-19:28)
-- [Unsal Unlu](https://www.youtube.com/watch?v=b7YXpDBabnA&t=120s) (⏱️ 02:00-05:03)
-
----
-
-## 5. Havacılıkta kriz ve yolcu paniği
-
-- Adana-Ankara seferi uçak şiddetli türbülansa girerek panik yarattı.
-- Yolcuların çektiği görüntüler sosyal medyada paylaşılınca olay gündem oldu.
-- Sunucular, panik davranışların diğer yolcuları daha fazla tedirgin ettiğini söyledi.
-- Kabin ekibinin yönlendirmesine uymanın ve sakin kalmanın önemi vurgulandı.
-- Öte yandan savaş, küresel havacılıkta ciddi aksamalara yol açtı.
-- Hava sahası kapanmaları uçuşları zorlaştırdı, seyahat kısıtları arttı.
-- Turizm sektörü bu belirsizlik nedeniyle birçok bölgede sekteye uğradı.
-- Bazı bölgelerde insanlar mahsur kaldı, tahliyeler gündeme geldi.
-- Dubai’de otellere zarar ve havaalanına füze parçaları düştü.
-- Abu Dhabi, turistlerin büyük kısmını güvenle evlerine ulaştırdığını açıkladı.
+- Ramazan döneminde tüketim arttı, alım gücü zayıflığı daha görünür oldu.
+- Mehmet Şimşek politikaları, zenginleri koruyan finans programı diye eleştirildi.
+- Doğrudan yatırımın fabrika kurmak olduğu, el değiştirme sayılmadığı vurgulandı.
+- Türkiye dış borcu 530 milyar dolar, özel sektör 219 milyar.
+- Kur artışı bütçe ve şirket bilançolarına ağır yük bindiriyor.
+- Carry trade hacmi 40 milyar dolar tahmini, kırılganlık yaratıyor.
+- Kamu-özel projelerde döviz garantileri, riskleri büyütüyor eleştirisi yapıldı.
+- Merkez Bankası döviz satışı ve repo durdurması likiditeyi etkiledi.
+- Hürmüz Boğazı riski enerji, gıda tedarikini ve fiyatları baskılıyor.
+- Altın savaş beklentisiyle yükseldi, teminat satışlarıyla dalgalandı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=9yXkGEHZSMo&t=2310s) (⏱️ 38:30-39:54)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=xwfBLmXRhXI&t=1182s) (⏱️ 19:42-20:26)
-
----
-
-## 6. Gazetecilik Deneyimi ve CHP İletişimi
-
-- Serdar Akinan, Cem Tekel ile röportaja giriş yaptı.
-- Programda Mehmet Ali Birand anıldı, saha gazeteciliği vurgulandı.
-- Cem Tekel, uzun yıllara yayılan bölge saha deneyimini anlattı.
-- Birand’ın genç muhabirlere fırsat verdiği örneklerle aktarıldı.
-- Birand’ın haber sezgisi için kokuyu alma yaklaşımı hatırlatıldı.
-- Saha anıları Çeçenistan ve Grozni örnekleriyle desteklendi.
-- Bahar Feyzan, CHP’nin iletişim stratejisini sert biçimde eleştirdi.
-- İran kaynaklı gelişmeler varken program yürütülmesi sorgulandı.
-- Medya yönetiminde liyakat eksikliği ve hatalı atamalar vurgulandı.
-- İletişim ve organizasyon sorunlarının seçim gündeminde etki azalttığı söylendi.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Serdar Akinan](https://www.youtube.com/watch?v=-Uq5T4LP2r0&t=78s) (⏱️ 01:18-04:39)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=9yXkGEHZSMo&t=2394s) (⏱️ 39:54-45:34)
-
----
-
-## 7. Türkiye İspanya Sosyal Medya Dayanışması
-
-- İspanya Başbakanı Pedro Sanchez’in Türkiye açıklamaları sosyal medyada yankı buldu.
-- Türkiye ve İspanya arasında çevrimiçi ortamda sıcak dayanışma mesajları yayıldı.
-- Paylaşımlar, iki ülke halkları arasında yakınlaşmayı güçlendirdiği yorumlandı.
-- Sanchez’in bazı kararları ve söylemleri Türkiye’de olumlu karşılandı.
-- Maçlarda gösterilen destek görüntüleri sosyal medyada sıkça paylaşıldı.
-- Kullanıcılar, İspanya ile gönül köprüsü kurulduğu temasını öne çıkardı.
-- İspanya’nın bazı silah anlaşmalarını iptal etmesi dikkat çekti.
-- Bu gelişme, Türkiye’de dayanışma algısını daha da kuvvetlendirdi.
-- Sosyal medya etkileşimi, diplomatik gündeme de dolaylı katkı sundu.
-- Paylaşımlar, iki toplumda karşılıklı sempatiyi artıran bir trend yarattı.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Bahar Feyzan](https://www.youtube.com/watch?v=9yXkGEHZSMo&t=2045s) (⏱️ 34:05-38:26)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=xwfBLmXRhXI&t=2818s) (⏱️ 46:58-56:22)
-
----
-
-## 8. Program Kapanışında Kedi Videoları
-
-- Program kapanışında izleyicilere neşeli ve hafif içerikler sunuldu.
-- İki viral kedi videosu yayın sonunda ekrana getirildi.
-- Videolardan biri veteriner ziyareti üzerinden mizahi anlar içerdi.
-- Diğer videoda kedi, cezaevine götürülüyormuş gibi gösterildi.
-- Sunucu, bu görüntülerle izleyicileri gülümseterek yayını bitirdi.
-- Kapanış bölümünde ayrıca genç bir ressamın sergisi tanıtıldı.
-- Ressamın bir eseri programda özel olarak öne çıkarıldı.
-- Tanıtılan eser, bir yardım kuruluşuna bağışlandığı belirtildi.
-- Sunucu, yayını kapatırken akşam programını da duyurdu.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Bahar Feyzan](https://www.youtube.com/watch?v=9yXkGEHZSMo&t=2835s) (⏱️ 47:15-48:38)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=xwfBLmXRhXI&t=3382s) (⏱️ 56:22-57:55)
-
----
-
-## 9. Şiddet iddialarında adalet tartışması büyüyor
-
-- Kadına yönelik şiddet ve kadın cinayetlerinde artış yaşandığı vurgulandı.
-- Öğretmen Fatmanur Çelik bıçaklanarak öldürüldü, kamuoyu tepki gösterdi.
-- Fatma Nur Çelik ve kızına yönelik istismar davası gündeme taşındı.
-- Aileler süreçte ihmaller olduğunu söyleyerek adalet talebini yineledi.
-- İstismarcıların serbest kalması eleştirildi, tutuklama çağrıları yapıldı.
-- Kadın örgütleri, avukatlar ve muhalefet davaları izleyeceklerini açıkladı.
-- 18,5 yaşındaki Muhammed polis çevirmesinde Fikirtepe’de gözaltına alındı.
-- Uyuşturucu şüphesi vardı, araçta ve adreslerde delil bulunmadı.
-- Muhammed telefon şifresi vermeyince darp ve işkence iddiasında bulundu.
-- Adli Tıp akut travma raporu verdi, polisler soruşturuluyor.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Hilal Koylu](https://www.youtube.com/watch?v=AGIlNb0jNs8&t=1439s) (⏱️ 23:59-41:52)
-- [Onlar TV](https://www.youtube.com/watch?v=mzGHFQCUQsQ) (⏱️ 00:00-12:29)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=3pT2Ak2-j5k) (⏱️ 00:00-10:14)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=USpcGTfwbiU&t=132s) (⏱️ 02:12-08:01)
 
 ---
 
