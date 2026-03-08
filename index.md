@@ -1,48 +1,43 @@
 # Bugün Ne Oldu?
 
-*7 March 2026 tarihli günlük haber raporu - 2 haber birleştirildi*
+*8 March 2026 tarihli günlük haber raporu - 2 haber birleştirildi*
 
-## 1. İran Savaşı Bölgesel Dengeleri Zorluyor
+## 1. İran-İsrail Savaşında Bölgesel Baskı Artıyor
 
-- ABD ve İsrail'in İran'a saldırıları sekizinci güne uzadı.
-- Trump operasyonu sahipleniyor, daha sert vurma tehdidi yineliyor.
-- İran balistik füze ve kamikaze dronlarla karşılık vermeyi sürdürüyor.
-- Körfez'de ABD üsleri ve enerji altyapısı hedef alınabiliyor.
-- Hürmüz gerilimi petrol fiyatlarını yükseltip küresel ekonomi etkiliyor.
-- ABD takvimi, kongre ve seçimler savaşın süresini belirleyebilir.
-- Türkiye temkinli; NATO üyeliğiyle İran komşuluğunu dengelemeye çalışıyor.
-- Türkiye'ye füze ve Nahçıvan dron iddialarında kesinlik sağlanamadı.
-- Bölgesel gerilim Kürt hareketlerini ve sınır militan geçişlerini etkiliyor.
-- İzmir Barometresi, çözüm sürecine desteğin kutuplaşmayla bölündüğünü gösterdi.
+- İran-İsrail arasında karşılıklı saldırılar dokuzuncu günde de sürdü.
+- Tahran’daki petrol depoları vuruldu, Hayfa’daki rafineri hedef alındı.
+- Tel Aviv’de sirenler çaldı, gece boyunca saldırılar devam etti.
+- Devrim Muhafızları sözcüsü çatışmaların altı ay sürebileceğini söyledi.
+- Pezeşkiyan komşu ülkelere saldırılar için özür diledi, tepki aldı.
+- Ofisi, üslerden saldırı gelirse misilleme yapılacağını duyurdu.
+- ABD üçüncü uçak gemisi gönderdi, kontrolü kaybettiği eleştirildi.
+- Trump’ın Kürtleri silahlandırma iddiası, Kürt gruplarca mesafeli karşılandı.
+- ABD’de savaş desteği düşüyor; İsrail desteği azalırken Filistin yükseliyor.
+- Türkiye için göç, enerji fiyatları, NATO riski ve güvenlik kaygıları büyüyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=Fl249p6QRCM&t=2s) (⏱️ 00:02-36:46)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=IuPirr1QtL0&t=737s) (⏱️ 12:17-14:41)
-- [Serdar Akinan](https://www.youtube.com/watch?v=lCKKPjUDuV8&t=879s) (⏱️ 14:39-17:48)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=snh50IXYjRo&t=3180s) (⏱️ 53:00-65:00)
-- [Hilal Koylu](https://www.youtube.com/watch?v=MRgzVL0Zzs4&t=99s) (⏱️ 01:39-09:29)
+- [Inan Demirel](https://www.youtube.com/watch?v=eZx9PefEyJw&t=145s) (⏱️ 02:25-06:50)
+- [Rusen Cakir](https://www.youtube.com/watch?v=zI6zzAtvF-g&t=744s) (⏱️ 12:24-24:09)
 
 ---
 
-## 2. Küresel Finans Düzeni Sarsılıyor
+## 2. Çocuklar Üzerinden Gündem Tartışması
 
-- Dünya düzeni çok kutuplu bir yapıya doğru hızla kayıyor.
-- Bazı çevreler ulusüstü teknokratik merkezi yönetimler kurmayı savunuyor.
-- İklim ve sağlık gibi alanlarda yetkili küresel merkezler tartışılıyor.
-- Doların rezerv para payı düşerken ülkeler altına yöneliyor.
-- IMF ve BIS benzeri kurumların dijital para projeleri gündemde.
-- Comex’te fiziksel teslimat krizi iddiası Mart’ta belirginleşebilir.
-- Savaş sonrası küresel piyasalarda sert düşüşler, enerji fiyatlarında sıçrama görüldü.
-- Büyük fonlar çekilişlere limit koyuyor, likidite endişesi büyüyor.
-- Kitlesel çekilmeler fon krizini tetikleyip finansal paniğe dönüşebilir.
-- Türkiye’de döviz müdahaleleri, rezerv baskısı ve stagflasyon riski konuşuluyor.
+- Bebek bakımında aylık maliyetler aileleri ciddi biçimde zorluyor.
+- Mama, bez, kıyafet ve ilaç giderleri toplamı örneklerle anlatıldı.
+- Bazı bebek aşılarının ücretsiz olmaması cepten ödeme doğuruyor.
+- Aileler artan masraflar nedeniyle temel ihtiyaçlarda kısma yapıyor.
+- Öte yandan Kabe’de çocukların ilahi ve dans görüntüleri yayıldı.
+- Görüntüler sosyal medyada kısa sürede geniş tartışma başlattı.
+- Bazı kullanıcılar olaya dini hassasiyetler açısından eleştirel yaklaştı.
+- Bazıları çocukların eğitimi ve yönlendirilmesi açısından kaygı dile getirdi.
+- Paylaşımlar farklı yorumlarla laiklik tartışmalarını yeniden gündeme taşıdı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=IuPirr1QtL0) (⏱️ 00:00-01:10)
-- [Serdar Akinan](https://www.youtube.com/watch?v=lCKKPjUDuV8&t=260s) (⏱️ 04:20-07:00)
-- [Hilal Koylu](https://www.youtube.com/watch?v=MRgzVL0Zzs4&t=917s) (⏱️ 15:17-32:48)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=Fgnl_BgmMx0&t=746s) (⏱️ 12:26-14:15)
+- [Inan Demirel](https://www.youtube.com/watch?v=eZx9PefEyJw&t=3660s) (⏱️ 61:00-65:18)
 
 ---
 
