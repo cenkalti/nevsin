@@ -1,158 +1,177 @@
 # Bugün Ne Oldu?
 
-*9 March 2026 tarihli günlük haber raporu - 7 haber birleştirildi*
+*10 March 2026 tarihli günlük haber raporu - 8 haber birleştirildi*
 
-## 1. İBB Davası Silivri’de Başladı
+## 1. Silivri’de İBB davasında usul krizi
 
-- İBB davasının ilk duruşmaları Silivri’de bugün resmen başladı.
-- Ekrem İmamoğlu baş sanık, toplam 402 kişi yargılanıyor.
-- Tutuklu sanık sayısı 105-106 olarak açıklanıyor, tartışmalar sürüyor.
-- İddianame 3.700-4.000 sayfa, çok sayıda tekrar içeriyor iddiası.
-- Savcılık rüşvet, ihaleye fesat, aklama ve örgüt kurma suçları öne sürüyor.
-- İmamoğlu için 849 ile 2430 yıla kadar hapis isteniyor.
-- Duruşma gergin başladı, İmamoğlu ile başkan arasında tartışma yaşandı.
-- Avukatlar reddi hakim istedi, mahkeme talebi reddetti.
-- Salon, basın ve izleyici kısıtlı; canlı yayın olasılığı düşük.
-- Silivri’de Mart boyunca eylem ve çekim yasaklarına CHP tepki gösterdi.
+- Silivri’de İBB davası gergin başladı, usul tartışmaları büyüdü.
+- İmamoğlu’nun konuşma talepleri ilk gün reddedildi, kriz çıktı.
+- İkinci gün kimlik tespiti yapıldı, iddianame özeti okundu.
+- Avukatlar reddi hakim istedi, mahkeme talepleri çoğunlukla kabul etmedi.
+- Sanık sorgu sırası listesinin yandaş medyada yayımlandığı iddia edildi.
+- Salon çok kalabalıktı, jandarma tedbirleri basın erişimini kısıtladı.
+- Avukat girişleri, cübbe ve kimlik kontrolleri yeni tartışmalar yarattı.
+- İddianame binlerce sayfa, tebligatlar geç, savunma süresi eleştirildi.
+- Gizli tanıklar, etkin pişmanlık ve delil eksikliği iddiaları gündemde.
+- CHP’den siyasi dava eleştirileri yükseldi, bazı açıklamalara soruşturma açıldı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilal Koylu](https://www.youtube.com/watch?v=5fuKNuvSYhI&t=5s) (⏱️ 00:05-04:25)
-- [Murat Yetkin](https://www.youtube.com/watch?v=ElVFQNPVsFU&t=516s) (⏱️ 08:36-16:44)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=R8W-pvjZ384&t=1510s) (⏱️ 25:10-27:10)
-- [Rusen Cakir](https://www.youtube.com/watch?v=pqPAY3ZrOlU&t=20s) (⏱️ 00:20-13:13)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=tBm4_TgJUi0&t=85s) (⏱️ 01:25-13:00)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=-AWuNzwafCc&t=17s) (⏱️ 00:17-00:36)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=iYm_0MohkS4&t=165s) (⏱️ 02:45-17:29)
-- [Unsal Unlu](https://www.youtube.com/watch?v=nPg_vhLQ4ag&t=81s) (⏱️ 01:21-23:02)
+- [Inan Demirel](https://www.youtube.com/watch?v=gBCOi2OsUM8&t=65s) (⏱️ 01:05-13:00)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=z_w-lxVplW8&t=225s) (⏱️ 03:45-29:40)
+- [Unsal Unlu](https://www.youtube.com/watch?v=KtoJU5epSy4&t=31s) (⏱️ 00:31-17:40)
+- [Rusen Cakir](https://www.youtube.com/watch?v=6fs3YFWlpI0&t=14s) (⏱️ 00:14-16:40)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=DIh4z6crQSA&t=24s) (⏱️ 00:24-18:25)
+- [Hilal Koylu](https://www.youtube.com/watch?v=tSbCgJn1Gz4&t=45s) (⏱️ 00:45-06:40)
+- [Murat Yetkin](https://www.youtube.com/watch?v=FmusZwYFOIw&t=111s) (⏱️ 01:51-13:54)
+- [Onlar TV](https://www.youtube.com/watch?v=v_FHzg_gzjY&t=79s) (⏱️ 01:19-66:10)
+- [Serdar Akinan](https://www.youtube.com/watch?v=Oxiu5DB3qNg&t=271s) (⏱️ 04:31-36:36)
 
 ---
 
-## 2. Ortadoğu Savaşı Enerji ve Güvenliği Sarsıyor
+## 2. Türkiye’ye Füze Tehdidi ve Patriotlar
 
-- Ortadoğu’daki çatışma onuncu gününde, saldırılar ve misillemeler sürüyor.
-- Tahran’daki Şahran petrol tesisleri vuruldu, büyük yangın çıktı.
-- Zehirli duman ve çevresel zarar, işçi ve sivilleri etkiliyor.
-- Hürmüz Boğazı ve Körfez’de sevkiyat aksıyor, sigorta maliyeti artıyor.
-- Bölge ülkeleri hava sahalarını kısmen kapattı, uçuşlar iptal edildi.
-- ABD, bölgede bir asker kaybı daha yaşandığını açıkladı.
-- Türkiye, İran kaynaklı balistik mühimmatı NATO’nun vurduğunu duyurdu.
-- Parçalar Gaziantep ve Hatay’a düştü, can kaybı olmadı.
-- Bahreyn’de kralın ayrıldığı iddiaları ve su tesisi saldırısı konuşuluyor.
-- Petrol fiyatları oynuyor, enflasyon ve resesyon riski gündemde. 
+- Hatay ve Gaziantep çevresinde füze parçaları ve cisimler düştü.
+- İran kaynaklı atış iddiası güçlendi, ikinci füze havada imha edildi.
+- İmhanın NATO unsurları ve bir Amerikan muhribiyle yapıldığı belirtildi.
+- Milli Savunma Bakanlığı Malatya’ya Patriot bataryası konuşlandırıldığını açıkladı.
+- Patriotların amacı hava sahasını ve Kürecik X-band radarını korumak.
+- NATO ile istişare vurgulandı, konuşlandırma ittifak işbirliği sayıldı.
+- Erdoğan olayları provokasyon olarak niteledi, can kaybı bildirilmedi.
+- ABD temsilcilikleri güvenlik uyarıları yayımladı, Adana konsolosluğu boşaltıldı.
+- Türkiye KKTC’ye F-16 ve hava savunma unsurları takviye etti.
+- S-400 entegrasyonu tartışıldı, Hisar-Siper projeleri tekrar gündeme geldi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Nevsin Mengu](https://www.youtube.com/watch?v=tBm4_TgJUi0&t=1380s) (⏱️ 23:00-26:00)
-- [Serdar Akinan](https://www.youtube.com/watch?v=RaqdlVHs-FA) (⏱️ 00:00-00:23)
-- [Inan Demirel](https://www.youtube.com/watch?v=Mw_MhE-Artk&t=1153s) (⏱️ 19:13-38:44)
-- [Murat Yetkin](https://www.youtube.com/watch?v=ElVFQNPVsFU&t=235s) (⏱️ 03:55-08:34)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=-AWuNzwafCc&t=238s) (⏱️ 03:58-07:24)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=R8W-pvjZ384&t=1321s) (⏱️ 22:01-25:08)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=iYm_0MohkS4&t=1242s) (⏱️ 20:42-35:27)
+- [Hilal Koylu](https://www.youtube.com/watch?v=tSbCgJn1Gz4&t=1363s) (⏱️ 22:43-28:30)
+- [Rusen Cakir](https://www.youtube.com/watch?v=6fs3YFWlpI0&t=1001s) (⏱️ 16:41-26:09)
+- [Murat Yetkin](https://www.youtube.com/watch?v=FmusZwYFOIw&t=6s) (⏱️ 00:06-00:44)
+- [Inan Demirel](https://www.youtube.com/watch?v=KtPv0pRBTIk&t=241s) (⏱️ 04:01-19:04)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=DIh4z6crQSA&t=1106s) (⏱️ 18:26-24:59)
 
 ---
 
-## 3. İran’da Müçteba Hamaney Dini Lider
+## 3. Halkbank davasında uzlaşma sağlandı
 
-- İran’da yeni dini lider olarak Müçteba Hamaney’in seçildiği konuşuluyor.
-- Seçimi yapan Uzmanlar Meclisi 88 üyeden oluşan bir kurum.
-- Güvenlik ve suikast endişesi yüz yüze toplantıları zorlaştırdı.
-- Bazı üyelerin niyet mektuplarıyla sürece katıldığı iddia edildi.
-- Müçteba Hamaney, Ali Hamaney’in oğlu ve konsensus adayıydı.
-- Seçim, İran’da Şii monarşizmi tartışmalarını yeniden alevlendirdi.
-- Devrim Muhafızları’nın süreçte etkili olduğu yönünde iddialar var.
-- Karar, iç politikada güç dengelerini ve hizipleri etkileyebilir.
-- Atama, dış politikada sertleşme ve geri adım yok mesajı.
-- Bölgesel tansiyon ve Batı’yla ilişkiler üzerindeki etkiler izleniyor.
+- Halkbank davasında ABD Adalet Bakanlığı ile ertelenmiş kovuşturma uzlaşısı sağlandı.
+- Manhattan savcılığı, tarafların ertelenmiş kovuşturma konusunda mutabık kaldığını duyurdu.
+- Dava 2019’da açılmıştı; iddialar yaptırım delme ve dolandırıcılıktı.
+- Ayrıca kara para aklama suçlamaları dosyada yer alıyordu denildi.
+- Anlaşma şartları uygulanırsa süreç askıya alınacak, dava düşebilecek.
+- Koşullar arasında İran’la ticari ve mali bağların kesilmesi var.
+- Bağımsız denetimler öngörülüyor; Türkiye şartları kabul ettiğini bildirdi.
+- Anlaşma ayrıntıları henüz kamuoyuna açıklanmadı, takvim belirsizliğini koruyor.
+- Haber sonrası Borsa İstanbul’da Halkbank hisseleri yaklaşık yüzde 10 yükseldi.
+- Gelişme, Türkiye-ABD normalleşmesi ve F-16 yaptırımlarıyla birlikte yorumlandı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=-AWuNzwafCc&t=36s) (⏱️ 00:36-03:17)
-- [Serdar Akinan](https://www.youtube.com/watch?v=RaqdlVHs-FA&t=32s) (⏱️ 00:32-03:20)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=tBm4_TgJUi0&t=1020s) (⏱️ 17:00-23:00)
-- [Inan Demirel](https://www.youtube.com/watch?v=Mw_MhE-Artk) (⏱️ 00:00-07:45)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=DIh4z6crQSA&t=1840s) (⏱️ 30:40-31:21)
+- [Hilal Koylu](https://www.youtube.com/watch?v=tSbCgJn1Gz4&t=1710s) (⏱️ 28:30-33:34)
+- [Inan Demirel](https://www.youtube.com/watch?v=gBCOi2OsUM8&t=2895s) (⏱️ 48:15-52:50)
+- [Murat Yetkin](https://www.youtube.com/watch?v=FmusZwYFOIw&t=47s) (⏱️ 00:47-01:50)
 
 ---
 
-## 4. 8 Mart Yürüyüşleri ve Kadın Şiddeti
+## 4. Mehmet Cemil Acar Tahliyesi Tartışması
 
-- 8 Mart’ta Türkiye genelinde kadınlar gece yürüyüşleri düzenledi.
-- İstanbul feminist gece yürüyüşlerinin merkezi oldu, şiddet görüntüsü azdı.
-- Kadınlar erkek şiddetine, savaşa, yoksulluğa karşı sloganlar attı.
-- Farklı siyasi görüş, inanç ve kimliklerden kadınlar yan yana yürüdü.
-- Bazı illerde yürüyüşlere yasaklar, sokak geçişlerine kısıtlamalar getirildi.
-- Yasakların korku yaratması hedeflendi, ancak ters etki vurgulandı.
-- Kadın cinayetleri ve artan şiddet, medyada ve yürüyüşlerde gündemdi.
-- Nefes gazetesi şiddet mağduru kadınların fotoğraflarını birinci sayfaya taşıdı.
-- İstanbul Sözleşmesi’nden çıkış ve yasal değişiklikler geri adım sayıldı.
-- 1857 ve Klara Zetkin tarihçesi anıldı; mimoza dayanışma sembolü oldu.
+- Eski DHMİ daire başkanı Mehmet Cemil Acar tahliye edildi.
+- Acar, rüşvet ve yolsuzluk iddialarıyla Nisan 2025'te tutuklanmıştı.
+- Evinde 26 kilo altın bulunduğu iddialar arasında yer aldı.
+- Ayrıca 1.320.000 dolar ve yaklaşık 120.000 euro ele geçirildi.
+- Bu varlıklarla ilgili Mali Suçları Araştırma Kurulu raporu hazırlandı.
+- 9 Mart itibarıyla Acar’ın serbest bırakıldığı kamuoyuna yansıdı.
+- Tahliye kararı kamuoyunda geniş çaplı tartışma ve tepki doğurdu.
+- Bazı yorumcular tahliyenin siyasi veya kişisel hesaplaşmayla bağlantılı olabileceğini savundu.
+- Ele geçen varlıklar ile iddia edilen rüşvet tutarları arasındaki uyumsuzluk eleştirildi.
+- Olay, adalet duygusu ve cezaevindeki diğer tutuklularla kıyaslandı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=iYm_0MohkS4) (⏱️ 00:00-02:42)
-- [Unsal Unlu](https://www.youtube.com/watch?v=nPg_vhLQ4ag&t=479s) (⏱️ 07:59-10:27)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=R8W-pvjZ384&t=31s) (⏱️ 00:31-21:55)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=DIh4z6crQSA&t=1582s) (⏱️ 26:22-30:38)
+- [Inan Demirel](https://www.youtube.com/watch?v=gBCOi2OsUM8&t=3170s) (⏱️ 52:50-55:00)
+- [Onlar TV](https://www.youtube.com/watch?v=v_FHzg_gzjY&t=3639s) (⏱️ 60:39-61:09)
 
 ---
 
-## 5. Duruşma yayını tartışması büyüyor
+## 5. İkinci Füze Krizi Diplomasiye Taşındı
 
-- CHP ve kamuoyu, duruşmanın TRT’den canlı yayınlanmasını istiyor.
-- Muhalefet, iddianamenin delil açısından zayıf olduğunu savunuyor.
-- Muhalefet, davanın siyasi motivasyonla yürütüldüğünü öne sürüyor.
-- MHP lideri Devlet Bahçeli, yayın talebine destek verdi.
-- İktidar kanadında davayı halka anlatmaya isteksizlik olduğu belirtiliyor.
-- Bazı yorumcular, iktidarın sürecin unutulmasını tercih ettiğini söylüyor.
-- İktidar yanlısı medyada yolsuzluk rakamlarının sürekli değiştiği anlatılıyor.
-- Sabah örneğinde iddialar 560 milyardan 53 milyara indi.
-- Bu iniş çıkışların algı oluşturma amacı taşıdığı yorumları yapılıyor.
-- Savcılık-medya ilişkisi eleştirilerek hukuk ve şeffaflık sorgulanıyor.
+- İran’dan Türkiye’ye ikinci füze düştüğü bildirildi, tartışma büyüdü.
+- Milli Savunma Bakanlığı akşam saatlerindeki atışa dair açıklama yaptı.
+- İran daha önce olayla ilgisi olmadığını söylemişti, yeniden sorgulandı.
+- İkinci olay sonrası Dışişleri, İran’ın Ankara Büyükelçisi’ni çağırdı.
+- Büyükelçiden açıklama istendi, sert uyarı ve ültimatom iddiaları konuşuldu.
+- Hakan Fidan’ın tepkisini doğrudan ilettiği, diplomatik temaslar sürdü.
+- Erdoğan ile İran Cumhurbaşkanı Pezeşkian arasında telefon görüşmesi yapıldı.
+- Türkiye hava sahası ihlalini ve İran kaynaklı müdahaleyi reddettiğini bildirdi.
+- Pezeşkian füzelerin İran kaynaklı olmadığını söyleyip inceleme sözü verdi.
+- ABD, gelişmelerin gölgesinde Adana Konsolosluğu’nun kapatıldığını duyurdu.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilal Koylu](https://www.youtube.com/watch?v=5fuKNuvSYhI&t=708s) (⏱️ 11:48-15:13)
-- [Unsal Unlu](https://www.youtube.com/watch?v=nPg_vhLQ4ag&t=792s) (⏱️ 13:12-15:05)
+- [Unsal Unlu](https://www.youtube.com/watch?v=KtoJU5epSy4&t=1416s) (⏱️ 23:36-24:00)
+- [Inan Demirel](https://www.youtube.com/watch?v=KtPv0pRBTIk&t=6s) (⏱️ 00:06-00:36)
 
 ---
 
-## 6. Kürtleri Silahlandırma İddiaları Tartışma Yarattı
+## 6. İran’daki liderlik krizi derinleşiyor
 
-- Geçen hafta Kürtleri silahlandırma ve İran’a gönderme iddiaları gündeme geldi.
-- Dışişleri yetkilileri ve Hakan Fidan böyle bir niyet olmadığını söyledi.
-- İddialara ilişkin görüşmelerin ABD’li yetkililerle yapıldığı belirtildi yetkililerce.
-- Savaşın ilk günlerinde CNNational’ın Kürtleri silahlandırdığı iddiası da yayıldı.
-- Bazı haberler sonradan yalanlandı, açıklamalar çelişkili ve belirsiz kaldı.
-- Yorumcular, bunun enformasyon ya da dezenformasyon olabileceğini vurguladı sıkça.
-- Tartışma, Kürtlerin bölgedeki rolünün yeniden görünürleştiğine işaret etti.
-- Ayrıca Repcon firması üzerinden ABD-Türkiye bağlantılı mühimmat iddiaları konuşuldu.
-- İddialara göre MK80 bombaları Kongre denetimi aşılmadan İsrail’e gönderilecekti.
-- Repcon, doğrudan satış yapmadığını, mühimmat hatları kurduğunu açıkladı.
+- İran-İsrail çatışmasının bölgeye yayılma riski giderek artıyor.
+- İran’da liderlik tartışmaları Müçteba Hamaney etrafında yoğunlaşıyor.
+- Müçteba’nın IRGC ile bağları iktidarı daha da pekiştirebilir.
+- IRGC içindeki bölünmeler, olası güç mücadelesini derinleştiriyor.
+- Reformistler ve muhaliflere baskı ile tasfiyelerin artması bekleniyor.
+- İsrail’in suikast ve hedef alma kapasitesi, tehdit algısını büyütüyor.
+- Müçteba’nın durumu hakkında dezenformasyon, belirsizliği daha da artırdı.
+- Rusya ve Çin’in yeni liderliğe destek verdiği bildirildi.
+- Trump atamaya açıkça karşı çıktı, ABD siyaseti etkili olabilir.
+- Iraklı Kürtlerin sınır tutumu, Türkiye’de güvenlik ve göç kaygısı doğuruyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=-AWuNzwafCc&t=1064s) (⏱️ 17:44-18:48)
-- [Rusen Cakir](https://www.youtube.com/watch?v=AU481I_ArUk&t=20s) (⏱️ 00:20-01:39)
+- [Rusen Cakir](https://www.youtube.com/watch?v=6fs3YFWlpI0&t=1570s) (⏱️ 26:10-35:59)
+- [Hilal Koylu](https://www.youtube.com/watch?v=tSbCgJn1Gz4&t=1300s) (⏱️ 21:40-22:43)
 
 ---
 
-## 7. Pezeşkian’ın Özür Sözü Tartışma Yarattı
+## 7. Gösteriş Tartışması ve Ekonomik Baskı
 
-- Cumhurbaşkanı Pezeşkian, komşulardan özür dileriz sözleriyle gündem oldu.
-- Açıklama, bölgedeki saldırılar sonrası yaklaşımını anlatma amacı taşıdı.
-- Konsey içinden itirazlar yükseldi, bunun resmi karar olmadığı belirtildi.
-- Bazı sert isimler, özür söylemini zayıflık göstergesi sayarak eleştirdi.
-- Analistler, sözlerin kişisel ve doğaçlama söylenmiş olabileceğini vurguladı.
-- Pezeşkian daha sonra konuştu, sözlerinin yanlış yorumlandığını söyledi.
-- Aynı dönemde BAE’de bir tuz tesisine saldırı gerçekleşti.
-- Bahreyn’in vurulması iddiaları da eş zamanlı olarak gündeme geldi.
-- Bu gelişmeler İran iç söylem tartışmalarını artırdı, derin ayrılık görülmedi.
-- Lavrov’a sorulan soruda 165 kız çocuğu iddiası gündeme taşındı.
+- AK Partili Nilgün Ökün’ün depremzede ziyareti fotoğrafı tartışma yarattı.
+- Fotoğrafta lüks çanta görülmesi, gösteriş ve şov eleştirilerini büyüttü.
+- Yoksul ziyaretlerinde gösteriş yapılmasının toplumsal tepkiyi artırdığı vurgulandı.
+- Antrikot fiyatları üzerinden hayat pahalılığı ve erişilebilirlik gündeme taşındı.
+- Türkiye’de enflasyonun kalıcılaştığı ve yapısal sorunların sürdüğü ifade edildi.
+- Devletin vergi yükü artıyor, 2026 için 15,6 trilyon hedefleniyor.
+- Faiz giderlerinin yıllar içinde yükseldiği, bütçeyi zorladığı anlatıldı.
+- Döviz kuru ve akaryakıt fiyatları, ücretlerin alım gücünü düşürüyor.
+- Açlık ve yoksulluk sınırları TL ve dolar bazında değişim gösteriyor.
+- Savaş ve güvensizlik turizmi azaltır, reel sektör döviz açığı büyüyor. 
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Inan Demirel](https://www.youtube.com/watch?v=Mw_MhE-Artk&t=465s) (⏱️ 07:45-12:28)
-- [Serdar Akinan](https://www.youtube.com/watch?v=RaqdlVHs-FA&t=200s) (⏱️ 03:20-05:26)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=DIh4z6crQSA&t=1882s) (⏱️ 31:22-33:35)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=xicbML51jAM&t=88s) (⏱️ 01:28-04:43)
+
+---
+
+## 8. İran İsrail Savaşında Dokuzuncu Gün
+
+- Tahran’dan canlı yayınlarda savaşın dokuzuncu gününe girildi.
+- İsrail’den düştüğü bildirilen bir füze şehirde paniği artırdı.
+- Halk kaçış görüntüleri verirken savaş yanlısı sloganlar da duyuldu.
+- Donald Trump savaşın bir hafta içinde bitebileceğini söyledi.
+- Trump saldırıyı önleyici gördü, takvimden önde olduklarını savundu.
+- ABD ve İsrail, İran’a karşı etkili darbe vurduklarını iddia etti.
+- İran tarafı sert mesajlarla çatışmayı sürdürme kararlılığını vurguladı.
+- Uzmanlar bölgesel etkiler ve enerji piyasalarında petrol fiyatlarını değerlendirdi.
+- ABD’nin harcamalarının 9,5 milyar dolara ulaştığı belirtildi.
+- Patriot savunması, Netanyahu’nun yargısı ve Hindistan iddiası tartışıldı.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Serdar Akinan](https://www.youtube.com/watch?v=Oxiu5DB3qNg&t=5s) (⏱️ 00:05-04:30)
+- [Inan Demirel](https://www.youtube.com/watch?v=gBCOi2OsUM8&t=2285s) (⏱️ 38:05-48:15)
 
 ---
 
