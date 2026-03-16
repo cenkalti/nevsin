@@ -1,44 +1,69 @@
 # Bugün Ne Oldu?
 
-*15 March 2026 tarihli günlük haber raporu - 2 haber birleştirildi*
+*16 March 2026 tarihli günlük haber raporu - 3 haber birleştirildi*
 
-## 1. Türkiye’ye Düşen Füze Parçaları Tartışması
+## 1. Türkiye ve NATO İran Savaşı
 
-- Türkiye’ye balistik mühimmat parçaları düştüğü yönünde açıklamalar yapıldı.
-- Parçaların Hatay, Dörtyol, Gaziantep ve Adana yakınına indiği bildirildi.
-- Adana İncirlik çevresinde sirenler duyuldu, gökyüzünde parıltı görüldü.
-- Görüntülerde cismin düşmesi ve havada imha anı yer aldı.
-- Ankara, üçüncü bir füzenin havada etkisiz hale getirildiğini duyurdu.
-- TSK, İran’dan atılan balistik mühimmatın Doğu Akdeniz’de vurulduğunu açıkladı.
-- İran Büyükelçiliği, Türkiye’ye mühimmat atıldığı iddiasını kesin dille reddetti.
-- Ankara, elde doğrulanmış rapor veya bulgu bulunmadığını bildirdi.
-- Bazı parçaların, Batılı savunma füzelerinden kopmuş olabileceği değerlendirildi.
-- Menşe tespiti için görüşmeler sürüyor; Kürecik ve NATO yetkili.
+- İran savaşı üçüncü haftaya girdi, kısa sürede bitmedi.
+- ABD ve İsrail İran’ı yoğun vurdu, ölü sayısı 500’ü geçti.
+- İran, İsrail’e ve ABD üslerine yakın ülkelere misilleme yaptı.
+- Hizbullah, Haşdi Şabi ve Yemenli gruplar çatışmalara katıldı.
+- Türkiye’de İran’dan atıldığı söylenen füze parçaları üç kez düştü.
+- MSB füzeler İran’dan dedi; İran sahiplenmedi, belirsizlik sürüyor.
+- Kürecik radarı ve deniz önleyiciler tartışıldı; Patriot ihtimali konuşuldu.
+- Veri paylaşımı belirsizliği provokasyon ve yanlış hesap riskini artırıyor.
+- Türkiye üs kullandırmama ve savaştan uzak durma politikasını sürdürüyor.
+- Savaş petrol fiyatlarını artırıyor, bölgesel söylem sertleşmesi uyarısı yapıldı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilal Koylu](https://www.youtube.com/watch?v=4j1KFCmGiA8&t=883s) (⏱️ 14:43-21:26)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=hfQLobhHNBY&t=225s) (⏱️ 03:45-10:16)
+- [Rusen Cakir](https://www.youtube.com/watch?v=BEQbIw5EH1o&t=751s) (⏱️ 12:31-41:36)
+- [Inan Demirel](https://www.youtube.com/watch?v=gqocpxVQ9WQ&t=174s) (⏱️ 02:54-27:20)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=jauhJqdH5Rc&t=2820s) (⏱️ 47:00-50:10)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=IGi4WgPqrJ0&t=12s) (⏱️ 00:12-02:57)
+- [Murat Yetkin](https://www.youtube.com/watch?v=Rvj6Sez_5uE&t=175s) (⏱️ 02:55-14:30)
 
 ---
 
-## 2. İran ve Şeriati Tartışmaları Gündemde
+## 2. İBB Davasında Salon Krizi ve Erteleme
 
-- İran’da geniş çaplı sokak protestoları son günlerde görülmedi.
-- Geçtiğimiz aylarda protestolar oldu, güvenlik güçleri sert baskı uyguladı.
-- Rejim değişikliği hedefi yeniden tartışılıyor, kısa vadede belirsiz görünüyor.
-- ABD ve İsrail’in amacının rejime baskı kurmak olduğu belirtildi.
-- Yeni dini liderin hedef alındığı ve ödül iddiaları gündeme geldi.
-- Bu iddialar, rejim değişikliğinin uzun vadeli plan olabileceğini düşündürdü.
-- Tartışmalar sürerken Ali Şeriati’nin mirası yeniden kamuoyuna taşındı.
-- Şeriati’nin İran devrimindeki etkisi ve İslam düşüncesi anlatıldı.
-- Türkiye’de 1980’lerde İslami yayıncılık yükseldi, sonra eleştiri azaldı.
-- Sosyal medyada Şeriati’yle alay edilmesi tepki çekti, saygı çağrısı yapıldı.
+- Silivri’de İBB davasının 5. celsesinde gerilim yaşandı.
+- Milletvekili avukatların avukat sıralarında oturması tartışma çıkardı.
+- Jandarma ve mübaşir müdahaleleriyle duruşma başlatılamadı, ertelendi.
+- Heyet başkanı, müvekkili olmayanların sadece izleyici olacağını söyledi.
+- Sanıklar sırayla salona alındı, sonra yeniden dışarı çıkarıldı.
+- Ekrem İmamoğlu salona geldi, izleyicileri ve ailesini selamladı.
+- Basın kartı şartı ve yer darlığı gazetecilerin takibini zorlaştırdı.
+- Dilek İmamoğlu süreci eleştirdi, TRT’den canlı yayın istedi.
+- Ümit Polat sorgusunda kesinti iddiaları konuşuldu, rüşvet reddedildi.
+- Yorumcular davayı siyasi görüyor, CHP’de koordinasyon eksikliği eleştiriliyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=ymVFbZh3Dqg&t=25s) (⏱️ 00:25-12:02)
-- [Hilal Koylu](https://www.youtube.com/watch?v=4j1KFCmGiA8&t=396s) (⏱️ 06:36-08:28)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=Jb7H1KK7UfU&t=11s) (⏱️ 00:11-02:36)
+- [Murat Yetkin](https://www.youtube.com/watch?v=Rvj6Sez_5uE&t=95s) (⏱️ 01:35-02:54)
+- [Rusen Cakir](https://www.youtube.com/watch?v=BEQbIw5EH1o&t=23s) (⏱️ 00:23-12:31)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=jauhJqdH5Rc&t=120s) (⏱️ 02:00-14:00)
+
+---
+
+## 3. Duruşma Ertelemeleri ve Hızlandırma Tartışması
+
+- Mahkeme heyetinin tartışma çıkınca duruşmayı sıkça ertelediği söylendi.
+- Bazı gözlemciler heyetin davayı kısa sürede bitirmek istediğini savundu.
+- Bu hızlandırma için dosya yönlendirme gibi usuller konuşuluyor.
+- Taleplerin hızlı gönderilmesiyle sürecin hızlanabileceği iddia edildi.
+- Bu yaklaşımın adil yargılama ilkesini zedeleyebileceği tartışılıyor.
+- Tuğba Torun’un duruşma değerlendirmesi programda izleyicilere aktarıldı.
+- Torun, duruşmaya 38 derece ateşle geldiğini belirtti.
+- Torun, duruşmanın haksız bir gerekçeyle bitirildiğini yazdı.
+- Torun iki ihtimal sundu; psikolojik üstünlük veya uzaklaşma isteği.
+- Yorumlar, mahkeme heyetinin tutumuna yönelik eleştirileri artırdı.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=Jb7H1KK7UfU&t=768s) (⏱️ 12:48-14:42)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=jauhJqdH5Rc&t=840s) (⏱️ 14:00-16:00)
 
 ---
 
