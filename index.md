@@ -1,69 +1,94 @@
 # Bugün Ne Oldu?
 
-*16 March 2026 tarihli günlük haber raporu - 3 haber birleştirildi*
+*17 March 2026 tarihli günlük haber raporu - 4 haber birleştirildi*
 
-## 1. Türkiye ve NATO İran Savaşı
+## 1. Silivri’de İBB Davasında Şeffaflık Tartışması
 
-- İran savaşı üçüncü haftaya girdi, kısa sürede bitmedi.
-- ABD ve İsrail İran’ı yoğun vurdu, ölü sayısı 500’ü geçti.
-- İran, İsrail’e ve ABD üslerine yakın ülkelere misilleme yaptı.
-- Hizbullah, Haşdi Şabi ve Yemenli gruplar çatışmalara katıldı.
-- Türkiye’de İran’dan atıldığı söylenen füze parçaları üç kez düştü.
-- MSB füzeler İran’dan dedi; İran sahiplenmedi, belirsizlik sürüyor.
-- Kürecik radarı ve deniz önleyiciler tartışıldı; Patriot ihtimali konuşuldu.
-- Veri paylaşımı belirsizliği provokasyon ve yanlış hesap riskini artırıyor.
-- Türkiye üs kullandırmama ve savaştan uzak durma politikasını sürdürüyor.
-- Savaş petrol fiyatlarını artırıyor, bölgesel söylem sertleşmesi uyarısı yapıldı.
+- İBB davası Silivri’de sürüyor, İmamoğlu yargılamanın merkezinde.
+- Dava çok sanıklı; 400’ü aşkın sanık, 100’ü aşkın tutuklu var.
+- İlk oturumlarda iddianame özeti okunmadı, yoklamalar eksik yapıldı.
+- Mahkeme başkanı sık ara verdi, bazı günler duruşmayı erken kapattı.
+- Salona girişler kısıtlandı, avukat ve bir yakına izin verildi.
+- Basın alanı yetersiz kaldı, gazeteciler not alamadıklarını söylüyor.
+- CHP’li milletvekilinin avukat sıfatıyla oturması tartışma ve erteleme getirdi.
+- TRT’de yayın talebi gündemde, şeffaflık için canlı yayın istendi.
+- İddianamenin gizli tanık, HTS ve MASAK verilerine dayandığı savunuldu.
+- Özel’in Akın Gürlek mal varlığı iddiaları, yargı tartışmasını büyüttü.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=BEQbIw5EH1o&t=751s) (⏱️ 12:31-41:36)
-- [Inan Demirel](https://www.youtube.com/watch?v=gqocpxVQ9WQ&t=174s) (⏱️ 02:54-27:20)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=jauhJqdH5Rc&t=2820s) (⏱️ 47:00-50:10)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=IGi4WgPqrJ0&t=12s) (⏱️ 00:12-02:57)
-- [Murat Yetkin](https://www.youtube.com/watch?v=Rvj6Sez_5uE&t=175s) (⏱️ 02:55-14:30)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=DlK7bqS7QJg&t=88s) (⏱️ 01:28-21:36)
+- [Rusen Cakir](https://www.youtube.com/watch?v=yhOd40R5YmU&t=28s) (⏱️ 00:28-15:06)
+- [Inan Demirel](https://www.youtube.com/watch?v=xXMCmV7ATi4&t=844s) (⏱️ 14:04-17:52)
+- [Serdar Akinan](https://www.youtube.com/watch?v=QjOnf8DiZ2Y&t=2460s) (⏱️ 41:00-48:10)
+- [Murat Yetkin](https://www.youtube.com/watch?v=LKwLvLv1NkE&t=7s) (⏱️ 00:07-09:11)
+- [Unsal Unlu](https://www.youtube.com/watch?v=3jMCi83IFeI&t=94s) (⏱️ 01:34-06:16)
+- [Onlar TV](https://www.youtube.com/watch?v=ZP28KlnrV40&t=9s) (⏱️ 00:09-20:29)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=JUnOOAZ7UkI&t=167s) (⏱️ 02:47-15:08)
 
 ---
 
-## 2. İBB Davasında Salon Krizi ve Erteleme
+## 2. İran Savaşı Hürmüz ve NATO Baskısı
 
-- Silivri’de İBB davasının 5. celsesinde gerilim yaşandı.
-- Milletvekili avukatların avukat sıralarında oturması tartışma çıkardı.
-- Jandarma ve mübaşir müdahaleleriyle duruşma başlatılamadı, ertelendi.
-- Heyet başkanı, müvekkili olmayanların sadece izleyici olacağını söyledi.
-- Sanıklar sırayla salona alındı, sonra yeniden dışarı çıkarıldı.
-- Ekrem İmamoğlu salona geldi, izleyicileri ve ailesini selamladı.
-- Basın kartı şartı ve yer darlığı gazetecilerin takibini zorlaştırdı.
-- Dilek İmamoğlu süreci eleştirdi, TRT’den canlı yayın istedi.
-- Ümit Polat sorgusunda kesinti iddiaları konuşuldu, rüşvet reddedildi.
-- Yorumcular davayı siyasi görüyor, CHP’de koordinasyon eksikliği eleştiriliyor.
+- ABD ve İsrail’in İran’a operasyonları, savaşın 17-18 gündür sürdüğünü gösteriyor.
+- Trump, Hürmüz Boğazı’nda petrol akışı için Amerikan gemileri gönderebileceğini söyledi.
+- Ancak Hürmüz’e askeri sevkiyatın yüksek risk taşıdığı, pratikte zor olduğu vurgulandı.
+- Körfez ülkeleri ve Çin’den destek çağrılarına beklenen olumlu yanıt gelmedi.
+- Gerilim petrol fiyatlarını yükseltti, ABD’de enflasyon baskısını artırdı.
+- Trump’ın NATO’yu yardıma çağırması ve değişken söylemleri müttefikleri etkiliyor.
+- Türkiye’nin doğrudan müdahaleden kaçınacağı, NATO tutumuna göre davranacağı konuşuldu.
+- Ankara, İran’dan üç füze atıldığını açıkladı, Patriotlar devreye alındı.
+- İsrail, İranlı üst düzey isimleri öldürdüğünü duyurdu, Tahran sessiz kaldı.
+- ABD iç siyaseti, seçim hesapları ve Pentagon maliyetleri kararları etkiliyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=Jb7H1KK7UfU&t=11s) (⏱️ 00:11-02:36)
-- [Murat Yetkin](https://www.youtube.com/watch?v=Rvj6Sez_5uE&t=95s) (⏱️ 01:35-02:54)
-- [Rusen Cakir](https://www.youtube.com/watch?v=BEQbIw5EH1o&t=23s) (⏱️ 00:23-12:31)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=jauhJqdH5Rc&t=120s) (⏱️ 02:00-14:00)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=JUnOOAZ7UkI&t=2262s) (⏱️ 37:42-42:39)
+- [Murat Yetkin](https://www.youtube.com/watch?v=LKwLvLv1NkE&t=84s) (⏱️ 01:24-03:04)
+- [Inan Demirel](https://www.youtube.com/watch?v=Aaz9INnPSBI&t=238s) (⏱️ 03:58-08:10)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=DlK7bqS7QJg&t=1297s) (⏱️ 21:37-28:10)
+- [Rusen Cakir](https://www.youtube.com/watch?v=yhOd40R5YmU&t=908s) (⏱️ 15:08-33:14)
+- [Serdar Akinan](https://www.youtube.com/watch?v=HQg2HVgzd0Y&t=1030s) (⏱️ 17:10-21:00)
 
 ---
 
-## 3. Duruşma Ertelemeleri ve Hızlandırma Tartışması
+## 3. Bölgesel Gerilim Tedarik Zincirini Zorluyor
 
-- Mahkeme heyetinin tartışma çıkınca duruşmayı sıkça ertelediği söylendi.
-- Bazı gözlemciler heyetin davayı kısa sürede bitirmek istediğini savundu.
-- Bu hızlandırma için dosya yönlendirme gibi usuller konuşuluyor.
-- Taleplerin hızlı gönderilmesiyle sürecin hızlanabileceği iddia edildi.
-- Bu yaklaşımın adil yargılama ilkesini zedeleyebileceği tartışılıyor.
-- Tuğba Torun’un duruşma değerlendirmesi programda izleyicilere aktarıldı.
-- Torun, duruşmaya 38 derece ateşle geldiğini belirtti.
-- Torun, duruşmanın haksız bir gerekçeyle bitirildiğini yazdı.
-- Torun iki ihtimal sundu; psikolojik üstünlük veya uzaklaşma isteği.
-- Yorumlar, mahkeme heyetinin tutumuna yönelik eleştirileri artırdı.
+- Bölgesel çatışmalar Türkiye’de ekonomi ve güvenlik risklerini artırıyor.
+- Hürmüz Boğazı’ndaki gerilim enerji ve ticareti kesintiye uğratıyor.
+- Gübre üretimi doğalgazdan türeyen girdilere güçlü biçimde bağlıdır.
+- Gübre arzı bozulursa tarım maliyetleri ve ürün fiyatları yükselir.
+- Türkiye gübre ithalatına bağımlı olduğundan ekimde fiyat sıçrayabilir.
+- Gübre pahalanması tarımı zayıflatır, gıda enflasyonunu hızlandırır.
+- Navlun maliyetleri sert arttı; LNG gemisi 50 binden 360 bine çıktı.
+- Taşıma gecikmeleri nafta gibi girdileri aksatıp sanayiyi yavaşlatır.
+- Petrokimya petrol temelli plastik hammaddedir; ambalaj ve beyaz eşyayı etkiler.
+- Amonyum nitrat ithalatı serbestliği, bomba yapımı riskini gündeme taşıyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=Jb7H1KK7UfU&t=768s) (⏱️ 12:48-14:42)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=jauhJqdH5Rc&t=840s) (⏱️ 14:00-16:00)
+- [Serdar Akinan](https://www.youtube.com/watch?v=HQg2HVgzd0Y&t=1260s) (⏱️ 21:00-29:30)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=L2UsnGTt2Mo&t=171s) (⏱️ 02:51-04:51)
+
+---
+
+## 4. Askeri Transit Sevkiyata Yeni İzin
+
+- 16 Mart 2026 tarihli 11.068 sayılı Cumhurbaşkanlığı kararı yayımlandı.
+- Düzenleme, Türkiye’den transit geçen askeri malzemeyi kapsıyor.
+- Silah, mühimmat, harp araçları, yedek parça ve teknoloji dahil.
+- Karar, 4458 sayılı Gümrük Kanunu’nun 55. maddesine dayanıyor.
+- En kritik 4. madde, izin ve uygunluk yazısını zorunlu kılıyor.
+- İzin sürecinde Ticaret Bakanlığı ve güvenlik-istihbarat kurumları yetkili.
+- Şüpheli sevkiyatlar, Türkiye tarafından durdurulup bloke edilebilecek.
+- Çift kullanımlı ürünler, askeri amaç şüphesinde engellenebilecek.
+- Uygulamadan Ticaret Bakanlığı sorumlu olacak, denetimler artabilecek.
+- Yorumcular, düzenlemenin bölgesel çatışmalarla bağlantısını sorguluyor, açıklama istiyor.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Serdar Akinan](https://www.youtube.com/watch?v=HQg2HVgzd0Y) (⏱️ 00:00-02:15)
+- [Murat Yetkin](https://www.youtube.com/watch?v=LKwLvLv1NkE&t=554s) (⏱️ 09:14-12:49)
 
 ---
 
