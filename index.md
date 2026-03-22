@@ -1,45 +1,64 @@
 # Bugün Ne Oldu?
 
-*21 March 2026 tarihli günlük haber raporu - 2 haber birleştirildi*
+*22 March 2026 tarihli günlük haber raporu - 3 haber birleştirildi*
 
-## 1. Gürlek Üzerinden Tapu ve Şeffaflık
+## 1. Ekonomi yönetimine güven ve adalet tartışması
 
-- Ankara gündeminde Akın Gürlek’in malvarlığı iddiaları tartışılıyor.
-- Özgür Özel, gayrimenkul, yat ve ödeme planı iddiaları paylaştı.
-- Tema İstanbul projesine dair noterli ödeme planı gündeme taşındı.
-- Gürlek için 12 tapu iddiası, e-Devlet kayıtlarıyla tartışıldı.
-- Pasif kayıtlar, satılan taşınmazların sistemde kalan geçmiş kaydıdır.
-- Uzmanlar, pasif taşınmaz listesinin açıklanmasının tartışmayı bitireceğini söylüyor.
-- Lüksemburg’da şirket yöneticiliği ve ücret iddiaları da gündemde.
-- Özel’in Beşiktaş’ta aldığı ev ve yıkım iddiası araştırılıyor.
-- Tartışmada şeffaflık çağrıları ile tehdit ve şantaj iddiaları öne çıkıyor.
-- Gürlek sonrası Adalet Bakanlığı’nda geniş kadro değişimi de eleştiriliyor.
+- Ekonomi yönetiminin güveni ve itibarı kamuoyunda sert eleştiriliyor.
+- Mehmet Şimşek döneminde vergi artışı ve adaletsizlik tartışılıyor.
+- Cumhurbaşkanı etkisinin ekonomi yönetiminde itibar kaybı yarattığı savunuluyor.
+- Merkez Bankası’nda görev değişimleri liyakat ve şeffaflık soruları doğuruyor.
+- Hafize Gaye Erkan ve önceki başkanların tartışmalı süreçleri hatırlatılıyor.
+- OVP’nin her yıl yenilenmesi piyasalara kalıcı güven vermiyor.
+- Faiz koridoru genişletilerek örtülü faiz artışı yapıldığı öne sürülüyor.
+- Reel sektör döviz açığı büyüdü, kısa vadeli borç risk yaratıyor.
+- Doların içeride ucuz kalması üretici ve ihracatçıyı zorluyor.
+- Yoksulluk ve belediye yardımları, finansman sorunlarıyla yeniden tartışılıyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Inan Demirel](https://www.youtube.com/watch?v=TBalFZr6o9I&t=490s) (⏱️ 08:10-20:00)
-- [Hilal Koylu](https://www.youtube.com/watch?v=_As2wHfwzss&t=322s) (⏱️ 05:22-15:32)
-- [Rusen Cakir](https://www.youtube.com/watch?v=YX733y4uN3g&t=32s) (⏱️ 00:32-10:16)
+- [Hilal Koylu](https://www.youtube.com/watch?v=-f0vDr2Q0CU&t=695s) (⏱️ 11:35-18:26)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=OzRrfu8hNmg&t=121s) (⏱️ 02:01-11:40)
 
 ---
 
-## 2. Bayram Gündemi Afiş Krizi ve Zamlar
+## 2. Hürmüz Gerilimi Piyasaları Sarsıyor
 
-- Trabzon’da Ekrem İmamoğlu’nun bayram afişleri kaldırıldı, tartışma çıktı.
-- Yorumlarda, kesin hüküm yokken masumiyet karinesi hatırlatıldı.
-- Afişlerin toplatılması siyasi dışlama ve baskı iddiasıyla eleştirildi.
-- Bayramı cezaevinde geçiren belediye başkanlarının mesajları gündeme taşındı.
-- İmamoğlu, adalet ve huzur isteyerek bayram mesajı paylaştı.
-- Şişli, Seyhan, Bolu dahil tutuklu başkanların aile özlemi vurgulandı.
-- Motorine tarihi zamla fiyatlar birçok ilde 70-73 TL oldu.
-- Zammın nedeni, savaşın arzı vurması ve Hürmüz sevkiyatı denildi.
-- Yoksulluk, emekliler ve düşük gelirliler üzerindeki baskı arttı.
-- Bahçeli ve Özel’in mesajlarıyla gelir, vergi ve işbirliği tartışıldı.
+- İran çevresindeki çatışmalar küresel piyasalarda belirsizliği ve dalgalanmayı artırdı.
+- Hürmüz Boğazı’ndaki gerilim dünya petrol taşımacılığını doğrudan etkiliyor.
+- Riskler nedeniyle navlun ücretleri ve sigorta primleri hızlı yükseldi.
+- Yetkililer Hürmüz’den geçen petrol miktarında ciddi düşüş olduğunu belirtiyor.
+- Fatih Birol, savaş öncesine göre büyük hacim kaybına dikkat çekti.
+- Azalan arz petrolün varil fiyatını 100 doların üzerine taşıdı.
+- Enerji maliyetlerindeki artış gıda, ulaşım ve tarım fiyatlarına yansıyor.
+- Körfez ülkeleri petrol gelirleri azalınca altın satışına yöneldi.
+- Altın ve gümüş fiyatlarında sert düşüşler yaşandığı bildirildi.
+- Merkez Bankası’nın hareketlenmeye karşı 1 milyar dolarlık altın sattığı söylendi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Inan Demirel](https://www.youtube.com/watch?v=TBalFZr6o9I&t=1200s) (⏱️ 20:00-23:00)
-- [Hilal Koylu](https://www.youtube.com/watch?v=_As2wHfwzss&t=1251s) (⏱️ 20:51-23:46)
+- [Hilal Koylu](https://www.youtube.com/watch?v=-f0vDr2Q0CU&t=1474s) (⏱️ 24:34-27:08)
+- [Murat Yetkin](https://www.youtube.com/watch?v=T0BJ84rZ-Vs&t=660s) (⏱️ 11:00-13:05)
+
+---
+
+## 3. Ortadoğu’da Sünni Ekseni Arayışı
+
+- Ortadoğu’da tartışma, Şii ekseninden Sünni eksenine kaydı.
+- Şii ekseni, İran liderliğinde vekil güçlerle yıllarca etkili oldu.
+- Kudüs Gücü çok uluslu başladı, pratikte İran ağırlıklı yürüdü.
+- İran; Hizbullah, Esad, Hamas ve Yemen’de unsurlarla nüfuz kurdu.
+- Ekim saldırısı sonrası İsrail ve Batı, Şii eksenini hedefledi.
+- Suriye’deki gelişmeler İran etkisini zayıflatan önemli bir kırılma.
+- İran’daki ekonomik kriz, vekillere aktarılan kaynakları tartışmalı kıldı.
+- Netanyahu’nun Sünni ekseni söylemi, Müslüman Kardeşler üzerinden eleştirildi.
+- Riyad’daki bakanlar zirvesinde İran eleştirileri öne çıktı.
+- Fidan Riyad sonrası Katar ve BAE’yi ziyaret etti.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Rusen Cakir](https://www.youtube.com/watch?v=8mhsuyPS1oQ&t=16s) (⏱️ 00:16-13:49)
+- [Murat Yetkin](https://www.youtube.com/watch?v=T0BJ84rZ-Vs&t=209s) (⏱️ 03:29-04:57)
 
 ---
 
