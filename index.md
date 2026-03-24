@@ -1,158 +1,151 @@
 # Bugün Ne Oldu?
 
-*23 March 2026 tarihli günlük haber raporu - 7 haber birleştirildi*
+*24 March 2026 tarihli günlük haber raporu - 7 haber birleştirildi*
 
-## 1. Hürmüz Gerilimi Savaşı Derinleştiriyor
+## 1. Gürlek’in mal varlığı tartışması büyüyor
 
-- İran-İsrail çatışması üçüncü haftayı geçti, 24. gün konuşuluyor.
-- ABD’nin rolü tartışılıyor; Trump İsrail’e açık destek veriyor.
-- Trump, Hürmüz’ün açılması için İran’a 48 saat verdi.
-- Açılmazsa İran elektrik ve enerji altyapısını vurmakla tehdit etti.
-- İran, Körfez ülkelerinin enerji ve su tesislerini hedefleyebilir.
-- Hürmüz gerilimi taşımacılık, sigorta ve petrol akışını zorluyor.
-- Petrol fiyatları 100 doları aştı; sert dalgalanma yaşandı.
-- Altyapı saldırıları su arıtma, gıda, sağlık ve finansı vurabilir.
-- Nükleer tesislere saldırı endişesi sürüyor; serpinti riski tartışmalı.
-- Türkiye savaşa girmek istemiyor; savunma kapasitesi ve sınır olayları izleniyor.
+- CHP, Akın Gürlek’in 452 milyon TL mal varlığı olduğunu iddia etti.
+- Özgür Özel, tapu ve kimlik numaralarıyla belgeler paylaştı.
+- Gürlek iddiaları reddetti, dört taşınmazı olduğunu açıkladı.
+- CHP, ödeme planları ve ön sözleşmelerle iddialarını sürdürdü.
+- Gazeteciler, tapu bilgilerine erişimin zor olduğunu vurguladı kamuoyunda.
+- MASAK, tapu ve vergi kayıtlarıyla resmi inceleme çağrıları öne çıktı.
+- Tapu sorgulayan görevliler açığa alındı, bazıları gözaltına alındı.
+- Bu adımlar, sızıntı cezalandırılıyor algısı ve tartışma doğurdu.
+- MHP çevresinden açıklama çağrısı ve mahkemede ispat vurgusu geldi.
+- Silivri’de İBB davasında dokuzuncu gün, gerginlikler yaşandı salonda.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=90SkL1rcmAI&t=49s) (⏱️ 00:49-12:12)
-- [Serdar Akinan](https://www.youtube.com/watch?v=o0Aq1NJvb8w&t=20s) (⏱️ 00:20-02:00)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=LtnmaY3b9c0&t=12s) (⏱️ 00:12-01:04)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=5EqI2EaUgiE&t=774s) (⏱️ 12:54-21:44)
-- [Rusen Cakir](https://www.youtube.com/watch?v=8GwoNopxIdY&t=18s) (⏱️ 00:18-09:23)
-- [Hilal Koylu](https://www.youtube.com/watch?v=lF0GuzYU7Po&t=1088s) (⏱️ 18:08-22:26)
-- [Inan Demirel](https://www.youtube.com/watch?v=LO9iXk-WRec&t=1155s) (⏱️ 19:15-26:33)
-- [Murat Yetkin](https://www.youtube.com/watch?v=M3bq4ctitWY&t=40s) (⏱️ 00:40-10:54)
+- [Inan Demirel](https://www.youtube.com/watch?v=197oXZNdKfc&t=65s) (⏱️ 01:05-09:00)
+- [Onlar TV](https://www.youtube.com/watch?v=C59kOyrDU2g&t=209s) (⏱️ 03:29-74:33)
+- [Murat Yetkin](https://www.youtube.com/watch?v=kkguBgiAE-Q&t=294s) (⏱️ 04:54-17:59)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=NgDfGmVd5F0&t=1236s) (⏱️ 20:36-24:27)
+- [Rusen Cakir](https://www.youtube.com/watch?v=bzzqCGXZn78&t=3s) (⏱️ 00:03-13:23)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=APElrkXZfdg) (⏱️ 00:00-00:06)
 
 ---
 
-## 2. İsmail Arı Tutuklandı, Basın Baskısı
+## 2. Trump İran geriliminde belirsiz diplomasi
 
-- BirGün muhabiri İsmail Arı, Tokat Turhal’da gözaltına alındı.
-- Bayram ziyareti sırasında alınan Arı, hızla Ankara’ya götürüldü.
-- Ankara Cumhuriyet Başsavcılığı soruşturması kapsamında tutuklama kararı verildi.
-- Suçlamalar, halkı yanıltıcı bilgi yayma ve hakaret iddiaları.
-- Avukatına göre dosyaya eski videolar ve yeni paylaşımlar eklendi.
-- Mahkeme, tweetler ve Dezenformasyonla Mücadele Merkezi açıklamasını gerekçe gösterdi.
-- Arı, gazetecilik yaptığı için hedef alındığını ve baskı gördüğünü söyledi.
-- Yorumcular, benzer yöntemlerin Alican Uludağ gibi davalarda görüldüğünü belirtti.
-- Dezenformasyon yasasının muğlaklığı nedeniyle basın üzerinde caydırıcılık eleştirildi.
-- Diğer gazeteciler için de soruşturmalar, tutuklamalar ve linç kampanyaları tartışıldı.
+- Trump, Hürmüz Boğazı için İran’a önce 48 saat verdi.
+- Sonra süreyi beş güne uzattı, müzakere var dedi.
+- İran, ABD ile doğrudan müzakere yok açıklaması yaptı.
+- İranlı yetkililer Trump’ın çıkışlarını blöf ve iç siyaset gördü.
+- Bölge ülkeleri arabuluculuk arıyor, temaslar dolaylı olabilir deniyor.
+- İran’da kimin muhatap olacağı belirsiz, karar çok merkezli.
+- Devrim Muhafızları’nın hükümetten bağımsız davranma ihtimali yüksek görülüyor.
+- İran, saldırı olursa enerji tesislerini vurma tehdidi savurdu.
+- Trump mesajları piyasaları oynattı, otomatik işlem robotları dalgalandırdı.
+- Uzayan kriz petrolü etkiliyor, büyük savaş ihtimali düşük sayılıyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=KYI0PFPHEFk&t=2032s) (⏱️ 33:52-37:41)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=MBlmNygkLHM&t=170s) (⏱️ 02:50-21:51)
-- [Serdar Akinan](https://www.youtube.com/watch?v=o0Aq1NJvb8w&t=2474s) (⏱️ 41:14-42:01)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=5EqI2EaUgiE&t=56s) (⏱️ 00:56-06:06)
-- [Unsal Unlu](https://www.youtube.com/watch?v=8CSSswG7v3M&t=107s) (⏱️ 01:47-04:20)
-- [Inan Demirel](https://www.youtube.com/watch?v=LO9iXk-WRec&t=20s) (⏱️ 00:20-13:38)
+- [Rusen Cakir](https://www.youtube.com/watch?v=w1ntUJmthRo&t=104s) (⏱️ 01:44-02:27)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=fVyxPoMDJp8&t=682s) (⏱️ 11:22-11:55)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=3DvemN_3OVo&t=25s) (⏱️ 00:25-02:56)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=NgDfGmVd5F0&t=171s) (⏱️ 02:51-16:46)
+- [Inan Demirel](https://www.youtube.com/watch?v=197oXZNdKfc&t=2045s) (⏱️ 34:05-43:00)
+- [Murat Yetkin](https://www.youtube.com/watch?v=kkguBgiAE-Q&t=63s) (⏱️ 01:03-03:15)
 
 ---
 
-## 3. Gürlek’in mal varlığı tartışması büyüyor
+## 3. Kundakçı Cinayetinde Soruşturma Derinleşiyor
 
-- CHP lideri Özgür Özel ile Akın Gürlek tartışması sürüyor.
-- Özel, Gürlek’in gayrimenkul mal varlığına dair belgeler paylaştı.
-- İddialar tapu kayıtları ve ödeme planları üzerinden gündeme taşındı.
-- CHP, yaklaşık 9 milyon liralık ödemenin kaynağını soruyor.
-- Ödemelerin nakit, kredi veya aile desteğiyle yapılıp yapılmadığı araştırılıyor.
-- Belgelerde taksitlerin Nisan-Eylül 2024 arasında ödendiği iddia edildi.
-- İddialara göre işlemler sonrası önemli bir adli atama yapıldı.
-- Sabah gazetesi, verilerin hukuksuz erişimle alındığını öne sürdü.
-- TAKBİS, resmi tapu sorgu sistemi; iddialar buraya dayanıyor.
-- Gürlek kısa bir reddiye yaptı; ayrıntılı açıklama talebi büyüyor.
+- Genç futbolcu Kubilay Kaan Kundakçı Ümraniye’de vurularak öldürüldü.
+- Kars 36 Spor oyuncusu Kundakçı, hastaneye giderken yolda yaşamını yitirdi.
+- Olayda Aleyna Kalaycıoğlu’nun da bulunduğu, iddialara yansıdı.
+- İddiaya göre rapçi Vahap Can Bay, görüşme ayarlamak istedi.
+- Can Bay, eski sevgilisiyle barışmak için Aleyna’ya ulaşmaya çalıştı.
+- Alaattin Kadayıfçıoğlu’nun çakarlı araçla gelip ateş ettiği öne sürüldü.
+- Hedefin Can Bay olduğu, yanlışlıkla Kundakçı’nın vurulduğu belirtildi.
+- Soruşturmada azmettirme ve suçluyu kayırma şüpheleri araştırılıyor.
+- Aleyna ve annesi iddiaları reddetti, para iddiası tartışılıyor.
+- Toplam sekiz şüpheliden yedisi tutuklandı, HTS kayıtları inceleniyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=5EqI2EaUgiE&t=1484s) (⏱️ 24:44-25:22)
-- [Unsal Unlu](https://www.youtube.com/watch?v=8CSSswG7v3M&t=572s) (⏱️ 09:32-21:50)
-- [Rusen Cakir](https://www.youtube.com/watch?v=KYI0PFPHEFk&t=928s) (⏱️ 15:28-33:51)
-- [Murat Yetkin](https://www.youtube.com/watch?v=M3bq4ctitWY&t=657s) (⏱️ 10:57-17:46)
-- [Inan Demirel](https://www.youtube.com/watch?v=LO9iXk-WRec&t=818s) (⏱️ 13:38-19:15)
+- [Inan Demirel](https://www.youtube.com/watch?v=197oXZNdKfc&t=2580s) (⏱️ 43:00-45:00)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=NgDfGmVd5F0&t=1683s) (⏱️ 28:03-29:24)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=APElrkXZfdg&t=12s) (⏱️ 00:12-16:58)
+- [Onlar TV](https://www.youtube.com/watch?v=C59kOyrDU2g&t=7226s) (⏱️ 120:26-135:44)
 
 ---
 
-## 4. Kubilay Kundakçı cinayetinde soruşturma genişliyor
+## 4. Bahçeli Süreçte Acele Edilmesin Dedi
 
-- İstanbul Ümraniye’de 21 yaşındaki futbolcu Kubilay Kundakçı öldürüldü.
-- Kundakçı, arabada beklerken silahlı saldırıyla vuruldu.
-- Saldırının planlı ve organize şekilde gerçekleştirildiği iddia edildi.
-- Şüpheli olarak Alaattin Kadayıfçıoğlu ismi soruşturmada öne çıktı.
-- Çakarlı araç ve ruhsatlı silah kullanıldığı iddiası gündeme geldi.
-- Rapçi Can Camba ve şarkıcı Aleyna Kalaycıoğlu adı geçti.
-- İlk aşamada Aleyna dahil birçok kişi gözaltına alındı.
-- Gözaltı sayısı 10’u aşıp 11’e yükseldi.
-- Türkücü İzzet Yıldızhan da gözaltına alınanlar arasında.
-- Aile tehdit mesajları ve kamera kayıtlarıyla adalet istedi.
+- MHP lideri Devlet Bahçeli grup toplantısında sürece değindi.
+- Terörsüz Türkiye hedefinde acele edilmemesi gerektiğini söyledi.
+- Adımların aşama aşama, sabırla ve planlı atılmasını istedi.
+- Hukuki düzenlemelerin de kademeli biçimde hayata geçirileceğini vurguladı.
+- Yaklaşımın önce yasalar, sonra silahlar diye okunabileceği belirtildi.
+- Bahçeli sert ve kutuplaştırıcı açıklamalardan kaçınılması çağrısı yaptı.
+- Süreçte taraflar arasında güven sorununa dikkat çekti.
+- Sunucu, mesajların farklı devlet aktörlerinin telkinleriyle ilişkili olabileceğini aktardı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=5EqI2EaUgiE&t=1370s) (⏱️ 22:50-24:42)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=90SkL1rcmAI&t=929s) (⏱️ 15:29-40:59)
-- [Inan Demirel](https://www.youtube.com/watch?v=LO9iXk-WRec&t=2915s) (⏱️ 48:35-54:00)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=NgDfGmVd5F0&t=31s) (⏱️ 00:31-02:51)
+- [Murat Yetkin](https://www.youtube.com/watch?v=kkguBgiAE-Q&t=196s) (⏱️ 03:16-04:52)
 
 ---
 
-## 5. Nevruz Tartışmaları ve Barış Süreci
+## 5. Hürmüz Krizi Küresel Enerjiyi Zorluyor
 
-- İstanbul’da büyük Nevruz kutlaması geniş katılımla gerçekleştirildi.
-- Diyarbakır ve Van’daki kutlamalarda arama ve güvenlik tartışmaları yaşandı.
-- Bazı etkinliklerde PKK görselleri kullanılması tepki ve tartışma yarattı.
-- Bu görüntüler provokasyon ve kışkırtma olarak yorumlandı, rencide edici bulundu.
-- Tülay Hatimoğulları kalabalığa Ekrem İmamoğlu hakkında soru yöneltti.
-- Özgür Özel barış süreci ve tutuklamaları eleştiren mesaj gönderdi.
-- Nevruz kutlamaları, yeni barış süreci tartışmalarını yeniden gündeme taşıdı.
-- Çözüm sürecinde silah bırakma ve adımlar konusunda tıkanma vurgulandı.
-- Taraflar mevzuat ve uygulama ayrıntılarında uzlaşamadı değerlendirmesi yapıldı.
-- Süleyman Soylu’nun savaş ve şehadet söylemleri ayrı tartışma yarattı.
+- Uluslararası Enerji Ajansı 1970’lere benzer enerji krizi uyardı.
+- Hürmüz Boğazı’nda geçiş kısıtları 21 günde büyük maliyet oluşturdu.
+- Kısıtlar gemi sevkiyatını düşürdü, petrol ve gaz akışı azaldı.
+- Hürmüz’ün kapanması petrol fiyatlarını 100 doların üstüne taşıdı.
+- Enerji arzındaki daralma küresel enflasyonu yeniden hızlandırabilir.
+- Petrol kıtlığı borç sarmalı ve gıda arz sorunları yaratabilir.
+- 1970’lerdeki gibi benzin kuyrukları ve ekonomik sıkıntılar konuşuluyor.
+- Türkiye’de piyasalarda altına yöneliş gibi panikler görüldü.
+- Piyasaların çökmesini önlemede açıklamaların zamanlaması kritik görüldü.
+- Sevkiyat, deniz yoluyla taşınan petrol ve gaz miktarıdır.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=5EqI2EaUgiE&t=592s) (⏱️ 09:52-12:54)
-- [Inan Demirel](https://www.youtube.com/watch?v=LO9iXk-WRec&t=2525s) (⏱️ 42:05-48:35)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=3DvemN_3OVo&t=623s) (⏱️ 10:23-11:08)
+- [Rusen Cakir](https://www.youtube.com/watch?v=w1ntUJmthRo&t=240s) (⏱️ 04:00-05:20)
 
 ---
 
-## 6. İran Savaşı ve Müdahale Tartışması
+## 6. Akaryakıt Fiyatları Gıdayı Etkiliyor
 
-- Selim Kuneralp, bazı Atatürkçülerin İran mollalarına sempatisini sorguladı.
-- Tartışma, Türkiye’nin İran savaşına yaklaşımını yeniden gündeme taşıdı.
-- Dış müdahale ve rejim değişikliği girişimlerinin sonuçları ele alındı.
-- 1953 İran darbesi, ABD-İngiltere müdahalesine örnek olarak hatırlatıldı.
-- Atatürkçülük, anti-emperyalizm ve müdahale karşıtlığı üzerinden değerlendirme yapıldı.
-- İran, çatışmalarda ağır kayıplar vererek önemli liderlerini yitirdi.
-- Liderlik boşluğu, rejimin sürdürülebilirliği konusunda soru işaretleri oluşturdu.
-- Buna rağmen üç haftada kitlesel isyan ya da büyük protesto görülmedi.
-- Birçok İranlı, devletin yıkılmasını ve kaosu istemiyor.
-- Halk, dış müdahaleyle dayatılan değişimi meşru görmüyor.
+- Türkiye’de motorin fiyatlarına gece yarısı zam bekleniyor.
+- Zamla bazı şehirlerde litre fiyatı 80 TL’ye yaklaşacak.
+- Akaryakıt artışı nakliye maliyetlerini yükselterek gıdayı etkileyebilir.
+- Un ve ekmek fiyatlarında artış riski yeniden gündeme geldi.
+- Fırıncılar maliyetler yükselirse ekmeğe zam gelebileceğini belirtiyor.
+- Diğer yandan akaryakıtta indirim beklentisi de kamuoyuna yansıdı.
+- 24 Mart 2026 gece yarısı motorin ve benzine indirim konuşuluyor.
+- İndirimlerin kademeli olması ve pompaya yansıması bekleniyor.
+- Fiyat değişimlerinde uluslararası gerilimler ve petrol piyasası etkili oluyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Inan Demirel](https://www.youtube.com/watch?v=LO9iXk-WRec&t=1593s) (⏱️ 26:33-33:17)
-- [Hilal Koylu](https://www.youtube.com/watch?v=lF0GuzYU7Po&t=499s) (⏱️ 08:19-09:30)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=3DvemN_3OVo&t=1177s) (⏱️ 19:37-21:39)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=NgDfGmVd5F0&t=867s) (⏱️ 14:27-14:43)
 
 ---
 
-## 7. Savaş ve oynaklık piyasaları sarstı
+## 7. İsmail Arı Tutuklandı Basın Özgürlüğü
 
-- Altın ve gümüş fiyatlarında sert düşüşler yaşanıyor, piyasa tedirgin.
-- Gram altın 5956 lira seviyesinde işlem görüyor.
-- Değerli metallerde yaklaşık yüzde 10 civarında kayıp görülüyor.
-- Sunucu ve konuklar düşüşün nedenini net açıklayamadı.
-- Piyasalarda oynaklık arttı, olası müdahalelerden söz ediliyor.
-- Körfez'deki savaş krizi havayolu sektörünü olumsuz etkiliyor.
-- En büyük 20 havayolunun değeri 53 milyar dolar düştü.
-- Piyasalar açılınca döviz, borsa, metaller yakından izlenecek.
-- Türk Hava Yolları bazı hatlarda sefer sayısını artırıyor.
-- Uzman görüşü almak, yatırım kararlarında daha güvenli görülüyor.
+- Gazeteci İsmail Arı, Tokat’ta aile ziyareti sırasında gözaltına alındı.
+- Süreç tutuklamaya dönüştü ve basın özgürlüğü tartışması büyüdü.
+- Arı, Gazi Üniversitesi gazetecilik mezunu, 2019’da mesleğe başladı.
+- Kısa sürede ödüllü araştırma haberleriyle geniş kamuoyu tanındı.
+- Çocuk istismarı, yolsuzluk ve kamu çıkarı konularını gündeme taşıdı.
+- Tutuklama gerekçesinde halkı yanıltıcı bilgi yayma suçlaması öne çıktı.
+- Yorumcular bu suçlamanın gazetecileri susturma aracına dönüştüğünü söyledi.
+- Dezenformasyon iddialarında tekzip ve hukuki itiraz yolları hatırlatıldı.
+- Merdan Yanardağ ve Alican Uludağ örnekleriyle benzer baskılar anıldı.
+- Meslektaş dayanışması çağrısı yapıldı, Arı’nın serbest bırakılması istendi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=5EqI2EaUgiE&t=1305s) (⏱️ 21:45-22:48)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=90SkL1rcmAI&t=850s) (⏱️ 14:10-15:16)
+- [Onlar TV](https://www.youtube.com/watch?v=C59kOyrDU2g&t=5645s) (⏱️ 94:05-113:46)
+- [Rusen Cakir](https://www.youtube.com/watch?v=bzzqCGXZn78&t=803s) (⏱️ 13:23-16:33)
 
 ---
 
