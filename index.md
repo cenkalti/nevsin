@@ -1,45 +1,44 @@
 # Bugün Ne Oldu?
 
-*28 March 2026 tarihli günlük haber raporu - 2 haber birleştirildi*
+*29 March 2026 tarihli günlük haber raporu - 2 haber birleştirildi*
 
-## 1. İran Krizi Küresel Belirsizliği Artırıyor
+## 1. Siyasette kriz ve gözaltı tartışmaları
 
-- Trump ikinci kez başkan oldu, kararları öngörülemez ve çelişkili.
-- Amerikan kurumları ikinci dönemde Trump’ı sınırlamakta daha zorlanıyor.
-- İran krizi büyürken nükleer silah söylemi uluslararası gündemde artıyor.
-- Trump, İran’a olası operasyonu 10 gün ertelediğini açıkladı.
-- Erteleme sürecinde müzakere ihtimali ve İran’ın taviz seçenekleri konuşuluyor.
-- ABD bölgeye asker sevk ediyor, kara operasyonu senaryoları tartışılıyor.
-- Nükleer tesislerin vurulması büyük riskler ve belirsizlikler yaratabilir.
-- İran gerilimi enerji piyasasını sıkıştırıp petrol ve gazı artırabilir.
-- Türkiye’de doğalgaz, altın ve gıda fiyatları bütçeleri zorlayabilir.
-- Erdoğan, BlackRock Başkanı Fink’i kabul etti, olası sermaye gündemde.
+- MHP’de İzzet Ulvi Yönter’le başlayan iç kriz büyüdü.
+- Yönter’in “Küt” mesajları ve ajan suçlamaları tartışma yarattı.
+- Semih Yalçın mesajı retweet etti, ardından hızla sildi.
+- İddialar Eyüp Yıldız’a yöneldi, Bahçeli’ye yakınlığı vurgulandı.
+- Yönter, gördüğüm lüzum üzerine diyerek görevinden istifa etti.
+- Krizde Sinan Ateş cinayeti bağlantıları ve isimler anıldı.
+- Partide kanatlaşma, tasfiye ve güç mücadelesi iddiaları konuşuldu.
+- CHP’li Uşak Başkanı Özkan Yalım rüşvet soruşturmasıyla gözaltına alındı.
+- Otel baskınındaki polis görüntüleri medyaya servis edilince mahremiyet tartışıldı.
+- Özgür Özel ve CHP, etik sorumluluk vurguladı, siyasi amaç şüphesi dillendi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=bUlXwgErvyo&t=15s) (⏱️ 00:15-10:06)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=rEmRXrEf6WQ&t=1177s) (⏱️ 19:37-29:20)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=ptIQEyFQ1ug&t=2520s) (⏱️ 42:00-50:13)
+- [Hilal Koylu](https://www.youtube.com/watch?v=emvCzCOHoJc&t=13s) (⏱️ 00:13-16:09)
+- [Rusen Cakir](https://www.youtube.com/watch?v=i8WXlheznBw&t=24s) (⏱️ 00:24-15:19)
 
 ---
 
-## 2. Tapu Tartışması ve Uşak Operasyonu
+## 2. İran ABD Geriliminde Bir Aylık Tablo
 
-- CHP ile Akın Gürlek arasında tapu tartışması sertleşti.
-- Özgür Özel yeni belgeler ve ek deliller bulunduğunu söyledi.
-- Gürlek, Cumhurbaşkanı konuyu umursamıyor diyerek tepkiyi büyüttü.
-- HTS kayıtları ve dokunulmazlık iddiaları polemiğin eksenine yerleşti.
-- Tartışmalar Uşak Belediyesi’ne yönelik sabah operasyonuyla yeni boyut kazandı.
-- Başkan ve birçok personel rüşvet ve irtikap iddialarıyla gözaltına alındı.
-- Basında otelde havluyla çekilmiş fotoğraflar yayımlanıp tepki topladı.
-- Görüntüler için KVKK ve GDPR kapsamında özel hayat ihlali tartışıldı.
-- Soruşturmayı İstanbul Başsavcılığı yürütüyor, yetki ve usul eleştirileri var.
-- Delillerin kapsamı netleşmezken siyasi ve hukuki tartışma sürüyor.
+- İran ile ABD/İsrail çatışması bir ayı geride bıraktı.
+- Taraflar başarı iddia ediyor, sahada net kazanan görünmüyor.
+- ABD, rejimi devirmek gibi büyük hedeflere ulaşamadı.
+- İran’ın altyapısı, sanayisi ve askeri tesisleri ağır hasar aldı.
+- Çatışma enerji fiyatlarını artırdı, küresel piyasaları olumsuz etkiledi.
+- İran’ın desteklediği silahlı gruplar vekil güç olarak anılıyor.
+- Husilerin füze saldırıları, Kızıldeniz’de riskleri yükseltiyor.
+- Bab el-Mendep kapanırsa ticaret ve enerji akışı ağır zarar görür.
+- Diplomaside Türkiye, Pakistan, Mısır ve Suudi Arabistan öne çıkıyor.
+- Müçteba Hamaney hakkında çelişkili iddialar sürüyor, Körfez kapalı kalıyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Nevsin Mengu](https://www.youtube.com/watch?v=ptIQEyFQ1ug&t=30s) (⏱️ 00:30-02:30)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=rEmRXrEf6WQ&t=65s) (⏱️ 01:05-19:29)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=rjpggY5-4HM&t=832s) (⏱️ 13:52-15:43)
+- [Hilal Koylu](https://www.youtube.com/watch?v=emvCzCOHoJc&t=1264s) (⏱️ 21:04-44:05)
 
 ---
 
