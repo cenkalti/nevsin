@@ -1,147 +1,147 @@
 # Bugün Ne Oldu?
 
-*31 March 2026 tarihli günlük haber raporu - 7 haber birleştirildi*
+*1 April 2026 tarihli günlük haber raporu - 7 haber birleştirildi*
 
-## 1. CHP’li Belediyelere Yönelik Operasyonlar
+## 1. Tutukluluk ve tahliyeler tartışılıyor
 
-- Bursa Büyükşehir Belediye Başkanı Mustafa Bozbey gözaltına alındı.
-- Operasyonlar Bursa, İstanbul ve Diyarbakır’da eş zamanlı gerçekleştirildi.
-- Bozbey’le birlikte eşi, kızı ve iki kardeşi gözaltında.
-- Bursa Başsavcılığı 55 gözaltı, 4 aranan kişi açıkladı.
-- CHP, birçok belediyeye yönelik soruşturma ve tutuklamaları vurguladı.
-- Özgür Özel basın toplantısında gözaltılara sert sözlerle tepki gösterdi.
-- Özel, Bozbey’in suçunun AK Parti’ye katılmamak olduğunu savundu.
-- Özel, 31 Mart seçim sonrası zamanlamayı siyasi mesaj saydı.
-- Uşak Belediye Başkanı Özkan Yalım rüşvet ve ihale suçlamasıyla tutuklandı.
-- Yalım görüntü sızıntısı tartışıldı; CHP üyeliği askıya aldı.
+- Silivri’de İBB davasında duruşmalar, hukuki süreç tartışmalarıyla sürdü.
+- Savcı ara mütalaada bazı sanıklar için tahliye talep etti.
+- Tahliye istenenler arasında Kadriye Kasaboğlu ve Davut Bildik bulunuyor.
+- Kasaboğlu’nun 310 gündür tutuklu olması eleştirilere yol açtı.
+- Duruşmada “Sayın Başkan” notu krizi gündeme geldi, tartışma büyüdü.
+- Notun zabıtla kayda geçtiği, sosyal medyada yayıldığı belirtildi.
+- Avukatlar iddianamedeki çelişkiler ve HTS karışıklıklarını vurguladı.
+- Uzun tutukluluk ve infaz süreleri dolmuş iddiaları dile getirildi.
+- Basın alınmadı; turkuaz kart uygulaması gazetecilik hakkını tartıştırdı.
+- Ayrıca gazeteci tutuklamaları ve belediye soruşturmalarında tahliyeler eleştirildi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Murat Yetkin](https://www.youtube.com/watch?v=KcMv6waoZp4&t=3s) (⏱️ 00:03-01:30)
-- [Hilal Koylu](https://www.youtube.com/watch?v=kElLl7-DQtA&t=272s) (⏱️ 04:32-06:32)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=p-zfGvqGYlc&t=1440s) (⏱️ 24:00-28:00)
+- [Unsal Unlu](https://www.youtube.com/watch?v=SlK7gPrgYvY&t=735s) (⏱️ 12:15-14:52)
+- [Inan Demirel](https://www.youtube.com/watch?v=eNify6j6jdE&t=1403s) (⏱️ 23:23-41:34)
+- [Cigdem Toker](https://www.youtube.com/watch?v=VdadMt3Gex4&t=933s) (⏱️ 15:33-19:19)
 
 ---
 
-## 2. Türkiye Hava Sahasında Balistik Alarm
+## 2. İran-ABD gerilimi ve ekonomi etkisi
 
-- İran-İsrail gerilimi Türkiye’yi hava sahası ihlalleriyle etkiliyor.
-- MSB, İran kaynaklı değerlendirilen balistik mühimmatın düşürüldüğünü açıkladı.
-- NATO hava ve füze savunma unsurları Doğu Akdeniz’den müdahale etti.
-- Türk hava sahasında benzer mühimmat dört kez imha edildi.
-- Olayların tarihleri 4, 9, 13 ve 30 Mart.
-- İran sorumluluğu reddediyor, ortak inceleme yapılmasını teklif ediyor.
-- Bazı çevreler provokasyon ve false flag iddialarını gündeme getiriyor.
-- Türkiye, soğukkanlı kalıp savaşa çekilmemeye kararlı olduğunu vurguluyor.
-- Ankara, bölgesel diplomasiyle gerilimi düşürmeye çalışıyor.
-- Pakistan görüşmeleri sonuçsuz kaldı, İran nükleer şartlarda ısrarcı.
+- ABD ve İsrail’in İran’a saldırıları bölgesel gerilimi tırmandırdı.
+- Trump hedeflere ulaşıldığını söyleyip zafer anlatısı kurmaya çalıştı.
+- Trump’ın hızlı değişen açıklamaları piyasalarda belirsizliği artırdı.
+- Petrol ve altın yükseldi, borsalarda değer kaybı görüldü.
+- Trump çevresine yönelik manipülasyon ve içeriden işlem iddiaları gündeme geldi.
+- İran’da hedefli suikastlar ve üst düzey saldırılar tartışılıyor.
+- Devrim Muhafızları bazı ABD şirket hedeflerini vurduğunu açıkladı.
+- Hürmüz Boğazı kaygısı küresel enerji tedarikini tehdit ediyor.
+- Türkiye savaşa girmeyeceğini vurgulayıp yoğun diplomasi yürütüyor.
+- Gerilim ticareti daraltırken iç siyasette yargı kullanımı tartışılıyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=4Qs0nC_F6xY&t=4s) (⏱️ 00:04-10:11)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=HfZGl9U78zU&t=1204s) (⏱️ 20:04-20:56)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=p-zfGvqGYlc&t=3540s) (⏱️ 59:00-64:17)
+- [Unsal Unlu](https://www.youtube.com/watch?v=SlK7gPrgYvY&t=558s) (⏱️ 09:18-12:12)
+- [Inan Demirel](https://www.youtube.com/watch?v=eNify6j6jdE&t=3286s) (⏱️ 54:46-61:25)
+- [Murat Yetkin](https://www.youtube.com/watch?v=xJIAfWwmReA&t=171s) (⏱️ 02:51-08:10)
 
 ---
 
-## 3. Siyasette adaylık ve kriz gündemi
+## 3. Bursa operasyonu sonrası ara seçim
 
-- CHP’ye kapatma davası iddiaları siyasi gerilimi artırıyor.
-- Özgür Özel’in dokunulmazlığının kaldırılması olasılığı da gündemde.
-- Sürecin zamanlaması ve nasıl ilerleyeceği belirsizliğini koruyor.
-- CHP’de cumhurbaşkanı adayı tartışmaları parti içinde sürüyor.
-- Ekrem İmamoğlu’nun adaylığı ve hakkındaki soruşturmalar tartışma yaratıyor.
-- Anketlerde önde görülen Mansur Yavaş için farklı senaryolar konuşuluyor.
-- Bazı yorumlarda Mansur Yavaş’ın aday olma ihtimali düşük görülüyor.
-- Medya kampanyalarıyla CHP içi adayların hedef alındığı iddia ediliyor.
-- MHP’de “ajan” suçlamalarıyla parti içi güç mücadelesi büyüyor.
-- İstifalar ve sosyal medya gerilimi kurultay dengelerini etkiliyor.
+- Özgür Özel, Bursa operasyonunu iktidarın baskısı diye eleştirdi.
+- Bursa Büyükşehir Başkanı Mustafa Bozbey ve ailesi gözaltına alındı.
+- Operasyon, 31 Mart yerel seçim yıldönümüne yakın gerçekleşti.
+- CHP içinde gerilim arttı, strateji ve söylem tartışmaları büyüdü.
+- Özel, iktidarı erken seçime zorlamak için ara seçim dedi.
+- Ara seçim için 30 milletvekilinin istifası ve onay gerekiyor.
+- Özel, Meclis Başkanından istifalar için güvence arayacaklarını söyledi.
+- Belediye meclislerinde istifayla yerel seçimlerin erkene çekilmesi konuşuluyor.
+- AKP-MHP çoğunluğu nedeniyle planın uygulanabilirliği tartışmalı görülüyor.
+- Dokunulmazlık kaldırma tehdidi ve kayyum baskısı iddiaları gündemde.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Murat Yetkin](https://www.youtube.com/watch?v=KcMv6waoZp4&t=688s) (⏱️ 11:28-12:04)
-- [Hilal Koylu](https://www.youtube.com/watch?v=kElLl7-DQtA&t=1422s) (⏱️ 23:42-30:38)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=p-zfGvqGYlc&t=2340s) (⏱️ 39:00-42:42)
+- [Unsal Unlu](https://www.youtube.com/watch?v=SlK7gPrgYvY&t=274s) (⏱️ 04:34-08:28)
+- [Inan Demirel](https://www.youtube.com/watch?v=eNify6j6jdE&t=346s) (⏱️ 05:46-23:10)
+- [Rusen Cakir](https://www.youtube.com/watch?v=tCuvecg5i_8&t=3s) (⏱️ 00:03-13:50)
 
 ---
 
-## 4. Soruşturmalarda çelişkiler ve WhatsApp iddiaları
+## 4. Karadeniz’de Deniz Gücü Tartışması
 
-- Silahlı saldırıda Kubilay Kaan Kundakçı olay yerinde hayatını kaybetti.
-- Tanık Aleyna Kalaycıoğlu ilk ifadesinde şokta olduğunu söyledi.
-- Metin Kadayifçioğlu, araçta başka kişilerin olduğunu iddia etti.
-- Görüntüler Aleyna'nın başka lüks araçta ön koltukta olduğunu gösterdi.
-- Olay sonrası dört araç değiştirildi, ambulans veya polis aranmadı.
-- Bu durum delil karartma ve suçu gizleme şüphelerini güçlendirdi.
-- Olay sonrası yoğun telefon trafiği, mesaj ve görüntülü aramalar izlendi.
-- HTS ve baz kayıtlarıyla konum bulundu, Alaattin’in telefonu kapandı.
-- Rezidansta saklanan Alaattin tespit edildi, yaklaşık on kişi gözaltına alındı.
-- Kaplan örgütü dosyasında WhatsApp yazışmalarıyla emniyet-yargı-siyaset iddiaları gündemde.
+- Ukrayna savaşından sonra Karadeniz’de barış sonrası düzen tartışılıyor.
+- Paris deklarasyonu barış için güvence tedbirleri planından bahsediyor.
+- Türkiye, çok uluslu deniz gücüne katkı vermeye ilgi gösteriyor.
+- Hakan Fidan, barış ve Rusya rızası şartıyla katkı dedi.
+- Türkiye-Bulgaristan-Romanya, mayın karşı tedbirleri grubu kurdu, devriye yapıyor.
+- Planlanan komutanlığın ana görevi mayın ve şüpheli cisim temizliği.
+- Karadeniz’de saldırılar ve bir Türk petrol gemisi hasarı gündemde.
+- Saldırılarda insansız deniz araçları kullanıldığı iddiaları öne çıktı.
+- Bazıları olayları yeni güce bağladı, uzmanlar temkin çağrısı yaptı.
+- Montreux gereği kıyıdaşlık vurgulanıyor, dış katılım tartışma yaratıyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Onlar TV](https://www.youtube.com/watch?v=RlwgpyHqllc&t=320s) (⏱️ 05:20-08:17)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=QsLm5zEj_lU&t=13s) (⏱️ 00:13-05:13)
+- [Rusen Cakir](https://www.youtube.com/watch?v=QddIa0e8qFE&t=25s) (⏱️ 00:25-02:12)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=cSPLKw-Miio&t=41s) (⏱️ 00:41-09:45)
 
 ---
 
-## 5. Görele’de Taciz İddiası ve Ölüm
+## 5. Bursa Belediye Başkanı Bozbey’e Operasyon
 
-- Görele’de 16 yaşındaki Tuana taciz iddiasıyla gündeme geldi.
-- İddiaya göre eski başkan Hasbi Dede sosyal medyadan mesaj attı.
-- Aile 8 Şubat 2026’da şikayetçi oldu, soruşturma başlatıldı.
-- Dede adli kontrolle çıktı, savcılık itirazıyla tekrar tutuklandı.
-- 12 Şubat’ta görevden uzaklaştırıldı, CHP disiplin süreci başlattı.
-- 24 Şubat’ta iddianame hazırlandı, ilk duruşma 12 Mart’ta yapıldı.
-- Dede duruşmada suçlamaları reddetti, süreç yargıda sürüyor.
-- Tuana sahilde yol geçerken araç çarptı, ağır yaralandı.
-- Sürücünün, Dede’nin eniştesinin çalışanı olduğu belirtildi kamuoyuna.
-- Tuana yoğun bakımda hayatını kaybetti, örtbas şüphesi tartışıldı.
+- Bursa Büyükşehir Belediye Başkanı Mustafa Bozbey sabah evinde gözaltına alındı.
+- Belediye binasında polis araması yapıldığı ve incelemeler sürdüğü bildirildi.
+- Operasyonun başkanın yakın çevresi ve çalışma arkadaşlarını kapsadığı aktarıldı.
+- Aile fertleri hakkında da işlem yapıldığına dair iddialar paylaşıldı.
+- Gözaltı sayısı kaynaklara göre 55 ile 59 arasında değişti.
+- Soruşturma Nilüfer Belediye Başkanlığı dönemindeki ihalelerle ilişkilendirildi.
+- Dosyada 1999-2019 aralığına dair rüşvet iddiaları konuşuldu.
+- Gözaltı sırasında Bozbey’in telefonuna el konulduğu belirtildi.
+- Operasyon zamanlamasının 31 Mart yıldönümüne denk geldiği vurgulandı.
+- Belediye meclisinde AKP çoğunluğu ve siyasi amaç iddiası tartışıldı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Onlar TV](https://www.youtube.com/watch?v=RlwgpyHqllc&t=498s) (⏱️ 08:18-94:07)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=p-zfGvqGYlc&t=1680s) (⏱️ 28:00-32:00)
+- [Unsal Unlu](https://www.youtube.com/watch?v=SlK7gPrgYvY&t=100s) (⏱️ 01:40-02:32)
+- [Cigdem Toker](https://www.youtube.com/watch?v=VdadMt3Gex4&t=37s) (⏱️ 00:37-01:51)
 
 ---
 
-## 6. Savaşın Petrol ve Türkiye Ekonomisine Etkisi
+## 6. C-130 Kazası İçin Şeffaflık Çağrısı
 
-- İran’daki savaş sürüyor, bölgesel riskler artıyor.
-- Savaş petrol fiyatlarını yükseltiyor, enflasyon baskısı güçleniyor.
-- Ham petrolün 115-150 dolara çıkması olası görülüyor.
-- Petrolün her 10 dolar artışı cari açığı büyütüyor.
-- 150 dolar senaryosu cari açığa yaklaşık 20 milyar ekler.
-- Enerji maliyetleri gıda, lojistik ve genel fiyatlara yansıyor.
-- Yüksek faiz ve kur müdahaleleri ekonomiyi daha da sıkıştırıyor.
-- Türkiye ateşkes için diplomasi yürütüyor, Pakistan ve Mısır’la temas ediyor.
-- Vergi indirimi ve zorunlu ihtiyaçlarda vergi düşürme öneriliyor.
-- Fiyatı sabitlemeyen firmalara yaptırım ve lojistik-finans ağı isteniyor.
+- Doğu Perinçek, Azerbaycan’dan kalkan Türk C-130’un vurulduğunu iddia etti.
+- Perinçek, uçağı İsrail’in vurduğunu ve raporun gizlendiğini öne sürdü.
+- Kaza Kasım 2025’te yaşandı; olayın ayrıntıları resmi olarak paylaşılmadı.
+- Resmi açıklamalarda şehit sayısı 20 olarak duyuruldu.
+- Bazı değerlendirmelerde şehit sayısı 22 denildi; 34 hatalı bulundu.
+- Bağcıoğlu, somut kanıt olmadan bu iddiaları yorumlamayacağını söyledi.
+- Kara kutu inceleme sonuçlarının kamuoyuna açıklanmadığı belirtildi.
+- Sosyal medyada Rusya veya teknik arıza gibi alternatif teoriler tartışıldı.
+- Tartışmalar, spekülasyonların artmasına ve bilgi talebine yol açtı.
+- Genelkurmay ve MSB’den şeffaf, periyodik kaza raporu açıklaması istendi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=HfZGl9U78zU) (⏱️ 00:00-20:03)
-- [Murat Yetkin](https://www.youtube.com/watch?v=KcMv6waoZp4&t=565s) (⏱️ 09:25-09:56)
+- [Inan Demirel](https://www.youtube.com/watch?v=eNify6j6jdE&t=2926s) (⏱️ 48:46-54:45)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=cSPLKw-Miio&t=797s) (⏱️ 13:17-15:00)
 
 ---
 
-## 7. Gazetecilere Yönelik Baskı Tartışması
+## 7. CHP kurultayı için mutlak butlan davası
 
-- Kadıköy’de gazeteciler, tutuklu meslektaşlarına destek yürüyüşü düzenledi.
-- Yoğun yağmura rağmen katılımcılar eylem alanını terk etmedi.
-- Polis bölgede geniş güvenlik önlemleri alarak alanı çevreledi.
-- Barikatlar kuruldu, bazı gözaltı araçları alanda hazır bekletildi.
-- Katılımcılar, gazetecilerin tutuklanmasına ve baskılara karşı çıktıklarını söyledi.
-- Bu süreçte gazeteci Alican Uludağ hakkında iddianame hazırlandı.
-- İddianamede yanıltıcı bilgi yayma ve cumhurbaşkanına hakaret suçlamaları yer aldı.
-- Uludağ için 23 yıl 5 aya kadar hapis cezası istendi.
-- Uludağ’ın uzun yıllardır yargı muhabiri olarak çalıştığı hatırlatıldı.
-- Gelişmeler, basın özgürlüğüne dair kaygıların arttığını gösterdi.
+- Ankara’da CHP’ye yönelik mutlak butlan davası görülecek.
+- Dava, Ankara 26. Asliye Hukuk Mahkemesi’nde ele alınacak.
+- İddia, 2023 CHP kurultayının şaibeli yapıldığı yönünde.
+- İlk derece mahkemesi başvuruyu reddetti, istinaf süreci sürüyor.
+- Kurultayla bağlantılı ayrı bir ceza davası da yürütülüyor.
+- Ceza davası Ankara 26. Asliye Ceza Mahkemesi’nde görülüyor.
+- Dosyada İmamoğlu, Akpolat, Tugay ve Özgür Çelik var.
+- Bu kapsamda 12 sanık için 1-3 yıl hapis istendi.
+- Ceza çıkarsa istinaf dosyasını etkileyip yeniden yargılama doğurabilir.
+- Süreç CHP içinde sıkışmayı artırırken B planı tartışmaları sürüyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Onlar TV](https://www.youtube.com/watch?v=RlwgpyHqllc&t=158s) (⏱️ 02:38-03:17)
-- [Hilal Koylu](https://www.youtube.com/watch?v=kElLl7-DQtA&t=2019s) (⏱️ 33:39-35:55)
+- [Unsal Unlu](https://www.youtube.com/watch?v=SlK7gPrgYvY&t=211s) (⏱️ 03:31-03:51)
+- [Inan Demirel](https://www.youtube.com/watch?v=eNify6j6jdE&t=5s) (⏱️ 00:05-05:34)
 
 ---
 
