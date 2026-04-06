@@ -1,88 +1,109 @@
 # Bugün Ne Oldu?
 
-*5 April 2026 tarihli günlük haber raporu - 4 haber birleştirildi*
+*6 April 2026 tarihli günlük haber raporu - 5 haber birleştirildi*
 
-## 1. Savaş ve zamlar enflasyonu zorluyor
+## 1. Belediye Operasyonları Ara Seçim Tartışması
 
-- Türkiye’de enflasyon gıda ve enerji kaynaklı baskılarla tartışılıyor.
-- Taze meyve-sebzede kuraklık ve mevsimsellik etkisi kısmen azaldı.
-- Eşel-mobil olmasa enflasyonun daha yüksek kalacağı değerlendirildi.
-- EPDK kararıyla elektrik ve doğalgaza yüzde 25 zam yapıldı.
-- Kademeli tarifede ikinci kademede faturalar yüzde 132’ye çıkabilir.
-- TÜİK sepetinde enerji ağırlığı düştü, zam sınırlı yansıyabilir.
-- Şimşek ve Karahan İngiltere’de yatırımcılarla faiz mesajları verdi.
-- Ortadoğu gerilimi Hürmüz riskiyle petrol ve gazı yükseltebilir.
-- Erdoğan ve Putin gerilimi tırmandırmama çağrısı yaptı, riskler sürüyor.
-- ABD’de Trump karşıtı No Kings protestoları, savaş siyasetine baskı yapıyor.
+- İçişleri Bakanı belediyelere soruşturma izin sayılarını kamuoyuyla paylaştı.
+- Bazı yorumcular, rakamların sistematik ayrımcılık kanıtı olmadığını savundu.
+- Muhalif belediye başkanlarına sabah baskınlarıyla gözaltılar tepki çekti.
+- Bursa Büyükşehir operasyonu sonrası tutuklamalar, yönetim geleceğini belirsizleştirdi.
+- Bursa meclis dengeleri, başkan vekilliğinin hangi partide kalacağını belirleyecek.
+- Olası başkan vekilliği için birkaç isim kulislerde öne çıkıyor.
+- Uşak’ta tutuklanan başkanın yerine Hatice Terekece vekil seçildi.
+- CHP lideri Özgür Özel, ara seçim için temas turu başlattı.
+- Ara seçimin, boş kalan sekiz milletvekilliği için yapılabileceği konuşuluyor.
+- CHP ile Dem Parti arasındaki demokratikleşme ve zamanlama gerilimi sürüyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=69tfD9vXfCQ) (⏱️ 00:00-05:04)
-- [Inan Demirel](https://www.youtube.com/watch?v=k64bNMiJaWM&t=740s) (⏱️ 12:20-18:10)
-- [Hilal Koylu](https://www.youtube.com/watch?v=sQC65Zdag_A&t=1183s) (⏱️ 19:43-34:59)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=MkNnXrMHhlc&t=123s) (⏱️ 02:03-05:36)
+- [Unsal Unlu](https://www.youtube.com/watch?v=7voNMY24b0M&t=212s) (⏱️ 03:32-05:34)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=dGzUrK4xNaY&t=201s) (⏱️ 03:21-07:44)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=8U9PCOLZ_fs&t=484s) (⏱️ 08:04-15:43)
+- [Rusen Cakir](https://www.youtube.com/watch?v=zXwSaU-G0R0&t=871s) (⏱️ 14:31-28:39)
 
 ---
 
-## 2. Teknoloji ve Kültürde Türkiye Arayışı
+## 2. Savaş gölgesinde Türkiye’de zam baskısı
 
-- Rekabet Kurulu, Google reklamcılık ve faturalandırma süreçlerini soruşturuyor.
-- Teknoloji devlerinin büyüklüğü tekel ve rekabet endişesi yaratıyor.
-- Denetim ve cezalandırma uluslararası ölçekte karmaşık ve tartışmalı görülüyor.
-- Türkiye teknoloji yatırımlarında geride, bazı savunma işbirlikleriyle ilerliyor.
-- Yapay zeka için veri merkezi, enerji ve nitelikli işgücü gerekiyor.
-- Türkiye müteahhitlikte güçlü, büyük altyapı projeleri üstlenebiliyor dışarıda.
-- Kritik teknolojilerde, nükleer reaktör çekirdeği gibi, yerli kapasite sınırlı.
-- Yeşil dönüşümde üretim kadar iletim şebekesi altyapısı da önemli.
-- Netflix ve popüler kültür, sistem eleştirisini zamanla sınırlayabiliyor.
-- Türk dizilerinde uzun bölümler kaliteyi düşürüyor, öz denetim öneriliyor.
+- Küresel çatışmalar, Türkiye ekonomisinde belirsizlik ve maliyet baskısı artırıyor.
+- Savaşın kısa sürede bitmesi beklenmiyor, geçici ateşkesler konuşuluyor.
+- Petrol fiyatları yükseliyor, 150 dolara çıkma ihtimali tartışılıyor.
+- Yüksek petrol, enflasyon ve küresel resesyon riskini büyütüyor.
+- Türkiye’de benzine gece yarısı zam geldi, bazı şehirlerde 86 TL.
+- Elektrik ve doğalgaza yüzde 25 zam yapıldı, sübvansiyonlar değişti.
+- Zamların haneler, ulaşım ve sanayi maliyetleri üzerinde etkisi büyüyor.
+- Hükümet zamları jeopolitik risklerle açıklıyor, eleştiriler de yükseliyor.
+- Eleştiriler, sorunların savaş öncesi başladığını ve politikaları işaret ediyor.
+- Döviz-altın rezervleri eriyor, faiz kararı ve asgari ücret tartışılıyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=MkNnXrMHhlc&t=944s) (⏱️ 15:44-21:45)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=69tfD9vXfCQ&t=696s) (⏱️ 11:36-18:33)
-- [Serdar Akinan](https://www.youtube.com/watch?v=8EOs7jo2wyY&t=2189s) (⏱️ 36:29-37:42)
+- [Hilal Koylu](https://www.youtube.com/watch?v=V1DZ-NC7uWk&t=580s) (⏱️ 09:40-12:50)
+- [Serdar Akinan](https://www.youtube.com/watch?v=Sp85kN5t03Y&t=1165s) (⏱️ 19:25-21:40)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=8U9PCOLZ_fs&t=962s) (⏱️ 16:02-42:04)
 
 ---
 
-## 3. Sosyal Medya, Mizah ve Baskı
+## 3. Trump-İran gerilimi bölgesel savaşı büyütüyor
 
-- Türkiye’de politik mizahın toplumsal eleştiri ve protesto işlevi vurgulandı.
-- Musti Kusti gibi örneklerin sosyal medyada hızla yayıldığı belirtildi.
-- Ezop, Chaplin, Ferhan Şensoy ve Levent Kırca anıldı.
-- Otosansür ve medya denetimi mizah alanını daraltıyor denildi.
-- Akın Gürlek, sosyal medyada anonimliğin kaldırılacağını ve kimlik girişini savundu.
-- Eleştirmenler, düzenlemenin ifade ve basın özgürlüğünü kısıtlayacağını söyledi.
-- Dezenformasyon yasası sonrası bazı gazetecilerin tutuklanması hatırlatıldı.
-- Gülben Ergen hakkında bakanlık şikayetiyle soruşturma başlatıldı.
-- Ergen, şüpheli ölümlerle ilgili paylaşımları nedeniyle ifadeye çağrıldı.
-- Gazze’deki insani kriz ve küresel çalkantılar sert biçimde kınandı.
+- Trump, İran’daki enerji ve köprüleri vurmakla tehdit etti.
+- Netanyahu da İsrail askerleri için dua mesajları paylaştı.
+- Sanders ve Kongre üyeleri, Trump’ı tehlikeli bularak eleştirdi.
+- Yorumcular, söylemlerin bölgesel savaşı büyütebileceğini vurguladı.
+- Hürmüz ve Bab el-Mandeb kapanırsa ticaret maliyetleri artar.
+- Boğaz krizi enerji fiyatlarını sıçratıp stagflasyon riskini yükseltebilir.
+- 45 günlük ateşkes iddiası ve arabulucuların rolü tartışıldı.
+- İran’ın ateşkese mesafeli, görüşmelerin örtülü yürüdüğü aktarıldı.
+- İsfahan çevresinde F-15 olayı, kayıp pilot ve kurtarma anlatıldı.
+- A2/AD örneğiyle Çin hamleleri, Pax Americana’nın zayıflaması konuşuldu.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Serdar Akinan](https://www.youtube.com/watch?v=8EOs7jo2wyY&t=27s) (⏱️ 00:27-21:48)
-- [Rusen Cakir](https://www.youtube.com/watch?v=ijbP2FoDeu0&t=22s) (⏱️ 00:22-10:20)
-- [Inan Demirel](https://www.youtube.com/watch?v=k64bNMiJaWM&t=2356s) (⏱️ 39:16-46:20)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=L8s_oudx__c&t=132s) (⏱️ 02:12-40:18)
+- [Rusen Cakir](https://www.youtube.com/watch?v=zXwSaU-G0R0&t=24s) (⏱️ 00:24-14:30)
+- [Serdar Akinan](https://www.youtube.com/watch?v=Sp85kN5t03Y&t=897s) (⏱️ 14:57-19:24)
 
 ---
 
-## 4. Siyasette iç çekişme ve operasyonlar
+## 4. Demokrasi ve medya eleştirileri büyüyor
 
-- MHP’de Yönter ve Eyüp Yıldız arasında güç mücadelesi konuşuluyor.
-- Yönter’in sert tweetleri tansiyonu yükseltti, muhaliflerini ajan diye suçladı.
-- Yıldız ve çevresine şiddet uygulandığı, bazı görüntülerin silindiği iddia edildi.
-- Ankara-Konya yolunda çatışma büyüdü, polis müdahalesi olmadığı öne sürüldü.
-- Ocak başkanı darp edildi, Yönter’in makam aracı kurşunlandı denildi.
-- Ayhan Bora Kaplan dosyasında yeni bir cep telefonu inceleniyor.
-- İncelemenin MHP eski MYK üyesi Necmi Yeği’ye uzandığı iddia edildi.
-- Yazışmalarda Bahçeli’nin konuşmalarının önceden sızdırıldığı öne sürüldü.
-- MHP, bölünmeyi önlemek için Özgür Bayraktar’ı genel başkan yardımcısı atadı.
-- Bursa ve Uşak’ta belediye operasyonları sonrası CHP’de siyasi tartışmalar büyüdü.
+- Haşim Kılıç ve Hüseyin Çelik bir toplantıda konuştu.
+- 2010 referandumu sonrası yetkilerin ülkeye zarar verdiğini söylediler.
+- Türk tipi başkanlık sisteminin hukuksuzluğu artırdığını vurguladılar konuşmada.
+- Liyakat yerine sadakat ve baba-oğul düzeni eleştirildi sertçe.
+- Sunucu, eleştirileri haklı buldu, geçmiş sorumluluğu da hatırlattı.
+- Cansu Çamlıbel’in parça başı demokrasi tespiti tartışmaya açıldı.
+- Demokrasinin bazı gruplara sınırlı verildiği iddiası dile getirildi.
+- Kürt hareketi ve Öcalan’ın 27 Şubat 2025 çağrısı değerlendirildi.
+- Sunucu, demokratik taleplerde tutarlılık istedi, sessiz kalanlara seslendi.
+- Yılmaz Özdil’in Sözcü TV’den ayrılması medya tartışmalarını büyüttü.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=jO7jbxynQWE) (⏱️ 00:00-04:20)
-- [Inan Demirel](https://www.youtube.com/watch?v=k64bNMiJaWM&t=1430s) (⏱️ 23:50-27:22)
+- [Unsal Unlu](https://www.youtube.com/watch?v=7voNMY24b0M&t=337s) (⏱️ 05:37-21:59)
+- [Serdar Akinan](https://www.youtube.com/watch?v=Sp85kN5t03Y&t=1301s) (⏱️ 21:41-24:06)
+- [Rusen Cakir](https://www.youtube.com/watch?v=zXwSaU-G0R0&t=2414s) (⏱️ 40:14-47:20)
+
+---
+
+## 5. Araştırmalar siyasette öfke ve ilgisizliği gösteriyor
+
+- Habitat Derneği gençlerin siyaset duygularını araştırdı, tiksinti artıyor.
+- Gençlerde öfke yüzde 19,9; umut yüzde 13,8 ölçüldü.
+- Korku yüzde 12,6 çıkarken siyasal tiksinti 2025’te yükseldi.
+- Tiksinti oranı 2023’te yüzde 6,2 iken 11,8 oldu.
+- Veri Enstitüsü Mart ayında kamuoyu ruh halini ölçtü.
+- Endişe, umutsuzluk, öfke ve şaşkınlıkta genel gerileme gözlendi.
+- CHP seçmeninde ilgisizlik ve kayıtsızlık artıyor, kabullenmişlik yayılıyor.
+- İmamoğlu hakkında yüzde 41 mağduriyetle güçlendi, yüzde 20 zayıfladı.
+- CHP’de Özgür Özel önde, İmamoğlu cezaevinde sembol kaldı.
+- Operasyonları siyasi görenler azalırken, hukuki diyenler artıyor.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Ozlem Gurses](https://www.youtube.com/watch?v=8U9PCOLZ_fs&t=326s) (⏱️ 05:26-06:44)
+- [Rusen Cakir](https://www.youtube.com/watch?v=s8ET_LYuMKA&t=25s) (⏱️ 00:25-12:11)
 
 ---
 
