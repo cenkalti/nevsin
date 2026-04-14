@@ -1,152 +1,108 @@
 # Bugün Ne Oldu?
 
-*13 April 2026 tarihli günlük haber raporu - 7 haber birleştirildi*
+*14 April 2026 tarihli günlük haber raporu - 5 haber birleştirildi*
 
-## 1. Türkiye İsrail Gerilimi ve Diplomasi
+## 1. Belediyelere Operasyonlar ve Yavaş Soruşturması
 
-- Erdoğan-Netanyahu polemiği iki ülkede iç siyaset konsolidasyon aracı oluyor.
-- Netanyahu İran’la savaşın süreceğini sosyal medyada tekrar duyurdu.
-- İsrail Savunma Bakanı Erdoğan’ı hedef aldı, muhalefeti etiketledi.
-- Mansur Yavaş tepki verdi, iktidar medyası açıklamaları sınırlı gördü.
-- Sert retoriğe rağmen Türkiye-İsrail ticareti ve ekonomi kanalları sürüyor.
-- Türkiye Genelkurmay yeni tugaylar kuracağını açıkladı, hazırlık tartışıldı.
-- İslamabad’da ABD ve İran 1979’dan beri ilk kez görüştü.
-- Görüşmeler ateşkes getirmedi, Hürmüz ve güvenlik öne çıktı.
-- Bahçeli BM çağrısıyla Dünya Barış Konseyi kurulmasını önerdi.
-- Buldan İmralı sürecinde tıkanma ve belirsizlikler bulunduğunu söyledi.
+- İçişleri Bakanlığı, Mansur Yavaş için soruşturma izni verdi.
+- İddia, 2023 seçimlerinde Karabük’e gönderilen sekiz belediye aracı.
+- Bu karar, Yavaş hakkında ilk doğrudan soruşturma izni sayıldı.
+- CHP, iddianın kanıtsız olduğunu ve siyasi baskı taşıdığını savundu.
+- Yavaş’ın düşük profilli siyaseti nedeniyle hedef seçilebileceği konuşuluyor.
+- CHP grup toplantısı, il örgütlerinin yoğun katılımıyla yapıldı.
+- Özgür Özel, ara seçim veya erken seçim çağrılarını yineledi.
+- Bazı il ve ilçe başkanlarının tutuklu olması gündeme geldi.
+- Belediyelere yönelik operasyonlarda iddianame gecikmeleri ve siyasi talimat iddiası var.
+- CHP içinde dağınıklık, zayıf organizasyon ve vekil eleştirileri sürüyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=WTVKUCCyCao&t=1344s) (⏱️ 22:24-25:24)
-- [Inan Demirel](https://www.youtube.com/watch?v=y1I13dzk0QU&t=1311s) (⏱️ 21:51-30:04)
-- [Serdar Akinan](https://www.youtube.com/watch?v=2RROUWpMbn4&t=722s) (⏱️ 12:02-17:33)
-- [Rusen Cakir](https://www.youtube.com/watch?v=RVaoQA_uMMc&t=26s) (⏱️ 00:26-11:51)
+- [Rusen Cakir](https://www.youtube.com/watch?v=96wu-PlF9M4&t=29s) (⏱️ 00:29-09:05)
+- [Murat Yetkin](https://www.youtube.com/watch?v=W_GRgvpBOzE&t=502s) (⏱️ 08:22-14:15)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=sUTs_D7atBI&t=847s) (⏱️ 14:07-19:12)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=tsp8BMBkzVc&t=1350s) (⏱️ 22:30-24:48)
 
 ---
 
-## 2. Macaristan’da Orban Dönemi Sona Erdi
+## 2. Siyaset ve adalet tartışmaları büyüyor
 
-- Macaristan seçimlerinde muhalefet lideri Peter Magyar iktidara geldi.
-- 16 yıllık Viktor Orban dönemi sandıkta sona erdi.
-- Magyar, Orban ekibinden ayrılıp içeriden eleştirilerle yükseldi.
-- Eşinin, eski adalet bakanının istifası kırılma noktası oldu.
-- TISA Partisi yaklaşık yüzde 53 oy alarak birinci çıktı.
-- 199 sandalyede 138 sandalye kazanıp anayasa çoğunluğuna ulaştı.
-- Orban yenilgiyi kabul etti ve rakibini kamuya açık kutladı.
-- Seçimde hayat pahalılığı, yolsuzluk iddiaları ve AB fonları öne çıktı.
-- Yeni yönetim hukuka dönüş, liyakat ve AB ile işbirliği vaat etti.
-- Avrupa liderleri ve Ekrem İmamoğlu sonucu demokrasi adına tebrik etti.
+- Buldan, çözüm sürecinde Öcalan’a hukuki statü gerektiğini söyledi.
+- Statü olmadan İmralı görüşmelerinin ilerlemesi çok zor görülüyor.
+- Devlet daha geniş heyetle İmralı’ya gittiği iddia edildi.
+- Görüşme mekânı yenilendi, Öcalan statüsüz kullanmak istemedi denildi.
+- Meclis ve iktidarda yasal düzenleme süreci belirsiz görünüyor.
+- Bahçeli statüye sıcak, Erdoğan sandık etkisinden çekiniyor denildi.
+- Öcalan silahlı dönemin bittiğini söyledi, silah bırakma tespiti tartışmalı.
+- Uyuşturucu operasyonlarında çok sayıda gözaltı, bazıları delilsiz olduğu söylendi.
+- Telefon içeriklerinin medyada yayılması mahremiyet ihlali ve itibar kaybı yarattı.
+- Torpil, siyasi tartışmalar ve lider gerilimleri otoriterleşme endişesini büyüttü.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=WTVKUCCyCao&t=200s) (⏱️ 03:20-22:24)
-- [Inan Demirel](https://www.youtube.com/watch?v=y1I13dzk0QU&t=613s) (⏱️ 10:13-14:40)
-- [Murat Yetkin](https://www.youtube.com/watch?v=mmYBprcywlQ&t=2s) (⏱️ 00:02-09:01)
-- [Serdar Akinan](https://www.youtube.com/watch?v=2RROUWpMbn4&t=1055s) (⏱️ 17:35-24:06)
+- [Rusen Cakir](https://www.youtube.com/watch?v=bhi-oVZ9XNg&t=22s) (⏱️ 00:22-09:40)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=sUTs_D7atBI&t=114s) (⏱️ 01:54-05:12)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=tsp8BMBkzVc&t=330s) (⏱️ 05:30-12:20)
 
 ---
 
-## 3. CHP Operasyonları ve AİHM Süreci
+## 3. Seçim Takvimi ve Erdoğan Adaylığı
 
-- AİHM, Ekrem İmamoğlu başvurusunu öncelikli incelemeye aldığını açıkladı.
-- Mahkeme, Türkiye hükümetine dosyayla ilgili altı soru yöneltti.
-- Sorular, tutuklamanın siyasi amaçlı olup olmadığını da kapsıyor.
-- AİHM, seçilme hakkı ve adaylığa etkileri sorguladı.
-- Hükümetin sorulara yaklaşık altı hafta içinde yanıt vermesi bekleniyor.
-- CHP Ankara İl Başkanı Ümit Erkol hakkında gözaltı kararı çıkarıldı.
-- Erkol ve sekiz kişi, İzmir’deki soruşturma kapsamında sevk edildi.
-- Erkol ve diğer şüpheliler tutuklanarak cezaevine gönderildi.
-- Kooperatif soruşturmasında zimmet ve belgede sahtecilik suçlamaları yer aldı.
-- Mansur Yavaş eylem çağrısı yaptı, polisin biber gazı kullandığı görüldü.
+- Bahçeli, grup toplantısında seçimlerin zamanında yapılacağını vurguladı.
+- Bu çıkış, 2028 seçim takvimi tartışmalarını yeniden alevlendirdi kamuoyunda.
+- Seçim 2028'de olursa Erdoğan'ın adaylığı anayasal engelle karşılaşabilir.
+- Adaylık için TBMM'nin 360 oyla erken seçim kararı gerekebilir.
+- Alternatif olarak anayasa değişikliği gündeme gelebilir, ancak oy hesabı zor.
+- Yorumcular ekonomik kriz ve iç siyaset denklemi belirler değerlendirmesi yaptı.
+- Büyük duruşma salonu projesi kamu kaynakları üzerinden sert eleştirildi.
+- Projenin amacı sorgulandı, 'kime yargı için' sorusu soruldu.
+- Bazı yorumlarda 2027'de seçim ihtimali yeniden gündeme getirildi.
+- Genar'ın Mart 2026 anketi AK Parti'yi önde gösterdi tartışıldı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=LKWi_cB_2Lc&t=494s) (⏱️ 08:14-11:17)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=WTVKUCCyCao&t=1737s) (⏱️ 28:57-34:46)
-- [Murat Yetkin](https://www.youtube.com/watch?v=mmYBprcywlQ&t=542s) (⏱️ 09:02-09:36)
-- [Inan Demirel](https://www.youtube.com/watch?v=y1I13dzk0QU&t=1804s) (⏱️ 30:04-32:33)
+- [Murat Yetkin](https://www.youtube.com/watch?v=W_GRgvpBOzE&t=6s) (⏱️ 00:06-02:10)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=tsp8BMBkzVc&t=1688s) (⏱️ 28:08-33:00)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=sUTs_D7atBI&t=1153s) (⏱️ 19:13-21:19)
 
 ---
 
-## 4. Davalar Tartışma Yaratan Yargılamalar
+## 4. Macaristan’da Orbán Dönemi Sona Erdi
 
-- Türkiye’de kara para dosyaları arttı, mahkumiyet oranı düşük kaldı.
-- Adliyelerde 12.629 kara para dosyası bulunduğu bilgisi paylaşıldı.
-- Sistemde yaklaşık 17.696 sanık var, mahkum olan 424 kişi.
-- Mahkumiyet oranı yüzde 2,3; cezalar işlemiyor algısı büyüyor.
-- FATF takibin zorlaştığını vurguluyor, mücadele uluslararası önem taşıyor.
-- Ayhan Bora Kaplan davasında istinaf bozdu, yeniden yargılama sürüyor.
-- Operasyonu yapan polisler, sanıklarla aynı dosyada yargılanacak.
-- Duruşmalarda polisler ve sanıklar arasında sert atışmalar yaşanıyor.
-- Ekrem İmamoğlu tahliye istedi, savcının sözlerini tehdit saydı.
-- Necati Özkan MASAK ve HTS delillerine itiraz etti.
+- Macaristan’da 16 yıllık lider Viktor Orbán seçimi kaybetti.
+- Orbán’ın desteklediği aday yenildi, iktidar değişimi resmileşti.
+- Orbán, yenilgiyi kabul edip rakibini tebrik ederek çekildi.
+- Orbán döneminde yargı, medya ve kurumlar yoğun kontrol altındaydı.
+- Kamu kaynaklarının iktidara yakın çevrelere aktarılması eleştirildi.
+- Muhalefet eşitsiz seçim ortamına rağmen bazı engelleri fırsata çevirdi.
+- Ekonomik kriz seçimi etkiledi; ülke üç yıldır büyüyemedi.
+- 2022’den beri AB’nin en yüksek kümülatif enflasyonu görüldü.
+- Yeni lider Peter’ın kurulu ağları hızla çözmesi zor görünüyor.
+- Rusya enerji bağları ve Ukrayna politikası değişimi belirsiz kalıyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Inan Demirel](https://www.youtube.com/watch?v=y1I13dzk0QU&t=1953s) (⏱️ 32:33-50:39)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=LKWi_cB_2Lc&t=27s) (⏱️ 00:27-03:58)
-- [Serdar Akinan](https://www.youtube.com/watch?v=2RROUWpMbn4&t=1451s) (⏱️ 24:11-28:14)
+- [Rusen Cakir](https://www.youtube.com/watch?v=96wu-PlF9M4&t=547s) (⏱️ 09:07-29:04)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=QMzYSQrpn_g&t=794s) (⏱️ 13:14-16:02)
 
 ---
 
-## 5. Trump Papa Gerilimi Siyaseti Etkiliyor
+## 5. Gıda Enflasyonu Ekonomi Gündemini Sarsıyor
 
-- Trump, Papa’yı suçla mücadelede zayıf kalmakla suçladı.
-- Trump, nükleer silah konularında Papa’nın politikasını yanlış buldu.
-- Trump, Papa’nın kendisini sevmediğini söyleyerek gerilimi büyüttü.
-- Çıkışların özellikle Katolik seçmende olumsuz etki yaratabileceği değerlendirildi.
-- ABD’li kardinal ve dinî liderler CBS’de savaşı eleştirdi.
-- Kardinaller, mevcut çatışmanın Katolik öğretilerine göre adil olmadığını savundu.
-- Trump, sosyal medyada kendisini Hz. İsa gibi gösterdi.
-- Paylaşımda Amerikan bayrağı ve çeşitli ulusal semboller yer aldı.
-- Tartışma, evanjelik destek ve kıyamet beklentileriyle ilişkilendirildi.
-- Bu sırada Fahrettin Altun, Vatikan’da Türkiye büyükelçisi olarak başladı.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Serdar Akinan](https://www.youtube.com/watch?v=2RROUWpMbn4&t=399s) (⏱️ 06:39-12:01)
-- [Inan Demirel](https://www.youtube.com/watch?v=y1I13dzk0QU) (⏱️ 00:00-02:13)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=WTVKUCCyCao&t=1635s) (⏱️ 27:15-28:53)
-
----
-
-## 6. ABD Hürmüz Boğazı’nda abluka kararı
-
-- ABD Merkez Komutanlığı Hürmüz Boğazı’nda abluka başlatacağını duyurdu.
-- Ablukanın Türkiye saatiyle bugün 17:00’de başlayacağı belirtildi.
-- Kısıtlama İran limanlarına giren çıkan tüm gemileri kapsayacak.
-- Abluka tüm ülkelerin gemilerine de uygulanacak şekilde açıklandı.
-- Açıklama sonrası petrol fiyatları 100 doların üzerine çıktı.
-- Uzmanlar ablukanın pratikte tam etkili olmayabileceğini söylüyor.
-- Çin, gemilerinin boğazı kullanmayı sürdüreceğini açıkladı.
-- Çin çıkarlarına saygı beklediğini hükümet ve Genelkurmay vurguladı.
-- Çin günlük petrol ihtiyacının yaklaşık yarısı Hürmüz’den geçiyor.
-- Uzun kesinti navlun, sigorta, enflasyon ve tedariki etkileyebilir.
+- Türkiye, ağır ekonomik kriz ve yüksek yaşam maliyetleriyle boğuşuyor.
+- Gıda enflasyonu çok yüksek; Türkiye dünyada en kötü ülkelerden.
+- Cari açık ve eriyen rezervler ekonomi gündeminde öne çıktı.
+- TÜİK verileriyle vatandaşın piyasa algısı arasında fark vurgulandı.
+- Hazine ve Maliye, altın varlıklarındaki azalışa dair açıklama yaptı.
+- Rezerv, merkez bankasının döviz ve altın varlıklarını ifade eder.
+- Cari açık, dış ticaret dengesinde açık verilmesi anlamına gelir.
+- İran savaşı gibi dış gelişmeler ekonomik sıkıntıları daha da artırdı.
+- Bu tablo siyasi kararları ve seçim hesaplarını zorlaştırıyor.
+- Sosyal medyada viral mısırcı, turistik ilgiyi ve kuyrukları büyüttü.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Inan Demirel](https://www.youtube.com/watch?v=y1I13dzk0QU&t=133s) (⏱️ 02:13-06:50)
-- [Serdar Akinan](https://www.youtube.com/watch?v=2RROUWpMbn4) (⏱️ 00:00-06:38)
-
----
-
-## 7. Konut Krizi Yeni Modelleri Zorluyor
-
-- Sapanca’daki zirvede konuta erişim sorunları panelde tartışıldı.
-- Arsa ve Ev kurucusu Bülent Öztürk modelini katılımcılara anlattı.
-- Modelde önce arsaya ortak olunuyor, sonra konut süreci başlıyor.
-- Konut aşamasında yeni ödeme planlarıyla maliyetler daha yayılıyor.
-- Amaç erişilebilirliği artırmak ve paylaşım ekonomisi yaklaşımını kullanmak.
-- Sistem sigorta ve çeşitli güvenceleri kapsayacak şekilde tasarlandı.
-- Kooperatif benzeri yapı, krediye erişimi kolaylaştırmayı hedefliyor.
-- Öztürk, uygulama için yenilikçilik ve cesaret gerektiğini vurguladı.
-- Ankara Ulus’taki Kral Paris Otel’de emekliler barınıyor.
-- Oteldeki yaklaşık 400 kişiye 17 gün içinde çıkış bildirildi. 
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Ozlem Gurses](https://www.youtube.com/watch?v=WTVKUCCyCao&t=54s) (⏱️ 00:54-03:15)
-- [Inan Demirel](https://www.youtube.com/watch?v=y1I13dzk0QU&t=410s) (⏱️ 06:50-10:13)
+- [Murat Yetkin](https://www.youtube.com/watch?v=W_GRgvpBOzE&t=133s) (⏱️ 02:13-02:38)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=tsp8BMBkzVc&t=740s) (⏱️ 12:20-17:00)
 
 ---
 
