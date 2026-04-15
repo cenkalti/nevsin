@@ -1,108 +1,112 @@
 # Bugün Ne Oldu?
 
-*14 April 2026 tarihli günlük haber raporu - 5 haber birleştirildi*
+*15 April 2026 tarihli günlük haber raporu - 5 haber birleştirildi*
 
-## 1. Belediyelere Operasyonlar ve Yavaş Soruşturması
+## 1. Gülistan Doku dosyası yeniden açıldı
 
-- İçişleri Bakanlığı, Mansur Yavaş için soruşturma izni verdi.
-- İddia, 2023 seçimlerinde Karabük’e gönderilen sekiz belediye aracı.
-- Bu karar, Yavaş hakkında ilk doğrudan soruşturma izni sayıldı.
-- CHP, iddianın kanıtsız olduğunu ve siyasi baskı taşıdığını savundu.
-- Yavaş’ın düşük profilli siyaseti nedeniyle hedef seçilebileceği konuşuluyor.
-- CHP grup toplantısı, il örgütlerinin yoğun katılımıyla yapıldı.
-- Özgür Özel, ara seçim veya erken seçim çağrılarını yineledi.
-- Bazı il ve ilçe başkanlarının tutuklu olması gündeme geldi.
-- Belediyelere yönelik operasyonlarda iddianame gecikmeleri ve siyasi talimat iddiası var.
-- CHP içinde dağınıklık, zayıf organizasyon ve vekil eleştirileri sürüyor.
+- Gülistan Doku, 5 Ocak 2020’den beri Tunceli’de kayıp.
+- Dosya yıllarca ilerlemedi; savcı değişiklikleriyle rafa kaldırıldığı söylendi.
+- Yeni adımlarla soruşturma yeniden açıldı, 13 kişi için gözaltı kararı çıktı.
+- Savcılık artık intihar değil, cinayet ihtimali üzerinde duruyor.
+- Aile ve avukatlar delillerin karartıldığını, kayıtların manipüle edildiğini iddia ediyor.
+- Kamera arızası, yönü değişen kameralar ve silinen diskler gündemde.
+- Baraj gölü iki kez boşaltıldı; gelişmiş aramalarda iz bulunamadı.
+- Gizli tanık ifadeleri ve yeraltı taraması raporları dosyaya girdi.
+- Şüpheliler arasında eski sevgili Zeynel Abakarov ve üvey baba var.
+- Firari Umut Altaş için kırmızı bülten talebi, soruşturmayı büyüttü.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=96wu-PlF9M4&t=29s) (⏱️ 00:29-09:05)
-- [Murat Yetkin](https://www.youtube.com/watch?v=W_GRgvpBOzE&t=502s) (⏱️ 08:22-14:15)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=sUTs_D7atBI&t=847s) (⏱️ 14:07-19:12)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=tsp8BMBkzVc&t=1350s) (⏱️ 22:30-24:48)
+- [Hilal Koylu](https://www.youtube.com/watch?v=Ayxi06gR6y8&t=39s) (⏱️ 00:39-06:32)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=B3JzB3O254o&t=1620s) (⏱️ 27:00-35:00)
+- [Onlar TV](https://www.youtube.com/watch?v=Gxm-i0JbQCs&t=87s) (⏱️ 01:27-38:30)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=tIw18STSUzE&t=2940s) (⏱️ 49:00-56:00)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=729gnVoHaOk) (⏱️ 00:00-01:22)
 
 ---
 
-## 2. Siyaset ve adalet tartışmaları büyüyor
+## 2. Muhalefete operasyon iddiaları büyüyor
 
-- Buldan, çözüm sürecinde Öcalan’a hukuki statü gerektiğini söyledi.
-- Statü olmadan İmralı görüşmelerinin ilerlemesi çok zor görülüyor.
-- Devlet daha geniş heyetle İmralı’ya gittiği iddia edildi.
-- Görüşme mekânı yenilendi, Öcalan statüsüz kullanmak istemedi denildi.
-- Meclis ve iktidarda yasal düzenleme süreci belirsiz görünüyor.
-- Bahçeli statüye sıcak, Erdoğan sandık etkisinden çekiniyor denildi.
-- Öcalan silahlı dönemin bittiğini söyledi, silah bırakma tespiti tartışmalı.
-- Uyuşturucu operasyonlarında çok sayıda gözaltı, bazıları delilsiz olduğu söylendi.
-- Telefon içeriklerinin medyada yayılması mahremiyet ihlali ve itibar kaybı yarattı.
-- Torpil, siyasi tartışmalar ve lider gerilimleri otoriterleşme endişesini büyüttü.
+- Meclis grup konuşmalarında tarım ve gıda sorunları öne çıktı.
+- Muhalefet Güristan dosyası gözaltı ve tutuklamaları gündeme taşıdı.
+- Yeni Adalet Bakanı eski bakanların kapattığı dosyaları açtığını söyledi.
+- Akın Gürlek’in dosyaları hızla ele alması kulisleri hareketlendirdi.
+- Özgür Özel operasyonların talimatla yapıldığı iddialarına yanıt istedi.
+- Tapu kayıtları ve bilgi notları tartışıldı, iktidar gündem değişimi dedi.
+- CHP il başkanlarına operasyonlar sonrası Özel aksiyon planı açıkladı.
+- Erdoğan muhalefete mesaj verdi, Bahçeli ara seçimi reddetti.
+- Ankara’da su faturası tartışması büyüdü, Yavaş’a soruşturma izni çıktı.
+- AİHM, İmamoğlu tutukluluğu için Türkiye’ye siyasi amaç soruları sordu.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=bhi-oVZ9XNg&t=22s) (⏱️ 00:22-09:40)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=sUTs_D7atBI&t=114s) (⏱️ 01:54-05:12)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=tsp8BMBkzVc&t=330s) (⏱️ 05:30-12:20)
+- [Onlar TV](https://www.youtube.com/watch?v=Gxm-i0JbQCs&t=3152s) (⏱️ 52:32-60:50)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=B3JzB3O254o&t=2160s) (⏱️ 36:00-44:00)
+- [Rusen Cakir](https://www.youtube.com/watch?v=8FNtgEEgfqI&t=4s) (⏱️ 00:04-08:26)
+- [Hilal Koylu](https://www.youtube.com/watch?v=Ayxi06gR6y8&t=392s) (⏱️ 06:32-13:33)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=tIw18STSUzE&t=1380s) (⏱️ 23:00-27:00)
 
 ---
 
-## 3. Seçim Takvimi ve Erdoğan Adaylığı
+## 3. Medya Üzerindeki Baskı Tartışmaları
 
-- Bahçeli, grup toplantısında seçimlerin zamanında yapılacağını vurguladı.
-- Bu çıkış, 2028 seçim takvimi tartışmalarını yeniden alevlendirdi kamuoyunda.
-- Seçim 2028'de olursa Erdoğan'ın adaylığı anayasal engelle karşılaşabilir.
-- Adaylık için TBMM'nin 360 oyla erken seçim kararı gerekebilir.
-- Alternatif olarak anayasa değişikliği gündeme gelebilir, ancak oy hesabı zor.
-- Yorumcular ekonomik kriz ve iç siyaset denklemi belirler değerlendirmesi yaptı.
-- Büyük duruşma salonu projesi kamu kaynakları üzerinden sert eleştirildi.
-- Projenin amacı sorgulandı, 'kime yargı için' sorusu soruldu.
-- Bazı yorumlarda 2027'de seçim ihtimali yeniden gündeme getirildi.
-- Genar'ın Mart 2026 anketi AK Parti'yi önde gösterdi tartışıldı.
+- Gazeteci Yılmaz Özdil’in Sözcü’den ayrılığı kamuoyunda geniş tartışma yarattı.
+- Özdil, ayrılığını kendisine yönelik tehdit ve baskılara bağladı.
+- Kulislerde, tehdidin kimden geldiği ve isim vermemesi sorgulanıyor.
+- Özdil, aldığı teklifler sonrası karalama kampanyaları başladığını anlattı.
+- WhatsApp mesajları ve tanıklar olduğunu öne sürdüğü aktarıldı.
+- Tartışma, medya-siyaset ilişkileri ve gazetecilik etiğine odaklandı.
+- Gürsel Tekin’in iddialara tepki göstererek eleştiriler yönelttiği belirtildi.
+- Ayrı bir gündemde, gazetecilere verilen hapis cezaları dikkat çekti.
+- Dezenformasyon yasasıyla bir yazara 2 yıl 6 ay ceza verildi.
+- RTÜK’ün Tele2’ye lisans başvurusu baskısı yaptığı ileri sürüldü.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Murat Yetkin](https://www.youtube.com/watch?v=W_GRgvpBOzE&t=6s) (⏱️ 00:06-02:10)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=tsp8BMBkzVc&t=1688s) (⏱️ 28:08-33:00)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=sUTs_D7atBI&t=1153s) (⏱️ 19:13-21:19)
+- [Hilal Koylu](https://www.youtube.com/watch?v=Ayxi06gR6y8&t=1183s) (⏱️ 19:43-21:00)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=tIw18STSUzE&t=1980s) (⏱️ 33:00-49:00)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=B3JzB3O254o&t=26s) (⏱️ 00:26-00:30)
 
 ---
 
-## 4. Macaristan’da Orbán Dönemi Sona Erdi
+## 4. İstanbul’da Gençlerin Artan Çıkmazı
 
-- Macaristan’da 16 yıllık lider Viktor Orbán seçimi kaybetti.
-- Orbán’ın desteklediği aday yenildi, iktidar değişimi resmileşti.
-- Orbán, yenilgiyi kabul edip rakibini tebrik ederek çekildi.
-- Orbán döneminde yargı, medya ve kurumlar yoğun kontrol altındaydı.
-- Kamu kaynaklarının iktidara yakın çevrelere aktarılması eleştirildi.
-- Muhalefet eşitsiz seçim ortamına rağmen bazı engelleri fırsata çevirdi.
-- Ekonomik kriz seçimi etkiledi; ülke üç yıldır büyüyemedi.
-- 2022’den beri AB’nin en yüksek kümülatif enflasyonu görüldü.
-- Yeni lider Peter’ın kurulu ağları hızla çözmesi zor görünüyor.
-- Rusya enerji bağları ve Ukrayna politikası değişimi belirsiz kalıyor.
+- İstanbul’da genç işsizlik artıyor, ekonomik çöküş daha görünür oldu.
+- Üniversite mezunu gençler market gibi işlerde çalışmak zorunda.
+- Araştırmada katılımcıların yüzde 44,2’si yakında iş bulamayacağını söylüyor.
+- Tüketim daralıyor; yüzde 48,4 giyim, yüzde 55,6 dışarıda yemeden kısıyor.
+- Hanelerin yüzde 35,1’i yeterli gıdaya erişimden endişe duyuyor.
+- Büyük şehirlerde yoksullaşma derinleşiyor, insanlar tüketime çekiliyor.
+- İstanbul toplu taşımada 2026 ilk dört ayda 29 girişim kaydedildi.
+- Marmaray’da 11 vaka görüldü, bazıları ölümle sonuçlandı.
+- Metroda yaralanmalar ve ölümler bildirildi, vapurda iki ölüm oldu.
+- Uzmanlar ekonomik baskı ve ruh sağlığını risklerle ilişkilendiriyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=96wu-PlF9M4&t=547s) (⏱️ 09:07-29:04)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=QMzYSQrpn_g&t=794s) (⏱️ 13:14-16:02)
+- [Onlar TV](https://www.youtube.com/watch?v=Gxm-i0JbQCs&t=3662s) (⏱️ 61:02-65:03)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=B3JzB3O254o&t=1320s) (⏱️ 22:00-27:00)
+- [Hilal Koylu](https://www.youtube.com/watch?v=Ayxi06gR6y8&t=1564s) (⏱️ 26:04-30:04)
 
 ---
 
-## 5. Gıda Enflasyonu Ekonomi Gündemini Sarsıyor
+## 5. Güvenlik ve Denetimde Yeni Tartışmalar
 
-- Türkiye, ağır ekonomik kriz ve yüksek yaşam maliyetleriyle boğuşuyor.
-- Gıda enflasyonu çok yüksek; Türkiye dünyada en kötü ülkelerden.
-- Cari açık ve eriyen rezervler ekonomi gündeminde öne çıktı.
-- TÜİK verileriyle vatandaşın piyasa algısı arasında fark vurgulandı.
-- Hazine ve Maliye, altın varlıklarındaki azalışa dair açıklama yaptı.
-- Rezerv, merkez bankasının döviz ve altın varlıklarını ifade eder.
-- Cari açık, dış ticaret dengesinde açık verilmesi anlamına gelir.
-- İran savaşı gibi dış gelişmeler ekonomik sıkıntıları daha da artırdı.
-- Bu tablo siyasi kararları ve seçim hesaplarını zorlaştırıyor.
-- Sosyal medyada viral mısırcı, turistik ilgiyi ve kuyrukları büyüttü.
+- Milli Eğitim Bakanı okullarda güvenlik ve risk değerlendirmesi yaptıklarını açıkladı.
+- Okullar risk kategorilerine ayrılıyor, güvenlik planları buna göre belirleniyor.
+- Bazı okullarda polis ve devriye var, bazılarında sivil denetim.
+- Bakan, sadece güvenlik önlemleriyle sorunun çözülemeyeceğini söyledi.
+- Sosyal ve yapısal faktörlerin de okul güvenliğinde belirleyici olduğu vurgulandı.
+- Çalışma Bakanlığı genelgesi denetimlerin 15 gün önceden bildirileceğini öngördü.
+- Bakanlık basın müşaviri belgeyi doğruladı, sonra iptal edildiğini aktardı.
+- Uygulamanın altyapı eksikliği nedeniyle ertelendiği açıklandı.
+- Gazeteciler ve sendikalar, bunun denetimin etkisini zayıflatacağını savundu.
+- Tartışmalar, kamuda güvenlik ve denetim anlayışını yeniden gündeme taşıdı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Murat Yetkin](https://www.youtube.com/watch?v=W_GRgvpBOzE&t=133s) (⏱️ 02:13-02:38)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=tsp8BMBkzVc&t=740s) (⏱️ 12:20-17:00)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=B3JzB3O254o&t=960s) (⏱️ 16:00-22:00)
+- [Onlar TV](https://www.youtube.com/watch?v=Gxm-i0JbQCs&t=2311s) (⏱️ 38:31-46:51)
 
 ---
 
