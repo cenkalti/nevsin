@@ -1,65 +1,64 @@
 # Bugün Ne Oldu?
 
-*18 April 2026 tarihli günlük haber raporu - 3 haber birleştirildi*
+*19 April 2026 tarihli günlük haber raporu - 3 haber birleştirildi*
 
-## 1. Maraş Okul Saldırısı Tartışmaları Büyüyor
+## 1. Gülistan Doku Dosyasında Yeni İddialar
 
-- Kahramanmaraş’ta bir ortaokulda silahlı saldırı gerçekleşti, büyük kayıp yaşandı.
-- Saldırganın 13-14 yaşlarında olduğu ve saldırıyı planladığı iddia edildi.
-- Öğrencinin okula çok sayıda silah ve şarjörle geldiği aktarıldı.
-- Okul geçici kapatıldı, öğrencilerin başka okullara taşınacağı açıklandı.
-- Aile silahların kilitli olduğunu söylerken, görüntüler sosyal medyada yayıldı.
-- Saldırgana ait manifesto bulunduğu, metinden bölümler okunduğu belirtildi.
-- Baba tutuklandı; evde ve poligonda eğitim iddiaları tartışma yarattı.
-- Uzmanlar tek neden yok diyor; aile, okul, medya etkili.
-- Metal dedektör ve kamera gibi önlemlerin tek başına yetmeyeceği vurgulandı.
-- Silah erişimini kısıtlama, rehberlik kapasitesini artırma ve dışlanmayı azaltma önerildi.
+- Gülistan Doku dosyasında yeni tutuklamalar ve itiraflar gündeme geldi.
+- Eski Tunceli Valisi Tuncay Sonel ve çevresi soruşturuluyor.
+- Valinin oğlu Mustafa Türkay Sonel ile koruma tutuklandı.
+- Otelde sahte kimlik, delil silme ve kayıt yok etme iddiaları var.
+- Gülistan Doku’ya zorla uyuşturucu verildiği, reddettiği öne sürülüyor.
+- Başından vurulduğu ve gizlice gömüldüğü iddiaları kamuoyuna yansıdı.
+- Polislerin mesaj silme ve delil karartma yaptığı ileri sürülüyor.
+- Hastane sağlık kayıtlarının silindiği iddiasıyla yöneticiler gözaltına alındı.
+- Muhalefet, örtbas iddiaları nedeniyle İçişleri Bakanlığına sert eleştiriler yöneltti.
+- Rabia Naz ve benzeri dosyalar için daha derin soruşturma istendi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilal Koylu](https://www.youtube.com/watch?v=BSpM5VKriLM&t=13s) (⏱️ 00:13-15:22)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=hMrwHibdT00&t=423s) (⏱️ 07:03-49:14)
-- [Rusen Cakir](https://www.youtube.com/watch?v=HDlEr6HZyJI&t=7s) (⏱️ 00:07-02:09)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=6WUsvUVelw8&t=13s) (⏱️ 00:13-04:05)
+- [Serdar Akinan](https://www.youtube.com/watch?v=fK9YKomjna8&t=1367s) (⏱️ 22:47-27:17)
 
 ---
 
-## 2. Kayıp Davalar Yeniden Soruşturuluyor
+## 2. Çözüm süreci tartışmaları büyüyor
 
-- Adalet Bakanı Akın Gürlek göreve gelir gelmez dosyalar açıldı.
-- Gülistan Doku 5 Ocak 2020’de kayboldu, hâlâ bulunamadı.
-- Aile ve yakınları dosyayı yıllardır gündemde tutmayı sürdürdü.
-- Dönemin Tunceli valisi ve polisler için örtbas iddiaları var.
-- Eski vali Tuncay Sonel dahil şüpheliler gözaltına alındı.
-- Bazı şüpheliler delil karartma ve hesaplara müdahaleyle suçlandı.
-- Hastane kayıtlarının sistemden silindiği iddiası dosyada gündeme geldi.
-- Etkin pişmanlık itirafları ve gizli tanık beyanları olduğu söylendi.
-- Bakan, Rabia Naz ve Rojin Kabayış dosyalarını da anımsattı.
-- İçişleri, Mansur Yavaş için soruşturma izni verdi, reddetti.
+- Türkiye’de yeniden çözüm süreci tartışmaları siyaset gündemini belirliyor.
+- Suriye’de SDG ile Şam arasında yeni anlaşmalar imzalandığı belirtiliyor.
+- Bu gelişmelerin Türkiye’yi süreçte yeni adımlar atmaya zorlayacağı söyleniyor.
+- Den Parti’nin önünde hem içsel hem dışsal ciddi engeller bulunuyor.
+- Partinin CHP ile AKP arasında sıkışmasının siyasetini zorlaştırdığı aktarılıyor.
+- AKP Sözcüsü Ömer Çelik’in Den Parti’yi hedef alan açıklamaları hatırlatılıyor.
+- İmralı heyeti, Öcalan’ın 19 Mart sürecine rahatsız olduğunu bildiriyor.
+- İktidarın Den Parti’ye CHP ile yapın çağrısı şantaj sayılıyor.
+- CHP’li belediyelere operasyonlar tepki topluyor, Ataşehir başkanı gözaltında.
+- Muhalefet, operasyonların siyasi olduğunu savunup ortak tepki planlıyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilal Koylu](https://www.youtube.com/watch?v=BSpM5VKriLM&t=929s) (⏱️ 15:29-32:49)
-- [Rusen Cakir](https://www.youtube.com/watch?v=FeJZSl4J6VU&t=4s) (⏱️ 00:04-14:56)
+- [Rusen Cakir](https://www.youtube.com/watch?v=3AP1Rp_FQro&t=23s) (⏱️ 00:23-11:43)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=6WUsvUVelw8&t=1614s) (⏱️ 26:54-30:56)
 
 ---
 
-## 3. Kamusal Mekânlarda Kullanım Tartışmaları
+## 3. Hürmüz Gerilimi Piyasaları ve Bölgeyi Sarstı
 
-- İstanbul’da restore edilen yerebatan sarnıcı tartışma konusu oldu.
-- İBB yetkilileri sarnıca giriş ücretinin 1 TL olduğunu açıkladı.
-- Vakıflar Genel Müdürlüğü, yapının kendi mülkü olduğunu bildirdi.
-- Vakıflar, sarnıcın 15 gün içinde boşaltılmasını talep etti.
-- Tartışma belediye ile Vakıflar arasında kullanım hakkına dönüştü.
-- Vatandaşlar yapıyı gezmek ve restorasyonun sürmesini istiyor.
-- Kocaeli’de bir camide baby shower töreni görüntüleri yayıldı.
-- Beşiğe “baby” yazılması ve çekimler tepkilere neden oldu.
-- Yorumcular, camilerin tarihsel olarak sosyal işlevleri olduğunu hatırlattı.
-- Ancak dinî mekânların gösteriş ve reklam için kullanılmaması vurgulandı.
+- İran ile ABD arasındaki gerilim sert açıklamalarla tırmanıyor bölgede.
+- İran Hürmüz Boğazı'nı kapattı, kısa süreli açılıp tekrar kapandı.
+- Kapanma sırasında yalnızca sekiz tanker geçebildi, geçişler aksadı.
+- Bir Hindistan tankeri daha sonra İran botlarınca hedef alındı.
+- İran Hürmüz ve Bab el-Mendep üzerinde kontrol iddiası öne sürdü.
+- Petrol ve altın fiyatları dalgalandı, küresel piyasalarda belirsizlik arttı.
+- Bölgedeki altyapıda ağır hasar var, 80'den fazla tesis etkilendi.
+- Petrol arzı kesildi, üretimin toparlanması iki yılı bulabilir.
+- ABD bölgeye 30 bin asker gönderdi, savaş gemileri konuşlandırdı.
+- Türkiye için İran doğalgaz anlaşması riskte, ekonomik yansımalar bekleniyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilal Koylu](https://www.youtube.com/watch?v=BSpM5VKriLM&t=2099s) (⏱️ 34:59-37:52)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=hMrwHibdT00&t=121s) (⏱️ 02:01-07:01)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=6WUsvUVelw8&t=1857s) (⏱️ 30:57-36:25)
+- [Serdar Akinan](https://www.youtube.com/watch?v=fK9YKomjna8) (⏱️ 00:00-22:46)
 
 ---
 
