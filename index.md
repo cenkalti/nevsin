@@ -1,126 +1,74 @@
 # Bugün Ne Oldu?
 
-*20 April 2026 tarihli günlük haber raporu - 6 haber birleştirildi*
+*21 April 2026 tarihli günlük haber raporu - 3 haber birleştirildi*
 
-## 1. CHP’de Operasyonlar ve Strateji Krizi
+## 1. CHP’ye yönelik soruşturmalar tartışma yarattı
 
-- CHP’li belediyelere operasyonlar yapıldı, çok sayıda kişi gözaltında.
-- Ataşehir ve Eşme belediye başkanlarının gözaltında olduğu bildirildi.
-- Ataşehir’de protestolar düzenlendi, CHP akşam için miting çağrısı yaptı.
-- Özgür Özel mitingleri artıracaklarını söyledi, 300 miting tartışma yarattı.
-- Özel İspanya’da adil seçim beklemediğini, algı operasyonu dedi.
-- Mansur Yavaş hukukun askıya alındığını söyleyip radikal duruş istedi.
-- Yavaş, Özel’e Barcelona dönüşü konuşma çağrısı yaptı.
-- CHP içinde karar alma boşluğu, liderlik ve strateji tartışmaları büyüyor.
-- Partide mutlak butlan ve takvim savaşı tartışmaları öne çıktı.
-- Antalya Forumu’ndaki monarşi çıkışı, operasyonlarla birlikte tepki topladı.
+- Uşak Belediye Başkanı Özkan Yalım hakkında 254 kaset iddiası yayıldı.
+- Soruşturma kapsamında otelde arama yapıldığı ve dijital dosyalar bulunduğu konuşuldu.
+- Videoların otel odası gizli kamera kaydı olup olmadığı tartışma konusu.
+- Bazı incelemeler görüntülerin erişkin sitelerinden alınmış olabileceğini öne sürdü.
+- Resmi makamlar iddiaları doğrulamadı, soruşturmanın sürdüğü belirtildi.
+- CHP içinde disiplin, özür ve itibar tartışmaları gündeme geldi.
+- CHP’ye yönelik operasyonlar, mutlak butlan davası kulislerini güçlendirdi.
+- Mansur Yavaş, belediyelere baskıya karşı daha güçlü tepki çağrısı yaptı.
+- Silivri’de İBB davasında tanıkların ifadelerini geri çektiği aktarıldı.
+- Tele1’in TMSF tarafından satışa çıkarılması ve kayyım tartışması sürdü.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=FFy5m_yKM4Q&t=18s) (⏱️ 00:18-19:43)
-- [Onlar TV](https://www.youtube.com/watch?v=px5OHs56GHk&t=176s) (⏱️ 02:56-32:36)
-- [Murat Yetkin](https://www.youtube.com/watch?v=GTlJyLO2m4E&t=85s) (⏱️ 01:25-01:56)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=qxHgdWZFG8A&t=668s) (⏱️ 11:08-17:11)
+- [Onlar TV](https://www.youtube.com/watch?v=4pLVd7CH6Zg&t=22s) (⏱️ 00:22-06:01)
+- [Murat Yetkin](https://www.youtube.com/watch?v=UDTRFq5Jcl4&t=33s) (⏱️ 00:33-01:51)
+- [Unsal Unlu](https://www.youtube.com/watch?v=wNom8ufpd9Y&t=219s) (⏱️ 03:39-05:36)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=nn6t9EtMTAE) (⏱️ 00:00-01:38)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=ku1RU5ib_C0&t=26s) (⏱️ 00:26-12:00)
+- [Rusen Cakir](https://www.youtube.com/watch?v=DI8iv321JJ8&t=3s) (⏱️ 00:03-13:07)
+- [Inan Demirel](https://www.youtube.com/watch?v=r24sf4-Zryk&t=2305s) (⏱️ 38:25-46:00)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=We1fgDtIs8U&t=351s) (⏱️ 05:51-06:09)
 
 ---
 
-## 2. Şimşek Tartışması ve Sistem Eleştirisi
+## 2. Madencilerin Ankara eylemi ve gözaltılar
 
-- Yeni Şafak, Şimşek’in enflasyon programının çöktüğünü manşete taşıdı.
-- Gazete, 2026 enflasyonunun en iyimser yüzde 29 olacağını yazdı.
-- Uzmanlar ve bankacılar, enflasyonun uzun süre yüksek kalacağını öngörüyor.
-- Bazı AK Parti çevreleri, Şimşek’in görevden alınmasını istiyor.
-- Eleştiriler, IMF ve Ekonomi Koordinasyon Kurulu gündemiyle örtüşüyor.
-- Cumhurbaşkanlığı sistemi, yetkiyi merkezileştirip sorumluluğu Erdoğan’da topluyor.
-- Yorumcular, Şimşek’in tek başına hareket edemeyeceğini özellikle vurguluyor.
-- Berat Albayrak’ın yeniden göreve gelebileceği ihtimali kulislerde konuşuluyor.
-- Bölgesel gerilimler enerji fiyatlarını artırarak enflasyon riskini büyütüyor.
-- Vergiler, asgari ücret ve özelleştirmeler toplumsal tepkileri artırıyor.
+- Doruk Madencilik işçileri Eskişehir’den Ankara’ya yürüyüş başlattı.
+- Enerji ve Tabii Kaynaklar Bakanlığı önünde eylem yaptılar.
+- Oturma eylemi ve açlık greviyle taleplerini duyurdular.
+- Aylarca ödenmeyen maaş, tazminat ve ikramiyeler istiyorlar.
+- İşe iade, sendikal haklar ve güvenli çalışma talep ediyorlar.
+- Ücretsiz izin dayatmasının kalkması ve madenin kamulaştırılması isteniyor.
+- Polis müdahalesi sırasında önce 34, sonra 110 işçi gözaltına alındı.
+- Avukatlar gözaltı gerekçelerini öğrenmeye çalıştıklarını açıkladı.
+- Bakanların protestocularla görüşmemesi, muhataplık krizi olarak eleştirildi.
+- Şişli’de seyyar esnafın izin ve kooperatif zorunluluğu şikayetleri aktarıldı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Murat Yetkin](https://www.youtube.com/watch?v=GTlJyLO2m4E&t=269s) (⏱️ 04:29-16:37)
-- [Unsal Unlu](https://www.youtube.com/watch?v=nU7l-ldBIJs&t=770s) (⏱️ 12:50-18:03)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=ku1RU5ib_C0&t=1920s) (⏱️ 32:00-37:00)
+- [Inan Demirel](https://www.youtube.com/watch?v=r24sf4-Zryk&t=3129s) (⏱️ 52:09-57:41)
+- [Unsal Unlu](https://www.youtube.com/watch?v=wNom8ufpd9Y&t=86s) (⏱️ 01:26-10:16)
+- [Onlar TV](https://www.youtube.com/watch?v=xHTSkjmL-Z4&t=7491s) (⏱️ 124:51-134:05)
 
 ---
 
-## 3. Türkiye İsrail Gerginliği Derinleşiyor
+## 3. ABD ilişkileri ve vize krizi
 
-- İsrail ile Türkiye arasındaki gerginlik son dönemde belirgin biçimde tırmandı.
-- Netanyahu yönetiminin Türkiye'yi hedef gösterdiği yönünde iddialar gündeme geldi.
-- Dışişleri Bakanı Hakan Fidan, İsrail'in Türkiye'yi hedeflediğini söyledi.
-- Michael Rubin, İsrail'in Türkiye'ye önleyici saldırı yapmasını savundu.
-- Rubin, Türkiye'nin F-16'larının yok edilmesini öneren provokatif yazı yazdı.
-- ABD'deki İsrail lobisi ve bazı Türk isimler söylemleri destekledi.
-- Ekim 2023 sonrası çatışmalar, İsrail'in bölgede daha agresifleştiğini gösterdi.
-- İran'dan sonra Türkiye, Netanyahu için büyük tehdit görülüyor.
-- İsrail'in Türkiye'yi NATO'dan izole etme ve bölme planları konuşuluyor.
-- Antalya Diplomasi Forumu'ndaki rejim yorumları, yeni diplomatik tartışma doğurdu.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Rusen Cakir](https://www.youtube.com/watch?v=5emLhpa7Pzo&t=24s) (⏱️ 00:24-12:55)
-- [Unsal Unlu](https://www.youtube.com/watch?v=nU7l-ldBIJs&t=1085s) (⏱️ 18:05-19:24)
-
----
-
-## 4. Hürmüz Boğazı’nda İran ABD Gerilimi
-
-- İran’daki çatışmalar sonrası ateşkes ilan edildi, süresi dolmak üzere.
-- İran ile ABD arasındaki gerilim sürüyor ve bölge riskli.
-- Hürmüz Boğazı’nın İran tarafından tekrar kapatıldığı bildirildi.
-- ABD’nin bir tankeri vurduğu, geminin batmadığı belirtildi.
-- Tanker motor kısmından vuruldu ve hareketsiz kaldı.
-- İran’a ait bir geminin vurulduğu iddiası sosyal medyada dolaşıyor.
-- Hürmüz Boğazı nedeniyle tankerler bekliyor, sevkiyatlar aksıyor.
-- Petrol arzındaki belirsizlik enerji ve petrol fiyatlarını artırabilir.
-- Gerginliğin dünya ekonomisine olumsuz yansımaları olabileceği vurgulanıyor.
-- Gelişmeler Türkiye’de ekonomi tartışmalarıyla, Şimşek gündemiyle anıldı.
+- Mehmet Metiner’in ABD vizesi, Türkiye’de geniş tartışma başlattı.
+- Dışişleri’nin büyükelçiliğe yazdığı yazının dili eleştiri topladı.
+- Bazı diplomatlar yazıyı standart prosedür olarak değerlendirdi kamuoyunda.
+- ABD Büyükelçiliği vizeyi reddetti, geri dönmeme şüphesi gösterdi.
+- Tartışma liyakat yerine sadakat atamaları ve nepotizm iddialarına uzandı.
+- İktidarın ABD ile ilişkilerde söylem ve görüntü kaygısı konuşuldu.
+- Tom Barrack ve Trump çevresi üzerinden suskunluk eleştirileri gündeme geldi.
+- Eşme Belediye Başkanı Tozan’ın sert gözaltısı, siyasilik tartışması yarattı.
+- Hürmüz Boğazı gerilimi petrol, tarım ve gübre ticaretini etkileyebilir.
+- NATO zirvesi, F-35 krizi ve AB’nin çelişkili mesajları izleniyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Murat Yetkin](https://www.youtube.com/watch?v=GTlJyLO2m4E&t=46s) (⏱️ 00:46-01:23)
-- [Onlar TV](https://www.youtube.com/watch?v=px5OHs56GHk&t=59s) (⏱️ 00:59-02:56)
-
----
-
-## 5. Okullarda Artan Gençlik Şiddeti
-
-- Siverek ve Kahramanmaraş’ta gençlerin karıştığı okul şiddeti tartışılıyor.
-- Kahramanmaraş’ta 14 yaşındaki öğrenci okulda silahlı saldırı yaptı.
-- Saldırıda çok sayıda çocuk ve bir öğretmen öldü.
-- Saldırganın babası emniyet görevlisi, silaha erişim kolaylaştı iddiası.
-- Olaylar tekil değil, eğitim sistemi gençleri yalnız bırakıyor deniyor.
-- Uyuşturucuya erişim kolaylığı, gençler için büyüyen risk görülüyor.
-- Okullarda rehberlik kadroları ve psikolojik destek yetersiz kalıyor.
-- Devlete erken uyarı sistemleri kurması ve bütçe ayırması çağrısı.
-- Sorunlu çocukların yakından takibi ve sosyal medya izleme öneriliyor.
-- Silah erişimi bazı bölgelerde çok kolay, daha sıkı denetim isteniyor.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Rusen Cakir](https://www.youtube.com/watch?v=FFy5m_yKM4Q&t=1184s) (⏱️ 19:44-32:45)
-- [Onlar TV](https://www.youtube.com/watch?v=px5OHs56GHk&t=4142s) (⏱️ 69:02-80:46)
-
----
-
-## 6. Gülistan Doku Soruşturmasında Yeni İddialar
-
-- Gülistan Doku dosyasında bu hafta yeni ve kritik gelişmeler yaşandı.
-- Olayın başlangıcı 5 Ocak 2020 olarak yeniden özetlendi.
-- Gülistan ile Zeynel Abarakov arasındaki ilişki ve görüşmeler incelendi.
-- Operasyonda 13 şüpheliden bazıları tutuklandı, Mustafa Türkay Sonel dahil.
-- Şubat kod adlı gizli tanık, darp ve tecavüz iddiası anlattı.
-- Tanığa göre hamile kaldı, ardından öldürüldüğü öne sürüldü.
-- Jandarma taramasında gömü şüphesi doğuran boş mezar tespit edildi.
-- Ses kayıtları ve ifadelerin iddiaları destekleyebileceği değerlendiriliyor.
-- SIM kart, hastane kayıtları ve dijital verilerin silindiği iddia edildi.
-- Yetkililerin rolleri, baskılar ve dayanışma ihtiyacı yeniden tartışıldı.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Onlar TV](https://www.youtube.com/watch?v=px5OHs56GHk&t=1956s) (⏱️ 32:36-68:02)
-- [Unsal Unlu](https://www.youtube.com/watch?v=nU7l-ldBIJs&t=116s) (⏱️ 01:56-12:47)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=ku1RU5ib_C0&t=2390s) (⏱️ 39:50-47:19)
+- [Murat Yetkin](https://www.youtube.com/watch?v=UDTRFq5Jcl4&t=144s) (⏱️ 02:24-09:10)
+- [Serdar Akinan](https://www.youtube.com/watch?v=T3h1jy306Pg) (⏱️ 00:00-09:10)
+- [Inan Demirel](https://www.youtube.com/watch?v=r24sf4-Zryk&t=24s) (⏱️ 00:24-04:45)
 
 ---
 
