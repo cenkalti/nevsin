@@ -1,105 +1,67 @@
 # Bugün Ne Oldu?
 
-*27 April 2026 tarihli günlük haber raporu - 5 haber birleştirildi*
+*28 April 2026 tarihli günlük haber raporu - 3 haber birleştirildi*
 
-## 1. Yabancı Sermayeye Vergi Teşvikleri Tartışması
+## 1. Hak Arayışında İşçiler ve Adalet
 
-- Hükümet, Türkiye’yi finans merkezi yapma hedefini yeniden vurguladı.
-- Beştepe’de toplantıya Cumhurbaşkanı Yardımcısı Cevdet Yılmaz başkanlık etti.
-- Erdoğan, yurtdışından para getirene yüksek vergi indirimi açıkladı.
-- İstanbul Finans Merkezi kazançlarına kurumlar vergisi muafiyeti getirilecek.
-- Transit ticaret kazançlarının büyük kısmı vergi dışı bırakılacak.
-- Küresel şirketlerin bölgesel merkezleri Türkiye’ye çekilmek isteniyor.
-- Yeni varlık barışı paketiyle dış varlıkların gelişi kolaylaşacak.
-- Eleştiriler, kaynağı belirsiz sermayeye ayrıcalık verilmesine odaklanıyor.
-- Yatırımcılar için en kritik mesele hukuki güvence ve mülkiyet hakkı.
-- Şimşek, milletvekili maaş zammının savaş nedeniyle ertelendiğini söyledi.
+- Doruk Madencilik işçileri Mihalıçık’tan Ankara’ya 180 kilometre yürüdü.
+- İşçiler Kurtuluş Parkı’nda dokuz gündür direniş ve açlık grevinde.
+- Ücret, tazminat ve sigorta primlerinin uzun süredir ödenmediğini söylüyorlar.
+- Enerji Bakanlığı’na yürümek isteyen gruba polis barikat kurdu.
+- Müdahalede biber gazı kullanıldı, sendika yöneticileri gözaltına alındı.
+- Bakanlık 36 milyon lira ödendi dedi, işçiler yetersiz buldu.
+- Hükümet ve bakanlıklar sürece dahil oldu, ödeme sözü teyitsiz.
+- Şirket mali zorluk açıklaması yaptı, kamulaştırma seçeneği tartışılıyor.
+- Akbelen’de Esra Işık davasında acele kamulaştırma eleştirileri büyüyor.
+- Gülistan Doku dosyasında eksik kayıtlar ve baskı iddiaları gündemde. 
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Inan Demirel](https://www.youtube.com/watch?v=7jCVHBYgH7o&t=250s) (⏱️ 04:10-09:18)
-- [Murat Yetkin](https://www.youtube.com/watch?v=dai92gjZMfI) (⏱️ 00:00-01:01)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=zbphgVg-Tts&t=1841s) (⏱️ 30:41-35:38)
+- [Cigdem Toker](https://www.youtube.com/watch?v=GAqHkF-Stjg&t=2s) (⏱️ 00:02-09:51)
+- [Murat Yetkin](https://www.youtube.com/watch?v=cVSXLs09kh4&t=3s) (⏱️ 00:03-11:53)
+- [Serdar Akinan](https://www.youtube.com/watch?v=hHQmLKmbLXs&t=5s) (⏱️ 00:05-17:32)
+- [Unsal Unlu](https://www.youtube.com/watch?v=h7m7HbdD9RU&t=366s) (⏱️ 06:06-21:44)
+- [Onlar TV](https://www.youtube.com/watch?v=C4riPid2fFs&t=1s) (⏱️ 00:01-26:40)
 
 ---
 
-## 2. İktidar ve CHP seçim stratejisi
+## 2. Muhalefette Ara Seçim ve Baskı Endişesi
 
-- Erdoğan, parti etkinliklerini seçim hazırlığıyla harmanlama talimatı verdi.
-- Türkiye, bölgesel savaşa rağmen huzur ve istikrar adası anlatılacak.
-- Kulislerde seçim hazırlıklarının hızlandırılması ve iktidar mesajı öne çıkıyor.
-- Erken seçim kararı için Meclis’te 360 milletvekili desteği gerekiyor.
-- Cumhur İttifakı 360’a tek başına ulaşamıyor, ek destek aranıyor.
-- Muhalefetin erken seçimi neden destekleyeceği tartışma konusu olmaya devam ediyor.
-- Küçük partilerin talepleri iktidar için siyasi bir handikap oluşturuyor.
-- CHP, belediye başkanlarıyla toplantılar yaparak yeni yol haritası arıyor.
-- Özgür Özel, sine-i millet gibi önerileri reddedip sınır çizdi.
-- Mansur Yavaş, daha görünür ve dikkat çekici eylemler önerdi.
+- Özgür Özel, Meclis Başkanı Numan Kurtulmuş ile görüştü.
+- Özel, tüm muhalefetin ara seçim istediğini söyledi.
+- Ara seçim talebini anayasanın 77 ve 78. maddelerine dayandırdı.
+- Muhalefet, iktidarın seçimden kaçma imajını kırmayı hedefliyor.
+- Özel, bazı illerde boşalan koltukları örnek olarak gösterdi.
+- Belediyelere yönelik operasyonlar muhalefette ciddi tedirginlik yaratıyor.
+- Mansur Yavaş ve bazı başkanlar olası baskılardan endişeli.
+- İktidarın muhalefeti tasfiye ederek kontrollü alan kurduğu iddia edildi.
+- CHP içinde masadan kalkma tartışmaları ve sert çıkışlar gündemde.
+- Parti yönetimi mitingler ve saha çalışmasıyla ortak tutum arıyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Inan Demirel](https://www.youtube.com/watch?v=7jCVHBYgH7o&t=1s) (⏱️ 00:01-04:10)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=zbphgVg-Tts&t=2138s) (⏱️ 35:38-36:58)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=TlOs_OEDijA) (⏱️ 00:00-04:41)
+- [Onlar TV](https://www.youtube.com/watch?v=YAkUjxsy7yM&t=2867s) (⏱️ 47:47-102:18)
 
 ---
 
-## 3. Soruşturmalar ve davalarda kritik aşama
+## 3. Yargıda Uygulama Krizi Tartışması
 
-- Gülistan Doku dosyası büyüdü, klasör sayısı 15’e yükseldi.
-- Tunceli’de emniyet ve valilik yetkilileri tanık veya şüpheli dinleniyor.
-- Sim kart sinyalleri ve kamera kayıtlarındaki eksikler soruşturmanın odağında.
-- Başsavcı ve Adalet Bakanı soruşturma için kararlılık mesajı verdi.
-- Süleyman Soylu, valiye sahip çıktığını kamuoyuna açıkça belirtti.
-- İBB başkanlığı davasında 27. duruşma sürüyor, savunmayı Mehmet Pehlivan yapıyor.
-- Davanın canlı yayınlanmaması tartışma yarattı, MHP istedi, AK Parti yanaşmadı.
-- Savunmaya göre dosya, somut delilden çok iddia içeriyor.
-- Gizli tanıklar ve etkin pişmanlık ifadeleri, davanın temel dayanağı.
-- Merdan Yanardağ Ankara’daki imzada konuştu, mayısta mahkemeye çıkacak.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Inan Demirel](https://www.youtube.com/watch?v=7jCVHBYgH7o&t=1717s) (⏱️ 28:37-36:57)
-- [Rusen Cakir](https://www.youtube.com/watch?v=G03AEnFyWQQ&t=24s) (⏱️ 00:24-12:45)
-
----
-
-## 4. Madencilerin Ankara’daki hak arayışı
-
-- Eskişehirli madenciler Ankara’ya yürüdü, Kurtuluş Parkı’nda eylemde.
-- Açlık grevi Kızılay Yenişehir’de sekizinci gününe girdi bugün.
-- Madenciler ödenmeyen maaşlar ve haklarını talep ettiklerini söylüyor.
-- Doruk Madencilik’in Yıldızlar Holding’e satıldığı ve işten çıkarmalar yaşandığı belirtildi.
-- İşçiler 67 aydır maaş, fazla mesai, izin alacağı istemekte.
-- Tazminat ödenmediği ve sigorta primlerinin yatırılmadığı iddia ediliyor.
-- İş güvencesi ve iş güvenliği talepleri de gündemde tutuluyor.
-- Enerji Bakanlığı önüne yürümek isteyen madencilere polis barikat kurdu.
-- İki sendikacı gözaltına alındı; konfederasyonlar sonradan destek verdi.
-- Bakanlığın 36 milyon TL aldırdığı, kalan haklar için baskı istendi.
+- Yüksek profilli uyuşturucu ve fuhuş operasyonları kamuoyunda tartışma yarattı.
+- Ela Rümeysa dosyasında tanık beyanları ve testler çelişkili görüldü.
+- Dosyada usul ve delil eksiklikleri olduğu, sürecin uzayabileceği vurgulandı.
+- Bodrum ve İstanbul arasında yetki uyuşmazlığı yaşandığı belirtildi.
+- Bu nedenle dosyanın yetki için Yargıtay’a gönderildiği aktarıldı.
+- İddialarda büyük para rakamları ve karşılıklı anlatımlar öne çıktı.
+- Programda, operasyonların hedef seçilmiş ünlülere yöneldiği eleştirisi yapıldı.
+- Anayasa Mahkemesi Başkanı kararların bağlayıcılığına uyulmasını istedi.
+- Yorumlarda, AYM kararlarının fiilen uygulanmadığı iddiası dillendirildi.
+- Sistem işlemezse, çözümün seçimle iktidarı değiştirmek olduğu savunuldu.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Inan Demirel](https://www.youtube.com/watch?v=7jCVHBYgH7o&t=1620s) (⏱️ 27:00-28:37)
-- [Murat Yetkin](https://www.youtube.com/watch?v=dai92gjZMfI&t=62s) (⏱️ 01:02-13:02)
-
----
-
-## 5. Trump’a Suikast Girişimi Tartışma Yarattı
-
-- Washington DC’de Trump’a yönelik suikast girişimi yaşandı, etkinlikte panik çıktı.
-- Saldırı, Hilton otelde gazeteciler cemiyeti balosu sırasında gerçekleşti.
-- Saldırgan, salona ulaşamadan güvenlik güçlerince etkisizleştirilip gözaltına alındı.
-- Başkan yardımcısı JDV hızla dışarı çıkarıldı, katılımcılara yere yatın denildi.
-- Saldırganın Cole Allen olduğu, mühendis ve eğitimci olduğu aktarıldı.
-- Allen’ın manifesto yayımladığı ve hedef listesi hazırladığı bildirildi.
-- Güvenlik kamerası görüntüleri ve videoların paylaşıldığı, soruşturma sürdüğü belirtildi.
-- Silahların yasal alındığı, FBI kontrollerinden geçtiği ve kurallara uyulduğu söylendi.
-- Olay sonrası Trump CBS’e konuştu, bazı iddiaları sert biçimde reddetti.
-- Saldırının arkasında başka aktörler olup olmadığına dair tartışmalar sürüyor.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Inan Demirel](https://www.youtube.com/watch?v=7jCVHBYgH7o&t=2694s) (⏱️ 44:54-48:10)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=zbphgVg-Tts&t=50s) (⏱️ 00:50-27:35)
+- [Onlar TV](https://www.youtube.com/watch?v=YAkUjxsy7yM&t=6145s) (⏱️ 102:25-117:30)
+- [Unsal Unlu](https://www.youtube.com/watch?v=h7m7HbdD9RU&t=496s) (⏱️ 08:16-10:06)
 
 ---
 
