@@ -1,85 +1,90 @@
 # Bugün Ne Oldu?
 
-*7 May 2026 tarihli günlük haber raporu - 4 haber birleştirildi*
+*8 May 2026 tarihli günlük haber raporu - 4 haber birleştirildi*
 
-## 1. Sokak Hayvanları Tartışması Sertleşiyor
+## 1. Köksal’ın AK Parti İddiası Gündemde
 
-- Türkiye’de sokak hayvanları tartışması giderek sertleşen bir gündem oldu.
-- Yeni Şafak’ın manşetleri ve dili, kutuplaştırıcı bulunarak eleştirildi.
-- Bursa AK Parti milletvekili Osman Mesten’in sözleri büyük tepki çekti.
-- Mesten, köpekler için 'it' ve 'mikrop yuvası' ifadeleri kullandı.
-- Açıklamalar, hayvanseverleri hedef alan şiddeti teşvik edebilir endişesi doğurdu.
-- Bazı kesimler sokak hayvanlarının toplanması ve yok edilmesini savunuyor.
-- Kamu sağlığı kaygıları, başıboş köpekler ve kuduz verileriyle tartışılıyor.
-- Dini kaynaklarda merhamet vurgusu hatırlatılarak söylemler eleştirildi.
-- Reklamda köpeğin 'çocuk' denmesine müdahale, gerilimi artırdı.
-- Kampanyanın siyasallaştığı, troller ve dezenformasyonla büyüdüğü belirtiliyor.
+- Afyonkarahisar Belediye Başkanı Burcu Köksal’ın CHP’den ayrılacağı iddia edildi.
+- Kulislerde Köksal’ın AK Parti’ye katılacağı, rozet takılacağı konuşuldu.
+- Bazı yorumcular katılımın 12 Mayıs’ta Erdoğan tarafından yapılacağını söyledi.
+- İddialar sonrası Köksal’a uzun süre ulaşılamadığı, telefonlarının kapalı olduğu aktarıldı.
+- Köksal’ın Ankara’da temaslarda bulunduğu ve Cumhurbaşkanı’yla görüştüğü öne sürüldü.
+- Onlar TV’ye göre Köksal, Erdoğan’la yarım saat konuştuğunu söyledi.
+- Köksal, kararında baskı veya soruşturma etkisi olmadığını savundu.
+- Enginyurt ve CHP’liler, tehdit ve şantaj iddialarını kınadı.
+- CHP teşkilatı, belirsizlik sürerken üyeleri resmi hesapları izlemeye çağırdı.
+- Transfer tartışması, muhalefeti zayıflatma ve operasyon iddialarıyla ilişkilendirildi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=FRPX8rL95ZA) (⏱️ 00:00-12:48)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=88r6Np8rD3o&t=570s) (⏱️ 09:30-11:00)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=LpCnJwOl49w&t=450s) (⏱️ 07:30-14:00)
+- [Rusen Cakir](https://www.youtube.com/watch?v=yFnN4OEpXHs&t=24s) (⏱️ 00:24-20:11)
+- [Unsal Unlu](https://www.youtube.com/watch?v=CATo-ZeqSGM&t=166s) (⏱️ 02:46-04:19)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=P7TjX9iSB3I) (⏱️ 00:00-10:03)
+- [Onlar TV](https://www.youtube.com/watch?v=ZxLeUf7694c&t=149s) (⏱️ 02:29-06:04)
+- [Murat Yetkin](https://www.youtube.com/watch?v=ML6aRf2rt7s&t=335s) (⏱️ 05:35-10:42)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=fbrqiYGTwzE&t=1230s) (⏱️ 20:30-28:00)
 
 ---
 
-## 2. Ekonomide vergi, güven ve yatırım tartışması
+## 2. Belediye soruşturmaları ve itirafçı tartışması
 
-- Mehmet Şimşek vergi kolaylığı ve yatırım teşvikleri önerileri paylaştı.
-- Gelir İdaresi için 72 aya taksit ve KOBİ teminat esnekliği konuşuldu.
-- Yapılandırmanın af değil, ödeme kolaylaştırması olması gerektiği vurgulandı.
-- Küresel hizmet merkezleri için 20 yıl kurumlar vergisi muafiyeti tartışıldı.
-- Yatırımcı için hukuki güven, mülkiyet hakkı ve yargı bağımsızlığı öne çıktı.
-- Bankacılar, Şimşek’in yatırımcı ilgisi arttı açıklamasına itiraz etti.
-- Varlık barışı yeniden gündemde; 2008’den beri sekizinci düzenleme değerlendirildi.
-- Düşük oranlı vergiyle para getirmenin denetim ve güven soruları sürüyor.
-- ÖTV ve KDV yığılması telefon ve otomobil fiyatlarını sert artırıyor.
-- Akaryakıt zammı, doğalgaz borcu ve bahis bağımlılığı toplumsal risk yarattı.
+- Antalya, Uşak ve İstanbul belediyelerine operasyon ve iddialar gündemde.
+- Adalet Bakanı iki tutuklunun etkin pişmanlık dilekçesi verdiğini açıkladı.
+- Etkin pişmanlık verenlerin Özkan Yalım ve Gökhan Böcek olduğu bildirildi.
+- Her iki isim tutuklu ve mal varlıklarına el konulduğu belirtildi.
+- Antalya soruşturmasında Muhittin Böcek ailesine ilişkin ifadeler tartışıldı.
+- İBB’ye yeni operasyonda Ağaç AŞ ve Park Bahçeler hedefte.
+- Park Bahçeler Daire Başkanı ve genel sekreter yardımcısı gözaltı iddia edildi.
+- İBB duruşmalarında İmamoğlu duygulandı, tutukluluk koşulları eleştirildi.
+- Savunmalarda iddianamenin zayıf, gizli tanıklara dayandığı öne sürüldü.
+- CHP’li Murat Emir, Murat Kurum için 50 milyon bağış belgesi açıkladı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=LpCnJwOl49w&t=2340s) (⏱️ 39:00-46:00)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=SIHWgnb2ESE&t=260s) (⏱️ 04:20-09:56)
+- [Onlar TV](https://www.youtube.com/watch?v=ZxLeUf7694c&t=57s) (⏱️ 00:57-02:22)
+- [Murat Yetkin](https://www.youtube.com/watch?v=ML6aRf2rt7s&t=162s) (⏱️ 02:42-05:17)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=fbrqiYGTwzE&t=120s) (⏱️ 02:00-17:40)
+- [Unsal Unlu](https://www.youtube.com/watch?v=CATo-ZeqSGM&t=260s) (⏱️ 04:20-05:22)
 
 ---
 
-## 3. Ekonomik baskı aileleri zorluyor
+## 3. Çözüm sürecinde statü ve adımlar
 
-- Türkiye’de konut fiyatları çoğu hane için erişilemez seviyede.
-- İstanbul’da 100 metrekare evin fiyatı yaklaşık 7,94 milyon TL.
-- Kredi hesaplarında peşinat, yüksek faiz ve 10 yıllık taksitler öne çıkıyor.
-- Örneklerde hane gelirleri, aylık taksitleri karşılamaya çoğunlukla yetmiyor.
-- Yüksek faiz ve krediye erişim zorluğu, konut sorununu ağırlaştırıyor.
-- Aileler çocuk, eğitim ve barınma maliyetleriyle daha da zorlanıyor.
-- Doğum masrafları kamu hastanesinde 20 bin TL örnekleniyor.
-- Özel hastanede doğum maliyeti 50-150 bin TL aralığında.
-- Araştırmalar ailelerin sosyal hayat, giyim ve gıdadan kıstığını söylüyor.
-- Ekonomik baskı emeklileri, asgari ücretlileri ve esnafı etkiliyor.
+- İdris Baluken, sürecin inişli çıkışlı ama umut verici olduğunu söyledi.
+- Baluken, tıkanmalarda karamsarlık değil yaratıcı çözümler gerektiğini vurguladı.
+- Kandil, PKK feshi kararı dahil sürece destek mesajı verdi.
+- Röportajların cımbızlanması, yanlış algı ve gerilimi artırabilir uyarısı yapıldı.
+- Devlet kanadında hukuki ve siyasal somut adımların eksikliği eleştirildi.
+- Bahçeli, Öcalan’ın statüsü tartışmasını netleştirip kurumsal çağrı yaptı.
+- Erdoğan’la mutabakat mı gerilim mi olduğu, siyasette tartışma yarattı.
+- DEM Parti ve CHP’den Özel ve İmamoğlu süreç için destek verdi.
+- Demokratikleşme, yasal düzenleme, kayyum ve Demirtaş başlıkları öne çıktı.
+- Araştırmalar, genç Kürtlerde kimlik ve Türkiyelilik duygusunun arttığını gösterdi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Nevsin Mengu](https://www.youtube.com/watch?v=88r6Np8rD3o&t=30s) (⏱️ 00:30-06:30)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=VYXg_8adIOI) (⏱️ 00:00-06:11)
+- [Rusen Cakir](https://www.youtube.com/watch?v=KnIOnSK4M6M) (⏱️ 00:00-03:51)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=fbrqiYGTwzE&t=2280s) (⏱️ 38:00-43:30)
+- [Onlar TV](https://www.youtube.com/watch?v=ZxLeUf7694c&t=2887s) (⏱️ 48:07-52:34)
 
 ---
 
-## 4. Yıldırım Han İddiaları Tartışma Yarattı
+## 4. ODTÜ konserindeki bayrak tartışması
 
-- Türkiye savunma sanayinde son on yılda yatırımları hızlandırdı.
-- İstanbul’daki SAHA fuarında yeni sistemler ve iddialar öne çıktı.
-- Yıldırım Han için 6.000 km menzil ve 3 ton başlık söylendi.
-- Hipersonik hız, Mach 9-25 ve kayma aracı vizyonu anlatıldı.
-- Yakıt olarak sıvı roket yakıtı N2O4 kullanıldığı iddia edildi.
-- Uzmanlar görülenin çoğunun maket, testlerin yetersiz olduğunu belirtti.
-- Operasyonel füze için sertifikasyon, altyapı ve çok sayıda uçuş testi gerekir.
-- Motor ve malzeme iddiaları nadir metal ve ileri üretime bağlı.
-- Bakanlık sözcüsü testlerin sürdüğünü, ardından üretime geçileceğini söyledi.
-- Fuarda Gazap termobarik bomba, insansız sistemler ve Pakistan ilgisi konuşuldu.
+- ODTÜ’de düzenlenen bir konser sonrası bayrak tartışması gündeme geldi.
+- Etkinliğin geleneksel olarak sol-sosyalist bir çizgide olduğu belirtildi.
+- Konserde dışarıdan müdahale ve provoke etme girişimi olduğu iddia edildi.
+- Türk bayrağı üzerinden eylem ve karşı tepki oluştuğu aktarıldı.
+- Bazı grupların olayı büyüterek kamuoyuna taşıdığı öne sürüldü.
+- Milliyetçi ve Kemalist çevrelerin sert tepkiler verdiği söylendi.
+- Zafer Partisi uzantılarının tartışmada rol aldığı iddiaları dile getirildi.
+- Benzer provokasyon örneklerinin geçmişte de tekrarlandığı ifade edildi.
+- Sunucu, konuya ilişkin detaylı bir yayın hazırladığını belirtti.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Murat Yetkin](https://www.youtube.com/watch?v=6MadMjEUFCo&t=62s) (⏱️ 01:02-15:39)
-- [Serdar Akinan](https://www.youtube.com/watch?v=Z6RhJPCv81o&t=9s) (⏱️ 00:09-26:25)
+- [Serdar Akinan](https://www.youtube.com/watch?v=irttHV4FpZ8&t=1634s) (⏱️ 27:14-27:22)
+- [Rusen Cakir](https://www.youtube.com/watch?v=yFnN4OEpXHs&t=1866s) (⏱️ 31:06-36:30)
 
 ---
 
