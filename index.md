@@ -1,24 +1,27 @@
 # Bugün Ne Oldu?
 
-*9 May 2026 tarihli günlük haber raporu - 1 haber birleştirildi*
+*10 May 2026 tarihli günlük haber raporu - 1 haber birleştirildi*
 
-## 1. Yargı baskısı ve tutuklu gazeteciler
+## 1. Siyasette yargı ve bağımsızlık tartışması
 
-- Türkiye’de tutuklu gazeteciler ve basın özgürlüğü yeniden tartışılıyor.
-- Fatih Altaylı’nın padişah hikayesi sonrası sekiz ay Silivri’de kaldığı belirtildi.
-- Gazeteci İsmail Arı’nın yaklaşık kırk beş gündür tutuklu olduğu aktarıldı.
-- Uluslararası Af Örgütü, Alican Uludağ ve Merdan Yanardağ için duyuru yaptı.
-- Yargı ve iktidara yakın medyanın birlikte hareket ettiği eleştirileri öne çıktı.
-- Yeni Adalet Bakanı Akın Gürlek’in sık televizyon açıklamaları tartışma yarattı.
-- Gürlek, bazı isimlerin etkin pişmanlıktan yararlandığını iddia etti.
-- Etkin pişmanlık, itiraf karşılığında cezada indirim sağlayan uygulamadır.
-- Muhittin Böcek davasında tutukluluk sürerken, başka tutuklu kalmadığı söylendi.
-- AKP’nin CHP’li isimleri transfer ettiği ve yargı baskısı iddiaları konuşuldu.
+- CHP lideri Özgür Özel’in yargı iddiaları soruşturmaya dönüştü.
+- Özel, Erdoğan ile Akın Gürlek’in VIP görüşmesi yaptığını öne sürdü.
+- Akın Gürlek iddiaları iftira saydı, sert tepki verdi.
+- Etkin pişmanlıkta Gökhan Böcek’in 1 milyon euro anlattığı belirtildi.
+- Veli Ağbaba, bu para iddialarını yalan ve iftira dedi.
+- Özkan Yalım, Özel’e 1,2 milyon lira verdiğini söyledi.
+- Yorumlarda usul ihlali, özel görüntü sızdırma iddiaları öne çıktı.
+- Halk TV’de yönetim krizi, editöryal bağımsızlık tartışmaları büyüdü.
+- TÜİK başkanı değişti; enflasyon verileri ve maaş etkisi tartışıldı.
+- Güvenlik konvoyları ve ayrıcalık iddiaları adalet eleştirilerini artırdı. 
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=JQmhSJv3-Vk&t=890s) (⏱️ 14:50-15:36)
-- [Rusen Cakir](https://www.youtube.com/watch?v=aOI_y3Q9Ovk&t=3s) (⏱️ 00:03-14:35)
+- [Fatih Altayli](https://www.youtube.com/watch?v=DkMxIIzZQAs&t=1571s) (⏱️ 26:11-29:05)
+- [Inan Demirel](https://www.youtube.com/watch?v=JvdZi9Uq9i0&t=2482s) (⏱️ 41:22-52:00)
+- [Rusen Cakir](https://www.youtube.com/watch?v=bT52a4GtGb0&t=53s) (⏱️ 00:53-11:25)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=WFEHZgAfYOU) (⏱️ 00:00-12:02)
+- [Serdar Akinan](https://www.youtube.com/watch?v=tfx6gXX6C_M&t=902s) (⏱️ 15:02-16:26)
 
 ---
 
