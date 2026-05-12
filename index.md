@@ -1,113 +1,135 @@
 # Bugün Ne Oldu?
 
-*11 May 2026 tarihli günlük haber raporu - 5 haber birleştirildi*
+*12 May 2026 tarihli günlük haber raporu - 6 haber birleştirildi*
 
-## 1. Silivri’de Casusluk Davasında Savunmalar
+## 1. Silivri casusluk davasında tartışmalar
 
-- Silivri’de siyasal casusluk davasının ilk duruşması başladı bugün.
-- Sanıklar arasında Ekrem İmamoğlu, Necati Özkan, Merdan Yanardağ bulunuyor.
-- Hüseyin Gün yaklaşık 45 dakika savunma yaparak suçlamaları reddetti.
-- Gün, iddianamede somut devlet sırrı ve yabancı bağlantı yok dedi.
-- Delillerin çoğunun Google ve açık kaynak verilerinden oluştuğunu savundu.
-- Telefon ve bilgisayar şifrelerini verdiğini, kaçacak bir şeyi olmadığını söyledi.
-- Soruşturmanın Ümit Alaçam ihbarıyla başladığını, ilişkiler tartışıldı duruşmada.
-- Savcılık, kriptolu uygulamalar ve para hareketlerini delil sayıyor; MASAK raporları var.
-- İddianame, mozaik sır teorisiyle açık bilgilerin birleşimini suç görüyor.
-- Mahkeme soru-cevap yaptı, duruşmaların beş gün sürmesi planlandı.
+- Silivri’de görülen casusluk davasında ilk ifade Hüseyin Gün’den geldi.
+- Soruşturma, üvey oğul olduğu iddia edilen kişinin 112 ihbarıyla başladı.
+- İhbarda Gün’ün İsrail, İngiltere ve ABD lehine ajanlık iddiası yer aldı.
+- Savcılık el koyduğu dijital materyallerde çeşitli fotoğraf ve kayıtlar buldu.
+- İddianamede İBB verilerinin Dark Web’den alınıp yurtdışına gönderildiği öne sürüldü.
+- Gün suçlamaları reddetti, çalışmalarının açık kaynak sosyal medya analizleri olduğunu söyledi.
+- Mahkemede devlet ve MİT adına çalıştığını, yetki belgesi bulunduğunu savundu.
+- Dosyadaki yetki belgeleri ve istihbarat raporlarının eksikliği eleştirildi.
+- İmamoğlu, Yanardağ ve Özkan suçlamaları reddetti, iddianameyi zayıf buldu.
+- Duruşmada Tele1’e kayyum, bağışlar ve Londra fotoğrafları tartışıldı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Inan Demirel](https://www.youtube.com/watch?v=Gb4hwzNhj48&t=263s) (⏱️ 04:23-13:17)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=MSB3z91MpxY&t=12s) (⏱️ 00:12-28:37)
-- [Rusen Cakir](https://www.youtube.com/watch?v=b3mLNyQUIUw&t=23s) (⏱️ 00:23-10:11)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=j5W7TVeaiNo&t=1709s) (⏱️ 28:29-30:17)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=Y5KXiSiVzN8&t=439s) (⏱️ 07:19-16:41)
-- [Onlar TV](https://www.youtube.com/watch?v=U_0BQ2emaRY&t=7s) (⏱️ 00:07-02:34)
-- [Murat Yetkin](https://www.youtube.com/watch?v=tLMtmxxGL5U&t=424s) (⏱️ 07:04-14:22)
-- [Serdar Akinan](https://www.youtube.com/watch?v=TPxcDUZRF1c) (⏱️ 00:00-04:15)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=B3dlhfqelx4&t=4s) (⏱️ 00:04-05:43)
+- [Onlar TV](https://www.youtube.com/watch?v=ECOEYBPYyeQ&t=144s) (⏱️ 02:24-31:08)
+- [Rusen Cakir](https://www.youtube.com/watch?v=YjtHK3GGmkU&t=24s) (⏱️ 00:24-17:34)
+- [Hilal Koylu](https://www.youtube.com/watch?v=gD5LTN3ZSkU&t=151s) (⏱️ 02:31-10:03)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=FMGAxGJV7gs&t=16s) (⏱️ 00:16-29:52)
+- [Inan Demirel](https://www.youtube.com/watch?v=nt10Ew2Gy9I&t=1s) (⏱️ 00:01-11:20)
 
 ---
 
-## 2. Silivri’de Casusluk Davası Duruşması
+## 2. CHP’de Etkin Pişmanlık Tartışması
 
-- Silivri’deki casusluk davası duruşması canlı olarak takip edildi.
-- Mahkeme heyeti salona geç geldi, başlangıç belirgin şekilde gecikti.
-- Salon düzeninde boşluklar vardı, avukat koltukları yetersiz kaldı.
-- Duruşma başlamadan 25 ek sandalye getirilerek yerleşim düzeltildi.
-- Sanık sıraları arkasındaki geniş boş alan izleyicilerde sorun yarattı.
-- Merdan Yanardağ ve Necati Özkan salona alkışlarla karşılandı.
-- Ekrem İmamoğlu gelince salonda yeniden yoğun alkışlar yükseldi.
-- Yakınlar, meslektaşlar ve Tele1 ekibi duygusal anlar yaşadı.
-- Ara verildi, sıradaki savunmanın İmamoğlu’na ait olduğu açıklandı.
-- Anneler Günü sonrası bazı mahkûm anneleri adalet ve haber bekliyor.
+- CHP çevresinde etkin pişmanlık ifadeleriyle yeni iddialar tartışılıyor.
+- Antalya dosyasında Muhittin Böcek ve ailesi öne çıkıyor.
+- Gökhan Böcek’in 1 milyon euro verdiği iddiası paylaşıldı.
+- İfadelerde Veli Ağ Baba’ya para verildiği öne sürüldü.
+- Bazı rakamlar değişti; önce 20 milyon iddiaları dolaştı.
+- Tanık ifadelerinin benzer kalıplarla alınması eleştiri konusu oldu.
+- Delil eksikliği ve özel hayat görüntülerinin kullanımı tartışma yarattı.
+- Özgür Özel konuşması yayınlanırken bazı kanallarda kesinti yaşandı.
+- Özel, Akın Gürlek ve Murat Kurum hakkında iddialar dile getirdi.
+- Afyon Belediye Başkanı Burcu Köksal istifa edip AK Parti’ye geçti.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Inan Demirel](https://www.youtube.com/watch?v=Gb4hwzNhj48&t=20s) (⏱️ 00:20-02:58)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=Y5KXiSiVzN8&t=1004s) (⏱️ 16:44-17:07)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=j5W7TVeaiNo&t=1821s) (⏱️ 30:21-31:11)
+- [Hilal Koylu](https://www.youtube.com/watch?v=gD5LTN3ZSkU&t=603s) (⏱️ 10:03-22:48)
+- [Murat Yetkin](https://www.youtube.com/watch?v=S6xxyvcC8Y8&t=39s) (⏱️ 00:39-03:28)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=FMGAxGJV7gs&t=1909s) (⏱️ 31:49-34:16)
+- [Inan Demirel](https://www.youtube.com/watch?v=nt10Ew2Gy9I&t=1135s) (⏱️ 18:55-27:10)
+- [Onlar TV](https://www.youtube.com/watch?v=ECOEYBPYyeQ&t=2066s) (⏱️ 34:26-52:40)
+- [Rusen Cakir](https://www.youtube.com/watch?v=YjtHK3GGmkU&t=1055s) (⏱️ 17:35-26:34)
 
 ---
 
-## 3. Siyasette CHP ve süreç gerilimi
+## 3. Halk TV’de İstifalar ve Yönetim Krizi
 
-- CHP’de mutlak butlan iddiası kulislerde geniş yankı buldu.
-- Bazı AKP’lilerin Erdoğan’ı kapatma yönünde ikna ettiği öne sürüldü.
-- Brifinglerde ekonomi, dolar ve faiz riskleri özellikle vurgulandı.
-- AKP içinde seçmen tepkisi ve kriz korkusu ağır basıyor.
-- Bahçeli, CHP’nin zedelenmemesini temenni ettiğini söyledi kamuoyuna.
-- Bahçeli, kapatma iddialarında net bir engelleme taahhüdü vermedi.
-- Özgür Özel, parti içi eleştirilerle saraydan destek arayanları hedefledi.
-- Konuşmanın Kılıçdaroğlu’na mesaj olduğu yönünde yorumlar yapıldı.
-- Burcu Köksal’ın AKP’ye geçiş iddiasıyla CHP disiplin süreci başlattı.
-- Öte yandan PKK sürecinde silah bırakma ve yasa sırası tartışılıyor.
+- Halk TV’de yönetim krizi nedeniyle peş peşe istifalar yaşanıyor.
+- Gökmen Karadağ, Seda Selek ve Gözde Şeker ayrıldı.
+- Çalışanlar düşük maaş, ücret eşitsizliği ve güvencesizlikten şikayetçi.
+- Servisin kaldırılması ve personel eksikliği iş yükünü artırdı.
+- Mobbing iddiaları ve verilen sözlerin tutulmaması gündeme getiriliyor.
+- Patron Cafer Mahiroğlu, editöryal müdahale suçlamalarıyla eleştiriliyor.
+- Mahiroğlu’nun maaşlara dair sosyal medya açıklaması tepki çekti.
+- İktidar baskısı ve medya kontrolü yöntemleri krizi derinleştiriyor.
+- CHP ile geçmişte gizli protokol iddiası yeniden tartışma yarattı.
+- Koza TV ve Tele2 gibi yeni kanallar, yeni istihdam umudu doğuruyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Serdar Akinan](https://www.youtube.com/watch?v=TPxcDUZRF1c&t=836s) (⏱️ 13:56-20:00)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=ruHPcJOqbdA) (⏱️ 00:00-04:22)
-- [Murat Yetkin](https://www.youtube.com/watch?v=tLMtmxxGL5U&t=21s) (⏱️ 00:21-00:58)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=FMGAxGJV7gs&t=2112s) (⏱️ 35:12-49:09)
+- [Rusen Cakir](https://www.youtube.com/watch?v=YjtHK3GGmkU&t=1596s) (⏱️ 26:36-38:00)
+- [Inan Demirel](https://www.youtube.com/watch?v=nt10Ew2Gy9I&t=1630s) (⏱️ 27:10-43:56)
+- [Hilal Koylu](https://www.youtube.com/watch?v=gD5LTN3ZSkU&t=1716s) (⏱️ 28:36-36:02)
 
 ---
 
-## 4. Tele1’e El Koyma Tartışması Büyüyor
+## 4. Erken Seçim ve Anayasa Pazarlığı
 
-- Tele1 hakkında casusluk iddiasıyla soruşturma ve iddianame hazırlandı.
-- TMSF, Merdan Yanardağ gözaltısı sonrası kanala el koydu.
-- Kanalın ana haber bülteni kesildi, yayın akışına müdahale edildi.
-- Tele1’in uydu ve kablo platformlarındaki erişiminin azaldığı belirtildi.
-- Tele1’in kayyumda olduğu ve satılabileceği iddiaları gündeme geldi.
-- Satış fiyatının orta düzey İstanbul dairesi seviyesine çıktığı söylendi.
-- İddianamede MİT raporu ve karşı istihbarat kanıtı bulunmadığı eleştirildi.
-- Delillerin fotoğraf karesi ve bazı mesajlarla sınırlı olduğu aktarıldı.
-- Hüseyin Gün, Tele1’i yönetmediğini ve talimat vermediğini söyledi.
-- Hüseyin Gün, yetki belgesini mahkemeye sunduğunu açıkladı.
+- Türkiye’de erken seçim ve anayasa değişikliği tartışmaları yeniden alevlendi.
+- Cumhurbaşkanı Erdoğan’ın yeniden adaylığı için 101. madde değişikliği konuşuluyor.
+- Erken seçim kararı için Meclis’te 360 oy gerekiyor deniyor.
+- Cumhur İttifakı’nın sandalye sayısı yaklaşık 325 civarında görünüyor.
+- Anayasa değişikliği referandumla 360, referandumsuz 400 oy gerektiriyor.
+- İktidarın 400’e ulaşmak için vekil transferi planladığı öne sürülüyor.
+- Temmuzdaki mutlak butlan davasının CHP’yi bölebileceği tartışılıyor.
+- CHP, hukuk düzelmeden anayasa değişikliğine destek vermeyeceğini söylüyor.
+- Olası takvimde 2027 baharı veya Mayıs 2028 seçenekleri öne çıkıyor.
+- Sonar anketinde AK Parti az farkla önde, kararsızlar yüksek görünüyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Inan Demirel](https://www.youtube.com/watch?v=Gb4hwzNhj48&t=890s) (⏱️ 14:50-16:01)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=MSB3z91MpxY&t=899s) (⏱️ 14:59-16:00)
-- [Onlar TV](https://www.youtube.com/watch?v=U_0BQ2emaRY&t=423s) (⏱️ 07:03-16:26)
+- [Hilal Koylu](https://www.youtube.com/watch?v=gD5LTN3ZSkU&t=1372s) (⏱️ 22:52-25:27)
+- [Onlar TV](https://www.youtube.com/watch?v=ECOEYBPYyeQ&t=3921s) (⏱️ 65:21-95:10)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=OyAs6BBY3LY) (⏱️ 00:00-01:02)
 
 ---
 
-## 5. İran ABD Nükleer Müzakerelerinde Şartlar
+## 5. Enerji, veri ve geçim baskısı
 
-- ABD-İran arasında nükleer müzakereler sürerken gerilim devam ediyor.
-- Washington, İran’ın 20 yıl uranyum zenginleştirmeyi durdurmasını istiyor.
-- Tahran, nükleer tesislerini kapatmayı veya sökmeyi reddediyor.
-- İran, ablukanın kaldırılmasını ve liman ambargosunun bitmesini istiyor.
-- Tahran, Hürmüz Boğazı’nın kademeli açılmasını şart koşuyor.
-- İran pazarlığa açık olduğunu söylüyor, silahsızlanmayı reddediyor.
-- Yüksek derecede zenginleştirilmiş uranyumu seyreltmeyi ve transferi öneriyor.
-- İran 20 yıllık moratoryuma karşı, daha kısa askıya alma öneriyor.
-- Taraflar için 30 günlük ek müzakere takvimi gündeme geldi.
-- Görüşmeler petrol ve enerji fiyatlarını, barış beklentisiyle etkiliyor.
+- Küresel ekonomi ucuz enerji ve üretim döneminden uzaklaşıyor.
+- Veri merkezleri, çipler, lojistik ve altyapı yeni stratejik kaynak sayılıyor.
+- Yapay zeka rekabetinin yeni bir soğuk savaş doğurabileceği belirtiliyor.
+- ABD, Çin ve Körfez arasında altyapı ve enerji yarışı bekleniyor.
+- Küresel dönüşüm, insanların istikrar duygusunu zayıflatıp güvensizlik yaratıyor.
+- Barınma krizi ve artan kiralar toplumsal gerginliği büyütüyor.
+- Yalnızlık, tahammülsüzlük ve öfke artarken toplumsal bağlar zayıflıyor.
+- Sosyal medya algoritmalarının öfkeyi ve kutuplaşmayı ödüllendirdiği söyleniyor.
+- ABD’nin Türkiye’ye petrol kredisi sağladığı ve istikrar hedeflediği aktarıldı.
+- Artan turizm ve konaklama fiyatları geçim sıkıntısını derinleştiriyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Serdar Akinan](https://www.youtube.com/watch?v=TPxcDUZRF1c&t=1201s) (⏱️ 20:01-21:29)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=j5W7TVeaiNo&t=129s) (⏱️ 02:09-06:44)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=OyAs6BBY3LY&t=220s) (⏱️ 03:40-05:25)
+- [Murat Yetkin](https://www.youtube.com/watch?v=S6xxyvcC8Y8&t=586s) (⏱️ 09:46-13:03)
+
+---
+
+## 6. İmralı Teması ve Öcalan Statüsü
+
+- Kürt siyaseti anayasa değişikliğine destek için iki şart koydu.
+- İlk şart İmralı üzerinden yeniden temas ve resmi güvenceler sağlanması.
+- İkinci şart PKK için özel bir yasanın çıkarılması talebi.
+- Kürt tarafı MİT onayı benzeri garantiler olmadan silah bırakmıyor.
+- İstihbarat raporları PKK'nın topluca silah bırakmadığını bildiriyor.
+- İktidar, silah bırakmama durumunu süreçte gerekçe olarak kullanıyor.
+- Bahçeli, Öcalan'a statü ve koordinatörlük önerisiyle tartışma başlattı.
+- Uzmanlar, Öcalan'a statü vermenin hukuken kolay olmadığını söylüyor.
+- Koordinatörlük fikri siyasi sorumluluk ve süreç yönetimi gerektiriyor.
+- Bölgesel gelişmeler, özellikle İran krizi, sürecin seyrini etkileyebilir.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Onlar TV](https://www.youtube.com/watch?v=OV3eNk1FD_o&t=340s) (⏱️ 05:40-09:56)
+- [Rusen Cakir](https://www.youtube.com/watch?v=YjtHK3GGmkU&t=2291s) (⏱️ 38:11-43:29)
 
 ---
 
