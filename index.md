@@ -1,90 +1,113 @@
 # Bugün Ne Oldu?
 
-*13 May 2026 tarihli günlük haber raporu - 4 haber birleştirildi*
+*14 May 2026 tarihli günlük haber raporu - 5 haber birleştirildi*
 
-## 1. Casusluk Davasında Tutukluluklar Sürüyor
+## 1. CHP’ye baskı ve yargı gündemi
 
-- 24 Ekim’de Tele1’e baskınla operasyon yapıldı, gözaltılar gerçekleşti.
-- Operasyonda Yanardağ, İmamoğlu, Necati Özkan ve Hüseyin Gün yer aldı.
-- Başsavcılık 162 sayfalık iddianame hazırladı, casusluk suçlamaları yöneltildi.
-- İddianamenin omurgası büyük ölçüde Hüseyin Gün’ün emniyet ifadesiydi.
-- Duruşmada sanıklar savunma yaptı, avukatlar beyanlarını mahkemeye sundu.
-- Savcı mütalaasında dört tutuklu için tutukluluğun sürmesini istedi.
-- Mahkeme tahliye kararı vermedi, tutuklulukların devamına hükmetti.
-- Mahkeme bazı bilgilerin temini için MİT ile yazışma istedi.
-- Yanardağ, hedefin Tele1’e el koymak olduğunu savundu mahkemede.
-- Gazetecilere iddianameler, tutukluluk eleştirileri ve basın özgürlüğü kaygıları arttı.
+- Silivri’deki casusluk davasında tahliye çıkmadı, tutukluluklar sürdü.
+- Savcı, deliller toplanmadı diyerek tutukluluğun devamını istedi.
+- Sanıklar iddianamenin siyasi olduğunu söyleyip tahliye talep etti.
+- Mahkeme, MİT’ten rapor ve tespitleri yazıyla sormaya karar verdi.
+- El yazısı günlük ve notların akıbeti dosyada ayrıca araştırılacak.
+- Hüseyin Gün, etkin pişmanlıktan vazgeçip ifadesini geri çekti.
+- Bir sonraki duruşma 6 Temmuz’a bırakıldı, kararlar o tarihe sarktı.
+- Uşak’ta tutuklanan Özkan Yalımın ifadeleri CHP’ye uzandı iddiaları doğurdu.
+- Özgür Özel’e 1,2 milyon TL verildiği ve metinlerin değiştirildiği öne sürüldü.
+- İmamoğlu, Yavaş ve Özel ortak mesajla birlik vurgusu yaptı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Inan Demirel](https://www.youtube.com/watch?v=4foIrs9DUrM&t=260s) (⏱️ 04:20-07:30)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=nexjMELP8dM&t=1800s) (⏱️ 30:00-36:00)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=Ci8cuRo-J3I&t=413s) (⏱️ 06:53-08:06)
-- [Cigdem Toker](https://www.youtube.com/watch?v=bpY3po8_Em4&t=4s) (⏱️ 00:04-01:09)
-- [Onlar TV](https://www.youtube.com/watch?v=m4WH_KFN54U&t=946s) (⏱️ 15:46-47:44)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=bj4qOYPooHg&t=1260s) (⏱️ 21:00-25:30)
+- [Serdar Akinan](https://www.youtube.com/watch?v=jS1S259Xpso&t=38s) (⏱️ 00:38-06:03)
+- [Hilal Koylu](https://www.youtube.com/watch?v=NbCXCXIxgFk&t=467s) (⏱️ 07:47-20:04)
+- [Murat Yetkin](https://www.youtube.com/watch?v=rlYB0GV78ls&t=163s) (⏱️ 02:43-05:13)
+- [Onlar TV](https://www.youtube.com/watch?v=zo6SnOE38wU&t=333s) (⏱️ 05:33-20:23)
+- [Inan Demirel](https://www.youtube.com/watch?v=KG6zjH9wNRQ&t=426s) (⏱️ 07:06-09:30)
+- [Rusen Cakir](https://www.youtube.com/watch?v=OiPEYeByiZ4&t=3s) (⏱️ 00:03-10:49)
+- [Unsal Unlu](https://www.youtube.com/watch?v=VVcz4owU2Mw&t=955s) (⏱️ 15:55-17:21)
 
 ---
 
-## 2. CHP’ye Kapatma İddiaları Gündemde
+## 2. Trump Şi Zirvesinde Kritik Pazarlık
 
-- Gazeteler CHP’ye kapatma davası iddiasını manşete taşıdı yeniden.
-- İddialar, Muhittin Böcek ve oğlu Gökhan ifadelerine dayandırılıyor.
-- Bir milyon avro ve bağış anlatımları siyasette geniş yankı oluşturdu.
-- Kişisel bağış üst sınırının aşılması kapatma gerekçesi olabilir deniyor.
-- Hukukçular mutlak butlan ve kurultay davasını birlikte tartışıyor.
-- İBB davası sürecinin CHP genel merkezine uzadığı öne sürüldü.
-- Yayınlarda parti içi krizlerin CHP kurumsal itibarını zedelediği vurgulandı.
-- Muhalefete disiplinli hareket ve strateji değişikliği çağrısı yapıldı.
-- Kulisler kararın yaz başı veya adli tatil sonrası gelebileceğini söylüyor.
-- Torba kanundaki varlık barışı düzenlemesi baskın seçim senaryolarıyla ilişkilendirildi.
+- Trump, büyük iş ve teknoloji heyetiyle Pekin’e kritik ziyaret yaptı.
+- Uçakta birçok ABD’li CEO vardı, ticaret mesajı öne çıktı.
+- Zirvede teknoloji rekabeti, çipler, veri ve tedarik zinciri konuşuldu.
+- Tarifeler, elektrikli araç vergileri ve yatırım akışları gündemdeydi.
+- Tayvan gerilimi kritik başlık oldu; Çin adayı kendi toprağı sayıyor.
+- ABD’nin Tayvan’a silah satışı konusundaki çekinceler masaya geldi.
+- Şi, rakip değil ortak olalım dedi, Tukidides tuzağı uyardı.
+- Tukidides tuzağı, yükselen güçle hegemon geriliminin savaşa dönüşmesidir.
+- İran krizi ve Hürmüz Boğazı, görüşmelerin en kritik dosyasıydı.
+- Piyasalar ve petrol fiyatları zirveden belirgin biçimde etkilenmedi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Inan Demirel](https://www.youtube.com/watch?v=4foIrs9DUrM) (⏱️ 00:00-01:20)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=nexjMELP8dM&t=1260s) (⏱️ 21:00-28:00)
-- [Onlar TV](https://www.youtube.com/watch?v=m4WH_KFN54U&t=50s) (⏱️ 00:50-15:45)
-- [Murat Yetkin](https://www.youtube.com/watch?v=PPQXn9WgmM4&t=91s) (⏱️ 01:31-03:44)
-- [Cigdem Toker](https://www.youtube.com/watch?v=bpY3po8_Em4&t=407s) (⏱️ 06:47-14:27)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=bj4qOYPooHg&t=2779s) (⏱️ 46:19-51:13)
+- [Hilal Koylu](https://www.youtube.com/watch?v=NbCXCXIxgFk&t=2610s) (⏱️ 43:30-45:02)
+- [Serdar Akinan](https://www.youtube.com/watch?v=jS1S259Xpso&t=363s) (⏱️ 06:03-23:27)
+- [Murat Yetkin](https://www.youtube.com/watch?v=rlYB0GV78ls&t=6s) (⏱️ 00:06-01:16)
 
 ---
 
-## 3. CHP’de İtiraflar ve Tahsis İddiaları
+## 3. Gözaltı ve Tutuklama Soruşturmaları
 
-- Özkan Yalım etkin pişmanlık kapsamında ikinci kez ifade verdi.
-- İfadesinde 2023 CHP kurultayında delege ikna çalışmaları anlatıldı.
-- Bazı delegelere çocuklarının işe alınması karşılığında oy istendi.
-- Özgür Özel’e 1.200.000 TL verdiğini yeniden iddia etti.
-- Para teslimi anlatımı ikinci ifadede daha somut detaylarla aktarıldı.
-- Belediye araçlarının özel işlerde kullanıldığı ve zararların kapatılacağı söylendi.
-- Yalım, Veli Ağbaba’yı para transferlerini koordine etmekle suçladı.
-- Viskinin protesto sonrası götürüldüğü iddiasına sert yalanlama geldi.
-- Yalım’a dair görüntüler ve ihale iddiaları siyasi baskı tartışması yarattı.
-- Özgür Özel, Akın Gürlek’e tahsis edilen araçlar iddiasını gündeme taşıdı.
+- Rasim Ozan Kütahyalı, yasa dışı bahis soruşturmasında gözaltına alındı.
+- Soruşturma Adana merkezli yürütülüyor ve 21 ili kapsıyor.
+- Operasyonda yaklaşık 200 şüphelinin gözaltına alındığı bildirildi.
+- Gözaltındakiler arasında banka yöneticileri, polis memurları ve avukatlar var.
+- İddialar, 100 milyar lira düzeyinde kara para aklamayı içeriyor.
+- Yasa dışı bahis para akışının 2 milyar dolar olduğu öne sürüldü.
+- Savcıların Kütahyalı’nın para trafiğini sorguladığı haberleştirildi.
+- Yorumlarda Kütahyalı’nın iktidara yakınlığı nedeniyle gözaltı dikkat çekti.
+- Ayrı bir olayda futbolcu Torreira’ya sokakta yumruklu saldırı yapıldı.
+- Saldırgan Yusuf Yıldırım tutuklandı; takıntılı takip geçmişi vurgulandı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Inan Demirel](https://www.youtube.com/watch?v=4foIrs9DUrM&t=80s) (⏱️ 01:20-04:20)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=nexjMELP8dM&t=60s) (⏱️ 01:00-03:00)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=zzpeUsQTqTo) (⏱️ 00:00-10:46)
+- [Inan Demirel](https://www.youtube.com/watch?v=KG6zjH9wNRQ&t=69s) (⏱️ 01:09-07:06)
+- [Murat Yetkin](https://www.youtube.com/watch?v=rlYB0GV78ls&t=78s) (⏱️ 01:18-02:32)
 
 ---
 
-## 4. Burcu Köksal’ın AK Parti’ye Katılımı
+## 4. Aile Yapısı Değişiyor Geçim Zorluyor
 
-- Afyon’da CHP’den seçilen Burcu Köksal AK Parti’ye katıldı.
-- Köksal’a törende rozet takıldı, görüntülerde taraflar mutluydu.
-- Geçiş haberi bazı programlarda kısa değinilerek kapatıldı hemen.
-- Köksal daha önce eleştirdiği isimleri şimdi desteklediğini söyledi.
-- Bu tutum değişimi muhalefet cephesinde güçlü tepkiler doğurdu.
-- Bazı yorumcular geçişi siyasi ilkesizlik tartışmasına bağladı kamuoyunda.
-- Parti değiştirmenin seçmen güvenini zedeleyebileceği görüşü öne çıktı.
-- Köksal’ın tercihi yerel siyasette dengeleri etkileyebilir yorumları yapıldı.
-- Olay sosyal medyada yoğun tartışma ve eleştirilere neden oldu.
-- Tartışmalar Türkiye’de sık görülen parti geçişlerini yeniden gündeme taşıdı.
+- TÜİK 2025 bülteni tek kişilik hanelerin hızla arttığını gösterdi.
+- 2015-2025 döneminde tek kişilik hane sayısı yüzde 77 yükseldi.
+- Bu artış, çekirdek aile oranının düşmesiyle birlikte değerlendiriliyor.
+- Uzmanlar bireyselleşmenin arttığını ve aile yapısının değiştiğini söylüyor.
+- Gençlerde ekonomik kaygılar ve gelecek umutsuzluğu etkili görülüyor.
+- Hükümetin Aile ve Nüfus 10 Yılı hedefi tartışmaya açıldı.
+- Sokaktaki yurttaşlar geçim baskısının aile hayatını zorladığını anlatıyor.
+- Emekli bir vatandaş 4.000 TL ikramiyeyi yetersiz buldu.
+- Emekli, insanların sadece basit ve sıradan yaşam istediğini belirtti.
+- Günlük küçük ihtiyaçlar ve aileyle huzur arayışı öne çıktı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=ByXkexI7dBA&t=3s) (⏱️ 00:03-00:27)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=nexjMELP8dM&t=1680s) (⏱️ 28:00-30:00)
+- [Hilal Koylu](https://www.youtube.com/watch?v=NbCXCXIxgFk&t=2151s) (⏱️ 35:51-39:26)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=bj4qOYPooHg&t=1140s) (⏱️ 19:00-21:00)
+
+---
+
+## 5. İsrail'e Tepkiler Avrupa'da Büyüyor
+
+- Eurovizyon'da İsrail'in katılımı Gazze saldırıları nedeniyle tartışma yarattı.
+- Yarışma boyunca İsrail'e karşı geniş çaplı protestolar düzenlendi.
+- Bazı ülkeler yarışmayı boykot etti veya yayınlamamayı tercih etti.
+- Siyasi gerilimler Eurovizyon'un evrensel ve barışçı kimliğini zorluyor.
+- İsrail'in savaşı bitirmesini istemediği iddiası gündeme taşındı.
+- Netanyahu'nun bazı Avrupa liderlerini tehdit eden sözleri aktarıldı.
+- İspanya Başbakanı Sánchez, İsrail'le ilişkiler gözden geçirilsin dedi.
+- AB Komisyonu Başkanı von der Leyen'in tutumu tartışmalara konu oldu.
+- Netanyahu'nun savaşın ilk günlerinde BAE'yi ziyaret ettiği iddia edildi.
+- BAE ziyareti yalanladı, İsrail'de tepki ve eleştiriler büyüdü.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Hilal Koylu](https://www.youtube.com/watch?v=NbCXCXIxgFk&t=2390s) (⏱️ 39:50-41:51)
+- [Murat Yetkin](https://www.youtube.com/watch?v=rlYB0GV78ls&t=749s) (⏱️ 12:29-14:29)
 
 ---
 
