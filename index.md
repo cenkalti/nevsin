@@ -1,113 +1,111 @@
 # Bugün Ne Oldu?
 
-*14 May 2026 tarihli günlük haber raporu - 5 haber birleştirildi*
+*15 May 2026 tarihli günlük haber raporu - 5 haber birleştirildi*
 
-## 1. CHP’ye baskı ve yargı gündemi
+## 1. CHP’ye Operasyonlar ve Sızıntı Krizi
 
-- Silivri’deki casusluk davasında tahliye çıkmadı, tutukluluklar sürdü.
-- Savcı, deliller toplanmadı diyerek tutukluluğun devamını istedi.
-- Sanıklar iddianamenin siyasi olduğunu söyleyip tahliye talep etti.
-- Mahkeme, MİT’ten rapor ve tespitleri yazıyla sormaya karar verdi.
-- El yazısı günlük ve notların akıbeti dosyada ayrıca araştırılacak.
-- Hüseyin Gün, etkin pişmanlıktan vazgeçip ifadesini geri çekti.
-- Bir sonraki duruşma 6 Temmuz’a bırakıldı, kararlar o tarihe sarktı.
-- Uşak’ta tutuklanan Özkan Yalımın ifadeleri CHP’ye uzandı iddiaları doğurdu.
-- Özgür Özel’e 1,2 milyon TL verildiği ve metinlerin değiştirildiği öne sürüldü.
-- İmamoğlu, Yavaş ve Özel ortak mesajla birlik vurgusu yaptı.
+- CHP, belediye operasyonları ve tutuklamalarla hukuki baskı altında.
+- Ankara il başkanı ve belediye bürokratları hakkında işlemler yürütüldü.
+- İstanbul kongresi ve kurultay davasında mahkeme tedbir kararı verdi.
+- Bazı yorumcular mutlak butlan iddiasının hukuki dayanağı olmadığını savundu.
+- Tepebaşı Belediyesi operasyonunda yaklaşık 30 kişi gözaltına alındı.
+- Üsküdar ve Eskişehir belediyelerine yönelik gözaltı haberleri paylaşıldı.
+- Özkan Yalım, mavi valizle para teslimi iddiasını dile getirdi.
+- Savcılık ifadenin etkin pişmanlık kapsamında alındığını açıkladı.
+- CHP, sızdırılan WhatsApp yazışmalarının sahte olabileceğini söyledi.
+- Erken seçim tartışmaları sürerken Özel seçim çağrısıyla iktidara yüklendi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=bj4qOYPooHg&t=1260s) (⏱️ 21:00-25:30)
-- [Serdar Akinan](https://www.youtube.com/watch?v=jS1S259Xpso&t=38s) (⏱️ 00:38-06:03)
-- [Hilal Koylu](https://www.youtube.com/watch?v=NbCXCXIxgFk&t=467s) (⏱️ 07:47-20:04)
-- [Murat Yetkin](https://www.youtube.com/watch?v=rlYB0GV78ls&t=163s) (⏱️ 02:43-05:13)
-- [Onlar TV](https://www.youtube.com/watch?v=zo6SnOE38wU&t=333s) (⏱️ 05:33-20:23)
-- [Inan Demirel](https://www.youtube.com/watch?v=KG6zjH9wNRQ&t=426s) (⏱️ 07:06-09:30)
-- [Rusen Cakir](https://www.youtube.com/watch?v=OiPEYeByiZ4&t=3s) (⏱️ 00:03-10:49)
-- [Unsal Unlu](https://www.youtube.com/watch?v=VVcz4owU2Mw&t=955s) (⏱️ 15:55-17:21)
+- [Rusen Cakir](https://www.youtube.com/watch?v=-Ls040ov2b8&t=1124s) (⏱️ 18:44-24:44)
+- [Murat Yetkin](https://www.youtube.com/watch?v=o0sBfLr6D1Y&t=331s) (⏱️ 05:31-11:02)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=vqPlMpOa1YE&t=3549s) (⏱️ 59:09-66:00)
+- [Hilal Koylu](https://www.youtube.com/watch?v=7_HLgce7DKA&t=77s) (⏱️ 01:17-18:40)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=xB2u1EpGwSc) (⏱️ 00:00-01:12)
+- [Unsal Unlu](https://www.youtube.com/watch?v=Ec6mTo8wesA&t=473s) (⏱️ 07:53-08:33)
 
 ---
 
-## 2. Trump Şi Zirvesinde Kritik Pazarlık
+## 2. Merkez Bankası enflasyon hedefini yükseltti
 
-- Trump, büyük iş ve teknoloji heyetiyle Pekin’e kritik ziyaret yaptı.
-- Uçakta birçok ABD’li CEO vardı, ticaret mesajı öne çıktı.
-- Zirvede teknoloji rekabeti, çipler, veri ve tedarik zinciri konuşuldu.
-- Tarifeler, elektrikli araç vergileri ve yatırım akışları gündemdeydi.
-- Tayvan gerilimi kritik başlık oldu; Çin adayı kendi toprağı sayıyor.
-- ABD’nin Tayvan’a silah satışı konusundaki çekinceler masaya geldi.
-- Şi, rakip değil ortak olalım dedi, Tukidides tuzağı uyardı.
-- Tukidides tuzağı, yükselen güçle hegemon geriliminin savaşa dönüşmesidir.
-- İran krizi ve Hürmüz Boğazı, görüşmelerin en kritik dosyasıydı.
-- Piyasalar ve petrol fiyatları zirveden belirgin biçimde etkilenmedi.
+- Merkez Bankası, enflasyon tahmin ve hedeflerinde yukarı yönlü revizyona gitti.
+- 2026 ara hedefi yüzde 16’dan yüzde 24’e yükseltildi.
+- 2027 ve 2028 ara hedeflerinde de artışlar duyuruldu.
+- Başkan Fatih Karahan, yıl sonu tahmininin yükseldiğini açıkladı.
+- Bazı açıklamalarda 2026 yıl sonu için yüzde 26 telaffuz edildi.
+- Kamu anketleri, enflasyon beklentisinin yüzde 29’a çıktığını gösteriyor.
+- Muhalefet ve ekonomistler, vergi adaleti ve dar gelirliyi gündeme taşıdı.
+- Bazı yorumcular hedefleri tutarsız bulup yasa görevini sorguladı.
+- Yabancı bankalar, faiz indirimi alanı kalmadığını, ertelemeler söylüyor.
+- Merkez Bankası belirsizlikte gıda, petrol, savaş ve iklimi vurguladı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=bj4qOYPooHg&t=2779s) (⏱️ 46:19-51:13)
-- [Hilal Koylu](https://www.youtube.com/watch?v=NbCXCXIxgFk&t=2610s) (⏱️ 43:30-45:02)
-- [Serdar Akinan](https://www.youtube.com/watch?v=jS1S259Xpso&t=363s) (⏱️ 06:03-23:27)
-- [Murat Yetkin](https://www.youtube.com/watch?v=rlYB0GV78ls&t=6s) (⏱️ 00:06-01:16)
+- [Unsal Unlu](https://www.youtube.com/watch?v=Ec6mTo8wesA&t=99s) (⏱️ 01:39-07:49)
+- [Murat Yetkin](https://www.youtube.com/watch?v=o0sBfLr6D1Y&t=3s) (⏱️ 00:03-04:13)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=vqPlMpOa1YE&t=1800s) (⏱️ 30:00-46:00)
+- [Hilal Koylu](https://www.youtube.com/watch?v=7_HLgce7DKA&t=1607s) (⏱️ 26:47-34:37)
 
 ---
 
-## 3. Gözaltı ve Tutuklama Soruşturmaları
+## 3. Medya ve yargı tartışmaları büyüyor
 
-- Rasim Ozan Kütahyalı, yasa dışı bahis soruşturmasında gözaltına alındı.
-- Soruşturma Adana merkezli yürütülüyor ve 21 ili kapsıyor.
-- Operasyonda yaklaşık 200 şüphelinin gözaltına alındığı bildirildi.
-- Gözaltındakiler arasında banka yöneticileri, polis memurları ve avukatlar var.
-- İddialar, 100 milyar lira düzeyinde kara para aklamayı içeriyor.
-- Yasa dışı bahis para akışının 2 milyar dolar olduğu öne sürüldü.
-- Savcıların Kütahyalı’nın para trafiğini sorguladığı haberleştirildi.
-- Yorumlarda Kütahyalı’nın iktidara yakınlığı nedeniyle gözaltı dikkat çekti.
-- Ayrı bir olayda futbolcu Torreira’ya sokakta yumruklu saldırı yapıldı.
-- Saldırgan Yusuf Yıldırım tutuklandı; takıntılı takip geçmişi vurgulandı.
+- Casus davası hem salonda hem medyada yoğun tartışma yarattı.
+- Etkin pişman Hüseyin Gün, ilk ifadede casusluğu reddetti.
+- Savcı deliller tamamlanmadı dedi, mahkeme tutukluluğu sürdürdü.
+- İddialarla eylemler arasında somut bilgi ve kanıt bulunmadığı savunuldu.
+- Tele1’e el koyma ve satış süreci, geri dönüş zorluğuyla konuşuldu.
+- Yorumcular, süreçlerin hukuki değil siyasi saiklerle yürüdüğünü vurguladı.
+- Davanın yargılamasının Temmuz ayında devam edeceği bilgisi paylaşıldı.
+- Halk TV’den deneyimli isimler istifa etti, çalışma koşulları eleştirildi.
+- Gazeteciler, iş bulma zorluğu ve hak kaybı riski yaşadı.
+- Bülent Şık’a 50 bin TL tazminat verildi, Testo Taylan tahliye oldu.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=zzpeUsQTqTo) (⏱️ 00:00-10:46)
-- [Inan Demirel](https://www.youtube.com/watch?v=KG6zjH9wNRQ&t=69s) (⏱️ 01:09-07:06)
-- [Murat Yetkin](https://www.youtube.com/watch?v=rlYB0GV78ls&t=78s) (⏱️ 01:18-02:32)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=vqPlMpOa1YE&t=3960s) (⏱️ 66:00-67:25)
+- [Unsal Unlu](https://www.youtube.com/watch?v=Ec6mTo8wesA&t=1114s) (⏱️ 18:34-19:28)
+- [Rusen Cakir](https://www.youtube.com/watch?v=D6UgtqmQeUM&t=95s) (⏱️ 01:35-05:08)
 
 ---
 
-## 4. Aile Yapısı Değişiyor Geçim Zorluyor
+## 4. Taciz ve Gülistan Doku soruşturmaları
 
-- TÜİK 2025 bülteni tek kişilik hanelerin hızla arttığını gösterdi.
-- 2015-2025 döneminde tek kişilik hane sayısı yüzde 77 yükseldi.
-- Bu artış, çekirdek aile oranının düşmesiyle birlikte değerlendiriliyor.
-- Uzmanlar bireyselleşmenin arttığını ve aile yapısının değiştiğini söylüyor.
-- Gençlerde ekonomik kaygılar ve gelecek umutsuzluğu etkili görülüyor.
-- Hükümetin Aile ve Nüfus 10 Yılı hedefi tartışmaya açıldı.
-- Sokaktaki yurttaşlar geçim baskısının aile hayatını zorladığını anlatıyor.
-- Emekli bir vatandaş 4.000 TL ikramiyeyi yetersiz buldu.
-- Emekli, insanların sadece basit ve sıradan yaşam istediğini belirtti.
-- Günlük küçük ihtiyaçlar ve aileyle huzur arayışı öne çıktı.
+- Kastamonu İlahiyat Fakültesi’nde cinsel taciz iddiası gündeme geldi.
+- Araştırma görevlisi Ali D.’nin bir erkek öğrenciyi taciz ettiği öne sürüldü.
+- Öğrenci kaçarken pencereden atladı, ağır yaralı hastaneye kaldırıldı.
+- Şüpheli, fotoğraf ve videoları aileye göndermekle tehdit etti.
+- Ali D. tutuklandı ve cezaevine gönderildi, soruşturma sürüyor.
+- Gülistan Doku altı yıl önce kayboldu, dosya yeniden tartışılıyor.
+- Aile ve savcılık, Gülistan’ın öldürülmüş olabileceğini düşünüyor.
+- Cenazenin bulunamaması, organize örtbas şüphesini güçlendirdi kamuoyunda.
+- İddialarda valinin oğlu ve bazı kamu görevlileri geçiyor.
+- Milletvekili Mustafa Adıgüzel, kapsamlı soruşturma ve şeffaflık çağrısı yaptı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilal Koylu](https://www.youtube.com/watch?v=NbCXCXIxgFk&t=2151s) (⏱️ 35:51-39:26)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=bj4qOYPooHg&t=1140s) (⏱️ 19:00-21:00)
+- [Hilal Koylu](https://www.youtube.com/watch?v=7_HLgce7DKA&t=2080s) (⏱️ 34:40-37:43)
+- [Onlar TV](https://www.youtube.com/watch?v=8iOxloRSwtc) (⏱️ 00:00-00:31)
 
 ---
 
-## 5. İsrail'e Tepkiler Avrupa'da Büyüyor
+## 5. Adana Merkezli Bahis Operasyonunda Gözaltılar
 
-- Eurovizyon'da İsrail'in katılımı Gazze saldırıları nedeniyle tartışma yarattı.
-- Yarışma boyunca İsrail'e karşı geniş çaplı protestolar düzenlendi.
-- Bazı ülkeler yarışmayı boykot etti veya yayınlamamayı tercih etti.
-- Siyasi gerilimler Eurovizyon'un evrensel ve barışçı kimliğini zorluyor.
-- İsrail'in savaşı bitirmesini istemediği iddiası gündeme taşındı.
-- Netanyahu'nun bazı Avrupa liderlerini tehdit eden sözleri aktarıldı.
-- İspanya Başbakanı Sánchez, İsrail'le ilişkiler gözden geçirilsin dedi.
-- AB Komisyonu Başkanı von der Leyen'in tutumu tartışmalara konu oldu.
-- Netanyahu'nun savaşın ilk günlerinde BAE'yi ziyaret ettiği iddia edildi.
-- BAE ziyareti yalanladı, İsrail'de tepki ve eleştiriler büyüdü.
+- Adana merkezli yasa dışı bahis operasyonu 21 ilde yürütüldü.
+- Yaklaşık 198-200 şüpheli gözaltına alındı, soruşturma sürüyor.
+- Suçlamalar bahis, nitelikli dolandırıcılık, rüşvet, kara para aklama.
+- Soruşturmayı Adana Cumhuriyet Başsavcılığı, MASAK ile birlikte koordine etti.
+- Hazine-Maliye ve İçişleri bakanlıkları da sürece dahil edildi.
+- MASAK, çok büyük suç gelirleri tespit edildiğini bildirdi.
+- Operasyonda bankacılar, avukatlar, polisler, kuyumcular da gözaltında.
+- Ödeme kuruluşları ve bazı döviz büroları soruşturmaya dahil edildi.
+- 221 taşınmaz, 120 araç, 3 tekneye el koyma kararı alındı.
+- Rasim Ozan Kütahyalı İstanbul’dan gözaltına alınıp Adana’ya sevk edildi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilal Koylu](https://www.youtube.com/watch?v=NbCXCXIxgFk&t=2390s) (⏱️ 39:50-41:51)
-- [Murat Yetkin](https://www.youtube.com/watch?v=rlYB0GV78ls&t=749s) (⏱️ 12:29-14:29)
+- [Hilal Koylu](https://www.youtube.com/watch?v=7_HLgce7DKA&t=1347s) (⏱️ 22:27-26:47)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=vqPlMpOa1YE&t=2831s) (⏱️ 47:11-59:00)
 
 ---
 
