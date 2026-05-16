@@ -1,111 +1,106 @@
 # Bugün Ne Oldu?
 
-*15 May 2026 tarihli günlük haber raporu - 5 haber birleştirildi*
+*16 May 2026 tarihli günlük haber raporu - 5 haber birleştirildi*
 
-## 1. CHP’ye Operasyonlar ve Sızıntı Krizi
+## 1. CHP’ye Yönelik Yargı ve Baskı İddiaları
 
-- CHP, belediye operasyonları ve tutuklamalarla hukuki baskı altında.
-- Ankara il başkanı ve belediye bürokratları hakkında işlemler yürütüldü.
-- İstanbul kongresi ve kurultay davasında mahkeme tedbir kararı verdi.
-- Bazı yorumcular mutlak butlan iddiasının hukuki dayanağı olmadığını savundu.
-- Tepebaşı Belediyesi operasyonunda yaklaşık 30 kişi gözaltına alındı.
-- Üsküdar ve Eskişehir belediyelerine yönelik gözaltı haberleri paylaşıldı.
-- Özkan Yalım, mavi valizle para teslimi iddiasını dile getirdi.
-- Savcılık ifadenin etkin pişmanlık kapsamında alındığını açıkladı.
-- CHP, sızdırılan WhatsApp yazışmalarının sahte olabileceğini söyledi.
-- Erken seçim tartışmaları sürerken Özel seçim çağrısıyla iktidara yüklendi.
+- Yargı süreçleri ve medya dili CHP’ye yönelik baskı iddialarını büyütüyor.
+- İBB dosyalarında etkin pişmanlık, gizli tanık ve şablon ifade eleştirileri öne çıkıyor.
+- Özgür Özel’e yönelik mavi valiz benzeri karalama kampanyaları tartışma yaratıyor.
+- İktidarın CHP’ye topyekün savaş stratejisi yürüttüğü ileri sürülüyor.
+- Stratejinin içeriden birini hedefleyip diğerlerini yıldırmaya dayandığı savunuluyor.
+- İBB casusluk davasında üç sanık 10-20 yıl hapisle yargılanıyor.
+- Dosyadaki verinin 17 çalışanın e-posta şifreleri olduğu belirtiliyor.
+- Bilirkişi verilerin yıllar önce internette dolaştığını tespit etti.
+- Tepebaşı Belediyesi operasyonunda 60 kişi için gözaltı kararı verildi.
+- Belediyelerde doğrudan temin ve denetimsizlik usulsüzlük riskini artırıyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=-Ls040ov2b8&t=1124s) (⏱️ 18:44-24:44)
-- [Murat Yetkin](https://www.youtube.com/watch?v=o0sBfLr6D1Y&t=331s) (⏱️ 05:31-11:02)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=vqPlMpOa1YE&t=3549s) (⏱️ 59:09-66:00)
-- [Hilal Koylu](https://www.youtube.com/watch?v=7_HLgce7DKA&t=77s) (⏱️ 01:17-18:40)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=xB2u1EpGwSc) (⏱️ 00:00-01:12)
-- [Unsal Unlu](https://www.youtube.com/watch?v=Ec6mTo8wesA&t=473s) (⏱️ 07:53-08:33)
+- [Rusen Cakir](https://www.youtube.com/watch?v=mxqBtV-8M54&t=324s) (⏱️ 05:24-07:28)
+- [Onlar TV](https://www.youtube.com/watch?v=PUmGg13FNGU&t=2773s) (⏱️ 46:13-81:59)
+- [Serdar Akinan](https://www.youtube.com/watch?v=WRKsZ4FcuKY&t=673s) (⏱️ 11:13-21:24)
 
 ---
 
-## 2. Merkez Bankası enflasyon hedefini yükseltti
+## 2. Yasa Dışı Bahis Ağı Soruşturması
 
-- Merkez Bankası, enflasyon tahmin ve hedeflerinde yukarı yönlü revizyona gitti.
-- 2026 ara hedefi yüzde 16’dan yüzde 24’e yükseltildi.
-- 2027 ve 2028 ara hedeflerinde de artışlar duyuruldu.
-- Başkan Fatih Karahan, yıl sonu tahmininin yükseldiğini açıkladı.
-- Bazı açıklamalarda 2026 yıl sonu için yüzde 26 telaffuz edildi.
-- Kamu anketleri, enflasyon beklentisinin yüzde 29’a çıktığını gösteriyor.
-- Muhalefet ve ekonomistler, vergi adaleti ve dar gelirliyi gündeme taşıdı.
-- Bazı yorumcular hedefleri tutarsız bulup yasa görevini sorguladı.
-- Yabancı bankalar, faiz indirimi alanı kalmadığını, ertelemeler söylüyor.
-- Merkez Bankası belirsizlikte gıda, petrol, savaş ve iklimi vurguladı.
+- Adana merkezli geniş bir yasa dışı bahis operasyonu yürütüldü.
+- Soruşturmada çok sayıda şüpheli ve yoğun para trafiği tespit edildi.
+- MASAK raporlarıyla kasa hesap sistemi ve aklama yöntemleri anlatıldı.
+- Paravan şirketler, sanal POS ve ödeme kuruluşları üzerinden transferler yapıldı.
+- Bazı ödeme kuruluşlarının ağla bağlantısı iddiaları tartışma yarattı.
+- Paranın kriptoya çevrilip yurt dışına çıkarıldığı yöntemler aktarıldı.
+- Operasyonda 11 kasa hesap, taşınmazlar ve araçlara el konuldu.
+- Rasim Ozan Kütahyalı hakkında 2022-2024 para transferi iddiaları öne çıktı.
+- Kütahyalı’nın gözaltı görüntüleri yayımlandı, medya-iktidar ilişkileri tartışıldı.
+- Bazı gazetecilerin tutukluluğu ve yargılama yeri tartışmaları gündemde.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=Ec6mTo8wesA&t=99s) (⏱️ 01:39-07:49)
-- [Murat Yetkin](https://www.youtube.com/watch?v=o0sBfLr6D1Y&t=3s) (⏱️ 00:03-04:13)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=vqPlMpOa1YE&t=1800s) (⏱️ 30:00-46:00)
-- [Hilal Koylu](https://www.youtube.com/watch?v=7_HLgce7DKA&t=1607s) (⏱️ 26:47-34:37)
+- [Onlar TV](https://www.youtube.com/watch?v=PUmGg13FNGU&t=127s) (⏱️ 02:07-34:48)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=Q4eUSc1SdiQ&t=276s) (⏱️ 04:36-20:41)
+- [Serdar Akinan](https://www.youtube.com/watch?v=WRKsZ4FcuKY) (⏱️ 00:00-11:12)
 
 ---
 
-## 3. Medya ve yargı tartışmaları büyüyor
+## 3. Siyasette seçim ve CHP tartışmaları
 
-- Casus davası hem salonda hem medyada yoğun tartışma yarattı.
-- Etkin pişman Hüseyin Gün, ilk ifadede casusluğu reddetti.
-- Savcı deliller tamamlanmadı dedi, mahkeme tutukluluğu sürdürdü.
-- İddialarla eylemler arasında somut bilgi ve kanıt bulunmadığı savunuldu.
-- Tele1’e el koyma ve satış süreci, geri dönüş zorluğuyla konuşuldu.
-- Yorumcular, süreçlerin hukuki değil siyasi saiklerle yürüdüğünü vurguladı.
-- Davanın yargılamasının Temmuz ayında devam edeceği bilgisi paylaşıldı.
-- Halk TV’den deneyimli isimler istifa etti, çalışma koşulları eleştirildi.
-- Gazeteciler, iş bulma zorluğu ve hak kaybı riski yaşadı.
-- Bülent Şık’a 50 bin TL tazminat verildi, Testo Taylan tahliye oldu.
+- CHP içinde liderlik ve atama söylentileri yaz gündemini belirliyor.
+- Kulislerde olası atamalar konuşuluyor, ekonomiye etkisi tartışma yaratıyor.
+- Özgür Özel için dokunulmazlığın kalkması gibi senaryolar dillendiriliyor.
+- Kurultay sonrası üçlü fotoğrafın siyasi mesajı kamuoyunda tartışılıyor.
+- Özel, İmamoğlu ve Yavaş dengesi partinin stratejisini etkiliyor.
+- Yavaş'ın daha net duruş sergilememesi hareketi zayıflatıyor eleştirisi var.
+- Sonar Nisan anketinde ekonomi algısı belirgin biçimde olumsuz çıkıyor.
+- AK Parti ile CHP yakın, kararsız seçmen oranı çok yüksek.
+- Seçim zamanlaması ekonomi kararları ve dış ilişkilerle bağlantılı değerlendiriliyor.
+- Siyasi kampanyalarda şarkılar kullanılıyor, telif nedeniyle sınırlı yayın yapılıyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=vqPlMpOa1YE&t=3960s) (⏱️ 66:00-67:25)
-- [Unsal Unlu](https://www.youtube.com/watch?v=Ec6mTo8wesA&t=1114s) (⏱️ 18:34-19:28)
-- [Rusen Cakir](https://www.youtube.com/watch?v=D6UgtqmQeUM&t=95s) (⏱️ 01:35-05:08)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=Q4eUSc1SdiQ&t=1608s) (⏱️ 26:48-35:48)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=4gSudIN6iC8&t=57s) (⏱️ 00:57-02:07)
 
 ---
 
-## 4. Taciz ve Gülistan Doku soruşturmaları
+## 4. Sosyal Medyada Siyasi ve Cinsiyetçi Tartışma
 
-- Kastamonu İlahiyat Fakültesi’nde cinsel taciz iddiası gündeme geldi.
-- Araştırma görevlisi Ali D.’nin bir erkek öğrenciyi taciz ettiği öne sürüldü.
-- Öğrenci kaçarken pencereden atladı, ağır yaralı hastaneye kaldırıldı.
-- Şüpheli, fotoğraf ve videoları aileye göndermekle tehdit etti.
-- Ali D. tutuklandı ve cezaevine gönderildi, soruşturma sürüyor.
-- Gülistan Doku altı yıl önce kayboldu, dosya yeniden tartışılıyor.
-- Aile ve savcılık, Gülistan’ın öldürülmüş olabileceğini düşünüyor.
-- Cenazenin bulunamaması, organize örtbas şüphesini güçlendirdi kamuoyunda.
-- İddialarda valinin oğlu ve bazı kamu görevlileri geçiyor.
-- Milletvekili Mustafa Adıgüzel, kapsamlı soruşturma ve şeffaflık çağrısı yaptı.
+- Mehmet Sevigen’in TGT’deki CHP eleştirileri sosyal medyada gündem oldu.
+- Konuşmalarındaki sert ve alaycı üslup tepki ve tartışma yarattı.
+- Programda parti içi farklı görüşler ve geçmişe dönük eleştiriler konuşuldu.
+- Ayrı bir gündemde sosyal medyada cinsiyetçi, şeriat yanlısı videolar yayıldı.
+- Bu videoları paylaşanın Mehmet Gübercin olduğu iddia edildi.
+- Gübercin’in Menzil bağlantılı olabileceği iddiası sosyal medyada tartışıldı.
+- Konuşmacılar, algoritmaların bu kışkırtıcı içerikleri hızla yaydığını söyledi.
+- Ekonomik ve sosyal sorunlar sürerken bu videoların toplumu gerdiği belirtildi.
+- TÜİK verileri kadınların işgücüne katılımının düşük kaldığını gösteriyor.
+- Kadına şiddet verileri, kadınların hak ve çalışma alanlarının hedeflendiğini anlatıyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilal Koylu](https://www.youtube.com/watch?v=7_HLgce7DKA&t=2080s) (⏱️ 34:40-37:43)
-- [Onlar TV](https://www.youtube.com/watch?v=8iOxloRSwtc) (⏱️ 00:00-00:31)
+- [Serdar Akinan](https://www.youtube.com/watch?v=WRKsZ4FcuKY&t=1508s) (⏱️ 25:08-28:52)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=4gSudIN6iC8&t=709s) (⏱️ 11:49-16:06)
 
 ---
 
-## 5. Adana Merkezli Bahis Operasyonunda Gözaltılar
+## 5. Aydın’da TED Koleji Silah İddiası
 
-- Adana merkezli yasa dışı bahis operasyonu 21 ilde yürütüldü.
-- Yaklaşık 198-200 şüpheli gözaltına alındı, soruşturma sürüyor.
-- Suçlamalar bahis, nitelikli dolandırıcılık, rüşvet, kara para aklama.
-- Soruşturmayı Adana Cumhuriyet Başsavcılığı, MASAK ile birlikte koordine etti.
-- Hazine-Maliye ve İçişleri bakanlıkları da sürece dahil edildi.
-- MASAK, çok büyük suç gelirleri tespit edildiğini bildirdi.
-- Operasyonda bankacılar, avukatlar, polisler, kuyumcular da gözaltında.
-- Ödeme kuruluşları ve bazı döviz büroları soruşturmaya dahil edildi.
-- 221 taşınmaz, 120 araç, 3 tekneye el koyma kararı alındı.
-- Rasim Ozan Kütahyalı İstanbul’dan gözaltına alınıp Adana’ya sevk edildi.
+- Aydın’da TED Koleji’nde bir milletvekili oğluna silah iddiası.
+- İddiaya göre 12. sınıf öğrenci okula silahla geldi.
+- Öğrencinin arkadaşlarına silah doğrultup fotoğraf çektirdiği öne sürüldü.
+- İddiaları haberleştiren Aydınpost yöneticisi Yeliz Aras gözaltına alındı.
+- Gazeteci Yeliz Ayas hakkında da ayrı soruşturma başlatıldığı aktarıldı.
+- Başka bir yerel gazeteci Emin Bey de gözaltına alındı.
+- Gazetecilere suçlama olarak halkı yanıltıcı bilgi yaymak gösterildi.
+- Veliler ve öğrenciler CİMER üzerinden şikayet başvuruları yaptı.
+- Dört öğrenci beyanı ve CİMER şikayetleri savcılığa sunuldu.
+- İl Milli Eğitim’in önce ihbar yok dediği iddia edildi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilal Koylu](https://www.youtube.com/watch?v=7_HLgce7DKA&t=1347s) (⏱️ 22:27-26:47)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=vqPlMpOa1YE&t=2831s) (⏱️ 47:11-59:00)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=4gSudIN6iC8&t=967s) (⏱️ 16:07-18:21)
+- [Onlar TV](https://www.youtube.com/watch?v=PUmGg13FNGU&t=2089s) (⏱️ 34:49-46:10)
 
 ---
 
