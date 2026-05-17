@@ -1,106 +1,107 @@
 # Bugün Ne Oldu?
 
-*16 May 2026 tarihli günlük haber raporu - 5 haber birleştirildi*
+*17 May 2026 tarihli günlük haber raporu - 5 haber birleştirildi*
 
-## 1. CHP’ye Yönelik Yargı ve Baskı İddiaları
+## 1. İBB Soruşturmaları ve Siyasi Yankıları
 
-- Yargı süreçleri ve medya dili CHP’ye yönelik baskı iddialarını büyütüyor.
-- İBB dosyalarında etkin pişmanlık, gizli tanık ve şablon ifade eleştirileri öne çıkıyor.
-- Özgür Özel’e yönelik mavi valiz benzeri karalama kampanyaları tartışma yaratıyor.
-- İktidarın CHP’ye topyekün savaş stratejisi yürüttüğü ileri sürülüyor.
-- Stratejinin içeriden birini hedefleyip diğerlerini yıldırmaya dayandığı savunuluyor.
-- İBB casusluk davasında üç sanık 10-20 yıl hapisle yargılanıyor.
-- Dosyadaki verinin 17 çalışanın e-posta şifreleri olduğu belirtiliyor.
-- Bilirkişi verilerin yıllar önce internette dolaştığını tespit etti.
-- Tepebaşı Belediyesi operasyonunda 60 kişi için gözaltı kararı verildi.
-- Belediyelerde doğrudan temin ve denetimsizlik usulsüzlük riskini artırıyor.
+- İBB eksenli davalar ve operasyonlar siyasette tansiyonu yükseltti.
+- Casusluk dosyasında İmamoğlu, Özkan ve Yanardağ hedefte görünüyor.
+- Ana şüpheli Hüseyin Gün, devlet görevlisi olduğunu öne sürüyor.
+- Bilirkişi raporu, dark web iddiasının açık kaynaklara dayandığını yazdı.
+- İmamoğlu iddianameyi absürt buldu, seçmen iradesi yargılanıyor dedi.
+- Etkin pişmanlık tartışmaları, Kapki’nin ifadesini geri çekmesiyle büyüdü.
+- İBB birimlerine operasyonlarda 12 kişi gözaltına alındı, yeni iddialar konuşuldu.
+- TCMB, operasyonun döviz talebi şokunu savaş etkisine benzetti.
+- Aziz İhsan Aktaş dosyasında tahliyeler sürüyor, karar duruşması 15 Haziran.
+- Kütahyalı, yasa dışı bahis ve kara para soruşturmasında gözaltında.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=mxqBtV-8M54&t=324s) (⏱️ 05:24-07:28)
-- [Onlar TV](https://www.youtube.com/watch?v=PUmGg13FNGU&t=2773s) (⏱️ 46:13-81:59)
-- [Serdar Akinan](https://www.youtube.com/watch?v=WRKsZ4FcuKY&t=673s) (⏱️ 11:13-21:24)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=cSy8sRXtjXs) (⏱️ 00:00-05:10)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=aJYlDVKgxho&t=2432s) (⏱️ 40:32-40:42)
+- [Hilal Koylu](https://www.youtube.com/watch?v=LOxv61SsHuU&t=119s) (⏱️ 01:59-24:55)
+- [Inan Demirel](https://www.youtube.com/watch?v=Qsfe1CIfA2g&t=630s) (⏱️ 10:30-14:25)
 
 ---
 
-## 2. Yasa Dışı Bahis Ağı Soruşturması
+## 2. Siyasette seçim takvimi ve kulisler
 
-- Adana merkezli geniş bir yasa dışı bahis operasyonu yürütüldü.
-- Soruşturmada çok sayıda şüpheli ve yoğun para trafiği tespit edildi.
-- MASAK raporlarıyla kasa hesap sistemi ve aklama yöntemleri anlatıldı.
-- Paravan şirketler, sanal POS ve ödeme kuruluşları üzerinden transferler yapıldı.
-- Bazı ödeme kuruluşlarının ağla bağlantısı iddiaları tartışma yarattı.
-- Paranın kriptoya çevrilip yurt dışına çıkarıldığı yöntemler aktarıldı.
-- Operasyonda 11 kasa hesap, taşınmazlar ve araçlara el konuldu.
-- Rasim Ozan Kütahyalı hakkında 2022-2024 para transferi iddiaları öne çıktı.
-- Kütahyalı’nın gözaltı görüntüleri yayımlandı, medya-iktidar ilişkileri tartışıldı.
-- Bazı gazetecilerin tutukluluğu ve yargılama yeri tartışmaları gündemde.
+- Türkiye seçim atmosferine girdi, ancak kesin seçim tarihi açıklanmadı.
+- Olası seçim dönemi olarak 2027’nin ikinci yarısı kulislerde konuşuluyor.
+- Ekonomi ve hayat pahalılığı seçmen kaygılarını ve baskıyı artırıyor.
+- Anketler iktidar açısından parlak görünmüyor, desteklerde dalgalanma sürüyor.
+- CHP içinde tartışmalar ve partiye yönelik iddialar gündemde kaldı.
+- Temmuz’daki NATO zirvesi sonrası önemli siyasi adımlar planlandığı öne sürüldü.
+- Hukuki kararların zirve sonrasına koz olarak bırakılabileceği tartışıldı.
+- Bahçeli’nin grup toplantısını yapmaması, MHP içinde gerilim iddialarını artırdı.
+- PKK içinde bölünme ve Demirtaş sürecinin yavaşlığı değerlendirildi.
+- Koç grubunun Ankara temasları ve sanayi varlıklarının satışı endişe yarattı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Onlar TV](https://www.youtube.com/watch?v=PUmGg13FNGU&t=127s) (⏱️ 02:07-34:48)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=Q4eUSc1SdiQ&t=276s) (⏱️ 04:36-20:41)
-- [Serdar Akinan](https://www.youtube.com/watch?v=WRKsZ4FcuKY) (⏱️ 00:00-11:12)
+- [Inan Demirel](https://www.youtube.com/watch?v=Qsfe1CIfA2g&t=865s) (⏱️ 14:25-17:00)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=c15YSHRlb7M&t=760s) (⏱️ 12:40-15:57)
+- [Hilal Koylu](https://www.youtube.com/watch?v=LOxv61SsHuU&t=2649s) (⏱️ 44:09-45:47)
 
 ---
 
-## 3. Siyasette seçim ve CHP tartışmaları
+## 3. Cemaatler, siyasal din ve sekülerleşme
 
-- CHP içinde liderlik ve atama söylentileri yaz gündemini belirliyor.
-- Kulislerde olası atamalar konuşuluyor, ekonomiye etkisi tartışma yaratıyor.
-- Özgür Özel için dokunulmazlığın kalkması gibi senaryolar dillendiriliyor.
-- Kurultay sonrası üçlü fotoğrafın siyasi mesajı kamuoyunda tartışılıyor.
-- Özel, İmamoğlu ve Yavaş dengesi partinin stratejisini etkiliyor.
-- Yavaş'ın daha net duruş sergilememesi hareketi zayıflatıyor eleştirisi var.
-- Sonar Nisan anketinde ekonomi algısı belirgin biçimde olumsuz çıkıyor.
-- AK Parti ile CHP yakın, kararsız seçmen oranı çok yüksek.
-- Seçim zamanlaması ekonomi kararları ve dış ilişkilerle bağlantılı değerlendiriliyor.
-- Siyasi kampanyalarda şarkılar kullanılıyor, telif nedeniyle sınırlı yayın yapılıyor.
+- Boğaziçi’nde öğrenciler cemaatler, gazetecilik ve siyaseti tartıştı birlikte.
+- Süleymancılar ve Menzil gibi grupların güncel dönüşümü sorgulandı.
+- Cemaatler güçlü görünse de içeride kırılgan ve bölünmüş.
+- Lider ölümü sonrası kavga çoğunlukla güç paylaşımı kaynaklı.
+- 1985 sonrası cemaatler anlam ve dayanışma sağlayan ağlardı.
+- İktidara yakınlaşınca kazanç, kadro ve güç koruma öne çıktı.
+- Fethullahçılığın tasfiyesi dengeleri değiştirdi, toplumsal temkin büyüdü.
+- Birçok cemaat şirketleşiyor, dijital araçları kullananlar avantaj sağlıyor.
+- Konuşmalarda kurumsal-siyasal dinin kutuplaştırdığı ve yıprattığı vurgulandı.
+- Sekülerleşme eğilimi artabilir; ritüeller sürer, siyasal din zayıflar.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=Q4eUSc1SdiQ&t=1608s) (⏱️ 26:48-35:48)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=4gSudIN6iC8&t=57s) (⏱️ 00:57-02:07)
+- [Rusen Cakir](https://www.youtube.com/watch?v=1delNTwUXLY&t=7s) (⏱️ 00:07-10:58)
+- [Inan Demirel](https://www.youtube.com/watch?v=MHUcB6ivF-g&t=3811s) (⏱️ 63:31-66:45)
 
 ---
 
-## 4. Sosyal Medyada Siyasi ve Cinsiyetçi Tartışma
+## 4. Türk sinema ve dizilerinde dönüşüm
 
-- Mehmet Sevigen’in TGT’deki CHP eleştirileri sosyal medyada gündem oldu.
-- Konuşmalarındaki sert ve alaycı üslup tepki ve tartışma yarattı.
-- Programda parti içi farklı görüşler ve geçmişe dönük eleştiriler konuşuldu.
-- Ayrı bir gündemde sosyal medyada cinsiyetçi, şeriat yanlısı videolar yayıldı.
-- Bu videoları paylaşanın Mehmet Gübercin olduğu iddia edildi.
-- Gübercin’in Menzil bağlantılı olabileceği iddiası sosyal medyada tartışıldı.
-- Konuşmacılar, algoritmaların bu kışkırtıcı içerikleri hızla yaydığını söyledi.
-- Ekonomik ve sosyal sorunlar sürerken bu videoların toplumu gerdiği belirtildi.
-- TÜİK verileri kadınların işgücüne katılımının düşük kaldığını gösteriyor.
-- Kadına şiddet verileri, kadınların hak ve çalışma alanlarının hedeflendiğini anlatıyor.
+- Kadir İnanır’ın sağlık sorunları nedeniyle destek ve dua çağrısı yapıldı.
+- Aytaç Arman’ın Türk sinemasındaki uzun kariyeri yeniden hatırlatıldı.
+- Arman, 1970’lerden itibaren farklı türlerde birçok filmde oynadı.
+- Süreyya Duru, Zeki Ökten ve Ömer Kavur’la önemli işler yaptı.
+- Güneşli Bataklık ve Kara Çarşaflı Gelin filmleri anıldı.
+- Aytaç Arman mütevazı yaşadı; Adanalı kimliği özellikle vurgulandı.
+- Arman 2019’da 69 yaşında öldü, Adana’ya defnedildi.
+- Son yıllarda Aytaç Arman daha çok televizyon dizilerinde yer aldı.
+- Dizi sektöründe reklam gelirleri maliyetleri karşılamıyor, kriz büyüyor.
+- Başrol ücretleri artarken, yeni yazar ve küçük yapımlar zorlanıyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Serdar Akinan](https://www.youtube.com/watch?v=WRKsZ4FcuKY&t=1508s) (⏱️ 25:08-28:52)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=4gSudIN6iC8&t=709s) (⏱️ 11:49-16:06)
+- [Rusen Cakir](https://www.youtube.com/watch?v=1delNTwUXLY&t=659s) (⏱️ 10:59-14:45)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=aJYlDVKgxho&t=1429s) (⏱️ 23:49-34:56)
 
 ---
 
-## 5. Aydın’da TED Koleji Silah İddiası
+## 5. Hayat Pahalılığı ve Sığınmacı Tartışması
 
-- Aydın’da TED Koleji’nde bir milletvekili oğluna silah iddiası.
-- İddiaya göre 12. sınıf öğrenci okula silahla geldi.
-- Öğrencinin arkadaşlarına silah doğrultup fotoğraf çektirdiği öne sürüldü.
-- İddiaları haberleştiren Aydınpost yöneticisi Yeliz Aras gözaltına alındı.
-- Gazeteci Yeliz Ayas hakkında da ayrı soruşturma başlatıldığı aktarıldı.
-- Başka bir yerel gazeteci Emin Bey de gözaltına alındı.
-- Gazetecilere suçlama olarak halkı yanıltıcı bilgi yaymak gösterildi.
-- Veliler ve öğrenciler CİMER üzerinden şikayet başvuruları yaptı.
-- Dört öğrenci beyanı ve CİMER şikayetleri savcılığa sunuldu.
-- İl Milli Eğitim’in önce ihbar yok dediği iddia edildi.
+- Sözcü, Erdoğan’ın 2004’te gittiği pazar tezgâhını buldu.
+- Aynı ürünlerin fiyatı 27,5 TL’den 1.455 TL’ye çıktı.
+- Haber, bu artış üzerinden ekonomideki bozulmaya dikkat çekti.
+- Gazete, Erdoğan’ın pazara o dönemde bir kez gittiğini yazdı.
+- Sunucu, bu tek ziyaret iddiasını sorgulayarak tartışmayı büyüttü.
+- İngiliz gazeteci Lizzy Porter, Londra ve İstanbul fiyatlarını karşılaştırdı.
+- 19 ürünlük sepet Londra’da 44,5 sterlin, İstanbul’da 72 sterlin.
+- Kıyma fiyatı İstanbul’da, Londra’nın yaklaşık iki katı çıktı.
+- Karşılaştırmalar, Türkiye’de hayat pahalılığı ve refah farkını vurguladı.
+- Ayrıca AB’nin Türkiye’de sığınmacı maliyetine 511 milyon euro desteği iddiası konuşuldu.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=4gSudIN6iC8&t=967s) (⏱️ 16:07-18:21)
-- [Onlar TV](https://www.youtube.com/watch?v=PUmGg13FNGU&t=2089s) (⏱️ 34:49-46:10)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=cSy8sRXtjXs&t=617s) (⏱️ 10:17-10:25)
+- [Inan Demirel](https://www.youtube.com/watch?v=Qsfe1CIfA2g&t=15s) (⏱️ 00:15-02:25)
 
 ---
 
