@@ -1,88 +1,71 @@
 # Bugün Ne Oldu?
 
-*2 June 2026 tarihli günlük haber raporu - 4 haber birleştirildi*
+*3 June 2026 tarihli günlük haber raporu - 3 haber birleştirildi*
 
-## 1. CHP’de Kurultay ve Grup Toplantısı
+## 1. CHP’de kurultay ve yargı krizi
 
-- CHP’de grup toplantısı ve kurultay krizi aynı anda büyüdü.
-- Özgür Özel, milletvekillerince grup başkanı seçilerek destek aldı.
-- Kılıçdaroğlu, toplantının engellenmesi için Meclis’e itiraz etti.
-- Meclis Başkanı Kurtulmuş, ihtilafta taraf olunmayacağını açıkladı.
-- TBMM takvimine giren toplantı Ankara’da kalabalık katılımla yapıldı.
-- Özel, konuşmasında Erdoğan’ı hedef alıp kurultay çağrısı yaptı.
-- Delegeler noterde imza vererek olağanüstü kurultay talebini tamamladı.
-- Genel merkez ilan etmezse Sulh Hukuk’a başvuru yolu anlatıldı.
-- İstanbul Başsavcılığı, delegeler için MASAK ve hesap incelemesi istedi.
-- Yeni parti senaryoları ve belediyelere operasyon iddiaları tartışıldı.
+- CHP’de Kılıçdaroğlu ile Özgür Özel arasında kriz derinleşti.
+- Meclis’teki grup toplantısı kalabalık geçti, Özel yaklaşık 70 dakika konuştu.
+- Özel konuşmasında mutlak butlan tartışmasını öne çıkarıp sert eleştiriler yöneltti.
+- Kılıçdaroğlu 19 kişilik MYK listesi açıkladı, parti dengeleri tartışıldı.
+- Partide iki ayrı yönetim ve olası çift grup toplantısı ihtimali konuşuluyor.
+- Delegeler olağanüstü kurultay için imza topluyor, sayı 800’ü aştı.
+- İhtiyati tedbir ve Yargıtay süreci nedeniyle kurultay fiilen belirsiz.
+- İstanbul Başsavcılığı kurultayla ilgili YSK, MASAK ve SGK’ya yazı gönderdi.
+- Antalya kaynaklı fezlekeler Ankara’ya gitti, dokunulmazlık tartışması başladı.
+- Özel kaset ve FETÖ iddialarını reddetti, B planını anlattı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=3qMAWR__KOI&t=180s) (⏱️ 03:00-08:00)
-- [Rusen Cakir](https://www.youtube.com/watch?v=YHA37Tr4MVc&t=7s) (⏱️ 00:07-01:49)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=HNx77kUWW74&t=314s) (⏱️ 05:14-08:30)
-- [Onlar TV](https://www.youtube.com/watch?v=V8F93VDLYUw&t=85s) (⏱️ 01:25-53:10)
-- [Murat Yetkin](https://www.youtube.com/watch?v=icWMUhUI8oU) (⏱️ 00:00-16:02)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=WOAKmTOGhzE&t=241s) (⏱️ 04:01-06:00)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=NrjKLjUuHL0) (⏱️ 00:00-01:55)
+- [Rusen Cakir](https://www.youtube.com/watch?v=QizHzrRfHhU&t=10s) (⏱️ 00:10-11:15)
+- [Serdar Akinan](https://www.youtube.com/watch?v=Pwd_jdTC0ws&t=284s) (⏱️ 04:44-15:34)
+- [Inan Demirel](https://www.youtube.com/watch?v=gqKKkvCf4Do&t=266s) (⏱️ 04:26-14:50)
+- [Cigdem Toker](https://www.youtube.com/watch?v=tSufEawgid4&t=5s) (⏱️ 00:05-06:36)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=ZmhV7wvPxlg&t=986s) (⏱️ 16:26-18:45)
+- [Onlar TV](https://www.youtube.com/watch?v=jde60jxwwxA&t=53s) (⏱️ 00:53-08:18)
+- [Murat Yetkin](https://www.youtube.com/watch?v=4RSBI-0FkVU&t=68s) (⏱️ 01:08-13:10)
 
 ---
 
-## 2. CHP’de İmamoğlu Kılıçdaroğlu Gerilimi
+## 2. Devlet Kapasitesi ve Ekonomi Tartışması
 
-- Kemal Kılıçdaroğlu’nun kurultay yenilgisini beklemediği iddia edildi.
-- 2023 seçimleri sonrası CHP’de gerilim ve iletişim sorunları öne çıktı.
-- Kılıçdaroğlu ile Ekrem İmamoğlu arasındaki uzun süredir sorunlar konuşuluyor.
-- İmamoğlu, Kılıçdaroğlu’na yönelik eleştirilerini artık doğrudanlaştırdı.
-- İmamoğlu, Kılıçdaroğlu’nun Erdoğan’la aynı çizgide olduğunu ima etti.
-- İmamoğlu, yeni bir yol ya da parti ihtimalini dillendirdi.
-- “Ekrem İmamoğlu gelmesin” koalisyonu iddiası kulislerde tartışılıyor.
-- Koalisyonun Erdoğan sonrası döneme hazırlanma amacı olabileceği savunuldu.
-- Bülent Kuşoğlu röportajı “devlet aklı” ve kontrollü geçiş tartışması başlattı.
-- Özgür Özel, Kuşoğlu’nun tezlerini eleştirip tarihsel bağlam vurguladı.
+- Konuklar “devlet aklı” söyleminin hesap vermezliği örttüğünü savundu.
+- Gerçek ihtiyacın şeffaf, ölçülebilir “devlet kapasitesi” olduğu vurgulandı.
+- Okullarda açlıkla mücadele, internet altyapısı, kamu hizmetleri örnek verildi.
+- Basın özgürlüğü ve adalet endekslerindeki gerileme özellikle hatırlatıldı.
+- Siyasetin iç tartışmalara sıkışıp vatandaş gündeminden koptuğu söylendi.
+- Memur ve emekli maaşları için 10 puan ara zam istendi.
+- Vergi dilimleri yüzünden zamların reel gelir yaratmadığı belirtildi.
+- Swap hattı iddialarının etkisinin kısa vadeli kalabileceği konuşuldu.
+- Şimşek’in politikaları, rezerv kullanımı ve carry trade kazançları eleştirildi.
+- 2015 sonrası bozulma ile doğurganlık düşüşü paralel görüldü.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=HNx77kUWW74&t=1999s) (⏱️ 33:19-40:44)
-- [Onlar TV](https://www.youtube.com/watch?v=DbFAyEvNGn4&t=222s) (⏱️ 03:42-06:30)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=3qMAWR__KOI&t=480s) (⏱️ 08:00-13:00)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=ZmhV7wvPxlg) (⏱️ 00:00-02:36)
+- [Onlar TV](https://www.youtube.com/watch?v=jde60jxwwxA&t=500s) (⏱️ 08:20-10:26)
 
 ---
 
-## 3. Gündemde Ozan Güven ve Özel
+## 3. Bölgede gerilim ve ateşkes arayışı
 
-- Ozan Güven, Kadıköy’de bir mekanda tartışma yaşadı.
-- Tartışma, çevredekilerin tepkisiyle büyüyen bir olaya dönüştü.
-- Bir kadının müdahalesi zorbalık mı taciz mi tartışması doğurdu.
-- Olay, mekan güvenliği ve müdahale biçimi üzerinden değerlendirildi.
-- Güven’in geçmişte aldığı ceza ve yaptırımlar yeniden gündeme geldi.
-- Tekrarlayan davranışların karakter sorunu olabileceği yorumları yapıldı.
-- Konu, toplumsal tepki ve olası hukuki süreç boyutlarıyla ele alındı.
-- CHP toplantısında Özgür Özel’in duygusal anlar yaşadığı aktarıldı.
-- Özel, partide atama ve işten çıkarmalara sert tepki gösterdi.
-- Kod 489 iddiası ve Gezi vurgusuyla inceleme sözü verdi.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Bahar Feyzan](https://www.youtube.com/watch?v=3qMAWR__KOI&t=3360s) (⏱️ 56:00-62:33)
-- [Rusen Cakir](https://www.youtube.com/watch?v=YHA37Tr4MVc&t=529s) (⏱️ 08:49-11:49)
-
----
-
-## 4. Yeni Parti Senaryosu Anketleri Sarsıyor
-
-- Gündemar anketi, yeni parti seçeneğini gündemin merkezine taşıdı.
-- Araştırma, yeni kurulacak partinin birinci olabileceğini öne sürdü.
-- Anketlerde yeni parti, yaklaşık yüzde 35 civarında görünüyor.
-- Bu senaryoda CHP oylarında belirgin düşüş ihtimali tartışılıyor.
-- AKP oylarında ise anketlere göre daha sınırlı değişim gözleniyor.
-- Yorumcular, yeni partinin kararsız seçmenden de oy alabileceğini belirtti.
-- Yeni oluşumun merkezde konumlanıp farklı kesimlere hitap edebileceği konuşuldu.
-- Yeni parti kurmanın teşkilatlanma süreci ve hazine yardımı şartları anlatıldı.
-- Veriler, partiler arası oy dağılımı ve baraj olasılıklarına işaret etti.
-- Anket sonuçları, siyasi dengeler üzerindeki olası etkilerle yorumlandı.
+- ABD’nin Geşim/Çeşm Adası’nı vurduğu iddia edildi.
+- İran’ın Körfez’deki hedeflere misilleme yaptığı öne sürüldü.
+- Bahreyn, BAE, Suudi Arabistan ve Erbil hedefleri konuşuldu.
+- Saldırıların tek merkezden değil, mozaik biçimde yayıldığı söylendi.
+- İsrail’in Lübnan’a saldırıları ve çatışmanın seyri değerlendirildi.
+- İranlı yetkili Arakçı ile telefon görüşmesi yapıldığı aktarıldı.
+- İran tarafı saldırıları ateşkes ihlali olarak nitelendirdi.
+- Trump’ın taraflarla konuşup ateşkesin korunmasını istediği belirtildi.
+- Ateşkesin sürmesi için temkinli iyimserlik dile getirildi.
+- Abraham Anlaşmaları’nın bölgesel dengelere etkisi tartışmaya açıldı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Onlar TV](https://www.youtube.com/watch?v=DbFAyEvNGn4&t=4376s) (⏱️ 72:56-102:48)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=HNx77kUWW74&t=2940s) (⏱️ 49:00-50:36)
+- [Serdar Akinan](https://www.youtube.com/watch?v=Pwd_jdTC0ws&t=935s) (⏱️ 15:35-22:09)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=ZmhV7wvPxlg&t=339s) (⏱️ 05:39-08:44)
 
 ---
 
