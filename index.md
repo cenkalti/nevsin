@@ -1,71 +1,86 @@
 # Bugün Ne Oldu?
 
-*3 June 2026 tarihli günlük haber raporu - 3 haber birleştirildi*
+*4 June 2026 tarihli günlük haber raporu - 4 haber birleştirildi*
 
-## 1. CHP’de kurultay ve yargı krizi
+## 1. CHP’de kriz ve kurultay çıkmazı
 
-- CHP’de Kılıçdaroğlu ile Özgür Özel arasında kriz derinleşti.
-- Meclis’teki grup toplantısı kalabalık geçti, Özel yaklaşık 70 dakika konuştu.
-- Özel konuşmasında mutlak butlan tartışmasını öne çıkarıp sert eleştiriler yöneltti.
-- Kılıçdaroğlu 19 kişilik MYK listesi açıkladı, parti dengeleri tartışıldı.
-- Partide iki ayrı yönetim ve olası çift grup toplantısı ihtimali konuşuluyor.
-- Delegeler olağanüstü kurultay için imza topluyor, sayı 800’ü aştı.
-- İhtiyati tedbir ve Yargıtay süreci nedeniyle kurultay fiilen belirsiz.
-- İstanbul Başsavcılığı kurultayla ilgili YSK, MASAK ve SGK’ya yazı gönderdi.
-- Antalya kaynaklı fezlekeler Ankara’ya gitti, dokunulmazlık tartışması başladı.
-- Özel kaset ve FETÖ iddialarını reddetti, B planını anlattı.
+- CHP’de disiplin kurulu toplandı, 2023 sonrası kararlar iptal edildi.
+- Üyelikten ihraç kararları geri alındı, bazı üyeler geri döndü.
+- Kararların ilgili kurumlara tebliği planlanıyor, savcılık da gündemde.
+- Grup toplantısında sert tartışmalar yaşandı, gerilim kamuya yansıdı.
+- Özgür Özel kurultay isteğini vurguladı, güçlü duruş sergiledi.
+- Kılıçdaroğlu haftaya konuşacağını açıkladı, yeni kriz ihtimali doğdu.
+- Seçilmiş-atanmış yönetim çekişmesi sürüyor, uzlaşı ihtimali zayıf görünüyor.
+- Fezleke, dokunulmazlık ve yargı süreçleri üzerinden baskı iddiaları konuşuluyor.
+- İktidarın CHP’yi bölme, yeni parti çıkarma senaryoları tartışılıyor.
+- Çözüm olarak üyeye danışma, sandık ve kurultay önerileri öne çıktı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=WOAKmTOGhzE&t=241s) (⏱️ 04:01-06:00)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=NrjKLjUuHL0) (⏱️ 00:00-01:55)
-- [Rusen Cakir](https://www.youtube.com/watch?v=QizHzrRfHhU&t=10s) (⏱️ 00:10-11:15)
-- [Serdar Akinan](https://www.youtube.com/watch?v=Pwd_jdTC0ws&t=284s) (⏱️ 04:44-15:34)
-- [Inan Demirel](https://www.youtube.com/watch?v=gqKKkvCf4Do&t=266s) (⏱️ 04:26-14:50)
-- [Cigdem Toker](https://www.youtube.com/watch?v=tSufEawgid4&t=5s) (⏱️ 00:05-06:36)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=ZmhV7wvPxlg&t=986s) (⏱️ 16:26-18:45)
-- [Onlar TV](https://www.youtube.com/watch?v=jde60jxwwxA&t=53s) (⏱️ 00:53-08:18)
-- [Murat Yetkin](https://www.youtube.com/watch?v=4RSBI-0FkVU&t=68s) (⏱️ 01:08-13:10)
+- [Unsal Unlu](https://www.youtube.com/watch?v=wn4Y4uQR9og&t=86s) (⏱️ 01:26-01:50)
+- [Rusen Cakir](https://www.youtube.com/watch?v=fRotP91eKeE&t=31s) (⏱️ 00:31-00:54)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=g4pSFCNB7eQ&t=264s) (⏱️ 04:24-11:20)
+- [Serdar Akinan](https://www.youtube.com/watch?v=lesYooBvuLg) (⏱️ 00:00-16:19)
 
 ---
 
-## 2. Devlet Kapasitesi ve Ekonomi Tartışması
+## 2. Ankara NATO Zirvesi ve Belirsizlik
 
-- Konuklar “devlet aklı” söyleminin hesap vermezliği örttüğünü savundu.
-- Gerçek ihtiyacın şeffaf, ölçülebilir “devlet kapasitesi” olduğu vurgulandı.
-- Okullarda açlıkla mücadele, internet altyapısı, kamu hizmetleri örnek verildi.
-- Basın özgürlüğü ve adalet endekslerindeki gerileme özellikle hatırlatıldı.
-- Siyasetin iç tartışmalara sıkışıp vatandaş gündeminden koptuğu söylendi.
-- Memur ve emekli maaşları için 10 puan ara zam istendi.
-- Vergi dilimleri yüzünden zamların reel gelir yaratmadığı belirtildi.
-- Swap hattı iddialarının etkisinin kısa vadeli kalabileceği konuşuldu.
-- Şimşek’in politikaları, rezerv kullanımı ve carry trade kazançları eleştirildi.
-- 2015 sonrası bozulma ile doğurganlık düşüşü paralel görüldü.
+- 7-8 Temmuz’da Ankara’da kritik bir NATO zirvesi yapılacak.
+- Birçok ülke lideri ve dışişleri yetkilisinin katılması bekleniyor.
+- Trump’ın zirveye gelme ihtimali yüksek, ancak belirsizlik sürüyor.
+- Güvenlik önlemleri artırılırken, olası kriz senaryoları tartışılıyor.
+- NATO, Rusya’nın Ukrayna işgali sonrası en gergin döneminde.
+- Avrupa’nın savunma kapasitesi zayıf; NATO’ya bağımlılık devam ediyor.
+- Trump’ın öngörülemezliği, liderler arası gerilim ve boykot riski doğuruyor.
+- Türkiye’nin NATO içindeki bölgesel rolü artarken dış politika bağımsızlığı vurgulanıyor.
+- Zirvenin Ortadoğu ile Rusya-Çin dengelerine etkisi kritik görülüyor.
+- ABD’nin Türkiye-Irak-Suriye dengelemesi söylemi Ankara’da soru işareti yarattı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=ZmhV7wvPxlg) (⏱️ 00:00-02:36)
-- [Onlar TV](https://www.youtube.com/watch?v=jde60jxwwxA&t=500s) (⏱️ 08:20-10:26)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=g4pSFCNB7eQ&t=4s) (⏱️ 00:04-00:19)
+- [Rusen Cakir](https://www.youtube.com/watch?v=gafhGvsfxrs&t=1081s) (⏱️ 18:01-30:23)
 
 ---
 
-## 3. Bölgede gerilim ve ateşkes arayışı
+## 3. Bahçeli’nin açıklamaları yeni tartışma yarattı
 
-- ABD’nin Geşim/Çeşm Adası’nı vurduğu iddia edildi.
-- İran’ın Körfez’deki hedeflere misilleme yaptığı öne sürüldü.
-- Bahreyn, BAE, Suudi Arabistan ve Erbil hedefleri konuşuldu.
-- Saldırıların tek merkezden değil, mozaik biçimde yayıldığı söylendi.
-- İsrail’in Lübnan’a saldırıları ve çatışmanın seyri değerlendirildi.
-- İranlı yetkili Arakçı ile telefon görüşmesi yapıldığı aktarıldı.
-- İran tarafı saldırıları ateşkes ihlali olarak nitelendirdi.
-- Trump’ın taraflarla konuşup ateşkesin korunmasını istediği belirtildi.
-- Ateşkesin sürmesi için temkinli iyimserlik dile getirildi.
-- Abraham Anlaşmaları’nın bölgesel dengelere etkisi tartışmaya açıldı.
+- MHP lideri Devlet Bahçeli, Türkün gazetesinde kapsamlı değerlendirmeler yaptı.
+- Yazı ve röportaj, Kılıçdaroğlu’na yakın duruyor yorumlarına yol açtı.
+- Bahçeli, toplumsal muhalefetle yan yana durulmasından rahatsızlığını anlattı.
+- Paralel yönetim iddiaları, meclis girişimleri ve yürüyüşleri eleştirdi sertçe.
+- Önce feragat, ardından uzlaşma çağrısı yaparak siyasi gerilimi düşürdü.
+- CHP lideri Özgür Özel’e, muhalefet dilini yumuşatma uyarısı yöneltti.
+- Metin, siyasetin elit merkezden topluma açılmasına kaygı yansıtıyor.
+- Röportajın gazetede sunumu ve üslubu, yorumcularca eleştirildi açıkça.
+- Yayın, partilere yakın medya anlayışının örneği olarak gösterildi yine.
+- Bahçeli’nin çıkışı, muhalefet ve eleştiri ekseninde yeni tartışma başlattı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Serdar Akinan](https://www.youtube.com/watch?v=Pwd_jdTC0ws&t=935s) (⏱️ 15:35-22:09)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=ZmhV7wvPxlg&t=339s) (⏱️ 05:39-08:44)
+- [Rusen Cakir](https://www.youtube.com/watch?v=fRotP91eKeE&t=54s) (⏱️ 00:54-12:46)
+- [Unsal Unlu](https://www.youtube.com/watch?v=wn4Y4uQR9og&t=170s) (⏱️ 02:50-03:34)
+
+---
+
+## 4. Soruşturmalar ve erişim engeli tartışması
+
+- Mirgün Cabas hakkında soruşturma haberi sosyal medyada hızla yayıldı.
+- İlk iddialar uyuşturucu şüphesi içerdi, tahlil sonucu temiz çıktı.
+- İsimlerin kolayca listelere girmesi, itibar zedelenmesi eleştirildi.
+- Suçsuzluğun kanıtının mağdura bırakılması hukuki sorun olarak vurgulandı.
+- Bu tür operasyonların sanatçı ve gazetecileri yıldırdığı iddia edildi.
+- Bir diğer gündem vize aracılık ağına dair araştırma dosyasıydı.
+- İstanbul 9. Sulh Ceza, dosyaya erişim engeli getirdi.
+- Kararda milli güvenlik gerekçesi yer aldı, tartışma büyüdü.
+- Dosyada VFS Global benzeri yapı, Çavuşoğlu bağlantıları sorgulandı.
+- İhaleler, sermaye artışı, reddedilen vizeler ve randevu botları tartışıldı.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Rusen Cakir](https://www.youtube.com/watch?v=fRotP91eKeE&t=2000s) (⏱️ 33:20-39:15)
+- [Serdar Akinan](https://www.youtube.com/watch?v=lesYooBvuLg&t=980s) (⏱️ 16:20-29:27)
 
 ---
 
