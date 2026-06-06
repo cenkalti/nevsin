@@ -1,176 +1,107 @@
 # Bugün Ne Oldu?
 
-*5 June 2026 tarihli günlük haber raporu - 8 haber birleştirildi*
+*6 June 2026 tarihli günlük haber raporu - 5 haber birleştirildi*
 
-## 1. CHP’de kriz, yargı ve uzlaşma
+## 1. CHP’de kriz ve Özel’in yükselişi
 
-- CHP’de Özgür Özel ve Kemal Kılıçdaroğlu arasında sert kriz sürüyor.
-- İstinaf kararıyla 2023 kurultayı tartışmalı hale getirildi, bölünme büyüdü.
-- Genel merkezdeki polis baskını sonrası Özel ekibi görev almama kararı aldı.
-- Koç’un 100. yıl töreninde Özel-Bahçeli tokalaşması parti içinde tepki topladı.
-- Bahçeli, Özel’i eleştirip Kılıçdaroğlu’na yakın durarak pozisyon aldı.
-- İstanbul Başsavcılığı Özel hakkında iki soruşturma başlattı, fezleke riski var.
-- Sosyal medyada CHP genel merkezinde görüntüler, itibarsızlaştırma iddiasını artırdı.
-- Altay, Öztunç ve Erol arabuluculuk yapıyor; avukatlar hukuku görüşecek.
-- Disiplin süreçleri hızlandı; Mahir Polat YDK başkanı seçildi, iptaller oldu.
-- Yeni parti senaryoları konuşuluyor; ‘İstiklal Partisi’ iddiası kulislerde dolaşıyor.
+- CHP’de yönetim krizi, yargı ve siyasal baskı iddialarıyla derinleşiyor.
+- Parti içinde seçilmişler ile atanmışlar ayrışması yeniden gündemde.
+- Özgür Özel sahada ivme kazandı, mitinglerde yoğun destek görüyor.
+- İzmir etkinliğinde alan kapatıldı, yürüyüş Gündoğdu’ya yönlendirildi.
+- Araştırmada İzmirliler Kılıçdaroğlu’nun dönüşüne büyük ölçüde karşı çıktı.
+- Kılıçdaroğlu cephesi grup toplantısı ısrarı, görüntüler tepki topladı.
+- Bazı yorumcular yeni parti için zaman baskısı olduğunu savunuyor.
+- Hızlı kuruluş için hazır parti devri gibi yöntemler konuşuluyor.
+- Özel’in dokunulmazlığının kaldırılabileceği iddiaları ve süreçler tartışılıyor.
+- CHP genel merkezindeki 5 Mayıs gerginliği, önlem eksikliği iddiaları doğurdu.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=-JWwljM_7Bk&t=531s) (⏱️ 08:51-28:59)
-- [Inan Demirel](https://www.youtube.com/watch?v=44Q2NdXlcBs&t=940s) (⏱️ 15:40-24:19)
-- [Murat Yetkin](https://www.youtube.com/watch?v=kNf4tP5H7-c&t=728s) (⏱️ 12:08-12:27)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=VI9UPbwFlNo&t=720s) (⏱️ 12:00-17:00)
-- [Rusen Cakir](https://www.youtube.com/watch?v=iN_D_qqoQmg&t=3s) (⏱️ 00:03-09:39)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=ikIttVefHog&t=303s) (⏱️ 05:03-20:46)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=9XKTp_pJeTw&t=42s) (⏱️ 00:42-04:15)
-- [Onlar TV](https://www.youtube.com/watch?v=kz2vRJciPjM&t=3997s) (⏱️ 66:37-76:28)
+- [Cigdem Toker](https://www.youtube.com/watch?v=wa6KD_cQ7CQ&t=49s) (⏱️ 00:49-04:39)
+- [Onlar TV](https://www.youtube.com/watch?v=uk9O66eKfqw&t=230s) (⏱️ 03:50-14:40)
+- [Serdar Akinan](https://www.youtube.com/watch?v=4Yp-WaC11xw&t=23s) (⏱️ 00:23-06:49)
+- [Rusen Cakir](https://www.youtube.com/watch?v=4qQMq4UPdrg&t=30s) (⏱️ 00:30-09:35)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=WFlwP2qFRI4&t=45s) (⏱️ 00:45-27:46)
 
 ---
 
-## 2. CHP’de iddia ve soruşturma gündemi
+## 2. İmamoğlu Duruşmalarında SEGBİS Tartışması
 
-- CHP kurultayı soruşturması yetkisizlikle İstanbul’dan Ankara’ya gönderildi.
-- Dosyada Özgür Özel ve birçok CHP’liye dair iddialar yer aldı.
-- İfadelerde delegelere para, iş ve kadro vaadi öne sürülüyor.
-- Muhittin Böcek ek ifadesinde Özel’e para verdiğini iddia etti.
-- Böcek, yaklaşık 950 bin euro taşıdığını, isim hatırlamadığını söyledi.
-- Bağışların kaynağı, yasallığı ve MASAK incelemesi tartışma konusu oldu.
-- Bazı beyanların çelişkili olduğu, somut delilin zayıf kaldığı belirtildi.
-- Özel’in hedef alındığı ve dokunulmazlık süreci tartışmaları gündeme geldi.
-- Mansur Yavaş hakkında FETÖ iddiasında savcılık kovuşturmaya yer bulmadı.
-- Kılıçdaroğlu’nun Soykan’a suç duyurusu ve İmamoğlu’nun duruşma tartışıldı.
+- Ekrem İmamoğlu’nun Kartal Adliyesi’ndeki duruşması kamuoyunda tartışma yarattı.
+- İmamoğlu’nun duruşmaya fiziken getirilmediği ve çıkarılmadığı bildirildi.
+- İddialara göre Silivri kampüsünden sevk yapılmadığı için tepki oluştu.
+- Savunma hakkı ve yüz yüze duruşma ilkesi yeniden gündeme geldi.
+- Bir davada araç arızası gerekçesiyle geri çevrildiği öne sürüldü.
+- İmamoğlu duruşmaya SEGBİS üzerinden katıldığını ifade etti.
+- SEGBİS, sesli ve görüntülü uzaktan bağlantı sistemi olarak açıklandı.
+- İmamoğlu uygulamayı psikolojik baskı ve işkence olarak niteledi.
+- Avukatlar online katılımın istisna, yüz yüzenin esas olduğunu söyledi.
+- Duruşma sonrası konuşması alkış aldı, ardından soruşturma iddiası çıktı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=9XKTp_pJeTw&t=548s) (⏱️ 09:08-15:51)
-- [Onlar TV](https://www.youtube.com/watch?v=kz2vRJciPjM&t=36s) (⏱️ 00:36-61:59)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=ikIttVefHog&t=1833s) (⏱️ 30:33-34:04)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=VI9UPbwFlNo&t=1380s) (⏱️ 23:00-27:30)
-- [Inan Demirel](https://www.youtube.com/watch?v=44Q2NdXlcBs&t=1459s) (⏱️ 24:19-31:12)
+- [Serdar Akinan](https://www.youtube.com/watch?v=4Yp-WaC11xw&t=565s) (⏱️ 09:25-11:03)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=WFlwP2qFRI4&t=1682s) (⏱️ 28:02-30:06)
+- [Cigdem Toker](https://www.youtube.com/watch?v=wa6KD_cQ7CQ&t=283s) (⏱️ 04:43-06:03)
 
 ---
 
-## 3. Koç Grubu 100. yıl tartışmaları
+## 3. Enflasyon Farkı Alım Gücünü Aşındırıyor
 
-- Koç Grubu 100. yıl kutlamaları geniş katılımla düzenlendi.
-- Törene çok sayıda siyasetçi ve iş insanı davet edildi.
-- Rahmi Koç’un konuşması iktisat tarihi açısından belge niteliğinde görüldü.
-- Etkinlikte Özgür Özel’in katıldığı, Kılıçdaroğlu’nun bulunmadığı belirtildi.
-- Özgür Özel ile Devlet Bahçeli’nin yan yana oturması dikkat çekti.
-- Kutlamalar Anıtkabir ziyareti etrafında süren tartışmalarla gündeme geldi.
-- Yusuf Kaplan, Koç’a eleştirili bir tweet paylaşıp sildi.
-- İlk tweette yolsuzluk ve rüşvet iması vardı, tepki çekti.
-- Kaplan, iddia içeren kısmı kaldırıp tweeti daha yumuşattı.
-- Silmenin gazete yönetimi uyarısı veya baskıyla olduğu öne sürüldü.
+- Haziran enflasyonu yüzde 1,3 civarında açıklanması bekleniyor.
+- Bu durumda SSK ve Bağkur emeklilerine yaklaşık yüzde 18,1 artış.
+- Memur ve memur emeklilerine ise yaklaşık yüzde 13,86 fark öngörülüyor.
+- Enflasyon farkının altı ay gecikmesi sabit gelirlileri zorluyor.
+- Ocak-Mayıs döneminde alım gücü her ay belirgin şekilde düştü.
+- Gelir artışları gecikirken akaryakıt gibi zamlar hemen fiyatlara yansıyor.
+- Temmuz zammı gelse bile sonraki fiyat artışları telafiyi azaltıyor.
+- En düşük tamamlanan emekli aylığı için otomatik artış olmayabilir.
+- Yaklaşık 4,7 milyon kişi zammı doğrudan alamayıp bekleyebilir.
+- Vergi dilimleri memurlarda brüt artışın net etkisini düşürüyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Inan Demirel](https://www.youtube.com/watch?v=44Q2NdXlcBs&t=753s) (⏱️ 12:33-15:40)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=VI9UPbwFlNo&t=360s) (⏱️ 06:00-12:00)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=ikIttVefHog&t=2984s) (⏱️ 49:44-63:30)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=gyIEpngt4Ww&t=32s) (⏱️ 00:32-03:51)
+- [Cigdem Toker](https://www.youtube.com/watch?v=wa6KD_cQ7CQ&t=549s) (⏱️ 09:09-11:43)
 
 ---
 
-## 4. Enflasyon Verileri ve Şimşek Tartışması
+## 4. Swap finansmanı ve seçim tartışmaları
 
-- Mayıs enflasyonu açıklandı; aylık artış yüzde 1,71 oldu.
-- Yıllık enflasyon TÜİK’e göre yüzde 32,61 seviyesinde.
-- İlk beş aylık enflasyon yüzde 16,61 olarak hesaplandı.
-- Bu oran, yıl sonu hedefleriyle kıyaslanarak tartışma yarattı.
-- Memur ve emekli zamları, açıklanan verilerle yeniden gündeme geldi.
-- Asgari ücret için ara zam beklentileri ve olasılıklar konuşuldu.
-- ENAG raporu yıllık enflasyonu yaklaşık yüzde 53 gösterdi.
-- Bazı yorumcular, resmi verilerin makyajlı açıklanacağını ileri sürdü.
-- TÜİK önünde planlanan protestoların muhatabı ve etkisi sorgulandı.
-- Mehmet Şimşek, ekonomi büyüklüğü ve vergi teşviklerini savundu.
+- Cumhurbaşkanı Erdoğan’ın swapla 40 milyar dolar bulabileceği iddia edildi.
+- Bu kaynakla baskın erken seçim ihtimali yorumlarda tartışma konusu oldu.
+- Temmuz’da ara zam veya seyyanen artış seçim takvimini etkileyebilir.
+- Kasım ayında seçim ihtimali, olası zam senaryolarıyla gündeme geldi.
+- Artışların bütçe maliyeti yüksek, sonra vergilerle geri alınabilir.
+- Swap işlemi, TL verip dolar alma ve geri ödeme yükümlülüğüdür.
+- Yurtdışından sağlanan para borç niteliğinde, ülkeye risk oluşturabilir.
+- ABD gibi ülkelerden gelen finansman, siyasi baskı aracı olabilir.
+- Esnaf ve KOBİ’ler vergi, ceza, bloke ve faizlerle zorlanıyor.
+- Yabancıya uzun vergi muafiyeti, yerli mükellefte adaletsizlik yaratıyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=ikIttVefHog&t=1246s) (⏱️ 20:46-27:48)
-- [Unsal Unlu](https://www.youtube.com/watch?v=-JWwljM_7Bk&t=277s) (⏱️ 04:37-04:54)
-- [Inan Demirel](https://www.youtube.com/watch?v=44Q2NdXlcBs&t=1s) (⏱️ 00:01-03:36)
+- [Serdar Akinan](https://www.youtube.com/watch?v=4Yp-WaC11xw&t=282s) (⏱️ 04:42-05:16)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=gyIEpngt4Ww&t=450s) (⏱️ 07:30-09:50)
 
 ---
 
-## 5. İsmail Arı Davasında Duruşma Günü
+## 5. Gazeteci İsmail Arı tahliye edildi
 
-- Gazeteci İsmail Arı yaklaşık 74-75 gündür tutuklu bulunuyor.
-- Arı bugün Ankara Adliyesi’nde hakim karşısına çıkacak.
-- Duruşma 5 Haziran’da saat 14.00’te görülecek.
-- Dava Ankara 1. Asliye Ceza Mahkemesi’nde yapılacak.
-- Gazeteciler ve meslek örgütleri duruşmayı izlemek için gelecek.
-- Saat 13.00’te adliye önünde basın açıklaması planlandı.
-- Destekçiler basın özgürlüğü ve haber alma hakkını vurguluyor.
-- Yayıncılar, tutuklamaların haberler nedeniyle yapıldığını savundu.
-- Meslektaşları dayanışma çağrısı yaparak tahliye istedi.
-- Bazı yayıncılar duruşmadan olumlu sonuç beklediğini söyledi.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Unsal Unlu](https://www.youtube.com/watch?v=-JWwljM_7Bk&t=360s) (⏱️ 06:00-31:16)
-- [Onlar TV](https://www.youtube.com/watch?v=kz2vRJciPjM&t=5243s) (⏱️ 87:23-88:23)
-- [Inan Demirel](https://www.youtube.com/watch?v=44Q2NdXlcBs&t=2975s) (⏱️ 49:35-52:40)
-
----
-
-## 6. Doruk Madencilik İşçileri Alacaklarını Aldı
-
-- Doruk Madencilik işçileri alacakları için Ankara’ya yürüdü.
-- Bağımsız Maden-İş, hak arayışının zaferle sonuçlandığını duyurdu.
-- İşçiler maaş, tazminat ve yıllık izin alacaklarını aldı.
-- Toplu sözleşme farkları ve ücretsiz izin ücretleri hesaplara yatırıldı.
-- Üç bakan daha önce ödeme sözü vermişti, gecikme yaşandı.
-- Ödeme yapılmayınca işçiler yeniden yürüyüş ve eylem yaptı.
-- Siyasi parti liderleri eyleme destek verdi, fotoğraf paylaşıldı.
-- Sabaha karşı sonuç alındı, ödemeler fiilen tamamlandı.
-- İşçiler, şimdi diğer arkadaşlarının yanına gideceklerini söyledi.
-- Süreç, güvenlik gündemi ve NATO zirvesi bağlamında tartışıldı.
+- Gazeteci İsmail Arı ilk duruşmada tahliye edildi.
+- Arı yaklaşık 75 gün tutuklu kaldı.
+- Tahliye kararı meslektaşları tarafından olumlu karşılandı.
+- Duruşma sonrası gazeteciliğe devam edeceğini açıkladı.
+- Cezaevinde koğuşların çok kalabalık olduğunu aktardı.
+- Cezaevi koşullarının zorlayıcı olduğuna dair gözlemler paylaştı.
+- Yayınlarda konuşan bazı gazeteciler sert biçimde eleştirildi.
+- Eleştiriler, ekranların gerçek gazeteciliği yansıtmadığı üzerineydi.
+- Bedel ödeyerek çalışan genç gazeteciler özellikle savunuldu.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=-JWwljM_7Bk&t=110s) (⏱️ 01:50-03:45)
-- [Inan Demirel](https://www.youtube.com/watch?v=44Q2NdXlcBs&t=216s) (⏱️ 03:36-06:18)
-
----
-
-## 7. Süresiz nafaka kararı değişti
-
-- Anayasa Mahkemesi, Medeni Kanun’daki süresiz nafaka ibaresini iptal etti.
-- Karar sonrası, süresiz nafaka uygulaması süreye bağlanacak.
-- Yeni düzenlemenin yasama tarafından hazırlanıp Meclis’ten geçmesi bekleniyor.
-- Uzman Serpil Çınar, kararın geriye yürümeyeceğini açıkladı.
-- Değişiklik, yürürlüğe girdikten sonraki yeni davalarda etkili olacak.
-- Nafaka türleri anlatıldı; iştirak nafakası çocuk 18 olunca biter.
-- Yoksulluk nafakasında süre, evlilik süresi ve koşullara göre belirlenecek.
-- Sağlık durumu, işgücü ve ekonomik durum kriterleri dikkate alınacak.
-- Geriye dönük yeni taleplerin ve geçmişe dönük değişikliğin mümkün olmadığı vurgulandı.
-- Tartışmanın, kadınların ekonomik özgürlüğü ve boşanma kararlarıyla ilişkisi değerlendirildi.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Inan Demirel](https://www.youtube.com/watch?v=44Q2NdXlcBs&t=498s) (⏱️ 08:18-12:33)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=ikIttVefHog&t=2046s) (⏱️ 34:06-49:21)
-
----
-
-## 8. Taksi plakası ve Polat soruşturması
-
-- Mecliste taksicilerin torba yasa teklifi hazırlattığı iddiası gündemde.
-- Düzenleme, ticari plaka satış kazançlarına vergi muafiyeti öngörüyor.
-- Gelir vergisi ve KDV alınmaması talebi tartışmaları büyüttü.
-- Sosyal medyada ünlülerin çok sayıda plaka aldığı söylentisi yayıldı.
-- Seda Sayan’ın çok sayıda plakası olduğu iddiası Meclise yansıdı.
-- Taksiciler Odası iddiaları reddetti, genelde tek plaka denildi.
-- Ayrı gündemde Dilan Polat ailesiyle ilgili şiddet olayı konuşuldu.
-- Can Polat öldürüldü, olası nedenler kara para ve husumet.
-- Failin kredi kartı slipiyle tespit edilip yakalandığı açıklandı.
-- Ailenin geçmişte vergi ve sahte belge soruşturmaları olduğu belirtildi.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Nevsin Mengu](https://www.youtube.com/watch?v=VI9UPbwFlNo&t=1980s) (⏱️ 33:00-35:00)
-- [Onlar TV](https://www.youtube.com/watch?v=kz2vRJciPjM&t=4591s) (⏱️ 76:31-83:16)
+- [Cigdem Toker](https://www.youtube.com/watch?v=wa6KD_cQ7CQ&t=19s) (⏱️ 00:19-00:40)
+- [Serdar Akinan](https://www.youtube.com/watch?v=4Yp-WaC11xw&t=862s) (⏱️ 14:22-16:06)
 
 ---
 
