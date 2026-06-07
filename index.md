@@ -1,107 +1,90 @@
 # Bugün Ne Oldu?
 
-*6 June 2026 tarihli günlük haber raporu - 5 haber birleştirildi*
+*7 June 2026 tarihli günlük haber raporu - 4 haber birleştirildi*
 
-## 1. CHP’de kriz ve Özel’in yükselişi
+## 1. CHP’de Liderlik Krizi Derinleşiyor
 
-- CHP’de yönetim krizi, yargı ve siyasal baskı iddialarıyla derinleşiyor.
-- Parti içinde seçilmişler ile atanmışlar ayrışması yeniden gündemde.
-- Özgür Özel sahada ivme kazandı, mitinglerde yoğun destek görüyor.
-- İzmir etkinliğinde alan kapatıldı, yürüyüş Gündoğdu’ya yönlendirildi.
-- Araştırmada İzmirliler Kılıçdaroğlu’nun dönüşüne büyük ölçüde karşı çıktı.
-- Kılıçdaroğlu cephesi grup toplantısı ısrarı, görüntüler tepki topladı.
-- Bazı yorumcular yeni parti için zaman baskısı olduğunu savunuyor.
-- Hızlı kuruluş için hazır parti devri gibi yöntemler konuşuluyor.
-- Özel’in dokunulmazlığının kaldırılabileceği iddiaları ve süreçler tartışılıyor.
-- CHP genel merkezindeki 5 Mayıs gerginliği, önlem eksikliği iddiaları doğurdu.
+- CHP’de Kılıçdaroğlu ile Özgür Özel arasında liderlik krizi büyüyor.
+- Salı 13:30 için grup toplantısı duyurusu ikilik tartışması yarattı.
+- Meclis prosedürleri, salon tahsisi ve konuşma yetkisi belirsiz görülüyor.
+- Grup toplantısı çağrısı için yaklaşık 28 milletvekili imzası gerekiyor.
+- Kurultay kararlarına yönelik butlan riski, hukuki süreci kilitliyor.
+- Parti içi görevden alma, ihraç ve il başkanlarını çağırma iddiaları konuşuluyor.
+- Özel’in Anadolu turu kalabalıklarla karşılandı, değişim sinyali verdi.
+- Kılıçdaroğlu’na yakın isimlere sokakta tepki, Tokat’ta yuhalama yaşandı.
+- Yeni parti senaryosu somutlaşıyor; DSP teması ve program yönü tartışılıyor.
+- Araştırmalar FETÖ-yolsuzluk iddialarına inanç düşük, yeni parti potansiyeli yüksek.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Cigdem Toker](https://www.youtube.com/watch?v=wa6KD_cQ7CQ&t=49s) (⏱️ 00:49-04:39)
-- [Onlar TV](https://www.youtube.com/watch?v=uk9O66eKfqw&t=230s) (⏱️ 03:50-14:40)
-- [Serdar Akinan](https://www.youtube.com/watch?v=4Yp-WaC11xw&t=23s) (⏱️ 00:23-06:49)
-- [Rusen Cakir](https://www.youtube.com/watch?v=4qQMq4UPdrg&t=30s) (⏱️ 00:30-09:35)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=WFlwP2qFRI4&t=45s) (⏱️ 00:45-27:46)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=NntL-yiWOlU&t=1304s) (⏱️ 21:44-48:55)
+- [Hilal Koylu](https://www.youtube.com/watch?v=AsIvFmReIEU&t=23s) (⏱️ 00:23-03:19)
+- [Rusen Cakir](https://www.youtube.com/watch?v=AjQthCI7efU&t=36s) (⏱️ 00:36-10:18)
+- [Inan Demirel](https://www.youtube.com/watch?v=owGwX6asCR0&t=499s) (⏱️ 08:19-15:10)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=MjY8nEns4go&t=180s) (⏱️ 03:00-34:14)
+- [Murat Yetkin](https://www.youtube.com/watch?v=nNfzQjqhiOc&t=1s) (⏱️ 00:01-06:08)
 
 ---
 
-## 2. İmamoğlu Duruşmalarında SEGBİS Tartışması
+## 2. Belirsizlik Ekonomide Baskıyı Artırıyor
 
-- Ekrem İmamoğlu’nun Kartal Adliyesi’ndeki duruşması kamuoyunda tartışma yarattı.
-- İmamoğlu’nun duruşmaya fiziken getirilmediği ve çıkarılmadığı bildirildi.
-- İddialara göre Silivri kampüsünden sevk yapılmadığı için tepki oluştu.
-- Savunma hakkı ve yüz yüze duruşma ilkesi yeniden gündeme geldi.
-- Bir davada araç arızası gerekçesiyle geri çevrildiği öne sürüldü.
-- İmamoğlu duruşmaya SEGBİS üzerinden katıldığını ifade etti.
-- SEGBİS, sesli ve görüntülü uzaktan bağlantı sistemi olarak açıklandı.
-- İmamoğlu uygulamayı psikolojik baskı ve işkence olarak niteledi.
-- Avukatlar online katılımın istisna, yüz yüzenin esas olduğunu söyledi.
-- Duruşma sonrası konuşması alkış aldı, ardından soruşturma iddiası çıktı.
+- Siyasi belirsizlik piyasaları, rezervleri ve yatırımcı güvenini hızla zedeliyor.
+- Yabancı yatırımcılar TL pozisyonlarını kapatıp carry trade’den çıkıyor.
+- Merkez Bankası rezervlerini yeniden toplamanın maliyeti artıyor, kırılganlık yükseliyor.
+- KKM eleştiriliyor; rezerv erittiği ve döviz çıkışı yarattığı söyleniyor.
+- Mayıs enflasyonu aylık yüzde 1,71 yıllık 32,61 açıklandı.
+- Yüksek fiyatlar sürüyor; gelir artmayınca alım gücü düşüyor.
+- Türkiye’nin faiz ödemeleri büyüyor; bütçe ve toplum üzerindeki baskı artıyor.
+- Yatırım ve istihdam geriliyor; bir yılda 400 bin kayıp bildirildi.
+- Altın kısa vadede geriledi; uzmanlar orta vadede yükseliş bekliyor.
+- Erdoğan faize dayalı sistemin sürdürülemez olduğunu, katılım finansın büyüdüğünü söyledi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Serdar Akinan](https://www.youtube.com/watch?v=4Yp-WaC11xw&t=565s) (⏱️ 09:25-11:03)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=WFlwP2qFRI4&t=1682s) (⏱️ 28:02-30:06)
-- [Cigdem Toker](https://www.youtube.com/watch?v=wa6KD_cQ7CQ&t=283s) (⏱️ 04:43-06:03)
+- [Hilal Koylu](https://www.youtube.com/watch?v=AsIvFmReIEU&t=200s) (⏱️ 03:20-05:33)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=PzunYkWEbLI&t=440s) (⏱️ 07:20-13:52)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=MjY8nEns4go&t=2472s) (⏱️ 41:12-43:28)
 
 ---
 
-## 3. Enflasyon Farkı Alım Gücünü Aşındırıyor
+## 3. Kudüs Sözü ve Bölgesel İddialar
 
-- Haziran enflasyonu yüzde 1,3 civarında açıklanması bekleniyor.
-- Bu durumda SSK ve Bağkur emeklilerine yaklaşık yüzde 18,1 artış.
-- Memur ve memur emeklilerine ise yaklaşık yüzde 13,86 fark öngörülüyor.
-- Enflasyon farkının altı ay gecikmesi sabit gelirlileri zorluyor.
-- Ocak-Mayıs döneminde alım gücü her ay belirgin şekilde düştü.
-- Gelir artışları gecikirken akaryakıt gibi zamlar hemen fiyatlara yansıyor.
-- Temmuz zammı gelse bile sonraki fiyat artışları telafiyi azaltıyor.
-- En düşük tamamlanan emekli aylığı için otomatik artış olmayabilir.
-- Yaklaşık 4,7 milyon kişi zammı doğrudan alamayıp bekleyebilir.
-- Vergi dilimleri memurlarda brüt artışın net etkisini düşürüyor.
+- İçişleri Bakanı Mustafa Çiftçi, Kudüs’te valilik hayalinden bahsetti.
+- Açıklamasında bu isteği gelecek ve ideal vurgusuyla anlattı.
+- Sözler, iktidarın Kudüs söylemleriyle ilişkilendirilerek kamuoyunda tartışıldı.
+- Aynı konuşma ve yorumlarda Gazze ve Filistin meselesine değinildi.
+- Yorumcular, Gazze’de çocuk ölümlerine hesap sorulmadığını savundu.
+- Türkiye’nin Gazze’ye yeterli destek vermediği eleştirileri yeniden gündeme geldi.
+- Tartışmalar, Türkiye’nin genel dış politika tercihleriyle birlikte okundu.
+- Öte yandan İsrailli eski istihbarat yetkilisinin iddiası gündem oldu.
+- İddiaya göre İran’a karşı Kürtleri silahlandırma planı vardı.
+- Türkiye’nin planı bozduğu iddiası, bazı İsraillilerce yalanlandı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=gyIEpngt4Ww&t=32s) (⏱️ 00:32-03:51)
-- [Cigdem Toker](https://www.youtube.com/watch?v=wa6KD_cQ7CQ&t=549s) (⏱️ 09:09-11:43)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=MjY8nEns4go&t=2385s) (⏱️ 39:45-41:10)
+- [Inan Demirel](https://www.youtube.com/watch?v=owGwX6asCR0&t=2543s) (⏱️ 42:23-47:07)
+- [Murat Yetkin](https://www.youtube.com/watch?v=nNfzQjqhiOc&t=497s) (⏱️ 08:17-08:49)
 
 ---
 
-## 4. Swap finansmanı ve seçim tartışmaları
+## 4. Süresiz Nafaka İbaresi İptal Edildi
 
-- Cumhurbaşkanı Erdoğan’ın swapla 40 milyar dolar bulabileceği iddia edildi.
-- Bu kaynakla baskın erken seçim ihtimali yorumlarda tartışma konusu oldu.
-- Temmuz’da ara zam veya seyyanen artış seçim takvimini etkileyebilir.
-- Kasım ayında seçim ihtimali, olası zam senaryolarıyla gündeme geldi.
-- Artışların bütçe maliyeti yüksek, sonra vergilerle geri alınabilir.
-- Swap işlemi, TL verip dolar alma ve geri ödeme yükümlülüğüdür.
-- Yurtdışından sağlanan para borç niteliğinde, ülkeye risk oluşturabilir.
-- ABD gibi ülkelerden gelen finansman, siyasi baskı aracı olabilir.
-- Esnaf ve KOBİ’ler vergi, ceza, bloke ve faizlerle zorlanıyor.
-- Yabancıya uzun vergi muafiyeti, yerli mükellefte adaletsizlik yaratıyor.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Serdar Akinan](https://www.youtube.com/watch?v=4Yp-WaC11xw&t=282s) (⏱️ 04:42-05:16)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=gyIEpngt4Ww&t=450s) (⏱️ 07:30-09:50)
-
----
-
-## 5. Gazeteci İsmail Arı tahliye edildi
-
-- Gazeteci İsmail Arı ilk duruşmada tahliye edildi.
-- Arı yaklaşık 75 gün tutuklu kaldı.
-- Tahliye kararı meslektaşları tarafından olumlu karşılandı.
-- Duruşma sonrası gazeteciliğe devam edeceğini açıkladı.
-- Cezaevinde koğuşların çok kalabalık olduğunu aktardı.
-- Cezaevi koşullarının zorlayıcı olduğuna dair gözlemler paylaştı.
-- Yayınlarda konuşan bazı gazeteciler sert biçimde eleştirildi.
-- Eleştiriler, ekranların gerçek gazeteciliği yansıtmadığı üzerineydi.
-- Bedel ödeyerek çalışan genç gazeteciler özellikle savunuldu.
+- Anayasa Mahkemesi, Medeni Kanun’daki süresiz nafaka ibaresini iptal etti.
+- AK Parti yöneticileri kararı olumlu buldu, düzenleme hazırlayacaklarını söyledi.
+- Kararın gerekçesi ve olası kanun taslağı henüz kamuoyuna açıklanmadı.
+- Uygulama kararın yürürlüğüyle başlayacak, yaklaşık dokuz ay geçiş öngörülüyor.
+- Değişiklik geriye dönük işlemeyecek, ödenen nafakalar geri alınamayacak.
+- Karar yoksulluk nafakasını hedefliyor, çocuk nafakası aynı kalacak.
+- Yeni sistemde nafaka süresi evlilik süresine göre belirlenecek.
+- Devam eden istinaf veya Yargıtay davaları yürürlük sonrası etkilenebilir.
+- Evlenme, birlikte yaşama veya gelir artışı gibi bitiş şartları korunacak.
+- Gazeteci İsmail Arı tahliye edildi, 75 gün tutukluluğu anlattı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Cigdem Toker](https://www.youtube.com/watch?v=wa6KD_cQ7CQ&t=19s) (⏱️ 00:19-00:40)
-- [Serdar Akinan](https://www.youtube.com/watch?v=4Yp-WaC11xw&t=862s) (⏱️ 14:22-16:06)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=MjY8nEns4go&t=9s) (⏱️ 00:09-02:57)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=JFXzPd3dcRc&t=34s) (⏱️ 00:34-02:36)
 
 ---
 
