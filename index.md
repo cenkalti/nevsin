@@ -1,75 +1,91 @@
 # Bugün Ne Oldu?
 
-*9 June 2026 tarihli günlük haber raporu - 3 haber birleştirildi*
+*10 June 2026 tarihli günlük haber raporu - 4 haber birleştirildi*
 
-## 1. CHP’de Grup Kürsüsü Yetki Krizi
+## 1. CHP’de Kılıçdaroğlu Özel Çatışması
 
-- CHP’de Özgür Özel ve Kılıçdaroğlu arasında yetki krizi büyüdü.
-- İki isim aynı saat grup toplantısı duyurunca Meclis’te gerginlik arttı.
-- Dikmen Kapısı’nda destekçiler karşılaştı, sloganlar ve arbedeler yaşandı.
-- Meclis yönetimi güvenlik gerekçesiyle ziyaretçi girişlerini tamamen yasakladı.
-- Salon tahsisi Özel’e verildi, Kılıçdaroğlu Meclis’ten çekildi.
-- Mansur Yavaş’ın sağduyu çağrısı Kılıçdaroğlu kararını etkiledi.
-- Özel, kürsüde kurultayın hızlanmasını ve 26 Temmuz’u vurguladı.
-- Kılıçdaroğlu genel merkezde arınma, mutlak butlan söylemi kullandı.
-- Kurultay gecikirse seçimlere katılım, YSK açısından riskli deniyor.
-- Disiplin, yeni parti iddiaları ve yargı hamleleri tartışılıyor.
+- CHP’de Kılıçdaroğlu ve Özel arasında liderlik krizi derinleşti.
+- 10 Haziran 2026’da TBMM önünde iki grup karşı karşıya geldi.
+- Kılıçdaroğlu grup toplantısında konuşmak istedi, salona giremedi.
+- Mansur Yavaş mesajı sonrası Kılıçdaroğlu konuşmaktan vazgeçti.
+- Özel Meclis’te konuştu, dışarıda destekçilerine ayrıca seslendi.
+- Kılıçdaroğlu genel merkezde sert suçlamalarla “arınma” söylemi kullandı.
+- Genel merkez ve meclis önünde kavga, küfür ve sloganlar kaydedildi.
+- MYK, Özel ekibinden dokuz ismi kesin ihraç istemiyle sevk etti.
+- Kurultay çağrıları, mahkeme tedbirleri ve Yargıtay süreci belirsiz.
+- Bölünme ve yeni parti senaryoları muhalefet geleceğini etkileyebilir.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Cigdem Toker](https://www.youtube.com/watch?v=cBjARuhtB9g&t=385s) (⏱️ 06:25-14:52)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=dpbSKBBKxHQ&t=1511s) (⏱️ 25:11-27:19)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=8VxHHWZSwXk&t=72s) (⏱️ 01:12-24:41)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=XdYIl-4XugI&t=114s) (⏱️ 01:54-35:40)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=URdO_EXinAE&t=878s) (⏱️ 14:38-19:28)
-- [Inan Demirel](https://www.youtube.com/watch?v=gOVsNUCNWeY&t=1276s) (⏱️ 21:16-26:50)
-- [Serdar Akinan](https://www.youtube.com/watch?v=qBKaCo65FeA&t=24s) (⏱️ 00:24-01:15)
-- [Murat Yetkin](https://www.youtube.com/watch?v=jIy4RqfRbWc&t=131s) (⏱️ 02:11-03:17)
-- [Hilal Koylu](https://www.youtube.com/watch?v=SrMI6auI7OY&t=1718s) (⏱️ 28:38-43:57)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=fia3N7ooBMo&t=77s) (⏱️ 01:17-27:59)
-- [Unsal Unlu](https://www.youtube.com/watch?v=WbZnXzrGQnU&t=71s) (⏱️ 01:11-03:36)
-- [Onlar TV](https://www.youtube.com/watch?v=8DoconYz9vA&t=108s) (⏱️ 01:48-02:53)
-- [Rusen Cakir](https://www.youtube.com/watch?v=GiE0NlooNDE&t=7s) (⏱️ 00:07-00:55)
+- [Unsal Unlu](https://www.youtube.com/watch?v=GZnJVCOeizU&t=43s) (⏱️ 00:43-18:58)
+- [Onlar TV](https://www.youtube.com/watch?v=xM1Coj1ajks&t=31s) (⏱️ 00:31-34:42)
+- [Hilal Koylu](https://www.youtube.com/watch?v=Pe1BvMcanFk&t=2972s) (⏱️ 49:32-52:31)
+- [Murat Yetkin](https://www.youtube.com/watch?v=FS-TVlciKcI) (⏱️ 00:00-12:21)
+- [Rusen Cakir](https://www.youtube.com/watch?v=rqiVty9uZMk&t=3s) (⏱️ 00:03-13:37)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=Jq02rRXA8ns&t=222s) (⏱️ 03:42-49:03)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=lyEEYB9iOj0&t=739s) (⏱️ 12:19-21:01)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=BKTjitYdDyc) (⏱️ 00:00-05:00)
 
 ---
 
-## 2. Din ve siyaset tartışmaları büyüyor
+## 2. İBB davasında savunmalar ve ihlal iddiaları
 
-- Sakarya Hendek’te camide maç izleme etkinliği planı kamuoyuna yansıdı.
-- Afişlerde namaz, kahvaltı ve dev ekranda maç ifadeleri yer aldı.
-- AKP’li milletvekili Ali İnci’nin etkinliği desteklediği iddia edildi.
-- İlçe müftüsü, müftülüğün ilgisi olmadığını ve iptali duyurdu.
-- Tartışma, din kurumlarıyla siyasi etkinlik sınırlarını yeniden gündeme taşıdı.
-- Aynı gün Ferdi Zeyrek için Manisa’da anma töreni düzenlendi.
-- Mansur Yavaş ve Özgür Özel anmaya katılacaklarını kamuoyuna açıkladı.
-- Canlı yayınlarda aileye taziye mesajları ve üzüntü paylaşıldı.
-- Yavaş’ın Manisa ziyareti, siyaset gündemindeki hamlelerle ilişkilendirildi.
-- Cübbeli Ahmet’in Erdoğan ziyareti ve Diyanet Vakfı VIP hac eleştirildi.
+- Silivri’de İBB davasının 47. gün duruşması yapıldı.
+- Duruşmayı Ekrem İmamoğlu izledi, çıkışta itişme iddiası gündeme geldi.
+- Jandarma müdahalesi yaşandığı, salonda gerginlik oluştuğu aktarıldı.
+- Medya AŞ yöneticileri ve eski yöneticiler tutuklu, savunmalarını sundu.
+- Elif Atayman, sevk sırasında sekiz saat kelepçeli taşındığını söyledi.
+- Atayman, Medya AŞ’de israf ve lüks harcamalar olduğunu anlattı.
+- TRT yapımcılarına sponsorlukla yaklaşık dört milyon dolar aktarıldığını öne sürdü.
+- Şirketin devralındığında yaklaşık 200 milyon TL zararı bulunduğunu belirtti.
+- Fatoşpınar Türker, ev baskını ve tutuklama sürecini duygusal anlattı.
+- Türker, çıplak arama, susuz bırakma ve çocuklarla tehdit iddiaları dile getirdi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=8VxHHWZSwXk&t=1918s) (⏱️ 31:58-32:47)
-- [Onlar TV](https://www.youtube.com/watch?v=KMC3HuYLMj0&t=3040s) (⏱️ 50:40-51:24)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=E7RTSI0Bh6U&t=56s) (⏱️ 00:56-27:23)
+- [Onlar TV](https://www.youtube.com/watch?v=xM1Coj1ajks&t=2083s) (⏱️ 34:43-43:01)
+- [Unsal Unlu](https://www.youtube.com/watch?v=GZnJVCOeizU&t=1139s) (⏱️ 18:59-44:39)
 
 ---
 
-## 3. Polat cinayeti ve İBB davası
+## 3. Anketler CHP’de Özel Dönüşümünü Gösteriyor
 
-- İBB davasında duruşmada son gelişmeler ve notlar paylaşıldı.
-- Sanık Elif Atayman, beş başlıkta suçlamaları reddetti duruşmada.
-- Atayman, 21 aylık müdürlük dışında olaylarda rolüm yok dedi.
-- Atayman, cezaevinde farklı koğuşlar ve hücre koşulları anlattı.
-- Duruşmada Ekrem İmamoğlu’nun merdivende itildiği iddiası gündeme geldi.
-- Çeşme’den çıkarken Can Polat silahlı saldırıyla öldürüldü, soruşturma sürüyor.
-- Olay sonrası otel odası videosu yayıldı, sonra hızla silindi.
-- Videoda panik sesleri, polis-ambulans çağrısı ve çocuk tanıklığı vardı.
-- Meta, yasal talep nedeniyle Dilen Polat’ın Instagram’ını kapattığını açıkladı.
-- Tetikçi ifadesi, ‘Golf 34’ bağlantısı ve Daltonlar iddiasını içerdi.
+- Anketler CHP seçmeninin çoğunun Özgür Özel çizgisine kaydığını gösteriyor.
+- CHP seçmeninin yaklaşık yüzde 70’i Özel’e yakın duruyor.
+- Yaklaşık yüzde 10 Kılıçdaroğlu’nu destekliyor, yüzde 20 kararsız kalıyor.
+- Apati yaşayan ilgisiz seçmen kitlesi zamanla tercih değiştirebilir.
+- Umut duygusu oy kararını güçlü biçimde belirleyen ana etken görülüyor.
+- Özel genel seçmende en fazla umut yaratan lider olarak öne çıkıyor.
+- Kılıçdaroğlu birçok grupta düşük umut yaratıyor, algıyı değiştirmesi zor.
+- Öfke seçmeni mobilize edebilir fakat etkisi daha kısa sürüyor.
+- Deneysel ankette Mansur Yavaş eklenince Özel’e oy artıyor.
+- Işık Üniversitesi araştırması, yeni parti beklentisi ve yüksek oy potansiyeli buluyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Nevsin Mengu](https://www.youtube.com/watch?v=fia3N7ooBMo&t=2760s) (⏱️ 46:00-49:50)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=qCF_fNZYXIs) (⏱️ 00:00-03:26)
+- [Rusen Cakir](https://www.youtube.com/watch?v=IfW1Q0m4kSI&t=357s) (⏱️ 05:57-20:10)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=lyEEYB9iOj0&t=1441s) (⏱️ 24:01-25:49)
+
+---
+
+## 4. Halk TV tartışmaları ve Ahmet Mekin
+
+- Halk TV'nin satışı ve kanal sahipliği tartışmaları yeniden gündeme geldi.
+- Kanalın sahibi Cafer Mahiroğlu hakkında çeşitli iddialar kamuoyuna yansıdı.
+- Kemal Kılıçdaroğlu'nun satış sürecinde rol aldığı öne sürüldü.
+- Satışın geçmişi, süreç detayları ve Aslı Baykal ismi konuşuldu.
+- Bazı yorumcular medya kuruluşlarının parayla el değiştirmesine karşı çıktı.
+- Ayrı bir programda oyuncu Ahmet Mekin’in sanat hayatı anlatıldı.
+- Mekin’in saygın duruşu ve akıcı Türkçesi özellikle vurgulandı.
+- Servi Boylum Al Yazmalım gibi klasik film rolleri yeniden hatırlatıldı.
+- Turan Selçuk’un Abdülcambaz karakteriyle Mekin’in bağı değerlendirildi.
+- Mekin’in Dostlar Tiyatrosu’nda Abdülcambaz’ı canlandırması anıldı.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=lyEEYB9iOj0&t=578s) (⏱️ 09:38-11:38)
+- [Rusen Cakir](https://www.youtube.com/watch?v=rqiVty9uZMk&t=821s) (⏱️ 13:41-17:28)
 
 ---
 
