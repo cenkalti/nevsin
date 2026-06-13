@@ -1,67 +1,106 @@
 # Bugün Ne Oldu?
 
-*12 June 2026 tarihli günlük haber raporu - 3 haber birleştirildi*
+*13 June 2026 tarihli günlük haber raporu - 5 haber birleştirildi*
 
-## 1. CHP’de Kriz ve Disiplin Savaşı
+## 1. CHP’de Liderlik Krizi Derinleşiyor
 
-- Mahkeme kararıyla kurultay geçersiz sayıldı, Özel’in seçimi düştü.
-- Kemal Kılıçdaroğlu yönetimi yeniden göreve döndü, parti krizi büyüdü.
-- Dokuz milletvekili kesin ihraç istemiyle disiplin kuruluna sevk edildi.
-- Grup başkanvekillerinin görevleri bitti, odaların boşaltılması istendi.
-- Özgür Özel destek gördüğünü, ihraçların uygulanmayacağını savundu kamuoyunda.
-- Tüzük ve hukuk belirsizliği kurultayı zorlaştırıyor, süreç uzuyor deniyor.
-- Parti meclisi istifaları olağanüstü kurultay çağrısını gündeme taşıdı.
-- Genel merkezde arbede iddiaları gerilimin fiziki boyuta taşındığını gösterdi.
-- Gazetecilere 'sarı zarf' suçlaması yapıldı, parti troll dedi.
-- Kılıçdaroğlu 'baba ocağı' dedi, hesaplaşma ve FETÖ ithamları tartışıldı.
+- 21 Mayıs’tan beri CHP içinde sert çatışmalar gündemde.
+- Seçilmiş yönetim ile atanmış genel merkez arasında gerilim yaşanıyor.
+- Özgür Özel çevresinin yeni parti kurma ihtimali tartışılıyor.
+- Kılıçdaroğlu’nu tutmak için baba ocağı söylemi öne çıkarılıyor.
+- Bu söylemin yeni seçmen ve gençlere açılımı zayıflatacağı söyleniyor.
+- Partide istifalar, ihraç talepleri ve disiplin süreçleri hızlandı.
+- Fezlekeler ve yargı baskısının CHP’ye artabileceği konuşuluyor.
+- Özel’in dokunulmazlığının kaldırılması gibi senaryolar da tartışılıyor.
+- Kurultay, PM işleyişi ve adaylık sürecinde usulsüzlük iddiaları var.
+- Mitingler, Meclis çalışmaları ve farklı partilerden destek arayışı sürüyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=oU8-CEnsrM8&t=418s) (⏱️ 06:58-24:47)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=p-BU84hKL8s&t=1962s) (⏱️ 32:42-33:16)
-- [Onlar TV](https://www.youtube.com/watch?v=tVlvxW74SFU&t=123s) (⏱️ 02:03-44:25)
-- [Hilal Koylu](https://www.youtube.com/watch?v=U4kQRZzIPMg&t=62s) (⏱️ 01:02-12:46)
-- [Rusen Cakir](https://www.youtube.com/watch?v=jcXHCGPgjIE&t=57s) (⏱️ 00:57-38:06)
+- [Cigdem Toker](https://www.youtube.com/watch?v=voPEugpt7Dk&t=45s) (⏱️ 00:45-04:15)
+- [Onlar TV](https://www.youtube.com/watch?v=4dNzR2WzimI&t=390s) (⏱️ 06:30-11:09)
+- [Rusen Cakir](https://www.youtube.com/watch?v=2D_2lqpRzZM&t=3s) (⏱️ 00:03-10:30)
+- [Hilal Koylu](https://www.youtube.com/watch?v=Sgox60qJg94&t=81s) (⏱️ 01:21-21:55)
 
 ---
 
-## 2. Büyük Operasyonda Tanınmış İsimler Gündemde
+## 2. Yargı kararnamesiyle kritik görev değişiklikleri
 
-- İstanbul ve Ankara merkezli geniş narkotik ve fuhuş operasyonu yapıldı.
-- Başlangıçta 22 kişi gözaltına alındı, sayı artabilir denildi.
-- Toplam listede 25-27 isim olduğu, aramalar sürdüğü aktarıldı.
-- Operasyonun 2025 ve 2026 başlangıçlı iki soruşturmaya bağlı olduğu belirtildi.
-- Şüphelilerden saç, kan ve tırnak örnekleri alındığı bildirildi.
-- Gözaltı listesinde bazı yüksek profilli sanatçı ve fenomenler anıldı.
-- Medya yöneticisi Murat Saygı’nın da listede olduğu söylendi.
-- Adnan Beker’in oğlu Oğuzhan Beker’in gözaltına alındığı duyuruldu.
-- Adnan Beker suçlamaları reddetti, süreci takip edeceğini açıkladı.
-- Turgut Altınok’un damadı Efe Bezci bağlantıları, tartışmaları artırdı.
+- Hakimler ve savcılar kararnamesi yayımlandı, geniş çaplı değişiklik yapıldı.
+- Kararnameyle 4.967 hakim ve savcının görev yeri değişti.
+- Toplam 32 ilin cumhuriyet başsavcısı da bu kararla değiştirildi.
+- İstanbul Başsavcı Vekili Aykut Çelik, Ankara Başsavcısı oldu.
+- Çelik’in geçmişte İBB davası ve CHP dosyalarında görev aldığı belirtildi.
+- Atamanın Ankara’daki soruşturma dengelerini etkileyebileceği değerlendiriliyor.
+- Özgür Özel’e yönelik dosyaların takibinin artabileceği konuşuluyor.
+- Fezlekeler ve dokunulmazlık süreçlerinde yeni gelişmeler bekleniyor deniyor.
+- Kararnamede Ekrem İmamoğlu’nu beraat ettiren hakim Edirne’ye atandı.
+- Bu atama, kararnamenin olası siyasi etkileri açısından dikkat çekti.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilal Koylu](https://www.youtube.com/watch?v=U4kQRZzIPMg&t=2120s) (⏱️ 35:20-37:52)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=ot2sWGdrgak&t=172s) (⏱️ 02:52-10:36)
+- [Hilal Koylu](https://www.youtube.com/watch?v=Sgox60qJg94&t=2754s) (⏱️ 45:54-48:12)
+- [Cigdem Toker](https://www.youtube.com/watch?v=voPEugpt7Dk&t=4s) (⏱️ 00:04-00:44)
 
 ---
 
-## 3. Belediye başkanları davalarında çifte standart
+## 3. Tavuk Sektörüne Kayyım ve Soruşturma
 
-- Aydın Büyükşehir Başkanı Özlem Çerçioğlu hakkında beraat kararı verildi.
-- Çerçioğlu’na yönelik rüşvet ve yolsuzluk iddialarının düştüğü aktarıldı.
-- Yorumcular, sürecin kısa sürede kapanmasına dikkat çekti.
-- Benzer iddiaların başka belediyelerde sürdüğü, tutarsızlık vurgulandı.
-- Çerçioğlu’nun CHP oylarıyla seçilip AK Parti’ye geçtiği hatırlatıldı.
-- Parti değiştiren bazı isimlerin davalardan aklanması tartışma yarattı.
-- Belediye başkanlarının parti değişikliklerinin soruşturmalara etkisi konuşuldu.
-- Bursa Belediye Başkanı Mustafa Bozdi hakkında 402 yıl hapis istendiği duyuruldu.
-- Keskin Belediye Başkanı Ekmel Cöngel’in 5 yıl cezası kesinleşti.
-- Cöngel’in cezaevine girmeden görevde kalması sorgulandı.
+- Beyaz et sektöründe tavuk şirketlerine yönelik geniş kapsamlı operasyon başlatıldı.
+- İstanbul Cumhuriyet Başsavcılığı haksız fiyat artışı iddiasını soruşturuyor.
+- Rekabet ihlali ve kartel şüphesi soruşturmanın diğer gerekçeleri arasında.
+- Operasyonda 32 şüpheli gözaltına alındı, soruşturma sürüyor.
+- Lezitaan, Banvit, Keskinoğlu, Şempiliç, Orvital, Bakpiliç şirketleri anıldı.
+- Keskinoğlu sahibi Özer Matlı gözaltındaki isimler arasında bildirildi.
+- 13 şirkete denetim kayyımı atandı, mali işlemler onaya bağlanacak.
+- Kayyım geçici devlet yetkilisi, şirket yönetimini denetim amaçlı izler.
+- Sektörde maliyetler arttı; yem payı yüksek ve dövize bağlı.
+- Uzmanlar kayyımın arz daralması ve şirket zarar riski yaratabileceğini söyledi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilal Koylu](https://www.youtube.com/watch?v=U4kQRZzIPMg&t=2387s) (⏱️ 39:47-40:46)
-- [Unsal Unlu](https://www.youtube.com/watch?v=oU8-CEnsrM8&t=217s) (⏱️ 03:37-05:36)
+- [Hilal Koylu](https://www.youtube.com/watch?v=Sgox60qJg94&t=1450s) (⏱️ 24:10-37:49)
+- [Cigdem Toker](https://www.youtube.com/watch?v=voPEugpt7Dk&t=288s) (⏱️ 04:48-06:46)
+
+---
+
+## 4. Çıplak Arama İddiasına Müfettiş İncelemesi
+
+- Fatoş Pınar Türker, tutukluyken çıplak arandığını iddia etti.
+- Türker, cezaevi koşullarında yaşadıklarını ayrıntılarıyla kamuoyuna anlattı.
+- İddialar, İBB davası kapsamında tutukluluğu sırasında gündeme geldi.
+- Türker, yaşadıklarını anlatırken utanmadığını özellikle vurguladı.
+- İstanbul Emniyeti, iddiaların gerçeği yansıtmadığını belirterek reddetti.
+- Sosyal medyada ve kamuoyunda iddialara yönelik geniş tepki oluştu.
+- Meslek örgütleri süreci izledi ve açıklamalarla tartışmayı büyüttü.
+- İçişleri Bakanlığı, iddialar üzerine inceleme başlatıldığını duyurdu.
+- Bakanlık, inceleme için müfettiş görevlendirildiğini açıkladı.
+- Müfettiş incelemesinin sonucu ve olası yaptırımlar belirsizliğini koruyor.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Hilal Koylu](https://www.youtube.com/watch?v=Sgox60qJg94&t=2613s) (⏱️ 43:33-45:51)
+- [Cigdem Toker](https://www.youtube.com/watch?v=voPEugpt7Dk&t=433s) (⏱️ 07:13-09:16)
+
+---
+
+## 5. Ankara Anıları ve İletişim Stratejisi
+
+- Konuk, sosyal medya stratejisini danışmanlarıyla birlikte planladığını söylüyor.
+- Haftalık yürüyüş ve sokak ritüelleri düzenli olarak paylaşılabiliyor.
+- Videolarda müzik seçimi ve izlenme istatistikleri takip ediliyor.
+- Sosyal medya tek başına yeterli değil, saha çalışması gerekiyor.
+- Konuklar Ankara ziyaretinde üniversite yıllarına dair anılar paylaşıyor.
+- Leylak kokuları ve Kurtuluş Parkı anıları nostaljik şekilde anlatılıyor.
+- Ankara’daki yeşil alanların zamanla azaldığına dikkat çekiliyor.
+- Öğrencilik dönemi döner ve sandviç gibi tatlar hatırlanıyor.
+- Bahçecilikle uğraşma ve meyve fidanı dikme deneyimleri aktarılıyor.
+- Sohbet, iletişim yöntemleriyle şehir hafızasını bir araya getiriyor.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Onlar TV](https://www.youtube.com/watch?v=4dNzR2WzimI&t=2160s) (⏱️ 36:00-42:20)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=CEA40rKstBU) (⏱️ 00:00-08:24)
 
 ---
 
