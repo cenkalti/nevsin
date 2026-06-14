@@ -1,106 +1,66 @@
 # Bugün Ne Oldu?
 
-*13 June 2026 tarihli günlük haber raporu - 5 haber birleştirildi*
+*14 June 2026 tarihli günlük haber raporu - 3 haber birleştirildi*
 
-## 1. CHP’de Liderlik Krizi Derinleşiyor
+## 1. Siyaset ve ekonomide gerilim artıyor
 
-- 21 Mayıs’tan beri CHP içinde sert çatışmalar gündemde.
-- Seçilmiş yönetim ile atanmış genel merkez arasında gerilim yaşanıyor.
-- Özgür Özel çevresinin yeni parti kurma ihtimali tartışılıyor.
-- Kılıçdaroğlu’nu tutmak için baba ocağı söylemi öne çıkarılıyor.
-- Bu söylemin yeni seçmen ve gençlere açılımı zayıflatacağı söyleniyor.
-- Partide istifalar, ihraç talepleri ve disiplin süreçleri hızlandı.
-- Fezlekeler ve yargı baskısının CHP’ye artabileceği konuşuluyor.
-- Özel’in dokunulmazlığının kaldırılması gibi senaryolar da tartışılıyor.
-- Kurultay, PM işleyişi ve adaylık sürecinde usulsüzlük iddiaları var.
-- Mitingler, Meclis çalışmaları ve farklı partilerden destek arayışı sürüyor.
+- İktidar yeni yapay zeka eylem planı açıkladı, liderlik hedefi vurgulandı.
+- Erdoğan, fark et istifade et üret yönet mesajını yineledi.
+- Edirne Uzunköprü ve başka illerde madenciler ücret için eylem yaptı.
+- Bazı madenciler 1200 metre altında açlık grevi başlattı.
+- İşçilerin telefon ve interneti kesildi, sendika içeriden haber alamadı.
+- Gazeteci Umut Taş madene girdi, haberi sonrası soruşturma açıldı.
+- Ankara’da taşeronlar da ödenmeyen ücretleri için eylem yaptı.
+- Beyaz et operasyonunda 13 firmaya kayyum, 32 gözaltı kararı çıktı.
+- Kartel ve fiyat anlaşması iddiaları WhatsApp yazışmalarıyla gündeme geldi.
+- CHP’de atmalar, tedbir davaları ve yeni parti söylentileri tartışılıyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Cigdem Toker](https://www.youtube.com/watch?v=voPEugpt7Dk&t=45s) (⏱️ 00:45-04:15)
-- [Onlar TV](https://www.youtube.com/watch?v=4dNzR2WzimI&t=390s) (⏱️ 06:30-11:09)
-- [Rusen Cakir](https://www.youtube.com/watch?v=2D_2lqpRzZM&t=3s) (⏱️ 00:03-10:30)
-- [Hilal Koylu](https://www.youtube.com/watch?v=Sgox60qJg94&t=81s) (⏱️ 01:21-21:55)
+- [Rusen Cakir](https://www.youtube.com/watch?v=TzZwkYO1djk&t=153s) (⏱️ 02:33-12:52)
+- [Inan Demirel](https://www.youtube.com/watch?v=0I-eNbJHxyg&t=165s) (⏱️ 02:45-04:17)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=CGjOd7YIOt0&t=135s) (⏱️ 02:15-03:15)
 
 ---
 
-## 2. Yargı kararnamesiyle kritik görev değişiklikleri
+## 2. Milli Takım Yenilgisi ve Ekonomi Gündemi
 
-- Hakimler ve savcılar kararnamesi yayımlandı, geniş çaplı değişiklik yapıldı.
-- Kararnameyle 4.967 hakim ve savcının görev yeri değişti.
-- Toplam 32 ilin cumhuriyet başsavcısı da bu kararla değiştirildi.
-- İstanbul Başsavcı Vekili Aykut Çelik, Ankara Başsavcısı oldu.
-- Çelik’in geçmişte İBB davası ve CHP dosyalarında görev aldığı belirtildi.
-- Atamanın Ankara’daki soruşturma dengelerini etkileyebileceği değerlendiriliyor.
-- Özgür Özel’e yönelik dosyaların takibinin artabileceği konuşuluyor.
-- Fezlekeler ve dokunulmazlık süreçlerinde yeni gelişmeler bekleniyor deniyor.
-- Kararnamede Ekrem İmamoğlu’nu beraat ettiren hakim Edirne’ye atandı.
-- Bu atama, kararnamenin olası siyasi etkileri açısından dikkat çekti.
+- Türkiye Milli Takımı Dünya Kupası'na Avustralya yenilgisiyle başladı.
+- Karşılaşma 2-0 bitti, taraftarlar geniş çapta hayal kırıklığı yaşadı.
+- Takım savunmada dirençliydi, ancak gol üretmekte belirgin zorlandı.
+- Grupta sıradaki maçlar Paraguay ve ABD karşılaşmaları olacak.
+- Mağlubiyete rağmen, gruptan çıkma umutlarının sürdüğü vurgulandı.
+- Merkez Bankası politika faizini %37’de sabit bıraktı, etkisi sınırlı kaldı.
+- Gecelik fonlama yaklaşık %40, gösterge oranla gerçek maliyet ayrışıyor.
+- Net döviz açığı 200 milyar dolar, dövizi kontrol zorlaşıyor.
+- Sıkı para politikası söylenirken, kamu harcamaları eleştirilerin hedefinde.
+- Enflasyon hedefi %26, yaz aylarıyla tutturması zor görünüyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilal Koylu](https://www.youtube.com/watch?v=Sgox60qJg94&t=2754s) (⏱️ 45:54-48:12)
-- [Cigdem Toker](https://www.youtube.com/watch?v=voPEugpt7Dk&t=4s) (⏱️ 00:04-00:44)
+- [Inan Demirel](https://www.youtube.com/watch?v=0I-eNbJHxyg) (⏱️ 00:00-02:45)
+- [Rusen Cakir](https://www.youtube.com/watch?v=TzZwkYO1djk&t=7s) (⏱️ 00:07-00:35)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=KGoDe1rR_2A) (⏱️ 00:00-00:46)
 
 ---
 
-## 3. Tavuk Sektörüne Kayyım ve Soruşturma
+## 3. Ankara’da sanat ve düşünce buluşmaları
 
-- Beyaz et sektöründe tavuk şirketlerine yönelik geniş kapsamlı operasyon başlatıldı.
-- İstanbul Cumhuriyet Başsavcılığı haksız fiyat artışı iddiasını soruşturuyor.
-- Rekabet ihlali ve kartel şüphesi soruşturmanın diğer gerekçeleri arasında.
-- Operasyonda 32 şüpheli gözaltına alındı, soruşturma sürüyor.
-- Lezitaan, Banvit, Keskinoğlu, Şempiliç, Orvital, Bakpiliç şirketleri anıldı.
-- Keskinoğlu sahibi Özer Matlı gözaltındaki isimler arasında bildirildi.
-- 13 şirkete denetim kayyımı atandı, mali işlemler onaya bağlanacak.
-- Kayyım geçici devlet yetkilisi, şirket yönetimini denetim amaçlı izler.
-- Sektörde maliyetler arttı; yem payı yüksek ve dövize bağlı.
-- Uzmanlar kayyımın arz daralması ve şirket zarar riski yaratabileceğini söyledi.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Hilal Koylu](https://www.youtube.com/watch?v=Sgox60qJg94&t=1450s) (⏱️ 24:10-37:49)
-- [Cigdem Toker](https://www.youtube.com/watch?v=voPEugpt7Dk&t=288s) (⏱️ 04:48-06:46)
-
----
-
-## 4. Çıplak Arama İddiasına Müfettiş İncelemesi
-
-- Fatoş Pınar Türker, tutukluyken çıplak arandığını iddia etti.
-- Türker, cezaevi koşullarında yaşadıklarını ayrıntılarıyla kamuoyuna anlattı.
-- İddialar, İBB davası kapsamında tutukluluğu sırasında gündeme geldi.
-- Türker, yaşadıklarını anlatırken utanmadığını özellikle vurguladı.
-- İstanbul Emniyeti, iddiaların gerçeği yansıtmadığını belirterek reddetti.
-- Sosyal medyada ve kamuoyunda iddialara yönelik geniş tepki oluştu.
-- Meslek örgütleri süreci izledi ve açıklamalarla tartışmayı büyüttü.
-- İçişleri Bakanlığı, iddialar üzerine inceleme başlatıldığını duyurdu.
-- Bakanlık, inceleme için müfettiş görevlendirildiğini açıkladı.
-- Müfettiş incelemesinin sonucu ve olası yaptırımlar belirsizliğini koruyor.
+- Azahar Flamenko konseri, Kült Kavaklıdere’de 11 Haziran’da premier yaptı.
+- Azahar, flamenko müzik, dans, şarkı ve şiiri buluşturuyor.
+- Projenin hazırlayıcısı ve dansçısı Olga Lukovskaya sahnede yer aldı.
+- Flamenko gitarında Ceyhun Güneş, vokalde Özge Yılmaz görev aldı.
+- Federico García Lorca’nın üç şiiri şarkı formunda yorumlandı.
+- Programda Romance Sonámbulo şiiri, Yo te quiero verde dizeleriyle öne çıktı.
+- Palmas bölümünde el vuruşlarıyla ritim tutma tekniği kullanıldı.
+- Kavaklıdere sineması, Kült Kavaklıdere adıyla kültür mekânına dönüştü.
+- Ayrı bir yayında Marksizmin demokratikleştirilmesi ve solun dönüşümü tartışıldı.
+- Fransız düşünür Luis Althusser’in etkisi, hayatı ve trajedisi anlatıldı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilal Koylu](https://www.youtube.com/watch?v=Sgox60qJg94&t=2613s) (⏱️ 43:33-45:51)
-- [Cigdem Toker](https://www.youtube.com/watch?v=voPEugpt7Dk&t=433s) (⏱️ 07:13-09:16)
-
----
-
-## 5. Ankara Anıları ve İletişim Stratejisi
-
-- Konuk, sosyal medya stratejisini danışmanlarıyla birlikte planladığını söylüyor.
-- Haftalık yürüyüş ve sokak ritüelleri düzenli olarak paylaşılabiliyor.
-- Videolarda müzik seçimi ve izlenme istatistikleri takip ediliyor.
-- Sosyal medya tek başına yeterli değil, saha çalışması gerekiyor.
-- Konuklar Ankara ziyaretinde üniversite yıllarına dair anılar paylaşıyor.
-- Leylak kokuları ve Kurtuluş Parkı anıları nostaljik şekilde anlatılıyor.
-- Ankara’daki yeşil alanların zamanla azaldığına dikkat çekiliyor.
-- Öğrencilik dönemi döner ve sandviç gibi tatlar hatırlanıyor.
-- Bahçecilikle uğraşma ve meyve fidanı dikme deneyimleri aktarılıyor.
-- Sohbet, iletişim yöntemleriyle şehir hafızasını bir araya getiriyor.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Onlar TV](https://www.youtube.com/watch?v=4dNzR2WzimI&t=2160s) (⏱️ 36:00-42:20)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=CEA40rKstBU) (⏱️ 00:00-08:24)
+- [Cigdem Toker](https://www.youtube.com/watch?v=02LilX7NO3w&t=16s) (⏱️ 00:16-12:02)
+- [Rusen Cakir](https://www.youtube.com/watch?v=TzZwkYO1djk&t=774s) (⏱️ 12:54-16:25)
 
 ---
 
