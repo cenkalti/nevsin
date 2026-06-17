@@ -1,106 +1,113 @@
 # Bugün Ne Oldu?
 
-*16 June 2026 tarihli günlük haber raporu - 5 haber birleştirildi*
+*17 June 2026 tarihli günlük haber raporu - 5 haber birleştirildi*
 
-## 1. CHP’de kurultay ve bölünme krizi
+## 1. CHP’de kurultay ve üyelik krizi
 
-- CHP’de kurultay tartışması büyüdü, parti içi gerilim tırmandı.
-- Kılıçdaroğlu ile Özgür Özel kanadı arasında uzlaşma zemini görünmüyor.
-- Bu hafta CHP TBMM grup toplantısı yapılmadı, iptal gerekçesi tartışıldı.
-- Bazıları iptali tüzük engeli, bazıları uzlaşma jesti sayıyor.
-- Grup başkan vekillerinin levhaları indirildi, ihraç süreçleri başlatıldı.
-- İhraçların genişleyebileceği, başka isimlere de sıçrayabileceği konuşuluyor.
-- Delege imzaları toplandı, teslim sürecindeki gecikmeler dikkat çekiyor.
-- Kurultay yapılmazsa CHP’nin seçime girme riski gündeme taşındı.
-- Genel merkezde işten çıkarmalar ve görevden almalar olduğu iddia ediliyor.
-- Yeni parti kurulması ve olası yargı müdahaleleri ihtimali değerlendiriliyor.
+- Yargıtay, CHP’de 9 kişinin üyeliğini savunma bitmeden sildi.
+- CHP’li Umut Akdoğan belge yayımladı, karara sert tepki geldi.
+- Tahsin Ocaklı da uygulamayı eleştirdi, süreçte hukuksuzluk vurguladı.
+- Partide 9 milletvekili ihraç talebiyle YDK’ya sevk edildi.
+- Olağanüstü kurultay için 1.133 delege imzası genel merkeze verildi.
+- İmzaların 833’ü noter onaylı, bazıları tartışmalı sayılıyor.
+- Hukukçular, tedbir kararının kurultayı engelleyemeyeceğini açıkladı.
+- Özgür Özel, krizin süreceğini, uzlaşmaya açık olduklarını söyledi.
+- Özel, Erdoğan görüşmesinde asgari ücret, emekli, Gezi’yi gündeme taşıdı.
+- Kulislerde İmamoğlu-Özel hattı, yeni parti ve şantaj iddiaları konuşuluyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Onlar TV](https://www.youtube.com/watch?v=HbqPpO1G3gk&t=255s) (⏱️ 04:15-22:57)
-- [Rusen Cakir](https://www.youtube.com/watch?v=tRbBB9qFMUE&t=4s) (⏱️ 00:04-13:12)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=NGZn1VaA0f8&t=829s) (⏱️ 13:49-14:51)
+- [Cigdem Toker](https://www.youtube.com/watch?v=0COlr6x7iqU&t=3s) (⏱️ 00:03-01:06)
+- [Hilal Koylu](https://www.youtube.com/watch?v=73N4i3Szkv8&t=823s) (⏱️ 13:43-34:02)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=awpxG-apXXw&t=510s) (⏱️ 08:30-22:00)
+- [Rusen Cakir](https://www.youtube.com/watch?v=TrB61mze8ww&t=8s) (⏱️ 00:08-12:06)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=I6A8lN8Pwqo&t=112s) (⏱️ 01:52-28:26)
+- [Onlar TV](https://www.youtube.com/watch?v=v-iyusJ234Y&t=273s) (⏱️ 04:33-21:20)
 
 ---
 
-## 2. Seçim Takvimi ve Siyasette Çatlaklar
+## 2. Silivri’de İBB davası sürüyor
 
-- Mehmet Uçum, Erdoğan’ın adaylığı için Meclis kararı gerekebilir dedi.
-- Seçim takviminin öne çekilmesi, 16 Nisan 2028 önerisiyle tartışılıyor.
-- Erken seçim ile baskın seçim ayrımının hukukta net olmadığı vurgulandı.
-- İktidarın 360 milletvekili desteği arayışı kritik eşik olarak görülüyor.
-- Anayasa görüşmeleri, seçim stratejisinin parçası olarak değerlendiriliyor sürekli.
-- Bahçeli, görev süresinin tamamlanmasından yana tavır koydu açıkça.
-- AKP’de Erdoğan sonrası senaryolar ve liderlik kaygıları gündemde.
-- Albayrak, Bilal Erdoğan ve Fidan gibi isimler kulislerde konuşuluyor.
-- Parti içi rekabetin bürokratik vesayeti artırdığı iddiası tartışılıyor.
-- CHP’de iki kanat gerilimi sürerken, bazı isimler sükunet çağrısı yapıyor.
+- Silivri’de İBB davaları sürüyor, duruşmalar kritik aşamaya ilerliyor.
+- İstanbul Planlama Ajansı Başkanı Buğra Gökçe 15-16 aydır tutuklu.
+- Gökçe, rüşvet ve usulsüz para hareketi iddialarını reddetti.
+- Suçlamaların, görevde olmadığı tarihlerdeki ihalelere dayandığını söyledi.
+- Savunmada imzalar, ihale evrakları ve valilik belgeleri mahkemeye sunuldu.
+- MASAK raporundan söz edildi, sonra rapor bulunmadığı belirtildi.
+- Gökçe, bazı işlemlerde AKP’li imzalar var, yargılama yok dedi.
+- Cezaevinde evlendiğini, nikah fotoğraflarının verilmediğini anlattı.
+- İBB Kültür AŞ’den Metin Bal ifade verecek, Ramazan Gülten savunacak.
+- Perşembe tutukluluk incelemesi ve ek duruşmaların yapılması bekleniyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=NGZn1VaA0f8&t=1152s) (⏱️ 19:12-24:42)
-- [Murat Yetkin](https://www.youtube.com/watch?v=6R7TE7wZGig&t=84s) (⏱️ 01:24-05:04)
-- [Onlar TV](https://www.youtube.com/watch?v=HbqPpO1G3gk&t=1378s) (⏱️ 22:58-45:10)
+- [Cigdem Toker](https://www.youtube.com/watch?v=0COlr6x7iqU&t=761s) (⏱️ 12:41-13:44)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=awpxG-apXXw&t=1320s) (⏱️ 22:00-38:00)
+- [Onlar TV](https://www.youtube.com/watch?v=v-iyusJ234Y&t=2991s) (⏱️ 49:51-53:52)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=fjXG0jLnva4&t=1610s) (⏱️ 26:50-31:07)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=U0wdDRk_GJE&t=685s) (⏱️ 11:25-14:34)
 
 ---
 
-## 3. Cenevre’de İran ABD ateşkes mutabakatı
+## 3. Mecliste yasa paketi ve takvim
 
-- ABD Başkan Yardımcısı JD Vens, Fox’ta mutabakatı doğruladı.
-- Taraflar İran-ABD arasında mutabakat muhtırası üzerinde uzlaştığını belirtti.
-- Muhtıra 60 günlük ateşkes uzatımı ve görüşmeleri öngörüyor.
-- Hürmüz Boğazı açık kalacak, gemilerden geçiş ücreti alınmayacak.
-- Ablukaların kalkması petrol akışını rahatlatabilir, fiyatlar hemen düşmeyebilir.
-- İran nükleer silah edinmeyeceğini taahhüt edecek iddiası gündemde.
-- Vekil silahlı gruplara desteğin azaltılması için maddeler konuşuluyor.
-- İran’ın füze programını bırakmaması büyük tartışma başlığı oluyor.
-- İmzaların 19 Haziran Cenevre’de atılması bekleniyor deniliyor.
-- İsrail tepki gösterirken ABD içi ve Türkiye temkinli izliyor.
+- Mecliste çerçeve yasa tartışmaları sürerken süreç Şubat’tan Haziran’a uzadı.
+- Kulislerde tatilsiz ek mesaiyle yasa ve fezlekelerin görüşülebileceği konuşuluyor.
+- Meclisin yaz takvimi belirsiz; olası kapanış Temmuz’un son haftası.
+- Mecliste 12. yargı paketi taslağıyla yargılamaların hızlanması hedefleniyor.
+- Paket arabuluculuk, tebligat, temyiz ve istinaf süreçlerini sadeleştiriyor.
+- Taslakta IBAN üzerinden işlenen suçlara dair yeni düzenlemeler yer alıyor.
+- Yetkililer 12. pakette infaz ya da af düzenlemesi olmadığını belirtiyor.
+- Ancak infaz düzenlemesinin daha sonra ayrı paketle gelebileceği söyleniyor.
+- DEM’li Buldan ve Sancar, Kurtulmuş’la İmralı heyeti görüşmesi yaptı.
+- Terör, yasa dışı bahis, nafaka ve LGBT düzenlemeleri gündemde.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Murat Yetkin](https://www.youtube.com/watch?v=6R7TE7wZGig&t=6s) (⏱️ 00:06-01:23)
-- [Rusen Cakir](https://www.youtube.com/watch?v=MZLOAiFWgo8&t=10s) (⏱️ 00:10-01:38)
+- [Cigdem Toker](https://www.youtube.com/watch?v=0COlr6x7iqU&t=702s) (⏱️ 11:42-12:37)
+- [Hilal Koylu](https://www.youtube.com/watch?v=73N4i3Szkv8&t=2188s) (⏱️ 36:28-37:46)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=I6A8lN8Pwqo&t=1712s) (⏱️ 28:32-31:48)
 
 ---
 
-## 4. Gıda fiyatları tepkileri büyütüyor
+## 4. Ankara’daki NATO Zirvesi Hazırlıkları
 
-- Perakende ve pazar fiyatları vatandaşın gündeminde öne çıktı.
-- Sokak röportajlarında gıda fiyatlarına yönelik tepkiler kayda geçti.
-- Limon gibi ürünlerdeki sert artış alım gücünü zorladı.
-- Vatandaşlar bütçe yetmediği için daha az ürün aldıklarını söyledi.
-- Bazıları alternatif ürünlere yönelip tasarruf yöntemleri denediklerini anlattı.
-- Marketlerde fiyat karşılaştırmaları yapılarak örnekler üzerinden tartışma yürütüldü.
-- Migros, Tarım Kredi ve diğer marketlerde tavuk kanat fiyatı karşılaştırıldı.
-- Tarım Kredi'nin bazı ürünlerde daha pahalı olması eleştirildi.
-- Devlet destekli yapının uygun fiyat beklentisi yaratttığı vurgulandı.
-- Fiyat farklılıkları enflasyon ve adalet kaygılarını artırıyor, denildi.
+- Temmuzdaki NATO zirvesi için Ankara’da olağanüstü güvenlik planlanıyor.
+- Yaklaşık 44 bin polis ve güvenlik görevlisi görevlendirilecek.
+- Zirveye Türkiye’ye yakın 100 uluslararası heyetin gelmesi bekleniyor.
+- Trump’ın zirveye katılmasıyla 17 yıl sonra ABD başkanı Ankara’ya gelecek.
+- Trump’ın yaklaşık 1400 kişilik geniş bir heyetle gelmesi öngörülüyor.
+- Ankara Havalimanı ve bazı tesisler liderler için yenilendi.
+- Güvenlik tedbirleri şehir yaşamını etkileyecek, bazı kamu çalışanları izinli olacak.
+- Zirve hazırlıkları, dış politikada yoğun gündemle birlikte yürütülüyor.
+- Fransa’daki G7’de dış politika tartışmaları ve Trump’ın mesajları öne çıktı.
+- ABD-İsrail-İran gerilimi, müttefiklerde çatlaklar ve Suriye dengeleri tartışıldı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Onlar TV](https://www.youtube.com/watch?v=6aQtsL76h1E&t=1141s) (⏱️ 19:01-20:06)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=xkqCjNxIQt8&t=398s) (⏱️ 06:38-08:48)
+- [Cigdem Toker](https://www.youtube.com/watch?v=0COlr6x7iqU&t=675s) (⏱️ 11:15-11:39)
+- [Hilal Koylu](https://www.youtube.com/watch?v=73N4i3Szkv8&t=2269s) (⏱️ 37:49-41:32)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=awpxG-apXXw&t=2940s) (⏱️ 49:00-59:01)
 
 ---
 
-## 5. Hak arayışı ve toplumsal tepkiler
+## 5. Sağlık iddiaları ve uzman uyarıları
 
-- Özel sektör öğretmenleri mülakatlarda haksızlığa uğradıklarını savundu.
-- 1600’den fazla öğretmenin puanları ve atamaları tartışma yarattı.
-- Öğretmenler protesto yaptı; biber gazı ve gözaltılar yaşandı.
-- Sendika başkanları ve eylem organizatörleri gözaltına alındı.
-- Başörtülü öğretmenlere yönelik ayrımcılık iddiaları da gündeme geldi.
-- Eylemler açlık grevi ve devam eden direniş biçiminde sürüyor.
-- Eyüp Sultan çevresindeki ikram dağıtımı sosyal medyada tartışma yarattı.
-- Küçük bir kızın kurabiye benzeri ikram dağıtması görüntülendi.
-- Tepkiler, görgü ve onur tartışmalarını yeniden gündeme taşıdı.
-- Ekonomik sıkıntıların toplumsal hassasiyetleri zorladığı vurgulandı.
+- Selvi Kılıçdaroğlu hastaneye giderken yalnız görüldü, geçmiş olsun denildi.
+- Haberde Selvi Kılıçdaroğlu’nun kanser tedavisi gördüğü iddia edildi.
+- Oyuncu Ece Irtem 35 yaşında hayatını kaybetti, ölüm ani bildirildi.
+- Avukat, kesin ölüm nedeninin otopsi sonrası açıklanacağını söyledi.
+- Kamera görüntülerinde anne-kız doğum gününden dönüyor, zor yürüyor.
+- Prof. Dr. Muhammed Keskin, olayla ilgili tıbbi değerlendirme yaptı.
+- Keskin, 35 yaşta en sık ölüm nedeninin kalp krizi olmadığını belirtti.
+- Kalp krizinde EKG veya otopside plak yırtılması bulgusu aranır.
+- Genç ani ölümler ritim bozukluğu, kalp kası kalınlaşması, emboli kaynaklı olabilir.
+- Antidepresanla alkol birlikte kullanımı ritim bozukluğu riskini artırabilir.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Onlar TV](https://www.youtube.com/watch?v=HbqPpO1G3gk&t=2711s) (⏱️ 45:11-50:21)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=xkqCjNxIQt8&t=530s) (⏱️ 08:50-11:04)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=fjXG0jLnva4&t=2361s) (⏱️ 39:21-39:39)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=kKbRtsSYgJc&t=760s) (⏱️ 12:40-14:55)
 
 ---
 
