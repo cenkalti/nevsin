@@ -1,65 +1,86 @@
 # Bugün Ne Oldu?
 
-*18 June 2026 tarihli günlük haber raporu - 3 haber birleştirildi*
+*19 June 2026 tarihli günlük haber raporu - 4 haber birleştirildi*
 
-## 1. CHP’de Disiplin Kararlarıyla Kriz
+## 1. İBB Davasında Tahliyeler ve Kaçırılma
 
-- CHP’de yönetim krizi, disiplin kararlarıyla yeniden alevlendi son günlerde.
-- MYK çok sayıda görevden alma ve yeni atama kararı çıkardı.
-- Özgür Çelik ve dört kişi ihraç talebiyle disipline sevk edildi.
-- Daha önce dokuz milletvekili ve iki grup başkanvekili işlem gördü.
-- Üç il yönetimi feshedildi, beş il başkanlığına atama yapıldı.
-- Kadın kolları başkanı Asu Kaya alındı, Ayten Gülsever atandı.
-- Delegeler olağanüstü kurultay imzalarını Murat Emir’e teslim etti.
-- Eleştiriler, tüzük ve süreçlere uyulmadığı, keyfilik iddiası etrafında toplandı.
-- Bazı illerde demokrasi nöbeti ve hukuki itiraz hazırlıkları duyuruldu.
-- Tartışma temiz siyaset, ihale düzeni, yolsuzluk ve şeffaflık eksenine oturdu.
+- Silivri’de İBB davası duruşmaları sürerken ara karar bekleniyordu.
+- Savcı birkaç saat içinde mütalaasını açıklayacağını duyurdu.
+- Ekrem İmamoğlu savunmasını sürdürdü; salonda kayıt yasağı uygulandı.
+- Bugün bazı sanıklar tahliye edildi; toplam tahliye sayısı 51’e çıktı.
+- Davada 414 sanık bulunduğu, 107’sinin tutuklu olduğu aktarıldı.
+- Silivri’de 59 tutuklunun kaldığı, diğerlerinin serbest bırakıldığı belirtildi.
+- Tanık beyanlarının değiştiği, delil zayıflığı ve çelişkiler tartışıldı.
+- Tutuklulukların aileler ve çocuklar üzerinde ağır etkileri vurgulandı.
+- İBB Kültür AŞ yöneticisi Erhan Karael Maltepe’de kaçırıldı.
+- Tuzla’da bulundu; sahte plaka ve 7 gözaltı bildirildi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=-YQ6cwO86EE&t=200s) (⏱️ 03:20-12:06)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=HFeQWAZBAZs&t=2325s) (⏱️ 38:45-42:05)
-- [Onlar TV](https://www.youtube.com/watch?v=gjqBBl_Zid8&t=2667s) (⏱️ 44:27-53:21)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=IBvruFMPkbQ&t=14s) (⏱️ 00:14-01:43)
+- [Onlar TV](https://www.youtube.com/watch?v=PnxGNVHyKbk&t=79s) (⏱️ 01:19-45:20)
+- [Unsal Unlu](https://www.youtube.com/watch?v=grx-puRRczA&t=864s) (⏱️ 14:24-14:55)
 
 ---
 
-## 2. Enerji şokları ve gelir erozyonu
+## 2. Enflasyon Tartışmaları ve Devlet Harcamaları
 
-- Uluslararası büyük şirketlerin ilk çeyrek kârları belirgin biçimde arttı.
-- Savaş ve arz koşulları petrol fiyatlarında dalgalanma yaratıyor.
-- Petrol ve ileri teknoloji şirketleri kriz ortamından daha çok kazanıyor.
-- Brent petrol yaklaşık 70 dolarda birçok üretici için başa baş.
-- Küresel ticaret karşılıklı bağımlı; kritik geçitler aksarsa sistem zorlanır.
-- Hürmüz Boğazı kapanırsa küresel petrol sevkiyatı ciddi etkilenir.
-- 1973 petrol krizinden sonra ülkeler stratejik enerji rezervleri geliştirdi.
-- ABD’de özel sektörün de katıldığı yeni nükleer enerji yatırımları başlıyor.
-- Türkiye’de enflasyon yüksek; faiz yükü ve bütçe baskısı artıyor.
-- Kira artışı, asgari ücretli ve emeklinin alım gücünü düşürüyor.
+- Gıda fiyatları ve enflasyon, farklı programlarda ana gündem oldu.
+- Beyaz et sektörüne kayyum atandı, ardından marketlere fiyat cezası kesildi.
+- Konuşmalarda 10 milyon lira ve toplamda trilyonluk cezalar anıldı.
+- Lastik sektöründe de Petlas ve Michelin gibi markalara soru işaretleri gündeme geldi.
+- 90 günde 23,5 milyar TL canlı hayvan ve et ithalatı söylendi.
+- İthalat maliyetiyle sofradaki fiyat arasında neredeyse 10 kat fark sorgulandı.
+- İstanbul’daki Michelin restoranları, artan maliyetlerle bazı günler zarar etti.
+- Esnaf lokantası menüyü maliyet altına satıp müşteri kaybetmemeye çalıştı.
+- Kamuda son beş ayda 1,262 trilyon lira faiz ödendiği belirtildi.
+- Ankara’da NATO zirvesi hazırlıkları ve harcamalar, ekonomik baskıyla tartışıldı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=-YQ6cwO86EE&t=754s) (⏱️ 12:34-17:57)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=HFeQWAZBAZs&t=169s) (⏱️ 02:49-32:37)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=O5uysNUu9y8&t=69s) (⏱️ 01:09-04:46)
+- [Rusen Cakir](https://www.youtube.com/watch?v=UuRg6pm6i1M&t=5s) (⏱️ 00:05-11:45)
+- [Serdar Akinan](https://www.youtube.com/watch?v=wYndsY7JqUo) (⏱️ 00:00-04:31)
 
 ---
 
-## 3. İBB Davasında Talepler ve Tutukluluk
+## 3. Kurumlara yolsuzluk operasyonları gündemde
 
-- Savcı, Elif İpek Atayman için tali ceza talep etti.
-- Savcı, Yunus Göçer ve diğer dört isim hakkında talepte bulundu.
-- Mahkeme heyeti, savcının talepleri ve eklerini değerlendirecek.
-- Dosyada en az beş kişiye ilişkin karar beklentisi öne çıktı.
-- İBB davasında İmar Daire Başkanı Ramazan Gülten’in tutukluluğu tartışılıyor.
-- Gülten, Hiranur Vakfı’na ait kaçak bölümleri tespit etti.
-- Gülten’in tespitleri sonrası yıkım kararı aldırdığı aktarıldı.
-- Gülten, cezaevinde maddi sıkıntı çektiğini savunmasında anlattı.
-- Savunmasında tek evi olduğunu ve mal varlığını sınırlı gösterdi.
-- MASAK raporu ve mali delil eksikliği iddiaları gündeme geldi.
+- Ege Üniversitesi’nde geniş çaplı yolsuzluk operasyonu başlatıldı.
+- Sayıştay raporlarıyla örtüşen usulsüz hesaplama ve fazla ödeme tespit edildi.
+- Ameliyathane inşaatı ve alımlarda kamu zararı 3,1 milyar TL.
+- Birçok idari, tıp personeli ve bazı yöneticiler tutuklandı.
+- Programcılar, usulsüzlükleri yıllar önce yazıp uyardıklarını söyledi.
+- Tutuklamaların gerekçeleri ve gecikmenin nedeni kamuoyunda tartışıldı.
+- İddialarda bazı AK Parti bağlantılı isimlerin de geçtiği belirtildi.
+- Aynı sabah Adalar ve Silifke belediyelerine de operasyon düzenlendi.
+- İstanbul Adalar ve Mersin Silifke’de yaklaşık 110 kişi gözaltına alındı.
+- Operasyonların muhalefet belediyelerini hedef aldığı yorumları paylaşıldı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Onlar TV](https://www.youtube.com/watch?v=gjqBBl_Zid8&t=2376s) (⏱️ 39:36-44:26)
-- [Rusen Cakir](https://www.youtube.com/watch?v=NlC99au-cuE&t=1337s) (⏱️ 22:17-39:11)
+- [Onlar TV](https://www.youtube.com/watch?v=PnxGNVHyKbk&t=3371s) (⏱️ 56:11-64:49)
+- [Unsal Unlu](https://www.youtube.com/watch?v=grx-puRRczA&t=528s) (⏱️ 08:48-09:03)
+
+---
+
+## 4. Fezlekeler ve yasa dışı bahis soruşturması
+
+- TBMM’ye 12 yeni fezleke gönderildi, bazı vekiller hedefte.
+- Fezleke, milletvekili hakkında soruşturma izni isteyen resmi belgedir.
+- Savcılıklar yasa dışı bahis ve ödeme altyapılarını inceleyen dosyalar hazırladı.
+- Payko, Papel, Paybul, Payfix ve Papara iddianamelerde yer aldı.
+- Şirketlerin bahis gelirlerini para hareketleriyle akladığı öne sürüldü.
+- Sahte kimlik ve fotoğraf doğrulamayla binlerce hesap açıldığı belirtildi.
+- Bazı hesaplarda milyonlarca liralık transferler örnek olarak aktarıldı.
+- MASAK ve Merkez Bankası denetim raporları soruşturmalara dayanak yapıldı.
+- İddianame hazırlandığı ve firmalara yönelik operasyonlar yapıldığı bildirildi.
+- Dosyalarda farklı isimlerin bulunduğu, detayların sürdüğü ifade edildi.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Onlar TV](https://www.youtube.com/watch?v=PnxGNVHyKbk&t=4161s) (⏱️ 69:21-78:16)
+- [Unsal Unlu](https://www.youtube.com/watch?v=grx-puRRczA&t=479s) (⏱️ 07:59-08:27)
 
 ---
 
