@@ -1,150 +1,149 @@
 # Bugün Ne Oldu?
 
-*23 June 2026 tarihli günlük haber raporu - 7 haber birleştirildi*
+*24 June 2026 tarihli günlük haber raporu - 7 haber birleştirildi*
 
-## 1. CHP’de Kurultay Krizi Büyüyor
+## 1. CHP’de kriz ve yeni yol arayışı
 
-- CHP’de kurultay, yetki ve meşruiyet tartışmaları derinleşerek sürüyor.
-- Kılıçdaroğlu’nun Sözcü TV röportajı genel olarak zayıf bulundu.
-- Yorumlara göre amaç tepki dindirmek değil, normalleşme sağlamak.
-- Bu stratejiyle Kılıçdaroğlu’nun yeniden partinin yüzü olması hedefleniyor.
-- Özgür Özel grup konuşmasında partinin fiilen kapatıldığını söyledi.
-- Özel olağanüstü kurultay için delege imzaları toplandığını açıkladı.
-- Yönetim Eylül’de olağan kurultay sürecini başlatacağını duyurdu.
-- Atamalar, görevden almalar ve disiplin süreçleri parti içi saflaşmayı artırdı.
-- Butlan ve dokunulmazlık tartışmaları yargı-siyaset gerilimini büyüttü.
-- Demirtaş, Kılıçdaroğlu görüşmesini reddetti; ziyaret planı tartışma yarattı.
+- CHP’de kurultay tartışmaları ve parti içi gerilimler büyüyor son günlerde.
+- Özgür Özel, grup toplantısında Kılıçdaroğlu’na tarihi karar çağrısı yaptı.
+- Salondaki kalabalık, Özel’in çağrısını coşkuyla karşıladı ve destekledi.
+- Özel, parti içinde diplomasi ve uzlaşma arayışını sürdürdüğünü vurguluyor.
+- Olağanüstü kurultay talepleri konuşulsa da yapılmayacağı belirtiliyor şimdilik.
+- Parti yönetimi, olağan kurultay hazırlıklarının Eylül’de başlamasını planlıyor.
+- Özel, yargı sürecinin 20 Temmuz’a kadar sonuçlanmasını bekliyor.
+- Lehte karar çıkarsa Özel’in yeniden genel başkanlığa dönmesi bekleniyor.
+- Karar gecikirse istifalarla yeni parti veya başka yapı seçeneği değerlendiriliyor.
+- Kılıçdaroğlu’nun Demirtaş ziyareti iddiası reddedildi, tartışma büyüdü.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Murat Yetkin](https://www.youtube.com/watch?v=DoxVEU3_NJE&t=6s) (⏱️ 00:06-03:56)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=Yg3xYG8nFzQ&t=2741s) (⏱️ 45:41-49:20)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=RXZCOPWjpx4&t=5s) (⏱️ 00:05-14:36)
-- [Rusen Cakir](https://www.youtube.com/watch?v=7oXHM_PyAoA) (⏱️ 00:00-11:32)
-- [Onlar TV](https://www.youtube.com/watch?v=7pGk_AhQhfE&t=555s) (⏱️ 09:15-61:10)
-- [Inan Demirel](https://www.youtube.com/watch?v=W4odywTumLk&t=534s) (⏱️ 08:54-12:23)
+- [Inan Demirel](https://www.youtube.com/watch?v=d85GdztiyqY&t=1883s) (⏱️ 31:23-37:11)
+- [Serdar Akinan](https://www.youtube.com/watch?v=yfIrBK-TKMg&t=13s) (⏱️ 00:13-02:34)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=jvDVC2qBnFw&t=1196s) (⏱️ 19:56-26:34)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=u9eXgZmDf7w&t=22s) (⏱️ 00:22-45:00)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=DkiZHj7MkSY) (⏱️ 00:00-01:27)
+- [Cigdem Toker](https://www.youtube.com/watch?v=lYQvuJoCLR4&t=252s) (⏱️ 04:12-17:36)
 
 ---
 
-## 2. Söylem ile gündem arasındaki gerilim
+## 2. NATO Zirvesi Öncesi Ankara Tedbirleri
 
-- Cumhurbaşkanı Erdoğan, iktidarın cumhuriyetin en başarılı kadrosu olduğunu savundu.
-- Yorumcular, bu mesajın bir iletişim stratejisi olarak kurgulandığını belirtti.
-- Altyapı ve büyük proje vurgusu, söylemde çağ atlama kanıtı sunuldu.
-- Eleştiriler, liranın değer kaybı ve gelirin durgunluğuna odaklandı.
-- Konut ve kira krizi, asgari ücretle geçim tartışmalarını derinleştirdi.
-- Gençlerin yurt dışına yönelimi ve turizmde düşüş gözlemleri aktarıldı.
-- Erdoğan, muhalefeti yetersiz bulduğunu söyleyerek sert eleştiriler yöneltti.
-- Kılıçdaroğlu yayınlarının izlenmesi ve TRT canlı yayınlarına dair kulis paylaşıldı.
-- CHP iç krizi, ekonomik ve dış politika başlıklarının gündemini zayıflattı.
-- Öğretmen maaşları, işçi tazminatları ve Doğu Akdeniz riskleri vurgulandı.
+- Ankara, Temmuz'daki NATO zirvesi için yoğun güvenlik hazırlığı yaptı.
+- Ankara Cumhuriyet Başsavcılığı, 200’den fazla şüphelinin gözaltına alındığını açıkladı.
+- Gözaltılar polis ve jandarma operasyonlarıyla, farklı gruplara yönelik yapıldı.
+- Gözaltına alınanlar arasında bazı akademisyenler ve gazeteciler de yer aldı.
+- Zirve için havalimanı ve Etimesgut çevresinde yenileme çalışmaları sürüyor.
+- Valilik kısıtlamaları 28 Haziran-10 Temmuz arasında 13 gün uygulayacak.
+- Esenboğa, Beştepe ve oteller çevresinde kırmızı alanlar oluşturulacak.
+- Birçok cadde ve bulvar sivil trafiğe kapatılacak, yollar kapanacak.
+- İş yerlerinden masa, sandalye, bez afiş gibi unsurlar kaldırılacak.
+- Uygulamalar eleştirildi, Türkiye Komünist Partisi idari yargıya başvurdu.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Inan Demirel](https://www.youtube.com/watch?v=W4odywTumLk&t=338s) (⏱️ 05:38-08:54)
-- [Murat Yetkin](https://www.youtube.com/watch?v=DoxVEU3_NJE&t=672s) (⏱️ 11:12-12:02)
-- [Onlar TV](https://www.youtube.com/watch?v=7pGk_AhQhfE&t=136s) (⏱️ 02:16-05:52)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=RXZCOPWjpx4&t=877s) (⏱️ 14:37-24:20)
+- [Inan Demirel](https://www.youtube.com/watch?v=d85GdztiyqY&t=1s) (⏱️ 00:01-05:24)
+- [Cigdem Toker](https://www.youtube.com/watch?v=lYQvuJoCLR4) (⏱️ 00:00-03:26)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=u9eXgZmDf7w&t=1854s) (⏱️ 30:54-31:37)
 
 ---
 
-## 3. Baskın seçim iddiaları yeniden güçlendi
+## 3. Seçim Stratejileri ve İktidar Tartışması
 
-- Son günlerde Kasım baskın seçim söylentileri siyaset gündemini belirledi.
-- İddia, Murat Ongun’un cezaevinden yayımladığı videoyla yeniden yayıldı.
-- Normal seçim tarihi 2028 Mayıs, bazıları 2027 ortasını konuşuyor.
-- Kasım söylentisi çıkınca erken seçim ihtimalinin arttığı değerlendirildi.
-- Erken seçim için Mecliste 360 oy gerekir, iktidar tek başına yetmiyor.
-- Bazı bağımsızlar ve DE Parti desteğiyle 360 ihtimali konuşuluyor.
-- CHP içindeki kriz ve mutlak butlan tartışmaları zemini etkiliyor.
-- Ekonomi kötü, kısa vadede düzelme yok, seçmen tepkisi belirsiz.
-- Erdoğan uygun anı bekleyip kaynaklarla geçici rahatlama sağlayabilir.
-- İktidar terörsüz Türkiye sürecinde yeni aşama ve çerçeve yasa hazırlıyor.
+- Yorumcular, Erdoğan’ın her koşulda kazanacağı tezini tartışıyor.
+- 2023 seçim sonucu, bu algıyı Kılıçdaroğlu yenilgisiyle güçlendirdi.
+- İmamoğlu’nun Erdoğan’la başa baş yarışta kazanma ihtimali yüksek görülüyor.
+- 2015, 2019 ve 2024 sonuçları, iktidarın yenilebildiğini gösteriyor.
+- Muhalefetin sandık güvenliği ve seçmen taşıması sonucu etkileyebilir.
+- Erdoğan’ın siyaset üretimi azaldı, imaj ve yargı etkisi arttı.
+- Ekonomik kriz, rant dağıtımını zorlaştırıp iktidarı zayıflatıyor.
+- Erdoğan’ın yeniden adaylığı için anayasa değişikliği planı konuşuluyor.
+- Kayyum düzenlemesi ve tek turlu sistemle Kürt oyları hedefleniyor.
+- Şimşek giderse popülist ekonomi ve erken seçim iddiaları gündemde.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=7oXHM_PyAoA&t=1902s) (⏱️ 31:42-36:06)
-- [Murat Yetkin](https://www.youtube.com/watch?v=DoxVEU3_NJE&t=597s) (⏱️ 09:57-11:08)
+- [Rusen Cakir](https://www.youtube.com/watch?v=hZQlTQCK56k&t=2s) (⏱️ 00:02-12:10)
+- [Serdar Akinan](https://www.youtube.com/watch?v=yfIrBK-TKMg&t=155s) (⏱️ 02:35-16:09)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=jvDVC2qBnFw&t=1623s) (⏱️ 27:03-28:47)
 
 ---
 
-## 4. Adliyede Duruşma Günü Gerginlik
+## 4. Belediyelerde operasyon ve parti geçişleri
 
-- Adliye önünde ve koridorlarda gerginlik çıktı, arbede yaşandı.
-- Bazı kişiler gazetecilere saldırdı, çekim yapılması engellendi.
-- Olayda ölen kişinin yakını adliyede yüksek tepki gösterdi.
-- Kubilay Kundakçı cinayeti davasının ilk duruşması görüldü.
-- Genç futbolcu Kundakçı, silahlı saldırıda hayatını kaybetmişti.
-- Dava, aşk üçgeni ve ilişkiler ağı iddiasıyla şekillendi.
-- Alaattin Kadayıfçıoğlu tetiği çeken kişi olarak suçlanıyor.
-- Sanık pişman olduğunu söyledi, Aleyna Kalaycıoğlu suçlamayı reddetti.
-- Tanıklar dinlendi, aileler karşılıklı sorular sordu, duygular yükseldi.
-- Savcı tutukluluğun sürmesini istedi, mahkeme ara karar açıklayacak.
+- CHP’li belediyelere yönelik gözaltı ve tutuklama dalgaları sürüyor.
+- Adalar Belediyesi hakkında gözaltı işlemleri yapıldığı bilgisi paylaşıldı.
+- Bazı dosyalarda 35 şüpheliden bir kısmı tutuklandı.
+- Silifke Belediyesi soruşturmasında 19 şüpheliden 8’i tutuklandı.
+- Yerel yöneticilere operasyonların sıklaştığı, kamu ilgisinin azaldığı belirtildi.
+- Haymana Belediye Başkanı Levent Koç CHP’den istifa etti.
+- Koç, istifasının ardından AK Parti’ye katıldığını açıkladı.
+- Geçiş kararı yerelde ve parti içinde tartışmalar yarattı.
+- Bazı başkanların CHP’den AK Parti’ye geçeceği iddiaları konuşuluyor.
+- Mesut Özaslan ve Rasim Arı isimleri kulislerde anılıyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=2d5TyQnZjw4) (⏱️ 00:00-01:11)
-- [Onlar TV](https://www.youtube.com/watch?v=7pGk_AhQhfE&t=4445s) (⏱️ 74:05-80:33)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=DkiZHj7MkSY&t=533s) (⏱️ 08:53-09:51)
+- [Inan Demirel](https://www.youtube.com/watch?v=d85GdztiyqY&t=538s) (⏱️ 08:58-13:14)
 
 ---
 
-## 5. 12. Yargı Paketi Meclis Gündeminde
+## 5. Akaryakıt Sektörüne Vergi Kaçakçılığı Operasyonu
 
-- 12. yargı paketi TBMM’ye sunularak Meclis gündemine alındı.
-- Paket, mahkemeler ve ceza hukukunda değişiklik amaçlıyor.
-- En çok tartışılan düzenleme Yargıtay’ın bozma yetkilerinin sınırlandırılması oldu.
-- Hükmün açıklanmasının geri bırakılması düzenlemesi ve etkileri anlatıldı.
-- Dijital delillere erişim konusunda yeni uygulama kuralları öngörülüyor.
-- Şifre verilmeyen cihazların, erişilene kadar iade edilmemesi planlanıyor.
-- Beklenen LGBTI düzenlemeleri pakette yer almadı, özellikle vurgulandı.
-- IBAN ile ilgili değişiklikler ve sosyal medya kimlik doğrulama yok.
-- Suça sürüklenen çocukların cezalarına dair ağır düzenlemeler bulunmuyor.
-- Paket, siyasi ve adli tartışmalarla birlikte kamuoyunda değerlendiriliyor.
+- Adalet Bakanlığı akaryakıt sektörüne yönelik geniş çaplı operasyonu duyurdu.
+- İstanbul Anadolu Cumhuriyet Başsavcılığı soruşturmayı yürütüyor ve suçlamaları sıraladı.
+- İddialar örgüt kurma, dolandırıcılık, kaçakçılık ve vergi kaçakçılığı.
+- Soruşturmada sahte fatura düzenleme ve kara para aklama da var.
+- Yaklaşık 350-400 bin ton LPG’nin kayıt dışı getirildiği öne sürüldü.
+- Kayıt dışı LPG’nin değerinin yaklaşık 12 milyar lira olduğu belirtildi.
+- Operasyonda 10 şirkete kayyum atandı ve 6 şirkete el konuldu.
+- Toplam 27 şüpheli hakkında gözaltı dahil adli işlem başlatıldı.
+- Savcılık, delil varsa operasyonun yasal zeminde olduğunu vurguladı.
+- Dosyada deniz altı boru hatlarıyla kayıt dışı indirim iddiaları yer aldı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Onlar TV](https://www.youtube.com/watch?v=7pGk_AhQhfE&t=4833s) (⏱️ 80:33-88:01)
-- [Inan Demirel](https://www.youtube.com/watch?v=W4odywTumLk&t=2364s) (⏱️ 39:24-43:26)
+- [Inan Demirel](https://www.youtube.com/watch?v=d85GdztiyqY&t=2560s) (⏱️ 42:40-46:43)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=zRMXfqnH7y8) (⏱️ 00:00-15:47)
 
 ---
 
-## 6. Belediyelerde Soruşturma ve İmar İddiaları
+## 6. Pahalılık ve Döviz Tatili Etkiliyor
 
-- Adıyaman Belediye Başkanı Abdurrahman Tutdere gözaltına alındı, dava gündemde.
-- Dosyada rüşvet, ihale süreçleri ve hak ediş ödemeleri iddiaları yer aldı.
-- Eleştiriler, tek bir tanık ifadesinin dosyada belirleyici olduğuna odaklandı.
-- Savunma tarafı, dosya içeriğinde çelişkiler ve delil zayıflıkları bulunduğunu söyledi.
-- Operasyonların belediyelere etkisi ve demokratik sonuçları kamuoyunda tartışıldı.
-- Tuzla Belediye Başkanı Eren Ali Bingöl, mazbata sonrası açıklamalar yaptı.
-- Bingöl, Tuzla’da bazı vatandaşların mağdur edildiğini belirtti, çözüm istedi.
-- Yıkım ve imar süreçlerinde usulsüzlük iddiaları gündeme getirildi, inceleme çağrısı yapıldı.
-- Süreçte İBB ve ilgili bakanlıklarla görüşmeler yürütüldüğü ifade edildi.
-- Konuşmada İmamoğlu’na bağlılık ve yerel grup ilişkileri tartışma yarattı.
+- Oksijen, dört kişilik ailenin dört günlük tatilini karşılaştırdı.
+- Bazı yurt dışı destinasyonlar, Türkiye’den daha ucuz hesaplandı.
+- Haber, yurtiçi tatil fiyatlarının yükselişini eleştirel biçimde vurguladı.
+- Pahalılık, tüketicileri daha fazla yurt dışına yönlendiriyor.
+- Programda döviz kuru, enflasyon ve tüketim davranışları tartışıldı.
+- İhracatçılar, doların daha yüksek seviyede olması gerektiğini savunuyor.
+- Kur dalgalanması, fiyat artışlarını ve beklentileri daha da tetikliyor.
+- Orta sınıfın erimesi, demokrasi ve toplumsal denge için risk.
+- Küresel servet değişiminde teknoloji ve veri temelli zenginlik öne çıktı.
+- Veri ve algoritmalar, modern ekonomide petrol gibi değer kazanıyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Onlar TV](https://www.youtube.com/watch?v=7pGk_AhQhfE&t=3789s) (⏱️ 63:09-74:05)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=Yg3xYG8nFzQ&t=632s) (⏱️ 10:32-26:08)
+- [Inan Demirel](https://www.youtube.com/watch?v=d85GdztiyqY&t=325s) (⏱️ 05:25-08:58)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=jvDVC2qBnFw&t=1729s) (⏱️ 28:49-38:54)
 
 ---
 
-## 7. İngiltere’de Başbakan İstifa Etti
+## 7. Milli Takımda Protesto ve Villa Tartışması
 
-- İngiltere Başbakanı, parti içi baskılar sonrası istifa etti.
-- İstifa konuşmasında aileye ve kişisel görevlere vurgu yaptı.
-- Başbakan, büyük vaatlerle gelmişti, zamanla desteği eridi.
-- İşçi Partisi vekilleri, liderin çekilmesi için yoğun baskı kurdu.
-- Parti meclisinin, lider değişimine gidip gitmeyeceği tartışıldı.
-- Parti mekanizmaları ve ara seçim sonuçları istifayı hızlandırdı.
-- Starmer’in İsrail tutumu, genç ve sol seçmeni uzaklaştırdı.
-- Andy Burnham ara seçimleri kazandı, parti içinde öne çıktı.
-- Son 10 yılda İngiltere’de başbakan değişimleri sıklaştı.
-- Yeni liderin dış politika çizgisi, İsrail ve Türkiye ilişkileri önemli.
+- Milli takım Los Angeles’ta maç öncesi taraftar protestosuyla karşılaştı.
+- ABD maçında gol atılamaması ve performans zayıflığı eleştirildi.
+- Taraftar tepkileri sosyal medyada ve spor kamuoyunda geniş yankı buldu.
+- Yorumcular takımın daha disiplinli ve sert oynaması gerektiğini söyledi.
+- Futbolcuların artistlikten kaçınıp görevlerini iyi yapması istendi.
+- TFF Başkanı’nın oyunculara villa teklif ettiği iddiaları gündeme taşındı.
+- Oyuncuların villaları almayacaklarını belirttiği iddia edildi, tartışma büyüdü.
+- Villa projesinde imar ve vergi sorunları olduğu öne sürüldü.
+- TFF ve yöneticilerin performansı da sert biçimde eleştirildi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=JVnUe6SQl74) (⏱️ 00:00-07:50)
-- [Inan Demirel](https://www.youtube.com/watch?v=W4odywTumLk&t=30s) (⏱️ 00:30-03:40)
+- [Inan Demirel](https://www.youtube.com/watch?v=d85GdztiyqY&t=2803s) (⏱️ 46:43-52:16)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=jvDVC2qBnFw&t=2378s) (⏱️ 39:38-40:21)
 
 ---
 
