@@ -1,149 +1,111 @@
 # Bugün Ne Oldu?
 
-*24 June 2026 tarihli günlük haber raporu - 7 haber birleştirildi*
+*25 June 2026 tarihli günlük haber raporu - 5 haber birleştirildi*
 
-## 1. CHP’de kriz ve yeni yol arayışı
+## 1. Kılıçdaroğlu gündemi ve yeni ittifak arayışı
 
-- CHP’de kurultay tartışmaları ve parti içi gerilimler büyüyor son günlerde.
-- Özgür Özel, grup toplantısında Kılıçdaroğlu’na tarihi karar çağrısı yaptı.
-- Salondaki kalabalık, Özel’in çağrısını coşkuyla karşıladı ve destekledi.
-- Özel, parti içinde diplomasi ve uzlaşma arayışını sürdürdüğünü vurguluyor.
-- Olağanüstü kurultay talepleri konuşulsa da yapılmayacağı belirtiliyor şimdilik.
-- Parti yönetimi, olağan kurultay hazırlıklarının Eylül’de başlamasını planlıyor.
-- Özel, yargı sürecinin 20 Temmuz’a kadar sonuçlanmasını bekliyor.
-- Lehte karar çıkarsa Özel’in yeniden genel başkanlığa dönmesi bekleniyor.
-- Karar gecikirse istifalarla yeni parti veya başka yapı seçeneği değerlendiriliyor.
-- Kılıçdaroğlu’nun Demirtaş ziyareti iddiası reddedildi, tartışma büyüdü.
+- Kılıçdaroğlu’nun İstanbul ziyareti için sabah konvoylu karşılama planlandı.
+- Küçükçekmece’deki aşure programına katılım beklentisi son anda belirsizleşti.
+- Gece yarısı organizasyon iptal edildi, gerekçe net biçimde açıklanmadı.
+- Muharrem hassasiyeti, iletişim hatası ve dış telkin iddiaları öne çıktı.
+- Gürsel Tekin’in buluşma önerileri ve lojistik riskler eleştirildi.
+- Yorumcular Kılıçdaroğlu’na pazar, kahvehane gibi sahaya in çağrısı yaptı.
+- Cenazede Kılıçdaroğlu ile Özgür Özel’in gergin tokalaşması tartışıldı.
+- CHP’de Özel ve İmamoğlu liderliğinde Kürtlerle ilişki onarımı hedefleniyor.
+- Demirtaş’ın makalesi silah bırakma ve demokratik adımlar çağrısı içerdi.
+- Erdoğan Yenikapı ruhu ve terörsüz Türkiye söylemiyle mutabakat aradı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Inan Demirel](https://www.youtube.com/watch?v=d85GdztiyqY&t=1883s) (⏱️ 31:23-37:11)
-- [Serdar Akinan](https://www.youtube.com/watch?v=yfIrBK-TKMg&t=13s) (⏱️ 00:13-02:34)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=jvDVC2qBnFw&t=1196s) (⏱️ 19:56-26:34)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=u9eXgZmDf7w&t=22s) (⏱️ 00:22-45:00)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=DkiZHj7MkSY) (⏱️ 00:00-01:27)
-- [Cigdem Toker](https://www.youtube.com/watch?v=lYQvuJoCLR4&t=252s) (⏱️ 04:12-17:36)
+- [Rusen Cakir](https://www.youtube.com/watch?v=0YTUoc-X4Gk&t=4s) (⏱️ 00:04-00:33)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=eBqGx9MOW7E&t=117s) (⏱️ 01:57-05:00)
+- [Unsal Unlu](https://www.youtube.com/watch?v=whLHi-gQd-8&t=414s) (⏱️ 06:54-09:04)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=UYHgjinbZMg&t=1710s) (⏱️ 28:30-37:00)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=T8LipoV7vo4&t=120s) (⏱️ 02:00-08:00)
+- [Serdar Akinan](https://www.youtube.com/watch?v=giv1TDhsaz8&t=805s) (⏱️ 13:25-21:19)
 
 ---
 
-## 2. NATO Zirvesi Öncesi Ankara Tedbirleri
+## 2. AK Parti’ye Geçişler ve Etkileri
 
-- Ankara, Temmuz'daki NATO zirvesi için yoğun güvenlik hazırlığı yaptı.
-- Ankara Cumhuriyet Başsavcılığı, 200’den fazla şüphelinin gözaltına alındığını açıkladı.
-- Gözaltılar polis ve jandarma operasyonlarıyla, farklı gruplara yönelik yapıldı.
-- Gözaltına alınanlar arasında bazı akademisyenler ve gazeteciler de yer aldı.
-- Zirve için havalimanı ve Etimesgut çevresinde yenileme çalışmaları sürüyor.
-- Valilik kısıtlamaları 28 Haziran-10 Temmuz arasında 13 gün uygulayacak.
-- Esenboğa, Beştepe ve oteller çevresinde kırmızı alanlar oluşturulacak.
-- Birçok cadde ve bulvar sivil trafiğe kapatılacak, yollar kapanacak.
-- İş yerlerinden masa, sandalye, bez afiş gibi unsurlar kaldırılacak.
-- Uygulamalar eleştirildi, Türkiye Komünist Partisi idari yargıya başvurdu.
+- Yerel seçim sonrası AK Parti’ye belediye başkanı geçişleri arttı.
+- Bazı yorumlara göre yaklaşık 80 başkanın parti değiştirdiği konuşuluyor.
+- Milletvekili transferleri Meclis aritmetiğini ve anayasa hedeflerini etkiliyor.
+- Kulislerde AK Parti milletvekili sayısının 266’dan 277’ye çıktığı söyleniyor.
+- Geçiş yapanlar arasında CHP, İYİ Parti ve küçük partilerden isimler var.
+- Mesut Özarslan’ın rozet takması görüntülendi, CHP’den kopuşu tartışıldı.
+- Özarslan katılımına AK Parti içinde itirazlar olduğu iddia edildi.
+- Nimet Özdemir’in geçişinde çıkar ilişkileri ve iş bağlantıları konuşuldu.
+- Tuzla’da imar usulsüzlüğü iddiaları ve İBB suç duyurusu gündemde.
+- Transferlerin korunma arayışı, psikolojik etki ve güç gösterisi taşıdığı savunuluyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Inan Demirel](https://www.youtube.com/watch?v=d85GdztiyqY&t=1s) (⏱️ 00:01-05:24)
-- [Cigdem Toker](https://www.youtube.com/watch?v=lYQvuJoCLR4) (⏱️ 00:00-03:26)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=u9eXgZmDf7w&t=1854s) (⏱️ 30:54-31:37)
+- [Serdar Akinan](https://www.youtube.com/watch?v=giv1TDhsaz8&t=402s) (⏱️ 06:42-13:25)
+- [Rusen Cakir](https://www.youtube.com/watch?v=0YTUoc-X4Gk&t=34s) (⏱️ 00:34-14:11)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=eBqGx9MOW7E&t=2723s) (⏱️ 45:23-50:50)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=UYHgjinbZMg&t=2220s) (⏱️ 37:00-46:50)
+- [Unsal Unlu](https://www.youtube.com/watch?v=whLHi-gQd-8&t=75s) (⏱️ 01:15-25:09)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=T8LipoV7vo4&t=929s) (⏱️ 15:29-19:00)
 
 ---
 
-## 3. Seçim Stratejileri ve İktidar Tartışması
+## 3. NATO Zirvesinde Akreditasyon Tartışması
 
-- Yorumcular, Erdoğan’ın her koşulda kazanacağı tezini tartışıyor.
-- 2023 seçim sonucu, bu algıyı Kılıçdaroğlu yenilgisiyle güçlendirdi.
-- İmamoğlu’nun Erdoğan’la başa baş yarışta kazanma ihtimali yüksek görülüyor.
-- 2015, 2019 ve 2024 sonuçları, iktidarın yenilebildiğini gösteriyor.
-- Muhalefetin sandık güvenliği ve seçmen taşıması sonucu etkileyebilir.
-- Erdoğan’ın siyaset üretimi azaldı, imaj ve yargı etkisi arttı.
-- Ekonomik kriz, rant dağıtımını zorlaştırıp iktidarı zayıflatıyor.
-- Erdoğan’ın yeniden adaylığı için anayasa değişikliği planı konuşuluyor.
-- Kayyum düzenlemesi ve tek turlu sistemle Kürt oyları hedefleniyor.
-- Şimşek giderse popülist ekonomi ve erken seçim iddiaları gündemde.
+- Ankara’da yapılacak NATO zirvesi şehir gündemini belirliyor.
+- Zirve öncesi bazı park ve yollar kapanacak iddiası yayıldı.
+- Dezenformasyon merkezi parkların kapatılacağı iddiasını resmen yalanladı.
+- Buna rağmen bazı yolların brandalar ve setlerle kapatıldığı söylendi.
+- Görüntülerin saklandığı eleştirileri, hazırlıkların şeffaflığını tartışmalı kıldı.
+- Zirveyi izleyecek gazetecilerin akreditasyon başvuruları geniş ölçekte reddedildi.
+- Birçok reddin gerekçesi açıklanmadı, belirsizlik tepkileri artırdı.
+- NATO, akreditasyon prosedürlerinin ev sahibi ülkeyle yürütüldüğünü belirtti.
+- Ev sahibi ülke ile NATO merkezi arasında bilgi kargaşası yaşandığı aktarıldı.
+- Gazeteciler, uluslararası basın kartıyla yeniden başvurmayı öneriyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=hZQlTQCK56k&t=2s) (⏱️ 00:02-12:10)
-- [Serdar Akinan](https://www.youtube.com/watch?v=yfIrBK-TKMg&t=155s) (⏱️ 02:35-16:09)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=jvDVC2qBnFw&t=1623s) (⏱️ 27:03-28:47)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=UYHgjinbZMg&t=22s) (⏱️ 00:22-10:00)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=eBqGx9MOW7E&t=3050s) (⏱️ 50:50-53:28)
 
 ---
 
-## 4. Belediyelerde operasyon ve parti geçişleri
+## 4. CHP’li Belediyelere Yönelik Gözaltılar
 
-- CHP’li belediyelere yönelik gözaltı ve tutuklama dalgaları sürüyor.
-- Adalar Belediyesi hakkında gözaltı işlemleri yapıldığı bilgisi paylaşıldı.
-- Bazı dosyalarda 35 şüpheliden bir kısmı tutuklandı.
-- Silifke Belediyesi soruşturmasında 19 şüpheliden 8’i tutuklandı.
-- Yerel yöneticilere operasyonların sıklaştığı, kamu ilgisinin azaldığı belirtildi.
-- Haymana Belediye Başkanı Levent Koç CHP’den istifa etti.
-- Koç, istifasının ardından AK Parti’ye katıldığını açıkladı.
-- Geçiş kararı yerelde ve parti içinde tartışmalar yarattı.
-- Bazı başkanların CHP’den AK Parti’ye geçeceği iddiaları konuşuluyor.
-- Mesut Özaslan ve Rasim Arı isimleri kulislerde anılıyor.
+- Seferi ve Balçova’da operasyonlarda CHP’li belediye başkanları gözaltına alındı.
+- Operasyonların, bazı belediye başkanı ve yöneticilerini kapsayan geniş bir dalga olduğu belirtildi.
+- Gözaltına alınan isimlerin Veli Ağbaba ve Özgür Özel’e yakın olduğu iddia edildi.
+- Bazı çevreler, özellikle Özgür Özel’e yakın kişilerin hedef seçildiğini söyledi.
+- Dosyaların şişirildiği ve suçlamaların kapsamının genişletildiği ileri sürüldü.
+- Yorumcular, sürecin 19 Mart dönemindeki benzer operasyonları hatırlattığını aktardı.
+- Gelişmeler, yerel yönetimlere yönelik siyasi baskı tartışmalarını yeniden alevlendirdi.
+- Operasyonların muhalefetin moralini düşürmeyi amaçladığı eleştirileri gündeme geldi.
+- Bu gözaltıların, siyasi dengeler ve katılım tartışmalarında etkili olacağı vurgulandı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=DkiZHj7MkSY&t=533s) (⏱️ 08:53-09:51)
-- [Inan Demirel](https://www.youtube.com/watch?v=d85GdztiyqY&t=538s) (⏱️ 08:58-13:14)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=UYHgjinbZMg&t=1500s) (⏱️ 25:00-28:30)
+- [Unsal Unlu](https://www.youtube.com/watch?v=whLHi-gQd-8&t=1510s) (⏱️ 25:10-25:31)
 
 ---
 
-## 5. Akaryakıt Sektörüne Vergi Kaçakçılığı Operasyonu
+## 5. Kredi ve faiz tartışması derinleşiyor
 
-- Adalet Bakanlığı akaryakıt sektörüne yönelik geniş çaplı operasyonu duyurdu.
-- İstanbul Anadolu Cumhuriyet Başsavcılığı soruşturmayı yürütüyor ve suçlamaları sıraladı.
-- İddialar örgüt kurma, dolandırıcılık, kaçakçılık ve vergi kaçakçılığı.
-- Soruşturmada sahte fatura düzenleme ve kara para aklama da var.
-- Yaklaşık 350-400 bin ton LPG’nin kayıt dışı getirildiği öne sürüldü.
-- Kayıt dışı LPG’nin değerinin yaklaşık 12 milyar lira olduğu belirtildi.
-- Operasyonda 10 şirkete kayyum atandı ve 6 şirkete el konuldu.
-- Toplam 27 şüpheli hakkında gözaltı dahil adli işlem başlatıldı.
-- Savcılık, delil varsa operasyonun yasal zeminde olduğunu vurguladı.
-- Dosyada deniz altı boru hatlarıyla kayıt dışı indirim iddiaları yer aldı.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Inan Demirel](https://www.youtube.com/watch?v=d85GdztiyqY&t=2560s) (⏱️ 42:40-46:43)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=zRMXfqnH7y8) (⏱️ 00:00-15:47)
-
----
-
-## 6. Pahalılık ve Döviz Tatili Etkiliyor
-
-- Oksijen, dört kişilik ailenin dört günlük tatilini karşılaştırdı.
-- Bazı yurt dışı destinasyonlar, Türkiye’den daha ucuz hesaplandı.
-- Haber, yurtiçi tatil fiyatlarının yükselişini eleştirel biçimde vurguladı.
-- Pahalılık, tüketicileri daha fazla yurt dışına yönlendiriyor.
-- Programda döviz kuru, enflasyon ve tüketim davranışları tartışıldı.
-- İhracatçılar, doların daha yüksek seviyede olması gerektiğini savunuyor.
-- Kur dalgalanması, fiyat artışlarını ve beklentileri daha da tetikliyor.
-- Orta sınıfın erimesi, demokrasi ve toplumsal denge için risk.
-- Küresel servet değişiminde teknoloji ve veri temelli zenginlik öne çıktı.
-- Veri ve algoritmalar, modern ekonomide petrol gibi değer kazanıyor.
+- İş dünyası, sıkı para yerine seçici sanayi politikası istiyor.
+- Burhan Özdemir, kredi musluklarının açılmasını yeniden güçlü şekilde savundu.
+- Geçmiş kredi genişlemesinin sonuçları hatırlatılarak riskler sorgulanması istendi.
+- Resmi verilerin enflasyonu tam yansıtmadığı iddiaları yeniden gündeme geldi.
+- Reel faiz ile enflasyon farkı, şirketleri ve hanehalkını zorluyor.
+- Bu farkın yatırım kararlarını ve alım gücünü olumsuz etkilediği belirtildi.
+- Faizi düşürmek, olası seçeneklerden biri olarak değerlendirildi tekrar.
+- Faizi yüksek tutmak, diğer seçenek olarak ekonomik maliyetleri artırabilir.
+- Üçüncü seçenek olarak erken seçim tartışması, siyasete bağlandı yeniden.
+- Erdoğan’ın Temmuz vurgusu, erken seçim sinyali olabilir denildi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Inan Demirel](https://www.youtube.com/watch?v=d85GdztiyqY&t=325s) (⏱️ 05:25-08:58)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=jvDVC2qBnFw&t=1729s) (⏱️ 28:49-38:54)
-
----
-
-## 7. Milli Takımda Protesto ve Villa Tartışması
-
-- Milli takım Los Angeles’ta maç öncesi taraftar protestosuyla karşılaştı.
-- ABD maçında gol atılamaması ve performans zayıflığı eleştirildi.
-- Taraftar tepkileri sosyal medyada ve spor kamuoyunda geniş yankı buldu.
-- Yorumcular takımın daha disiplinli ve sert oynaması gerektiğini söyledi.
-- Futbolcuların artistlikten kaçınıp görevlerini iyi yapması istendi.
-- TFF Başkanı’nın oyunculara villa teklif ettiği iddiaları gündeme taşındı.
-- Oyuncuların villaları almayacaklarını belirttiği iddia edildi, tartışma büyüdü.
-- Villa projesinde imar ve vergi sorunları olduğu öne sürüldü.
-- TFF ve yöneticilerin performansı da sert biçimde eleştirildi.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Inan Demirel](https://www.youtube.com/watch?v=d85GdztiyqY&t=2803s) (⏱️ 46:43-52:16)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=jvDVC2qBnFw&t=2378s) (⏱️ 39:38-40:21)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=T8LipoV7vo4&t=1800s) (⏱️ 30:00-31:33)
+- [Serdar Akinan](https://www.youtube.com/watch?v=giv1TDhsaz8&t=1279s) (⏱️ 21:19-24:40)
 
 ---
 
