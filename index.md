@@ -1,177 +1,134 @@
 # Bugün Ne Oldu?
 
-*26 June 2026 tarihli günlük haber raporu - 8 haber birleştirildi*
+*29 June 2026 tarihli günlük haber raporu - 6 haber birleştirildi*
 
-## 1. NATO Zirvesi Öncesi Ankara’da Kısıtlamalar
+## 1. Ankara’daki NATO Zirvesi Gündemi
 
-- Ankara, Temmuzdaki NATO zirvesi için olağanüstü güvenlik hazırlıkları yaptı.
-- Zirve öncesi sabah baskınlarıyla yüzlerce kişi gözaltına alındı.
-- Farklı kaynaklara göre 209, 241 kişi gözaltına alındı.
-- Soruşturmalar sonunda 103 kişi tutuklandı, adli kontrol uygulandı.
-- Tutuklananlar arasında gazeteciler, akademisyenler ve STK temsilcileri bulunuyor.
-- TEMA gönüllüleri ve doğa yürüyüşçülerine örgüt bağlantısı iddiası yöneltildi.
-- Kentte yollar kapatıldı, barikatlar kuruldu, günlük hayat aksadı.
-- Engelli vatandaşların erişimi zorlaştı, esnaf ve halk tepkiliydi.
-- NATO zirvesi için çok sayıda gazetecinin akreditasyonu gerekçesiz reddedildi.
-- NATO sözcüsü Hart, listelerin Türk makamlarıyla istişareyle hazırlandığını söyledi.
+- NATO Liderler Zirvesi 7-8 Temmuz’da Ankara’da yapılacak.
+- Zirvede savunma harcamaları ve yeni taahhütler ana gündem.
+- ABD, müttefiklerin milli gelirin yüzde 2 hedefine uymasını istiyor.
+- Türkiye yüzde 2’yi aştı, 2030 için yüzde 5 hedefliyor.
+- Rusya’nın 2022 Ukrayna işgali Avrupa güvenlik politikalarını sertleştirdi.
+- Ankara’da yoğun güvenlik önlemleri, yol kapatmaları ve kısıtlar uygulanıyor.
+- Basın akreditasyonu tartışıldı, bazı başvurular reddedildi iddiaları gündemde.
+- Meslek örgütleri devreye girdi, bazı gazeteciler sonunda onay aldı.
+- Kentte panolar ve duvarlarla yoksul bölgelerin gizlendiği eleştiriliyor.
+- Gündemde Ukrayna, İran, ABD-Avrupa gerginliği ve ikili görüşmeler var.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=jycvDcyQBe4&t=875s) (⏱️ 14:35-18:14)
-- [Hilal Koylu](https://www.youtube.com/watch?v=dIwwunmpB3I&t=1954s) (⏱️ 32:34-42:53)
-- [Rusen Cakir](https://www.youtube.com/watch?v=6yPOpl76cd0&t=1948s) (⏱️ 32:28-48:51)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=KTlu21qTeBg&t=130s) (⏱️ 02:10-06:59)
-- [Murat Yetkin](https://www.youtube.com/watch?v=d_6FqV0xS14&t=769s) (⏱️ 12:49-16:20)
-- [Cigdem Toker](https://www.youtube.com/watch?v=UTRXSTUbprI&t=75s) (⏱️ 01:15-03:54)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=jE9R_fTl3gQ&t=30s) (⏱️ 00:30-14:00)
-- [Onlar TV](https://www.youtube.com/watch?v=U4SFQ-57j88) (⏱️ 00:00-01:24)
+- [Rusen Cakir](https://www.youtube.com/watch?v=6KB4AfrvVZg&t=1357s) (⏱️ 22:37-37:59)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=SUI6bQXoSDA&t=431s) (⏱️ 07:11-10:38)
+- [Unsal Unlu](https://www.youtube.com/watch?v=UjlcWfA1qF0&t=71s) (⏱️ 01:11-05:43)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=mUkYnDWWWj4&t=648s) (⏱️ 10:48-37:19)
+- [Cigdem Toker](https://www.youtube.com/watch?v=wdSebzV-TAg&t=911s) (⏱️ 15:11-16:25)
+- [Murat Yetkin](https://www.youtube.com/watch?v=17xZ6V0gvp4&t=2s) (⏱️ 00:02-03:49)
 
 ---
 
-## 2. CHP’de kriz ve saha mücadelesi
+## 2. Kadir İnanır Son Yolculuğuna Uğurlandı
 
-- CHP’de Kılıçdaroğlu ile Özgür Özel arasında derin gerilim sürüyor.
-- İstanbul’da planlanan konvoy ve Aşure programı gece yarısı iptal edildi.
-- İptal gerekçeleri kalabalık yetersizliği, itirazlar ve planlama hatasıydı.
-- Kılıçdaroğlu, dini siyasete alet etmeme hassasiyetiyle katılmak istemedi.
-- Özgür Özel, cemevi ve Diyarbakır ziyaretleriyle sahada görünürlük artırdı.
-- Cenazede Kılıçdaroğlu-Özel tokalaşması bile parti gündeminde tartışma yarattı.
-- Demirtaş, Özel’e avukatıyla selam gönderdi, görüşme iddiası konuşuldu.
-- Demirtaş’ın “Az kaldı” metni çözüm süreci ve haklar vurgusu yaptı.
-- CHP’de meşruiyet, disiplin, ihraç ve olağanüstü kurultay tartışmaları büyüdü.
-- AK Parti’ye belediye başkanı transferleri ve Erdoğan’ın uyarıları gündem oldu.
+- Sinemanın simge ismi Kadir İnanır 77 yaşında hayatını kaybetti.
+- İnanır, jön kimliği ve uzun kariyeriyle geniş kitlelere ulaştı.
+- Cenaze töreni kalabalıktı, sanat ve siyaset dünyasından katılım vardı.
+- Kemal Kılıçdaroğlu ve bazı siyasi isimler törende hazır bulundu.
+- Yakınları duygusal veda konuşmaları yaptı, törene damga vurdu.
+- İnanır’ın politik duruşu, tutarlılığı ve vicdani tavrı vurgulandı.
+- Bu duruş bazı yorumlarda Kadirizm diye anılan çizgiyle anlatıldı.
+- Ahmet Kaya’yla dayanışması ve 1999 ödül gecesi hatırlatıldı.
+- Kenan Evren’e yönelik sert sözlerinin geçtiği görüntüler salonda tartışma yarattı.
+- Kılıçdaroğlu’na tepkiler görüldü, ancak geniş yuhalama olmadığı söylendi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=-50wBlWbvBs) (⏱️ 00:00-07:54)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=KTlu21qTeBg&t=767s) (⏱️ 12:47-13:43)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=jE9R_fTl3gQ&t=1200s) (⏱️ 20:00-25:00)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=jycvDcyQBe4&t=411s) (⏱️ 06:51-12:35)
-- [Rusen Cakir](https://www.youtube.com/watch?v=25Y3gNVpC6s&t=38s) (⏱️ 00:38-10:53)
-- [Hilal Koylu](https://www.youtube.com/watch?v=dIwwunmpB3I&t=123s) (⏱️ 02:03-20:01)
-- [Murat Yetkin](https://www.youtube.com/watch?v=d_6FqV0xS14&t=5s) (⏱️ 00:05-06:16)
+- [Inan Demirel](https://www.youtube.com/watch?v=d2uYc0_TqnQ&t=1185s) (⏱️ 19:45-23:08)
+- [Rusen Cakir](https://www.youtube.com/watch?v=6KB4AfrvVZg&t=35s) (⏱️ 00:35-16:26)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=mUkYnDWWWj4&t=2247s) (⏱️ 37:27-39:44)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=TB3PYhnPDOA&t=12s) (⏱️ 00:12-09:56)
+- [Unsal Unlu](https://www.youtube.com/watch?v=UjlcWfA1qF0&t=1312s) (⏱️ 21:52-29:18)
 
 ---
 
-## 3. Ekonomik Baskı Toplumsal Tepkiyi Büyütüyor
+## 3. CHP Kurultay Krizi Sahaya Yansıdı
 
-- Emekliler maaşların yetmemesi ve borç baskısı altında yaşıyor.
-- Devlet hastanesinin icra takibi örneği, yoksulluğu görünür kıldı.
-- Temmuzda maaş ve ödemelerde yeni sıkıntılar bekleniyor denildi.
-- Cevdet Yılmaz emekli maaşlarına yeni düzenleme olasılığını açıkladı.
-- Mehmet Şimşek ve bakanlar Londra’da yatırımcılarla temas kuruyor.
-- Ekonomi yönetimi dış kaynak ararken içeride belirsizlikler sürüyor.
-- Siyasette erken seçim olasılığı düşük görülüyor, seçim yenilenmesi deniyor.
-- Muhalefetin dağınık görüntüsü, tartışmaları daha da karmaşıklaştırıyor.
-- Öğretmenler sorunları için eylem ve açlık grevi yapıyor.
-- Bakan Tekin idari yol dedi, öğretmenler dinlenmediklerini söylüyor.
+- CHP’de kurultay tartışması sürerken Özgür Özel sahaya indi.
+- Özel, Diyarbakır ve Gaziantep’te halkla doğrudan temas kurdu.
+- Kampanya görüntülerinde kamyon üstünden konuştu, duygusal anlar yaşandı.
+- Kadın seçmen ilgisi öne çıktı, sokak siyaseti vurgulandı.
+- Olağanüstü kurultay için toplanan imzaların süresi doldu.
+- 800’ün üzerinde imza iddia edildi, sayım ve belirsizlik sürüyor.
+- Tarafların mahkemeye gidip çağrı heyeti istemesi bekleniyor.
+- Parti içinde ayrışma halinde yeni parti senaryoları konuşuluyor.
+- AKP kulislerinde CHP’yi karıştırma ve kurultayı izleme hesabı var.
+- Erdoğan, İmamoğlu’nu hedef aldı; vesayet ve yargı tartışması büyüdü.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilal Koylu](https://www.youtube.com/watch?v=dIwwunmpB3I&t=2771s) (⏱️ 46:11-46:36)
-- [Murat Yetkin](https://www.youtube.com/watch?v=d_6FqV0xS14&t=984s) (⏱️ 16:24-17:36)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=jE9R_fTl3gQ&t=2280s) (⏱️ 38:00-41:00)
+- [Rusen Cakir](https://www.youtube.com/watch?v=6KB4AfrvVZg&t=987s) (⏱️ 16:27-22:37)
+- [Inan Demirel](https://www.youtube.com/watch?v=d2uYc0_TqnQ&t=865s) (⏱️ 14:25-17:12)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=TB3PYhnPDOA&t=762s) (⏱️ 12:42-15:16)
+- [Unsal Unlu](https://www.youtube.com/watch?v=UjlcWfA1qF0&t=359s) (⏱️ 05:59-16:34)
 
 ---
 
-## 4. Deprem ve imar tartışmaları büyüyor
+## 4. Tamar Tanrıyar iddiaları ve kaçış
 
-- Gürsel Erol, Elazığ milletvekili olarak deprem sürecini anlattı.
-- 2020 depremi sonrası bakanlıkla koordineli çalıştıklarını söyledi açıkça.
-- Murat Kurum’un hızlı konut üretimini başarı örneği olarak değerlendirdi.
-- Kurum’un Kahramanmaraş depremindeki bazı bölgelerdeki performansı eleştirildi.
-- Kent planlama ve özelleştirme politikaları çevre örgütlerince tartışma konusu oldu.
-- Londra’dan Kurum ve kabine fotoğrafları NATO zirvesiyle ilişkilendirildi.
-- Kabinenin Batı ile iç içe olduğu yorumu yayınlarda öne çıktı.
-- Sabah gelen deprem görüntüleriyle yapı güvenliği sorunu yeniden gündemleşti.
-- Denetim eksiklikleri ve sağlam bina gereği Japonya örneğiyle anlatıldı.
-- Çanakkale Güzelyalı’da yangın alanına inşaat iddiası yerel basında yayıldı.
+- Tamar Tanrıyar sosyal medyada siyasi iddialar içeren videolar paylaştı.
+- Tanrıyar videolarda CHP ve bazı medya isimlerini hedef aldı.
+- Savcılık cumhurbaşkanına hakaret ve yanıltıcı bilgi soruşturması başlattı.
+- Hakkında gözaltı kararı verildi ancak kendisine ulaşılamadı.
+- Savcılığa göre 23 Haziran’da deniz yoluyla Bozburun’dan kaçtı.
+- Bazı iddialar Marmaris Hudut Kapısı’ndan Yunanistan’a geçtiğini söylüyor.
+- Sosyal medya hesaplarına erişim engeli getirildi, tartışma daha da büyüdü.
+- Gazeteciler, videoları kimin hazırlayıp yaydığı sorusunu gündeme taşıdı.
+- İddiaların iktidar içi kavga veya planlı yayın olabileceği konuşuluyor.
+- Medya dağıtım ağlarının etkisi ve stratejik gücü yeniden tartışıldı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=-50wBlWbvBs&t=475s) (⏱️ 07:55-13:08)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=jycvDcyQBe4&t=1097s) (⏱️ 18:17-21:19)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=jE9R_fTl3gQ&t=2220s) (⏱️ 37:00-38:00)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=TB3PYhnPDOA&t=917s) (⏱️ 15:17-20:12)
+- [Inan Demirel](https://www.youtube.com/watch?v=d2uYc0_TqnQ) (⏱️ 00:00-14:25)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=mUkYnDWWWj4&t=75s) (⏱️ 01:15-10:46)
 
 ---
 
-## 5. Gözaltılar ve tutuklamalar tartışma yarattı
+## 5. Enflasyon ve ücret baskısı tartışması
 
-- 3 Haziran 2026'da TEMA Ankara yaşlı kadınlarla gezi düzenledi.
-- Geziye çoğu emekli, 60-80 yaş arası 40'tan fazla kadın katıldı.
-- Dönüş yolunda madencilerle karşılaşıldı, polis kadınların inmelerine izin vermedi.
-- Otobüsler üç kez durduruldu, yolda kimlik kontrolü yapıldı.
-- Yaklaşık 10 gün sonra adres kontrolüyle ev baskınları yapıldı.
-- Kadınlar gözaltına alındı, jandarmaya sonra savcılığa sevk edildi.
-- Emel Memiş ve bazı kadınlar TKP/ML üyeliğiyle suçlandı.
-- Mahkemede genel sorular soruldu, somut delil gösterilmediği söylendi.
-- Savcılığa göre operasyonlarda 100'den fazla kişi tutuklandı.
-- Evrensel muhabiri Doğa Başkan, taslak haber nedeniyle tutuklandı.
+- Türkiye’de ekonomik sıkıntılar derinleşirken geçim krizi daha da büyüyor.
+- Haziran enflasyonu yakında açıklanacak ve ilk altı ay netleşecek.
+- Beklentiler altı aylık toplam enflasyonun yaklaşık yüzde 18 olduğunu gösteriyor.
+- Enflasyon, milyonlarca işçi, emekli ve asgari ücretliyi doğrudan etkiliyor.
+- Bir değerlendirmeye göre yaklaşık 19 milyon işçi zam alamayacak.
+- Asgari ücret 2024’ten beri yılda bir kez belirleniyor.
+- Yıl sonuna kadar 28.075 lira ile geçinme baskısı artıyor.
+- Mehmet Şimşek’in programı üçüncü yılında, ücretler baskılanıyor eleştirisi var.
+- Resmi enflasyonun baskılandığı iddiası, gelir kaybını büyütüyor deniyor.
+- Özel okul öğretmenleri Ankara’da açlık grevi yaparak ücret istiyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Onlar TV](https://www.youtube.com/watch?v=U4SFQ-57j88&t=110s) (⏱️ 01:50-03:54)
-- [Cigdem Toker](https://www.youtube.com/watch?v=UTRXSTUbprI&t=238s) (⏱️ 03:58-05:03)
+- [Unsal Unlu](https://www.youtube.com/watch?v=UjlcWfA1qF0&t=126s) (⏱️ 02:06-12:56)
+- [Cigdem Toker](https://www.youtube.com/watch?v=wdSebzV-TAg) (⏱️ 00:00-02:50)
 
 ---
 
-## 6. TFF’de Tartışmalar ve İddialar Büyüyor
+## 6. Türkiye’nin Batı ile Güvenlik Pazarlığı
 
-- Türkiye Futbol Federasyonu gündeminde başkanlık ve yönetim tartışmaları büyüyor.
-- Mesut Özil’in TFF başkanlığı için adı kulislerde geçiyor.
-- Konuya dair kesin bilgi olmadığı, yorum yapılmadığı belirtiliyor.
-- TFF Başkanı İbrahim Hacı Osmanoğlu’nun röportajı sonrası tartışmalar alevlendi.
-- Osmanoğlu’nun Ahmet Çakar hakkında suç duyurusu hazırladığı öne sürülüyor.
-- Ahmet Çakar, kendisine yönelik suçlamalara sosyal medyadan sert yanıt verdi.
-- İki isim arasındaki ilişkinin geçmişine dair iddialar kamuoyuna yansıdı.
-- Tarafların açıklamalarıyla sürecin hukuki boyuta taşınacağı konuşuluyor.
-- Ayrı bir başlıkta, Montella cephesinden istifa etmiyoruz açıklaması okundu.
-- Açıklama performans, tazminat ve kamuoyu tepkisini yeniden gündeme taşıdı.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=KTlu21qTeBg&t=1710s) (⏱️ 28:30-28:48)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=jycvDcyQBe4&t=13s) (⏱️ 00:13-02:02)
-
----
-
-## 7. Erken Seçim ve Baskın Seçim Tartışması
-
-- Gazetecilikte baskın seçim, kısa sürede alınan erken seçimdir.
-- Bu kararın amacı muhalefeti hazırlıksız yakalamak olarak anlatılıyor.
-- Son günlerde seçim takvimiyle ilgili erken seçim iddiaları gündemde.
-- Mehmet Uçum’un açıklamaları erken seçim tartışmalarını yeniden alevlendirdi.
-- Seçim tarihini öne çekmek için Meclis kararı gerektiği vurgulandı.
-- Anayasa değişikliğiyle seçim takvimi farklı bir tarihe alınabilir.
-- Meclisin çalışma takvimiyle seçim tarihi teknik olarak erkene çekilebilir.
-- Vekil transferleri Meclis çoğunluğunu ve seçim ihtimalini etkileyebilir.
-- Meclis aritmetiği değişirse erken seçim kararı almak kolaylaşabilir.
-- Anayasa değişikliği, temel hukuk kurallarının değiştirilmesi anlamına gelir.
+- Cumhurbaşkanı Erdoğan, NATO Parlamenterler Asamblesi toplantısında konuştu.
+- Erdoğan, verilen taahhütlerin yerine getirileceğini vurguladı toplantıda.
+- Türkiye, savunma sanayisini güçlendirip uluslararası işbirliği arıyor.
+- Avrupa’nın yeni güvenlik mimarisinde Türkiye’ye yer verilmemesi tartışılıyor.
+- Güney Kıbrıs ve vetolar, dışlanmanın başlıca gerekçeleri sayılıyor.
+- Avrupa Parlamentosu raporu Türkiye’yi eleştiriyor, yaptırım çağrıları içeriyor.
+- 30 Haziran’da Avrupa heyeti Ankara’da bakanlarla görüşecek.
+- Görüşmelerde güvenlik, göç ve ticaret başlıkları öne çıkacak.
+- Trump, Erdoğan’ı övdü ve İran çatışmasına girmemesini istedi.
+- S-400 kaldıkça F-35 dosyasının Kongre’de tıkanacağı belirtiliyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=KTlu21qTeBg&t=1728s) (⏱️ 28:48-30:31)
-- [Hilal Koylu](https://www.youtube.com/watch?v=dIwwunmpB3I&t=1205s) (⏱️ 20:05-21:31)
-
----
-
-## 8. Türkiye-ABD gündeminde NATO ve motorlar
-
-- NATO zirvesi öncesi Türkiye-ABD ilişkileri yeniden gündeme geldi.
-- Trump, Erdoğan’ı övdü ve bazı konular için teşekkür etti.
-- Trump, Türkiye’yi mutlu edecek adımlar atacağını da söyledi.
-- Bu sözler, dış politika yaklaşımı ve insan hakları siciliyle eleştirildi.
-- Görüşme sonrası KAAN için F110 motorları iddiası öne çıktı.
-- Hakan Fidan, ABD motoru yoksa KAAN üretimi başlayamaz dedi.
-- F110, General Electric üretimi ve F-16’larda kullanılan motor.
-- Savunma işbirliği, F-35 süreci ve Kongre kararlarına bağlı tartışılıyor.
-- Dış politikada kısmi yumuşama olsa da sorunlar sürüyor.
-- Doğu Akdeniz ve Kıbrıs başlıkları ilişkilerde ciddi gerilim yaratıyor.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=KTlu21qTeBg&t=480s) (⏱️ 08:00-12:47)
-- [Murat Yetkin](https://www.youtube.com/watch?v=d_6FqV0xS14&t=386s) (⏱️ 06:26-08:25)
+- [Murat Yetkin](https://www.youtube.com/watch?v=17xZ6V0gvp4&t=233s) (⏱️ 03:53-06:11)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=SUI6bQXoSDA&t=638s) (⏱️ 10:38-15:36)
 
 ---
 
