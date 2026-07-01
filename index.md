@@ -1,178 +1,152 @@
 # Bugün Ne Oldu?
 
-*30 June 2026 tarihli günlük haber raporu - 8 haber birleştirildi*
+*1 July 2026 tarihli günlük haber raporu - 7 haber birleştirildi*
 
-## 1. Tamar Tanrıyar Soruşturması Gündemde
+## 1. Ücretler Erirken Yoksulluk Derinleşiyor
 
-- Tamar Tanrıyar sosyal medyada videolar yayımladı, siyaseti hedef aldı.
-- İstanbul Başsavcılığı soruşturma açtı, gözaltı kararı duyuruldu.
-- Tanrıyar cruise dönüşü Kuşadası’nda yakalandı ya da teslim oldu.
-- Tanrıyar ifadesini verdi, adli kontrolle serbest bırakıldı.
-- Başta hakaret de vardı, dosyada yalnız yanıltıcı bilgi kaldı.
-- Telefon, bilgisayar, tabletine el konuldu, inceleme süreci başladı.
-- Videolarda Turkuaz Medya ve dağıtım ilişkileri tartışma yarattı.
-- Olayın saray içi güç çekişmeleriyle bağlantılı olabileceği öne sürüldü.
-- Medyada Tanrıyar’ı savunan ve eleştiren yazılar sertleşti.
-- Komedyen Deniz Göktaş’a da dini değerlere aşağılama soruşturması açıldı.
+- Haziran verileri açlık sınırını 35.758 TL olarak gösterdi.
+- Yoksulluk sınırı 116.478 TL’ye yükselerek rekor seviyeye çıktı.
+- Asgari ücret 28.075 TL ile temel ihtiyaçların altında kaldı.
+- Bekar çalışanın aylık yaşam maliyeti 46.248 TL olarak açıklandı.
+- İstanbul’da 100 metrekare kira ortalaması 40.000 TL’yi aştı.
+- Türkiye genelinde ortalama kira 24.000 TL seviyesinde bildirildi.
+- Mayıs işsizlik oranı yüzde 8,2; işsiz sayısı 2,883 milyon.
+- Geniş tanımlı işsizlik yüzde 31; toplam 12,62 milyon kişi.
+- Ekonomide tüketim daralıyor; ikinci el araç satışları düşüş gösterdi.
+- Telefon kayıt ücreti 2026’da 54.258 TL’ye ulaştı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Inan Demirel](https://www.youtube.com/watch?v=HnOlzvhJfDo&t=335s) (⏱️ 05:35-12:50)
-- [Rusen Cakir](https://www.youtube.com/watch?v=6GrN5H8Qwmw&t=2s) (⏱️ 00:02-13:40)
-- [Onlar TV](https://www.youtube.com/watch?v=rvKzCz-URd8&t=1031s) (⏱️ 17:11-28:40)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=HgzQhkGO5WY&t=180s) (⏱️ 03:00-13:00)
-- [Serdar Akinan](https://www.youtube.com/watch?v=d_fxviyKgXI) (⏱️ 00:00-06:36)
-- [Hilal Koylu](https://www.youtube.com/watch?v=0Izz_0qOthA&t=42s) (⏱️ 00:42-22:01)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=6QuQb--jTo4&t=102s) (⏱️ 01:42-29:39)
-- [Unsal Unlu](https://www.youtube.com/watch?v=g2yscKTgFn8&t=113s) (⏱️ 01:53-05:36)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=oEyhZOP7lBE&t=1148s) (⏱️ 19:08-24:46)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=xHWN-u7JMRs) (⏱️ 00:00-04:00)
+- [Hilal Koylu](https://www.youtube.com/watch?v=azSmJ7c9ZeQ&t=3099s) (⏱️ 51:39-53:40)
+- [Inan Demirel](https://www.youtube.com/watch?v=VvvoKXwUnJs&t=416s) (⏱️ 06:56-08:40)
+- [Cigdem Toker](https://www.youtube.com/watch?v=MpPzu0raEsE&t=933s) (⏱️ 15:33-16:11)
 
 ---
 
-## 2. Silivri’de Ongun Savunması Sürüyor
+## 2. NATO Zirvesi İçin Ankara Makyajı
 
-- İBB davasında Murat Ongun, Silivri’de savunmasına başladı.
-- Tutukluluğunun 16. ayında, kronoloji ve arşiv sunarak konuştu.
-- Kendini günah keçisi saydı, örgüt yöneticiliği suçlamasını reddetti.
-- İddianameyi tutarsız buldu, Frankenstein benzetmesi ve Anadolu vurgusu yaptı.
-- HTS baz kayıtlarının yanlış kullanıldığını, somut delil olmadığını savundu.
-- Gizli tanık, ihale ve tweet delillerinin zayıf olduğunu ileri sürdü.
-- Eşini kurtarmak için 1 milyon dolar istendiğini iddia etti.
-- İsminin dosyadan çıkarılması için 100 bin dolar teklifi anlattı.
-- Bazı ifadelerin sonradan değiştirildiğini, tutuklamaya yol açtığını söyledi.
-- Mahkeme, savunmaları 9 Temmuz’a kadar bitirmeyi hedefliyor.
+- Ankara, NATO zirvesi öncesi kapsamlı hazırlık ve önlemler aldı.
+- Şehirde yollar yenilendi, mazgallar ve logar kapakları hizalandı.
+- Esenboğa protokol yolunda asfaltlama yapıldığı iddiaları tartışma yarattı.
+- Mansur Yavaş, çalışmaları NATO’ya bağlayan iddiaları yalanladı.
+- Bazı bölgelerde cephe boyama, peyzaj ve dikey bahçeler yapıldı.
+- Gecekondu görüntülerini gizlemek için branda ve setler kuruldu.
+- Taksicilere beyaz gömlek gri pantolon kıyafet kodu verildi.
+- Misafirler için lokum, kolonya, soğuk su içeren paketler hazırlandı.
+- Welcome to Ankara paketinde otomobil kokusu da bulunduğu aktarıldı.
+- Harcamalar ve makyajın halka değil, misafire yönelik olduğu eleştirildi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=Ehwoqbz9ml4&t=12s) (⏱️ 00:12-03:14)
-- [Inan Demirel](https://www.youtube.com/watch?v=HnOlzvhJfDo&t=1735s) (⏱️ 28:55-39:04)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=HB6Kzu_gSGA&t=34s) (⏱️ 00:34-02:36)
-- [Murat Yetkin](https://www.youtube.com/watch?v=fpBeeUhA1H4&t=2s) (⏱️ 00:02-14:38)
-- [Unsal Unlu](https://www.youtube.com/watch?v=g2yscKTgFn8&t=240s) (⏱️ 04:00-04:38)
-- [Onlar TV](https://www.youtube.com/watch?v=ADURimsOLl0&t=24s) (⏱️ 00:24-11:49)
+- [Inan Demirel](https://www.youtube.com/watch?v=VvvoKXwUnJs&t=41s) (⏱️ 00:41-05:10)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=oEyhZOP7lBE&t=846s) (⏱️ 14:06-19:06)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=xHWN-u7JMRs&t=241s) (⏱️ 04:01-07:04)
+- [Murat Yetkin](https://www.youtube.com/watch?v=_0MJdY7Byyk&t=245s) (⏱️ 04:05-08:36)
 
 ---
 
-## 3. Özgür Özel ve CHP’de yeni parti
+## 3. İfade Özgürlüğü Tartışmaları Büyüyor
 
-- Özgür Özel Anadolu gezilerinde halka yakın temas kuruyor.
-- Kadın seçmenlerden yoğun ilgi gördüğü ve sevildiği aktarılıyor.
-- Sokak performansı ve samimiyeti siyasette etkili bulunuyor.
-- Özel yeni siyaset ve kurucu hareket söylemini öne çıkarıyor.
-- CHP içinde Kılıçdaroğlu figürü üzerinden sert gerilim yaşanıyor.
-- İzmir’de atamalar ve il başkanlığı süreci tartışmaları büyütüyor.
-- Bazı belediye başkanlarına operasyon iddiaları ve atamalar konuşuluyor.
-- Kulislerde Özel’in yeni parti kuracağı iddiaları güçleniyor.
-- Yeni partinin teması özgürlük; 11-26 Temmuz konuşuluyor.
-- İmamoğlu paylaştığı fotoğrafla Özel’e destek ve umut mesajı verdi.
+- Turkuaz Operasyonu kapsamında geniş gözaltılar ve tutuklamalar yaşandığı bildirildi.
+- Gözaltına çevre gönüllüleri, akademisyenler ve sivil aktivistler de girdi.
+- Bazı şüphelilere terör örgütüne üye olmak suçlaması yöneltildi.
+- Uzmanlar protestonun demokratik hak olduğunu, kısıtlamalara karşı çıktı.
+- Kamu düzeni ile ifade özgürlüğü arasında gerilim yeniden tartışma konusu oldu.
+- Komedyen Deniz Göktaş hakkında dini değerleri aşağılamak soruşturması açıldı.
+- Selahattin Demirtaş, Göktaş'a destek mektubuyla ifade özgürlüğünü savundu.
+- Özgür Özel soruşturmayı eleştirdi, politik mizah korunmalı dedi.
+- Yorumcular geçmiş örneklerde çifte standart uygulandığını vurguladı ve eleştirdi.
+- Çakır, muhafazakar ailelerin sekülerleşen çocuklarını toplumsal olgu saydı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilal Koylu](https://www.youtube.com/watch?v=0Izz_0qOthA&t=2101s) (⏱️ 35:01-40:38)
-- [Onlar TV](https://www.youtube.com/watch?v=rvKzCz-URd8&t=1721s) (⏱️ 28:41-49:10)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=HgzQhkGO5WY&t=1200s) (⏱️ 20:00-32:00)
-- [Inan Demirel](https://www.youtube.com/watch?v=HnOlzvhJfDo&t=1570s) (⏱️ 26:10-28:55)
-- [Murat Yetkin](https://www.youtube.com/watch?v=fpBeeUhA1H4&t=165s) (⏱️ 02:45-06:21)
+- [Hilal Koylu](https://www.youtube.com/watch?v=azSmJ7c9ZeQ&t=800s) (⏱️ 13:20-17:49)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=oEyhZOP7lBE&t=220s) (⏱️ 03:40-08:30)
+- [Rusen Cakir](https://www.youtube.com/watch?v=uFoqjOB_6rQ&t=5s) (⏱️ 00:05-11:13)
+- [Murat Yetkin](https://www.youtube.com/watch?v=_0MJdY7Byyk&t=174s) (⏱️ 02:54-04:03)
 
 ---
 
-## 4. AK Parti’de Erdoğan Tartışmaları Büyüyor
+## 4. Ongun’un İBB Davasında Savunması
 
-- İktidar cephesinde Erdoğan’a destek çağrıları ve sert kutuplaşma sürüyor.
-- Bazı yayınlarda muhalefet liderlerine yönelik ağır eleştiriler ve uyarılar yer aldı.
-- Kulislerde Erdoğan’ın farklı ittifaklara yaslandığı, ama uyumun zayıf olduğu konuşuluyor.
-- AK Parti içinde huzursuzluk ve tabanın ekonomik sıkıntısı öne çıkıyor.
-- Sapanca’daki kapalı toplantıda vekiller Erdoğan’a ulaşamamaktan yakındı.
-- İddiaya göre kurmaylar mektupta emekli, asgari ücret, kira talep etti.
-- Erdoğan sonrası senaryoları tartışılırken “ikinci isim” önerileri gündeme geldi.
-- Kulislerde Berat Albayrak ve Bilal Erdoğan isimleri olası seçeneklerdi.
-- Mahmut Arıkan çevresinin 40 vekil planı ve olası referandum konuşuluyor.
-- Ekonomi için sıcak para arayışı, taviz iddiaları ve belirsizlikler sürüyor.
+- Murat Ongun, İBB davasında hakim karşısında kapsamlı savunma yaptı.
+- Savunmasında davanın siyasallaştığını ve itibar suikastı yürütüldüğünü söyledi.
+- İddianamedeki gizli tanık beyanlarını tutarsız ve çelişkili bulduğunu belirtti.
+- Bilirkişi raporlarına itiraz etti, dosyada çok sayıda çelişki olduğunu anlattı.
+- Ongun, kamuoyundaki İBB borsası iddialarına da doğrudan değindi.
+- Rüşvet ve pazarlık iması taşıyan bu tabiri reddettiğini ifade etti.
+- Avukat Beliz Özkan üzerinden 1 milyon dolar talep iddiasını aktardı.
+- Bu parayı ödeyemeyeceğini, böyle bir pazarlığa girmediğini söyledi.
+- Dosyada Celal Çakmak bağlantılı dolandırıcılık ve gizli tanık kullanımı tartışıldı.
+- Acarkent’te yüksek kiralı villa eleştirileri ve duruşma takvimi gündemdeydi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=6QuQb--jTo4) (⏱️ 00:00-01:41)
-- [Serdar Akinan](https://www.youtube.com/watch?v=d_fxviyKgXI&t=759s) (⏱️ 12:39-16:16)
-- [Inan Demirel](https://www.youtube.com/watch?v=HnOlzvhJfDo&t=1435s) (⏱️ 23:55-26:10)
-- [Onlar TV](https://www.youtube.com/watch?v=wxcEXu5xC60&t=6720s) (⏱️ 112:00-113:11)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=oEyhZOP7lBE&t=19s) (⏱️ 00:19-00:38)
+- [Inan Demirel](https://www.youtube.com/watch?v=VvvoKXwUnJs&t=1933s) (⏱️ 32:13-40:59)
+- [Hilal Koylu](https://www.youtube.com/watch?v=azSmJ7c9ZeQ&t=1226s) (⏱️ 20:26-51:13)
 
 ---
 
-## 5. Piyasalarda Fed, Enflasyon ve Yatırım
+## 5. CHP’de iç kriz ve yeni oluşum
 
-- Piyasalarda Aselsan için satış iddiaları ve söylentiler gündeme geldi.
-- BlackRock dahil yabancı yatırımcı ilgisi konuşuldu, resmi doğrulama yok.
-- Konuklar, savunma şirketi satışının ülke için risk taşıyacağını söyledi.
-- Küreselde jeopolitik risklerin azalması piyasaları bir miktar rahatlattı.
-- Fed yetkililerinin şahin mesajları, faiz ve dolar beklentisini yükseltti.
-- Petrol 78-79 dolara geriledi, enflasyon beklentilerini kısmen düşürdü.
-- Türkiye’de sabit gelirliler için yakın vadede somut iyileşme beklenmiyor.
-- Faizin enflasyonun üstünde kalması yıl sonuna dek sürebilir.
-- Altında bu yıl yeni zirve beklenmezken, uzun vadede yükseliş mümkün.
-- Gümüş, Bitcoin ve ABD hisseleri yatırım gündeminde yakından izleniyor.
+- CHP’de sert iç çekişmeler, il başkanları üzerinden büyüyor.
+- Genel merkez kararıyla 26 il başkanı görevden alındı.
+- Bazı il başkanları ihraç edildi, itiraz ve direnç sinyali verdi.
+- Görevden almalar biat edenler ve etmeyenler ayrımıyla yorumlandı.
+- Boşalan koltuklara atamalar yapıldı, Çanakkale’ye Koray Akkuş getirildi.
+- Bazı atamalar parti dengeleri ve kamuoyunda tartışma yarattı.
+- Kulislerde Kılıçdaroğlu’na yönelik polis müdahalesi de konuşuldu.
+- Özgür Özel ekibi, il başkanları ve başkanlarla temas kuruyor.
+- Yeni parti hazırlıkları sürüyor, 20-24 Temmuz tarihleri konuşuluyor.
+- Yeni oluşumda “özgür” vurgusu ve adaylık senaryoları tartışılıyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=HgzQhkGO5WY&t=1920s) (⏱️ 32:00-38:00)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=ZoL_oYJJjJc&t=117s) (⏱️ 01:57-05:16)
+- [Inan Demirel](https://www.youtube.com/watch?v=VvvoKXwUnJs&t=1674s) (⏱️ 27:54-32:13)
+- [Hilal Koylu](https://www.youtube.com/watch?v=azSmJ7c9ZeQ&t=152s) (⏱️ 02:32-13:19)
 
 ---
 
-## 6. Kur Baskısı Üretimi Zorluyor
+## 6. AK Parti’de Erdoğan Sonrası Tartışmaları
 
-- Türkiye’de döviz kuru kontrollü bir rejimle yönetiliyor denildi.
-- Yıl sonunda dolar kurunun yaklaşık 50 seviyesine çıkabileceği öngörüldü.
-- Kurun seçim takvimine kadar baskılanacağı, sonra gevşeyebileceği söylendi.
-- Düşük kur politikası yerli fiyatları artırıp rekabet gücünü zayıflattı.
-- Ucuz kredi beklense de faizler yüksek kalmaya devam ediyor.
-- Sanayi şirketlerinin finansman maliyetleri arttı, gelir faize gidiyor.
-- Fabrikaların kapandığı ve üretimin daraldığı örneklerle anlatıldı.
-- Bütçe açığının 298,2 milyar liraya ulaştığı belirtildi.
-- Yem maliyetleri artınca süt ve et üreticileri üretimi bıraktı.
-- İthal hayvanla yerli üretim azaldı, ithalatçılar fiyat belirledi.
+- AK Parti Sapanca kampında kapsamlı parti içi değerlendirmeler yapıldı.
+- Milletvekilleri sahadan şikayetler getirdi, bakanlar yanıtlar verdi.
+- Grup başkanları ile bazı bakanlar arasında gerilim yaşandığı aktarıldı.
+- Futbol ve spor yönetimindeki başarısızlıklar, siyasi sorumlulukla tartışıldı.
+- Yeni yargı paketi ve paketten çıkarılan düzenlemeler eleştirildi.
+- Kampta duayen isimler daha pasif, genç isimler daha aktifti.
+- Bülent Arınç kampta pasif kaldı, sonrasında açıklama yaptı.
+- Arınç, Erdoğan ile kampta bir saat görüştüğünü söyledi.
+- Açıklamalar Erdoğan sonrası dönem senaryolarını yeniden gündeme taşıdı.
+- Abdullah Gül, Bilal Erdoğan, Albayrak ve Fidan isimleri konuşuldu.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=ZoL_oYJJjJc&t=746s) (⏱️ 12:26-14:28)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=eptoT--7IyQ&t=131s) (⏱️ 02:11-05:08)
+- [Inan Demirel](https://www.youtube.com/watch?v=VvvoKXwUnJs&t=520s) (⏱️ 08:40-15:35)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=oEyhZOP7lBE&t=46s) (⏱️ 00:46-03:39)
 
 ---
 
-## 7. Sanatçı Anmaları Kutuplaşma Tartışması
+## 7. KÖİ Geçiş Ücretlerine Yeni Zam
 
-- Oyuncu Yavuzer Çetinkaya, konuşmalarda sevgiyle ve saygıyla anıldı.
-- Çetinkaya’nın tiyatro ve sinema kariyerinden dikkat çeken örnekler paylaşıldı.
-- Dostlar Tiyatrosu çevresinde izlendiği, solcu izleyiciyle anıldı sıkça.
-- Eğitiminde Robert Kolej ve İstanbul Üniversitesi psikoloji bölümü yer aldı.
-- Belçika’da sinema eğitimi aldığı, kariyerini etkilediği belirtildi.
-- 1992’de Meral Çetinkaya ile evlendiği yıl kalp krizinden öldü.
-- Kadir İnanır’ın vedası ve hakkında hazırlanan belgesel gündeme geldi.
-- Belgeselde Kenan Evren’le ilgili anılar ve değerlendirmeler yer aldı.
-- Bu anlatılara bazı kesimler tepki verdi, kamuoyunda tartışmalar yaşandı.
-- Konuklar, kutuplaştırıcı siyasetin zararlarını vurgulayıp saygı çağrısı yaptı.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Rusen Cakir](https://www.youtube.com/watch?v=6GrN5H8Qwmw&t=822s) (⏱️ 13:42-16:12)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=HgzQhkGO5WY&t=2280s) (⏱️ 38:00-48:00)
-
----
-
-## 8. Spor Gündeminde Villa ve Yayın Tartışması
-
-- Türkiye Futbol Federasyonu çevresinde villa vaadi tartışması büyüyor.
-- Başkan İbrahim Hacı Osmanoğlu futbolculara villa vereceğini açıkladı.
-- Verileceği söylenen villalarda imar sorunları olduğu iddia edildi.
-- Ayrıca Dünya Kupası primlerinden para dağıtıldığı bilgisi paylaşıldı.
-- Ayrı bir gündemde Ziraat Bankası’nın medya kuruluşlarına kredi verdiği öne sürüldü.
-- Bu tür kamu bankası kredilerinin verilmesi eleştirilere konu oldu.
-- TRT spikerinin Dünya Kupası yayınında takımları yanlış tanıttığı belirtildi.
-- Oyuncu ve takım isimlerinde yapılan hatalar sosyal medyada tepki çekti.
-- Tepkilerin ardından TRT spikerinin işine son verildiği söylendi.
+- Karayolları, otoyol ve köprü geçiş tarifelerini yeniden düzenledi.
+- KÖİ kapsamındaki otoyol ve köprülerde ücretler artırıldı.
+- Zam oranları genel olarak yüzde 15-18 bandında açıklandı.
+- Bazı hatlarda artışların yüzde 25’e kadar çıktığı belirtildi.
+- Duyuruda zam tablosu paylaşılmadı, sadece web sitesi bağlantısı verildi.
+- Sözleşmelerin bir bölümü dövize endeksli, artışlar buradan etkileniyor.
+- Geçiş garantileri tutmazsa fark hazineden şirketlere ödeniyor.
+- Bu bütçe yükü, sürücünün ödediği ücret gibi TÜFE’ye yansımıyor.
+- Yüksek ücretler ve yap-işlet-devret modeli kamuoyunda eleştiriliyor.
+- KÖİ sözleşmeleri çoğunlukla gizli, ayrıntılar soru önergeleriyle çıkıyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Inan Demirel](https://www.youtube.com/watch?v=HnOlzvhJfDo&t=2694s) (⏱️ 44:54-47:00)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=eptoT--7IyQ&t=871s) (⏱️ 14:31-15:24)
+- [Cigdem Toker](https://www.youtube.com/watch?v=MpPzu0raEsE&t=19s) (⏱️ 00:19-09:18)
+- [Inan Demirel](https://www.youtube.com/watch?v=VvvoKXwUnJs&t=311s) (⏱️ 05:11-06:56)
 
 ---
 
