@@ -1,218 +1,154 @@
 # Bugün Ne Oldu?
 
-*6 July 2026 tarihli günlük haber raporu - 10 haber birleştirildi*
+*7 July 2026 tarihli günlük haber raporu - 7 haber birleştirildi*
 
-## 1. Ankara’da NATO Zirvesi ve Trump
+## 1. NATO Zirvesi Demokrasi ve Gözaltılar
 
-- NATO’nun 78. zirvesi Ankara’da yarın başlayacak, yoğun katılım bekleniyor.
-- Şehir genelinde en üst düzey güvenlik önlemleri ve bariyerler kuruldu.
-- Ana yollar, otel çevreleri, park alanları ve bazı bölgeler kapatılacak.
-- Esenboğa Havalimanı’nda geçici kısıtlamalar ve hava trafiği düzeni uygulanacak.
-- Zirvenin açılışı ATO’da, Beştepe’de resepsiyon ve akşam yemeği var.
-- Trump’ın Ankara programı tartışıldı; Anıtkabir ziyareti netleşmedi.
-- Bazı kaynaklar çalışma ziyareti nedeniyle ziyaret olmayacağını vurguladı.
-- Trump için zırhlı araçlar getirildi; olası sürpriz hamleler konuşuluyor.
-- Gündemde savunma bütçeleri, F-35, kritik mineraller, yapay zeka var.
-- Karadeniz, Suriye ve Doğu Akdeniz gibi bölgesel başlıklar öne çıkacak.
+- NATO zirvesinde ana mesaj demokrasi ve özgürlük vurgusu oldu.
+- Genel Sekreter Mark Rutte Ankara ziyaretinde medya özgürlüğüne dikkat çekti.
+- Demokrasinin sadece seçim değil, basın ve gösteri hakkı olduğu söylendi.
+- TRT’nin Rutte’ye sorulan soruyu yumuşattığı, sansür iddiası doğurdu.
+- Zirve öncesi ve sırasında çok sayıda önleyici gözaltı yapıldığı belirtildi.
+- Gazeteci, avukat ve sivil toplum temsilcilerinin operasyonda gözaltına alındığı aktarıldı.
+- İsrail karşıtı aktivistler ve Direniş Çadırı üyelerinin de alındığı söylendi.
+- Ankara’daki protestolarda kötü muamele iddiaları ve erişim engelleri konuşuldu.
+- Bazı gazetecilere NATO akreditasyonu verilmemesi basın merkezinde eleştirildi.
+- Zirvede NATO 3.0 dönemi, Rusya tehdidi ve Avrupa savunması tartışıldı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Nevsin Mengu](https://www.youtube.com/watch?v=Fs28DHQNFmE&t=2580s) (⏱️ 43:00-51:51)
-- [Rusen Cakir](https://www.youtube.com/watch?v=r3rclTgUhdQ&t=1152s) (⏱️ 19:12-37:43)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=KzZYGp5bPxs&t=900s) (⏱️ 15:00-17:45)
-- [Onlar TV](https://www.youtube.com/watch?v=g24MP4CeVPc&t=910s) (⏱️ 15:10-16:29)
-- [Hilal Koylu](https://www.youtube.com/watch?v=RQ6OarmMCsM&t=798s) (⏱️ 13:18-21:58)
-- [Murat Yetkin](https://www.youtube.com/watch?v=VXOu9YtWru4) (⏱️ 00:00-15:51)
-- [Cigdem Toker](https://www.youtube.com/watch?v=2NgN8tNj2kc&t=4s) (⏱️ 00:04-07:13)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=lfxFCWVRAhI&t=180s) (⏱️ 03:00-07:00)
+- [Inan Demirel](https://www.youtube.com/watch?v=n4juS3x45xQ&t=710s) (⏱️ 11:50-18:23)
+- [Hilal Koylu](https://www.youtube.com/watch?v=qUlq8HuXJf8&t=72s) (⏱️ 01:12-03:35)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=ukksu45Vkb8&t=3562s) (⏱️ 59:22-62:43)
+- [Murat Yetkin](https://www.youtube.com/watch?v=z9Lgu7sICaM&t=162s) (⏱️ 02:42-03:24)
+- [Rusen Cakir](https://www.youtube.com/watch?v=oOT5ev5MAmY&t=51s) (⏱️ 00:51-06:32)
 
 ---
 
-## 2. İmamoğlu’nun Silivri’de Üç Davası
+## 2. Trump’ın Ankara NATO Zirvesi Ziyareti
 
-- Ekrem İmamoğlu aynı gün üç ayrı davada yargılandı Silivri’de.
-- Davalar diploma iptali, siyasi casusluk iddiası ve İBB ana dosyası.
-- Duruşma saatleri çakıştı; casusluk 10’da, diğerleri 11’de başladı.
-- İmamoğlu erteleme istedi; mahkeme reddetti, tartışma sonrası çıkarıldı.
-- Diploma davası beşinci duruşmada 25 Aralık’a ertelendi tekrar.
-- Casusluk davasında Merdan Yanardağ da sanıklar arasında yer alıyor.
-- Savunma iddianamede somut delil yok diyerek kapsamı eleştirdi.
-- Gözlemlerde giriş kısıtları, gazeteciler ve siyasilerle yoğunluk görüldü.
-- Mahkeme savunmayı Temmuzda bitirip Ağustos’ta yeniden başlamak istiyor.
-- Uluslararası aktörler davaları izleyip hukuk ihlalleri gündeme taşınsın dedi.
+- NATO zirvesi Ankara’da başladı, iki gün sürmesi planlanıyor.
+- Zirvede Trump ve Erdoğan öne çıktı, ikili görüşme gündemdeydi.
+- Trump’ın Ankara ziyareti programı, resmi tören ve basın toplantısı tartışıldı.
+- Trump Anıtkabir’i ziyaret etmedi, kentte sıkı güvenlik uygulandı.
+- Türkiye Trump’tan F110 motoru, F-35 ve yaptırımlarda esneklik bekledi.
+- Erdoğan-Trump basın toplantısında yaptırımlar ve F-35 için yeşil ışık verildi.
+- CAATSA yaptırımları Kongre nedeniyle belirsiz, sözlerin kalıcılığı tartışılıyor.
+- S-400, Kürt meselesi, Gülen ve vetolar NATO’da yapısal sorunlar.
+- Zirvenin Erdoğan’a uluslararası meşruiyet sağlayıp iç politikayı etkileyebileceği söylendi.
+- Piyasalar Trump mesajlarına sınırlı tepki verdi, belirsizlik sürdü.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=L1uxvFAeiH4&t=3s) (⏱️ 00:03-09:03)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=KzZYGp5bPxs&t=780s) (⏱️ 13:00-15:00)
-- [Hilal Koylu](https://www.youtube.com/watch?v=RQ6OarmMCsM&t=2909s) (⏱️ 48:29-49:28)
-- [Cigdem Toker](https://www.youtube.com/watch?v=2NgN8tNj2kc&t=436s) (⏱️ 07:16-08:43)
-- [Murat Yetkin](https://www.youtube.com/watch?v=VXOu9YtWru4&t=56s) (⏱️ 00:56-02:56)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=Fs28DHQNFmE&t=30s) (⏱️ 00:30-03:00)
+- [Inan Demirel](https://www.youtube.com/watch?v=n4juS3x45xQ&t=1s) (⏱️ 00:01-04:44)
+- [Hilal Koylu](https://www.youtube.com/watch?v=qUlq8HuXJf8&t=2600s) (⏱️ 43:20-45:26)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=ukksu45Vkb8&t=13s) (⏱️ 00:13-02:48)
+- [Rusen Cakir](https://www.youtube.com/watch?v=oOT5ev5MAmY&t=884s) (⏱️ 14:44-41:50)
+- [Murat Yetkin](https://www.youtube.com/watch?v=z9Lgu7sICaM&t=663s) (⏱️ 11:03-11:53)
 
 ---
 
-## 3. Deniz Göktaş Tutuklaması Tartışma Yarattı
+## 3. İmamoğlu’nun Silivri’de üç davası
 
-- Komedyen Deniz Göktaş yurt dışından dönünce tutuklandı, cezaevine gönderildi.
-- Tutuklama sürecinde ters kelepçe ve zorla götürülme görüntüleri yayıldı.
-- Göktaş Çorlu’daki yüksek güvenlikli Y tipi cezaevinde tutuluyor.
-- Cezaevi kuyu tipi diye anılıyor, güneş görmeyen mimari eleştiriliyor.
-- Göktaş tek kişilik koğuşta kalıyor, kısa sürede televizyon verildi.
-- Gözaltında bedeninden çeşitli örnekler alındığı, avukatlarca aktarıldı.
-- Savcılık tutanağında stand-up sözleri suçlama gerekçesi yapıldı.
-- Muhalefet ve avukatlar sürece katıldı; Özgür Özel cezaevini ziyaret etti.
-- Olay ifade özgürlüğü ve politik mizahın sınırları tartışmasını büyüttü.
-- Sosyal medyada hedef göstermeler, hashtag kampanyaları ve dayanışma çağrıları görüldü.
+- Ekrem İmamoğlu Silivri’de aynı gün üç davada yargılandı.
+- Duruşmalar casusluk, diploma iptali ve İBB dosyalarını kapsadı.
+- Diploma iptali davasında uzun savunma yapıldı, AB raportörleri izledi.
+- İmamoğlu, rektörle diploma sürecine dair telefon görüşmesini anlattı.
+- Casusluk dosyasında tutukluluğun devamına karar verildi, Eylül’e ertelendi.
+- İddialar yabancı istihbarata veri aktarımı gibi suçlamaları içeriyor.
+- İBB davasında savunma günü değişince tartışma çıktı, gerilim yaşandı.
+- Mahkeme başkanı duruşmayı kısa kesmeye çalıştı, salon karıştı.
+- Avukatlar binlerce sayfalık iddianame için daha uzun süre istedi.
+- İmamoğlu savunmasında hukuk devleti, özgürlükler ve birlik çağrısı yaptı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=r3rclTgUhdQ&t=19s) (⏱️ 00:19-26:42)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=KzZYGp5bPxs&t=60s) (⏱️ 01:00-05:00)
-- [Cigdem Toker](https://www.youtube.com/watch?v=2NgN8tNj2kc&t=531s) (⏱️ 08:51-16:20)
-- [Onlar TV](https://www.youtube.com/watch?v=g24MP4CeVPc&t=993s) (⏱️ 16:33-32:33)
+- [Hilal Koylu](https://www.youtube.com/watch?v=qUlq8HuXJf8&t=324s) (⏱️ 05:24-07:24)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=t2DMZw-pgO0&t=12s) (⏱️ 00:12-06:31)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=lfxFCWVRAhI&t=820s) (⏱️ 13:40-22:00)
+- [Inan Demirel](https://www.youtube.com/watch?v=n4juS3x45xQ&t=1587s) (⏱️ 26:27-34:50)
 
 ---
 
-## 4. CHP’de Ayrışma ve Yeni Parti
+## 4. NATO Zirvesi ve Anıtkabir Gündemi
 
-- Metropol’ün yeni anketi muhalefette dengelerin değiştiğini gösteriyor.
-- Özgür Özel’in kuracağı iddia edilen parti kararsızlar dağılınca yükseliyor.
-- Ankete göre yeni parti desteği yaklaşık yüzde 34 seviyesine çıkıyor.
-- CHP’de oy düşüşü ve Kılıçdaroğlu dönemine tepki vurgulanıyor.
-- Parti içinde seçilmiş-atanmış yönetim tartışması gerilimi artırıyor.
-- Görevden almalar ve il başkanı tasfiyeleri ayrışma ihtimalini güçlendiriyor.
-- Ankara kulislerinde farklı fraksiyonların alternatif liderlik planları konuşuluyor.
-- İmamoğlu’nun süren davaları CHP içi dengeler açısından kritik görülüyor.
-- İmamoğlu yapay zekâ destekli videoyla Az kaldı mesajı verdi.
-- Yeni parti için Temmuz sonuna kadar somut adımlar ihtimali konuşuluyor.
+- NATO zirvesi kapsamında heyetler Ankara’da Anıtkabir’i ziyaret etti.
+- Zirve katılımcıları Atatürk anıtı önünde selam durdu.
+- Ziyaretin protokol gereği yapıldığı, görüntülerle aktarıldı.
+- Bazı yayınlarda Trump’un Anıtkabir’e gitmeyeceği bildirildi.
+- Bu kararın protokol tercihleri veya kişisel nedenlerle alındığı konuşuldu.
+- Türkiye’de resmi ziyaretlerde kurucu lidere saygı geleneği vurgulandı.
+- Zirveye özel anı amaçlı 5 lira madeni para basıldı.
+- Paranın bir yüzünde NATO logosu ve Beştepe görseli var.
+- İlk etapta 100 bin adet basıldığı açıklandı.
+- Zirve süresince 400 bin adet daha üretilmesi planlandı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=r3rclTgUhdQ&t=433s) (⏱️ 07:13-19:10)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=KzZYGp5bPxs&t=300s) (⏱️ 05:00-08:00)
-- [Onlar TV](https://www.youtube.com/watch?v=g24MP4CeVPc&t=1953s) (⏱️ 32:33-53:25)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=lfxFCWVRAhI&t=660s) (⏱️ 11:00-13:40)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=ukksu45Vkb8&t=3828s) (⏱️ 63:48-64:41)
+- [Hilal Koylu](https://www.youtube.com/watch?v=qUlq8HuXJf8&t=444s) (⏱️ 07:24-09:42)
 
 ---
 
-## 5. Siyasette İstifa ve Parti Geçişleri
+## 5. Deniz Göktaş’ın Tutukluluğu Tartışılıyor
 
-- Adnan Beker, CHP'den istifa ettiğini kamuoyuna resmen açıkladı.
-- İstifanın gerekçesinde ailesinden iki kişinin gözaltı süreci konuşuldu.
-- Beker’in ülkücü geçmişi ve iş insanı kimliği yeniden gündeme geldi.
-- Ayrılığın CHP iç dengeleri ve yeni oluşumlar açısından etkisi değerlendirildi.
-- Vekil transferleri ve saha örgütlenmesi siyaset için kritik görülüyor.
-- Erdal Beşikçioğlu’nun Kılıçdaroğlu ile eski görüntüleri tekrar paylaşıldı.
-- Beşikçioğlu çevresindeki atamalar üzerinden nepotizm iddiaları tartışıldı.
-- Sanatçı ve siyasetçi ilişkilerinin parti içi etkisi ayrıca konuşuldu.
-- Mehmet Ali Çelebi’nin AKP’ye geçişi muhalefette sert eleştiri doğurdu.
-- Çelebi’nin Meclis’te Erdoğan’ı övmesi motivasyon şüphelerini artırdı.
+- Komedyen Deniz Göktaş, tutuklanmasıyla kamuoyunda tartışma başlattı.
+- Göktaş’ın mizahı nedeniyle hedef alındığı iddiaları gündeme geldi.
+- Gözaltında kameralar önünde ters kelepçe yapıldığını söyledi.
+- Cezaevinde fotoğrafının temsili kullanıldığını, sürekli çekim yapıldığını anlattı.
+- Avukatları aracılığıyla cezaevinden mektup paylaşıldı, ayrıntılar aktarıldı.
+- Mektupta cezaevi koşulları, gündelik yaşam ve moral durumu anlatıldı.
+- Yemek, hijyen, ilaçlara erişim gibi pratik sorunlara dikkat çekti.
+- Göktaş, gülümsemeye devam ettiğini ve üretmeyi sürdüreceğini belirtti.
+- Türkiye’yi terk etmeyeceğini, yaptığının arkasında durduğunu söyledi.
+- İmamoğlu ve çevresi dahil birçok isimden destek mesajları paylaşıldı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Nevsin Mengu](https://www.youtube.com/watch?v=Fs28DHQNFmE&t=1320s) (⏱️ 22:00-25:00)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=KzZYGp5bPxs&t=630s) (⏱️ 10:30-13:00)
-- [Onlar TV](https://www.youtube.com/watch?v=g24MP4CeVPc&t=734s) (⏱️ 12:14-15:08)
+- [Hilal Koylu](https://www.youtube.com/watch?v=qUlq8HuXJf8&t=1950s) (⏱️ 32:30-36:40)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=ukksu45Vkb8&t=168s) (⏱️ 02:48-11:10)
 
 ---
 
-## 6. NATO Zirvesi Öncesi Gözaltı Dalgası
+## 6. Siyaset, güvenlik ve demokrasi baskısı
 
-- Ankara’da NATO zirvesi öncesi geniş güvenlik önlemleri alındı.
-- Sivil gruplar ve Filistin çadırı inisiyatifi üyeleri gözaltına alındı.
-- Gazeteci, avukat, akademisyen ve STK temsilcileri de gözaltına girdi.
-- İstanbul, Ankara ve birçok ilde ev ve ofis aramaları yapıldı.
-- İstanbul Cumhuriyet Başsavcılığı gözaltı sayısı ve el koymaları açıkladı.
-- Bazı sosyal medya hesaplarının kapatıldığı ve baskı arttığı öne sürüldü.
-- Kızılay’da NATO karşıtı gösteride çatışma çıktı, yüzü aşkın gözaltı oldu.
-- Protestolar ve polis müdahaleleri ülkenin farklı yerlerinde sürdü.
-- RTÜK yayınları izlediklerini belirterek yayıncılara uyarı yaptı.
-- Muhalefet ve sivil toplum, gözaltılara tepki gösterdi, endişe dile getirdi.
+- Aşırı politize ortam, yalnızlığı bastırma aracı olarak tartışılıyor.
+- Sosyal medya ve liderler, ilgiyi artırmak için duyguları kullanıyor.
+- Siyaset, bazı kesimlerce terapi gibi tüketilen bir alana dönüşüyor.
+- Siyasi tercihler, ekonomik ve toplumsal davranışları daha çok belirliyor.
+- Bu dönüşüm, liberal demokrasinin geleceğine dair tartışmaları derinleştiriyor.
+- Yeni soğuk savaş atmosferi, hak ve özgürlükler için risk yaratıyor.
+- Güvenlik önceliği arttıkça, özgürlükler ikinci plana itilebiliyor.
+- Avrupa’da gösterilere polis müdahaleleri ve gözaltılar örnek gösterildi.
+- Türkiye’de de demokrasi mücadelesinin zorlaşabileceği endişesi dile getirildi.
+- Temmuzun ikinci yarısında, terörsüz Türkiye sürecinde adımlar bekleniyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Nevsin Mengu](https://www.youtube.com/watch?v=Fs28DHQNFmE&t=2400s) (⏱️ 40:00-43:00)
-- [Hilal Koylu](https://www.youtube.com/watch?v=RQ6OarmMCsM&t=13s) (⏱️ 00:13-10:12)
-- [Murat Yetkin](https://www.youtube.com/watch?v=VXOu9YtWru4&t=782s) (⏱️ 13:02-13:13)
+- [Murat Yetkin](https://www.youtube.com/watch?v=z9Lgu7sICaM&t=734s) (⏱️ 12:14-14:47)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=lfxFCWVRAhI&t=420s) (⏱️ 07:00-11:00)
 
 ---
 
-## 7. Enflasyon ve gelir kaybı tartışması
+## 7. Turizm Yatırımları ve Piyasa Beklentileri
 
-- Türkiye’de kronik enflasyon sorunu yeniden kapsamlı şekilde tartışıldı.
-- Emekli maaşı zamlarının, geçim sıkıntısını gidermede yetersiz kaldığı belirtildi.
-- Enflasyon düşürme politikaları, vatandaşın reel gelirini daha da eritti.
-- Gelir vergisi dilimleri güncellenmeyince çalışanların net maaşı azaldı.
-- Asgari ücret, memur ve emekli gelirleri arasındaki fark büyüdü.
-- Ekonomik güven eksikliği, yatırım kararlarını ve istihdamı olumsuz etkiledi.
-- Zaman kaybının ekonomik maliyeti arttı, kalkınma momentumu zayıfladı.
-- Benzer ve komşu ülkelerin Türkiye’yi geçmesi, karşılaştırmalarla anlatıldı.
-- Çözüm için büyük yapısal reformlar ve kapsamlı hamleler gerektiği vurgulandı.
-- Gözaltılar ve siyasi baskı algısı, toplumsal huzursuzluğu artırdı.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Nevsin Mengu](https://www.youtube.com/watch?v=Fs28DHQNFmE&t=1500s) (⏱️ 25:00-32:00)
-- [Hilal Koylu](https://www.youtube.com/watch?v=RQ6OarmMCsM&t=1406s) (⏱️ 23:26-33:49)
-
----
-
-## 8. Müfredatta Kurtuluş Savaşı Tartışması
-
-- Yusuf Tekin’in Kurtuluş Savaşı ifadeleri yeni tartışma başlattı.
-- Müfredatta Kurtuluş Savaşı yerine Milli Mücadele kullanımı iddia edildi.
-- İddia, AK Parti toplantısından sızan bilgilerle gündeme taşındı.
-- Tekin’in bu yönde bir konuşma yaptığı öne sürüldü.
-- Konuşmada tarih kitapları ve Sevr haritaları incelensin denildi.
-- Tarih algısı ve kullanılan kavramlar üzerinden sert eleştiriler yükseldi.
-- Bazı yorumcular bakanın tarih bilgisini yetersiz bulduğunu söyledi.
-- Eğitim politikaları ve yeni müfredat yaklaşımı yeniden sorgulandı.
-- Okul kayıt sistemi nedeniyle velilerden yoğun şikayetler geldi.
-- Tepkiler, kavram değişikliğinin anlamı ve amacı üzerine yoğunlaştı.
+- Bodrum’daki Scorpios yatırımı, turizm gündeminde tartışma yarattı.
+- Bakan ve danışmanının açıklamaları, sektör temsilcilerince sert eleştirildi.
+- Politikalara bağlı belirsizlik, yatırımcıların Türkiye’ye ilgisini azalttı.
+- Yatırımcı kaçırmanın, turizm gelirleri ve istihdama zarar verdiği vurgulandı.
+- Bodrum’da orta sınıf turizminin gerilediği, profilin değiştiği belirtildi.
+- Piyasalarda borsa, altın ve döviz için güncel değerlendirmeler paylaşıldı.
+- Borsa İstanbul’un yılın ikinci yarısında toparlanma şansı olduğu söylendi.
+- Altın ve gümüşte orta-uzun vadede olumlu beklenti korundu.
+- Dövizde yönü, küresel koşullar ve para politikası belirliyor.
+- Ekonomik iklimin, turizm yatırım kararlarını doğrudan etkilediği ifade edildi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Murat Yetkin](https://www.youtube.com/watch?v=VXOu9YtWru4&t=572s) (⏱️ 09:32-11:17)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=KzZYGp5bPxs&t=1065s) (⏱️ 17:45-22:30)
-
----
-
-## 9. Taciz İddiaları Sonrası Gözaltı
-
-- Ümraniye ve çevresinde bir kadının taciz iddiaları gündem oldu.
-- Sosyal medyada yayılan videolarda erkekleri taciz ettiği öne sürüldü.
-- Görüntülerin farklı ilçelerde çekildiği ve hızla yayıldığı belirtildi.
-- Bazı videoların birleştirilip kurgulanmış olabileceği iddiası konuşuldu.
-- Bazı görüntülerin ise farklı nedenlerle oluştuğu ileri sürüldü.
-- Olay sonrası kadın polis tarafından gözaltına alındı.
-- Cezai ehliyet için sağlık kuruluşunda gözlem kararı verildi.
-- Psikiyatrik değerlendirme raporu iddiaları sosyal medyada tartışıldı.
-- Esnafın tepkileri ve yaşananlar kamuoyunda geniş yankı buldu.
-- Olay sosyal medyada mizah, eleştiri ve parodilere konu oldu.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Onlar TV](https://www.youtube.com/watch?v=g24MP4CeVPc&t=3549s) (⏱️ 59:09-61:00)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=KzZYGp5bPxs&t=1350s) (⏱️ 22:30-25:20)
-
----
-
-## 10. Mezuniyetlerde rektör ve diploma tepkisi
-
-- İstanbul Üniversitesi rektörünün mezuniyet konuşması yeni tartışmalar başlattı.
-- Rektörün öğrencilere yönelik bazı yorumları mezunlar tarafından eleştirildi.
-- Mezuniyetlerde diploma iptalleri iddiaları da gündeme taşındı.
-- İstanbul ve diğer üniversitelerde öğrenciler yönetimleri protesto etti.
-- Protestolarda rektörlere ve kayyum atamalarına tepkiler öne çıktı.
-- Boğaziçi Üniversitesinde öğrenciler gelen akademisyenleri ve kayyumları protesto etti.
-- Gençler sokaklarda ve çeşitli etkinliklerde muhalif eylemler düzenledi.
-- Bazı ilçelerde gençler Özgür Özel'e destek pankartları açtı.
-- Milli Eğitim Bakanı için kabine revizyonu söylentileri kamuoyunda tartışıldı.
-- Müfredat değişikliği iddiaları, eğitim politikalarına yönelik eleştirileri artırdı.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Nevsin Mengu](https://www.youtube.com/watch?v=Fs28DHQNFmE&t=2280s) (⏱️ 38:00-40:00)
-- [Onlar TV](https://www.youtube.com/watch?v=g24MP4CeVPc&t=3209s) (⏱️ 53:29-59:04)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=lfxFCWVRAhI&t=1860s) (⏱️ 31:00-34:28)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=ukksu45Vkb8&t=2216s) (⏱️ 36:56-41:47)
 
 ---
 
