@@ -1,91 +1,198 @@
 # Bugün Ne Oldu?
 
-*14 July 2026 tarihli günlük haber raporu - 4 haber birleştirildi*
+*15 July 2026 tarihli günlük haber raporu - 9 haber birleştirildi*
 
-## 1. CHP’de kriz ve yeni parti
+## 1. Ahbap Soruşturması Derinleşiyor
 
-- CHP’de kurultay tartışmaları sonrası yönetim krizi derinleşti.
-- Özgür Özel TBMM’de MYK toplantısı yaparak süreci yönetti.
-- Yönetim, çağrı heyeti talebiyle yargıya gitme kararı aldı.
-- Mutlak butlan iddiası, kurultay kararının yok sayılması tartışmasını büyüttü.
-- Adli tatil ve 20 Temmuz takvimi, hukuki süreçte kritik görülüyor.
-- Olağanüstü kurultay girişimleri sonuçsuz kalınca gerilim daha arttı.
-- Partide görevden almalar, istifalar ve il başkanlığı değişimleri yaşandı.
-- Kılıçdaroğlu, CHP’yi bölmenin iktidara yarayacağını vurguladı.
-- Özel, partiden ayrılmak istemediğini söylerken yeni parti hazırlığı konuşuluyor.
-- Yeni parti, Atatürkçü sosyal demokrat çizgide geniş taban hedefliyor.
+- Haluk Levent ve Ahbap Derneği hakkında kapsamlı soruşturma yürütülüyor.
+- Emniyet ifadesinin internete sızmasıyla tartışmalar daha da büyüdü.
+- MASAK ve vergi uzmanları para hareketleri ile kayıtları inceliyor.
+- Deprem bağışlarının amaç dışı kullanıldığı ve transfer edildiği iddia ediliyor.
+- Kara para aklama, tefecilik ve organize suç şüpheleri dosyada yer alıyor.
+- Levent'in banka hesabı kullanmadığı, asistan hesaplarını kullandığı öne sürüldü.
+- Yeliz Kaya'ya 80 milyon TL aktarımı ve tapu devirleri gündemde.
+- Hüseyin Başaran bağlantısıyla 2,5 milyar TL gayrimenkul devri iddia ediliyor.
+- İfadede Süleyman Soylu adı geçince tutanağın kesildiği ileri sürüldü.
+- Soruşturma gözaltılarla genişlerken, kamuoyu şeffaf denetim istiyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=Cm-J8-987X4&t=28s) (⏱️ 00:28-18:22)
-- [Onlar TV](https://www.youtube.com/watch?v=pOEDiBFGYtc&t=2041s) (⏱️ 34:01-45:02)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=-A_GjzFvRWc&t=251s) (⏱️ 04:11-24:16)
-- [Rusen Cakir](https://www.youtube.com/watch?v=stGiVXxJPCU&t=1544s) (⏱️ 25:44-29:29)
-- [Hilal Koylu](https://www.youtube.com/watch?v=hVjIHBgTnS8&t=705s) (⏱️ 11:45-21:01)
-- [Murat Yetkin](https://www.youtube.com/watch?v=C42LYrVEkao&t=129s) (⏱️ 02:09-06:12)
+- [Cigdem Toker](https://www.youtube.com/watch?v=atuOHt7b-RU&t=113s) (⏱️ 01:53-03:54)
+- [Rusen Cakir](https://www.youtube.com/watch?v=uioufqTaO1s&t=1141s) (⏱️ 19:01-19:44)
+- [Serdar Akinan](https://www.youtube.com/watch?v=4pTIZk4vlSo) (⏱️ 00:00-05:54)
+- [Hilal Koylu](https://www.youtube.com/watch?v=BmGzy-jrei0&t=68s) (⏱️ 01:08-26:30)
+- [Onlar TV](https://www.youtube.com/watch?v=dQsJz73tbNE&t=820s) (⏱️ 13:40-35:29)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=qofjyKqDrgA&t=1145s) (⏱️ 19:05-22:30)
+- [Unsal Unlu](https://www.youtube.com/watch?v=Togk2Dwhq2s&t=268s) (⏱️ 04:28-07:41)
 
 ---
 
-## 2. Ahbap ve Haluk Levent Soruşturması
+## 2. 15 Temmuz'un 10. Yılında Sorular
 
-- Haluk Levent ve Ahbap hakkında mali iddialar soruşturuluyor.
-- MASAK raporu banka ve bahis hesaplarında şüpheli hareketler saptadı.
-- Rapor 3 Ocak 2025 tarihli, 18 Şubat’ta polise iletildi.
-- İnceleme üç isimde yoğunlaştı: Alper Çelik, Zafer Yay, Emrah Gödeliner.
-- Bahis işlemlerinde yüz milyonlarca liralık hareket ve kayıp iddiaları var.
-- Bazı transferlerde yurt dışı çıkışları ve kripto yönlendirmeleri anlatılıyor.
-- Berkant Acil’in para trafiğinde kilit olduğu, Şile dosyasında tutuklu.
-- Hüseyin Başaran, 60 milyon dolar değerinde 22 gayrimenkul iddiasıyla şikâyetçi.
-- Haluk Levent, borçlarının Ahbap’la karışmaması gerektiğini açıkladı.
-- Deprem döneminde Ahbap’ın resmi kurumlarla koordineli çalıştığı savunuldu.
+- 15 Temmuz 2026'da darbe girişiminin 10. yılı anıldı.
+- Darbe gecesi 251-300 kişi öldü, binlerce kişi yaralandı.
+- Girişimin FETÖ'nün devlet ve ordu yapılanmasıyla gerçekleştiği vurgulandı.
+- Darbeyi durdurmada halkın sokağa çıkmasının belirleyici olduğu hatırlatıldı.
+- 20 Temmuz 2016'da OHAL ilan edildi, 2018'e kadar sürdü.
+- 2017 referandumu için mühürsüz oylar nedeniyle şaibe iddiaları yinelendi.
+- Meclis darbe komisyonu raporunun yayımlanmaması ve kaybolması eleştirildi.
+- Bazı komutanlar, Akıncı Üssü ve Adil Öksüz soru işaretleri doğurdu.
+- Yargıda AYM kararlarına uyulmaması ve hak ihlalleri anlatıldı.
+- Darbe sonrası ekonomik zorluklar, kurum erozyonu, toplumsal güven kaybı vurgulandı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Murat Yetkin](https://www.youtube.com/watch?v=C42LYrVEkao&t=3s) (⏱️ 00:03-14:34)
-- [Onlar TV](https://www.youtube.com/watch?v=pOEDiBFGYtc&t=113s) (⏱️ 01:53-28:47)
-- [Hilal Koylu](https://www.youtube.com/watch?v=w9yoJ-s7UzM&t=89s) (⏱️ 01:29-14:36)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=RKd2V6rjCw8&t=124s) (⏱️ 02:04-09:54)
+- [Unsal Unlu](https://www.youtube.com/watch?v=Togk2Dwhq2s&t=88s) (⏱️ 01:28-02:39)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=qofjyKqDrgA&t=10s) (⏱️ 00:10-02:00)
+- [Rusen Cakir](https://www.youtube.com/watch?v=uioufqTaO1s&t=1363s) (⏱️ 22:43-27:29)
+- [Serdar Akinan](https://www.youtube.com/watch?v=4pTIZk4vlSo&t=712s) (⏱️ 11:52-22:37)
+- [Cigdem Toker](https://www.youtube.com/watch?v=-W0OuoJsYC8) (⏱️ 00:00-00:24)
+- [Onlar TV](https://www.youtube.com/watch?v=dQsJz73tbNE&t=13s) (⏱️ 00:13-13:39)
 
 ---
 
-## 3. Çankaya Belediyesi soruşturması derinleşiyor
+## 3. Çankaya Belediyesi Soruşturmasında Tutuklama Tartışması
 
-- Çankaya Belediyesi’ne operasyon düzenlendi, Başkan Hüseyin Can Güner gözaltına alındı.
-- Soruşturma suç örgütü kurma ve ihale usulsüzlüğü iddialarını içeriyor.
-- İlk sorgular emniyette yapıldı, esas ifade savcılıkta alınacak.
-- Dosyada bazı iddiaların gizli tanık anlatımlarına dayandığı bildirildi.
-- Çöp toplama ihaleleri üzerinden anlaşmazlıklar ve şikâyetler büyüdü.
-- 21B usulüyle kısa süreli iş verildi, sonra açık ihale yapıldı.
-- İhaleler iptal edildi, Kamu İhale Kurumu ve Danıştay süreçleri yaşandı.
-- Dosya iller arasında gidip geldi, yetki tartışmalarıyla yeniden incelendi.
-- CHP yöneticileri destek ziyareti yaptı, davanın siyasi olduğunu savundu.
-- Baskınların yöntemi eleştirildi, aileler ve çocuklarda tedirginlik oluştu.
+- Çankaya Belediyesi’ne operasyon yapıldı, 24 kişi tutuklandı denildi.
+- Belediye Başkanı Hüseyin Can Güner sabaha karşı tutuklanıp uzaklaştırıldı.
+- Güner hakkında rüşvet, ihale usulsüzlüğü ve örgüt iddiaları bulunuyor.
+- Güner, 11 Temmuz’da yurtdışından dönüp teslim olduğunu söyledi.
+- Savcılık sorgusunda örgüt suçlaması sorulmadığı, sonradan şema denildi.
+- Soruşturma temizlik ve çöp ihalesiyle ilgili usulsüzlük iddialarına odaklandı.
+- Savunma ihalenin iptal edilip düşük fiyatla yenilendiğini vurguladı.
+- KİK, Danıştay ve müfettişler kamu zararı görmediği belirtildi.
+- Dosyada gizli tanık beyanı tartışıldı, somut delil eksikliği savunuldu.
+- Mansur Yavaş ve Kılıçdaroğlu tutuksuz yargılama çağrısı yaptı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=-A_GjzFvRWc&t=1457s) (⏱️ 24:17-41:36)
-- [Hilal Koylu](https://www.youtube.com/watch?v=hVjIHBgTnS8&t=34s) (⏱️ 00:34-02:47)
-- [Onlar TV](https://www.youtube.com/watch?v=RygeKBkaPQI&t=5721s) (⏱️ 95:21-103:24)
+- [Hilal Koylu](https://www.youtube.com/watch?v=jrLv18YZtpc&t=541s) (⏱️ 09:01-11:35)
+- [Cigdem Toker](https://www.youtube.com/watch?v=-W0OuoJsYC8&t=30s) (⏱️ 00:30-12:26)
+- [Unsal Unlu](https://www.youtube.com/watch?v=Togk2Dwhq2s&t=822s) (⏱️ 13:42-14:28)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=qofjyKqDrgA&t=962s) (⏱️ 16:02-18:30)
+- [Onlar TV](https://www.youtube.com/watch?v=dQsJz73tbNE&t=2130s) (⏱️ 35:30-42:31)
 
 ---
 
-## 4. Yazıcıoğlu Dosyasında Soruşturma Yeniden Alevlendi
+## 4. CHP’de Özel-Kılıçdaroğlu Gerilimi Derinleşiyor
 
-- Muhsin Yazıcıoğlu’nun 2009’daki helikopter kazası dosyası yeniden gündemde.
-- Kahramanmaraş–Yozgat hattında Bell 2206 L4 helikopteri Keşdağı’na düştü.
-- Yazıcıoğlu ile birlikte beş kişi hayatını kaybetti.
-- Gazeteci İsmail Güneş 112’yi aradı, sinyal alındı.
-- Arama kurtarma sürecindeki gecikme ve koordinasyon tartışmaları yeniden hatırlatıldı.
-- Uçuş verisi cihazlarının sökülmüş olabileceği iddiaları dosyada yer alıyor.
-- Yeni gözaltı ve tutuklamalarda çoğu asker isimler bulunuyor.
-- Soruşturmada FETÖ bağlantısı ve delil karartma iddiaları vurgulanıyor.
-- Yetkililer denetimlerin şikayet ve risk analizine dayandığını belirtti.
-- İçişleri Bakan Yardımcısı Turan, yargı ve MASAK incelemelerini işaret etti.
+- Özgür Özel, Ankara belediyelerine operasyon baskısı yapıldığını söyledi.
+- Özel, savcıların partiyle ilişkilendirilmemesi gerektiğini vurguladı.
+- Belediye başkanlarının yargılanması için Bakanlık izni gerektiğini belirtti.
+- Suçüstü rüşvet halinde savcılığın doğrudan müdahale edebileceğini aktardı.
+- CHP içinde Özel ile Kılıçdaroğlu arasında gerilim büyüyor.
+- Özel, iki hafta içinde yeni parti kurabileceğini dile getirdi.
+- Kılıçdaroğlu, partiyi bölenin Erdoğan’a hizmet edeceğini söyledi.
+- Özel, üyelerle genel başkanlık düellosu önerdi, yüzde 90 dedi.
+- Kurultay için mahkemeye başvuru ve çağrı heyeti gündemde.
+- Adliye atamalarının muhaliflere yönelik uygulamaları etkilediği iddia edildi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Serdar Akinan](https://www.youtube.com/watch?v=74LSusP3h7M) (⏱️ 00:00-19:05)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=RKd2V6rjCw8&t=595s) (⏱️ 09:55-16:15)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=qofjyKqDrgA&t=120s) (⏱️ 02:00-09:35)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=Ba5G_wEMZ4Q&t=302s) (⏱️ 05:02-06:35)
+- [Hilal Koylu](https://www.youtube.com/watch?v=BmGzy-jrei0&t=1591s) (⏱️ 26:31-38:37)
+
+---
+
+## 5. Cezaevi ziyaretleri ve ifade tartışmaları
+
+- Saadet Partisi lideri Mahmut Arı, Selahattin Demirtaş’ı cezaevinde ziyaret etti.
+- Arı, Demirtaş’ı ülke siyaseti için önemli aktör olarak tanımladı.
+- Görüşmede demokratik ve meşru siyaset içinde uzlaşma vurgulandı.
+- Ziyaret, bazı yorumcularca beklenmedik ve cesur hamle sayıldı.
+- Komedyen Deniz Göktaş, siyasi mizah nedeniyle cezaevinde bulunuyor.
+- Göktaş’ın Ölü Deniz videosu YouTube’da milyonlarca kez izlendi.
+- Video sonrası gözaltına alındı ve ardından tutuklama kararı verildi.
+- Ölü Deniz videosuna erişim engeli getirildiği bilgisi paylaşıldı.
+- Tartışmalar cumhurbaşkanına ve İslam’a hakaret iddiaları etrafında gelişti.
+- Meslektaşları Göktaş’ı ziyaret edip moralinin iyi olduğunu söyledi.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Onlar TV](https://www.youtube.com/watch?v=dQsJz73tbNE&t=2552s) (⏱️ 42:32-43:23)
+- [Rusen Cakir](https://www.youtube.com/watch?v=uioufqTaO1s&t=19s) (⏱️ 00:19-02:05)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=Ba5G_wEMZ4Q&t=397s) (⏱️ 06:37-07:13)
+
+---
+
+## 6. Mecliste Yeni Güvenlik ve Çocuk Paketi
+
+- TBMM gündeminde iki yeni yasa paketi öne çıkıyor.
+- Terörsüz Türkiye yasasının haftaya görüşülmesi bekleniyor mecliste.
+- AK Parti ile MHP arasında yasa içeriği için görüşmeler sürüyor.
+- Bu düzenleme meclis gündeminin önemli başlıklarından biri sayılıyor.
+- Suça sürüklenen çocuklara yönelik yeni düzenleme meclise sunuldu.
+- Paket çocuk haklarını güçlendirmeyi ve korunmayı artırmayı hedefliyor.
+- Yeni yasama paketi suça sürüklenen çocuk tanımını değiştirecek.
+- Yeni tanım olarak adli süreçteki çocuk ifadesi kullanılacak.
+- 15-18 yaş grubunda ağır suçlara ceza artırımı öngörülüyor.
+- Ayrıntılar, düzenleme yasalaştığında kapsamlı biçimde değerlendirilecek.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Hilal Koylu](https://www.youtube.com/watch?v=BmGzy-jrei0&t=2318s) (⏱️ 38:38-38:57)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=qofjyKqDrgA&t=1350s) (⏱️ 22:30-24:30)
+
+---
+
+## 7. NATO Zirvesi Gölgesinde Tutuklamalar ve Silah Krizi
+
+- NATO zirvesi öncesi ve sırasında kapsamlı güvenlik operasyonları yapıldı.
+- Operasyonlarda 170 kişi tutuklandı ve hâlâ cezaevinde.
+- Bazı tutuklular adli tatil nedeniyle 40 gün daha bekleyebilir.
+- Zirve sürecinde sokaklar, parklar kapatıldı; protestolar sınırlandı.
+- Akreditasyon uygulamaları sertleşti; gözaltı ve tutuklamalar arttı.
+- Yargılama ve tutuklama pratiklerinde son 10 yıl sorgulandı.
+- Uygulamaların hukuk devleti ve özgürlükler açısından sorun doğurduğu belirtildi.
+- Zirvede Trump'ın Türkiye'ye vaatleri ve F-35 konusu tartışıldı.
+- F-35 satışında Rusya etkisi konuşuldu; süreç henüz netleşmedi.
+- S-400 alımının güven ilişkilerini ve dış egemenliği zedelediği söylendi.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Rusen Cakir](https://www.youtube.com/watch?v=uioufqTaO1s&t=370s) (⏱️ 06:10-10:11)
+- [Unsal Unlu](https://www.youtube.com/watch?v=Togk2Dwhq2s&t=984s) (⏱️ 16:24-16:49)
+
+---
+
+## 8. Eğitimde İhraçlar ve Hak Mücadelesi
+
+- OHAL döneminde çok sayıda kamu görevlisi görevden uzaklaştırıldı.
+- Bu süreç akademisyenler için geniş çaplı ihraçlara dönüştü.
+- Birçok akademisyen, mağduriyetin sonuçlarını on yıldır yaşıyor.
+- Eğitim alanında güvencesizlik tartışması OHAL sonrasında da sürüyor.
+- Özel sektör öğretmenleri talepler için eylemlerini devam ettiriyor.
+- Öğretmenler, isteklerinin temel bir hak olduğunu vurguluyor.
+- Ücretli öğretmenler iş güvencesi eksikliğinden şikayet ediyor.
+- Kıdem hakkı kaybı ve belirsiz çalışma koşulları öne çıkıyor.
+- Sosyal hakların yetersizliği öğretmenlerin ortak talepleri arasında yer alıyor.
+- Her iki başlık, çalışma hakları ve mağduriyetlerin giderilmesine odaklanıyor.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Cigdem Toker](https://www.youtube.com/watch?v=atuOHt7b-RU&t=237s) (⏱️ 03:57-04:55)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=qofjyKqDrgA&t=1970s) (⏱️ 32:50-39:03)
+
+---
+
+## 9. Bölgede Enerji ve Hukuk Gerilimi
+
+- ABD’nin Hürmüz Boğazı’nda yeni kısıtlamalar uyguladığı iddia ediliyor.
+- İran gemilerine ambargo ve deniz trafiğini etkileyen önlemler konuşuluyor.
+- Bu adımların küresel etkiler doğurabileceği, enerji piyasasını etkileyebileceği belirtiliyor.
+- Haberde ABD’nin yaklaşımına eleştirel, emperyalizm vurgulu yorumlar yer alıyor.
+- Türkiye-Irak enerji anlaşması kaynaklı tahkim davası gündemde kalıyor.
+- Davada Türkiye’nin 1,47 milyar dolar tazminat ödeyebileceği iddia ediliyor.
+- Tahkim sürecinin sürdüğü, nihai sonucun henüz kesinleşmediği aktarılıyor.
+- Sonucun tenfiz sürecinde netleşeceği, mali yükün tartışılacağı söyleniyor.
+- Tahkimin uluslararası hakemlik olduğu, bağlayıcı karar verebildiği hatırlatılıyor.
+- Bölgedeki gerilim ve davalar, enerji güvenliği tartışmalarını artırıyor.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Onlar TV](https://www.youtube.com/watch?v=dQsJz73tbNE&t=2606s) (⏱️ 43:26-43:53)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=qofjyKqDrgA&t=1586s) (⏱️ 26:26-31:47)
 
 ---
 
