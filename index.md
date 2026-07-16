@@ -1,198 +1,193 @@
 # Bugün Ne Oldu?
 
-*15 July 2026 tarihli günlük haber raporu - 9 haber birleştirildi*
+*16 July 2026 tarihli günlük haber raporu - 9 haber birleştirildi*
 
-## 1. Ahbap Soruşturması Derinleşiyor
+## 1. Ahbap soruşturmasında tutuklamalar ve iddialar
 
-- Haluk Levent ve Ahbap Derneği hakkında kapsamlı soruşturma yürütülüyor.
-- Emniyet ifadesinin internete sızmasıyla tartışmalar daha da büyüdü.
-- MASAK ve vergi uzmanları para hareketleri ile kayıtları inceliyor.
-- Deprem bağışlarının amaç dışı kullanıldığı ve transfer edildiği iddia ediliyor.
-- Kara para aklama, tefecilik ve organize suç şüpheleri dosyada yer alıyor.
-- Levent'in banka hesabı kullanmadığı, asistan hesaplarını kullandığı öne sürüldü.
-- Yeliz Kaya'ya 80 milyon TL aktarımı ve tapu devirleri gündemde.
-- Hüseyin Başaran bağlantısıyla 2,5 milyar TL gayrimenkul devri iddia ediliyor.
-- İfadede Süleyman Soylu adı geçince tutanağın kesildiği ileri sürüldü.
-- Soruşturma gözaltılarla genişlerken, kamuoyu şeffaf denetim istiyor.
+- Ahbap Derneği ve Haluk Levent hakkında kapsamlı soruşturma yürütülüyor.
+- Haluk Levent ve Ece Güner dahil 14 kişi tutuklandı.
+- Suçlamalar dolandırıcılık, örgüt kurma, görevi kötüye kullanma, aklama.
+- Savcılık MASAK ve Dernekler Masası raporlarıyla para trafiğini inceliyor.
+- 2023 depreminde 4,3 milyar TL bağış toplandığı belirtildi.
+- Levent, bağışlara dokunmadığını ve harcamaların belgelendiğini savundu.
+- İfadelerde çek-senet teminatı, yüksek borçlanma, borsa zararları anlatıldı.
+- Asistan Yeliz Kaya adına hesaplar ve imza iddiaları dosyada.
+- Şüpheli transferler, hızlı taşınmaz devirleri ve değer şişirme iddiaları var.
+- Dosyada Hüseyin Başaran ve Esin Önder Çağlayan bağlantıları araştırılıyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Cigdem Toker](https://www.youtube.com/watch?v=atuOHt7b-RU&t=113s) (⏱️ 01:53-03:54)
-- [Rusen Cakir](https://www.youtube.com/watch?v=uioufqTaO1s&t=1141s) (⏱️ 19:01-19:44)
-- [Serdar Akinan](https://www.youtube.com/watch?v=4pTIZk4vlSo) (⏱️ 00:00-05:54)
-- [Hilal Koylu](https://www.youtube.com/watch?v=BmGzy-jrei0&t=68s) (⏱️ 01:08-26:30)
-- [Onlar TV](https://www.youtube.com/watch?v=dQsJz73tbNE&t=820s) (⏱️ 13:40-35:29)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=qofjyKqDrgA&t=1145s) (⏱️ 19:05-22:30)
-- [Unsal Unlu](https://www.youtube.com/watch?v=Togk2Dwhq2s&t=268s) (⏱️ 04:28-07:41)
+- [Onlar TV](https://www.youtube.com/watch?v=8D5v1Kek7_o&t=476s) (⏱️ 07:56-38:14)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=t2nkBNXIdwQ&t=45s) (⏱️ 00:45-31:28)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=qQFBo4W0nEQ&t=32s) (⏱️ 00:32-45:43)
+- [Serdar Akinan](https://www.youtube.com/watch?v=3iGNI8N9i2U&t=332s) (⏱️ 05:32-10:10)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=FohAvpdgSWs&t=10s) (⏱️ 00:10-23:06)
+- [Inan Demirel](https://www.youtube.com/watch?v=NrIBylVaTQ0&t=704s) (⏱️ 11:44-35:22)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=t1tr-GvC6JU&t=20s) (⏱️ 00:20-13:00)
+- [Hilal Koylu](https://www.youtube.com/watch?v=1nze_D41KTc&t=73s) (⏱️ 01:13-29:32)
 
 ---
 
-## 2. 15 Temmuz'un 10. Yılında Sorular
+## 2. Özgür Özel’in Yeni Parti Hamlesi
 
-- 15 Temmuz 2026'da darbe girişiminin 10. yılı anıldı.
-- Darbe gecesi 251-300 kişi öldü, binlerce kişi yaralandı.
-- Girişimin FETÖ'nün devlet ve ordu yapılanmasıyla gerçekleştiği vurgulandı.
-- Darbeyi durdurmada halkın sokağa çıkmasının belirleyici olduğu hatırlatıldı.
-- 20 Temmuz 2016'da OHAL ilan edildi, 2018'e kadar sürdü.
-- 2017 referandumu için mühürsüz oylar nedeniyle şaibe iddiaları yinelendi.
-- Meclis darbe komisyonu raporunun yayımlanmaması ve kaybolması eleştirildi.
-- Bazı komutanlar, Akıncı Üssü ve Adil Öksüz soru işaretleri doğurdu.
-- Yargıda AYM kararlarına uyulmaması ve hak ihlalleri anlatıldı.
-- Darbe sonrası ekonomik zorluklar, kurum erozyonu, toplumsal güven kaybı vurgulandı.
+- Çankaya Belediye Başkanı Hüseyin Can Güner tutuklandı, soruşturma sürüyor.
+- İddialar ihaleye fesat, rüşvet ve örgüt üyeliğini kapsıyor.
+- Özgür Özel, Sincan Cezaevi’nde tutuklu başkanı ziyaret etti.
+- Özel, belediye başkanlarını yalnız bırakmayacağını kamuoyuna açıkladı.
+- CHP’li bazı başkanların tutuklanması ve kayyum tartışmaları büyüyor.
+- Kayyum, seçilmiş yöneticinin yerine atanan resmi yönetici anlamına geliyor.
+- Özel ve ekibi CHP’den ihraç edilenlerle yeni parti hazırlıyor.
+- Yeni parti için tüzük, program, logo ve dilekçe çalışılıyor.
+- Partinin adı ve duyurusu Temmuz sonu, Ağustos başı bekleniyor.
+- Kurucular kurulu ve bazı milletvekillerinin katılımı kulislerde tartışılıyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=Togk2Dwhq2s&t=88s) (⏱️ 01:28-02:39)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=qofjyKqDrgA&t=10s) (⏱️ 00:10-02:00)
-- [Rusen Cakir](https://www.youtube.com/watch?v=uioufqTaO1s&t=1363s) (⏱️ 22:43-27:29)
-- [Serdar Akinan](https://www.youtube.com/watch?v=4pTIZk4vlSo&t=712s) (⏱️ 11:52-22:37)
-- [Cigdem Toker](https://www.youtube.com/watch?v=-W0OuoJsYC8) (⏱️ 00:00-00:24)
-- [Onlar TV](https://www.youtube.com/watch?v=dQsJz73tbNE&t=13s) (⏱️ 00:13-13:39)
+- [Hilal Koylu](https://www.youtube.com/watch?v=1nze_D41KTc&t=1773s) (⏱️ 29:33-34:25)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=qQFBo4W0nEQ&t=2745s) (⏱️ 45:45-52:45)
+- [Onlar TV](https://www.youtube.com/watch?v=8D5v1Kek7_o&t=2295s) (⏱️ 38:15-40:16)
+- [Inan Demirel](https://www.youtube.com/watch?v=NrIBylVaTQ0&t=3030s) (⏱️ 50:30-55:40)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=t2nkBNXIdwQ&t=1888s) (⏱️ 31:28-58:40)
 
 ---
 
-## 3. Çankaya Belediyesi Soruşturmasında Tutuklama Tartışması
+## 3. 15 Temmuz Tartışmaları Yeniden Alevlendi
 
-- Çankaya Belediyesi’ne operasyon yapıldı, 24 kişi tutuklandı denildi.
-- Belediye Başkanı Hüseyin Can Güner sabaha karşı tutuklanıp uzaklaştırıldı.
-- Güner hakkında rüşvet, ihale usulsüzlüğü ve örgüt iddiaları bulunuyor.
-- Güner, 11 Temmuz’da yurtdışından dönüp teslim olduğunu söyledi.
-- Savcılık sorgusunda örgüt suçlaması sorulmadığı, sonradan şema denildi.
-- Soruşturma temizlik ve çöp ihalesiyle ilgili usulsüzlük iddialarına odaklandı.
-- Savunma ihalenin iptal edilip düşük fiyatla yenilendiğini vurguladı.
-- KİK, Danıştay ve müfettişler kamu zararı görmediği belirtildi.
-- Dosyada gizli tanık beyanı tartışıldı, somut delil eksikliği savunuldu.
-- Mansur Yavaş ve Kılıçdaroğlu tutuksuz yargılama çağrısı yaptı.
+- 15 Temmuz darbe girişiminin 10. yılı yeniden gündemde.
+- Anma törenlerine katılımın genel olarak düşük kaldığı gözlemlendi.
+- Yorumcular 15 Temmuz’un siyasi malzeme yapıldığını savunuyor.
+- Bekir Bozdağ’ın etkinlik konuşması ve 17-25 Aralık iddiaları tartışıldı.
+- Bozdağ’ın geçmişte Gülen’i övdüğü görüntüler yeniden paylaşıldı.
+- Siyasi sorumluluk ve “siyasi ayak” konularında eksik soruşturma eleştirildi.
+- Tuncay Özkan’ın FETÖ belgeleri ve anlatıları içeren videosu gündeme geldi.
+- Sunucu, Özkan’ın iddialarına şüpheyle yaklaşıp itibar aradığını söyledi.
+- TRT1’de yayımlanan 15 Temmuz dizisi, kilit isimleri canlandırıyor.
+- Dizide olayların zamanlaması ve belirsizlikler yarı belgesel işlendi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilal Koylu](https://www.youtube.com/watch?v=jrLv18YZtpc&t=541s) (⏱️ 09:01-11:35)
-- [Cigdem Toker](https://www.youtube.com/watch?v=-W0OuoJsYC8&t=30s) (⏱️ 00:30-12:26)
-- [Unsal Unlu](https://www.youtube.com/watch?v=Togk2Dwhq2s&t=822s) (⏱️ 13:42-14:28)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=qofjyKqDrgA&t=962s) (⏱️ 16:02-18:30)
-- [Onlar TV](https://www.youtube.com/watch?v=dQsJz73tbNE&t=2130s) (⏱️ 35:30-42:31)
+- [Onlar TV](https://www.youtube.com/watch?v=8D5v1Kek7_o&t=12s) (⏱️ 00:12-07:55)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=qQFBo4W0nEQ&t=3525s) (⏱️ 58:45-61:47)
+- [Inan Demirel](https://www.youtube.com/watch?v=NrIBylVaTQ0&t=397s) (⏱️ 06:37-11:44)
 
 ---
 
-## 4. CHP’de Özel-Kılıçdaroğlu Gerilimi Derinleşiyor
+## 4. Deprem Yardımları ve Denetim Krizi
 
-- Özgür Özel, Ankara belediyelerine operasyon baskısı yapıldığını söyledi.
-- Özel, savcıların partiyle ilişkilendirilmemesi gerektiğini vurguladı.
-- Belediye başkanlarının yargılanması için Bakanlık izni gerektiğini belirtti.
-- Suçüstü rüşvet halinde savcılığın doğrudan müdahale edebileceğini aktardı.
-- CHP içinde Özel ile Kılıçdaroğlu arasında gerilim büyüyor.
-- Özel, iki hafta içinde yeni parti kurabileceğini dile getirdi.
-- Kılıçdaroğlu, partiyi bölenin Erdoğan’a hizmet edeceğini söyledi.
-- Özel, üyelerle genel başkanlık düellosu önerdi, yüzde 90 dedi.
-- Kurultay için mahkemeye başvuru ve çağrı heyeti gündemde.
-- Adliye atamalarının muhaliflere yönelik uygulamaları etkilediği iddia edildi.
+- Türkiye’de tekrarlayan büyük dolandırıcılık vakaları toplumsal travma yaratıyor.
+- Deprem dönemindeki kurum başarısızlıkları kamu vicdanında derin iz bıraktı.
+- Çadır satışı örneği, kriz yönetiminde güven kaybını büyüttü.
+- Kamu hizmetleri devlet tarafından güvenilir ve denetlenebilir yürütülmeli denildi.
+- Hizmet alımları ve faturada şişirme gibi usulsüzlüklerin kolaylaştığı belirtildi.
+- STK’ların devlet işlerinden farklı işlevleri olduğu vurgulandı tartışmalarda.
+- STK’lar ve devlet ayrı ayrı denetlenmeli, hesap verebilir olmalı.
+- Deprem sonrası hayal kırıklıkları, STK’lara yönelik eleştirileri artırdı.
+- Ahbap yardımları, depremde Kızılay’a kıyasla daha çok tercih edildi.
+- Sonrasında Ahbap’a güven kaybı ve pişmanlık örnekleri konuşuldu.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=qofjyKqDrgA&t=120s) (⏱️ 02:00-09:35)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=Ba5G_wEMZ4Q&t=302s) (⏱️ 05:02-06:35)
-- [Hilal Koylu](https://www.youtube.com/watch?v=BmGzy-jrei0&t=1591s) (⏱️ 26:31-38:37)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=FohAvpdgSWs&t=1606s) (⏱️ 26:46-31:00)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=t1tr-GvC6JU&t=780s) (⏱️ 13:00-15:20)
+- [Inan Demirel](https://www.youtube.com/watch?v=NrIBylVaTQ0&t=2122s) (⏱️ 35:22-50:30)
 
 ---
 
-## 5. Cezaevi ziyaretleri ve ifade tartışmaları
+## 5. Sosyal medya paylaşımlarıyla gözaltılar
 
-- Saadet Partisi lideri Mahmut Arı, Selahattin Demirtaş’ı cezaevinde ziyaret etti.
-- Arı, Demirtaş’ı ülke siyaseti için önemli aktör olarak tanımladı.
-- Görüşmede demokratik ve meşru siyaset içinde uzlaşma vurgulandı.
-- Ziyaret, bazı yorumcularca beklenmedik ve cesur hamle sayıldı.
-- Komedyen Deniz Göktaş, siyasi mizah nedeniyle cezaevinde bulunuyor.
-- Göktaş’ın Ölü Deniz videosu YouTube’da milyonlarca kez izlendi.
-- Video sonrası gözaltına alındı ve ardından tutuklama kararı verildi.
-- Ölü Deniz videosuna erişim engeli getirildiği bilgisi paylaşıldı.
-- Tartışmalar cumhurbaşkanına ve İslam’a hakaret iddiaları etrafında gelişti.
-- Meslektaşları Göktaş’ı ziyaret edip moralinin iyi olduğunu söyledi.
+- Sabah saatlerinde operasyonlarla tanınmış isimlere yönelik gözaltılar yapıldı.
+- Tiyatro sanatçısı Levent Üzümcü gözaltına alındığını sosyal medyadan duyurdu.
+- Üzümcü, eleştirel bir tweetinin gerekçe gösterildiğini söyledi.
+- Gözaltı gerekçesi olarak Cumhuriyet Başsavcılığı soruşturması işaret edildi.
+- Resmi açıklamada Üzümcü’nün hangi suçlamayla alındığı belirtilmedi.
+- Yetkililerin iddiası, gözaltının sosyal medya paylaşımına bağlı olması.
+- AKUT’un kurucusu Nasuh Mahruki hakkında da gözaltı kararı verildi.
+- Kararın, 15 Temmuz’a ilişkin sosyal medya paylaşımı nedeniyle alındığı aktarıldı.
+- Mahruki paylaşımında 15 Temmuz’un kontrollü ve engellenebilir olduğunu savundu.
+- Gözaltılar, ifade özgürlüğü ve paylaşımların hukuki takibini gündeme taşıdı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Onlar TV](https://www.youtube.com/watch?v=dQsJz73tbNE&t=2552s) (⏱️ 42:32-43:23)
-- [Rusen Cakir](https://www.youtube.com/watch?v=uioufqTaO1s&t=19s) (⏱️ 00:19-02:05)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=Ba5G_wEMZ4Q&t=397s) (⏱️ 06:37-07:13)
+- [Inan Demirel](https://www.youtube.com/watch?v=NrIBylVaTQ0&t=297s) (⏱️ 04:57-05:39)
+- [Hilal Koylu](https://www.youtube.com/watch?v=N9KmEC32Lpo&t=404s) (⏱️ 06:44-08:18)
 
 ---
 
-## 6. Mecliste Yeni Güvenlik ve Çocuk Paketi
+## 6. Bölgesel dengeler ve ABD tartışmaları
 
-- TBMM gündeminde iki yeni yasa paketi öne çıkıyor.
-- Terörsüz Türkiye yasasının haftaya görüşülmesi bekleniyor mecliste.
-- AK Parti ile MHP arasında yasa içeriği için görüşmeler sürüyor.
-- Bu düzenleme meclis gündeminin önemli başlıklarından biri sayılıyor.
-- Suça sürüklenen çocuklara yönelik yeni düzenleme meclise sunuldu.
-- Paket çocuk haklarını güçlendirmeyi ve korunmayı artırmayı hedefliyor.
-- Yeni yasama paketi suça sürüklenen çocuk tanımını değiştirecek.
-- Yeni tanım olarak adli süreçteki çocuk ifadesi kullanılacak.
-- 15-18 yaş grubunda ağır suçlara ceza artırımı öngörülüyor.
-- Ayrıntılar, düzenleme yasalaştığında kapsamlı biçimde değerlendirilecek.
+- ABD senatörleri Türkiye’nin S-400 politikasına dair yeni yorumlar yaptı.
+- Senatör Mike Turner röportajında olası çözüm senaryoları gündeme geldi.
+- Seçenekler arasında S-400’lerin başka ülkeye devri ihtimali konuşuluyor.
+- Bir diğer seçenek, NATO içinde sistemi kullanmadan tutmak olarak anlatıldı.
+- S-400 Rus hava savunma sistemi, F-35 ise ABD savaş uçağıdır.
+- Dışişleri Bakanı Hakan Fidan’ın Kiev ziyareti de kısaca anıldı.
+- Ukrayna’da Zelenskiy, sivil kökenli savunma bakanını görevden aldı.
+- Karar tartışma yarattı, bazı kesimlerde protestoların yükseldiği aktarıldı.
+- Ukrayna ordusunda modernizasyon, İHA ve yapay zeka vurgusu öne çıktı.
+- Azerbaycan lideri Aliyev, Rusya’ya dair sert esprilerle gündeme geldi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilal Koylu](https://www.youtube.com/watch?v=BmGzy-jrei0&t=2318s) (⏱️ 38:38-38:57)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=qofjyKqDrgA&t=1350s) (⏱️ 22:30-24:30)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=qQFBo4W0nEQ&t=3165s) (⏱️ 52:45-54:46)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=t1tr-GvC6JU&t=2880s) (⏱️ 48:00-50:00)
 
 ---
 
-## 7. NATO Zirvesi Gölgesinde Tutuklamalar ve Silah Krizi
+## 7. Özgür Özel’in Yeni Parti İddiası
 
-- NATO zirvesi öncesi ve sırasında kapsamlı güvenlik operasyonları yapıldı.
-- Operasyonlarda 170 kişi tutuklandı ve hâlâ cezaevinde.
-- Bazı tutuklular adli tatil nedeniyle 40 gün daha bekleyebilir.
-- Zirve sürecinde sokaklar, parklar kapatıldı; protestolar sınırlandı.
-- Akreditasyon uygulamaları sertleşti; gözaltı ve tutuklamalar arttı.
-- Yargılama ve tutuklama pratiklerinde son 10 yıl sorgulandı.
-- Uygulamaların hukuk devleti ve özgürlükler açısından sorun doğurduğu belirtildi.
-- Zirvede Trump'ın Türkiye'ye vaatleri ve F-35 konusu tartışıldı.
-- F-35 satışında Rusya etkisi konuşuldu; süreç henüz netleşmedi.
-- S-400 alımının güven ilişkilerini ve dış egemenliği zedelediği söylendi.
+- Kulislerde Özgür Özel’in yeni parti kuracağı iddiaları konuşuluyor.
+- Yayında yeni parti adı ve logo için önizleme paylaşıldı.
+- İzleyicilere ilerleyen bölümde daha fazla detay verileceği belirtildi.
+- Parti kurma girişimlerinin geçmişte de yaşandığı hatırlatıldı.
+- Örnek olarak ANAP ayrılıkları ve Baykal dönemi ayrışmaları anıldı.
+- Yeni partinin logosunda kırmızı-beyaz renklerin olacağı söylendi.
+- Logonun tasarımı ve ismi hakkında net bilgi paylaşılmadı.
+- Parti yönetiminde yer alacak isimler üzerine tartışmalar sürüyor.
+- Yıpranmış isimlerin yönetimde olmaması gerektiği görüşü aktarıldı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=uioufqTaO1s&t=370s) (⏱️ 06:10-10:11)
-- [Unsal Unlu](https://www.youtube.com/watch?v=Togk2Dwhq2s&t=984s) (⏱️ 16:24-16:49)
+- [Inan Demirel](https://www.youtube.com/watch?v=NrIBylVaTQ0) (⏱️ 00:00-01:30)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=t1tr-GvC6JU&t=1320s) (⏱️ 22:00-23:30)
 
 ---
 
-## 8. Eğitimde İhraçlar ve Hak Mücadelesi
+## 8. Tutukluluk ve protestolar tartışma yarattı
 
-- OHAL döneminde çok sayıda kamu görevlisi görevden uzaklaştırıldı.
-- Bu süreç akademisyenler için geniş çaplı ihraçlara dönüştü.
-- Birçok akademisyen, mağduriyetin sonuçlarını on yıldır yaşıyor.
-- Eğitim alanında güvencesizlik tartışması OHAL sonrasında da sürüyor.
-- Özel sektör öğretmenleri talepler için eylemlerini devam ettiriyor.
-- Öğretmenler, isteklerinin temel bir hak olduğunu vurguluyor.
-- Ücretli öğretmenler iş güvencesi eksikliğinden şikayet ediyor.
-- Kıdem hakkı kaybı ve belirsiz çalışma koşulları öne çıkıyor.
-- Sosyal hakların yetersizliği öğretmenlerin ortak talepleri arasında yer alıyor.
-- Her iki başlık, çalışma hakları ve mağduriyetlerin giderilmesine odaklanıyor.
+- Komedyen Deniz Göktaş’ın tutukluluğu kamuoyunda tartışma yarattı.
+- Göktaş hakkında dini değerleri aşağılama iddiası bulunduğu belirtildi.
+- Komedyen Ali Congun, Göktaş’ı ziyaret ettiğini ve iyi olduğunu söyledi.
+- Seyirciden rahatsızlık veya resmi şikayet olmadığı özellikle vurgulandı.
+- Bazı izleyiciler ve sosyal medya kullanıcıları Göktaş’ın serbest bırakılmasını istedi.
+- Öğretmenler özlük hakları ve çalışma koşulları için protesto düzenledi.
+- Polis müdahalesi sonrası eylemde gözaltılar gerçekleştiği bildirildi.
+- Görüntülerde öğretmenlere sert muamele yapıldığı iddiaları sosyal medyada yayıldı.
+- Eylemciler taleplerinin dinlenmesini ve iyileştirme yapılmasını talep ediyor.
+- İki olay da ifade ve protesto hakkı tartışmalarını büyüttü.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Cigdem Toker](https://www.youtube.com/watch?v=atuOHt7b-RU&t=237s) (⏱️ 03:57-04:55)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=qofjyKqDrgA&t=1970s) (⏱️ 32:50-39:03)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=FohAvpdgSWs&t=1929s) (⏱️ 32:09-33:12)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=t1tr-GvC6JU&t=3000s) (⏱️ 50:00-52:46)
 
 ---
 
-## 9. Bölgede Enerji ve Hukuk Gerilimi
+## 9. Bebek Otel Operasyonunda Ev Hapsi
 
-- ABD’nin Hürmüz Boğazı’nda yeni kısıtlamalar uyguladığı iddia ediliyor.
-- İran gemilerine ambargo ve deniz trafiğini etkileyen önlemler konuşuluyor.
-- Bu adımların küresel etkiler doğurabileceği, enerji piyasasını etkileyebileceği belirtiliyor.
-- Haberde ABD’nin yaklaşımına eleştirel, emperyalizm vurgulu yorumlar yer alıyor.
-- Türkiye-Irak enerji anlaşması kaynaklı tahkim davası gündemde kalıyor.
-- Davada Türkiye’nin 1,47 milyar dolar tazminat ödeyebileceği iddia ediliyor.
-- Tahkim sürecinin sürdüğü, nihai sonucun henüz kesinleşmediği aktarılıyor.
-- Sonucun tenfiz sürecinde netleşeceği, mali yükün tartışılacağı söyleniyor.
-- Tahkimin uluslararası hakemlik olduğu, bağlayıcı karar verebildiği hatırlatılıyor.
-- Bölgedeki gerilim ve davalar, enerji güvenliği tartışmalarını artırıyor.
+- Bebek Otel operasyonu sonrası otel sahibi Muzaffer Yıldırım gözaltına alındı.
+- Yıldırım daha sonra serbest bırakıldı ve adli kontrol uygulandı.
+- Yeni kararla Yıldırım tahliye edildi, ev hapsine gönderildi.
+- Yıldırımın uzun süre tutuklu kaldığı bilgisi paylaşıldı, süreç tartışıldı.
+- Operasyonda gizli kamera kayıtları ele geçirildiği iddia ediliyor.
+- Bu kayıtların şantaj amacıyla saklandığı yönünde iddialar gündemde.
+- Kayıtların nerede olduğu konusunda kamuoyunda önemli soru işaretleri var.
+- İddianamenin hazırlanma durumu ve dosyanın seyri belirsiz görünüyor.
+- Operasyonun uyuşturucu ve gizli parti iddialarıyla bağlantısı vurgulandı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Onlar TV](https://www.youtube.com/watch?v=dQsJz73tbNE&t=2606s) (⏱️ 43:26-43:53)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=qofjyKqDrgA&t=1586s) (⏱️ 26:26-31:47)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=FohAvpdgSWs&t=1995s) (⏱️ 33:15-33:27)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=qQFBo4W0nEQ&t=3295s) (⏱️ 54:55-57:21)
 
 ---
 
