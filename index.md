@@ -1,164 +1,173 @@
 # Bugün Ne Oldu?
 
-*19 July 2026 tarihli günlük haber raporu - 8 haber birleştirildi*
+*20 July 2026 tarihli günlük haber raporu - 8 haber birleştirildi*
 
-## 1. Ahbap soruşturmasında gözaltılar ve iddialar
+## 1. CHP’de Yargıtay bekleyişi ve kopuş
 
-- Ahbap Derneği ve Haluk Levent hakkında mali soruşturma sürüyor.
-- Soruşturma kapsamında gözaltılar, ifadeler ve tutuklamalar gündeme geldi.
-- MASAK raporlarının geç geldiği ve denetimlerin eksik kaldığı savunuldu.
-- Şubat 2025 raporlarında bildirilmeyen bağışlar ve idari cezalar anıldı.
-- Yüksek miktarda para transferleri ve gayrimenkul iddiaları kamuoyuna yansıdı.
-- Yardımların amaç dışı, bahis gibi alanlara yönlendirildiği öne sürüldü.
-- İBB Başkanı İmamoğlu'nun danışmanı Ece Güner'in kardeşi gözaltına alındı.
-- Oğuzhan Uğur'un gözaltına alındığı, adliyeye sevk edileceği bildirildi.
-- Babası, gözaltı görüntülerinin iktidar medyasına servis edildiğini söyledi.
-- Gazeteciler, yayın dili baskısı ve tutuklamaların normalleşmesi uyarısı yaptı.
+- CHP’de Özgür Özel ile Kılıçdaroğlu kanadı geriliyor.
+- Kritik dosya Yargıtay 3. Hukuk Dairesi’nde bekliyor.
+- Dava mutlak butlanın iptali, yani kararların geçersizliğiyle ilgili.
+- Adli tatil nedeniyle karar, acil dilekçeyle çıkabilir veya ertelenebilir.
+- Kılıçdaroğlu ekibi, Yargıtay’dan tasfiye yönünde karar bekliyor.
+- Karar çıkarsa yöneticilere kongre yasağı ve soruşturmalar gündeme gelebilir.
+- Özgür Özel ekibi yeni parti hazırlığında, adı Yeni Parti.
+- Kuruluş dilekçesinin 27 Temmuz’da İçişleri’ne verileceği söyleniyor.
+- İlk aşamada yaklaşık 70 milletvekilinin ayrılabileceği iddia ediliyor.
+- Anketler, varsayımsal partinin seçmende yüksek potansiyel taşıdığını gösteriyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=HPuG-UAywzk&t=359s) (⏱️ 05:59-11:15)
-- [Inan Demirel](https://www.youtube.com/watch?v=feMTE5BOwQs&t=1070s) (⏱️ 17:50-22:39)
-- [Hilal Koylu](https://www.youtube.com/watch?v=ipTJ2XPktmw&t=1924s) (⏱️ 32:04-33:06)
+- [Inan Demirel](https://www.youtube.com/watch?v=krEpKp2j6z0&t=975s) (⏱️ 16:15-23:09)
+- [Rusen Cakir](https://www.youtube.com/watch?v=fqSrR1KtHK8&t=1710s) (⏱️ 28:30-37:04)
+- [Murat Yetkin](https://www.youtube.com/watch?v=H4gvALpxSYg&t=3s) (⏱️ 00:03-01:06)
+- [Onlar TV](https://www.youtube.com/watch?v=LrRzsz5gkJU&t=2110s) (⏱️ 35:10-44:54)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=U7t2kSkG7Dg&t=30s) (⏱️ 00:30-03:00)
+- [Cigdem Toker](https://www.youtube.com/watch?v=ZARm0das0eg&t=543s) (⏱️ 09:03-11:27)
 
 ---
 
-## 2. CHP Krizi Yeni Parti Tartışması
+## 2. CHP’li belediyelere operasyonlar sürüyor
 
-- CHP’de genel başkanlık tartışması, mahkeme kararı sonrası büyüdü.
-- Mahkeme kararıyla Kemal Kılıçdaroğlu genel başkanlığa geri döndü.
-- Özgür Özel daha önce seçilmiş genel başkan olarak görev yapıyordu.
-- Bu gelişme toplumda ve siyasette yüksek beklenti yarattı.
-- Özgür Özel’in yeni parti kurup kurmayacağı yeniden tartışılıyor.
-- Yeni parti kurma sürecinde yargı ve idari işlemler tamamlandı.
-- Yargıtay süreci ve adli tatil tartışmaları kulislerde konuşuluyor.
-- Türk Patent’e Yeni Parti isimleriyle tescil başvuruları yapıldı.
-- Başvuruların Özel ekibiyle bağlantısı henüz netleşmedi.
-- Özel’in önümüzdeki hafta parti meclisini toplaması bekleniyor.
+- 20 Temmuz 2026 sabahı İzmit’te belediyeye şafak operasyonu düzenlendi.
+- İzmit Belediye Başkanı Fatma Kaplan Hürriyet ve eşi gözaltına alındı.
+- Operasyonda toplam gözaltı sayısı kaynaklara göre 28-32 arasında değişti.
+- Soruşturmada rüşvet ve ihaleye fesat karıştırma suçlamaları yer aldı.
+- Suç örgütü kurma iddiası da dosyada geçen suçlamalar arasında.
+- CHP’den Gökhan Ercan’ın da gözaltındakiler arasında olduğu bildirildi.
+- İş insanı Turgut Koç’un etkin pişmanlık ifadeleri belirleyici gösteriliyor.
+- Koç, delegelere para dağıtıldığını ve mesaj delilleri sunduğunu iddia etti.
+- CHP’li belediyelere dönük operasyonların usulü ve tarafsızlığı tartışılıyor.
+- Bursa’da Başkan Mustafa Bozbey hakim karşısına çıktı, adliyede gerginlik yaşandı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Inan Demirel](https://www.youtube.com/watch?v=feMTE5BOwQs&t=1420s) (⏱️ 23:40-28:40)
-- [Hilal Koylu](https://www.youtube.com/watch?v=rVtu3ss1mms&t=3s) (⏱️ 00:03-00:37)
+- [Murat Yetkin](https://www.youtube.com/watch?v=H4gvALpxSYg&t=195s) (⏱️ 03:15-03:27)
+- [Inan Demirel](https://www.youtube.com/watch?v=krEpKp2j6z0&t=279s) (⏱️ 04:39-07:13)
+- [Cigdem Toker](https://www.youtube.com/watch?v=ZARm0das0eg&t=7s) (⏱️ 00:07-09:02)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=U7t2kSkG7Dg&t=1080s) (⏱️ 18:00-28:00)
 
 ---
 
-## 3. Duran Kalkan röportajı çözüm tartışması
+## 3. Ahbap Bağışlarında Usulsüzlük Soruşturması
 
-- Medyascope’ta Ruşen Çakır, Duran Kalkan’la Kandil’de röportaj yaptı.
-- Röportaj fikri, Kalkan’la sivil kıyafetle görüşme ihtimalinden doğdu.
-- Örgüt içinde sivil kıyafetle resmi röportaja sıcak bakılmadı.
-- Kandil’de kamera izni verilmedi, görüntüler örgütçe çekildi.
-- Röportaj yaklaşık 60-70 dakika sürdü, hafıza kartları teslim edildi.
-- Kalkan, çözüm sürecinin süreceğini ve sonuca varacağını söyledi.
-- Süreçte güven artırıcı adımlar ve tabanlara mesajlar gerektiği vurgulandı.
-- Devlet Bahçeli’nin tutumunun güvensizliği azalttığı değerlendirmesi paylaşıldı.
-- DEM Parti, çözüm için yasal çerçeve tasarısının Meclis’ten geçmesini bekliyor.
-- İmralı görüşmeleri ve Öcalan’ın taslağı görmesi kritik görülüyor.
+- Haluk Levent ve Ahbap hakkında bağış usulsüzlüğü iddiaları gündemde.
+- Soruşturma bağışların depremzedelere ulaşıp ulaşmadığını araştırıyor.
+- MASAK raporunun kamuoyuna açıklanmaması şeffaflık tartışmalarını büyütüyor.
+- Dernekten büyük para çıkışları ve şüpheli hesap hareketleri konuşuluyor.
+- 80 milyon TL ve 60 milyon dolar gibi rakamlar tartışılıyor.
+- Çek ve senetlerin teminat olarak kullanıldığı iddiası soruşturmada yer alıyor.
+- Banka uyumu, muhasebe eksikleri ve şişirilmiş fatura iddiaları soruluyor.
+- Sevda Kurt gözaltına alındı, adli kontrolle serbest bırakıldı.
+- Kurt, 90 milyon verip 210 milyon geri ödeme protokolü imzaladığını söyledi.
+- Haluk Levent yolsuzluğu reddediyor, bazı borçları iade ettiğini savunuyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=Mr6XfrPmbcg&t=5s) (⏱️ 00:05-12:54)
-- [Inan Demirel](https://www.youtube.com/watch?v=feMTE5BOwQs&t=2152s) (⏱️ 35:52-44:42)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=2oiIK2mOyAU) (⏱️ 00:00-17:28)
+- [Onlar TV](https://www.youtube.com/watch?v=LrRzsz5gkJU&t=450s) (⏱️ 07:30-23:30)
+- [Hilal Koylu](https://www.youtube.com/watch?v=XEfgIrnuYOA) (⏱️ 00:00-01:11)
+- [Inan Demirel](https://www.youtube.com/watch?v=krEpKp2j6z0&t=2323s) (⏱️ 38:43-41:05)
 
 ---
 
-## 4. Faiz Yükü ve Tahkim Bütçesi
+## 4. Oğuzhan Uğur’un Para Trafiği İncelemesi
 
-- Hukuki operasyonlar ve davalar, ekonomi algısını ve riskleri artırıyor.
-- Yabancı yatırımcılar süreçleri izliyor, güven azalınca para kaçıyor.
-- Kısa vadeli sıcak para pahalı, faiz yükü hızla büyüyor.
-- 2023 döneminde faiz ödemeleri 278-280 milyar dolara yaklaştı.
-- Altı ayda ödenen faiz 1 trilyon 464 milyar TL oldu.
-- Bu kaynak sosyal konut, eğitim, maaş artışları gibi alanlara kayabilirdi.
-- Enerji Bakanı Bayraktar, tahkim kararının kesin ceza olmadığını söyledi.
-- ABD’de aynı hatla ilgili ikinci tahkim sürüyor, mahsuplaşma ihtimali var.
-- Tazminat 1,471 milyar dolar, bütçeye etkisi 68-69 milyar TL.
-- Arz yönlü reform çağrısı var, geçici çözümler eleştiriliyor.
+- Ahbap soruşturmasında Oğuzhan Uğur savcıya sevk edildi, süreç sürüyor.
+- Uğur hakkında servis edilen bilgi notlarıyla itibarsızlaştırma iddiası gündemde.
+- Banka ve MASAK raporları, Babala TV hesap hareketlerini inceliyor.
+- Gelirlerin çoğunun YouTube’dan geldiği, Google İrlanda üzerinden aktarıldığı söylendi.
+- Bazı transferlerin tekrarlı sayıldığı ve rakamların abartıldığı iddia edildi.
+- Gain ile program anlaşmaları ve tek seferlik sözleşme ödemeleri örnek gösterildi.
+- Araç alımları ve Çekmeköy’de 25 milyon liralık villa kaydı dosyada.
+- Kıbrıs merkezli şirketlere transferler ve kumarhane bağlantıları raporda yer aldı.
+- Dosyada Haluk Levent çevresi, bağışların borç ilişkisine dönmesi tartışılıyor.
+- Uğur polisle iş birliği yaptığını, telefon şifresi verdiğini açıkladı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=HPuG-UAywzk) (⏱️ 00:00-05:57)
-- [Cigdem Toker](https://www.youtube.com/watch?v=QhmATUuZtTY&t=618s) (⏱️ 10:18-14:54)
+- [Onlar TV](https://www.youtube.com/watch?v=LrRzsz5gkJU&t=1411s) (⏱️ 23:31-35:09)
+- [Hilal Koylu](https://www.youtube.com/watch?v=XEfgIrnuYOA&t=72s) (⏱️ 01:12-04:01)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=U7t2kSkG7Dg&t=180s) (⏱️ 03:00-18:00)
+- [Inan Demirel](https://www.youtube.com/watch?v=krEpKp2j6z0&t=1980s) (⏱️ 33:00-38:43)
 
 ---
 
-## 5. Ardahan Valisinin Tayt Tartışması
+## 5. Kandil Röportajı ve Çerçeve Yasa
 
-- Ardahan Valisi Mehmet Fatih Çiçekli görevden alındı.
-- Karar Cumhurbaşkanı imzasıyla Resmi Gazete’de yayımlandı.
-- Görevden alma, bisiklet festivalini sahiplenmesi sonrası gündeme geldi.
-- Vali, bisiklet sürerken paylaştığı görüntülerle tartışma yarattı.
-- Sosyal medyada aktif olması ve tayt giymesi eleştirildi.
-- CHP’li İnan Akgün Alp konuyu Meclis’te gündeme taşıdı.
-- Destekleyenler kıyafetin spor amaçlı bisiklet kıyafeti olduğunu savundu.
-- Eleştirenler devlet ciddiyetinin ve temsilin zedelendiğini söyledi.
-- CHP’liler ve AK Parti çevreleri arasında tartışma büyüdü.
-- Görevden almanın gerçekten tayt nedeniyle olup olmadığı netleşmedi.
+- Gazeteciler Kandil’de PKK yöneticisi Duran Kalkan’la uzun röportaj yaptı.
+- Röportaj yaklaşık 70 dakika sürdü, şehir kısmında gerçekleştirildi Kandil’de.
+- Girişlerde kontrol noktaları vardı, örgüt gazetecileri araçla taşıdı.
+- Konaklama köy evlerinde sağlandı, yemeklerde yerel alabalık benzeri balık sunuldu.
+- Kandil’de düzen ve profesyonellik sürüyor, çatışmasızlık rahatlama yaratmış görünüyor.
+- Militanlar çoğunlukla yirmili yaşlarda, kadın katılımı belirgin düzeyde gözlendi.
+- Suriye gelişmeleriyle bölgeye yeni kadrolar taşınmış, sol gönüllüler de var.
+- Militanlar Öcalan’la müzakereye önem veriyor, devlete güven düşük kalıyor.
+- Kalkan Demirtaş’a mesafeli, silahsızlanma ve demokratik siyaset vurguluyor.
+- İmralı heyeti Öcalan’ı ziyaret etti, Temmuz çerçeve yasası tartışılıyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilal Koylu](https://www.youtube.com/watch?v=ipTJ2XPktmw&t=14s) (⏱️ 00:14-20:54)
-- [Inan Demirel](https://www.youtube.com/watch?v=feMTE5BOwQs&t=2s) (⏱️ 00:02-10:21)
+- [Murat Yetkin](https://www.youtube.com/watch?v=H4gvALpxSYg&t=148s) (⏱️ 02:28-03:13)
+- [Rusen Cakir](https://www.youtube.com/watch?v=49I99V-ZAh0&t=21s) (⏱️ 00:21-05:33)
 
 ---
 
-## 6. Facialarda Adalet ve İhmal İddiaları
+## 6. Yeni Anayasa Teklifi Tartışma Yarattı
 
-- Kartalkaya faciasında yakınlarını kaybeden aileler adalet için yürüdü.
-- Aileler iddianamenin hızla hazırlanmasını ve sorumluların yargılanmasını istedi.
-- Danıştay 9. Daire Başkanı Abdurrahman Gençbay ailelerin taleplerini değerlendirdi.
-- Gençbay, yargı sonuç üretmezse devlet sorumlu tutulur dedi.
-- Ankara Başsavcılığı, Muhsin Yazıcıoğlu soruşturmasını yeniden açtı.
-- Yazıcıoğlu, 25 Mart 2009 helikopter kazasında hayatını kaybetmişti.
-- Soruşturmada sabotaj ve suikast ihtimalleri yeniden gündeme geldi.
-- Dosyada 27 şüpheliden 19’u tutuklandı, bazıları adli kontrolle.
-- Yeni ifadeler arama kurtarmada ihmal ve gecikme yaşandığını öne sürüyor.
-- Acil sinyalin sökülmesi ve sahte notlar iddiaları araştırılıyor.
+- Türkiye’de yeni anayasa tartışmaları yeniden siyaset gündemini belirliyor.
+- Türkiye Demokrasi Vakfı üyeleri Cumhurbaşkanı Erdoğan ile görüşme yaptı.
+- Görüşmede Serap Yazıcı Özbudun’un anayasa önerileri öne çıktı.
+- Özbudun, Erdoğan dönemi bitince kademeli parlamenter sisteme dönüş önerdi.
+- Ayrıca geçici maddeyle Erdoğan’ın ömür boyu kalabileceğini anlattı.
+- İddiaya göre Erdoğan bu teklife şaşırdı ve konuyu erteledi.
+- Yeni anayasa, Erdoğan’ın siyasi geleceği ve dönem sınırıyla bağlantılı.
+- Sürecin siyasi pazarlıklar ve farklı aktörlerle şekilleneceği belirtildi.
+- Yorumcular teklifin uygulanabilirliği ve demokratik yönünü tartışmaya açtı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Inan Demirel](https://www.youtube.com/watch?v=feMTE5BOwQs&t=926s) (⏱️ 15:26-17:50)
-- [Hilal Koylu](https://www.youtube.com/watch?v=ipTJ2XPktmw&t=1559s) (⏱️ 25:59-32:03)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=U7t2kSkG7Dg&t=1680s) (⏱️ 28:00-34:00)
+- [Inan Demirel](https://www.youtube.com/watch?v=krEpKp2j6z0&t=1389s) (⏱️ 23:09-33:00)
 
 ---
 
-## 7. Tekel Bayi Açılışındaki Dua Tartışması
+## 7. ODTÜ Mezuniyetinde Pankartlı Protestolar
 
-- Tekirdağ’da bir tekel bayi açılışında imamın dua etmesi gündem oldu.
-- Görüntülerde hoca işlerin açılması ve bol satış için dua etti.
-- Alkol satılan yere dua edilmesi bazı çevrelerce sert eleştirildi.
-- Olay, toplumdaki çelişkili tutumlar üzerinden tartışmalara yol açtı.
-- Bazıları bunu Anadolu geleneği ve esnaf duası diye savundu.
-- Bazıları dinin ticarette ve alkol satışında kullanılmasına karşı çıktı.
-- Açılışa katılan imam, nerenin açılışı olduğunu bilmediğini söyledi.
-- Görüntüler sosyal medyada hızla yayıldı, tartışma büyüdü.
-- Yaşananların ardından müftülük hakkında inceleme başlatıldığı bildirildi.
+- ODTÜ mezuniyet töreninde öğrenciler çok sayıda pankart açtı.
+- Pankartlar hükümete ve ana muhalefete yönelik eleştiriler içerdi.
+- Mizahi ve ironik ifadeler sosyal medyada ve törende tartışma yarattı.
+- Öğrenciler cezaevindeki mizahçı Deniz Göktaş’a destek mesajı verdi.
+- Ekrem İmamoğlu’nun diplomasının iptaline tepki gösteren pankartlar görüldü.
+- Mevcut yargı uygulamalarına ve farklı görüşlerin cezalandırılmasına eleştiri yapıldı.
+- NATO zirvesi sürecindeki güvenlik önlemleri ve kısıtlamalar protesto edildi.
+- Yoksul mahallelerin görünürlüğünün örtülmesi ve gösteriş harcamaları eleştirildi.
+- Bazı akademisyen ve aktivistlerin gözaltı veya tutuklanması gündeme getirildi.
+- Kuyu tipi cezaevi uygulamasına karşı tepkiler pankartlara yansıdı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Inan Demirel](https://www.youtube.com/watch?v=feMTE5BOwQs&t=623s) (⏱️ 10:23-11:50)
-- [Hilal Koylu](https://www.youtube.com/watch?v=ipTJ2XPktmw&t=1256s) (⏱️ 20:56-21:52)
+- [Onlar TV](https://www.youtube.com/watch?v=LrRzsz5gkJU&t=18s) (⏱️ 00:18-07:29)
+- [Inan Demirel](https://www.youtube.com/watch?v=krEpKp2j6z0&t=608s) (⏱️ 10:08-13:35)
 
 ---
 
-## 8. Tekin’in eğitim açıklamaları tartışma yarattı
+## 8. Dünya Kupası finali yayın tartışması
 
-- Milli Eğitim Bakanı Yusuf Tekin’in açıklamaları kamuoyunda geniş tartışma yarattı.
-- Tekin, çocukların Osmanlı’yı ve eski Türk devletlerini öğrenmesini savundu.
-- Bu vurgu, bazı kesimlerce eğitimde önceliklerin değişmesi olarak eleştirildi.
-- Eleştirilerde bakanın güncel eğitim sorunlarından uzaklaştığı iddia edildi.
-- Sosyal medya ve kamuoyunda konuya dair farklı görüşler öne çıktı.
-- Tartışmalar, Tekin’in öğrenci yıllarına ilişkin anılarıyla da birleşti.
-- Anılarda kitap temini zorlukları, soba ve okul şartları gündeme geldi.
-- Geçmiş koşullara dair iddialar üzerinden bugün okullar karşılaştırıldı.
-- Katılımcılar, okullardaki dönüşümün yeterli olup olmadığını sorguladı.
-- Eğitimde eksikler ve değişim beklentileri tartışmaların ana ekseninde kaldı.
+- Dünya Kupası finalinde İspanya şampiyonluğa ulaştı.
+- Maç sonrası tepkiler ve törendeki kısa sahneler konuşuldu.
+- Gianni Infantino’nun törendeki görüntüleri sosyal medyada tartışma yarattı.
+- Final devre arasında ünlü sanatçıların gösterileri sahnelendi.
+- TRT devre arası gösterisini yayınlamadı ve izleyici tepkisi büyüdü.
+- Yayınlanmama nedeni telif ya da satın alma olabilir denildi.
+- TRT’den konuyla ilgili resmi bir açıklama yapılmadı.
+- Türkiye millî takımının performansı için hayal kırıklığı dile getirildi.
+- Bazı futbolcuların düğün planları, örneğin İsmail Yüksek, gündem oldu.
+- Tuz Gölü’nde flamingo sayısı son yılların en yüksek seviyesinde.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Inan Demirel](https://www.youtube.com/watch?v=feMTE5BOwQs&t=710s) (⏱️ 11:50-15:26)
-- [Hilal Koylu](https://www.youtube.com/watch?v=ipTJ2XPktmw&t=1313s) (⏱️ 21:53-25:58)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=U7t2kSkG7Dg&t=2848s) (⏱️ 47:28-50:38)
+- [Inan Demirel](https://www.youtube.com/watch?v=krEpKp2j6z0) (⏱️ 00:00-04:39)
 
 ---
 
