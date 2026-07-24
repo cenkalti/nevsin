@@ -1,137 +1,136 @@
 # Bugün Ne Oldu?
 
-*23 July 2026 tarihli günlük haber raporu - 6 haber birleştirildi*
+*24 July 2026 tarihli günlük haber raporu - 6 haber birleştirildi*
 
-## 1. Ahbap Soruşturması Genişliyor
+## 1. Özgür Özel Yeni Parti Kurdu
 
-- Ahbap ve Haluk Levent hakkında geniş çaplı mali soruşturma sürüyor.
-- İddianamede para trafiği, çek-senet ve gayrimenkul devirleri anlatılıyor.
-- Bazı mağdurlar büyük meblağlar verdiklerini söyleyerek şikayetçi oldu.
-- Ece Güner, 1 milyon 750 bin TL verdiğini açıkladı.
-- Haluk Levent, Ahbap paralarını karıştırmadığını ve bağış yaptığını savundu.
-- Levent’in kardeşi Berkant Acil tutuklandı, mesajlar dosyaya girdi.
-- Şile Belediyesi festival ihalesinde usulsüzlük ve kamu zararı iddiası yer aldı.
-- Bahis ve kripto bağlantısı iddialarıyla binlerce hesap bloke edildi.
-- Soruşturmada ünlüler ve gazeteciler, yardım çağrıları nedeniyle tanık çağrıldı.
-- Akit’in dernek bağlantısı iddiasını Yurttaşlık Derneği yalanladı.
+- Özgür Özel CHP’den istifa ederek Yeni Parti’yi kurdu.
+- Özel’le birlikte 91 milletvekili ayrıldı, dengeler hızla değişti.
+- Kuruluş dilekçesi İçişleri Bakanlığına verildi, resmi inceleme süreci başladı.
+- Kuruluş günü Lozan yıldönümüne denk getirildi, semboller öne çıktı.
+- Hacı Bayram Veli Camii sonrası rozet takma ve açıklamalar yapıldı.
+- Meclis dağılımında Yeni Parti 91 sandalye ile ana muhalefet oldu.
+- CHP’nin sandalyesi 44’e düştü, gruplar yeniden şekillenecek.
+- Parti Atatürk çizgisi ve sosyal demokrasi vurgusuyla yola çıktı.
+- Hızlı örgütlenme, kongre ve finansman ihtiyacı kritik görülüyor.
+- İktidar baskısı, manipülasyon ve dokunulmazlık tartışmaları bekleniyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Nevsin Mengu](https://www.youtube.com/watch?v=bqWIbfm-fmU&t=240s) (⏱️ 04:00-21:30)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=_9Htzr3uO8w&t=1595s) (⏱️ 26:35-27:06)
-- [Hilal Koylu](https://www.youtube.com/watch?v=dpjPSGz5ig8&t=1904s) (⏱️ 31:44-36:45)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=688sdzcuK8c) (⏱️ 00:00-03:10)
-- [Murat Yetkin](https://www.youtube.com/watch?v=7OCvHa8hNNI&t=503s) (⏱️ 08:23-12:56)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=9IfQiqVuzAM&t=1991s) (⏱️ 33:11-36:02)
-- [Onlar TV](https://www.youtube.com/watch?v=Aeof7uLN54E&t=453s) (⏱️ 07:33-26:33)
+- [Unsal Unlu](https://www.youtube.com/watch?v=-jUYED6gekc&t=77s) (⏱️ 01:17-32:16)
+- [Hilal Koylu](https://www.youtube.com/watch?v=2LZ33rE6xJg&t=76s) (⏱️ 01:16-06:08)
+- [Murat Yetkin](https://www.youtube.com/watch?v=eskqtB5Zk_o&t=5s) (⏱️ 00:05-14:28)
+- [Inan Demirel](https://www.youtube.com/watch?v=Plg6uHl7CNw) (⏱️ 00:00-03:57)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=Pb72rLbobx0&t=13s) (⏱️ 00:13-25:54)
+- [Rusen Cakir](https://www.youtube.com/watch?v=QQqSDABdpkU&t=123s) (⏱️ 02:03-18:21)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=tr4QU-ENEqQ&t=30s) (⏱️ 00:30-38:00)
 
 ---
 
-## 2. CHP’de Yeni Parti Hazırlıkları Hızlandı
+## 2. Ahbap ve Belediyelere Yönelik Soruşturmalar
 
-- CHP içinde Özgür Özel ekibinin yeni parti hazırlığı sürüyor.
-- Kuruluş dilekçesinin İçişleri Bakanlığı’na yakında verilmesi planlanıyor.
-- Mecliste kapalı grup toplantısı yapıldı, Murat Emir yönetti.
-- Toplantıya yaklaşık 60-65 vekil katıldı, kısa sürdü.
-- Yeni partiye 92-93 vekil geçebilir iddiası kulislerde konuşuluyor.
-- Bazı belediye başkanlarının CHP’de kalacağı, geçişe mesafeli olduğu belirtiliyor.
-- Parti ismi, logo, renk ve slogan çalışmaları gizlilikle yürütülüyor.
-- Finansmanın bağış ve aidatla sağlanması, şeffaflık vurgulanıyor.
-- CHP içinde bölünme, panik ve karşılıklı suçlamalar tartışmaları büyütüyor.
-- Destek arayışı gençler ve farklı kimliklere uzanan geniş taban hedefliyor.
+- Ahbap derneği ve bağlı isimler hakkında kapsamlı soruşturma yürütülüyor.
+- Soruşturmada çok sayıda gözaltı ve tutuklama kararı alındı.
+- Haluk Levent ve bazı isimlerin gözaltı ve tutuklandığı aktarıldı.
+- Şile Belediyesi konser faturalarında usulsüzlük iddiaları dosyaya girdi.
+- Sanatçı ödemeleriyle belediye faturaları arasında büyük farklar bulundu.
+- Berkant Acil ve Yeliz Kaya hesap hareketleri incelemeye alındı.
+- Dijital cihazlara el konuldu, yazışmalar ve ses kayıtları inceleniyor.
+- Gazeteci ve ünlüler Çağlayan’da ifadeye çağrıldı, bazıları konuştu.
+- İzmit Belediyesi soruşturmasında Fatma Kaplan Hürriyet’in tutuklandığı bildirildi.
+- Süreç muhaliflere baskı tartışması doğurdu, MASAK raporları bekleniyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=9IfQiqVuzAM&t=74s) (⏱️ 01:14-31:19)
-- [Onlar TV](https://www.youtube.com/watch?v=Aeof7uLN54E&t=1594s) (⏱️ 26:34-41:04)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=bqWIbfm-fmU&t=2100s) (⏱️ 35:00-46:00)
-- [Hilal Koylu](https://www.youtube.com/watch?v=dpjPSGz5ig8&t=22s) (⏱️ 00:22-31:42)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=_9Htzr3uO8w&t=91s) (⏱️ 01:31-10:55)
-- [Unsal Unlu](https://www.youtube.com/watch?v=IQjDUGQF9zc&t=1036s) (⏱️ 17:16-31:37)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=Pb72rLbobx0&t=1557s) (⏱️ 25:57-27:33)
+- [Hilal Koylu](https://www.youtube.com/watch?v=3tikCB_n91g&t=2134s) (⏱️ 35:34-39:55)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=7klFT1dE7Tc&t=373s) (⏱️ 06:13-11:16)
+- [Onlar TV](https://www.youtube.com/watch?v=EutNEYMHL3k&t=84s) (⏱️ 01:24-13:41)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=tr4QU-ENEqQ&t=3180s) (⏱️ 53:00-65:00)
+- [Inan Demirel](https://www.youtube.com/watch?v=Plg6uHl7CNw&t=2986s) (⏱️ 49:46-51:55)
+- [Rusen Cakir](https://www.youtube.com/watch?v=IxYmlaUdjMk&t=604s) (⏱️ 10:04-11:00)
 
 ---
 
-## 3. Çerçeve Yasa ve Çözüm Süreci
+## 3. CHP’de Geçişler ve Adaylık Krizi
 
-- TBMM’de Terörsüz Türkiye için çerçeve yasa hazırlığı sürüyor.
-- Meclis Başkanı Kurtulmuş, liderlerle görüşerek takvimi netleştirmeye çalışıyor.
-- Yasanın temmuz sonu, en geç ağustos ortası çıkması bekleniyor.
-- Kurtulmuş, tasarının önümüzdeki hafta Meclis’e gelmeyeceğini söyledi.
-- İmralı, Erbil ve Kandil arasında görüşme trafiği devam ediyor.
-- Taslak, geri dönüş, denetimli serbestlik ve siyasete kısıt öngörüyor.
-- Suça karışmamış kişiler için sınırlı af benzeri seçenekler tartışılıyor.
-- Kandil’deki üst düzey liderlerin statüsü süreçte kritik pürüz sayılıyor.
-- Öcalan taslağı inceledi, bazı maddeleri yetersiz bulduğu aktarılıyor.
-- Avrupa’daki sürgün siyasetçilerin dönüşü ve Demirtaş gündemde kalıyor.
+- CHP’de istifa ve parti geçişi iddiaları kulisleri hareketlendirdi.
+- Yılmaz Büyükerşen’in CHP’den istifa ettiği yönünde söylemler konuşuldu.
+- Bazı eski ve yeni isimlerin yeni partiye geçişi tartışılıyor.
+- Belediye başkanları parti değiştirirse meclis çoğunluğu etkilenebilir deniyor.
+- Mansur Yavaş, Zeydan Karalar ve Vahap Seçer için değerlendirme yapılacak.
+- Kılıçdaroğlu’nun Polatlı programına Yavaş katılmadı, habersizim dedi.
+- Oğuz Salıcı’nın tepkisi ilgi gördü, eleştiriler Özel’e yöneldi.
+- Özgür Özel tartışmaları yatıştırmaya çalışıyor, birlik mesajı veriyor.
+- Kılıçdaroğlu’nun butlan riski ve Meclis gücü zayıfladı konuşuluyor.
+- Cumhurbaşkanlığı adaylığı için Özel, İmamoğlu ve Yavaş senaryoları tartışıldı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=9IfQiqVuzAM&t=1880s) (⏱️ 31:20-33:07)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=bqWIbfm-fmU&t=2760s) (⏱️ 46:00-50:32)
-- [Onlar TV](https://www.youtube.com/watch?v=Aeof7uLN54E&t=2466s) (⏱️ 41:06-43:14)
-- [Rusen Cakir](https://www.youtube.com/watch?v=HRcWCwQHo84&t=5s) (⏱️ 00:05-12:32)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=_9Htzr3uO8w&t=655s) (⏱️ 10:55-15:13)
+- [Inan Demirel](https://www.youtube.com/watch?v=Plg6uHl7CNw&t=922s) (⏱️ 15:22-18:45)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=Pb72rLbobx0&t=1664s) (⏱️ 27:44-31:42)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=tr4QU-ENEqQ&t=2280s) (⏱️ 38:00-53:00)
+- [Hilal Koylu](https://www.youtube.com/watch?v=3tikCB_n91g&t=201s) (⏱️ 03:21-04:30)
 
 ---
 
-## 4. Faiz Sabit Kaldı, Geçim Sıkıntısı
+## 4. Süreç İddiaları ve Erdoğan Tartışmaları
 
-- Türkiye’de kredi kartı eksi bakiyesi 1 trilyon TL’ye yaklaştı.
-- Esnaf kapanışları arttı, KOBİ’ler finansmana erişimde ciddi zorlanıyor.
-- Turizm sezonunda iç turizm zayıf kaldı, harcamalar geriledi.
-- Vatandaşlar otel yerine akraba evlerinde kalmayı tercih ediyor.
-- Geçim sıkıntısı büyürken işçi yürüyüşlerine müdahale tartışma yarattı.
-- Merkez Bankası faiz kararını 14.00’te açıklayacağını duyurdu.
-- Ekonomistler genel olarak faizin sabit tutulmasını bekliyordu.
-- Para Politikası Kurulu politika faizi ve gecelik faizi sabit bıraktı.
-- Politika faizi ile fonlama faizi farkı piyasada bozucu etki yapıyor.
-- KKM benzeri önlemler, rezervler ve jeopolitik riskler enflasyonu etkiliyor.
+- Kandil ziyaretinde Duran Kalkan’la röportaj yapıldığı aktarıldı.
+- Güvenilen kaynak, Öcalan ile devlet arasında anlaşma sağlandığını söyledi.
+- İlk sert yalanlamalara rağmen, zamanla bazı gelişmeler doğrulandı denildi.
+- İmralı heyeti son ziyarette beş saat görüşüp başlıklar belirledi.
+- Geri dönüşlerin kademeli olacağı, bazı tavizlerin gündemde olduğu belirtildi.
+- Önce Avrupa sürgünleri, sonra Mahmur ve eylemsizler dönebilir.
+- Öcalan’a ilişkin adımların ilk aşamada beklenmediği ifade edildi.
+- Mecliste yasal çerçeve hazırlanabilir, İYİ Parti karşı çıkabilir.
+- Ağustos ortasında dönüşlerin başlaması gibi takvimler konuşuluyor.
+- Erdoğan’ın nerede olduğu, sağlığı ve iddia tedavileri tartışılıyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=IQjDUGQF9zc&t=1899s) (⏱️ 31:39-32:34)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=bqWIbfm-fmU&t=1500s) (⏱️ 25:00-35:00)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=9IfQiqVuzAM&t=2241s) (⏱️ 37:21-39:55)
+- [Serdar Akinan](https://www.youtube.com/watch?v=d9Bdr-Py880) (⏱️ 00:00-05:13)
+- [Rusen Cakir](https://www.youtube.com/watch?v=QQqSDABdpkU&t=1101s) (⏱️ 18:21-33:38)
 
 ---
 
-## 5. Soruşturmalarda Çelişkiler ve Güven Tartışması
+## 5. Yeni Parti finansmanı tartışma yarattı
 
-- Futbolda bahis ve şike soruşturmasında beklenen gelişmeler sınırlı kaldı.
-- Bazı yöneticiler ve futbolcular hakkında az sayıda tespit yapıldı.
-- Aynı suçlamalarda farklı kişilere farklı adli işlemler uygulandı.
-- Yargılamada standart eksikliği ve çelişkiler kamuoyunda soru yarattı.
-- Gülistan Doku soruşturmasına yeni bilgiler ve mesaj kayıtları yansıdı.
-- Vali Tuncay Sonel ve emekli polis Gökhan Ertok mesajları dosyada.
-- Mesajlarda vali eleştireni IP ile tespit edip arama iddiası var.
-- Kayıtlarda 300 kilo eroin ve 400 milyon gayrimenkul ifadeleri geçiyor.
-- Mesajlarda konunun kapatılıp kapatılmayacağı tartışıldığı öne sürüldü.
-- Haberler, devlet gücü kullanımı ve yargıya güven kaygısını büyüttü.
+- Yeni Parti’nin finansmanı üzerinden siyasi tartışmalar giderek büyüyor.
+- Partinin aylık sabit maliyetinin 22 milyon lira olduğu konuşuluyor.
+- Genel merkez binası kiralandı, örgütlenme giderleri de hesaplanıyor.
+- Finansman için milletvekili maaş katkısı ve üyelik aidatları planlanıyor.
+- Üyelik aidatlarının 50-100 TL bandında tutulması öneriliyor.
+- Kaynağın yeterliliği ve sürdürülebilirliği konusunda soru işaretleri var.
+- Bazı çevreler yasa dışı veya şüpheli kaynak iddialarını gündeme taşıdı.
+- Tartışmalarda FETÖ ifadesi de geçti, iddialar yalanlanmadı.
+- Devlet Bahçeli’nin hazine yardımıyla ilgili önerisi dikkat çekti.
+- Bahçeli, kopan vekil oranında hazine yardımının aktarılmasını önerdi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Nevsin Mengu](https://www.youtube.com/watch?v=bqWIbfm-fmU&t=1290s) (⏱️ 21:30-25:00)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=9IfQiqVuzAM&t=2164s) (⏱️ 36:04-37:08)
+- [Inan Demirel](https://www.youtube.com/watch?v=Plg6uHl7CNw&t=1125s) (⏱️ 18:45-23:52)
+- [Hilal Koylu](https://www.youtube.com/watch?v=3tikCB_n91g&t=1628s) (⏱️ 27:08-28:47)
 
 ---
 
-## 6. Ezel Akay uyuşturucu iddiasıyla gözaltında
+## 6. YKS Paylaşımında Kızlar Sansürlendi
 
-- Ünlü yönetmen Ezel Akay Bursa’da jandarma operasyonuyla gözaltına alındı.
-- Akay’ın kardeşi Eren Kazım Akay da operasyon kapsamında gözaltına alındı.
-- Gözaltı gece ya da sabaha karşı gerçekleştiği bildirildi.
-- Gözaltı anına ait görüntüler çekilip sosyal medyada paylaşıldı.
-- Akay’ın evinde arama yapıldığı ve düzenek bulunduğu iddia edildi.
-- Evde ultraviyole ışık ve iklimlendirme sistemi olduğu öne sürüldü.
-- Aramada 131 gram kubar esrar ve 21 kök kenevir bulundu.
-- Narkotik köpeği Takip ile çekmece ve dolaplarda arama yapıldı.
-- İnegöl’de kardeşin evinde de ayrıca operasyon yapıldığı belirtildi.
-- Soruşturma sürerken masumiyet karinesi ve delillerin kesinliği vurgulandı.
+- Çankırı’daki imam hatip lisesinin YKS paylaşımı tartışma yarattı.
+- Okul, derece yapan öğrencileri tanıtan listeyi sosyal medyada yayımladı.
+- Paylaşımda erkek öğrencilerin fotoğrafları yer alırken kızlar kaldırıldı.
+- Bazı paylaşımlarda kız öğrenciler tek tip türbanla sansürlenmiş göründü.
+- Uygulama sosyal medyada tepki çekti, cinsiyet ayrımcılığı eleştirildi.
+- Tepkiler, kız çocuklarının eğitimde görünürlüğü tartışmasını büyüttü.
+- Eleştiriler, Milli Eğitim politikaları ve okul yönetimi yaklaşımına yöneldi.
+- Milli Eğitim Bakanlığı’nın benzer uygulamalara karşı uyarıları hatırlatıldı.
+- Tartışmada, kız öğrencilerin başarılarının eşit biçimde öne çıkarılması istendi.
+- Tepkiler sonrası okul paylaşımı yeniledi, erkekleri de kaldırdı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Nevsin Mengu](https://www.youtube.com/watch?v=bqWIbfm-fmU&t=80s) (⏱️ 01:20-04:00)
-- [Hilal Koylu](https://www.youtube.com/watch?v=yc6fyJR8zMY&t=534s) (⏱️ 08:54-12:04)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=tr4QU-ENEqQ&t=3900s) (⏱️ 65:00-69:16)
+- [Unsal Unlu](https://www.youtube.com/watch?v=-jUYED6gekc&t=615s) (⏱️ 10:15-10:47)
 
 ---
 
