@@ -1,173 +1,130 @@
 # Bugün Ne Oldu?
 
-*7 August 2026 tarihli günlük haber raporu - 8 haber birleştirildi*
+*8 August 2026 tarihli günlük haber raporu - 6 haber birleştirildi*
 
-## 1. Çerçeve yasa tartışması Mecliste büyüyor
+## 1. Mecliste süreç yasası gerilimi
 
-- Meclis gündemindeki çerçeve yasa barış sürecini hukuken çerçeveliyor.
-- Teklif, silah bırakan örgüt üyelerine ceza indirimi imkânı tanıyor.
-- Cinayet gibi ağır suça karışmayanlar denetimli serbestlikle çıkabilecek.
-- Bazı hukukçular teklifin genel af etkisi doğurabileceğini söylüyor.
-- Adalet Komisyonu görüşmeleri gergin, takvim iki günde bitmek isteniyor.
-- CHP ve bazı partiler, önceden tartışılmadan imza istenmesine tepki gösterdi.
-- Yeni Parti e-imza vermedi, şeffaflık ve meşruiyet tartışması büyüdü.
-- İYİ Parti ve Yeniden Refah karşı çıkıyor; DSP sonradan destek açıkladı.
-- Demirtaş’ın kapsama girip girmediği tartışıldı; Bakan Gürlek reddetti.
-- Uygulama MİT tespiti, MGK raporu ve açıklamayla Ağustosta başlayabilir.
+- Mecliste süreç ve çerçeve yasası sert tartışmalarla ilerliyor.
+- Teklifin usulü eleştirildi, şeffaf ve demokratik süreç çağrısı yapıldı.
+- Adalet Komisyonu görüşmeleri kavga, itiş kakış ve yumruklaşmaya sahne oldu.
+- Teklif kamuoyunda af ve tahliye düzenlemesi gibi algılandı.
+- Dem Parti ve Yeni Parti destek verdi, İyi Parti karşı çıktı.
+- Demirtaş’ın yararlanıp yararlanamayacağı ve AİHM kararları tartışılıyor.
+- Yasa, silah bırakmanın tespiti, MGK onayıyla uygulanabilecek deniyor.
+- Yurda dönüşlerin Avrupa, Suriye, Kandil ve cezaevlerinden olacağı konuşuluyor.
+- Yeni anayasa hesabıyla iki dönem ve 50+1 değişikliği endişesi dillendiriliyor.
+- Medya soruşturmasıyla Kütahyalı, Cem Küçük iddiaları gündemde sürüyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Onlar TV](https://www.youtube.com/watch?v=4f4fBCurzf4&t=1247s) (⏱️ 20:47-44:19)
-- [Rusen Cakir](https://www.youtube.com/watch?v=B3FGLq-hlIs&t=719s) (⏱️ 11:59-30:11)
-- [Cigdem Toker](https://www.youtube.com/watch?v=EhMsL_jJyWI&t=182s) (⏱️ 03:02-10:23)
-- [Unsal Unlu](https://www.youtube.com/watch?v=ALKHT642cOw&t=42s) (⏱️ 00:42-04:36)
-- [Hilal Koylu](https://www.youtube.com/watch?v=TNAk1SU1Wt4&t=419s) (⏱️ 06:59-18:37)
+- [Inan Demirel](https://www.youtube.com/watch?v=Pqn8ztvh7fA&t=400s) (⏱️ 06:40-41:20)
+- [Rusen Cakir](https://www.youtube.com/watch?v=QVReWkK_6Lo&t=3s) (⏱️ 00:03-13:02)
+- [Hilal Koylu](https://www.youtube.com/watch?v=EBkbNXmu8VM&t=261s) (⏱️ 04:21-11:12)
+- [Serdar Akinan](https://www.youtube.com/watch?v=SoR5dQV3yuc&t=84s) (⏱️ 01:24-09:54)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=zRhAGQk3e2g&t=324s) (⏱️ 05:24-08:36)
+- [Onlar TV](https://www.youtube.com/watch?v=57VjoIZrVcI&t=145s) (⏱️ 02:25-12:05)
 
 ---
 
-## 2. Belediye tahliyeleri ve tutukluluk tartışması
+## 2. Mekke’de Üçlü Ortak Savunma Anlaşması
 
-- Belediye başkanlarının tutuklulukları ve görev iadesi tartışmaları yeniden gündemde.
-- Avcılar Belediye Başkanı Utku Caner Çaykara için tahliye kararı verildi.
-- Çaykara kararı, 14 aydır süren tutukluluğun uzamasına dayandı.
-- Tahliye, Aziz İhsan Aktaş davasındaki tutukluluk incelemesiyle alındı.
-- Aynı dosyada Özcan Zenger hakkında da tahliye kararı çıktı.
-- Seyhan Belediyesi’nden bazı kişiler için de tahliye kararları verildi.
-- Bazı belediye başkanlarının tutukluluğu sürerken, görevlerine iade yapılmadı.
-- Şişli Belediye Başkanı Resul Emrah Şahan 19 Mart’tan beri tutuklu.
-- Şahan’ın paylaşımı, yasadaki eksiklere değinerek tartışma yarattı.
-- Gazetecilere gözaltılar ve tutuklamalar, adil yargılama çağrılarını artırdı.
+- Erdoğan, Suudi Arabistan ziyaretinde Mekke’de ortak savunma anlaşması imzaladı.
+- Anlaşma Türkiye, Suudi Arabistan ve Pakistan’ı kapsayan üçlü yapı kuruyor.
+- Silahlı saldırı olursa, saldırı tüm ülkelere yapılmış sayılacak.
+- İşbirliği tatbikat, istihbarat paylaşımı, savunma sanayi ve eğitim içeriyor.
+- Erdoğan anlaşmanın kimseyi hedeflemediğini, herkese açık olduğunu söyledi.
+- Bazı medya bunu “İslami NATO” diye adlandırdı, komuta yapısı belirsiz.
+- Karargah ve protokol detayları, özellikle Mekke’deki yapı açıklanmadı.
+- Yorumcular Türkiye’yi savunma kapasitesi ve insan kaynağıyla önde görüyor.
+- Eleştiriler, İran-ABD-İsrail geriliminde Türkiye’nin savaşa çekilmesi riski diyor.
+- İran anlaşmaya tepki verdi, güvenlik sağlamayacağını savundu.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Onlar TV](https://www.youtube.com/watch?v=4f4fBCurzf4&t=933s) (⏱️ 15:33-20:46)
-- [Unsal Unlu](https://www.youtube.com/watch?v=ALKHT642cOw&t=704s) (⏱️ 11:44-12:16)
-- [Cigdem Toker](https://www.youtube.com/watch?v=EhMsL_jJyWI&t=161s) (⏱️ 02:41-03:02)
-- [Hilal Koylu](https://www.youtube.com/watch?v=TNAk1SU1Wt4&t=84s) (⏱️ 01:24-03:12)
-- [Rusen Cakir](https://www.youtube.com/watch?v=oXequT_umTg&t=101s) (⏱️ 01:41-06:20)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=F9ozsvAzjfA&t=362s) (⏱️ 06:02-09:56)
+- [Serdar Akinan](https://www.youtube.com/watch?v=SoR5dQV3yuc&t=595s) (⏱️ 09:55-19:34)
+- [Hilal Koylu](https://www.youtube.com/watch?v=i2EAqZVk8kw&t=1357s) (⏱️ 22:37-25:32)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=qeon1smnyvc&t=194s) (⏱️ 03:14-17:16)
 
 ---
 
-## 3. Fezleke Sızıntısı ve Operasyon Tartışması
+## 3. Türkiye’de Bilim Politikası ve Üniversiteler
 
-- Ankara Başsavcılığı, Özgür Özel ve Veli Ağbaba için fezleke hazırladı.
-- Fezlekeler Adalet Bakanlığı’na gönderildi ve basına yansıdı, tartışma büyüdü.
-- Partiler, fezleke açıklamasının masumiyet karinesini zedelediğini savundu.
-- Bazı gazetelerin fezleke detaylarını yayımlaması, gizlilik ihlali eleştirisi doğurdu.
-- Mecliste sızıntıyı yapanların bulunması ve araştırılması çağrıları yükseldi.
-- Özgür Özel çevresi, süreci kasten yürütülen bir operasyon diye niteledi.
-- Özel hakkında fezleke sayısının 62’ye çıktığı iddia edildi.
-- Kuşadası Belediyesi’ne üçüncü dalga operasyonda 21 gözaltı kararı çıktı.
-- Gözaltı listesinde Bülent Tezcan’ın kızı ve damadı olduğu belirtildi.
-- Muhalefet, bazı dosyaların ilerlememesini çifte hukuk olarak değerlendiriyor.
+- Bilim temel araştırma yapar, teknoloji sonuçları uygulamaya taşır.
+- Bilim insanlarının toplumla ve siyasetle bağ kurması gerektiği vurgulandı.
+- Türkiye’de araştırma fonları ve altyapı eksikleri bilimsel üretimi zorluyor.
+- Üniversitelerde ekip çalışması ve disiplinlerarası işbirliği ihtiyacı öne çıktı.
+- Bilim politikasının savunma sanayiine aşırı bağımlı olması riskli görülüyor.
+- Fonların yalnız askeri alana yönelmesi, sivil yeniliği geride bırakabilir.
+- İngiltere’deki çift kullanım yaklaşımı, daha dengeli bir örnek sunuyor.
+- Bilimin farklı sektörlerde yaygın kullanımı, toplumsal faydayı artırabilir.
+- Üniversiteler artarken özgür fikir ve akademik cesaretin azaldığı söyleniyor.
+- Genç araştırmacılara, çok çalışıp fırsatları artırarak şansı büyütmeleri öneriliyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=ALKHT642cOw&t=1469s) (⏱️ 24:29-26:18)
-- [Hilal Koylu](https://www.youtube.com/watch?v=TNAk1SU1Wt4&t=1142s) (⏱️ 19:02-21:12)
-- [Cigdem Toker](https://www.youtube.com/watch?v=EhMsL_jJyWI&t=5s) (⏱️ 00:05-02:41)
-- [Onlar TV](https://www.youtube.com/watch?v=4f4fBCurzf4&t=579s) (⏱️ 09:39-13:53)
+- [Murat Yetkin](https://www.youtube.com/watch?v=TYPctuqogd8&t=464s) (⏱️ 07:44-13:41)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=zRhAGQk3e2g&t=518s) (⏱️ 08:38-10:06)
 
 ---
 
-## 4. CHP’de Arnavutköy rozeti tartışması
+## 4. Yerel Siyasette Tartışmalar Büyüyor
 
-- CHP’de Arnavutköy ilçe başkanı ataması tartışma yarattı.
-- Atanan Savaş Aras’ın 8-8,5 ay önce AKP rozeti taktığı iddia edildi.
-- Rozet takma görüntülerinin ortaya çıkması parti içinde tepki topladı.
-- Aras, rozeti nezaketen taktığını söyleyerek kendini savundu.
-- Tartışma, CHP’deki atama yöntemlerine ve güven sorununa dönüştü.
-- Yorumcular, atamaların taban eksikliği ve kadro sıkıntısıyla yapıldığını öne sürdü.
-- Bazı yayınlarda parti içindeki Butlancılar ve 3. yolcular eleştirildi.
-- AKP-CHP yakınlaşması iddiaları üzerinden sert yorumlar yapıldı.
-- CHP’de kurultay tartışmalarıyla birlikte parti içi gerilim arttı.
-- Ayrıca kalabalık göstermek için figüran kullanıldığı iddiası gündeme geldi.
+- Arnavutköy’de CHP ilçe başkanı Savaş Aras, AKP toplantısına katıldı.
+- Toplantı sırasında Aras’a AKP rozeti takıldığı görüntülerle gündem oldu.
+- Aras, CHP’den daha önce ayrıldığını ve rozeti reddetmediğini söyledi.
+- Olay, parti disiplini ve yerel siyasette tutarlılık tartışmalarını tetikledi.
+- İzmir Menderes Belediye Başkanı İlkay Çiçek hakkında operasyon düzenlendi.
+- Soruşturmada bazı WhatsApp yazışmaları delil olarak kamuoyuna yansıdı.
+- Yazışmaların yapay zeka ürünü olup olmadığı ayrıca tartışma konusu oldu.
+- İddialara göre Çiçek, sevgilisini belediyede işe aldırdı.
+- Dosyada uygunsuz mesajlaşmalar bulunduğu iddiası siyasi yankı uyandırdı.
+- İlkay Çiçek tutuklandı, süreç yerel yönetimlerde denetimi gündeme getirdi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Onlar TV](https://www.youtube.com/watch?v=4f4fBCurzf4&t=141s) (⏱️ 02:21-09:37)
-- [Unsal Unlu](https://www.youtube.com/watch?v=ALKHT642cOw&t=1123s) (⏱️ 18:43-20:14)
-- [Hilal Koylu](https://www.youtube.com/watch?v=TNAk1SU1Wt4&t=198s) (⏱️ 03:18-06:56)
+- [Inan Demirel](https://www.youtube.com/watch?v=Pqn8ztvh7fA&t=56s) (⏱️ 00:56-02:33)
+- [Hilal Koylu](https://www.youtube.com/watch?v=i2EAqZVk8kw&t=1541s) (⏱️ 25:41-27:08)
 
 ---
 
-## 5. Enflasyon Gıda ve Kirada Baskı
+## 5. Programda Kayıplar ve Ödüller
 
-- TÜİK yıllık enflasyonu yüzde 31,75 olarak açıkladı.
-- ENA alternatif hesaplamada yıllık enflasyonu yüzde 50,49 gösterdi.
-- Yıllık düşüşün yalnızca 1,77 puan olması eleştirildi.
-- Sağlık katkı payları ve enerji artışları fiyatları belirgin etkiledi.
-- Türkiye’de yıllık gıda enflasyonu yüzde 37,53 seviyesinde.
-- Yumrulu sebzelerde yıllık artış yüzde 146’ya kadar çıktı.
-- Kira artışı ağustosta yüzde 31,90 olarak hesaplandı.
-- Dar gelirliler barınmada zorlanıyor, sosyal konut ihtiyacı vurgulandı.
-- İcra iflas dosyaları hazirandan beri 3,45 milyon arttı.
-- Enflasyonun uzaması tercih olabilir, yapısal reformlar isteniyor.
+- Programda sunucu, kısa sürede üç yakınını kaybettiğini anlattı.
+- Gazetecilikte emeği geçen Erkan Yeti’nin vefatı hatırlatıldı.
+- Bir diğer kayıp Vedat Yener için de taziye mesajı paylaşıldı.
+- Duygu Canova’nın Mersin Büyükşehir’de görev yaptığı belirtildi.
+- Canova’nın basın ve halkla ilişkiler daire başkanı olduğu aktarıldı.
+- Sunucu, bu kayıplar nedeniyle üzgün olduğunu açıkça söyledi.
+- Programın açılışında genel tanıtım ve çerçeve sunumu yapıldı.
+- Koç Topluluğu’nun 100. yılına programda özel vurgu yapıldı.
+- Vehbi Koç Vakfı ve Koç Üniversitesi ödülleri anlatıldı.
+- Takdire Şayan röportaj dizisinin konuğu Prof. Dr. Mete Atatür dendi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=BcjIny_p6js) (⏱️ 00:00-00:48)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=K2z6Tvi8VHI&t=794s) (⏱️ 13:14-15:37)
+- [Murat Yetkin](https://www.youtube.com/watch?v=TYPctuqogd8&t=61s) (⏱️ 01:01-01:53)
+- [Serdar Akinan](https://www.youtube.com/watch?v=SoR5dQV3yuc) (⏱️ 00:00-00:26)
 
 ---
 
-## 6. Yeni Parti anketlerde birinci çıktı
+## 6. Salah Transferi Trabzonspor’da Gündem Oldu
 
-- Sonar anketinde Yeni Parti yüzde 34,3 ile birinci çıktı.
-- Aynı ankette AK Parti yüzde 30 oy oranında göründü.
-- Diğer partiler DEM yüzde 8,5; İYİ yüzde 7 ölçüldü.
-- MHP yüzde 5 ve CHP yüzde 5 seviyesinde yer aldı.
-- Kararsızlar dağıtılınca Yeni Parti farkı daha da artırdı.
-- Araştırmalar siyasette güçlü bir kırılma yaşandığını işaret ediyor.
-- Ravest verilerine göre erken seçim isteyenlerin oranı yüzde 59,4.
-- Benzer şekilde katılımcıların yaklaşık yüzde 59'u erken seçim istedi.
-- Yeni Parti bağış kampanyasına sekiz günde 135.647 kişi katıldı.
-- Toplam bağış yaklaşık 293 milyon TL, genel merkez 30 Ağustos açılacak.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Cigdem Toker](https://www.youtube.com/watch?v=EhMsL_jJyWI&t=626s) (⏱️ 10:26-12:03)
-- [Hilal Koylu](https://www.youtube.com/watch?v=ZRn2qMIvMww&t=4s) (⏱️ 00:04-02:12)
-
----
-
-## 7. Ahbap bağışları ve soruşturma tartışması
-
-- Ahbap Derneği ve Haluk Levent hakkında soruşturma sürüyor.
-- MASAK raporundan sızdığı iddia edilen bağış listesi yayıldı.
-- Listede ünlü isimler ve bağış miktarları kamuoyuna yansıdı.
-- Acda Pekkan, Tarkan, Ebru Şahin, Barış Arduç anıldı.
-- Bağışların depremzede yardımı için yapıldığı vurgulandı.
-- Dernek çekleriyle kişisel borç kapatıldığı iddiası gündeme geldi.
-- Bağışların amaç dışı kullanımı tespit edilirse sorun büyüyebilir.
-- Bu durumda bağışçıların mağdur olabileceği uyarısı yapıldı.
-- Bilgilerin medyaya nasıl sızdığı sorusu tartışma yarattı.
-- Soruşturma kapsamında gözaltıların ve incelemelerin sürdüğü bildirildi.
+- Muhammed Salah, Liverpool’dan Trabzonspor’a iki yıllık sözleşmeyle transfer oldu.
+- Transfer, Trabzon’da geniş yankı uyandırdı ve büyük kutlamalar yapıldı.
+- Salah’ın yıllık yaklaşık 17 milyon euro maaş alacağı iddia edildi.
+- Belediye başkanları, transferde Erdoğan’ın desteğini öven açıklamalar yaptı.
+- Taraftar katılımı ve stadyumdaki coşku dikkat çekici bulundu.
+- Transferin şehir ekonomisine ve kulübün sportif hedeflerine etkisi tartışıldı.
+- Öte yandan Salah’ın maaşına banka haczi konduğu iddiası gündeme geldi.
+- Haczin, kulübün borçları ve bankanın alacak talebiyle bağlantılı olduğu öne sürüldü.
+- Tahsilat tutarının yaklaşık 17 milyon TL olduğu ifade edildi.
+- Kulübün hukuki itiraz hazırlığı ve avukatların sürece dahil olması bekleniyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilal Koylu](https://www.youtube.com/watch?v=TNAk1SU1Wt4&t=1742s) (⏱️ 29:02-31:00)
-- [Unsal Unlu](https://www.youtube.com/watch?v=ALKHT642cOw&t=851s) (⏱️ 14:11-37:35)
-
----
-
-## 8. Faili Meçhul Dosyalara Yeniden İnceleme
-
-- Adalet Bakanı Akın Gürlek, faili meçhul dosyaları inceleme sözü verdi.
-- Gürlek, bu kapsamda bazı mağdur aileleriyle Ankara’da bir araya geldi.
-- Görüşmelerde Uğur Mumcu ailesiyle yapılan buluşma özellikle öne çıktı.
-- Aile, suikastın tüm yönleriyle aydınlatılmasını istedi ve vurguladı.
-- Yakınlar, tetikçi ve azmettiricilerin bulunmasını açıkça talep etti.
-- Bakan Gürlek, devletin dosyaları ortaya çıkarma iradesi olduğunu söyledi.
-- Görüşme sonrası aile ve çevreler, dosyanın aydınlatılmasından umutlu göründü.
-- Girişim, faili meçhul cinayetlerin çözülmesi tartışmasını yeniden gündeme taşıdı.
-- Bazı gazeteler ve bakanlık açıklamaları, süreci manşetlere taşıdı.
-- Sunucu, geçmiş iktidar dönemlerine dair eleştirileri de hatırlattı.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Unsal Unlu](https://www.youtube.com/watch?v=ALKHT642cOw&t=1278s) (⏱️ 21:18-24:11)
-- [Hilal Koylu](https://www.youtube.com/watch?v=TNAk1SU1Wt4&t=1278s) (⏱️ 21:18-28:59)
+- [Hilal Koylu](https://www.youtube.com/watch?v=i2EAqZVk8kw&t=1629s) (⏱️ 27:09-31:19)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=qeon1smnyvc&t=27s) (⏱️ 00:27-01:50)
 
 ---
 
