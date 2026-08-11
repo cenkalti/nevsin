@@ -1,157 +1,155 @@
 # Bugün Ne Oldu?
 
-*10 August 2026 tarihli günlük haber raporu - 7 haber birleştirildi*
+*11 August 2026 tarihli günlük haber raporu - 7 haber birleştirildi*
 
-## 1. Çerçeve Yasada Meclis’te Sert Ayrışma
+## 1. Terörsüz Türkiye Yasası Meclisten Geçti
 
-- TBMM Genel Kurulu, çerçeve yasa görüşmeleri için toplandı bugün.
-- Görüşmelerin geceye sarkması ve uzun sürmesi bekleniyor mecliste.
-- Teklif, kardeşlik ve terörsüz Türkiye başlıklarıyla sunuldu kamuoyuna.
-- AK Parti, MHP ve DEM Parti tasarıya destek veriyor.
-- İYİ Parti ve Yeniden Refah Partisi teklife karşı çıkıyor.
-- CHP ve Yeni Parti içinde oy tutumu bölünmüş, serbest bırakıldı.
-- Komisyonda yoğun tartışma ve arbede yaşandı, hukuki itirazlar yükseldi.
-- 6. madde silah bırakma ve örgüt feshini düzenliyor, denetimli.
-- 7. maddede demokratikleşme, AYM-AİHM uyumu tartışmaları sürüyor halen.
-- Uygulama MİT raporu, MGK onayı ve Cumhurbaşkanı imzasına bağlı.
+- TBMM, Terörsüz Türkiye çerçeve yasasını geniş oyla kabul etti.
+- Oylamada 562 oy kullanıldı; 467-468 evet, 87-88 hayır çıktı.
+- Yasa, PKK’nın feshi ve silah bırakmasının doğrulanmasına bağlandı.
+- Doğrulama için MİT, TSK, MSB raporları ve MGK tespiti öngörülüyor.
+- Metin, militanların normal hayata dönüşünü kolaylaştırmayı hedefliyor.
+- Düzenleme sadece PKK/KCK için; FETÖ’ye özel af yok.
+- Muhalefet, metnin kapalı hazırlandığını ve şeffaflık eksikliğini eleştirdi.
+- Yeni Parti’de Özgür Özel serbest oy verdi; 35 evet, 54 hayır çıktı.
+- Parti içi ayrışma mahalle baskısı tartışmasıyla taban gerilimi yarattı.
+- İYİ Parti topluca hayır dedi; kürsü işgaliyle tepkisini büyüttü.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=d9dzeENI1kY) (⏱️ 00:00-26:46)
-- [Unsal Unlu](https://www.youtube.com/watch?v=wNp1wmJEAMw&t=42s) (⏱️ 00:42-54:52)
-- [Inan Demirel](https://www.youtube.com/watch?v=OZ-8cKFtpp4&t=290s) (⏱️ 04:50-20:55)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=ZsicFIosypY&t=29s) (⏱️ 00:29-30:03)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=pWNtY73LUNA&t=399s) (⏱️ 06:39-09:42)
-- [Rusen Cakir](https://www.youtube.com/watch?v=IPCVei6toWM&t=6s) (⏱️ 00:06-03:32)
-- [Cigdem Toker](https://www.youtube.com/watch?v=j1CMjVLIkmE&t=266s) (⏱️ 04:26-09:56)
-- [Murat Yetkin](https://www.youtube.com/watch?v=suzgIVLPkdQ&t=115s) (⏱️ 01:55-16:39)
+- [Inan Demirel](https://www.youtube.com/watch?v=Pe4eufapPzU&t=15s) (⏱️ 00:15-32:23)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=JMdFPwPNhEk&t=122s) (⏱️ 02:02-50:54)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=rZmBFtng-r0&t=180s) (⏱️ 03:00-16:00)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=d8I7mo1G4Ng&t=6s) (⏱️ 00:06-42:32)
+- [Rusen Cakir](https://www.youtube.com/watch?v=06ffyyk5c3Q&t=5s) (⏱️ 00:05-11:47)
+- [Hilal Koylu](https://www.youtube.com/watch?v=MusmetbPeus&t=13s) (⏱️ 00:13-25:52)
+- [Murat Yetkin](https://www.youtube.com/watch?v=ZQoFqtBdU8c&t=6s) (⏱️ 00:06-06:00)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=a6xOaTA6RWw) (⏱️ 00:00-20:31)
+- [Unsal Unlu](https://www.youtube.com/watch?v=WFb2L6SY5pU&t=150s) (⏱️ 02:30-38:54)
 
 ---
 
-## 2. Siyasette referandum ve kritik kulisler
+## 2. Siyasette Yeni Dengeler Arayışı
 
-- Bazı siyasetçiler ülkede önemli konular için referandum çağrısı yaptı.
-- Dilek İmamoğlu paylaşımında kararın millete sorulmasını istedi açıkça.
-- Ankara Büyükşehir Belediye Başkanı Mansur Yavaş referandum önerisini destekledi.
-- Yeniden Refah Partisi ve Fatih Erbakan da referanduma destek verdi.
-- Referandumun sonucu ve kabul edilip edilmeyeceği tartışma konusu oldu.
-- 14 Ağustos’ta AK Parti’nin 25’inci yıl etkinlikleri yapılacak.
-- Gazeteci Sinan Burhan, törende katılımların olacağını iddia etti.
-- İddiada bazı belediye başkanları ve milletvekilleri AK Parti’ye geçecek.
-- Yön Araştırma anketinde İmamoğlu ve Yavaş Erdoğan’a karşı önde.
-- Menderes’te başkan vekili seçimi, meclis dengelerini sınayacak yakında.
+- CHP’de bazı milletvekilleri liderlik tartışmasını yeniden gündeme taşıdı.
+- Yaklaşık 20 vekil, Kılıçdaroğlu’na onursal başkanlık önerisi hazırlıyor.
+- Gürsel Erol ve bazı isimler olası adaylık sinyalleri veriyor.
+- Partide yenilenme, dinamizm ve yeni aday arayışları konuşuluyor.
+- Özgür Özel, konuşmasında AKP’yi sert ifadelerle eleştirdi.
+- MHP lideri Devlet Bahçeli, Özel’i konuşma sırasında alkışladı.
+- Kürsü sonrası Özel ve Bahçeli tokalaşıp gülümseyerek ayrıldı.
+- Görüntüler samimi diyalog ve yakınlaşma ihtimali olarak yorumlandı.
+- Saadet, Refah ve DEVA liderleri bir araya gelerek temas kurdu.
+- Görüşme ittifak iddiaları doğurdu, ancak ortak karar açıklanmadı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=ZsicFIosypY&t=1911s) (⏱️ 31:51-32:24)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=d9dzeENI1kY&t=1610s) (⏱️ 26:50-28:57)
-- [Unsal Unlu](https://www.youtube.com/watch?v=wNp1wmJEAMw&t=892s) (⏱️ 14:52-17:14)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=pWNtY73LUNA&t=1083s) (⏱️ 18:03-21:03)
-- [Inan Demirel](https://www.youtube.com/watch?v=OZ-8cKFtpp4&t=176s) (⏱️ 02:56-04:49)
+- [Hilal Koylu](https://www.youtube.com/watch?v=MusmetbPeus&t=872s) (⏱️ 14:32-16:03)
+- [Unsal Unlu](https://www.youtube.com/watch?v=WFb2L6SY5pU&t=912s) (⏱️ 15:12-15:37)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=rZmBFtng-r0&t=1620s) (⏱️ 27:00-38:00)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=JMdFPwPNhEk&t=3205s) (⏱️ 53:25-54:38)
 
 ---
 
-## 3. Sosyal medyada yasa ve hedef göstermeler
+## 3. Etimesgut’ta Başkanvekilliği Seçimi Sonuçlandı
 
-- Şişli Belediye Başkanı Şahan, eksiklerine rağmen yeni yasayı destekledi.
-- Şahan’ın açıklaması sosyal medyada hızla yayıldı ve tartışma büyüdü.
-- Tepkilerin çoğu olumsuzdu, az sayıda destek mesajı da geldi.
-- Program sunucusu, Şahan’ın çıkışını cesur bulduğunu açıkladı.
-- Ümit Özdağ, sunucuyu Kandil röportajı üzerinden hedef aldı.
-- Sunucu, bağımsız gazeteci olduğunu söyleyerek suçlamaya karşı çıktı.
-- Benzer ithamların başka meslektaşlarca da tekrarlandığını belirtti.
-- Sosyal medya paylaşımları, partiler ve taban üzerinde baskı oluşturuyor.
-- Etkileşim ve görünürlük, takipçi sayısına göre büyük değişkenlik gösteriyor.
-- Sunucu, takipçi düşüşünü gölgede engelleme iddiasıyla ilişkilendirdi.
+- Etimesgut’ta rüşvet ve yolsuzluk soruşturmasında tutuklamalar yapıldı.
+- Oyuncu Erdal Beşikçioğlu hakkında tutuklama kararı çıktığı bildirildi.
+- Belediye Başkan Yardımcısı Mutlu Kerimoğlu ve yaklaşık 40 kişi tutuklandı.
+- Tutuklamalar sonrası Etimesgut Belediyesi başkan vekilliği seçimi gerçekleştirildi.
+- Seçimde CHP adayı Seda Dilber ile Yeni Parti adayı yarıştı.
+- İlk turlarda Yeni Parti adayı öne geçti, oylar tartışıldı.
+- Dördüncü turda Seda Dilber 21 oyla başkanvekili seçildi.
+- Son turda AKP ve MHP oylarının Dilber’e gittiği görüldü.
+- Dilber, tutuklu yönetim için emaneti koruyacaklarını söyledi.
+- Ayrıca Afyon Belediye Başkanı Burcu Köksal’ın AK Parti’ye geçtiği açıklandı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=wNp1wmJEAMw&t=2753s) (⏱️ 45:53-47:11)
-- [Rusen Cakir](https://www.youtube.com/watch?v=IPCVei6toWM&t=215s) (⏱️ 03:35-04:47)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=pWNtY73LUNA&t=216s) (⏱️ 03:36-05:27)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=d8I7mo1G4Ng&t=2553s) (⏱️ 42:33-44:45)
+- [Inan Demirel](https://www.youtube.com/watch?v=Pe4eufapPzU&t=1757s) (⏱️ 29:17-29:59)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=rZmBFtng-r0&t=1500s) (⏱️ 25:00-27:00)
+- [Hilal Koylu](https://www.youtube.com/watch?v=MusmetbPeus&t=1555s) (⏱️ 25:55-28:48)
 
 ---
 
-## 4. Zamlar ve ihracatta yeni darbe
+## 4. Futbolda Gözaltılar ve Soruşturmalar
 
-- Akaryakıt fiyatları hızla yükseliyor; motorin 80 liraya yaklaşıyor.
-- Bu gece yarısından itibaren benzine yeni bir zam geliyor.
-- Bazı sigara gruplarına zam yapıldı, tüketici fiyatları artacak.
-- Altın fiyatları yükselişini sürdürüyor, piyasalar gerilimleri izliyor.
-- İşsizlik ve özellikle genç işsizlik sorunu yeniden gündemde.
-- Yaşam maliyeti artışı, ekonomiye yönelik sert eleştirileri büyütüyor.
-- Turizm sezonunun zayıf geçtiği, güven arayışının arttığı belirtildi.
-- Turizmin çekiciliği için huzur, güven ve doğru tanıtım istendi.
-- Turizm Bakanlığı bağlantılı şirketin Şarm el-Şeyh reklamı eleştirildi.
-- ABD gümrük tarifeleri ihracatı vurdu; zeytinyağı satışı yüzde 57 düştü.
+- Sosyal medyada yayılan paylaşımlar futbol gündeminde yeni tartışma yarattı.
+- Fenerbahçe şampiyonluğu iddiaları ve ultras paylaşımları yoğun tepki topladı.
+- Soruşturma kapsamında Galatasaray tribün lideri Sabahattin Şirin gözaltına alındı.
+- MASAK raporları Şirin ve oğlunda yoğun para trafiği iddiası içerdi.
+- İddialar kara para aklama ve bilet yolsuzluğu şüphesine odaklanıyor.
+- Şirin’in evinde arama yapıldı, yüklü varlıklar ele geçirildi.
+- Evden nakit para, döviz, altın, mücevher, silah ve mühimmat çıktı.
+- Şirin gözaltı öncesi tweet attı, adliyede sloganlar söyledi.
+- Ayrı dosyada spor muhabiri Burhan Can Terzi gözaltına alındı.
+- Terzi ifadesi sonrası serbest kaldı, basın özgürlüğü tartışması büyüdü.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=ZsicFIosypY&t=2160s) (⏱️ 36:00-40:23)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=d9dzeENI1kY&t=1914s) (⏱️ 31:54-33:11)
-- [Unsal Unlu](https://www.youtube.com/watch?v=wNp1wmJEAMw&t=1663s) (⏱️ 27:43-28:24)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=JMdFPwPNhEk&t=3282s) (⏱️ 54:42-59:28)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=rZmBFtng-r0&t=2280s) (⏱️ 38:00-41:00)
+- [Inan Demirel](https://www.youtube.com/watch?v=Pe4eufapPzU&t=1945s) (⏱️ 32:25-33:32)
 
 ---
 
-## 5. Ultraslan Lideri Şirin Gözaltında
+## 5. Gündemde hak düzenlemesi ve iddialar
 
-- Galatasaray tribün lideri Sebahattin Şirin gözaltına alındı.
-- İstanbul Cumhuriyet Başsavcılığı Şirin için gözaltı talimatı verdi.
-- Polis ekipleri gözaltı sırasında Şirin’in evinde arama yaptı.
-- Şirin hakkında uyuşturucu bulundurma ve kullanma suçlaması bulunuyor.
-- Soruşturmada yasa dışı bahis iddiaları da dosyada yer aldı.
-- Örgütlü bilet dolandırıcılığı suçlaması kapsamında işlem başlatıldı.
-- Şirin’e halkı yanıltıcı bilgi yayma iddiası da yöneltildi.
-- Sosyal medya paylaşımları nedeniyle son dönemde eleştirilerin hedefindeydi.
-- Gözaltı sonrası ifade alma ve soruşturma süreçleri bekleniyor.
-- Soruşturma kapsamında operasyon ve adli işlemler sürüyor.
+- Şehit ve gazilere yönelik yeni hak artışları açıklandı bugün.
+- Anne ve babaya bağlanan aylıklarda bazı şartlar kaldırılıyor artık.
+- Aylıkların alt sınırları yükseltilerek ödemeler artırılacak yakında.
+- Bakıma muhtaç gazi ve vazife malullerinin aylıkları artırılıyor.
+- Görevde yaralanıp malullük verilmeyenlere yeni haklar tanınıyor.
+- 15 Temmuz’da yaralananlar için koruma, yeniden değerlendirme sağlanıyor.
+- Kapsam dışı kalan başvuruların yeniden incelenmesi öngörülüyor süreçte.
+- Adalet Bakanı, Yazıcıoğlu dosyasında olayı cinayet diye niteledi.
+- Komisyon, kaza saatlerinde uçak geçişi gibi yeni bulgular buldu.
+- Benzin 2 TL, motorin 5,13 TL zam bekleniyor. 
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=pWNtY73LUNA&t=2716s) (⏱️ 45:16-45:36)
-- [Unsal Unlu](https://www.youtube.com/watch?v=wNp1wmJEAMw&t=1214s) (⏱️ 20:14-21:04)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=d9dzeENI1kY&t=2391s) (⏱️ 39:51-40:43)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=JMdFPwPNhEk&t=3063s) (⏱️ 51:03-53:21)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=d8I7mo1G4Ng&t=2686s) (⏱️ 44:46-45:40)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=rZmBFtng-r0&t=80s) (⏱️ 01:20-03:00)
 
 ---
 
-## 6. Mekke Savunma Anlaşması Tartışması
+## 6. Savaşlar Stoklar ve Güvenlik Gündemi
 
-- Türkiye, Suudi Arabistan ve Pakistan savunma anlaşması imzaladı Mekke’de.
-- Anlaşma detayları açıklanmadı, kısa bir ortak bildiriyle duyuruldu sadece.
-- Metin, Bakanlar Konseyi ve sekreterya kurulmasını öngörüyor deniyor.
-- Sekreteryanın Suudi Arabistan’da olacağına dair kulis bilgisi paylaşıldı.
-- Yorumcular, bir üyeye saldırının diğerlerine sayılabileceğini belirtti.
-- Bu ilke NATO 5’inci maddeye benzetildi, otomatik savaş değil.
-- Ülkelerin tamamlayıcılığı vurgulandı; teknoloji Türkiye, para Suudi, güç Pakistan.
-- ABD güvencesine kuşkuların, ittifakı teşvik eden etken olduğu söylendi.
-- Pakistan’ın nükleer kapasitesinin şemsiye sağlayıp sağlamayacağı belirsiz kaldı.
-- Anlaşmanın yürürlüğü TBMM onayı gerektirir, kamuoyu tartışması istendi. 
+- Dünyada yeniden silahlanma ve stok tutma eğilimleri güçleniyor.
+- Rusya-Ukrayna savaşı, mühimmat eksikliği sorununu görünür kıldı.
+- ABD ve Avrupa, savunma harcamalarını artırıp stok doldurmayı tartışıyor.
+- Yeni nesil silahlar arasında yapay zekâ destekli sistemler öne çıkıyor.
+- PKK çatışmasının yıllara yayılan ağır insani ve mali sonuçları vurgulandı.
+- Erdoğan, PKK ile mücadelenin maliyetini 2.3 trilyon dolar dedi.
+- Öcalan, dış etki iddiaları ve İsrail-ABD bağlantıları tartışıldı.
+- Rusya-Ukrayna ve İsrail-İran gerilimleri deniz ticaretini tehdit ediyor.
+- Bu riskler, kara yolları, boru hatları ve fiber hatları öne çıkarıyor.
+- Trump’ın NATO ziyareti, suikast tehdidi iddialı güvenlik şaşırtmacasıyla gündeme geldi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=YVWXJT4EB3c&t=35s) (⏱️ 00:35-15:48)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=ZsicFIosypY&t=1947s) (⏱️ 32:27-35:58)
-- [Unsal Unlu](https://www.youtube.com/watch?v=wNp1wmJEAMw&t=1133s) (⏱️ 18:53-19:50)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=Z0T_x0zuOAA&t=437s) (⏱️ 07:17-10:17)
+- [Murat Yetkin](https://www.youtube.com/watch?v=ZQoFqtBdU8c&t=363s) (⏱️ 06:03-13:09)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=rZmBFtng-r0&t=2460s) (⏱️ 41:00-46:02)
 
 ---
 
-## 7. Kütahyalı soruşturmasında itirafçı iddiası
+## 7. Gündemde cinayet ve belediye soruşturması
 
-- Rasim Ozan Kütahyalı hakkında MASAK merkezli soruşturma yürütülüyor.
-- Soruşturma yasa dışı bahis ve suç gelirlerini aklama iddialarını kapsıyor.
-- Yetkililer hesap hareketleri ve yüksek meblağlı transferleri inceliyor.
-- Kütahyalı için bugün tutukluluğa itiraz duruşması yapılacak.
-- Duruşmada tahliye ihtimalinin bulunduğu kamuoyuna yansıdı.
-- Kütahyalı hakkında itirafçı olduğu iddiası gündeme geldi.
-- Avukatı Burak Mengü, itirafçı olduğu iddiasını kesin dille reddetti.
-- Avukat, gizli tanık iddialarına da itiraz ettiklerini söyledi.
-- Kütahyalı dosyasının Cem Küçük ve Tahir Sarıkaya dosyalarına bağlı olmadığı belirtildi.
-- Süreç, gazetecilik etiği ile para ve vergi tartışmalarını büyüttü.
+- Dün bir kadın cinayeti işlendi, olay kamuoyunda yankı buldu.
+- Cinayet, ülke gündeminde adalet ve güvenlik tartışmalarını artırdı.
+- Sunucu, vakayı toplumsal adalet beklentisini vurgulamak için kullandı.
+- Kuşadası Belediyesi’ne yönelik bir operasyon kapsamında soruşturma yürütüldü.
+- Operasyona ilişkin soruşturmada dün toplam 12 kişi tutuklandı.
+- Tutuklamaların adli süreç kapsamında yapıldığı bilgisi paylaşıldı.
+- Soruşturmanın sürdüğü ve yeni gelişmeler olabileceği belirtildi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=ZsicFIosypY&t=1859s) (⏱️ 30:59-31:46)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=d9dzeENI1kY&t=1992s) (⏱️ 33:12-39:47)
+- [Unsal Unlu](https://www.youtube.com/watch?v=WFb2L6SY5pU&t=772s) (⏱️ 12:52-13:00)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=a6xOaTA6RWw&t=1243s) (⏱️ 20:43-20:51)
 
 ---
 
