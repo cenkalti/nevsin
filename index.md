@@ -1,155 +1,152 @@
 # Bugün Ne Oldu?
 
-*11 August 2026 tarihli günlük haber raporu - 7 haber birleştirildi*
+*12 August 2026 tarihli günlük haber raporu - 7 haber birleştirildi*
 
-## 1. Terörsüz Türkiye Yasası Meclisten Geçti
+## 1. Çerçeve Yasa Yeni Partiyi Böldü
 
-- TBMM, Terörsüz Türkiye çerçeve yasasını geniş oyla kabul etti.
-- Oylamada 562 oy kullanıldı; 467-468 evet, 87-88 hayır çıktı.
-- Yasa, PKK’nın feshi ve silah bırakmasının doğrulanmasına bağlandı.
-- Doğrulama için MİT, TSK, MSB raporları ve MGK tespiti öngörülüyor.
-- Metin, militanların normal hayata dönüşünü kolaylaştırmayı hedefliyor.
-- Düzenleme sadece PKK/KCK için; FETÖ’ye özel af yok.
-- Muhalefet, metnin kapalı hazırlandığını ve şeffaflık eksikliğini eleştirdi.
-- Yeni Parti’de Özgür Özel serbest oy verdi; 35 evet, 54 hayır çıktı.
-- Parti içi ayrışma mahalle baskısı tartışmasıyla taban gerilimi yarattı.
-- İYİ Parti topluca hayır dedi; kürsü işgaliyle tepkisini büyüttü.
+- Terörsüz Türkiye yol haritası sayılan çerçeve yasa Meclisten geçti.
+- Oylama sonucu 467 kabul, 87 ret, 30 katılmama açıklandı.
+- Yeni Parti lideri Özgür Özel vekilleri serbest bıraktı.
+- Partide 54 hayır, 35 evet oyu krizi büyüttü.
+- Özel vicdanım rahat dedi, dayatma yapmadığını savundu kamuoyunda.
+- Muhalefet ve iktidar medyası liderliği ve meşruiyeti tartışmaya açtı.
+- Yasa silah bırakma ve demokratikleşme hedefli maddeler içeriyor temel.
+- Af yok deniyor, Demirtaşın kapsama girip girmediği belirsiz.
+- Cumhurbaşkanı Yardımcısı başkanlığında kurul ve Meclis komisyonu kurulacak.
+- MGK kararı sonrası altı aylık başvuru takvimi başlayacak deniyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Inan Demirel](https://www.youtube.com/watch?v=Pe4eufapPzU&t=15s) (⏱️ 00:15-32:23)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=JMdFPwPNhEk&t=122s) (⏱️ 02:02-50:54)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=rZmBFtng-r0&t=180s) (⏱️ 03:00-16:00)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=d8I7mo1G4Ng&t=6s) (⏱️ 00:06-42:32)
-- [Rusen Cakir](https://www.youtube.com/watch?v=06ffyyk5c3Q&t=5s) (⏱️ 00:05-11:47)
-- [Hilal Koylu](https://www.youtube.com/watch?v=MusmetbPeus&t=13s) (⏱️ 00:13-25:52)
-- [Murat Yetkin](https://www.youtube.com/watch?v=ZQoFqtBdU8c&t=6s) (⏱️ 00:06-06:00)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=a6xOaTA6RWw) (⏱️ 00:00-20:31)
-- [Unsal Unlu](https://www.youtube.com/watch?v=WFb2L6SY5pU&t=150s) (⏱️ 02:30-38:54)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=9ndmNyFe0Ps&t=87s) (⏱️ 01:27-38:32)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=iLWgAAyrdoM) (⏱️ 00:00-41:35)
+- [Cigdem Toker](https://www.youtube.com/watch?v=3yfjhEwGTA0&t=507s) (⏱️ 08:27-22:12)
+- [Hilal Koylu](https://www.youtube.com/watch?v=0uOGHiPxLMU&t=6s) (⏱️ 00:06-20:19)
+- [Inan Demirel](https://www.youtube.com/watch?v=NkdJ0B0rWuI&t=23s) (⏱️ 00:23-37:30)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=wRguKAormnA&t=25s) (⏱️ 00:25-20:52)
+- [Rusen Cakir](https://www.youtube.com/watch?v=795MTchBXnk&t=5s) (⏱️ 00:05-03:44)
+- [Murat Yetkin](https://www.youtube.com/watch?v=tQdxoJFHFNo) (⏱️ 00:00-02:45)
 
 ---
 
-## 2. Siyasette Yeni Dengeler Arayışı
+## 2. İşçi Hak Arayışında Yasak ve Tepki
 
-- CHP’de bazı milletvekilleri liderlik tartışmasını yeniden gündeme taşıdı.
-- Yaklaşık 20 vekil, Kılıçdaroğlu’na onursal başkanlık önerisi hazırlıyor.
-- Gürsel Erol ve bazı isimler olası adaylık sinyalleri veriyor.
-- Partide yenilenme, dinamizm ve yeni aday arayışları konuşuluyor.
-- Özgür Özel, konuşmasında AKP’yi sert ifadelerle eleştirdi.
-- MHP lideri Devlet Bahçeli, Özel’i konuşma sırasında alkışladı.
-- Kürsü sonrası Özel ve Bahçeli tokalaşıp gülümseyerek ayrıldı.
-- Görüntüler samimi diyalog ve yakınlaşma ihtimali olarak yorumlandı.
-- Saadet, Refah ve DEVA liderleri bir araya gelerek temas kurdu.
-- Görüşme ittifak iddiaları doğurdu, ancak ortak karar açıklanmadı.
+- Doruk Madencilik işçileri maaş ve tazminatlarını alamadıklarını söyledi.
+- E Gümüş işçileri de Ankara’ya gelerek alacaklarını talep etti.
+- Madenciler bakanlık önünde eylem yapmak isterken polis müdahale etti.
+- Yaklaşık 100 madenci gözaltına alındı, sendikalar karara tepki gösterdi.
+- Ankara Valiliği kent genelinde 15 günlük eylem yasağı açıkladı.
+- Yasak sonrası madenciler metroya alınmadı, farklı duraklarda yürüdü.
+- Siyasetçiler Erkan Baş, Gökay Çakır ve Mahmut Tanal tepki gösterdi.
+- Madenciler yeraltında çalıştıklarını, haklarını almak istediklerini vurguladı.
+- Zonguldak’ta Cumhurbaşkanı posterini indiren vatandaş tutuklandı, tartışma büyüdü.
+- Dilovası’nda kozmetik fabrikası yangınında 7 işçi öldü, ihmal iddiaları var.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilal Koylu](https://www.youtube.com/watch?v=MusmetbPeus&t=872s) (⏱️ 14:32-16:03)
-- [Unsal Unlu](https://www.youtube.com/watch?v=WFb2L6SY5pU&t=912s) (⏱️ 15:12-15:37)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=rZmBFtng-r0&t=1620s) (⏱️ 27:00-38:00)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=JMdFPwPNhEk&t=3205s) (⏱️ 53:25-54:38)
+- [Hilal Koylu](https://www.youtube.com/watch?v=BwWlCVV7Gw0&t=32s) (⏱️ 00:32-06:36)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=wRguKAormnA&t=1260s) (⏱️ 21:00-24:00)
+- [Onlar TV](https://www.youtube.com/watch?v=vHnHZND5gqs) (⏱️ 00:00-49:18)
 
 ---
 
-## 3. Etimesgut’ta Başkanvekilliği Seçimi Sonuçlandı
+## 3. Gazeteci Dürdane Kırçuvalı hayatını kaybetti
 
-- Etimesgut’ta rüşvet ve yolsuzluk soruşturmasında tutuklamalar yapıldı.
-- Oyuncu Erdal Beşikçioğlu hakkında tutuklama kararı çıktığı bildirildi.
-- Belediye Başkan Yardımcısı Mutlu Kerimoğlu ve yaklaşık 40 kişi tutuklandı.
-- Tutuklamalar sonrası Etimesgut Belediyesi başkan vekilliği seçimi gerçekleştirildi.
-- Seçimde CHP adayı Seda Dilber ile Yeni Parti adayı yarıştı.
-- İlk turlarda Yeni Parti adayı öne geçti, oylar tartışıldı.
-- Dördüncü turda Seda Dilber 21 oyla başkanvekili seçildi.
-- Son turda AKP ve MHP oylarının Dilber’e gittiği görüldü.
-- Dilber, tutuklu yönetim için emaneti koruyacaklarını söyledi.
-- Ayrıca Afyon Belediye Başkanı Burcu Köksal’ın AK Parti’ye geçtiği açıklandı.
+- Gazeteci Dürdane Kocaoğlu Kırçuvalı 61 yaşında hayatını kaybetti.
+- Kırçuvalı, tatildeyken deniz sonrası ani kalp krizi geçirdi.
+- Olayın Yunanistan’da yaşandığı ve ölümün aniden gerçekleştiği belirtildi.
+- Kırçuvalı Halk TV’de istihbarat şefi olarak görev yapıyordu.
+- Daha önce Anka Haber Ajansı ve Ekonomik Panorama’da çalışmıştı.
+- Meslektaşları onu çalışkan ve çevresine pozitif enerji veren biri anlattı.
+- Gazetecilik camiası kaybı erken ve çok üzücü olarak değerlendirdi.
+- Eşi gazeteci Kerem Kırçuval, kızları ise Almanya’da eğitim görüyor.
+- Otopsinin Yunanistan’da yapılacağı, cenazenin Türkiye’ye getirileceği aktarıldı.
+- Son günlerde başka kültür-sanat kayıpları da üzüntü yarattı. 
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=d8I7mo1G4Ng&t=2553s) (⏱️ 42:33-44:45)
-- [Inan Demirel](https://www.youtube.com/watch?v=Pe4eufapPzU&t=1757s) (⏱️ 29:17-29:59)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=rZmBFtng-r0&t=1500s) (⏱️ 25:00-27:00)
-- [Hilal Koylu](https://www.youtube.com/watch?v=MusmetbPeus&t=1555s) (⏱️ 25:55-28:48)
+- [Cigdem Toker](https://www.youtube.com/watch?v=3yfjhEwGTA0&t=4s) (⏱️ 00:04-02:21)
+- [Inan Demirel](https://www.youtube.com/watch?v=NkdJ0B0rWuI&t=2449s) (⏱️ 40:49-42:18)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=9ndmNyFe0Ps&t=3922s) (⏱️ 65:22-66:22)
 
 ---
 
-## 4. Futbolda Gözaltılar ve Soruşturmalar
+## 4. UltrAslan Lideri Şirin’e Soruşturma
 
-- Sosyal medyada yayılan paylaşımlar futbol gündeminde yeni tartışma yarattı.
-- Fenerbahçe şampiyonluğu iddiaları ve ultras paylaşımları yoğun tepki topladı.
-- Soruşturma kapsamında Galatasaray tribün lideri Sabahattin Şirin gözaltına alındı.
-- MASAK raporları Şirin ve oğlunda yoğun para trafiği iddiası içerdi.
-- İddialar kara para aklama ve bilet yolsuzluğu şüphesine odaklanıyor.
-- Şirin’in evinde arama yapıldı, yüklü varlıklar ele geçirildi.
-- Evden nakit para, döviz, altın, mücevher, silah ve mühimmat çıktı.
-- Şirin gözaltı öncesi tweet attı, adliyede sloganlar söyledi.
-- Ayrı dosyada spor muhabiri Burhan Can Terzi gözaltına alındı.
-- Terzi ifadesi sonrası serbest kaldı, basın özgürlüğü tartışması büyüdü.
+- Galatasaray taraftar grubu UltrAslan lideri Sebahattin Şirin hakkında soruşturma başlatıldı.
+- Soruşturmada Şirin’in sosyal medya paylaşımları ve bazı ifadeleri incelendi.
+- Şirin’in ifadesi alındı, dosyada farklı iddialar da değerlendiriliyor.
+- MASAK raporu, Şirin ve oğlunda yaklaşık 51 milyon TL işlem gösterdi.
+- Polis aramasında evden para, döviz ve altın bulunduğu bildirildi.
+- Toplam değerin yaklaşık 65 milyon lira olduğu iddia edildi.
+- Evde ruhsatsız tabanca bulunduğu, tutanaklara geçtiği aktarıldı.
+- Şirin, parayı yıllar içinde biriktirdiğini savunduğu belirtiliyor.
+- Kara borsa bilet ve organizasyon gelirleri üzerinden usulsüzlük iddiaları yer aldı.
+- Şüpheli adli kontrolle serbest bırakıldı, uygulama kamuoyunda tartışıldı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=JMdFPwPNhEk&t=3282s) (⏱️ 54:42-59:28)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=rZmBFtng-r0&t=2280s) (⏱️ 38:00-41:00)
-- [Inan Demirel](https://www.youtube.com/watch?v=Pe4eufapPzU&t=1945s) (⏱️ 32:25-33:32)
+- [Hilal Koylu](https://www.youtube.com/watch?v=BwWlCVV7Gw0&t=1759s) (⏱️ 29:19-35:55)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=wRguKAormnA&t=1440s) (⏱️ 24:00-27:00)
 
 ---
 
-## 5. Gündemde hak düzenlemesi ve iddialar
+## 5. Muhalefette ittifak görüşmeleri hızlandı
 
-- Şehit ve gazilere yönelik yeni hak artışları açıklandı bugün.
-- Anne ve babaya bağlanan aylıklarda bazı şartlar kaldırılıyor artık.
-- Aylıkların alt sınırları yükseltilerek ödemeler artırılacak yakında.
-- Bakıma muhtaç gazi ve vazife malullerinin aylıkları artırılıyor.
-- Görevde yaralanıp malullük verilmeyenlere yeni haklar tanınıyor.
-- 15 Temmuz’da yaralananlar için koruma, yeniden değerlendirme sağlanıyor.
-- Kapsam dışı kalan başvuruların yeniden incelenmesi öngörülüyor süreçte.
-- Adalet Bakanı, Yazıcıoğlu dosyasında olayı cinayet diye niteledi.
-- Komisyon, kaza saatlerinde uçak geçişi gibi yeni bulgular buldu.
-- Benzin 2 TL, motorin 5,13 TL zam bekleniyor. 
+- Küçük ve orta partiler arasında ittifak trafiği hızlandı.
+- Saadet Partisi, Yeniden Refah, DEVA ve diğerleri yakınlaşıyor.
+- Saadet Partisi ile Yeniden Refah arasında doğrudan görüşmeler yapıldı.
+- Saadetli Mahmut Arıkan görüşmeyi olumlu ve yapıcı değerlendirdi.
+- Arıkan, süreç için güzel bir birliktelik ifadesini kullandı.
+- İttifakın ayrıntılarının daha sonra kamuoyuyla paylaşılacağı belirtildi.
+- Mecliste Yeni Yol grubu tartışmaları ve dinamikleri öne çıktı.
+- Grup kurma ve meclis aritmetiği etkileri özellikle vurgulandı.
+- Bu temasların seçim ittifakına dönüşme ihtimali gündeme geldi.
+- Aday belirleme ve ortak liste ihtimalleri de tartışılıyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=JMdFPwPNhEk&t=3063s) (⏱️ 51:03-53:21)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=d8I7mo1G4Ng&t=2686s) (⏱️ 44:46-45:40)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=rZmBFtng-r0&t=80s) (⏱️ 01:20-03:00)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=9ndmNyFe0Ps&t=3449s) (⏱️ 57:29-61:12)
+- [Hilal Koylu](https://www.youtube.com/watch?v=BwWlCVV7Gw0&t=2156s) (⏱️ 35:56-36:16)
 
 ---
 
-## 6. Savaşlar Stoklar ve Güvenlik Gündemi
+## 6. Kurtulmuş yasayı ve anayasa sürecini savundu
 
-- Dünyada yeniden silahlanma ve stok tutma eğilimleri güçleniyor.
-- Rusya-Ukrayna savaşı, mühimmat eksikliği sorununu görünür kıldı.
-- ABD ve Avrupa, savunma harcamalarını artırıp stok doldurmayı tartışıyor.
-- Yeni nesil silahlar arasında yapay zekâ destekli sistemler öne çıkıyor.
-- PKK çatışmasının yıllara yayılan ağır insani ve mali sonuçları vurgulandı.
-- Erdoğan, PKK ile mücadelenin maliyetini 2.3 trilyon dolar dedi.
-- Öcalan, dış etki iddiaları ve İsrail-ABD bağlantıları tartışıldı.
-- Rusya-Ukrayna ve İsrail-İran gerilimleri deniz ticaretini tehdit ediyor.
-- Bu riskler, kara yolları, boru hatları ve fiber hatları öne çıkarıyor.
-- Trump’ın NATO ziyareti, suikast tehdidi iddialı güvenlik şaşırtmacasıyla gündeme geldi.
+- TBMM Başkanı Numan Kurtulmuş, yasaya dair eleştirileri reddetti.
+- Kurtulmuş, düzenlemenin af yasası olmadığını özellikle vurguladı.
+- Af yasasının suçların topluca affı anlamına geldiğini hatırlattı.
+- Yasada milli egemenliği, birlik ve bütünlüğü zedeleyen hüküm yok dedi.
+- Cumhurbaşkanı ve diğer aktörlerin çabalarına teşekkür ederek konuştu.
+- Kulislerde hareketlilik sürdü, tartışmanın devam edeceği belirtildi.
+- Kurtulmuş, AA editör masasında yeni anayasa gündemini değerlendirdi.
+- Yeni anayasa tartışmasının başladığını, siyasi iklimin uygun olduğunu söyledi.
+- Yeni anayasayı boynumuzun borcu diye niteleyerek çağrı yaptı.
+- Sunucu, mevcut anayasanın uygulanması ve hakların korunmasını vurguladı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=Z0T_x0zuOAA&t=437s) (⏱️ 07:17-10:17)
-- [Murat Yetkin](https://www.youtube.com/watch?v=ZQoFqtBdU8c&t=363s) (⏱️ 06:03-13:09)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=rZmBFtng-r0&t=2460s) (⏱️ 41:00-46:02)
+- [Hilal Koylu](https://www.youtube.com/watch?v=0uOGHiPxLMU&t=1224s) (⏱️ 20:24-22:08)
+- [Cigdem Toker](https://www.youtube.com/watch?v=3yfjhEwGTA0&t=172s) (⏱️ 02:52-08:27)
 
 ---
 
-## 7. Gündemde cinayet ve belediye soruşturması
+## 7. Trump’ın Uçuşunda Güvenlik Alarmı
 
-- Dün bir kadın cinayeti işlendi, olay kamuoyunda yankı buldu.
-- Cinayet, ülke gündeminde adalet ve güvenlik tartışmalarını artırdı.
-- Sunucu, vakayı toplumsal adalet beklentisini vurgulamak için kullandı.
-- Kuşadası Belediyesi’ne yönelik bir operasyon kapsamında soruşturma yürütüldü.
-- Operasyona ilişkin soruşturmada dün toplam 12 kişi tutuklandı.
-- Tutuklamaların adli süreç kapsamında yapıldığı bilgisi paylaşıldı.
-- Soruşturmanın sürdüğü ve yeni gelişmeler olabileceği belirtildi.
+- Trump'ın Ankara'dan ayrılışı sırasında güvenlik tehdidi ihbarı yapıldı.
+- Trump, bindiği eski Air Force One'dan indirildiğini doğruladı.
+- Gizlice başka bir uçağa geçirildiği ve farklı rotayla ayrıldığı belirtildi.
+- New York Times, NATO zirvesi çıkışında benzer önlem iddiası yazdı.
+- İstihbarat kaynakları İran bağlantılı olası saldırı planından söz etti.
+- Trump'ın etkinlikten arka kapıdan çıkarıldığı iddia edildi.
+- Bazı iddialar omuzdan atılan füze taşıyan şüpheli yakalandı diyor.
+- Uçakta kalan bakanlar, bürokratlar ve gazetecilerin riske atıldığı eleştirildi.
+- Olayın Washington Post kaynaklı olduğu, Gizli Servis'in uyardığı belirtildi.
+- Sunucu, bazı ayrıntılara şüpheyle yaklaşıp dezenformasyon uyarısı yaptı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=WFb2L6SY5pU&t=772s) (⏱️ 12:52-13:00)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=a6xOaTA6RWw&t=1243s) (⏱️ 20:43-20:51)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=wRguKAormnA&t=2220s) (⏱️ 37:00-42:02)
+- [Inan Demirel](https://www.youtube.com/watch?v=NkdJ0B0rWuI&t=2253s) (⏱️ 37:33-40:43)
 
 ---
 
