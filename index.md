@@ -1,152 +1,128 @@
 # Bugün Ne Oldu?
 
-*12 August 2026 tarihli günlük haber raporu - 7 haber birleştirildi*
+*13 August 2026 tarihli günlük haber raporu - 6 haber birleştirildi*
 
-## 1. Çerçeve Yasa Yeni Partiyi Böldü
+## 1. Karaborsa ve Süleymancılar soruşturmaları büyüyor
 
-- Terörsüz Türkiye yol haritası sayılan çerçeve yasa Meclisten geçti.
-- Oylama sonucu 467 kabul, 87 ret, 30 katılmama açıklandı.
-- Yeni Parti lideri Özgür Özel vekilleri serbest bıraktı.
-- Partide 54 hayır, 35 evet oyu krizi büyüttü.
-- Özel vicdanım rahat dedi, dayatma yapmadığını savundu kamuoyunda.
-- Muhalefet ve iktidar medyası liderliği ve meşruiyeti tartışmaya açtı.
-- Yasa silah bırakma ve demokratikleşme hedefli maddeler içeriyor temel.
-- Af yok deniyor, Demirtaşın kapsama girip girmediği belirsiz.
-- Cumhurbaşkanı Yardımcısı başkanlığında kurul ve Meclis komisyonu kurulacak.
-- MGK kararı sonrası altı aylık başvuru takvimi başlayacak deniyor.
+- Galatasaray tribün lideri Muzaffer Şirin gözaltına alındı, soruşturma sürüyor.
+- Şirin hakkında ev hapsi ve yurt dışı yasağı kararı verildi.
+- Ev aramasında yüklü nakit, döviz, altın ve ruhsatsız silah bulundu.
+- Şirin paranın bir kısmının çocuğunun düğününden kaldığını söyledi.
+- Paylaşımlarındaki siyasi ifadeler tepki çekti, sonrasında özür mesajları geldi.
+- Karaborsa biletin kulüp içi işbirliği olmadan yapılamayacağı vurgulandı.
+- İndirimli öğrenci biletlerinin tribün gruplarınca suistimali iddiaları tartışıldı.
+- Dosyanın MASAK incelemesiyle derinleşmesi ve yeni gözaltılar bekleniyor.
+- Süleymancılara 17 ilde operasyon yapıldı, çok sayıda kişi gözaltında.
+- Suçlamalar örgüt kurma, aklama, dolandırıcılık; şirketlere kayyum atandı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=9ndmNyFe0Ps&t=87s) (⏱️ 01:27-38:32)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=iLWgAAyrdoM) (⏱️ 00:00-41:35)
-- [Cigdem Toker](https://www.youtube.com/watch?v=3yfjhEwGTA0&t=507s) (⏱️ 08:27-22:12)
-- [Hilal Koylu](https://www.youtube.com/watch?v=0uOGHiPxLMU&t=6s) (⏱️ 00:06-20:19)
-- [Inan Demirel](https://www.youtube.com/watch?v=NkdJ0B0rWuI&t=23s) (⏱️ 00:23-37:30)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=wRguKAormnA&t=25s) (⏱️ 00:25-20:52)
-- [Rusen Cakir](https://www.youtube.com/watch?v=795MTchBXnk&t=5s) (⏱️ 00:05-03:44)
-- [Murat Yetkin](https://www.youtube.com/watch?v=tQdxoJFHFNo) (⏱️ 00:00-02:45)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=GE0QjvfivC8) (⏱️ 00:00-20:42)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=Gi1XB9VpDNg&t=2401s) (⏱️ 40:01-49:33)
+- [Hilal Koylu](https://www.youtube.com/watch?v=LU9S-5s_pBE&t=1s) (⏱️ 00:01-03:44)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=xbNyzsjrpQY&t=20s) (⏱️ 00:20-20:00)
 
 ---
 
-## 2. İşçi Hak Arayışında Yasak ve Tepki
+## 2. Çerçeve yasa tartışmaları büyüyor
 
-- Doruk Madencilik işçileri maaş ve tazminatlarını alamadıklarını söyledi.
-- E Gümüş işçileri de Ankara’ya gelerek alacaklarını talep etti.
-- Madenciler bakanlık önünde eylem yapmak isterken polis müdahale etti.
-- Yaklaşık 100 madenci gözaltına alındı, sendikalar karara tepki gösterdi.
-- Ankara Valiliği kent genelinde 15 günlük eylem yasağı açıkladı.
-- Yasak sonrası madenciler metroya alınmadı, farklı duraklarda yürüdü.
-- Siyasetçiler Erkan Baş, Gökay Çakır ve Mahmut Tanal tepki gösterdi.
-- Madenciler yeraltında çalıştıklarını, haklarını almak istediklerini vurguladı.
-- Zonguldak’ta Cumhurbaşkanı posterini indiren vatandaş tutuklandı, tartışma büyüdü.
-- Dilovası’nda kozmetik fabrikası yangınında 7 işçi öldü, ihmal iddiaları var.
+- DEM Eş Başkanı Hatimoğulları’nın İsrail-Filistin sözleri sert tepki topladı.
+- AK Parti Sözcüsü Ömer Çelik, sözlerin geri çekilmesini istedi.
+- DEM Parti, açıklamaların bağlamından koparıldığını savunarak eleştirileri reddetti.
+- Mecliste çerçeve yasa, Terörsüz Türkiye sürecinin ana başlığı oldu.
+- MHP lideri Bahçeli, yasanın hızla çıkarılması gerektiğini vurguladı.
+- Yasanın 6 ve 7’nci maddeleri entegrasyon kaygılarını artırdı.
+- Hukukçular, hızlı hazırlanan teklifin hukuki boşluklar taşıdığını belirtti.
+- CHP içindeki yeni parti tartışmaları oylama sonrası yeniden alevlendi.
+- Özgür Özel oylamada yalnız kaldı, liderlik tartışmaları büyüdü.
+- Ekimde Meclis dönüşü, teşkilatlanma, bağış kampanyası gündemde olacak.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilal Koylu](https://www.youtube.com/watch?v=BwWlCVV7Gw0&t=32s) (⏱️ 00:32-06:36)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=wRguKAormnA&t=1260s) (⏱️ 21:00-24:00)
-- [Onlar TV](https://www.youtube.com/watch?v=vHnHZND5gqs) (⏱️ 00:00-49:18)
+- [Hilal Koylu](https://www.youtube.com/watch?v=47_GveP8Yp8&t=932s) (⏱️ 15:32-19:52)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=Gi1XB9VpDNg&t=25s) (⏱️ 00:25-23:28)
+- [Rusen Cakir](https://www.youtube.com/watch?v=U-uE0iHPV3w&t=16s) (⏱️ 00:16-04:36)
 
 ---
 
-## 3. Gazeteci Dürdane Kırçuvalı hayatını kaybetti
+## 3. Siyaset, medya ve insan hakları
 
-- Gazeteci Dürdane Kocaoğlu Kırçuvalı 61 yaşında hayatını kaybetti.
-- Kırçuvalı, tatildeyken deniz sonrası ani kalp krizi geçirdi.
-- Olayın Yunanistan’da yaşandığı ve ölümün aniden gerçekleştiği belirtildi.
-- Kırçuvalı Halk TV’de istihbarat şefi olarak görev yapıyordu.
-- Daha önce Anka Haber Ajansı ve Ekonomik Panorama’da çalışmıştı.
-- Meslektaşları onu çalışkan ve çevresine pozitif enerji veren biri anlattı.
-- Gazetecilik camiası kaybı erken ve çok üzücü olarak değerlendirdi.
-- Eşi gazeteci Kerem Kırçuval, kızları ise Almanya’da eğitim görüyor.
-- Otopsinin Yunanistan’da yapılacağı, cenazenin Türkiye’ye getirileceği aktarıldı.
-- Son günlerde başka kültür-sanat kayıpları da üzüntü yarattı. 
+- İktidar cephesinde Erdoğan sonrası tartışmaları farklı isimlerle sürüyor.
+- Bazı çevreler Berat Albayrak ve Bilal Erdoğan’ı gündeme taşıyor.
+- RTÜK, Esra Erol programı nedeniyle ATV’ye 8 milyon ceza verdi.
+- Turkuaz Medya ve yakın yayın organları karara sert tepki gösterdi.
+- Yorumcular RTÜK uygulamalarında çelişkiler ve standart sorunu olduğunu savundu.
+- Tartışma iktidar içi gruplaşmaları ve medya-hukuk ilişkisini yeniden gündem yaptı.
+- Gazete tirajları düşüyor; Hürriyet ve Sabah satışları azalıyor.
+- Ertuğrul Özkök’ün Hürriyet yazısı New York Times’la karşılaştırıldı.
+- Ahbap soruşturması sürüyor; oyuncu Zeynep Abdullah ifadeye çağrıldı.
+- Numan Kurtulmuş, Tunus’taki tutuklu siyasetçi için insan hakları vurguladı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Cigdem Toker](https://www.youtube.com/watch?v=3yfjhEwGTA0&t=4s) (⏱️ 00:04-02:21)
-- [Inan Demirel](https://www.youtube.com/watch?v=NkdJ0B0rWuI&t=2449s) (⏱️ 40:49-42:18)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=9ndmNyFe0Ps&t=3922s) (⏱️ 65:22-66:22)
+- [Hilal Koylu](https://www.youtube.com/watch?v=47_GveP8Yp8&t=481s) (⏱️ 08:01-15:31)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=Gi1XB9VpDNg&t=3188s) (⏱️ 53:08-56:01)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=xbNyzsjrpQY&t=1740s) (⏱️ 29:00-31:00)
 
 ---
 
-## 4. UltrAslan Lideri Şirin’e Soruşturma
+## 4. Ahbap Derneği Parası Soruşturması Derinleşiyor
 
-- Galatasaray taraftar grubu UltrAslan lideri Sebahattin Şirin hakkında soruşturma başlatıldı.
-- Soruşturmada Şirin’in sosyal medya paylaşımları ve bazı ifadeleri incelendi.
-- Şirin’in ifadesi alındı, dosyada farklı iddialar da değerlendiriliyor.
-- MASAK raporu, Şirin ve oğlunda yaklaşık 51 milyon TL işlem gösterdi.
-- Polis aramasında evden para, döviz ve altın bulunduğu bildirildi.
-- Toplam değerin yaklaşık 65 milyon lira olduğu iddia edildi.
-- Evde ruhsatsız tabanca bulunduğu, tutanaklara geçtiği aktarıldı.
-- Şirin, parayı yıllar içinde biriktirdiğini savunduğu belirtiliyor.
-- Kara borsa bilet ve organizasyon gelirleri üzerinden usulsüzlük iddiaları yer aldı.
-- Şüpheli adli kontrolle serbest bırakıldı, uygulama kamuoyunda tartışıldı.
+- Haluk Levent ve Ahbap Derneği hakkında soruşturma sürüyor.
+- Dernek kasasında 44 milyon TL bulunduğu iddia edildi.
+- Paranın Gazze için dövize çevrildiği öne sürüldü.
+- Havale ile döviz bürosuna gönderilip dolar alındığı belirtildi.
+- Doların altına çevrilip banka kasasına konduğu iddia edildi.
+- 6 Ağustos’ta kasa açılınca altın çıkmadığı aktarıldı.
+- Kasadan altın yerine ilaç, vitamin ve kitaplar çıktığı söylendi.
+- MASAK raporu ve denetim eksikliği tartışmaların odağında yer aldı.
+- Bazı usulsüzlükler ve kişisel zaaflar Levent tarafından kabul edildi.
+- Mali akış, olası kayıplar ve aktarımlar için soruşturma derinleşiyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilal Koylu](https://www.youtube.com/watch?v=BwWlCVV7Gw0&t=1759s) (⏱️ 29:19-35:55)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=wRguKAormnA&t=1440s) (⏱️ 24:00-27:00)
+- [Hilal Koylu](https://www.youtube.com/watch?v=47_GveP8Yp8&t=1556s) (⏱️ 25:56-29:06)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=Gi1XB9VpDNg&t=1409s) (⏱️ 23:29-39:59)
 
 ---
 
-## 5. Muhalefette ittifak görüşmeleri hızlandı
+## 5. Madenciler Ücret Hakları İçin Eylemde
 
-- Küçük ve orta partiler arasında ittifak trafiği hızlandı.
-- Saadet Partisi, Yeniden Refah, DEVA ve diğerleri yakınlaşıyor.
-- Saadet Partisi ile Yeniden Refah arasında doğrudan görüşmeler yapıldı.
-- Saadetli Mahmut Arıkan görüşmeyi olumlu ve yapıcı değerlendirdi.
-- Arıkan, süreç için güzel bir birliktelik ifadesini kullandı.
-- İttifakın ayrıntılarının daha sonra kamuoyuyla paylaşılacağı belirtildi.
-- Mecliste Yeni Yol grubu tartışmaları ve dinamikleri öne çıktı.
-- Grup kurma ve meclis aritmetiği etkileri özellikle vurgulandı.
-- Bu temasların seçim ittifakına dönüşme ihtimali gündeme geldi.
-- Aday belirleme ve ortak liste ihtimalleri de tartışılıyor.
+- Ankara’da madenciler üç gündür maaş ve haklarını istiyor.
+- Eylemde, SS Holding bağlı Eti Gümüş madencileri öne çıkıyor.
+- Doruk Madencilik çalışanları da ücret ve özlük hakları talep ediyor.
+- İşçiler, haklarının uzun süredir ödenmediğini ve mağdur olduklarını söylüyor.
+- Bazı işçiler sokakta yatmak zorunda kaldıklarını anlatıyor.
+- Müdahale sırasında su sıkılması gibi muamele iddiaları gündeme geldi.
+- Ankara Valiliği kent genelinde 15 gün eylem yasağı getirdi.
+- Sendika uzmanı Başaran Aksu, seslerinin duyulması gerektiğini vurguladı.
+- İşçiler sorunlarda yanlış yönetim, mali sıkıntı ve faizleri işaret ediyor.
+- Devlet yetkililerinden müdahale ve çözüm için somut adım bekleniyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=9ndmNyFe0Ps&t=3449s) (⏱️ 57:29-61:12)
-- [Hilal Koylu](https://www.youtube.com/watch?v=BwWlCVV7Gw0&t=2156s) (⏱️ 35:56-36:16)
+- [Hilal Koylu](https://www.youtube.com/watch?v=47_GveP8Yp8&t=298s) (⏱️ 04:58-07:56)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=xbNyzsjrpQY&t=2460s) (⏱️ 41:00-47:12)
 
 ---
 
-## 6. Kurtulmuş yasayı ve anayasa sürecini savundu
+## 6. Süleymancılar Cemaatinin Yapısı ve Faaliyetleri
 
-- TBMM Başkanı Numan Kurtulmuş, yasaya dair eleştirileri reddetti.
-- Kurtulmuş, düzenlemenin af yasası olmadığını özellikle vurguladı.
-- Af yasasının suçların topluca affı anlamına geldiğini hatırlattı.
-- Yasada milli egemenliği, birlik ve bütünlüğü zedeleyen hüküm yok dedi.
-- Cumhurbaşkanı ve diğer aktörlerin çabalarına teşekkür ederek konuştu.
-- Kulislerde hareketlilik sürdü, tartışmanın devam edeceği belirtildi.
-- Kurtulmuş, AA editör masasında yeni anayasa gündemini değerlendirdi.
-- Yeni anayasa tartışmasının başladığını, siyasi iklimin uygun olduğunu söyledi.
-- Yeni anayasayı boynumuzun borcu diye niteleyerek çağrı yaptı.
-- Sunucu, mevcut anayasanın uygulanması ve hakların korunmasını vurguladı.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Hilal Koylu](https://www.youtube.com/watch?v=0uOGHiPxLMU&t=1224s) (⏱️ 20:24-22:08)
-- [Cigdem Toker](https://www.youtube.com/watch?v=3yfjhEwGTA0&t=172s) (⏱️ 02:52-08:27)
-
----
-
-## 7. Trump’ın Uçuşunda Güvenlik Alarmı
-
-- Trump'ın Ankara'dan ayrılışı sırasında güvenlik tehdidi ihbarı yapıldı.
-- Trump, bindiği eski Air Force One'dan indirildiğini doğruladı.
-- Gizlice başka bir uçağa geçirildiği ve farklı rotayla ayrıldığı belirtildi.
-- New York Times, NATO zirvesi çıkışında benzer önlem iddiası yazdı.
-- İstihbarat kaynakları İran bağlantılı olası saldırı planından söz etti.
-- Trump'ın etkinlikten arka kapıdan çıkarıldığı iddia edildi.
-- Bazı iddialar omuzdan atılan füze taşıyan şüpheli yakalandı diyor.
-- Uçakta kalan bakanlar, bürokratlar ve gazetecilerin riske atıldığı eleştirildi.
-- Olayın Washington Post kaynaklı olduğu, Gizli Servis'in uyardığı belirtildi.
-- Sunucu, bazı ayrıntılara şüpheyle yaklaşıp dezenformasyon uyarısı yaptı.
+- Süleymancılar, Nakşibendi geleneği içinde bir cemaat olarak biliniyor.
+- Cemaatin kurucusu Süleyman Hilmi Tunahan olarak kabul ediliyor genel.
+- Yapı kapalı; televizyon kanalı veya yaygın açık medya yok.
+- Türkiye’de eğitim, yurt, sağlık ve yayıncılık alanlarında faaliyet yürütüyor.
+- Yurt sayısı kaynaklara göre 1000 ile 3000 üzerinde.
+- Özel okul ağları var; Isabet 44, Süleymaniye 11 şube.
+- Üye ve sempatizan sayısının milyonlara ulaştığı iddia ediliyor.
+- Güçlü oldukları bölgeler Akdeniz ve Toroslar çevresi diye anlatılıyor.
+- Yurt dışında 100’den fazla ülkede, büyük yatırımlar yaptıkları belirtiliyor.
+- Liderlik Kemal Kacar, Olgun ve 2016’dan beri Alihan Kuriş.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Nevsin Mengu](https://www.youtube.com/watch?v=wRguKAormnA&t=2220s) (⏱️ 37:00-42:02)
-- [Inan Demirel](https://www.youtube.com/watch?v=NkdJ0B0rWuI&t=2253s) (⏱️ 37:33-40:43)
+- [Hilal Koylu](https://www.youtube.com/watch?v=LU9S-5s_pBE&t=392s) (⏱️ 06:32-12:32)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=xfshoqaoiPY) (⏱️ 00:00-03:34)
 
 ---
 
