@@ -1,128 +1,87 @@
 # Bugün Ne Oldu?
 
-*15 August 2026 tarihli günlük haber raporu - 6 haber birleştirildi*
+*16 August 2026 tarihli günlük haber raporu - 4 haber birleştirildi*
 
-## 1. Süleymancılar Operasyonu Gündemi Sarsıyor
+## 1. Süleymancılar Operasyonunda Alihan Kuriş Tutuklandı
 
-- Süleymancılar grubuna yönelik geniş kapsamlı operasyon Türkiye gündemini belirledi.
-- Hareketin kökeni 1924’e dayanıyor, uzun süre kapalı yapıydı.
-- Devlet içinde Süleymancılardan yetişmiş bürokratlar ve siyasetçiler bulundu.
-- Operasyonun Erdoğan döneminde yapılması, siyasi etkileri artırdı.
-- Alihan Kuriş’in gözaltı ve saklanma iddiaları kamuoyuna yansıdı.
-- Yetkililer soruşturmayı organize suç ve mali işlemler diye tanımladı.
-- Para balyaları ve MASAK’la yurt dışı para iddiaları konuşuldu.
-- Dini hizmetler ile şirket ağlarının iç içe olduğu vurgulandı.
-- Kayyum ihtimali ve itibarsızlaştırma haberleri tartışmayı büyüttü.
-- Tarikatların siyaset ve uluslararası bağlantıları için denetim çağrısı yapıldı.
+- Süleymancılar lideri Alihan Kuriş Ankara merkezli soruşturmada tutuklandı.
+- Operasyon 17 ilde 123 adrese yapıldı, çok sayıda kişi gözaltına alındı.
+- Savcılık suç örgütü, dolandırıcılık, aklama ve vergi ihlali suçlamaları yöneltti.
+- Aramalarda ruhsatsız silahlar, balya euro görüntüleri ve döviz ele geçirildi.
+- Kuriş ailesine ait 191 gayrimenkul ve milyonluk çekler tespit edildi.
+- İddialara göre bağışlar derneklerden şirketlere, ardından aileye aktarıldı.
+- Soruşturmada şifreli haberleşme ve kayıt dışı para transferi iddiaları bulunuyor.
+- Bazı çocukların turist vizesiyle yurtlarda tutulduğu iddiası da yer aldı.
+- Cemaat içi tasfiye, liderlik tartışmaları ve siyasetle ilişkiler yeniden gündemde.
+- Uzmanlar operasyonun dini faaliyetten çok mali yapıyı hedeflediğini söylüyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Nevsin Mengu](https://www.youtube.com/watch?v=_-Zfj8eNjyI&t=3240s) (⏱️ 54:00-61:00)
-- [Serdar Akinan](https://www.youtube.com/watch?v=h6uqvb-ey9k&t=525s) (⏱️ 08:45-13:40)
-- [Inan Demirel](https://www.youtube.com/watch?v=NSN1JFO9A3M&t=2543s) (⏱️ 42:23-56:39)
-- [Rusen Cakir](https://www.youtube.com/watch?v=18Z2PZXCFUM&t=3s) (⏱️ 00:03-13:48)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=RGX0hr5qMT0&t=12s) (⏱️ 00:12-25:44)
+- [Hilal Koylu](https://www.youtube.com/watch?v=euBY9eUyZP0&t=28s) (⏱️ 00:28-25:18)
+- [Inan Demirel](https://www.youtube.com/watch?v=RNWkI0D2nxk&t=1s) (⏱️ 00:01-11:51)
+- [Rusen Cakir](https://www.youtube.com/watch?v=jvpqt2rA574&t=4s) (⏱️ 00:04-12:32)
 
 ---
 
-## 2. AK Parti’ye geçişler Meclisi etkiliyor
+## 2. Suriye dengeleri Kürt sürecini etkiliyor
 
-- İYİ Parti grubu 28 vekille blok halde hayır oyu verdi.
-- İYİ Parti ve bazı partilerden milletvekilleri AK Parti’ye geçti.
-- AK Parti’ye katılanlar arasında Ömer Karakaş ve Mehmet Mustafa Gürban var.
-- Mustafa Bilici’nin geçişi de rozet takılan isimler arasında.
-- Geçişler sonrası AK Parti’nin Meclis sandalye sayısı 280 oldu.
-- Transferlerin Meclis aritmetiğini ve siyaset dengelerini etkileyebileceği konuşuluyor.
-- Grup kurma ihtimali, daha fazla söz ve komisyon hakkı doğurabilir.
-- Belediye başkanları ve vekil geçişleri iktidar stratejisi açısından önemli görüldü.
-- Muhalefetten transferler, siyasi kriterler ve etik tartışmaları tetikledi.
-- Bazı geçişler son dakika sürprizi oldu, hazırlıksız yakalananlar konuşuldu.
+- Türkiye’de 42 yıllık çatışmanın tarihi ve kırılmaları tartışıldı.
+- 1993 Bingöl katliamı süreci kesti, güveni derinden sarstı.
+- 1999, 2004 ve 2013 dönemleri kritik eşikler olarak hatırlatıldı.
+- Hendek savaşları barış umutlarını zayıflattı, iç dinamikleri sertleştirdi.
+- Çatışma nedeniyle demokratik haklar ertelendi, siyasete alan daraldı.
+- PKK’nın demokratikleşme getireceğine dair kuşkular tekrar dile getirildi.
+- Silahlar bırakılırsa sivil siyaset için yeni imkanlar doğabilir.
+- Ekim 2023 Hamas-İsrail savaşı bölgesel konjonktürü yeniden şekillendirdi.
+- Suriye’de SDG’nin Şam’la entegrasyonu ve feshi iddia edildi.
+- Yaklaşık 10 bin savaşçının Suriye ordusuna katıldığı belirtildi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilal Koylu](https://www.youtube.com/watch?v=6tPESXWgyB8&t=911s) (⏱️ 15:11-17:47)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=_-Zfj8eNjyI&t=1393s) (⏱️ 23:13-37:00)
-- [Inan Demirel](https://www.youtube.com/watch?v=NSN1JFO9A3M&t=26s) (⏱️ 00:26-17:14)
+- [Rusen Cakir](https://www.youtube.com/watch?v=KfJXL_teyZ8&t=120s) (⏱️ 02:00-04:40)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=RGX0hr5qMT0&t=1559s) (⏱️ 25:59-28:19)
+- [Inan Demirel](https://www.youtube.com/watch?v=RNWkI0D2nxk&t=1880s) (⏱️ 31:20-35:08)
 
 ---
 
-## 3. AK Parti 25. yılda yeni anlatı
+## 3. Siyaset Gündemi Anayasa Eksenine Kayıyor
 
-- AK Parti, 25. kuruluş yılı töreniyle yeni dönemi vurguladı.
-- Tören teması Türkiye yüzyılı olarak belirlendi, geniş katılım hedeflendi.
-- Programda senfoni orkestrası, Mehter takımı ve 25 eser yer alacak.
-- Kuruluş gününde doğan 25 genç, sembolik olarak törene davet edildi.
-- Erdoğan konuşmasında terörsüz Türkiye mesajını ve birlik hedefini öne çıkardı.
-- Diyarbakır vurgusu yapıldı, farklı dillerle ortak değerler anlatısı kuruldu.
-- Huzur ortamının turizm ve toplumsal refahı artıracağı savunuldu.
-- Erdoğan 2071 hedefiyle uzun vadeli vizyon ve planlardan bahsetti.
-- Konuşma, yeni siyasal anlatı ve yeni anayasa hedefiyle ilişkilendirildi.
-- Mecliste 400 sandalye hedefi ve transfer stratejileri tartışıldı.
+- Yeni anayasa tartışmaları Meclis açılınca yeniden hız kazanabilir.
+- Akit gazetesi yeni anayasa sürecini gündeme taşıyan yayınlar yaptı.
+- Değişikliklerin Erdoğan’ın yeniden adaylığına zemin hazırlayabileceği öne sürüldü.
+- Yorumlara göre Erdoğan’ın emeklilik planı yok, siyasette kalacak.
+- Siyasetin önümüzdeki dönemde anayasa ekseninde şekillenebileceği vurgulandı.
+- Erdoğan El Cezire röportajında AB üyeliğini öncelik görmediğini söyledi.
+- AB konusunda kaybedenin Avrupa olacağını savundu, eleştiriler tartışıldı.
+- F-35 için Trump’ın söz verdiğini, çözüm beklendiğini belirtti.
+- Şam’a gidip Emevi Camii’nde namaz kılabileceğini ifade etti.
+- 31 Mart yerel seçimleri sonrası belediye değişimleri ve parti geçişleri değerlendirildi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Inan Demirel](https://www.youtube.com/watch?v=NSN1JFO9A3M&t=1037s) (⏱️ 17:17-35:32)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=_-Zfj8eNjyI&t=70s) (⏱️ 01:10-07:50)
-- [Hilal Koylu](https://www.youtube.com/watch?v=6tPESXWgyB8&t=549s) (⏱️ 09:09-11:06)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=RGX0hr5qMT0&t=1702s) (⏱️ 28:22-30:48)
+- [Inan Demirel](https://www.youtube.com/watch?v=RNWkI0D2nxk&t=2108s) (⏱️ 35:08-38:45)
 
 ---
 
-## 4. Anketler ve seçmen algısı tartışması
+## 4. Edirne Gündeminde Siyaset ve İddialar
 
-- Seçim sürecinde çok sayıda anket yayınlanıyor, sonuçlar sık değişiyor.
-- Anketlerin seçim öncesi algı oluşturmak için kullanıldığı iddia ediliyor.
-- Bazı anket şirketleri ve yöntemlerine dair ciddi şüpheler dile getiriliyor.
-- Erken dönem anketlerinin güvenilirliği düşük olabilir, zamanla tablo değişebilir.
-- Anketler partiler arası farkları abartabilir, kısa sürede tersine dönebilir.
-- Kılıçdaroğlu bazı kesimlerde hayal kırıklığı yaratıyor, eleştiriler artıyor.
-- Eskiden güçlü destek veren bölgelerde bile Kılıçdaroğlu’na sert tepkiler görülüyor.
-- Vatandaşların beklentileri yükseldi, karşılanmayınca seçmen güveni zayıfladı.
-- CHP’nin anketlerde yüksek görünmesi tek başına güvenilir sayılmıyor.
-- İstanbul Araştırma, 2023 AK Parti seçmeninin %35’inin uzaklaştığını buldu.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Inan Demirel](https://www.youtube.com/watch?v=NSN1JFO9A3M&t=2133s) (⏱️ 35:33-40:18)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=_-Zfj8eNjyI&t=470s) (⏱️ 07:50-13:00)
-
----
-
-## 5. Cezaevi düzenlemesi kapsamı tartışılıyor
-
-- Cezaevi düzenlemesi kamuoyunda af taslağı olarak tartışılıyor genişçe.
-- İlk etapta 3.800-3.900 civarı mahkumun tahliyesi öngörülüyor.
-- Düzenlemenin toplamda yaklaşık 125.000 dosyayı etkileyeceği belirtiliyor.
-- Ağırlaştırılmış müebbet ve cinayet gibi suçlar ilk etapta dışarıda.
-- İlk aşamada yararlanamayacak yaklaşık 900 ağır hükümlü olduğu söyleniyor.
-- Uygulamanın aşama aşama ilerleyeceği ve kapsamın genişleyebileceği vurgulanıyor.
-- Tuncer Bakırhan Yeni Parti’ye hayal kırıklığını kamuoyuna açıkladı.
-- Bakırhan Yeni Parti’nin Kürt seçmenden oy aldığı iddiasını yineledi.
-- Düzenlemenin adalet ve demokratiklik yönü üzerinden eleştiriler dile getirildi.
-- Sendikalar işçi hakları ve Filistin gündemine dair eleştiriler aktarıldı.
+- CHP Edirne milletvekili Ahmet Baran Yazgan darp edildiğini açıkladı.
+- Darp anlarının cep telefonu kamerasıyla kaydedilip servis edildiği bildirildi.
+- CHP, Yazgan'ı tedbirli olarak disiplin kuruluna sevk etti.
+- Partide ihraç sürecinin işletilmesinin beklendiği ifade ediliyor.
+- Olayla ilgili tanık ifadeleri çelişkili, farklı anlatımlar kamuoyuna yansıdı.
+- Yazgan, içkisine ilaç atılmış olabileceğini, savunamadığını söyledi.
+- Yazgan, olayın CHP'den koparma amaçlı kumpas olduğunu savundu.
+- Dokunulmazlığının kaldırılmasını isteyebileceğini, gerekirse istifa edeceğini belirtti.
+- Diğer yandan Demirtaş'ı Sancar ve Buldan Edirne Cezaevi'nde ziyaret etti.
+- Demirtaş, terörsüz Türkiye sürecine destek verenlere teşekkür etti.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilal Koylu](https://www.youtube.com/watch?v=6tPESXWgyB8&t=666s) (⏱️ 11:06-15:11)
-- [Serdar Akinan](https://www.youtube.com/watch?v=h6uqvb-ey9k&t=821s) (⏱️ 13:41-19:20)
-
----
-
-## 6. Siyasette yeni parti ve sistem tartışması
-
-- Ekrem İmamoğlu Meclis’te barıştan yana durduğunu açıkladı.
-- İmamoğlu iktidarı ve muhalefeti sert sözlerle eleştirdi.
-- AK Parti döneminin terörü bitirmeyi engellediğini öne sürdü.
-- Hak ihlalleri, tutuklamalar ve baskılar konusunda uyarılar yaptı.
-- Hukuk, demokrasi, eşitlik vurgusuyla mücadeleyi sürdüreceklerini söyledi.
-- Bazı soruşturmaların uydurma olduğunu iddia ederek tepki gösterdi.
-- Yeni Parti çağrısını yineledi ve halka katılım çağrısı yaptı.
-- İmamoğlu, Kemal Kılıçdaroğlu ve parti yönetimini de eleştirdi.
-- Bülent Arınç, BBC Türkçe’de başkanlık sistemini eleştirdi.
-- Arınç, güncelleme isterken Erdoğan’a desteğini koruduğunu söyledi.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Hilal Koylu](https://www.youtube.com/watch?v=6tPESXWgyB8&t=72s) (⏱️ 01:12-09:07)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=_-Zfj8eNjyI&t=780s) (⏱️ 13:00-23:13)
+- [Inan Demirel](https://www.youtube.com/watch?v=RNWkI0D2nxk&t=1078s) (⏱️ 17:58-25:35)
+- [Hilal Koylu](https://www.youtube.com/watch?v=euBY9eUyZP0&t=1521s) (⏱️ 25:21-26:49)
 
 ---
 
