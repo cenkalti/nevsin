@@ -1,87 +1,131 @@
 # Bugün Ne Oldu?
 
-*16 August 2026 tarihli günlük haber raporu - 4 haber birleştirildi*
+*17 August 2026 tarihli günlük haber raporu - 6 haber birleştirildi*
 
-## 1. Süleymancılar Operasyonunda Alihan Kuriş Tutuklandı
+## 1. Süleymancılar Operasyonu ve Alihan Kuriş Tutuklandı
 
-- Süleymancılar lideri Alihan Kuriş Ankara merkezli soruşturmada tutuklandı.
-- Operasyon 17 ilde 123 adrese yapıldı, çok sayıda kişi gözaltına alındı.
-- Savcılık suç örgütü, dolandırıcılık, aklama ve vergi ihlali suçlamaları yöneltti.
-- Aramalarda ruhsatsız silahlar, balya euro görüntüleri ve döviz ele geçirildi.
-- Kuriş ailesine ait 191 gayrimenkul ve milyonluk çekler tespit edildi.
-- İddialara göre bağışlar derneklerden şirketlere, ardından aileye aktarıldı.
-- Soruşturmada şifreli haberleşme ve kayıt dışı para transferi iddiaları bulunuyor.
-- Bazı çocukların turist vizesiyle yurtlarda tutulduğu iddiası da yer aldı.
-- Cemaat içi tasfiye, liderlik tartışmaları ve siyasetle ilişkiler yeniden gündemde.
-- Uzmanlar operasyonun dini faaliyetten çok mali yapıyı hedeflediğini söylüyor.
+- Süleymancılar yapılanmasına yönelik 17 ilde eş zamanlı operasyon düzenlendi.
+- Ankara Cumhuriyet Başsavcılığı soruşturmayı mali suç iddialarıyla yürütüyor.
+- Alihan Kuriş gözaltına alındı, ardından tutuklanarak cezaevine gönderildi.
+- Toplam 49 kişi hakkında karar çıktı, 32 kişi tutuklandı.
+- Aramalarda 200 kilo külçe altın, döviz ve silahlar bulundu.
+- MASAK raporları, kaynağı belirsiz yüksek para trafiğini işaret etti.
+- 33 şirket ve birçok mal varlığına kayyım atandı.
+- Bakanlar, hedefin dini gruplar değil suç faaliyetleri olduğunu söyledi.
+- Almanya Köln merkez binası ve yurt dışı yatırımları tartışma yarattı.
+- Operasyonun siyasi boyutu ve diğer tarikatlara yayılma ihtimali konuşuluyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=RGX0hr5qMT0&t=12s) (⏱️ 00:12-25:44)
-- [Hilal Koylu](https://www.youtube.com/watch?v=euBY9eUyZP0&t=28s) (⏱️ 00:28-25:18)
-- [Inan Demirel](https://www.youtube.com/watch?v=RNWkI0D2nxk&t=1s) (⏱️ 00:01-11:51)
-- [Rusen Cakir](https://www.youtube.com/watch?v=jvpqt2rA574&t=4s) (⏱️ 00:04-12:32)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=CtifuZ6-scY&t=17s) (⏱️ 00:17-25:50)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=qPCjSLDxTdI&t=30s) (⏱️ 00:30-20:00)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=ljB-WN4-7Og&t=24s) (⏱️ 00:24-04:24)
+- [Rusen Cakir](https://www.youtube.com/watch?v=JuqaxsOGIqc&t=372s) (⏱️ 06:12-22:08)
+- [Hilal Koylu](https://www.youtube.com/watch?v=fAxIODOhlNs&t=4s) (⏱️ 00:04-04:40)
 
 ---
 
-## 2. Suriye dengeleri Kürt sürecini etkiliyor
+## 2. Öcalan süreci yeniden hareketleniyor
 
-- Türkiye’de 42 yıllık çatışmanın tarihi ve kırılmaları tartışıldı.
-- 1993 Bingöl katliamı süreci kesti, güveni derinden sarstı.
-- 1999, 2004 ve 2013 dönemleri kritik eşikler olarak hatırlatıldı.
-- Hendek savaşları barış umutlarını zayıflattı, iç dinamikleri sertleştirdi.
-- Çatışma nedeniyle demokratik haklar ertelendi, siyasete alan daraldı.
-- PKK’nın demokratikleşme getireceğine dair kuşkular tekrar dile getirildi.
-- Silahlar bırakılırsa sivil siyaset için yeni imkanlar doğabilir.
-- Ekim 2023 Hamas-İsrail savaşı bölgesel konjonktürü yeniden şekillendirdi.
-- Suriye’de SDG’nin Şam’la entegrasyonu ve feshi iddia edildi.
-- Yaklaşık 10 bin savaşçının Suriye ordusuna katıldığı belirtildi.
+- İmralı heyeti Edirne Cezaevi'nde Selahattin Demirtaş'ı ziyaret etti.
+- Heyet, yasanın doğru uygulanması konusunda umutlu olduklarını söyledi.
+- Ziyaret sonrası Demirtaş ve diğer isimler için tahliye ihtimali konuşuldu.
+- Öcalan süreciyle PKK'nın silah bırakması ve feshi yeniden gündemde.
+- Çerçeve yasanın geçtiği, sürecin yakında başlayacağı ifade ediliyor.
+- MGK kararının takvimi etkileyebileceği, Eylül-Ekim olasılığı konuşuluyor.
+- Altı aylık başvuru süresi ve sonrası operasyon riski tartışılıyor.
+- İmralı'nın merkezleşeceği, ziyaretlere gazeteciler ve akademisyenler katılabilir.
+- Süreç kırılgan, radikal unsurlar silah bırakmayı reddedebilir uyarısı yapıldı.
+- Toplumda Öcalan'la yürütülen sürece karşı güvensizlik sürüyor denildi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=KfJXL_teyZ8&t=120s) (⏱️ 02:00-04:40)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=RGX0hr5qMT0&t=1559s) (⏱️ 25:59-28:19)
-- [Inan Demirel](https://www.youtube.com/watch?v=RNWkI0D2nxk&t=1880s) (⏱️ 31:20-35:08)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=CtifuZ6-scY&t=2141s) (⏱️ 35:41-36:15)
+- [Rusen Cakir](https://www.youtube.com/watch?v=JuqaxsOGIqc&t=1329s) (⏱️ 22:09-33:42)
+- [Serdar Akinan](https://www.youtube.com/watch?v=aeyIDcns8Hs&t=321s) (⏱️ 05:21-09:04)
 
 ---
 
-## 3. Siyaset Gündemi Anayasa Eksenine Kayıyor
+## 3. Siyaset ve güvenlikte gerilim artıyor
 
-- Yeni anayasa tartışmaları Meclis açılınca yeniden hız kazanabilir.
-- Akit gazetesi yeni anayasa sürecini gündeme taşıyan yayınlar yaptı.
-- Değişikliklerin Erdoğan’ın yeniden adaylığına zemin hazırlayabileceği öne sürüldü.
-- Yorumlara göre Erdoğan’ın emeklilik planı yok, siyasette kalacak.
-- Siyasetin önümüzdeki dönemde anayasa ekseninde şekillenebileceği vurgulandı.
-- Erdoğan El Cezire röportajında AB üyeliğini öncelik görmediğini söyledi.
-- AB konusunda kaybedenin Avrupa olacağını savundu, eleştiriler tartışıldı.
-- F-35 için Trump’ın söz verdiğini, çözüm beklendiğini belirtti.
-- Şam’a gidip Emevi Camii’nde namaz kılabileceğini ifade etti.
-- 31 Mart yerel seçimleri sonrası belediye değişimleri ve parti geçişleri değerlendirildi.
+- Özgür Özel Hacı Bektaş’ta mitinge katıldı, birlik çağrısı yaptı.
+- Özel hakkında fezlekeler gündemde, dokunulmazlığın kaldırılması tartışılıyor.
+- Sera Kadıgil ve isimler, olası tutuklanma ihtimalini değerlendirdi.
+- Muharrem Demirkale adlı subayın dosyası ve bağlantıları yeniden gündeme geldi.
+- Bitlis görev yılları, Zekeria Öz ve JİTEM iddiaları tartışıldı.
+- İstanbul Jandarma İstihbaratı dinlemeleri ve kayıt çelişkileri öne sürüldü.
+- İfadelerin değiştirildiği, tanıkların baskı gördüğü iddia edildi.
+- 15 Temmuz sonrası FETÖ suçlamalarının araçsallaşması üzerine soru işaretleri dile getirildi.
+- Cemaatlerin kapalı yapıları, tarihsel örneklerle güvenlik riski olarak anlatıldı.
+- Menderes’te CHP içi anlaşmazlık, depremzedelerin beklentileri ve geçim zorluğu aktarıldı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=RGX0hr5qMT0&t=1702s) (⏱️ 28:22-30:48)
-- [Inan Demirel](https://www.youtube.com/watch?v=RNWkI0D2nxk&t=2108s) (⏱️ 35:08-38:45)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=CtifuZ6-scY&t=1896s) (⏱️ 31:36-33:16)
+- [Serdar Akinan](https://www.youtube.com/watch?v=aeyIDcns8Hs&t=730s) (⏱️ 12:10-17:55)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=qPCjSLDxTdI&t=1590s) (⏱️ 26:30-32:00)
 
 ---
 
-## 4. Edirne Gündeminde Siyaset ve İddialar
+## 4. İBB Davasında İkinci Celse Başladı
 
-- CHP Edirne milletvekili Ahmet Baran Yazgan darp edildiğini açıkladı.
-- Darp anlarının cep telefonu kamerasıyla kaydedilip servis edildiği bildirildi.
-- CHP, Yazgan'ı tedbirli olarak disiplin kuruluna sevk etti.
-- Partide ihraç sürecinin işletilmesinin beklendiği ifade ediliyor.
-- Olayla ilgili tanık ifadeleri çelişkili, farklı anlatımlar kamuoyuna yansıdı.
-- Yazgan, içkisine ilaç atılmış olabileceğini, savunamadığını söyledi.
-- Yazgan, olayın CHP'den koparma amaçlı kumpas olduğunu savundu.
-- Dokunulmazlığının kaldırılmasını isteyebileceğini, gerekirse istifa edeceğini belirtti.
-- Diğer yandan Demirtaş'ı Sancar ve Buldan Edirne Cezaevi'nde ziyaret etti.
-- Demirtaş, terörsüz Türkiye sürecine destek verenlere teşekkür etti.
+- İstanbul Büyükşehir Belediyesi davasında ikinci duruşma celsesi bugün başladı.
+- Duruşma, büyük salonda yeniden açılarak kamuoyunun odağına yerleşti.
+- Dosyada çok sayıda tutuklu ve tutuksuz sanık bulunuyor.
+- Bu celsede tutuksuz sanıkların sözlü savunmalarının alınması bekleniyor.
+- İmamoğlu önceki celsede susma hakkını kullandığı için konuşmadı.
+- Avukatları İmamoğlu için sözlü savunma talep etti, belirsiz kaldı.
+- Savunma süreleri ve olası tahliyeler mahkeme tartışmalarının merkezinde.
+- Süreç, İmamoğlu’nun siyasi geleceği ve adaylığını etkileyebilir.
+- Muharrem İnce, Silivri’de İmamoğlu’nu cezaevinde ziyaret etti.
+- Muhalefet çevreleri davayı siyasi görüyor, usul vurgusu yapıyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Inan Demirel](https://www.youtube.com/watch?v=RNWkI0D2nxk&t=1078s) (⏱️ 17:58-25:35)
-- [Hilal Koylu](https://www.youtube.com/watch?v=euBY9eUyZP0&t=1521s) (⏱️ 25:21-26:49)
+- [Rusen Cakir](https://www.youtube.com/watch?v=JuqaxsOGIqc&t=11s) (⏱️ 00:11-06:12)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=qPCjSLDxTdI&t=26s) (⏱️ 00:26-00:30)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=CtifuZ6-scY&t=1692s) (⏱️ 28:12-30:44)
+
+---
+
+## 5. Siyaset ve ekonomi ekseninde dönüşüm
+
+- Türkiye’de kafe ekonomisi tartışması büyürken üretim tarafı geriliyor.
+- İmalat sanayisinin 27 aydır küçüldüğü verilerle hatırlatılıyor.
+- Kafe ve yeme-içme büyüyor, katma değer yaratmıyor.
+- Fabrika kurmak zorlaştıkça girişimciler hızlı dönen kafeye yöneliyor.
+- Bu eğilimin sürdürülebilir refah ve teknoloji için risk taşıdığı vurgulanıyor.
+- AKP’nin 25. yılında parti, devlet partisine dönüştü deniyor.
+- 2003’ten beri kamuda çalışan sayısı iki katından fazla arttı.
+- Refah dağıtma kapasitesi zayıfladı, konut ve araç sahipliği düştü.
+- 2021 sonrası ekonomi politikaları enflasyonu artırdı, alım gücü eridi.
+- Erdoğan’ın 50 yıl mesajı sürme niyeti ve motivasyon aracı yorumlanıyor.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Ozlem Gurses](https://www.youtube.com/watch?v=CtifuZ6-scY&t=2472s) (⏱️ 41:12-43:59)
+- [Rusen Cakir](https://www.youtube.com/watch?v=JuqaxsOGIqc&t=2022s) (⏱️ 33:42-41:15)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=qPCjSLDxTdI&t=1920s) (⏱️ 32:00-45:00)
+
+---
+
+## 6. Tribün Görüntüleri Toplumsal Gerilimi Artırdı
+
+- Gençlerbirliği maçında 4 yaşındaki çocuk tribünde zorbalığa uğradı.
+- Fenerbahçe forması giyen çocuğa yapılan saldırı görüntüleri yayıldı.
+- Görüntüler sosyal medyada tepki çekti ve tartışma büyüdü.
+- Gençlerbirliği ve Fenerbahçe kulüpleri çocuğu maça davet etti.
+- Saldırgan gözaltına alındı, ardından ev hapsi kararı verildi.
+- Olay fanatizm, değerler ve tribün güvenliği tartışmalarını alevlendirdi.
+- Tribünlerde yayılan görüntülerin toplumsal gerilimi artırdığı iddia edildi.
+- Erzurumspor örneklerinde marş sırasında bozkurt işareti dikkat çekti.
+- Taraftarların Diyarbakır yolunda minibüs durdurduğu, polis müdahalesi anlatıldı.
+- 15 Temmuz kutlama görüntülerinin bazı kentlerde rahatsızlık yarattığı belirtildi.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Ozlem Gurses](https://www.youtube.com/watch?v=CtifuZ6-scY&t=2189s) (⏱️ 36:29-39:47)
+- [Serdar Akinan](https://www.youtube.com/watch?v=aeyIDcns8Hs&t=164s) (⏱️ 02:44-05:21)
 
 ---
 
