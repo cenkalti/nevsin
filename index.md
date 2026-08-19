@@ -1,169 +1,207 @@
 # Bugün Ne Oldu?
 
-*18 August 2026 tarihli günlük haber raporu - 8 haber birleştirildi*
+*19 August 2026 tarihli günlük haber raporu - 10 haber birleştirildi*
 
-## 1. Silivri’de İBB Davasında Savunma Krizi
+## 1. Cemaatlere Yönelik Mali Operasyonlar
 
-- Silivri’de İBB davasında ikinci celse bugün yeniden başladı.
-- İlk celsede savunmalar kesildi, İmamoğlu hakimle tartışma yaşamıştı.
-- Bu celsede ağırlıkla tutuksuz sanıkların savunmaları mahkemede alınıyor.
-- İmamoğlu ilk celsede susma hakkını kullandığı bildirildi.
-- Mahkeme başkanı savunma süresini mahkemenin belirleyeceğini söyledi.
-- CHP lideri Özgür Özel duruşmada, savunma hakkının kısıtlandığını savundu.
-- Yeni yapılan büyük salonun düzeni, izleyici ve basını zorladı.
-- Basın kartı krizi yaşandı, bazı gazetecilerin girişleri tartışıldı.
-- Tutuksuz sanık Ercan Saatçi örgütle bağı olmadığını belirtti.
-- Beyaz İnşaat yöneticileri savunma yaptı; savcı tutuklama istedi.
+- Adalet Bakanı, operasyonların dini değil suç soruşturması olduğunu söyledi.
+- Soruşturma dolandırıcılık ve belgede sahtecilik iddialarına dayanıyor.
+- Altı ilde 49 adrese eş zamanlı baskınlar yapıldı.
+- Toplam 32 kişi hakkında gözaltı ve adli işlem uygulandı.
+- Beş şirkete kayyım atandı, mal varlığı incelemesi başlatıldı.
+- Süleymancılarda Alihan Kuriş ve yöneticilerin tutuklandığı bildirildi.
+- Eski lider Arif Ahmet Denizolgun için fethi kabir kararı alındı.
+- Mezar açılıp DNA alınacak, şüpheli ölüm yeniden incelenecek.
+- Furkan Vakfı lideri Alpaslan Kuytul, eşi ve avukatı gözaltına alındı.
+- Soruşturmalar sosyal medyada tepkiler doğurdu, yüzlerce hesap engellendi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=-Xt7Zl7G-ns) (⏱️ 00:00-04:58)
-- [Hilal Koylu](https://www.youtube.com/watch?v=2laKpJuIuxI&t=709s) (⏱️ 11:49-19:50)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=z9o5Zdf2c18&t=21s) (⏱️ 00:21-07:20)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=rH_yY6gPYs0&t=990s) (⏱️ 16:30-22:00)
+- [Inan Demirel](https://www.youtube.com/watch?v=ROOx8hoardQ&t=1045s) (⏱️ 17:25-19:34)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=Z2hFC_-Wvds) (⏱️ 00:00-10:48)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=yZbCLJpcm-Y&t=1020s) (⏱️ 17:00-21:00)
+- [Murat Yetkin](https://www.youtube.com/watch?v=2ivcZiFjiY0&t=4s) (⏱️ 00:04-12:01)
+- [Hilal Koylu](https://www.youtube.com/watch?v=9Z25159Rjlc&t=200s) (⏱️ 03:20-06:04)
+- [Rusen Cakir](https://www.youtube.com/watch?v=6WyXSnupELg&t=26s) (⏱️ 00:26-03:00)
 
 ---
 
-## 2. Sansür Tartışmaları ve Gözaltı İddiaları
+## 2. Siyasette transferler ve sistem tartışmaları
 
-- Mabel Matiz’in Halelim klibi hakkında müstehcenlik soruşturması başlatıldı.
-- Mahkeme kararıyla klibin erişime engellenmesi kararı verildi.
-- Engelleme sonrası klibin izlenme sayıları Türkiye’de hızla arttı.
-- YouTube izlenmesi 1,5 milyondan 3 milyona yükseldi.
-- Instagram’da 11 milyon, Twitter’da 6 milyon izlenme raporlandı.
-- Bazı ülkelerde erişim sürerken içerik farklı yerlerde şikayet ediliyor.
-- Olay, müzikte sansür ve ifade özgürlüğü tartışmalarını büyüttü.
-- Rabia Nur Coşkun’un fotoğraf yırttığı için gözaltına alındığı söylendi.
-- Coşkun’un kısa süre sonra denetimli serbestlikle bırakıldığı belirtildi.
-- Sosyal medyada tutuklama talepleri ve viral kesitler eleştirildi.
+- AK Parti’nin 25. yılı kutlamaları vekil transferleriyle gölgelendi.
+- Parti değiştirmeler kişisel ikbal ve ilkesizlik eleştirilerini büyüttü.
+- Ömer Karakaş örneği sert sözlerden sonra geçişi gündeme taşıdı.
+- Siyasette program farklarının azalması meslekleşme tartışmasını derinleştirdi.
+- Muhalefette istifalar, iç gerilimler ve kurumsallaşamama sorunu öne çıktı.
+- Gaziantep’teki gerilimde bir milletvekili bıçaklanma olayı konuşuldu.
+- Bahçeli yeni anayasa ve seçim sistemi değişikliği önerileri sundu.
+- Tek turlu seçim ve ittifakların kalkması ihtimali tartışma yarattı.
+- Mumcu-Arınç polemiği 2007’deki 367 krizini yeniden alevlendirdi.
+- İmralı sürecinde Öcalan’ın rolü, ziyaretler ve MGK raporu konuşuluyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Serdar Akinan](https://www.youtube.com/watch?v=bVxNbXi8bIk&t=204s) (⏱️ 03:24-06:32)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=rH_yY6gPYs0&t=2700s) (⏱️ 45:00-47:31)
-- [Hilal Koylu](https://www.youtube.com/watch?v=2laKpJuIuxI&t=1783s) (⏱️ 29:43-31:06)
+- [Rusen Cakir](https://www.youtube.com/watch?v=6WyXSnupELg&t=768s) (⏱️ 12:48-16:10)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=yZbCLJpcm-Y&t=2400s) (⏱️ 40:00-43:00)
+- [Inan Demirel](https://www.youtube.com/watch?v=ROOx8hoardQ&t=2280s) (⏱️ 38:00-46:22)
 
 ---
 
-## 3. Menderes Belediyesi’nde Soruşturma ve Kavga
+## 3. İsrail’in Ebu Zuhur saldırısı gerilimi artırdı
 
-- Menderes Belediyesi, yolsuzluk ve rüşvet soruşturmasıyla gündeme geldi.
-- Belediye Başkanı İlkay Çiçek, mesajlaşmalar delil gösterilerek tutuklandı.
-- Mesaj içerikleri kamuoyunda tepki yarattı ve skandal tartışmaları büyüdü.
-- Tutuklama sonrası belediye meclisinde başkan vekilliği seçimi yapıldı.
-- İlk turda oylar dağıldı, seçim birkaç tur sürdü.
-- Son turda AK Parti adayı Asuman Şen başkan vekili seçildi.
-- CHP ve Yeni Parti meclis üyeleri arasında salon krizleri yaşandı.
-- Mecliste yumruklaşma dahil fiziksel kavga görüntüleri kamuoyuna yansıdı.
-- Bazı CHP’li üyelerin AKP ilçe binasında poz vermesi eleştirildi.
-- CHP’de talimata uymayanlar için disiplin süreci, kurultay tartışmaları sürüyor.
+- İsrail, Suriye’de Türkiye sınırına yakın Ebu Zuhur üssünü vurdu.
+- Saldırı 18 Ağustos sabaha karşı 03:00 civarı gerçekleşti.
+- Hedef alınan noktalar pist ve hangarlar oldu, hasar bildirildi.
+- Türk askeri heyeti saatler önce bölgede inceleme yapmıştı.
+- Heyetin ayrılmasının hemen ardından saldırının geldiği iddia edildi.
+- İsrail, Türkiye’nin varlığının Suriye statikosunu bozduğunu savundu.
+- İsrail, radar yerleştirilmesinin hareket kabiliyetini kısıtlayacağını öne sürdü.
+- Türkiye Dışişleri ve Birleşmiş Milletler saldırıyı kınadı, tepki gösterdi.
+- ABD’li yetkililer saldırının tırmanma riskini artırdığını belirtti.
+- Erdoğan-Trump görüşmesinde gerilimi durdurma çağrıları etkili görüldü.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=-Xt7Zl7G-ns&t=300s) (⏱️ 05:00-06:07)
-- [Hilal Koylu](https://www.youtube.com/watch?v=2laKpJuIuxI&t=38s) (⏱️ 00:38-11:49)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=rH_yY6gPYs0&t=1320s) (⏱️ 22:00-25:30)
+- [Murat Yetkin](https://www.youtube.com/watch?v=2ivcZiFjiY0&t=724s) (⏱️ 12:04-13:38)
+- [Inan Demirel](https://www.youtube.com/watch?v=ROOx8hoardQ&t=20s) (⏱️ 00:20-10:00)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=yZbCLJpcm-Y&t=2580s) (⏱️ 43:00-49:04)
 
 ---
 
-## 4. Çerçeve Yasa Tartışması Siyaseti Etkiledi
+## 4. Siyasette transfer ve para iddiaları
 
-- Sosyal medya araştırması Yeni Parti’nin hızlı sempati topladığını gösterdi.
-- Araştırmada Yeni Parti olumlu içerik oranı yüzde 62,6 oldu.
-- 10 Ağustos çerçeve yasa oylaması sonrası duygu puanı düştü.
-- Olumsuz paylaşımlar ulusalcı ve şehit-gazi hassasiyetinden beslendi.
-- Bazı siyasetçilerin paylaşımları parti algısını olumsuz etkiledi denildi.
-- Çerçeve yasa, sürecin ana çerçevesini belirleyen taslak olarak anlatıldı.
-- Taslakta PKK terör örgütü tanımı ve af iddiaları konuşuldu.
-- Öcalan görüşmeleri ve sızan ifadeler muhalefette tartışma yarattı.
-- CHP’de Kılıçdaroğlu daha net, Özgür Özel ikircikli görüldü.
-- Net ve açık duruşun siyasal iletişimde avantaj sağladığı vurgulandı.
+- Tuzla Belediye Başkanı Bingöl hakkında AKP'ye geçiş söylentileri yayıldı.
+- Bir yerel gazete iddiayı haberleştirdi, tartışmalar sosyal medyada büyüdü.
+- Bingöl, iddiaları reddederek gazeteye tekzip gönderdiğini açıkladı.
+- Antalya Büyükşehir Belediye Başkanı Muhittin Böcek tutuklu bulunuyor.
+- Böcek, etkin pişmanlıktan yararlanarak yeni ifadeler verdiğini söyledi.
+- İfadesinde Ekrem İmamoğlu'na 15 milyon euro iddia etti.
+- İlk etapta 5 milyon euronun ödendiğini öne sürdü.
+- Para transferinde havala gibi kayıt dışı yöntemler tarif edildi.
+- İfadeler fezlekelerin Meclis'e gönderilmesi sürecini tetikledi.
+- Gelişmeler, dokunulmazlık ve ifade güvenilirliği tartışmalarını yeniden gündeme taşıdı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=-Xt7Zl7G-ns&t=466s) (⏱️ 07:46-11:07)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=rH_yY6gPYs0&t=140s) (⏱️ 02:20-08:29)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=z9o5Zdf2c18&t=442s) (⏱️ 07:22-42:18)
+- [Rusen Cakir](https://www.youtube.com/watch?v=6WyXSnupELg&t=1267s) (⏱️ 21:07-21:52)
+- [Inan Demirel](https://www.youtube.com/watch?v=ROOx8hoardQ&t=1555s) (⏱️ 25:55-31:25)
+- [Hilal Koylu](https://www.youtube.com/watch?v=TeQZbnt_wAQ&t=1386s) (⏱️ 23:06-27:14)
 
 ---
 
-## 5. Süleymancılar Operasyonu ve Şeffaflık Tartışması
+## 5. Gaziantep'te Milletvekiline Bıçaklı Saldırı
 
-- Süleymancılara yönelik operasyonun gerekçeleri ve kapsamı tartışılıyor yayında.
-- Adalet Bakanı Akın Gürlek, inanç istismarına karşı adımlar dedi.
-- Operasyonun yalnız üst kadroyla sınırlı kalmaması gerektiği savunuluyor.
-- Ankara ve Ümraniye’de cemaat mensupları, Alihan Kuriş’e destek toplandı.
-- TMSF bazı şirketlere el koydu, kayyum atandığı bildirildi.
-- Cemaatlerin çoğu kapalı; gazetecilere karşı tedirgin ve ketum davranıyor.
-- Bağışlar teberru ve himmetle toplanıyor, şirketler üzerinden yönetiliyor.
-- Alt taban paranın nereye gittiğini çoğunlukla bilmiyor deniyor.
-- Devlete yakın duran bazı dini liderler geçici koruma sağlayabiliyor.
-- Şeffaflık ve denetim için vakıflar üzerinden mali izleme öneriliyor.
+- Yeni Parti Gaziantep milletvekili Merih Meriç bıçaklı saldırıya uğradı.
+- Saldırı Gaziantep'te gerçekleşti, Meriç'in karnından bıçaklandığı bildirildi.
+- Meriç'in hastaneye kaldırıldığı, hayati tehlikesinin olmadığı açıklandı.
+- Saldırganın adının Seyit Ahmet Keleş olduğu belirtildi.
+- Keleş'in eski CHP Oğuzeli ilçe başkanı olduğu iddia edildi.
+- Şüphelinin 27 suç kaydı bulunduğu, çeşitli suçlar işlendiği aktarıldı.
+- Saldırganın firar ettiği, kaçtığı aracın bulunduğu bilgisi paylaşıldı.
+- Olay, siyasette gerilim ve şiddetin kabul edilemezliğini yeniden gündeme getirdi.
+- Ayrıca aday belirlemede geçmiş araştırması yapılması tartışması büyüdü.
+- Bu süreçte Mustafa Bozbey CHP'den istifa edip bağımsız kalacağını söyledi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=JvP8k4uPb9Y) (⏱️ 00:00-03:46)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=j5M6Q7XIJVE&t=1692s) (⏱️ 28:12-30:45)
+- [Murat Yetkin](https://www.youtube.com/watch?v=2ivcZiFjiY0&t=821s) (⏱️ 13:41-15:54)
+- [Hilal Koylu](https://www.youtube.com/watch?v=TeQZbnt_wAQ&t=54s) (⏱️ 00:54-05:53)
+- [Inan Demirel](https://www.youtube.com/watch?v=ROOx8hoardQ&t=1885s) (⏱️ 31:25-33:35)
 
 ---
 
-## 6. Süleymancılar soruşturmasında Kuriş tutuklandı
+## 6. Din, siyaset ve yurt denetimi
 
-- Süleymancılar Cemaati lideri Alihan Kuriş tutuklandı, soruşturma büyüyor.
-- Kuriş'e suç örgütü liderliği, kara para ve dolandırıcılık suçlamaları yöneltildi.
-- Rüstem Şahin ifadesi, cemaatin siyaset üzerinde baskı kurduğunu ileri sürdü.
-- İddiaya göre oy karşılığında partilerden para ve bina istendi.
-- Şahin, İmamoğlu üzerinden CHP için kayıt dışı para alındığını iddia etti.
-- Kayıt dışı paraların yurt dışına çıkarıldığı, miktarın çok büyük olduğu söylendi.
-- Kuriş ifadesinde şirketlerle resmi bağını reddetti, küçük pay devri anlattı.
-- Dosyada Papara benzeri sistemlerle yurt dışı para transfer şemaları yer aldı.
-- Ev ve merkezlerden çıkan altın miktarlarının tutanaklarda ayrıntılandırılmadığı belirtildi.
-- Ahmet Arif Deniz Olgun’un 2016 ölümü şüpheli, aile soruşturma istedi.
+- Kent Dindarlığı kitabı, dinin şehirdeki dönüşümünü tartışıyor.
+- Din siyasetin aracı olunca, toplumsal derinliğini kaybediyor deniyor.
+- Dini yapıların siyasete alet edilmesi, ciddi toplumsal sonuçlar doğuruyor.
+- Dindarların toplumda konumu ve sömürüye açıklığı ayrıca ele alınıyor.
+- Adana Aladağ yurt yangını, denetim eksikliğini yeniden hatırlattı.
+- Kilitli yangın merdiveni ve elektrik arızaları örneklerle eleştirildi.
+- Yurtlardaki şüpheli ölümler ve istismar iddiaları gündeme taşındı.
+- Devletin dini gruplarla ilişkisinin nasıl denetleneceği sorgulandı.
+- Denetimin siyasete göre değil, hukuka göre olması savunuldu.
+- Çok çocuk söylemi, yoksul ailelerin çocuklarını yurda itebiliyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilal Koylu](https://www.youtube.com/watch?v=2laKpJuIuxI&t=1418s) (⏱️ 23:38-29:38)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=j5M6Q7XIJVE&t=11s) (⏱️ 00:11-25:40)
+- [Rusen Cakir](https://www.youtube.com/watch?v=6WyXSnupELg&t=435s) (⏱️ 07:15-11:17)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=yZbCLJpcm-Y&t=1260s) (⏱️ 21:00-28:00)
 
 ---
 
-## 7. Ankara Washington ve bölgesel gerilim
+## 7. Enginyurt’un Oğluna Kayıt Dışı Soruşturma
 
-- ABD'nin Türkiye'deki Amerikan silahlarını Ukrayna'ya aktarmaya onay verdiği iddia edildi.
-- İddiaya göre transfer listesinde balistik füzeler, roketatarlar ve top mühimmatı var.
-- Misket başlıklı roketler dahil yüksek miktarlar konuşuluyor, resmi doğrulama yok.
-- Bu adımın Türkiye-Rusya ilişkilerinde yeni gerilim başlığı açabileceği değerlendiriliyor.
-- 17 Ağustos'ta Erdoğan ile Trump arasında bir telefon görüşmesi yapıldı.
-- Resmi notlarda F-35 alımına dair herhangi bir ifade yer almadı.
-- Notlarda Türkiye'nin Ukrayna'ya silah satışı ve Rus tepkileri vurgulandı.
-- Ankara'da İsrail kaynaklı bölgesel tırmanma endişesinin arttığı belirtiliyor.
-- İsrail ve ABD seçimleri radikallerin kışkırtma riskini artırıyor.
-- Gazze'de ateşkes yetersiz kalırken Ankara, gerektiğinde karşılık mesajı verdi.
+- Milletvekili Cemal Enginyurt’un oğlu Alptürk Enginyurt gözaltına alındı.
+- Savcılık işlemlerinin ardından ertesi gün serbest bırakıldığı bildirildi.
+- Soruşturmada Ankara merkezli Red Gem adlı spor şirketi inceleniyor.
+- Kayıt dışı protein tozu ve performans artırıcı satış iddiaları var.
+- Suçlamalar arasında halk sağlığını bozma şüphesi de bulunuyor.
+- Ayrıca suçtan elde edilen mal varlığını aklama iddiası yer alıyor.
+- MASAK raporu 2021-2024 arasında yoğun para trafiği saptadı.
+- Baba Cemal Enginyurt ile para hareketlerinde artış görüldü.
+- Sevkiyatlar ve transferlerde bazı araçların kullanıldığı öne sürüldü.
+- Cemal Enginyurt soruşturma kapsamında ifade vereceğini açıkladı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Serdar Akinan](https://www.youtube.com/watch?v=bVxNbXi8bIk&t=948s) (⏱️ 15:48-17:05)
-- [Murat Yetkin](https://www.youtube.com/watch?v=gAjR4Mu2qEw&t=408s) (⏱️ 06:48-15:17)
+- [Inan Demirel](https://www.youtube.com/watch?v=ROOx8hoardQ&t=2015s) (⏱️ 33:35-35:45)
+- [Hilal Koylu](https://www.youtube.com/watch?v=TeQZbnt_wAQ&t=1807s) (⏱️ 30:07-32:39)
 
 ---
 
-## 8. Belediye Başkanının Sarık Tartışması
+## 8. Eylemler, müdahaleler ve tartışmalı tahliyeler
 
-- Sakarya Karapürçek Belediye Başkanı Mehmet Murat Çoruhlu yeniden seçildi.
-- Çoruhlu’nun makam fotoğrafında sarıkla görüntülenmesi kamuoyunda tartışma yarattı.
-- Başkan, sarık, cübbe ve sakalla kamuda çalıştığını söyledi.
-- Kıyafetinin görev yapmasına engel olmadığını özellikle vurguladı.
-- Ziyaretçilerle makamında çay içtiğini, işlerin sürdüğünü belirtti.
-- Kamu görevlilerinin kılık kıyafet kuralları yeniden gündeme taşındı.
-- Tartışmalarda tayt giyen vali örneği de karşılaştırma olarak kullanıldı.
-- Çoruhlu’nun geçmişte müteahhitlik ve fındık tüccarlığı yaptığı aktarıldı.
-- 2024’te seçildiğini, teknik kadro ve saha personelini güçlendirdiğini savundu.
-- Konu, tepkilerle birlikte sosyal medyada geniş yankı uyandırdı.
+- Ankara Güven Park’ta şehit yakınları ve gaziler eylemdeydi.
+- Eylem 38 gündür sürüyor, sosyal hakların iyileştirilmesi isteniyordu.
+- Meclisten düzenleme geçti, ancak eylem devam etti.
+- Sabah polis parka girerek eylemcileri alıkoydu ve topladı.
+- Eylemciler Bilkent Gazi Uyum Evi’ne götürüldü, bekletildi.
+- Park çevresi polis tarafından kapatıldı, giriş çıkışlar denetlendi.
+- Madenciler de tazminat ve hakları için eylemlerini sürdürüyor.
+- Eylemler bazen çıplak eylem biçiminde yapılarak kamuoyuna sesleniliyor.
+- Bağımsız Maden İş lideri Başaran Aksu gözaltına alındı.
+- Rasim Ozan Kütahyalı itirazla tahliye edildi, karar sessiz uygulandı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=j5M6Q7XIJVE&t=1544s) (⏱️ 25:44-27:04)
-- [Hilal Koylu](https://www.youtube.com/watch?v=2laKpJuIuxI&t=1193s) (⏱️ 19:53-23:34)
+- [Inan Demirel](https://www.youtube.com/watch?v=ROOx8hoardQ&t=1174s) (⏱️ 19:34-22:58)
+- [Hilal Koylu](https://www.youtube.com/watch?v=TeQZbnt_wAQ&t=1199s) (⏱️ 19:59-22:57)
+
+---
+
+## 9. Tarikat Gündemi ve Program Açılışı
+
+- Programın açılışı yapıldı ve sunum resmi olarak başladı.
+- Sunucular gündemdeki sıcak başlıkları kısa biçimde özetledi.
+- Bugün ele alınacak haberler kısa bir liste halinde sıralandı.
+- Ana gündemin tarikatlar ve yürüyen soruşturmalar olduğu belirtildi.
+- Alparslan Kuytul’a yönelik operasyonun sabah başladığı duyuruldu.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Inan Demirel](https://www.youtube.com/watch?v=ROOx8hoardQ) (⏱️ 00:00-00:20)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=yZbCLJpcm-Y&t=17s) (⏱️ 00:17-00:29)
+
+---
+
+## 10. Silivri’de İBB davasında yeni gelişmeler
+
+- İBB davasında Silivri’de ikinci celse duruşmalar sürüyor.
+- Yeni yapılan büyük salonda izleyiciler sanıklardan oldukça uzak.
+- Gazeteciler geride kaldı, avukat bölümü geniş ama boş.
+- Tutuklu ve tutuksuz sanıklar arasındaki temas iyice azaldı.
+- Duruşmada ilginç diyaloglar, itiraflar ve tartışmalar öne çıktı.
+- Tutuksuz sanıkların ifade ve savunma süreçleri devam ediyor.
+- Fatih Keleş ile Mustafa Keleş ifadelerinde çelişkiler gündeme geldi.
+- Salondaki sarkıt mikrofonlar nedeniyle olası dinleme kuşkusu doğdu.
+- Çok sayıda etkin pişmanlıktan yararlanan sanık savunma yaptı.
+- Ekrem İmamoğlu’nun savunmasının zamanı ve süresi netleşmedi.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Inan Demirel](https://www.youtube.com/watch?v=ROOx8hoardQ&t=1378s) (⏱️ 22:58-25:55)
+- [Rusen Cakir](https://www.youtube.com/watch?v=rZDSpTiYGvg&t=6s) (⏱️ 00:06-04:55)
 
 ---
 
