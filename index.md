@@ -1,86 +1,125 @@
 # Bugün Ne Oldu?
 
-*22 August 2026 tarihli günlük haber raporu - 4 haber birleştirildi*
+*23 August 2026 tarihli günlük haber raporu - 6 haber birleştirildi*
 
-## 1. Silivri ve İmralı Gündemi Büyüyor
+## 1. CHP’den kopuşlar Yeni Parti’yi büyütüyor
 
-- Silivri’de İBB davasının ikinci celsesi geniş salonda yapıldı.
-- Avukatlar yüz yüze savunmanın zedelendiğini, salonu problemli buldu.
-- İtirafçı ifadeleriyle rüşvet ve usulsüzlük iddiaları yeniden gündeme geldi.
-- Uzmanlar, beyana dayalı delilin tek başına yetmeyeceğini vurguladı.
-- Mahkemenin süre kısıtları ve geç saatler adil yargılama tartışması doğurdu.
-- HTS kayıtları ve çelişkili ifadeler dosyada yeni soru işaretleri yarattı.
-- Erkan Mumcu’nun eski röportajı yeniden servis edilince Arınç yanıt verdi.
-- Zamanlama tartışması, Erdoğan sonrası denge arayışlarıyla ilişkilendirildi.
-- Süleymancılar ve Furkan’a operasyonlar, mali iddialar ve sızdırmalarla konuşuldu.
-- İmralı mesajları ve çözüm sürecinde silahsızlanma adımları tartışılıyor.
+- CHP yönetim kararları sonrası ilçe örgütlerinde kırgınlıklar büyüdü.
+- Rize Fındıklı’da toplu istifalar yaşandı, bazı üyeler Yeni Parti’ye geçti.
+- Parti içi bölünmenin muhalefete zarar verip iktidara yarayacağı konuşuluyor.
+- Kemal Kılıçdaroğlu Mersin Yörük Şenliği’nde iktidar çağrısı yaptı.
+- CHP’de disiplin, atamalar ve butlan gibi hukuki tartışmalar sürüyor.
+- Bazı milletvekilleri ayrılarak yeni bir parti çatısı kurduklarını duyurdu.
+- Yeni Parti kısa sürede örgütlenip anketlerde yükseliş gösteriyor.
+- Yeni Parti kapsayıcı, merkeze yakın ve eşit kurucu söylemi benimsiyor.
+- Denizli, Manisa ve Eskişehir başkanları Yeni Parti’ye katıldı.
+- Mersin, Ankara ve Muğla gibi şehirlerde başkanlar CHP’de kaldı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilal Koylu](https://www.youtube.com/watch?v=3F3c3AzbKuU&t=652s) (⏱️ 10:52-37:00)
-- [Inan Demirel](https://www.youtube.com/watch?v=oIhJoELMC3I&t=1809s) (⏱️ 30:09-37:50)
-- [Rusen Cakir](https://www.youtube.com/watch?v=KbdERnO_LC4&t=3s) (⏱️ 00:03-10:20)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=BVweFqalomQ&t=1507s) (⏱️ 25:07-41:00)
+- [Hilal Koylu](https://www.youtube.com/watch?v=bNwC27twQDI&t=572s) (⏱️ 09:32-42:35)
+- [Inan Demirel](https://www.youtube.com/watch?v=cKVRNJ5PJok&t=953s) (⏱️ 15:53-21:00)
 
 ---
 
-## 2. Özel’in sahası ve Meclis oyu
+## 2. Üretici ve Madencilerden Geçim Tepkisi
 
-- Özgür Özel, Trabzon’da esnaf ve halkla buluştu, ilgi gördü.
-- Kalabalık sokak desteği, Yeni Parti’nin sahadaki yükselişi yorumlandı.
-- Özel’in fındık topladığı ve Trabzonspor forması giydiği görüntüler paylaşıldı.
-- Özel, iktidar hedefini ve İmamoğlu’nu cumhurbaşkanı yapma isteğini anlattı.
-- Mecliste tartışılan çerçeve yasa, Yeni Parti’de yoğun gündem oldu.
-- Partinin oylamada bazı maddelere 'evet' deme gerekçeleri açıklandı.
-- Umut Akdoğan, kararını bazı maddeler ağır bastı diyerek savundu.
-- Parti içinde farklı görüşler olduğu, vekillerin seçmene göre oy verdiği söylendi.
-- Özel, vekillerin bölgesel hassasiyete göre serbest bırakılmasını savundu.
-- Raporun 6. maddesi PKK’nın silah bırakmasıyla ilgili düzenleme içeriyor.
+- Doğu Karadeniz’de fındık ve çay üreticileri ekonomik baskı altında.
+- Girdi maliyetleri yükseldi, alım gücü geriledi, yoksulluk derinleşti.
+- Fiyat artışları tek başına geçimi iyileştirmeye yetmiyor bölgede.
+- Batum gibi komşu örnekler, halkın yaşam kıyası yapmasına yol açıyor.
+- İmece kültürü ve belediye hizmetleri, yoksulluğu kısmen hafifletiyor.
+- Rize Fındıklı’da maden arayışına halk ve yöneticiler itiraz ediyor.
+- 9 Eylül’de maden faaliyetlerine karşı dava açıldığı açıklandı.
+- Avukatlar ve ekoloji grupları davayı izleyip destek verecek.
+- Yöneticiler derelerin, yaylaların ve toprağın korunmasını istedi.
+- Ankara’da madenciler, ödenmeyen haklar için bakanlık önünde direniyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Inan Demirel](https://www.youtube.com/watch?v=oIhJoELMC3I&t=16s) (⏱️ 00:16-06:23)
-- [Hilal Koylu](https://www.youtube.com/watch?v=3F3c3AzbKuU&t=382s) (⏱️ 06:22-10:52)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=n4paX9MPf3Y&t=249s) (⏱️ 04:09-09:18)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=BVweFqalomQ&t=525s) (⏱️ 08:45-53:11)
+- [Hilal Koylu](https://www.youtube.com/watch?v=bNwC27twQDI&t=37s) (⏱️ 00:37-09:26)
 
 ---
 
-## 3. Siyasette gerilim ve demokratik sınav
+## 3. Furkan Vakfı soruşturmasında tutuklama
 
-- İzmir’de MHP İl Başkanı’na yönelik basın baskısı iddiası gündeme geldi.
-- Veysel Şahin’in haberi yapan genç muhabiri aradığı belirtildi.
-- Muhabirin 25 yaşında kadın olduğu ve görüntü aldığı aktarıldı.
-- Muhabir müdürünü arayınca, müdürle Şahin arasında tartışma yaşandı.
-- Programda haberi kaldırma baskısına karşı nezaketli iletişim çağrısı yapıldı.
-- Türkiye-İsrail geriliminde Netanyahu için kırmızı bülten talebi açıklandı.
-- Mansur Yavaş ve Devlet Bahçeli sert açıklamalarla kararı destekledi.
-- Kemal Kılıçdaroğlu, egemenliğe yönelik hamleleri kabul edilemez buldu.
-- Yorumlarda gerilimin seçim propagandasını aşma riski vurgulandı.
-- Suriye boyutlu olası çatışma ihtimali izlenmesi gereken risk sayıldı.
+- Furkan Vakfı operasyonunda Alparslan ve Semra Kuytul gözaltına alındı.
+- Yaklaşık 50 kişi operasyon kapsamında gözaltına alındı ve sorgulandı.
+- Gözaltındakilerin kelepçeli adliyeye sevk görüntüleri kamuoyuna yansıdı.
+- Görüntülerin güç gösterisi ve itibarsızlaştırma amacı taşıdığı öne sürüldü.
+- Bazı yorumcular uygulamanın insan haklarına aykırı olduğunu savundu kamuoyunda.
+- Savcılık 44 tutuklama ve 9 adli kontrol istedi.
+- Alparslan Kuytul, Furkan Vakfı başkanı olarak tutuklandı bekleniyordu.
+- Semra Kuytul’un vakıf çalışmalarında etkin ve siyasi kimlikli olduğu belirtildi.
+- Tutuklama ve sevk biçiminin benzer davalarla paralel olduğu söylendi.
+- Süleymancılara yönelik ikinci dalga soruşturmada 12 kişi gözaltına alındı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilal Koylu](https://www.youtube.com/watch?v=3F3c3AzbKuU&t=2221s) (⏱️ 37:01-38:56)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=0pW_Ams14wc&t=999s) (⏱️ 16:39-18:26)
+- [Rusen Cakir](https://www.youtube.com/watch?v=3-y8OoY-BME&t=31s) (⏱️ 00:31-03:19)
+- [Inan Demirel](https://www.youtube.com/watch?v=cKVRNJ5PJok&t=48s) (⏱️ 00:48-03:22)
 
 ---
 
-## 4. Denetim ve Reform Çağrıları Arttı
+## 4. SDG Şam’la Entegrasyonda Kritik Eşik
 
-- İş dünyası, enflasyonla mücadelede kur baskısının yetersiz kaldığını söylüyor.
-- Mehmet Şimşek döneminde enflasyon %80’den %35’e geriledi, sonrası zor.
-- Kalıcı düşüş için para politikasına ek reformlar gerekiyor.
-- Kredi maliyetleri yükseldi, finansmana erişim zorlaştı, iflaslar arttı.
-- 2023 Ocak-Temmuzda kurulan şirket sayısı 66.602’ye yükseldi.
-- Aynı dönemde kapanan şirket sayısı %2,5 azalarak 16.170 oldu.
-- Yüksek tahvil faizi %35 seviyesinde, ekonomiye ağır maliyet yaratıyor.
-- Gelir kaybı büyüyor, asgari ücretin satın alma gücü düşüyor.
-- Eğitim ve yaşam giderleri arttı, servis ve özel okul ücretleri örnekleniyor.
-- Medrese ve cemaat eğitiminde denetimsizlik eleştiriliyor, devlet kontrolü isteniyor.
+- SDG lideri Mazlum Abdi, Şam’la entegrasyon sürecini doğruladı.
+- Abdi, SDG’nin Suriye ordusuna entegrasyonu bu ay bitebilir dedi.
+- Entegrasyonun iki taraf için zorunlu olduğu, ama kalıcılığı belirsiz.
+- Şam yönetiminin baskısı güçlü ve süreci kendi çizgisine çekiyor.
+- Kürtler anayasal haklar, temsil ve bakanlıklarda yer talep ediyor.
+- YPJ gibi kadın birliklerinin geleceği entegrasyonda netleşmiş değil henüz.
+- SDG ile Şam arasında anlaşmalar yapıldı, ancak uygulama eksik kaldı.
+- PKK-Kandil ve Öcalan faktörünün SDG kararlarını etkilediği konuşuluyor.
+- Türkiye’nin rolü, Kürtlerin adımlarını ve pazarlık gücünü etkiliyor.
+- Entegrasyon Aleviler, Dürziler ve Hristiyanların güvenliğini de etkiliyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=0pW_Ams14wc&t=1109s) (⏱️ 18:29-58:06)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=AHlnPoKxfJw&t=13s) (⏱️ 00:13-18:45)
+- [Rusen Cakir](https://www.youtube.com/watch?v=JYHkfrLjMAE&t=1s) (⏱️ 00:01-12:45)
+- [Inan Demirel](https://www.youtube.com/watch?v=cKVRNJ5PJok&t=1875s) (⏱️ 31:15-34:06)
+
+---
+
+## 5. Ebu Zuhur Saldırısı Türkiye İsrail Gerilimi
+
+- İsrail’in Ebu Zuhur üssüne saldırısı bölgesel gerilimi artırdı.
+- Saldırı, Türkiye’ye askeri yerleşme planlarına karşı mesaj sayıldı.
+- İddialara göre Türkiye bölgeye radar ve hava savunma kuracaktı.
+- İsrail, Güney Suriye’de istenmeyen askeri varlık olmayacağını açıkladı.
+- İsrail, hava sahasını kısıtlayacak unsurlara izin vermeyeceğini söyledi.
+- ABD’li Tom Barrack, saldırıyı seçim siyasetiyle ve kışkırtmayla ilişkilendirdi.
+- ABD yönetiminin tansiyonu düşürmeye çalıştığı, Türkiye’nin dili ılımlı kaldı.
+- Washington Post ve New York Times, Kürtlerin planlanan hamleden vazgeçtiğini yazdı.
+- Gelişmeler, Türkiye-İsrail nüfuz mücadelesi ve vekalet çatışmaları riskini büyüttü.
+- Uzmanlar, Suriye’nin Türkiye-İsrail-İran çekişme alanına dönüşebileceğini vurguladı.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Rusen Cakir](https://www.youtube.com/watch?v=JYHkfrLjMAE&t=1029s) (⏱️ 17:09-31:04)
+- [Inan Demirel](https://www.youtube.com/watch?v=cKVRNJ5PJok&t=1345s) (⏱️ 22:25-31:15)
+
+---
+
+## 6. Özgür Özel Karadeniz’de Saha Mesajı
+
+- CHP lideri Özgür Özel Karadeniz’de Trabzon ve Rize’yi ziyaret etti.
+- Gezide halkla doğrudan temas kurdu, kalabalıklar yoğun ilgi gösterdi.
+- Görüntülerde spontane sloganlar duyuldu, vatandaşlar Özel’e yaklaşmaya çalıştı.
+- Yorumcular temasın muhalefete dinamizm kattığını ve sahayı canlandırdığını söyledi.
+- Buluşmaların yerelde algıyı güçlendirdiği ve birlik mesajı verdiği vurgulandı.
+- Özel, Cumhurbaşkanı Erdoğan’ın Marmaris’teki açıklamalarına da yanıt verdi.
+- Erdoğan, Marmaris’te belediye başkanına kapımız açık diyerek çağrı yaptı.
+- Özel, bu yaklaşımın seçmen iradesini yok saymaması gerektiğini belirtti.
+- Transfer çağrısının belediye başkanları üzerinde siyasi baskı yaratabileceği tartışıldı.
+- Gündem, partiler arası transferler ve çekim merkezi iddialarıyla değerlendirildi.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=BVweFqalomQ&t=243s) (⏱️ 04:03-21:55)
+- [Inan Demirel](https://www.youtube.com/watch?v=cKVRNJ5PJok&t=434s) (⏱️ 07:14-15:53)
 
 ---
 
