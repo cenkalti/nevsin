@@ -1,125 +1,113 @@
 # Bugün Ne Oldu?
 
-*23 August 2026 tarihli günlük haber raporu - 6 haber birleştirildi*
+*24 August 2026 tarihli günlük haber raporu - 5 haber birleştirildi*
 
-## 1. CHP’den kopuşlar Yeni Parti’yi büyütüyor
+## 1. CHP Gündeminde Figüran İddiaları
 
-- CHP yönetim kararları sonrası ilçe örgütlerinde kırgınlıklar büyüdü.
-- Rize Fındıklı’da toplu istifalar yaşandı, bazı üyeler Yeni Parti’ye geçti.
-- Parti içi bölünmenin muhalefete zarar verip iktidara yarayacağı konuşuluyor.
-- Kemal Kılıçdaroğlu Mersin Yörük Şenliği’nde iktidar çağrısı yaptı.
-- CHP’de disiplin, atamalar ve butlan gibi hukuki tartışmalar sürüyor.
-- Bazı milletvekilleri ayrılarak yeni bir parti çatısı kurduklarını duyurdu.
-- Yeni Parti kısa sürede örgütlenip anketlerde yükseliş gösteriyor.
-- Yeni Parti kapsayıcı, merkeze yakın ve eşit kurucu söylemi benimsiyor.
-- Denizli, Manisa ve Eskişehir başkanları Yeni Parti’ye katıldı.
-- Mersin, Ankara ve Muğla gibi şehirlerde başkanlar CHP’de kaldı.
+- CHP rozet töreninde figüran kullanıldığı iddiaları gündemde büyüdü.
+- MERS Ajans ve aracılar, organizasyona kişi sağladıklarını söyledi.
+- Ajans sahipleri, önce inkâr edip sonra figüran gönderdiğini açıkladı.
+- Figüranlara ödeme yapılmadığı, bazı ajansların borçlandığı öne sürüldü.
+- WhatsApp yazışmaları, IBAN talepleri ve fatura tartışmaları paylaşıldı.
+- Etkinlik öncesi figüranlara gizlilik sözleşmesi imzalatıldığı belirtildi.
+- Gazeteci Ebru Çelik haberi nedeniyle soruşturmaya çağrıldı.
+- CHP yöneticileri iddialara kumpas dedi, gazetecileri hedef aldı.
+- Aziz İhsan Aktaş davasında örgüt suçlamaları düştü, cezalar verildi.
+- Mahkeme bazı başkanlara hapis, para cezası ve el koyma kararı verdi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=BVweFqalomQ&t=1507s) (⏱️ 25:07-41:00)
-- [Hilal Koylu](https://www.youtube.com/watch?v=bNwC27twQDI&t=572s) (⏱️ 09:32-42:35)
-- [Inan Demirel](https://www.youtube.com/watch?v=cKVRNJ5PJok&t=953s) (⏱️ 15:53-21:00)
+- [Hilal Koylu](https://www.youtube.com/watch?v=k8LeUAoxjTc&t=5s) (⏱️ 00:05-00:42)
+- [Murat Yetkin](https://www.youtube.com/watch?v=fD_M3RchzOc&t=193s) (⏱️ 03:13-13:01)
+- [Unsal Unlu](https://www.youtube.com/watch?v=zAIY4ZLp7Ic&t=1447s) (⏱️ 24:07-25:04)
+- [Inan Demirel](https://www.youtube.com/watch?v=2uRxaKM_e_s&t=1s) (⏱️ 00:01-14:20)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=65AG97rWPfQ&t=1158s) (⏱️ 19:18-23:27)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=xzpJ4Gh5Ygg&t=1951s) (⏱️ 32:31-34:28)
+- [Rusen Cakir](https://www.youtube.com/watch?v=TIWdbptR1WE&t=2105s) (⏱️ 35:05-35:23)
+- [Onlar TV](https://www.youtube.com/watch?v=jfg4-mxBGM0&t=6s) (⏱️ 00:06-13:22)
 
 ---
 
-## 2. Üretici ve Madencilerden Geçim Tepkisi
+## 2. İmralı Sürecinde Sızıntı ve Şeffaflık Tartışması
 
-- Doğu Karadeniz’de fındık ve çay üreticileri ekonomik baskı altında.
-- Girdi maliyetleri yükseldi, alım gücü geriledi, yoksulluk derinleşti.
-- Fiyat artışları tek başına geçimi iyileştirmeye yetmiyor bölgede.
-- Batum gibi komşu örnekler, halkın yaşam kıyası yapmasına yol açıyor.
-- İmece kültürü ve belediye hizmetleri, yoksulluğu kısmen hafifletiyor.
-- Rize Fındıklı’da maden arayışına halk ve yöneticiler itiraz ediyor.
-- 9 Eylül’de maden faaliyetlerine karşı dava açıldığı açıklandı.
-- Avukatlar ve ekoloji grupları davayı izleyip destek verecek.
-- Yöneticiler derelerin, yaylaların ve toprağın korunmasını istedi.
-- Ankara’da madenciler, ödenmeyen haklar için bakanlık önünde direniyor.
+- İmralı heyeti İstanbul’da gazetecilere kapalı bilgilendirme toplantısı yaptı.
+- Toplantı sonrası istenen yayın ambargosuna bazı gazeteciler uymadı.
+- İmralı görüşme notları sızdı, doğruluk ve bağlam tartışması büyüdü.
+- DEM Parti, belirsiz metinlerin provokasyon ve yanıltma riski taşıdığını söyledi.
+- Sızıntıların süreci sabote etmek için servis edildiği iddiaları gündeme geldi.
+- Öcalan’ın seçim, anayasa ve yeni parti yapılanması konuşulduğu aktarıldı.
+- Süreçte şeffaflık eksikliği ve halkın dışarıda kalması eleştirildi.
+- Entelektüellerin suskunluğu tartışıldı, Barış Akademisyenleri travması hatırlatıldı.
+- Beştepe’de kurullar, ceza erteleme, rehabilitasyon ve statü başlıklarını görüşecek.
+- Komisyonda kayyumlar, tutukluluk sınırı ve Demirtaş’ın dönüşü tartışıldı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=BVweFqalomQ&t=525s) (⏱️ 08:45-53:11)
-- [Hilal Koylu](https://www.youtube.com/watch?v=bNwC27twQDI&t=37s) (⏱️ 00:37-09:26)
+- [Inan Demirel](https://www.youtube.com/watch?v=2uRxaKM_e_s&t=1390s) (⏱️ 23:10-27:05)
+- [Murat Yetkin](https://www.youtube.com/watch?v=fD_M3RchzOc&t=40s) (⏱️ 00:40-01:36)
+- [Rusen Cakir](https://www.youtube.com/watch?v=0W6DiI7WKLQ&t=7s) (⏱️ 00:07-12:05)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=xzpJ4Gh5Ygg&t=1090s) (⏱️ 18:10-27:44)
+- [Unsal Unlu](https://www.youtube.com/watch?v=zAIY4ZLp7Ic&t=112s) (⏱️ 01:52-05:56)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=G6O9sj2phQA) (⏱️ 00:00-00:32)
 
 ---
 
-## 3. Furkan Vakfı soruşturmasında tutuklama
+## 3. İşçilerden saldırı iddiaları ve eylem
 
-- Furkan Vakfı operasyonunda Alparslan ve Semra Kuytul gözaltına alındı.
-- Yaklaşık 50 kişi operasyon kapsamında gözaltına alındı ve sorgulandı.
-- Gözaltındakilerin kelepçeli adliyeye sevk görüntüleri kamuoyuna yansıdı.
-- Görüntülerin güç gösterisi ve itibarsızlaştırma amacı taşıdığı öne sürüldü.
-- Bazı yorumcular uygulamanın insan haklarına aykırı olduğunu savundu kamuoyunda.
-- Savcılık 44 tutuklama ve 9 adli kontrol istedi.
-- Alparslan Kuytul, Furkan Vakfı başkanı olarak tutuklandı bekleniyordu.
-- Semra Kuytul’un vakıf çalışmalarında etkin ve siyasi kimlikli olduğu belirtildi.
-- Tutuklama ve sevk biçiminin benzer davalarla paralel olduğu söylendi.
-- Süleymancılara yönelik ikinci dalga soruşturmada 12 kişi gözaltına alındı.
+- Zonguldak Alaplı’da mevsimlik tarım işçilerine saldırı iddiası gündeme geldi.
+- Sosyal medyada kamyonetteki çocukların korktuğu görüntüler paylaşıldı.
+- Görüntülerde araçtakilere taş atıldığı iddiası dikkat çekti.
+- Adalet Bakanı Akın Gülle, olayın aile tartışması olduğunu söyledi.
+- Bakan, olayla ilgili soruşturmanın sürdüğünü ve inceleme yapıldığını belirtti.
+- Benzer saldırı haberlerinin Düzce’den de geldiği öne sürüldü.
+- Madenciler Ankara’da Enerji Bakanlığı önünde 14 gündür eylemde.
+- İşçiler, alacaklarının ödenmesini ve verilen sözlerin tutulmasını istiyor.
+- Üç bakanın garantörlüğüne rağmen patronun ödeme yapmadığı iddia edildi.
+- Söz tutulmazsa yürüyüş planlanıyor; belediye ve sendikalar destek veriyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=3-y8OoY-BME&t=31s) (⏱️ 00:31-03:19)
-- [Inan Demirel](https://www.youtube.com/watch?v=cKVRNJ5PJok&t=48s) (⏱️ 00:48-03:22)
+- [Unsal Unlu](https://www.youtube.com/watch?v=zAIY4ZLp7Ic&t=1341s) (⏱️ 22:21-22:46)
+- [Inan Demirel](https://www.youtube.com/watch?v=2uRxaKM_e_s&t=1625s) (⏱️ 27:05-32:00)
 
 ---
 
-## 4. SDG Şam’la Entegrasyonda Kritik Eşik
+## 4. Savaş Riski ve İfade Özgürlüğü
 
-- SDG lideri Mazlum Abdi, Şam’la entegrasyon sürecini doğruladı.
-- Abdi, SDG’nin Suriye ordusuna entegrasyonu bu ay bitebilir dedi.
-- Entegrasyonun iki taraf için zorunlu olduğu, ama kalıcılığı belirsiz.
-- Şam yönetiminin baskısı güçlü ve süreci kendi çizgisine çekiyor.
-- Kürtler anayasal haklar, temsil ve bakanlıklarda yer talep ediyor.
-- YPJ gibi kadın birliklerinin geleceği entegrasyonda netleşmiş değil henüz.
-- SDG ile Şam arasında anlaşmalar yapıldı, ancak uygulama eksik kaldı.
-- PKK-Kandil ve Öcalan faktörünün SDG kararlarını etkilediği konuşuluyor.
-- Türkiye’nin rolü, Kürtlerin adımlarını ve pazarlık gücünü etkiliyor.
-- Entegrasyon Aleviler, Dürziler ve Hristiyanların güvenliğini de etkiliyor.
+- Karadeniz’de gemilere saldırılar sürüyor, Türk denizciler de hayatını kaybetti.
+- Ukrayna Büyükelçisi Neriman Celalov Ankara’da basın toplantısı düzenledi.
+- Celalov, Karadeniz’in savaş bölgesi olduğunu, gemilerin dikkatli olması gerektiğini söyledi.
+- Rusya ile ticaret yapan her geminin hedef olabileceği uyarısı yaptı.
+- Büyükelçi, Türkiye’nin Putin’i müzakereye zorlamak için çabayı artırmasını istedi.
+- Erdoğan’ın Putin ve Zelenskiy’i bir araya getirmesinin faydalı olacağını savundu.
+- Öte yandan gazeteci Deniz Göktaş’ın gözaltında geçirdiği süre 50 güne ulaştı.
+- Gözaltının, bazı kesimlerin hassasiyetlerini inciten ifadelerle ilişkilendirildiği öne sürüldü.
+- ABD’nin Ankara Büyükelçisi canlı yayında açıklamalar yaptı, sözleri tepki topladı.
+- Sunucu, sürecin ifade özgürlüğü ve hukuk devleti boyutunu sorguladı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=JYHkfrLjMAE&t=1s) (⏱️ 00:01-12:45)
-- [Inan Demirel](https://www.youtube.com/watch?v=cKVRNJ5PJok&t=1875s) (⏱️ 31:15-34:06)
+- [Unsal Unlu](https://www.youtube.com/watch?v=zAIY4ZLp7Ic&t=1502s) (⏱️ 25:02-25:55)
+- [Murat Yetkin](https://www.youtube.com/watch?v=fD_M3RchzOc&t=135s) (⏱️ 02:15-03:11)
 
 ---
 
-## 5. Ebu Zuhur Saldırısı Türkiye İsrail Gerilimi
+## 5. Uçumdan çerçeve yasa değerlendirmesi
 
-- İsrail’in Ebu Zuhur üssüne saldırısı bölgesel gerilimi artırdı.
-- Saldırı, Türkiye’ye askeri yerleşme planlarına karşı mesaj sayıldı.
-- İddialara göre Türkiye bölgeye radar ve hava savunma kuracaktı.
-- İsrail, Güney Suriye’de istenmeyen askeri varlık olmayacağını açıkladı.
-- İsrail, hava sahasını kısıtlayacak unsurlara izin vermeyeceğini söyledi.
-- ABD’li Tom Barrack, saldırıyı seçim siyasetiyle ve kışkırtmayla ilişkilendirdi.
-- ABD yönetiminin tansiyonu düşürmeye çalıştığı, Türkiye’nin dili ılımlı kaldı.
-- Washington Post ve New York Times, Kürtlerin planlanan hamleden vazgeçtiğini yazdı.
-- Gelişmeler, Türkiye-İsrail nüfuz mücadelesi ve vekalet çatışmaları riskini büyüttü.
-- Uzmanlar, Suriye’nin Türkiye-İsrail-İran çekişme alanına dönüşebileceğini vurguladı.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Rusen Cakir](https://www.youtube.com/watch?v=JYHkfrLjMAE&t=1029s) (⏱️ 17:09-31:04)
-- [Inan Demirel](https://www.youtube.com/watch?v=cKVRNJ5PJok&t=1345s) (⏱️ 22:25-31:15)
-
----
-
-## 6. Özgür Özel Karadeniz’de Saha Mesajı
-
-- CHP lideri Özgür Özel Karadeniz’de Trabzon ve Rize’yi ziyaret etti.
-- Gezide halkla doğrudan temas kurdu, kalabalıklar yoğun ilgi gösterdi.
-- Görüntülerde spontane sloganlar duyuldu, vatandaşlar Özel’e yaklaşmaya çalıştı.
-- Yorumcular temasın muhalefete dinamizm kattığını ve sahayı canlandırdığını söyledi.
-- Buluşmaların yerelde algıyı güçlendirdiği ve birlik mesajı verdiği vurgulandı.
-- Özel, Cumhurbaşkanı Erdoğan’ın Marmaris’teki açıklamalarına da yanıt verdi.
-- Erdoğan, Marmaris’te belediye başkanına kapımız açık diyerek çağrı yaptı.
-- Özel, bu yaklaşımın seçmen iradesini yok saymaması gerektiğini belirtti.
-- Transfer çağrısının belediye başkanları üzerinde siyasi baskı yaratabileceği tartışıldı.
-- Gündem, partiler arası transferler ve çekim merkezi iddialarıyla değerlendirildi.
+- Cumhurbaşkanlığı başdanışmanı Mehmet Uçum, çerçeve yasayı değerlendirdi.
+- Uçum, düzenlemenin herkesi otomatik kapsamadığını, başvuru şartı olduğunu söyledi.
+- Kapsamın somut başvuru ve kriterlere dayalı mekanizmayla belirleneceğini vurguladı.
+- Yasanın bir af olmadığını, şartlı yeniden başlama imkanı verdiğini belirtti.
+- Uçum, bunun olağan bir hukuki düzenleme olmadığını ifade etti.
+- Düzenlemeyi terörle mücadele değil, sistematik terörü bitirme adımı dedi.
+- Açıklamalarında yasanın niteliğine dair teknik çerçeve sundu, tartışma yarattı.
+- Sunucu, olağan dışı düzenleme ifadesini sorguladı, eleştiri getirdi.
+- Eleştiriler, kanunun kapsamı ve amaç tanımı üzerinde yoğunlaştı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=BVweFqalomQ&t=243s) (⏱️ 04:03-21:55)
-- [Inan Demirel](https://www.youtube.com/watch?v=cKVRNJ5PJok&t=434s) (⏱️ 07:14-15:53)
+- [Inan Demirel](https://www.youtube.com/watch?v=2uRxaKM_e_s&t=1224s) (⏱️ 20:24-23:10)
+- [Unsal Unlu](https://www.youtube.com/watch?v=zAIY4ZLp7Ic&t=423s) (⏱️ 07:03-08:10)
 
 ---
 
