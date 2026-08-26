@@ -1,150 +1,67 @@
 # Bugün Ne Oldu?
 
-*25 August 2026 tarihli günlük haber raporu - 7 haber birleştirildi*
+*26 August 2026 tarihli günlük haber raporu - 3 haber birleştirildi*
 
-## 1. Aziz İhsan Aktaş davasında kararlar
+## 1. Soruşturmalar Genişliyor, Yeni Gözaltılar
 
-- Silivri’de Aziz İhsan Aktaş davasında karar açıklandı.
-- Aktaş etkin pişmanlıkla 2 yıl 8 ay ceza aldı.
-- Örgüt yöneticiliği ve üyeliği suçlamalarında beraat kararları verildi.
-- İhaleye fesat suçları öne çıktı, hükmün açıklanması ertelendi denildi.
-- Aktaş karar duruşmasına gelmedi, gerekçeli karar bekleniyor.
-- Beşiktaş Belediye Başkanı Rıza Akpolat’a yaklaşık 23 yıl verildi.
-- Utku Caner Çaykara, Zeydan Karalar ve Oya Tekin hapis aldı.
-- Oya Tekin’in tutukluluğu sürerken bazı tutuklular için devam kararı çıktı.
-- Ahmet Özer sahtecilikten beraat etti, görevi ihmalden ceza aldı.
-- Kararlar istinaf ve Yargıtay’a taşınacak, usul tartışmaları büyüyor.
+- Cem Küçük dosyasında soruşturma genişledi, yeni şüpheliler eklendi.
+- Serdar Özyurt, Ahsen Melek Kocatürk ve İsmail Çanak dosyaya girdi.
+- Savcılık bazı isimler hakkında yakalama kararı çıkardı.
+- Suçlamalar bahis, kara para, şantaj, rüşvet ve fuhuş iddiaları.
+- MASAK raporlarında çok sayıda para transferi ve şüpheli işlem.
+- Bazı şüphelilerin telefon bırakıp kaybolduğu, Kocatürk’ün yurtdışında olduğu.
+- Rasim Ozan Kütahyalı tahliye edildi, soruşturma ise sürüyor.
+- Süleymancılar operasyonunda Alihan Kuriş ve çok sayıda kişi tutuklandı.
+- Arif Ahmet Denizolgun’un mezarı açıldı, cinayet şüphesi araştırılıyor.
+- Kocaeli’de sarı torba provokasyonu soruşturuldu, beş kişi gözaltında.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Murat Yetkin](https://www.youtube.com/watch?v=Wlr7qMkTaTY&t=300s) (⏱️ 05:00-08:28)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=_kPZEW3R4LY&t=30s) (⏱️ 00:30-04:00)
-- [Unsal Unlu](https://www.youtube.com/watch?v=1YCsl0Jm7gg&t=81s) (⏱️ 01:21-22:59)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=nR_pWhuiC1I&t=1080s) (⏱️ 18:00-33:00)
-- [Hilal Koylu](https://www.youtube.com/watch?v=9zIYudQb2ws&t=13s) (⏱️ 00:13-25:41)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=U97p3VnamhM&t=15s) (⏱️ 00:15-10:01)
+- [Hilal Koylu](https://www.youtube.com/watch?v=iuU6V7WDT-U&t=19s) (⏱️ 00:19-16:32)
+- [Murat Yetkin](https://www.youtube.com/watch?v=xcTEz6Ur8Rg&t=791s) (⏱️ 13:11-15:10)
+- [Rusen Cakir](https://www.youtube.com/watch?v=YBBxMBpn6qA&t=3s) (⏱️ 00:03-10:33)
 
 ---
 
-## 2. Terörsüz Türkiye Sürecinde Gerilimler Artıyor
+## 2. Yeni Parti Tartışmaları ve İmralı Sızıntısı
 
-- Ankara, Terörsüz Türkiye süreci için yeni kurullar oluşturdu.
-- Milli Dayanışma ve Bütünleşme Koordinasyon Kurulu Cevdet Yılmaz başkanlığında toplanacak.
-- Adli-hukuki, izleme, sosyal uyum ve silahsızlanma komisyonları kuruldu.
-- Silahsızlanmada 3T mekanizması ve tescil tartışmaları öne çıktı.
-- Öcalan'ın sürece dahil rolü ve iletişimi siyaset gündeminde.
-- İmralı görüşme notları sızdırıldı, amaç provokasyon şüphesi doğurdu.
-- Kandil notları yalanladı, bazı yorumcular metinleri otantik savundu.
-- Sokakta protestolar arttı, şehit yakını ve gazilere müdahale eleştirildi.
-- Zonguldak ve Düzce'de mevsimlik tarım işçilerine saldırılar yaşandı.
-- PKK'nın paylaştığı iddia edilen isim listesi ailelerde tepki doğurdu.
+- Özgür Özel ve 91 milletvekili yeni bir parti kurdu.
+- Parti, CHP’den kopanların adresi gibi görünmekle eleştiriliyor.
+- Gökhan Günaydın, üç güçlü vaat ve net anlatı çağrısı yaptı.
+- Günaydın, siyaset tarzının Erdoğan’a hizmet etmemesi gerektiğini söyledi.
+- Parti içinde, Kuşadası Belediyesi soruşturması tartışma yarattı.
+- Bülent Tezcan’ın ailesinin soruşturmada anılması istifa çağrılarını artırdı.
+- Tezcan, kızının ve damadının yurt dışında olduğunu açıkladı.
+- Baki Aydöner, gözaltı ve tutuklama pratiklerine sert eleştiri yöneltti.
+- Barış süreci tartışmalarında meclis komisyonu ve çerçeve yasa öne çıktı.
+- İmralı sızıntıları sonrası Öcalan, görüntü ve metinlere komplo dedi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Murat Yetkin](https://www.youtube.com/watch?v=Wlr7qMkTaTY&t=32s) (⏱️ 00:32-03:10)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=nR_pWhuiC1I&t=2580s) (⏱️ 43:00-51:00)
-- [Hilal Koylu](https://www.youtube.com/watch?v=9zIYudQb2ws&t=1545s) (⏱️ 25:45-31:40)
-- [Rusen Cakir](https://www.youtube.com/watch?v=1Ed-6GiOT0M&t=3s) (⏱️ 00:03-02:29)
-- [Serdar Akinan](https://www.youtube.com/watch?v=xrALfzdq7FI) (⏱️ 00:00-15:31)
+- [Rusen Cakir](https://www.youtube.com/watch?v=7ijHsY36O_o&t=230s) (⏱️ 03:50-35:56)
+- [Hilal Koylu](https://www.youtube.com/watch?v=iuU6V7WDT-U&t=2182s) (⏱️ 36:22-37:11)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=301kQmnUSvc) (⏱️ 00:00-09:12)
 
 ---
 
-## 3. Operasyonlar, tutuklamalar ve tahsisli araç iddiaları
+## 3. Tutukluluk ve Kayyum Tartışmaları Büyüyor
 
-- Cemaatlere yönelik operasyonlar sürerken Furkan Vakfı kurucusu Kuytul tutuklandı.
-- Alpaslan Kuytul ve eşi Semra Kuytul gözaltından sonra cezaevine gönderildi.
-- Semra Kuytul Diyarbakır’a, Alpaslan Kuytul ise Erzurum’a sevk edildi.
-- Ailelerin cezaevi bilgisine ulaşamaması tepki ve belirsizlik yarattı.
-- Kuytul’un kızı sosyal medyada anne babasının yerini aradı.
-- Furkan Hareketi üyeleri yürüyüş ve eylemlerle tutuklamalara karşı tepki gösterdi.
-- Süleymancılar soruşturmasında Alihan Kuriş tutuklandı, kardeşi firari bildirildi.
-- Firariler soruşturmasında İdris Naim Şahin’e tahsisli araç iddiası gündeme geldi.
-- Şahin, araçların haberi olmadan kullanıldığını söyleyip suç duyurusu açıkladı.
-- Kuşadası soruşturmasında Bülent Tezcan’ın yakınları ve belediye bağlantıları tartışıldı.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Unsal Unlu](https://www.youtube.com/watch?v=1YCsl0Jm7gg&t=1054s) (⏱️ 17:34-18:44)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=nR_pWhuiC1I&t=180s) (⏱️ 03:00-10:00)
-- [Hilal Koylu](https://www.youtube.com/watch?v=9zIYudQb2ws&t=1901s) (⏱️ 31:41-35:53)
-
----
-
-## 4. Ekonomik Baskı ve Siyasi Kırılganlık
-
-- Seçim dönemi için Merkez Bankası ekonomik revizyon planlıyor iddiası.
-- Gecelik faizin yüzde 37’ye düşmesi için hazırlık yapıldığı konuşuluyor.
-- Krediye erişim kolaylaşsın, kredi maliyetleri düşsün hedefi öne çıkıyor.
-- Faiz indirimi kısa vadede kurda değer kaybı riski taşıyor.
-- Kur-enflasyon dengesi için kurun hedef seviyeye çekilmesi tartışılıyor.
-- Enflasyonun talep değil, maliyet ve arz kaynaklı olduğu savunuluyor.
-- Devlet harcamalarının yüksekliği maliyet enflasyonunu artırıyor eleştirisi yapılıyor.
-- Yüksek faiz ve kredi maliyeti konkordato ve iflasları artırıyor.
-- Alım gücü düşüyor; kira ve okul masrafları hızla yükseliyor.
-- Siyasi yönetim krizi uyarıları, uzlaşma ve referandum çağrılarını güçlendiriyor.
+- AİHM, Osman Kavala’nın derhal serbest bırakılmasını istedi yeniden.
+- Mahkeme, tazminat ve masraflar dahil yaklaşık 43 bin euro.
+- Kararda özgürlük, adil yargılanma ve ifade hakları ihlali vurgulandı.
+- Karar sonrası Ankara-Avrupa hattında sert tepkiler ve tartışmalar yaşandı.
+- Yayın, Kavala’nın eşi iktisatçı Ayşe Buğra’ya ithaf edildi.
+- Sunucular, AYM ve uluslararası kararlar sonrası siyasi adım bekledi.
+- Esenyurt Belediye Başkanı Ahmet Özer tutukluluk sürecini ayrıntılı anlattı.
+- Özer, ilk dosyaların boş ve düzmece olduğunu savundu açıkça.
+- İhale ve sahtecilikten beraat etti, görev ihmali cezası aldı.
+- Kayyum uygulamasının halk iradesini zedelediğini, partizanlığı artırdığını söyledi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=3yTN8B28h5E) (⏱️ 00:00-09:23)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=eUBYKsLcpjM&t=26s) (⏱️ 00:26-15:59)
-- [Serdar Akinan](https://www.youtube.com/watch?v=xrALfzdq7FI&t=1661s) (⏱️ 27:41-31:14)
-
----
-
-## 5. Bülent Ersoy Konserinde Gecikme Gerginliği
-
-- Bülent Ersoy’un konseri gecikmeli başladı, seyirciler tepki gösterdi.
-- Gecikme nedeniyle izleyiciler arasında tartışma ve gerginlik yaşandı.
-- Sanatçının sahnede seyirciyle gerildiği ve sinirlendiği aktarıldı.
-- Olay sonrası sosyal medyada eleştiri ve linç paylaşımları yayıldı.
-- Sunucular, hakkını arayan seyircinin eleştirilmesine tepki gösterdi.
-- Gecikmenin nedeni sağlık ya da mazeretse açıklanması gerektiği söylendi.
-- Programda yaş ve olası sağlık durumunun etkili olabileceği belirtildi.
-- Yorumcular, insani boyutun unutulmamasını ve ölçülü tepkiyi önerdi.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Nevsin Mengu](https://www.youtube.com/watch?v=_kPZEW3R4LY&t=2880s) (⏱️ 48:00-49:31)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=nR_pWhuiC1I&t=3360s) (⏱️ 56:00-59:28)
-
----
-
-## 6. Madencilerin Ankara Alacak Eylemi
-
-- Madenciler Ankara’da haftalardır alacakları için eylem yapıyor.
-- Eylem noktası Enerji ve Tabii Kaynaklar Bakanlığı önü.
-- Madenciler yaklaşık 15 gündür kesintisiz bekleyişlerini sürdürüyor.
-- İşçiler toplam 36 milyon lira alacakları olduğunu iddia ediyor.
-- Taleplerin karşılanmadığını ve görüşme ayarlanmadığını söylüyorlar.
-- Daha önceki eylemlerde hükümetin araya girdiği belirtiliyor.
-- Eskişehir’den gelen işçiler sonrası bazı gözaltılar yaşandı.
-- Süreçte bazı haberlerde yanlış bilgilerin yayıldığı ifade edildi.
-- CHP lideri Özgür Özel bugün eylemde madencilerle buluştu.
-- Özel, daha önce Meclis’te madencileri ağırladığını hatırlattı.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Murat Yetkin](https://www.youtube.com/watch?v=Wlr7qMkTaTY&t=238s) (⏱️ 03:58-04:54)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=_kPZEW3R4LY&t=2640s) (⏱️ 44:00-48:00)
-
----
-
-## 7. Araç muayenesinde Turka dönemi başlıyor
-
-- Araç muayene sistemi 15 Ağustos 2027’den itibaren değişecek.
-- Yeni dönemde işletme Turka şirketine devredilecek, uygulama başlayacak.
-- 81 ilde 249 sabit ve 103 mobil istasyon kurulacak.
-- Toplam 352 merkez ve yaklaşık 900 muayene hattı planlanıyor.
-- Yapay zeka, yüksek çözünürlüklü kameralar ve lazer sensörler kullanılacak.
-- Robotlar ve otomasyonla kontroller hızlanacak, insan hatası azalacak.
-- Muayene süresinin ortalama 19 dakikaya düşürülmesi hedefleniyor.
-- Kredi kartıyla ödemelerde alınan komisyonun kaldırılacağı açıklandı.
-- Muayene ücretlerini bakanlık belirlemeyi sürdürecek, fiyat denetimi devam edecek.
-- İstasyonlar afet ve acil durumlarda ilk müdahale noktası olacak.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Nevsin Mengu](https://www.youtube.com/watch?v=_kPZEW3R4LY&t=2255s) (⏱️ 37:35-44:00)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=nR_pWhuiC1I&t=3060s) (⏱️ 51:00-56:00)
+- [Rusen Cakir](https://www.youtube.com/watch?v=7ijHsY36O_o) (⏱️ 00:00-03:49)
+- [Hilal Koylu](https://www.youtube.com/watch?v=iuU6V7WDT-U&t=1235s) (⏱️ 20:35-24:50)
 
 ---
 
