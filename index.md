@@ -1,85 +1,88 @@
 # Bugün Ne Oldu?
 
-*29 August 2026 tarihli günlük haber raporu - 4 haber birleştirildi*
+*30 August 2026 tarihli günlük haber raporu - 4 haber birleştirildi*
 
-## 1. İmamoğlu’nun Savunma Kitabına Toplatma Kararı
+## 1. Yüksek profilli dosyalarda yeni soruşturmalar
 
-- Ekrem İmamoğlu hakkındaki İBB yargılaması İstanbul’da sürüyor halen.
-- İddianamede çok sayıda eylem ve farklı suçlama yer aldı.
-- İmamoğlu savunmasını kitaplaştırdı ve yayımlanması planlandı yakın zamanda.
-- Kırmızı Kedi, kitabı basma kararını kamuoyuna duyurdu.
-- Kitabın adı Millet Şahidimdir olarak açıklandı kamuoyuna.
-- Savcılık, kitap piyasaya çıkmadan toplatma ve satış yasağı istedi.
-- Mahkeme, henüz basılmamış kitaba basım engeli kararı verdi.
-- Karar, ifade özgürlüğü ve demokrasi açısından eleştirildi yaygın şekilde.
-- Uygulama, geçmişte Ahmet Şık kitabının engellenmesine benzetildi.
-- Tartışmada, davaların TRT’de canlı yayınlanması önerisi yeniden gündeme geldi.
+- Kaşif Kozinoğlu’nun 2011 Silivri’deki şüpheli ölümü yeniden soruşturulacak.
+- Otopsi raporları yeniden incelenecek, yeni bulgular aranacak dosyada.
+- O dönem görev yapan doktorlar ve hasta bakıcılar tekrar sorgulanacak.
+- Adalet Bakanı, dosyanın yeniden ele alınabileceğine dair işaret verdi.
+- Eski İçişleri Bakanı İdris Naim Şahin’in ifadesine başvurulacağı bildiriliyor.
+- Soruşturmada Süleymancı yapılanması ve Alihan Kuriş iddiaları ele alınıyor.
+- Aranan Hilmi Tuna Kuriş, kendisine tahsisli bir araçta yakalandı.
+- Kemal Öztürk’ün Alevilerle ilgili sözleri için soruşturma çağrıları yapıldı.
+- Melih Gökçek hakkında yurt dışına kayıt dışı para aktarma iddiası var.
+- Ankara Başsavcılığı resen soruşturma başlattı, ABB ayrıca şikayetçi oldu.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=52I9aEwK8h0&t=779s) (⏱️ 12:59-14:06)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=SVZU7KzCZdY&t=1070s) (⏱️ 17:50-22:22)
-- [Inan Demirel](https://www.youtube.com/watch?v=pWxYhfCgFjM&t=1763s) (⏱️ 29:23-35:06)
+- [Inan Demirel](https://www.youtube.com/watch?v=dg3_g-y2eMg&t=744s) (⏱️ 12:24-15:18)
+- [Onlar TV](https://www.youtube.com/watch?v=iVXkhKUbKgU&t=80s) (⏱️ 01:20-02:09)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=miIbThHqDEE&t=1790s) (⏱️ 29:50-43:46)
+- [Murat Yetkin](https://www.youtube.com/watch?v=-UNgh7TAlMQ&t=428s) (⏱️ 07:08-08:15)
 
 ---
 
-## 2. Mizah ve ifade özgürlüğü tartışması
+## 2. 30 Ağustos Zaferinin Tarihsel Önemi
 
-- Komedyen Deniz Göktaş, suçu ve suçluyu övmek suçlamasıyla tutuklandı.
-- Cezaevinden SEGBİS aracılığıyla ifade vererek savunmasını mahkemeye sundu.
-- Mahkeme, kaçma ve delil karartma riskiyle tutukluluğu sürdürdü.
-- Göktaş, tahliye haberinden hemen sonra yeniden tutuklandığını söyledi.
-- Yeniden tutuklama, başka bir soruşturmada aynı suçlamayla geldi.
-- Dosyada cumhurbaşkanına hakaret ve dini değerleri aşağılamak iddiaları anıldı.
-- Savcıların gösteriyi izleyip tahliye sonrası yeni suç bulduğu öne sürüldü.
-- Gösteride Telegram, çete ve tetikçi esprileri mizahi örneklerdi.
-- Süreç, ifade özgürlüğü ve mizahın yargılanması tartışmasını büyüttü.
-- AİHM kararları, uluslararası yükümlülük ve hukuk güvenliği boyutunu gündeme taşıdı.
+- 30 Ağustos Zafer Bayramı için özel yayınlarla kutlama yapıldı.
+- Yayınlarda önyargısız, gerçeklere dayalı tarih anlatımı vurgulandı.
+- Büyük Taarruzun planlı hazırlıkla kazanıldığı ve zorluğu anlatıldı.
+- Mondros sonrası çöküşten kurtuluşa giden süreç kısaca hatırlatıldı.
+- Erzurum ve Sivas kongreleri ile lider kadronun rolü vurgulandı.
+- Sakarya’dan Büyük Taarruz’a uzanan stratejik mücadele özetlendi.
+- Cumhuriyetin kazanımları, eğitim ve kadın hakları örnekleriyle açıklandı.
+- Atatürk’ün laik demokratik hukuk devleti hedefi öne çıkarıldı.
+- Dolaşımdaki fotoğraf tartışıldı, Şehabettin Gürler detayıyla doğrulandı.
+- Tarih çarpıtmalarına karşı birlik, demokrasi ve tartışma çağrısı yapıldı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=SVZU7KzCZdY&t=181s) (⏱️ 03:01-11:05)
-- [Inan Demirel](https://www.youtube.com/watch?v=pWxYhfCgFjM&t=96s) (⏱️ 01:36-07:06)
+- [Inan Demirel](https://www.youtube.com/watch?v=dg3_g-y2eMg&t=1s) (⏱️ 00:01-08:09)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=miIbThHqDEE&t=18s) (⏱️ 00:18-25:32)
+- [Unsal Unlu](https://www.youtube.com/watch?v=WO9FYVmAF-0&t=31s) (⏱️ 00:31-03:38)
 
 ---
 
-## 3. Siyasi Süreçte İmralı ve Operasyonlar
+## 3. Muhalefette kurultay ve süreç tartışmaları
 
-- İmralı görüşmeleri ve silah bırakma süreci üzerindeki tartışmalar sürüyor.
-- Kamuoyunda ve entelektüellerde heyecan ve ikna eksikliği dikkat çekiyor.
-- Faik Özgür Eroğlu’nun avukat sözleri ve destek eksikliği tepki çekti.
-- Bazı gruplar sert açıklamalar yaptı, Kuvayi Milliye çağrısı gündeme geldi.
-- Öcalan ve İmralı başlıklarının süreçte daha fazla öne çıkacağı konuşuluyor.
-- Silah bırakmanın tescili için MİT tespiti ve MGK raporu bekleniyor.
-- Ekim hedefi dillendiriliyor, ancak gecikme ihtimali de değerlendiriliyor.
-- Den Parti kongresi sembolik görüldü, kadro değişimi sonraya bırakıldı.
-- Süleymancılar operasyonu sürüyor, soruşturma suç örgütü kapsamında yürütülüyor.
-- İdris Naim Şahin’in ifadeye çağrılabileceği ve yeni gelişmeler izlendi.
+- Kulislerde Kılıçdaroğlu yerine Muharrem İnce senaryosu konuşuluyor.
+- Amaç CHP oylarını kontrol edip muhalefeti bölmek iddiası öne çıkıyor.
+- İnce’nin geçmiş performansı, planın etkisine dair kuşku yaratıyor.
+- CHP’de adaylık ve kurultay tartışmaları yeniden gündeme taşındı.
+- Muhalefetin geleceği ve ortak strateji arayışı yayınlarda tartışıldı.
+- Eylül’de kurultay ve hatta parti adının değişmesi konuşuluyor.
+- Sol ve Kürt grupların süreçte partiden kopabileceği değerlendiriliyor.
+- Bu tartışmaların seçim sonuçları ve liderliğe etkisi sorgulanıyor.
+- Diğer gündemde PKK için çerçeve yasa çıktı, fesih bekleniyor.
+- Toplumsal rıza eksikliği, milliyetçi tepkiler ve güven sorunu sürüyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=52I9aEwK8h0&t=849s) (⏱️ 14:09-31:06)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=SVZU7KzCZdY&t=1641s) (⏱️ 27:21-29:20)
+- [Inan Demirel](https://www.youtube.com/watch?v=dg3_g-y2eMg&t=2132s) (⏱️ 35:32-41:00)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=miIbThHqDEE&t=2690s) (⏱️ 44:50-51:14)
+- [Rusen Cakir](https://www.youtube.com/watch?v=y-09z4Qd-nw&t=6s) (⏱️ 00:06-14:35)
 
 ---
 
-## 4. Koza TV’de Yeni Dönem Başladı
+## 4. Art arda tutuklama kararları tartışması
 
-- Yeni kurulan Koza TV yayın hayatına resmen başladı.
-- Koza TV kurucu ekibinden Özgür Çakmakçı ve Gülşah İnce istifa etti.
-- Fikret Bulut, Koza TV’de genel müdür ve yönetici oldu.
-- Bulut, kişisel YouTube kanalındaki programına veda etti.
-- Veda bölümünde izleyici mesajları okundu, teşekkür ve duygusal konuşma yapıldı.
-- Koza TV’nin bağımsız ve eleştirel yayın çizgisinin önemi vurgulandı.
-- İsmail Saymaz, Halk TV’den ayrıldığını ve yakında döneceğini söyledi.
-- RTÜK lisansı tartışmaları ve olası kayyum iddiaları gündeme geldi.
-- Halk TV’nin yayın geleceğine dair endişeler kamuoyunda dile getirildi.
-- Bağımsız medyanın korunmasının demokrasi için kritik olduğu belirtildi.
+- Komedyen Deniz Göktaş, espri sonrası tahliye edilip yeniden tutuklandı.
+- Tutuklama gerekçesi olarak suçu ve suçluyu övmek suçlaması gösterildi.
+- Göktaş’ın ifadeye avukatsız çağrıldığı ve bilgilendirme yapılmadığı öne sürüldü.
+- Olay, Osman Kavala örneğiyle kıyaslanarak tartışmalara yol açtı.
+- Göktaş, açıklamasında hatasını anladığını söyleyerek kamuoyuna seslendi.
+- Manifest grubunun kurucusu Tolga Akış, tutuklanarak gündeme geldi.
+- Akış’a müstehcen yayınlara aracılık etmek suçlaması yöneltildi.
+- Tutuklamanın popüler kültüre kontrol mesajı olduğu iddiası dile getirildi.
+- Mehmet Akif Ersoy bağlantılı iddiada dört kişi tutuklandı.
+- İsmail Sancak için gözaltı kararı iddiası ve karışık bilgiler var.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=SVZU7KzCZdY&t=1342s) (⏱️ 22:22-27:21)
-- [Inan Demirel](https://www.youtube.com/watch?v=pWxYhfCgFjM&t=2107s) (⏱️ 35:07-42:13)
+- [Inan Demirel](https://www.youtube.com/watch?v=dg3_g-y2eMg&t=489s) (⏱️ 08:09-12:23)
+- [Onlar TV](https://www.youtube.com/watch?v=iVXkhKUbKgU&t=871s) (⏱️ 14:31-14:52)
 
 ---
 
