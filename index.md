@@ -1,109 +1,91 @@
 # Bugün Ne Oldu?
 
-*1 September 2026 tarihli günlük haber raporu - 5 haber birleştirildi*
+*2 September 2026 tarihli günlük haber raporu - 4 haber birleştirildi*
 
-## 1. Soruşturmalar Medya ve Yargıyı Sarsıyor
+## 1. Yargı ve siyaset gerilimi büyüyor
 
-- Ankara’da Gökçek ailesi hakkında örgütlü suç soruşturması derinleşiyor.
-- ABB avukatı Nadi Türkaslan yeni suç duyurusu yaptı.
-- Dosyada belediye kaynaklarının ihalelerle usulsüz aktarıldığı iddia ediliyor.
-- Beyaz TV ve Osmanlıspor’un faaliyetlerle bağlantısı bulunduğu öne sürülüyor.
-- Bazı Beyaz TV çalışanları gözaltına alındı, teslimler yaşandı.
-- Murat Ağırel’in Düsseldorf merkezli belge ve haberleri soruşturmaya girdi.
-- Almanya’da şirket, apartman alımı ve şüpheli para hareketleri inceleniyor.
-- MASAK ve savcılık para kaynağı ile tapu kayıtlarını araştıracak.
-- Yargıda usulsüz tahliye iddialarında HSK, bazı hakimleri ihraç etti.
-- İfade özgürlüğü tartışmaları İmamoğlu kitabı, Göktaş ve Öztürk’e uzandı.
+- 31 Mart sonrası iktidarın kaybetme korkusuyla baskıyı artırdığı savunuldu.
+- Yargı, medya ve kolluğun partizanlaştığı, muhalefete operasyonlar yapıldığı öne sürüldü.
+- İstanbul il binasına 5 bin polis girişi örnek olarak anlatıldı.
+- Gazeteciler gözaltına alındı, sendika yöneticileri tutuklandı ve eleştirildi.
+- Bağımsız Maden-İş yöneticileri tutuklandı, Başaran Aksu açlık grevine başladı.
+- Belediyelere İller Bankası kesintileri, SGK vergi borçlarıyla baskı uygulandığı söylendi.
+- Gelir getiren belediye varlıklarına el konması hizmet üretimini zorlaştırdı denildi.
+- Bazı başkanların AKP’ye geçişinde tehdit ve tutuklama baskısı iddia edildi.
+- Silivri davalarında somut delil yok, savunma hakkı kısıtlı eleştirisi yapıldı.
+- Gökçek ifadeye çağrıldı; operasyonlar hukuk devleti imajını onarma amacıyla yorumlandı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=dccZH7pkLBs&t=69s) (⏱️ 01:09-09:55)
-- [Rusen Cakir](https://www.youtube.com/watch?v=ckk5NyOWfok&t=4s) (⏱️ 00:04-11:32)
-- [Onlar TV](https://www.youtube.com/watch?v=1mEYH_BSzno) (⏱️ 00:00-02:06)
-- [Hilal Koylu](https://www.youtube.com/watch?v=bCF5KSCuIRM&t=72s) (⏱️ 01:12-03:45)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=EmBnx2RJHgU&t=1551s) (⏱️ 25:51-37:47)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=W2bD5jhPNck&t=1997s) (⏱️ 33:17-33:55)
-- [Murat Yetkin](https://www.youtube.com/watch?v=4RunCYZnW_w&t=12s) (⏱️ 00:12-05:50)
+- [Rusen Cakir](https://www.youtube.com/watch?v=j55chIN-Z-c&t=1761s) (⏱️ 29:21-35:29)
+- [Serdar Akinan](https://www.youtube.com/watch?v=Egvgd1uDeXI&t=105s) (⏱️ 01:45-11:16)
+- [Hilal Koylu](https://www.youtube.com/watch?v=Cpc6LvB_a10&t=3s) (⏱️ 00:03-07:11)
+- [Cigdem Toker](https://www.youtube.com/watch?v=b9lndsJusLw&t=359s) (⏱️ 05:59-12:46)
+- [Unsal Unlu](https://www.youtube.com/watch?v=M8IZqBPsbds&t=335s) (⏱️ 05:35-06:54)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=560BbX3Fo_8&t=69s) (⏱️ 01:09-03:24)
 
 ---
 
-## 2. Yeni Parti’de büyüme ve tartışmalar
+## 2. Yeni Parti Muhalefette Yeni Denge
 
-- Yeni Parti yeni genel merkez binasını törenle açtığını duyurdu.
-- Parti, kısa sürede 600 bin üyeye ulaştığını açıkladı.
-- Kurucular ve yöneticiler, genel merkezde ilk toplantılarını yapacak.
-- Parti yönetimi, finansmanın bağışlarla sağlandığını özellikle vurguladı.
-- Yeni Parti, delege sistemini bırakıp doğrudan üye seçimi planlıyor.
-- Genel başkan ile il ve ilçe başkanları üyelerce seçilecek.
-- Murat Kızılboğa raporunda Yeni Parti yüzde 31,8 ile önde.
-- Özgür Özel, iktidar olmazsam partiden ayrılırım dedi.
-- Özgür Özel ile Muharrem İnce arasında söylem tartışmaları sürüyor.
-- Mecliste Kani Torun istifası sonrası, Yeni Yol grubu korundu.
+- Yeni Parti, kayyum ve müdahale iddiaları sonrası zorunluluktan doğdu.
+- Özgür Özel yeni genel merkezde çalışmalara başlayıp iddiaları reddetti.
+- Partiye 15-18 günde 500-600 bin üyelik başvurusu yapıldı.
+- İstanbul’da yaklaşık 105 bin üye kaydı alındığı açıklandı.
+- Üyelerin çoğunun gençler ve kadınlar olduğu özellikle vurgulandı.
+- Ekrem İmamoğlu cumhurbaşkanı adayı gösterildi, siyasi yasak riski konuşuluyor.
+- Aday belirlemede 26 Ağustos’a kadar üyelerin oy kullanacağı söylendi.
+- Mansur Yavaş’ın anketlerde önde olduğu, geniş ittifak ihtimali tartışıldı.
+- İBB soruşturmaları, belediye meclis dengeleri ve yerel ittifak iddiaları gündemde.
+- Ekonomi, hukuk krizi ve seçim güvenliği endişeleri muhalefeti şekillendiriyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=W2bD5jhPNck&t=663s) (⏱️ 11:03-12:43)
-- [Hilal Koylu](https://www.youtube.com/watch?v=bCF5KSCuIRM&t=790s) (⏱️ 13:10-15:15)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=560BbX3Fo_8&t=243s) (⏱️ 04:03-07:11)
+- [Hilal Koylu](https://www.youtube.com/watch?v=Cpc6LvB_a10&t=432s) (⏱️ 07:12-16:56)
+- [Rusen Cakir](https://www.youtube.com/watch?v=j55chIN-Z-c&t=311s) (⏱️ 05:11-10:26)
+- [Serdar Akinan](https://www.youtube.com/watch?v=Egvgd1uDeXI&t=676s) (⏱️ 11:16-39:58)
+- [Unsal Unlu](https://www.youtube.com/watch?v=M8IZqBPsbds&t=93s) (⏱️ 01:33-27:57)
 
 ---
 
-## 3. 1 Eylül Barış Günü Çağrıları
+## 3. Ortadoğu Krizinde Yeni Güç Dengeleri
 
-- 1 Eylül Dünya Barış Günü, barış çağrılarıyla anılıyor bugün.
-- Sivil toplum kuruluşları Türkiye’de günü barış etkinlikleriyle kutluyor.
-- Atatürk’ün “Yurtta sulh, cihanda sulh” sözü yeniden hatırlatılıyor.
-- Konuşmacılar, artan çatışma ortamında barışın önemini vurguluyor.
-- Rusya-Ukrayna savaşı sürüyor, diplomatik çözüm umutları zayıf görünüyor.
-- Filistin-İsrail çatışması devam ediyor, çevre ülkelere etkiler büyüyor.
-- Batı ve Doğu Afrika’da çatışmalar ve gerilimler gündemde kalıyor.
-- Yemen’de uzun süren kriz, bölgesel istikrarsızlığı derinleştiriyor.
-- ABD ile İran arasında hava sahasında tehlikeli gerilim yaşanıyor.
-- Jet müdahaleleri ve drone düşürmeleri, çatışma riskini artırıyor.
+- İran ve Rusya arasında fiili bir ittifak olduğu değerlendiriliyor.
+- İran, Rusya’ya drone ve istihbarat desteği sağlayarak güç kattı.
+- ABD’nin Patriot ve füze savunma stoklarında ciddi düşüş yaşanıyor.
+- Patriot sistemleri ucuz dronelara karşı kullanıldığında maliyet artıyor.
+- Yeni Patriot üretimi gecikiyor, çok ülkenin talebi tedariki zorluyor.
+- ABD komutanları, kriz uzarsa başka bölgelerde zafiyet uyarısı yaptı.
+- Rusya’nın Ukrayna’ya saldırı temposu son haftalarda belirgin arttı.
+- Suriye’de SDG’nin Şam’la entegrasyonu, ABD desteği azalınca hızlandı.
+- İsrail, Kürtlere söylemde yakın dursa da fiili destek veremedi.
+- Türkiye, Suriye ve PKK/PYD bağlantılarıyla güvenlik kaygılarını öne çıkarıyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=EmBnx2RJHgU&t=12s) (⏱️ 00:12-02:04)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=W2bD5jhPNck) (⏱️ 00:00-02:52)
+- [Rusen Cakir](https://www.youtube.com/watch?v=2hU1kO3Rnt8&t=17s) (⏱️ 00:17-11:40)
+- [Serdar Akinan](https://www.youtube.com/watch?v=Egvgd1uDeXI&t=2399s) (⏱️ 39:59-69:27)
 
 ---
 
-## 4. Açlık ve İşsizlikte Kötüleşen Tablo
+## 4. Gelirler Eriyor Yeni Destek Tartışması
 
-- Türkiye’de açlık sınırı 37 bin TL olarak açıklandı.
-- Yoksulluk sınırı 121 bin TL düzeyinde hesaplandı.
-- Maaşlar ve emekli aylıkları bu sınırların altında kaldı.
-- TÜİK’e göre temmuzda işsiz sayısı 150 bin arttı.
-- Toplam işsiz sayısı 2 milyon 860 bine yükseldi.
-- İşsizlik oranı yüzde 8,1 seviyesinde açıklandı.
-- Genç işsizlik 1,5 puan artarak yüzde 14,5 oldu.
-- İstihdam kaybı ve geçim sıkıntısı kamuoyunda öne çıktı.
-- Bu tablo ekonomik gündemi ve seçim tartışmalarını etkiliyor.
-- TOGG’da ortaklık değişimi iddiaları ve yeni T6X modeli konuşuluyor.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=W2bD5jhPNck&t=2110s) (⏱️ 35:10-37:12)
-- [Hilal Koylu](https://www.youtube.com/watch?v=bCF5KSCuIRM&t=1511s) (⏱️ 25:11-28:23)
-
----
-
-## 5. KKTC feribot faciasında ihmal iddiaları
-
-- KKTC’de bir katamaran feribot kazasında facia yaşandı.
-- Olayda 8 kişi öldü, 20 kişi kayıp bildirildi.
-- Gemi kısa sürede devrildi, yaklaşık 20 dakikada battı.
-- Görgü tanıkları daha önce su sızıntısını yetkililere bildirdiklerini söyledi.
-- Geminin geçmişte hasarlı olduğu ve sertifika sorunları yaşadığı öne sürüldü.
-- Norveç Lloyd benzeri kuruluşların sertifika vermediği iddia edildi.
-- Buna rağmen geminin farklı yollarla sefer yapabildiği anlatıldı.
-- Kurtarma sürecinde aksaklıklar olduğu ve müdahalenin geciktiği belirtildi.
-- Liman görevlileri uzaklaştırıldı, mürettebat ve şirketten bazıları gözaltında.
-- Eski-yeni sahipler ve sorumlular için şeffaf soruşturma çağrısı yapıldı.
+- TÜİK verilerine göre açlık sınırı 37.388 TL açıklandı.
+- Yoksulluk sınırı 121.786 TL olarak hesaplandı ve duyuruldu.
+- Asgari ücret birçok hesaplamada açlık sınırının altında kalıyor.
+- Kamu çalışanları ve emniyet mensupları bu gelirlerin altında kalabiliyor.
+- Alım gücü düşerken enflasyon ve zamlar geçimi zorlaştırıyor.
+- Yarın yeni enflasyon verileri açıklanacak, beklentiler yüksek seyrediyor.
+- Yakında üç yıllık Orta Vadeli Programın açıklanması planlanıyor.
+- Programın pazar günü açıklanacağına dair resmi atıflar yapıldı.
+- Vatandaşlık maaşı pilotu, düşük gelirli haneleri hedefleyen destek öneriyor.
+- Aynı evde toplam gelir hesaplanıp eksik kısım ödenecek.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=EmBnx2RJHgU&t=2667s) (⏱️ 44:27-54:01)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=W2bD5jhPNck&t=172s) (⏱️ 02:52-08:44)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=Pg6GcQ4Ows4) (⏱️ 00:00-04:26)
+- [Cigdem Toker](https://www.youtube.com/watch?v=b9lndsJusLw&t=608s) (⏱️ 10:08-10:39)
 
 ---
 
