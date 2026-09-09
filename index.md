@@ -1,130 +1,132 @@
 # Bugün Ne Oldu?
 
-*8 September 2026 tarihli günlük haber raporu - 6 haber birleştirildi*
+*9 September 2026 tarihli günlük haber raporu - 6 haber birleştirildi*
 
-## 1. Adliyede Davutoğlu ve Gökçek Soruşturmaları
+## 1. Üsküdar’da vekillik krizi büyüyor
 
-- Ahmet Davutoğlu 7 Eylül’de Ankara Adliyesi’nde ifade verdi.
-- Soruşturma, Cumhurbaşkanına hakaret iddiasıyla yürütülüyor ve tartışma yarattı.
-- İddia, 2021 Bingöl konuşmasındaki “haram yediler” sözlerine dayanıyor.
-- Davutoğlu, sözlerinin arkasında durduğunu ve ifade özgürlüğünü savundu.
-- AİHM ve AYM kararlarına atıf yaparak düşünce özgürlüğünü vurguladı.
-- Davutoğlu adliyeye Ali Babacan ve Mahmut Arı ile gitti.
-- Yayında, Cumhurbaşkanına hakaret davalarının sayısının arttığı anlatıldı.
-- Melih Gökçek de savcılığa ifade verdi, ardından serbest bırakıldı.
-- Ahmet Gökçek ve Hülya Gökçek’e yurt dışı çıkış yasağı getirildi.
-- Almanya bağlantılı para hareketleri, taşınmaz alımı ve kayıt dışı iddiaları konuşuldu.
+- Üsküdar Belediyesi 2024’te CHP kazandı, sonra AK Parti’ye geçti.
+- Belediye Başkanı Sinem Dedetaş 31 Temmuz’da tutuklanarak görevden uzaklaştı.
+- Başkan vekilliği seçimi önce CHP’ye geçti, sonra iptal edildi.
+- Mahkeme kararıyla yenilenen oylamada AK Parti adayı kazandı.
+- Süreçte bazı CHP’li meclis üyeleri tutuklandı veya parti değiştirdi.
+- Baskı, tehdit, rüşvet ve aile üzerinden yönlendirme iddiaları gündeme geldi.
+- Meclis üyesi Ayhan Aydın tehdit iddialarını reddetti, farklı anlattı.
+- CHP İl Başkanı Özgür Çelik’in açıklamaları sonrası savcılık soruşturma açtı.
+- Olay, İBB Meclisi dengesi ve sandığa güven tartışmalarını büyüttü.
+- CHP içinde 103. yıl mesajları, Kılıçdaroğlu tepkileri konuşuldu.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Nevsin Mengu](https://www.youtube.com/watch?v=n0RcVueyXoA&t=480s) (⏱️ 08:00-11:30)
-- [Serdar Akinan](https://www.youtube.com/watch?v=p0Pvwp0T97o&t=81s) (⏱️ 01:21-10:32)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=S_o_WaYCDUs) (⏱️ 00:00-02:45)
-- [Murat Yetkin](https://www.youtube.com/watch?v=CyOLgsodogc&t=48s) (⏱️ 00:48-09:07)
-- [Rusen Cakir](https://www.youtube.com/watch?v=Ev0J4BJb06s&t=3s) (⏱️ 00:03-13:15)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=l4cxCAdWOnQ&t=522s) (⏱️ 08:42-10:02)
+- [Unsal Unlu](https://www.youtube.com/watch?v=u7TpBfl_Oxs&t=97s) (⏱️ 01:37-06:15)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=B3VNqQQk80w&t=44s) (⏱️ 00:44-14:55)
+- [Cigdem Toker](https://www.youtube.com/watch?v=jBeOnUeWqW0&t=793s) (⏱️ 13:13-14:15)
+- [Murat Yetkin](https://www.youtube.com/watch?v=w2FtAKCnjss&t=6s) (⏱️ 00:06-01:21)
+- [Rusen Cakir](https://www.youtube.com/watch?v=fn27Fc4iDuw&t=3s) (⏱️ 00:03-01:42)
+- [Hilal Koylu](https://www.youtube.com/watch?v=oEGyIONXTeY&t=55s) (⏱️ 00:55-14:56)
 
 ---
 
-## 2. CHP’de İmamoğlu ve Üsküdar gerilimi
+## 2. Türkiye’de Yargı Gündeminde Tartışmalı Dosyalar
 
-- Kemal Kılıçdaroğlu Euronews’te İmamoğlu’nu siyasi tutuklu saymadı.
-- Süreci rüşvet ve yolsuzluk iddialı bir dava olarak tanımladı.
-- Tutukluluğu doğru bulmadığını söyledi, siyaseten bağlantıyı reddetti.
-- Dilek İmamoğlu açıklamaya sert tepki verip siyasi rehin dedi.
-- CHP’de kurultay rüşvet iddiaları Kılıçdaroğlu-Özgür Özel gerilimini büyüttü.
-- Kılıçdaroğlu partide bölünmeyi kabul edip delegelere ben kalırım mesajı verdi.
-- Özgür Özel yeni siyaset ve Türkiye ittifakı çizgisini savunuyor.
-- Muhalefette birleşme, yüzde 51 hedefi ve seçmen kaymaları tartışılıyor.
-- Anketlerde Kılıçdaroğlu ve İmamoğlu’na güven düşerken Özel yükseliyor.
-- Üsküdar’da gözaltılar, tutuklamalar ve transferler seçim krizini derinleştirdi.
+- Tunç Soyer hakkında kooperatif dosyasında iddianame hazırlandığı bildirildi.
+- Savcılık, Soyer için altı yıla kadar hapis istedi.
+- Soyer’in avukatı ve kızı bazı iddiaları reddetti, açıkladı.
+- Kahramanmaraş’taki Ezgi Apartmanı davasında aileler adalet istiyor.
+- Nurgül Göksu, üç çocuğunu kaybetti, delil nöbeti tuttu.
+- Enkazdan şikayet dilekçesi, kesilmiş kolon delilleri savcıya verildi.
+- Bilirkişi raporu sanıkları asli kusurlu buldu, olası kast tartışıldı.
+- 703 gün firari kalan bazı sanıklar Ankara’da villada yakalandı.
+- Gökçek ailesinin Almanya’daki taşınmazı ve para transferi soruşturuluyor.
+- Van’da fenomen düğünü altınları için MASAK incelemesi başlatıldı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Onlar TV](https://www.youtube.com/watch?v=dYKgRKkganY&t=233s) (⏱️ 03:53-05:08)
-- [Hilal Koylu](https://www.youtube.com/watch?v=4H5iVoUDBQw&t=6s) (⏱️ 00:06-01:55)
-- [Murat Yetkin](https://www.youtube.com/watch?v=CyOLgsodogc&t=951s) (⏱️ 15:51-16:43)
-- [Rusen Cakir](https://www.youtube.com/watch?v=oOiSV_VS-KE&t=890s) (⏱️ 14:50-22:55)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=gLYDvmU2SSg&t=323s) (⏱️ 05:23-07:09)
+- [Hilal Koylu](https://www.youtube.com/watch?v=dBrqFHf4U3I&t=10s) (⏱️ 00:10-01:43)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=B3VNqQQk80w&t=1266s) (⏱️ 21:06-22:12)
+- [Onlar TV](https://www.youtube.com/watch?v=HlLVQu8k3nE) (⏱️ 00:00-02:46)
 
 ---
 
-## 3. Siyaset, soruşturma ve ekonomi baskısı
+## 3. Barış Süreci Tartışmaları Yeniden Alevlendi
 
-- Türkiye’de siyasetin kalitesinin düştüğü ve ikiyüzlülük eleştirildi.
-- Ahmet Davutoğlu hakkında soruşturma açıldı, pazartesi ifade verecek.
-- Altaylı, Davutoğlu’nun Erdoğan’a yakın duruşunu sert eleştirdi.
-- Davutoğlu’nun eski görevleri soruşturmanın seyrini etkileyebilir denildi.
-- İktidar içinde yeniden yapılandırma ve bazı isimlerin tasfiyesi konuşuldu.
-- Erdoğan’ın para ihtiyacı olduğu, ekonominin baskı yarattığı iddia edildi.
-- Dikkat dağıtmak için yeni savaş senaryoları, Ege hattı öne çıktı.
-- AKP içindeki zengin isimlere operasyon beklentileri kulislerde dillendirildi.
-- Yeni enflasyon verileri açıklandı, oran yüzde 30 altına inmiyor.
-- Yüksek enflasyonda düşük faiz dönemi ve dış savaş etkileri vurgulandı.
+- Mağdur yakınları, katillerin affedilemeyeceğini söyleyerek tepki gösterdi.
+- Konuşmalarda 55 bin kayıp vurgusu ve öfke dolu ifadeler yer aldı.
+- Devletin Kürtçe yasağı ve kültürel baskılar tekrar gündeme getirildi.
+- Diyarbakır Cezaevi işkence iddiaları, tanık anlatımlarıyla yeniden aktarıldı.
+- Ailelerin sürgün, kayıp, ölüm ve zorunlu göç yaşadığı anlatıldı.
+- Konuşmacılar, çözümün silahla değil siyasetle mümkün olduğunu savundu.
+- İnsan hakları, barış ve ortak bağların yeniden kurulması çağrısı yapıldı.
+- Meclisin açılışında barış ve terör düzenlemeleri görüşülecek denildi.
+- Pişmanlık gösterenler için yasal düzenleme ve yan yasa değişikliği planlanıyor.
+- Anketler, kamuoyunun silah bırakma sürecine güveninin düşük olduğunu gösteriyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=S_o_WaYCDUs&t=166s) (⏱️ 02:46-10:03)
-- [Serdar Akinan](https://www.youtube.com/watch?v=p0Pvwp0T97o&t=1497s) (⏱️ 24:57-28:11)
+- [Serdar Akinan](https://www.youtube.com/watch?v=1ETLrFOOUBQ) (⏱️ 00:00-00:10)
+- [Unsal Unlu](https://www.youtube.com/watch?v=u7TpBfl_Oxs&t=380s) (⏱️ 06:20-08:03)
+- [Murat Yetkin](https://www.youtube.com/watch?v=w2FtAKCnjss&t=526s) (⏱️ 08:46-16:41)
 
 ---
 
-## 4. Gazetecilik Davalarında Sahte Delil İddiaları
+## 4. Kozinoğlu Ölüm Dosyası Yeniden Açıldı
 
-- Oda TV davasında bilgisayarlara sahte belge yüklendiği iddia edildi.
-- İddiaya göre önce virüs gönderildi, sonra fiziksel müdahale yapıldı.
-- Gazeteciler ev ve ofislere girildiğini, belgelerin yerleştirildiğini anlattı.
-- Kozinoğlu dosyası olduğu söylenen belge tutuklamaya gerekçe yapıldı.
-- Dosyada 34 numaralı klasörde Kozinoğlu ile ilgili deliller bulunduğu söylendi.
-- Klasördeki 8 sayfalık ihbar mektubu programda okunup tartışıldı.
-- Mektupta Güler Sabancı suikastı gibi aşırı iddialar yer aldı.
-- Popstar ve ünlülerle gizli mesajlaşma iddiaları da mektupta geçti.
-- Konuşmacılar mektubu gerçek dışı bulup delil yapılmasını eleştirdi.
-- Ayrı davada Veis Ateş duruşması ve Mehmet Akif Ersoy iddiaları gündemdeydi.
+- Eski MİT görevlisi Kaşif Kozinoğlu dosyası yeniden açıldı.
+- Kozinoğlu, 2011’de Silivri Cezaevi’nde tutukluyken hayatını kaybetti.
+- OdaTV soruşturmasında tutuklanmış, MİT belgelerini sızdırmakla suçlanmıştı.
+- Suçlamaları reddetti, savunmasını yazdı ama duruşmaya çıkamadı.
+- Ölüm, duruşmadan 10 gün önce gerçekleşti; şüpheler büyüdü.
+- 2011 otopsisinde kalp damar rahatsızlığı denmiş, dosya kapatılmıştı.
+- Adalet Bakanlığı özel inceleme ve faili meçhul birimi kurdu.
+- Cezaevinde görevli 11 kişi için işlem, 10 gözaltı kararı çıktı.
+- Bir şüpheli FETÖ firarisi; mezar açılıp DNA örneği alınacak.
+- Ambulans çağrısı gecikmesi, koridor ve kapılar müdahaleyi sorgulatıyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Onlar TV](https://www.youtube.com/watch?v=fInIZBxzZaI&t=65s) (⏱️ 01:05-11:23)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=n0RcVueyXoA&t=1200s) (⏱️ 20:00-29:20)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=gLYDvmU2SSg) (⏱️ 00:00-05:23)
+- [Murat Yetkin](https://www.youtube.com/watch?v=w2FtAKCnjss&t=172s) (⏱️ 02:52-06:05)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=hKPCerqbrNk&t=16s) (⏱️ 00:16-01:35)
 
 ---
 
-## 5. Seçim Sistemi Tartışması ve Yeni Parti
+## 5. Krizlerin siyasete ve ekonomiye etkisi
 
-- Türkiye’de seçim sistemi ve olası revizyonlar yeniden tartışılıyor.
-- Cumhurbaşkanlığı seçimindeki yüzde 50+1 kuralının değişmesi gündemde.
-- Bazı çevreler yüzde 50+1 kuralından taviz verilmemesini savunuyor.
-- Kural değişikliği ittifakların stratejisini ve pazarlıklarını doğrudan etkiliyor.
-- Seçim tarihi için Kasım 2027 veya Nisan 2028 konuşuluyor.
-- Parti kurmayı zorlaştıracak düzenleme önerileri de masaya geldi.
-- İzmir’de CHP’den Yeni Parti’ye belirgin seçmen geçişi görüldü.
-- Raporlarda CHP oyunun İzmir’de yüzde 4’e düştüğü yazıyor.
-- Yeni Parti meşru bulunuyor, ama çözüm umudu sınırlı kalıyor.
-- Yeni Parti tabanı parçalı; Zafer Partisi ve TİP’e açık görünüyor.
+- Küresel jeopolitik gerilimler Brent petrol fiyatlarını yeniden yukarı itiyor.
+- Brent petrol 99 doları test ederek enerji maliyetlerini artırdı.
+- Artan enerji fiyatları akaryakıtı ve genel tüketici fiyatlarını yükseltiyor.
+- Bu yükseliş enflasyonu besliyor, hane bütçelerini doğrudan zorluyor.
+- 11 Eylül’ün 25. yılında ABD’de güvenlik devleti genişledi.
+- Homeland Security kuruldu, devletin gözetim ve veri toplaması arttı.
+- Afganistan ve Irak müdahaleleri yüksek maliyetle hüsran yarattı.
+- Başkanlık yetkileri güçlendi, denge-denetleme mekanizmaları zayıfladı ABD’de.
+- Bu iklim Trump gibi liderlerin yükselişine zemin hazırladı.
+- Avrupa’da AfD yükseliyor; göç, ekonomi, güvensizlik etkili oluyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Nevsin Mengu](https://www.youtube.com/watch?v=n0RcVueyXoA&t=30s) (⏱️ 00:30-08:00)
-- [Rusen Cakir](https://www.youtube.com/watch?v=oOiSV_VS-KE&t=703s) (⏱️ 11:43-14:37)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=B3VNqQQk80w&t=1344s) (⏱️ 22:24-23:28)
+- [Rusen Cakir](https://www.youtube.com/watch?v=jP2IrWSlSgA&t=1523s) (⏱️ 25:23-43:45)
 
 ---
 
-## 6. Kaşif Kozinoğlu Ölümü Yeniden Soruşturuluyor
+## 6. Siyasi gerilim ve siber sızma iddiaları
 
-- MİT’in eski görevlisi Kaşif Kozinoğlu’nun ölümü yeniden inceleniyor.
-- Kozinoğlu 2011’de cezaevinde fenalaşarak hayatını kaybetmişti.
-- Ölüm nedeni olarak kırık kalp sendromu açıklaması dosyada yer aldı.
-- Yoğun stresin kalp krizi benzeri etki yaratabildiği belirtiliyor.
-- Dosyada cezaevine konulan koraspin ilacı ve denetimsizlik iddiaları bulunuyor.
-- Suikast şüphesi nedeniyle soruşturma yeniden açıldı ve derinleştirildi.
-- Cezaevi görevlilerinin geç müdahalesi şüpheli bulunarak değerlendiriliyor.
-- Panik butonu sesinin bastırılması için müziğin yükseltildiği iddia edildi.
-- Soruşturmada 11 görevli hakkında işlem yapıldı, 10’u gözaltına alındı.
-- Bazı çalışanların kaybolduğu ve yurtdışına kaçtığı bilgisi paylaşıldı.
+- Haaretz, BAE'nin Netanyahu'yu Hamas hazırlığı konusunda uyardığını yazdı.
+- İddiaya göre uyarı, Yahya Sinvar ve Hamas'ın saldırı hazırlığıydı.
+- Gazete, Netanyahu'nun uyarıyı güvenlik birimlerine iletmediğini öne sürdü.
+- Bu iddianın seçim sürecini ve Netanyahu'nun itibarını etkileyebileceği konuşuluyor.
+- Uzmanlar, Hamas tehdidinin bilerek geri planda tutulmuş olabileceğini söylüyor.
+- İngiltere, Fransa ve Kanada, Batı Şeria yerleşim mallarına yasak planlıyor.
+- Bu kararın İsrail'i uluslararası alanda daha da izole edebileceği değerlendiriliyor.
+- Ayrı bir haberde, üç üst düzey bakanın telefonlarına sızma girişimi iddia edildi.
+- Siber güvenlik birimlerinin girişimi engellediği, telefonların değiştirildiği aktarıldı.
+- Resmi açıklama yok; yapay zeka destekli casusluk riskleri tartışıldı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Onlar TV](https://www.youtube.com/watch?v=fInIZBxzZaI&t=10s) (⏱️ 00:10-01:03)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=n0RcVueyXoA&t=690s) (⏱️ 11:30-20:00)
+- [Rusen Cakir](https://www.youtube.com/watch?v=jP2IrWSlSgA&t=15s) (⏱️ 00:15-11:15)
+- [Murat Yetkin](https://www.youtube.com/watch?v=w2FtAKCnjss&t=81s) (⏱️ 01:21-02:52)
 
 ---
 
