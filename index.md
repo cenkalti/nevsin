@@ -1,155 +1,127 @@
 # Bugün Ne Oldu?
 
-*11 September 2026 tarihli günlük haber raporu - 7 haber birleştirildi*
+*12 September 2026 tarihli günlük haber raporu - 6 haber birleştirildi*
 
-## 1. Belediyelerde Transfer Tartışmaları Büyüyor
+## 1. Siyasette çözüm, hukuk ve baskı tartışması
 
-- Üsküdar başta, belediye meclislerinde üyelik değişimleri tartışma yarattı.
-- Gözaltı ve tutuklamaların, meclis dengelerini etkilediği öne sürüldü.
-- Üsküdar’da başkan vekilliği seçimi yapıldı, itirazla yenilendi.
-- CHP, meclis üyelerine baskı ve tehditle transfer iddia etti.
-- Özgür Çelik’in açıklamaları sonrası hakkında soruşturma başlatıldığı belirtildi.
-- Foça Belediye Başkanı Saniye Bora Fıçı’nın AKP’ye geçtiği duyuruldu.
-- Menderes ve Menemen örnekleri, parti değişimlerinin sürdüğünü gösterdi.
-- Aydın’da Çerçioğlu ailesi şirketinin TOGG tedariki tartışma doğurdu.
-- İBB meclis aritmetiği, İmamoğlu’nun dava ve yasak riskiyle önem kazandı.
-- Mansur Yavaş’ın Erdoğan görüşmesi, muhalefette yeni senaryolar başlattı.
+- Çözüm süreci yeniden gündemde, başarı şansı ve riskler tartışılıyor.
+- Bölgesel değişimler Türkiye’nin tehdit algısını ve hesaplarını etkiliyor.
+- Sürecin sabote edilebileceği, dış aktörlerin rolü konuşuluyor.
+- Kamuoyunu ikna etmenin, sürecin kalıcılığı için kritik olduğu vurgulanıyor.
+- Başarı olursa ekonomik ve sosyal canlanma beklentisi dile getiriliyor.
+- Sürecin seçimlere etkisi ve Kürt oylarının yönü tartışılıyor.
+- Başarısızlık halinde gerginlik ve çatışma riskinin artacağı belirtiliyor.
+- Mansur Yavaş’ın Erdoğan’la görüşmesi muhalefette spekülasyon ve gerilim yarattı.
+- Üsküdar’da tutuklama, transfer ve baskı iddiaları oylamayı tartışmalı kıldı.
+- Kavala ve Demirtaş için AİHM kararlarının uygulanmaması hukuk krizini büyütüyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=EhY3kQSnaPg&t=144s) (⏱️ 02:24-03:45)
-- [Rusen Cakir](https://www.youtube.com/watch?v=bEYkrLsrNGE&t=1244s) (⏱️ 20:44-25:47)
-- [Hilal Koylu](https://www.youtube.com/watch?v=YLZBZ5lFMbs&t=1190s) (⏱️ 19:50-28:10)
-- [Cigdem Toker](https://www.youtube.com/watch?v=o05fi4jaZ8U&t=21s) (⏱️ 00:21-02:53)
-- [Onlar TV](https://www.youtube.com/watch?v=R6V55U6LmN8&t=22s) (⏱️ 00:22-24:38)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=i4v75nBPFvU&t=228s) (⏱️ 03:48-07:25)
-- [Inan Demirel](https://www.youtube.com/watch?v=X0qo3m6qqmU&t=690s) (⏱️ 11:30-13:25)
-- [Murat Yetkin](https://www.youtube.com/watch?v=oVPPhwktuIQ&t=7s) (⏱️ 00:07-07:26)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=hSLhouGT5aI&t=2700s) (⏱️ 45:00-46:30)
+- [Hilal Koylu](https://www.youtube.com/watch?v=j2Ae6gtIHqI&t=404s) (⏱️ 06:44-18:32)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=fkv8eeTC5Sg&t=911s) (⏱️ 15:11-18:40)
+- [Rusen Cakir](https://www.youtube.com/watch?v=-wo4DOOZxKI&t=1321s) (⏱️ 22:01-35:09)
 
 ---
 
-## 2. Medya ve Malvarlığı Soruşturmaları Genişliyor
+## 2. Yurt Dışı Yaşam Kararları Gündemde
 
-- Cem Küçük tutuklandı; yanıltıcı bilgi ve kara para iddiaları soruşturuluyor.
-- Beyaz TV çevresinde yakalama kararları ve yeni şüpheliler gündemde.
-- Banka kayıtlarında milyonluk transferler ve 57,7 milyon lira iddiası var.
-- Savcılık, reklam ve etkinlik üzerinden para akışını araştırıyor.
-- İsmail Çanak ifade verdi, adli kontrolle serbest bırakıldı.
-- Dosyada kripto işlemler, Paribu hareketleri ve yurt dışı transferler yer alıyor.
-- Melih Gökçek ve ailesinin malvarlığı, gelir-gider uyumsuzluğu nedeniyle inceleniyor.
-- Çeşme Dalyan parselleri, tapular ve ipotekler soruşturmanın odaklarından biri.
-- Gökçek ve oğlunun ifadeleri çelişiyor; yayın yasağı talebi tartışıldı.
-- Mehmet Akif Ersoy hakkında uyuşturucu ve saldırı iddialı dava sürüyor.
+- Dilek Türker Dündar anıldı, Can Dündar ailesine destek mesajları verildi.
+- Dilek’in Söz Gazetesi ve Gelişim Yayınları’nda çalıştığı hatırlatıldı.
+- Dilek ile Can Dündar’ın tanışıp 1988’de evlendikleri anlatıldı.
+- Dilek’in Can’ın prodüksiyonlarını üstlenip belgesellere katkı sunduğu vurgulandı.
+- Çağlayan Adliyesi’ndeki saldırıda Dilek’in saldırganı püskürttüğü aktarıldı.
+- Dilek’in 2019’da istemeyerek yurt dışına çıkmak zorunda kaldığı söylendi.
+- Can Dündar’ın yurt dışında olduğu, babasını kaybettiği aktarıldı.
+- Can’ın Türkiye’yi özlediği, oğulları Ege’yi göremedikleri belirtildi.
+- Bir diğer anlatıda, 24 yaşında ABD’ye bursla gidildiği paylaşıldı.
+- Ece Erken’in oğlunun eğitimi için Dubai’ye taşınacağı konuşuldu.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Onlar TV](https://www.youtube.com/watch?v=R6V55U6LmN8&t=1756s) (⏱️ 29:16-31:01)
-- [Hilal Koylu](https://www.youtube.com/watch?v=YLZBZ5lFMbs&t=37s) (⏱️ 00:37-10:51)
-- [Inan Demirel](https://www.youtube.com/watch?v=X0qo3m6qqmU&t=2299s) (⏱️ 38:19-40:50)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=i4v75nBPFvU&t=516s) (⏱️ 08:36-21:21)
-- [Cigdem Toker](https://www.youtube.com/watch?v=o05fi4jaZ8U&t=288s) (⏱️ 04:48-05:47)
+- [Rusen Cakir](https://www.youtube.com/watch?v=9vCdsVurbQQ&t=632s) (⏱️ 10:32-13:09)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=T5OG0HbKhvc&t=406s) (⏱️ 06:46-10:15)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=hSLhouGT5aI&t=3000s) (⏱️ 50:00-58:00)
 
 ---
 
-## 3. İmamoğlu’na Tuzla davasında ceza
+## 3. Muhalefette özeleştiri ve gençlere çağrı
 
-- Mahkeme, İmamoğlu’na Tuzla davasında 2 yıl 1 ay verdi.
-- Dava, eski Tuzla Belediye Başkanı Şadi Yazıcı’ya hakaret iddiasına dayanıyor.
-- Kararın siyasi yasak doğurabileceği ve adaylığı etkileyebileceği konuşuluyor.
-- İstinaf onarsa siyasi yasak kesinleşebilir, hukuki süreç uzayabilir.
-- Hukukçular, Yargıtay yolunun açık olduğunu ve son sözü vurguluyor.
-- Yasak kesinleşirse İBB başkanlığı düşebilir, meclis yeni başkan seçer.
-- İmamoğlu, aynı davadan daha önce iki kez beraat ettiğini söyledi.
-- Savunma yaptırılmadığı ve savunma kitabının toplatıldığı iddiası gündemde.
-- İmamoğlu, 13 davası ve 19 hakim değişikliği olduğunu açıkladı.
-- Kılıçdaroğlu’nun ‘siyasi yargılanmıyor’ sözleri, siyasi tutukluluk tartışması yarattı.
+- Siyasi elitlerin çıkarları gençlere ağır bedeller ödettiği vurgulandı.
+- 2023 seçimleri sonrası halka özür dilendiği açıklandı yeniden.
+- Kılıçdaroğlu’nun adaylığını engelleyemediğini söyleyerek sorumluluk üstlendi.
+- Adaylığı dayatanların bugün refah içinde yaşadığı eleştirildi açıkça.
+- 6 Mart 2023’te İYİ Parti oylamasında tek karşı oydu.
+- Kampanya harcamalarını kendi cebinden yaptığını ve anlattı.
+- Şu an hiçbir siyasi partide aktif siyaset yapmadığını söyledi.
+- Artık aday olmayacağını, siyaseti gençlerin devralmasını istedi.
+- Türkiye’yi zor dönemlerin beklediğini, yine de umutsuz olmadı.
+- Müslüm Sarı, Üsküdar’ı 2029’da geri alma hedefini açıkladı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=EhY3kQSnaPg&t=26s) (⏱️ 00:26-05:36)
-- [Rusen Cakir](https://www.youtube.com/watch?v=bEYkrLsrNGE&t=21s) (⏱️ 00:21-09:21)
-- [Cigdem Toker](https://www.youtube.com/watch?v=o05fi4jaZ8U&t=622s) (⏱️ 10:22-13:34)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=T5OG0HbKhvc) (⏱️ 00:00-02:18)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=fkv8eeTC5Sg&t=183s) (⏱️ 03:03-04:20)
 
 ---
 
-## 4. Yargı Gündeminde Yeni Soruşturmalar
+## 4. İktidarın seçim hazırlığı hızlandı
 
-- Ahmet Davutoğlu şüpheli sıfatıyla adliyeye çağrıldı, ifade verdi.
-- Davutoğlu yargıya saygı vurguladı, süreçte üzüntü duyduğunu belirtti.
-- Basına teknik detay vermedi, açıklamayı avukatının yapacağını söyledi.
-- Destek mesajları için genel başkanlara ve çevrelerine teşekkür etti.
-- Yorumcular, davetin devlet adabına uygun şekilde karşılandığını aktardı.
-- Gülistan Doku kaybolma soruşturmasında yeni iddialar ve tutuklamalar yaşandı.
-- Tanık Umut Altaş ABD’de, cesedi gördüğünü ileri sürdü.
-- Adalet Bakanı naaşın kimyasallarla yok edilmiş olabileceğini açıkladı.
-- Soruşturmanın makam ve unvan gözetmeden sürdüğü vurgulandı.
-- Kaşif Kozinoğlu’nun şüpheli ölümü için dosyanın yeniden incelenmesi istendi.
+- Cumhurbaşkanı Erdoğan’ın basketbol videosu sosyal medyada yeniden paylaşıldı.
+- Videoda Erdoğan’ın formda olduğu ve yakın isimlerle oynadığı görüldü.
+- Paylaşımın seçim süreciyle eş zamanlı olması siyasi mesaj tartışması yarattı.
+- Erdoğan seçimlere dair “inşallah atlatacağız” mesajı verdi.
+- Video, Erdoğan’ın sahaya indiği ve seçime hazır olduğu vurgulandı.
+- Yorumlarda olası erken seçim ve strateji değişiklikleri değerlendirildi.
+- AKP milletvekillerinin sahada yoğun çalışma yürüttüğü bilgisi paylaşıldı.
+- Dışişleri Bakanı Hakan Fidan Diyarbakır’da vatandaşlarla çay içti.
+- Ekonomi gündeminde emekli maaşlarına iyileştirme çalışmaları öne çıktı.
+- Bakan Şimşek, Erdoğan’a emekli maaşları sunumu yapılacağını söyledi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=UmQlFpWuNZE) (⏱️ 00:00-06:27)
-- [Hilal Koylu](https://www.youtube.com/watch?v=YLZBZ5lFMbs&t=1694s) (⏱️ 28:14-31:15)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=i4v75nBPFvU&t=1289s) (⏱️ 21:29-32:15)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=hSLhouGT5aI&t=2160s) (⏱️ 36:00-45:00)
+- [Hilal Koylu](https://www.youtube.com/watch?v=j2Ae6gtIHqI&t=1114s) (⏱️ 18:34-22:03)
 
 ---
 
-## 5. Çözüm süreci ve yerel dil tartışması
+## 5. İmamoğlu’na hapis ve siyasi yasak
 
-- Çözüm sürecinde ekim-kasım döneminde çerçeve yasa bekleniyor.
-- Süreç kapsamında geri dönüşlerin başlaması olası görünüyor.
-- Yerel demokratik sistemler kurulursa yerel yetkiler genişleyebilir.
-- Bu model, ikinci eğitim dilini mümkün kılabilir.
-- Demokratikleşme ve eşit yurttaşlık vurgusu tartışmaların merkezinde yer alıyor.
-- Diyarbakır’da Türkçe-Kürtçe yön tabelaları yeniden tartışma konusu oldu.
-- Tabelaların 2014’ten beri kullanıldığı ve yeni olmadığı belirtildi.
-- Bazı siyasetçiler tabelaları anayasa ve devlet otoritesine aykırı buluyor.
-- Milli Eğitim Bakanlığı Zazaca seçmeli ders programını yeniden güncelledi.
-- Zazaca seçmeli ders uygulamasının 2012’den beri sürdüğü hatırlatıldı.
+- Nevşin Mengü yayında gündemi ve izleyici yorumlarını değerlendirdi.
+- Yayında Ekrem İmamoğlu için siyasi yasak tartışması öne çıktı.
+- Tuzla davasında İmamoğlu’na 2 yıl 1 ay hapis verildi.
+- Mahkeme Türk Ceza Kanunu 53. maddeye göre siyasi yasak uyguladı.
+- Karar, istinaf bozulmazsa kesinleşerek siyasi hakları kısıtlayacak.
+- Kesinleşirse İmamoğlu görevden uzak kalabilir, yeni seçim yapılabilir.
+- Dava, 2022 Tuzla arıtma tesisi açılışındaki gerilimle başladı.
+- Tuzla Belediye Başkanı Şadi Yazıcı şikâyetçi oldu, süreç büyüdü.
+- İmamoğlu daha önce iki kez beraat etmişti, hakim değişince ceza çıktı.
+- İmamoğlu kararı reddediyor, hukukun üstünlüğünün sorgulandığını belirtiyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=-CVL_w0eG_s&t=964s) (⏱️ 16:04-19:39)
-- [Hilal Koylu](https://www.youtube.com/watch?v=YLZBZ5lFMbs&t=1878s) (⏱️ 31:18-35:42)
+- [Nevsin Mengu](https://www.youtube.com/watch?v=hSLhouGT5aI) (⏱️ 00:00-02:00)
+- [Hilal Koylu](https://www.youtube.com/watch?v=j2Ae6gtIHqI&t=23s) (⏱️ 00:23-06:42)
 
 ---
 
-## 6. CHP’de temsiliyet ve kurultay tartışması
+## 6. Gökçek Ailesine Kaçak Altın Soruşturması
 
-- CHP hakkında yapılan bir film, tarihsel temsiliyet eksikleriyle eleştirildi.
-- Sunucu, filmde bazı önemli partili isimlerin görünmediğini söyledi.
-- Partinin tarihsel kökeni ve kurumsal kimliğinin önemi vurgulandı.
-- Eleştiride, eksik bırakılan dönemlerin ve kişilerin mutlaka anılması istendi.
-- Tartışma, CHP’nin hafızası ve temsili üzerine değerlendirme içerdi.
-- Ayrı bir gündemde, “Butlan CHP’si” için kurultay takvimi açıklandı.
-- İl ve ilçe kongrelerinin 14 Şubat’a kadar tamamlanması bekleniyor.
-- Kurultay tarihi, kongreler bitince parti meclisince belirlenecek.
-- Butlan yani iptal kararının takvimi nasıl etkileyeceği tartışıldı.
-- İktidarın bu süreçte izleyeceği olası strateji de değerlendirildi.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Inan Demirel](https://www.youtube.com/watch?v=X0qo3m6qqmU&t=2102s) (⏱️ 35:02-38:19)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=EhY3kQSnaPg&t=586s) (⏱️ 09:46-17:34)
-
----
-
-## 7. Vergi Yükü ve OVP Tartışması
-
-- Orta Vadeli Program, orta vadeli mali ve ekonomik yol haritası.
-- Önceki hedefler tutmadığı için OVP’nin güveni zayıfladı.
-- 2026’da yüzde 8,5 enflasyon hedefinin gerçekçi olmadığı söylendi.
-- OVP, enflasyonun 2027 sonunda yüzde 21 olacağını öngörüyor.
-- 2028’de yüzde 13,5, 2029’da yüzde 9 hedefleniyor.
-- Program vergi gelirlerinde reel artış ve taban genişlemesi planlıyor.
-- Vergi istisna ve teşvikleri azaltılarak ek gelir yaratılması hedefleniyor.
-- Dolaylı vergiler sabit, doğrudan vergiler artabilir mesajı veriliyor.
-- Faiz harcamalarının artışı bütçeyi zorlayacak, toplam giderleri büyütecek.
-- Telefon fiyatlarında ÖTV ve KDV gibi kalemler maliyeti iki katlıyor.
+- Melih Gökçek, Başsavcı Vekili önünde ifade verdi.
+- Avukatı Talha Yasir Çağtay ifade sırasında hazır bulundu.
+- Gökçek, 1994-2017 Ankara Büyükşehir Belediye Başkanı olduğunu söyledi.
+- Görev süresince ticari faaliyet ya da ortaklık yapmadığını belirtti.
+- Milletvekili emeklisi olduğunu, aylık yaklaşık 150 bin aldığını açıkladı.
+- Türkiye ve yurt dışında taşınmaz, araç, şirket payı olmadığını söyledi.
+- Ziraat Bankası ve Vakıfbank'ta hesapları bulunduğunu beyan etti.
+- Gökçek ve ailesi hakkında kaçak altın bağlantılı soruşturma yürütülüyor.
+- Oğlu Ahmet Gökçek ve gelinine yurtdışı çıkış yasağı getirildi.
+- Almanya'daki gayrimenkul ve döviz hareketleri soruşturmada inceleniyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=UmQlFpWuNZE&t=388s) (⏱️ 06:28-12:24)
-- [Hilal Koylu](https://www.youtube.com/watch?v=YLZBZ5lFMbs&t=2160s) (⏱️ 36:00-38:08)
+- [Hilal Koylu](https://www.youtube.com/watch?v=j2Ae6gtIHqI&t=1323s) (⏱️ 22:03-27:57)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=6_wWFOTZL7E) (⏱️ 00:00-02:37)
 
 ---
 
