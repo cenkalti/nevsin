@@ -1,114 +1,64 @@
 # Bugün Ne Oldu?
 
-*18 September 2026 tarihli günlük haber raporu - 5 haber birleştirildi*
+*19 September 2026 tarihli günlük haber raporu - 3 haber birleştirildi*
 
-## 1. SPK Fon Krizi Tasfiye Süreci
+## 1. Tera Pusula Fon Krizi Derinleşiyor
 
-- SPK, yedi portföy şirketinin 130-131 fonunu tasfiyeye aldı.
-- Tasfiye kapsamı 800-900 milyar TL, 500 bini aşkın yatırımcıyı etkiliyor.
-- İddialar, fonlarda şişirilmiş hisse değerleri ve ponzi benzeri döngüler.
-- Bazı fonların birbirine kredi vererek balonu büyüttüğü anlatılıyor.
-- Fon alım-satımı durdu, yeni emir ve iade talepleri alınmıyor.
-- Tasfiyeyi bankalar yürütecek, Tera fonları İş Bankası’na devredildi.
-- Diğer fonların önemli kısmı Ziraat Bankası’na devredilerek satış planlandı.
-- Varlıklar kademeli satılacak, ödeme pay oranıyla ve gecikmeli yapılacak.
-- Savcılıklar soruşturma başlattı; tutuklamalar, tedbirler ve yurt dışı yasakları var.
-- Denetim gecikmesi eleştiriliyor; Şimşek sistemik risk olmadığını savunuyor.
+- Tera ve Pusula fonlarında Ponzi benzeri büyüme iddiaları gündemde.
+- Bloomberg ve Financial Times, yüksek getirilerle olağanüstü fon büyümesi yazdı.
+- Fonların borçlanarak pozisyon büyüttüğü ve hızla şiştiği öne sürülüyor.
+- Bazı fonlar kapatıldı, tasfiye süreciyle varlık satışı başlatıldı.
+- Tera üst yöneticileri ve bazı holding başkanları gözaltına alındı.
+- Pusula Holding kurucusu ve bazı yöneticiler tutuklandı, ödemeler aksadı.
+- Ziraat ve İş Bankası fonların saklayıcısı olarak görevlendirildi.
+- MKK kayıtları ve SPK-BDDK denetimi hakkında ciddi soru işaretleri doğdu.
+- Kriz BIST’te düşüşe ve yabancı yatırımcı algısında bozulmaya yol açtı.
+- Ayrı soruşturmada kripto-forex şebekesine baskın yapıldı, çok sayıda gözaltı gerçekleşti.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilal Koylu](https://www.youtube.com/watch?v=72lBX1f5tsU&t=20s) (⏱️ 00:20-20:45)
-- [Nevsin Mengu](https://www.youtube.com/watch?v=RMT0vTlf9ps&t=590s) (⏱️ 09:50-38:00)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=upRGvHE--GE&t=1144s) (⏱️ 19:04-71:18)
-- [Serdar Akinan](https://www.youtube.com/watch?v=hqzVDwTsbV0&t=156s) (⏱️ 02:36-05:27)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=vKPhPh1C3sk) (⏱️ 00:00-27:00)
-- [Cigdem Toker](https://www.youtube.com/watch?v=ick0mHoCaF8) (⏱️ 00:00-03:55)
-- [Onlar TV](https://www.youtube.com/watch?v=l-qTez05uEE&t=6s) (⏱️ 00:06-16:10)
-- [Inan Demirel](https://www.youtube.com/watch?v=FwW99mt-erI) (⏱️ 00:00-03:53)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=gcstR2mLQH4&t=82s) (⏱️ 01:22-28:46)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=ysmXZ7N5gJk) (⏱️ 00:00-25:07)
 
 ---
 
-## 2. Soruşturmalarda Ünlüler ve Kozinoğlu
+## 2. Petrol Şoku ve Akaryakıt Baskısı
 
-- Bakırköy talimatıyla sabah operasyonunda 18 şüpheli gözaltına alındı.
-- Soruşturmalarda toplam 24 şüpheli olduğu, iki dosya yürütüldüğü belirtildi.
-- Oyuncu ve fenomenler ile rapçi Sefo dahil isimler var.
-- Aras Bulut İynemli, Nilperi Şahinkaya ve Hasan Şaş da listede.
-- Suçlamalar uyuşturucu kullanımı, temin etme ve yer sağlamayı kapsıyor.
-- Bazı şüpheliler fuhuş iddialarıyla da ilişkilendirildiği aktarıldı.
-- Şüphelilere sağlık kontrolü ve adli tıp uyuşturucu testi uygulanacak.
-- Afra Saraçoğlu yurtdışından döneceğini, ifade vereceğini açıkladı.
-- Kozinoğlu’nun 2011 ölümü yeniden soruşturuluyor, mezarı da açıldı.
-- Hasan Atilla Uğur gözaltında, Kurtlar Vadisi bölümleri incelenecek.
+- Eşel Mobil, akaryakıtta vergi ayarıyla fiyat artışını sınırlıyor.
+- Şimşek, 2026’da Eşel Mobil nedeniyle gelir kaybı dedi.
+- Eşel Mobil kalkarsa bütçe rahatlar, pompa fiyatları sert yükselir.
+- Bazı senaryolarda benzin 100 TL’yi geçip 150’yi görebilir.
+- Savaş, petrolü yükselterek enflasyonu yaklaşık 7 puan artırdı.
+- Petrol 140 doları aşarsa küresel kriz ve kıtlık riski konuşuldu.
+- Navlun maliyetleri arttı, gemi bulmak zorlaştı ve tedarik aksıyor.
+- Gübre fiyat artışı, gelecek yıl gıda enflasyonunu yükseltebilir.
+- Türkiye rezerv kullandı, şoklara dayanıklılık ve destek bulma zorlaştı.
+- Petrol ve kur sürerse, altı ayda yüzde 20-30 zam riski.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Nevsin Mengu](https://www.youtube.com/watch?v=RMT0vTlf9ps&t=2280s) (⏱️ 38:00-48:00)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=4KxpXU3xLtM) (⏱️ 00:00-05:29)
-- [Inan Demirel](https://www.youtube.com/watch?v=FwW99mt-erI&t=2013s) (⏱️ 33:33-36:10)
-- [Onlar TV](https://www.youtube.com/watch?v=VTp-8rKafGI&t=159s) (⏱️ 02:39-05:03)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=JipqSUAVGNc&t=56s) (⏱️ 00:56-02:40)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=gcstR2mLQH4&t=1833s) (⏱️ 30:33-32:37)
 
 ---
 
-## 3. Erken seçim ve 2028 planı
+## 3. Özgür Özel’in Bursa ve Yalova Turu
 
-- Siyaset gündeminde erken seçim tarihi ve adaylık tartışmaları büyüyor.
-- İktidar cephesi seçimi geciktirip 2028’e taşımak istiyor.
-- Mehmet Uçum 16 Nisan 2028 tarihini olası seçim günü gösterdi.
-- Devlet Bahçeli ve AKP’liler Erdoğan’ın yeniden adaylığını destekliyor.
-- Adalet Bakanı Akın Gürlek sözleri seçimlerin formalite algısı yarattı.
-- Anayasaya göre erken seçim için Meclis’te 360 oy gerekiyor.
-- Mevcut tabloda iktidarın 326 sandalyesi var, destek arıyor.
-- Ekonomi kötü; seçim ekonomisi için kaynak sıkıntısı konuşuluyor.
-- İmamoğlu derhal seçim çağrısı yaptı, sistem eleştirilerini sertleştirdi.
-- CHP’li belediyelere soruşturmalar muhalefeti zayıflatma hamlesi sayılıyor.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Hilal Koylu](https://www.youtube.com/watch?v=72lBX1f5tsU&t=1246s) (⏱️ 20:46-36:40)
-- [Onlar TV](https://www.youtube.com/watch?v=l-qTez05uEE&t=971s) (⏱️ 16:11-29:28)
-- [Inan Demirel](https://www.youtube.com/watch?v=FwW99mt-erI&t=975s) (⏱️ 16:15-21:09)
-- [Murat Yetkin](https://www.youtube.com/watch?v=dGbhKqnz_0E&t=3s) (⏱️ 00:03-05:11)
-
----
-
-## 4. Öcalan’ın Statüsü ve İmralı Süreci
-
-- İmralı süreci yeniden tartışılırken Öcalan’ın rolü öne çıkıyor.
-- Devlet çevrelerinde Öcalan için yeni yerleşke yapıldığı iddia edildi.
-- Yetkililer buranın çalışma düzeni için planlandığını savunuyor, villa deniyor.
-- Bahçeli mekân eleştirisi yapıp Öcalan’ın statüsünü gündeme taşıdı.
-- Öcalan statüsü netleşmeden taşınmayı reddediyor, inkarı kabul etmiyor.
-- Meclis komisyonu temsilcileri İmralı’ya gitti, ziyaretler tartışma yarattı.
-- Öcalan 19 Mayıs 2025 görüşmesinde medyaya konuşmak istedi.
-- Kurulacak komisyon silahsızlanma ve koordinasyonu izleyecek, adı tartışmalı.
-- İnfaz düzenlemesi ve Demirtaş başvurusu konuşuluyor, istisnalar bekleniyor.
-- Karasu 800 kişinin ilk aşamada kapsam dışı kalacağını söyledi.
+- Özgür Özel, Bursa’da yaklaşık yedi saat süren program yaptı.
+- Ulu Cami çıkışı, çarşı, esnaf ve fabrika ziyaretleri gerçekleştirdi.
+- Köy sohbetlerinde kadın üreticiler ürün ve geçim sıkıntılarını anlattı.
+- Esnaf buluşmaları kalabalıklaştı, zaman zaman yürüyüş havasına büründü.
+- Katılımcıların çoğu orta yaşlı ve emekli, kadınlar belirgindi.
+- Mitingde genç katılımı düşük kaldı, güçlü sloganlar eksikti.
+- Özel’in halkla teması samimi bulundu, erişilebilir lider algısı oluştu.
+- Kalabalıkta iktidara öfke, Kılıçdaroğlu’na kırılma ve tepki gözlendi.
+- Yalova ziyaretinde tersaneler, yeşil alan ve tarım arazisi gündem oldu.
+- Sanayi ya da konut planlarına karşı yerelde hukuki mücadele sürüyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=NE0B-26tOx8&t=2s) (⏱️ 00:02-08:16)
-- [Onlar TV](https://www.youtube.com/watch?v=l-qTez05uEE&t=1769s) (⏱️ 29:29-33:36)
-
----
-
-## 5. CHP İstanbul’da Kayyım Krizi Sürüyor
-
-- CHP İstanbul İl Başkanlığına kayyım tedbiri uygulanmıştı, tartışma büyüdü.
-- Mahkeme kayyım tedbirini kaldırdı, yeni süreç başladı.
-- Kararla birlikte Gürsel Tekin ve çağrı heyetinin görevi bitti.
-- Tekin, sosyal medyada il binasında destekçileriyle buluşacağını duyurdu.
-- Parti binası önünde polisle gerginlik çıktı, biber gazı kullanıldı.
-- Tekin ile Kemal Kılıçdaroğlu arasında gerilim olduğu öne sürüldü.
-- Resmi belgeler medyada yayımlandı, kararın detayları paylaşıldı.
-- CHP içinde il başkanlığı adayları ve olasılıklar konuşuluyor.
-- Genel başkanlık yarışının da etkilenebileceği kulislerde değerlendiriliyor.
-- Yüksek yargı ve eski FETÖ bağlantıları iddiaları gündeme geldi.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Inan Demirel](https://www.youtube.com/watch?v=FwW99mt-erI&t=1269s) (⏱️ 21:09-28:19)
-- [Onlar TV](https://www.youtube.com/watch?v=VTp-8rKafGI&t=101s) (⏱️ 01:41-02:38)
+- [Rusen Cakir](https://www.youtube.com/watch?v=U5vGNl6wySw&t=8s) (⏱️ 00:08-16:01)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=gcstR2mLQH4&t=2140s) (⏱️ 35:40-38:31)
 
 ---
 
