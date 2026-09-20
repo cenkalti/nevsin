@@ -1,64 +1,45 @@
 # Bugün Ne Oldu?
 
-*19 September 2026 tarihli günlük haber raporu - 3 haber birleştirildi*
+*20 September 2026 tarihli günlük haber raporu - 2 haber birleştirildi*
 
-## 1. Tera Pusula Fon Krizi Derinleşiyor
+## 1. Fon Manipülasyonu Soruşturması Derinleşiyor
 
-- Tera ve Pusula fonlarında Ponzi benzeri büyüme iddiaları gündemde.
-- Bloomberg ve Financial Times, yüksek getirilerle olağanüstü fon büyümesi yazdı.
-- Fonların borçlanarak pozisyon büyüttüğü ve hızla şiştiği öne sürülüyor.
-- Bazı fonlar kapatıldı, tasfiye süreciyle varlık satışı başlatıldı.
-- Tera üst yöneticileri ve bazı holding başkanları gözaltına alındı.
-- Pusula Holding kurucusu ve bazı yöneticiler tutuklandı, ödemeler aksadı.
-- Ziraat ve İş Bankası fonların saklayıcısı olarak görevlendirildi.
-- MKK kayıtları ve SPK-BDDK denetimi hakkında ciddi soru işaretleri doğdu.
-- Kriz BIST’te düşüşe ve yabancı yatırımcı algısında bozulmaya yol açtı.
-- Ayrı soruşturmada kripto-forex şebekesine baskın yapıldı, çok sayıda gözaltı gerçekleşti.
+- Tera Portföy bağlantılı fonlarda olağandışı değer artışları gündeme geldi.
+- Bazı kapalı fonlar açılmadan 524 kata kadar yükseldi.
+- Bazı iddialara göre fon değerleri 948 kata kadar şişti.
+- TEFAS öncesi sınırlı yatırımcıların, özellikle ilk 12 kişinin kazandığı savunuluyor.
+- İstanbul Başsavcılığı manipülasyon iddiasıyla geniş kapsamlı soruşturma yürütüyor.
+- MASAK, 2024’ten itibaren para ve kripto transfer verisi istedi.
+- Emre Tezmen, Serdar Turhan ve Alkin kardeşler dahil işlemler yapıldı.
+- SPK, 131 yatırım fonu için tasfiye sürecini başlattı.
+- Yaklaşık 500 binden fazla yatırımcı ve büyük kayıplar iddiası tartışılıyor.
+- Şimşek sistemik risk yok dedi, denetimde gecikme eleştirildi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=gcstR2mLQH4&t=82s) (⏱️ 01:22-28:46)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=ysmXZ7N5gJk) (⏱️ 00:00-25:07)
+- [Murat Yetkin](https://www.youtube.com/watch?v=_Pc6j66dpZI&t=2s) (⏱️ 00:02-06:09)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=FbEXK2Utbf8&t=25s) (⏱️ 00:25-41:36)
+- [Hilal Koylu](https://www.youtube.com/watch?v=OFQl9Ul3Vig&t=361s) (⏱️ 06:01-19:22)
 
 ---
 
-## 2. Petrol Şoku ve Akaryakıt Baskısı
+## 2. Erdoğan’ın ABD ziyareti ve seçim gündemi
 
-- Eşel Mobil, akaryakıtta vergi ayarıyla fiyat artışını sınırlıyor.
-- Şimşek, 2026’da Eşel Mobil nedeniyle gelir kaybı dedi.
-- Eşel Mobil kalkarsa bütçe rahatlar, pompa fiyatları sert yükselir.
-- Bazı senaryolarda benzin 100 TL’yi geçip 150’yi görebilir.
-- Savaş, petrolü yükselterek enflasyonu yaklaşık 7 puan artırdı.
-- Petrol 140 doları aşarsa küresel kriz ve kıtlık riski konuşuldu.
-- Navlun maliyetleri arttı, gemi bulmak zorlaştı ve tedarik aksıyor.
-- Gübre fiyat artışı, gelecek yıl gıda enflasyonunu yükseltebilir.
-- Türkiye rezerv kullandı, şoklara dayanıklılık ve destek bulma zorlaştı.
-- Petrol ve kur sürerse, altı ayda yüzde 20-30 zam riski.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Bahar Feyzan](https://www.youtube.com/watch?v=JipqSUAVGNc&t=56s) (⏱️ 00:56-02:40)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=gcstR2mLQH4&t=1833s) (⏱️ 30:33-32:37)
-
----
-
-## 3. Özgür Özel’in Bursa ve Yalova Turu
-
-- Özgür Özel, Bursa’da yaklaşık yedi saat süren program yaptı.
-- Ulu Cami çıkışı, çarşı, esnaf ve fabrika ziyaretleri gerçekleştirdi.
-- Köy sohbetlerinde kadın üreticiler ürün ve geçim sıkıntılarını anlattı.
-- Esnaf buluşmaları kalabalıklaştı, zaman zaman yürüyüş havasına büründü.
-- Katılımcıların çoğu orta yaşlı ve emekli, kadınlar belirgindi.
-- Mitingde genç katılımı düşük kaldı, güçlü sloganlar eksikti.
-- Özel’in halkla teması samimi bulundu, erişilebilir lider algısı oluştu.
-- Kalabalıkta iktidara öfke, Kılıçdaroğlu’na kırılma ve tepki gözlendi.
-- Yalova ziyaretinde tersaneler, yeşil alan ve tarım arazisi gündem oldu.
-- Sanayi ya da konut planlarına karşı yerelde hukuki mücadele sürüyor.
+- Cumhurbaşkanı Erdoğan, kalabalık bir heyetle Amerika’ya gitti.
+- Heyette bakanlar ile Hazine Bakanı Mehmet Şimşek de yer aldı.
+- Ziyarette Trump ile olası bir görüşme planlandığı belirtildi.
+- Ziyaretin iç politika kararları ve düzenlemeleri etkileyebileceği konuşuluyor.
+- Başdanışman Mehmet Uçum, yeni anayasa konusunda değerlendirme yaptı.
+- Uçum, bu dönemde yeni anayasanın çıkmayabileceğini söyledi.
+- Seçim ve siyasi partiler kanunu değişiklikleri birlikte ele alınabilir.
+- Uçum’un 16 Nisan 2028 tarihine işaret ettiği aktarıldı.
+- Bu tarihin kesin olmadığı, seçimin zamanlamasının değişebileceği vurgulandı.
+- Erdoğan’ın adaylığı, erken seçim ve yargı tartışmaları gündemde kalıyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=U5vGNl6wySw&t=8s) (⏱️ 00:08-16:01)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=gcstR2mLQH4&t=2140s) (⏱️ 35:40-38:31)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=FbEXK2Utbf8&t=47s) (⏱️ 00:47-00:58)
+- [Rusen Cakir](https://www.youtube.com/watch?v=v9tUNDUrNoE&t=9s) (⏱️ 00:09-14:06)
 
 ---
 
