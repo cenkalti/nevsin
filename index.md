@@ -1,67 +1,111 @@
 # Bugün Ne Oldu?
 
-*22 September 2026 tarihli günlük haber raporu - 3 haber birleştirildi*
+*23 September 2026 tarihli günlük haber raporu - 5 haber birleştirildi*
 
-## 1. Fon vurgunu soruşturması derinleşiyor
+## 1. Fon Skandalı Soruşturması Derinleşiyor
 
-- Sermaye piyasalarında büyük fon vurgunu iddiaları soruşturuluyor şu anda.
-- Vurgun büyüklüğü yaklaşık 800-826 milyar lira olarak konuşuluyor.
-- Mağdur yatırımcı sayısı 250 bin ile 550 bin arasında.
-- Fonlar kapalı tek varlık yapılarıyla düşük hacimli hisseleri şişirdi.
-- TEFAS’a açılınca fon büyüklüğü yüz milyarlarca liraya yükseldi.
-- Bazı fonların 498 kat, bazıları 524 kat arttığı söylendi.
-- İstanbul Cumhuriyet Başsavcılığı, SPK ve MASAK soruşturma yürütüyor.
-- Gözaltı ve tutuklamalarda Tezmenler, Yarız, Turhan gibi isimler var.
-- İsviçre hesaplarına milyarlarca liralık transferler ve lüks harcamalar inceleniyor.
-- SPK tasfiye süresini uzattı, bankalar ödeme sürecine atandı.
+- Türkiye’de Tera bağlantılı fon skandalı soruşturmaları genişleyerek sürüyor.
+- Mahkeme ifadeleri tamamlandı, savcılığın kararları ve iddianame bekleniyor.
+- SPK, 131 fonda 455.758 yatırımcının zarar gördüğünü açıkladı.
+- Yedi portföy şirketindeki fonlar tasfiye edilecek, süre altı aya uzadı.
+- Borsada çok sayıda hisse sert düştü, fonlardan büyük çıkış yaşandı.
+- Soruşturmada beş kişi tutuklandı, yaklaşık 60 şüpheli var.
+- Tutuklananlar arasında Emre Tezmen, Serdar Turhan, Alper Öztürk bulunuyor.
+- Emre Tezmen’e dolandırıcılık, SPK kanun ihlali, örgüt suçlamaları yöneltildi.
+- Yurtdışına para transferi, İsviçre ve lüks harcama iddiaları konuşuluyor.
+- SPK, MASAK ve BDDK’nın denetim performansı ve siyasi bağlantılar tartışılıyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilal Koylu](https://www.youtube.com/watch?v=_q2-sz3c00k&t=14s) (⏱️ 00:14-04:31)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=GNJzni_ouww&t=92s) (⏱️ 01:32-51:53)
-- [Onlar TV](https://www.youtube.com/watch?v=Ihvs_nLRv88&t=132s) (⏱️ 02:12-06:21)
-- [Murat Yetkin](https://www.youtube.com/watch?v=PzJuiVQkJzw&t=246s) (⏱️ 04:06-06:06)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=vdofAC4qPVs&t=1100s) (⏱️ 18:20-21:37)
+- [Hilal Koylu](https://www.youtube.com/watch?v=2bmPFyfbPdc&t=134s) (⏱️ 02:14-39:06)
+- [Onlar TV](https://www.youtube.com/watch?v=zerefbHDiTc&t=387s) (⏱️ 06:27-40:59)
+- [Serdar Akinan](https://www.youtube.com/watch?v=8npSyCLntvs) (⏱️ 00:00-00:45)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=gHl3qFRK8aM&t=644s) (⏱️ 10:44-14:29)
+- [Murat Yetkin](https://www.youtube.com/watch?v=zhP3YAdcOYM&t=101s) (⏱️ 01:41-09:18)
+- [Cigdem Toker](https://www.youtube.com/watch?v=82yeAxlumgc&t=574s) (⏱️ 09:34-18:04)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=ouC0laz8w3g&t=1425s) (⏱️ 23:45-24:13)
 
 ---
 
-## 2. Okul Güvenliği ve Yargı Tartışmaları
+## 2. Mansur Yavaş CHP’den İstifa Etti
 
-- Manisa Turgutlu’da lisede silahlı saldırı gerçekleşti, sekiz kişi yaralandı.
-- Saldırganın 2011 doğumlu, yaklaşık 15 yaşında öğrenci olduğu bildirildi.
-- Yaralılar en yakın sağlık kuruluşlarına sevk edilerek tedaviye alındı.
-- Valilik, spekülatif ve doğrulanmamış bilgilerin paylaşılmaması uyarısı yaptı.
-- RTÜK, saldırı görüntülerinin yayınlanmaması konusunda yayıncıları uyardı.
-- Olay, ülke genelinde artan okul saldırıları tartışmasını yeniden gündeme taşıdı.
-- Uzmanlar, gençlerin silaha erişimi ve psikolojik destek eksikliği vurguladı.
-- Narin Güran, 21 Ağustos 2024’te Diyarbakır Bağlar’da kayboldu.
-- Narin’in cansız bedeni 8 Eylül’de dere kenarında bulundu.
-- Aile, yargılamanın hızlı yürüdüğünü söyleyip yeniden yargılama istiyor.
+- Ankara Büyükşehir Belediye Başkanı Mansur Yavaş CHP’den istifa etti.
+- Kararını sosyal medya ve yazılı açıklamayla kamuoyuna duyurdu.
+- İstifasını, parti içindeki derin ayrışmaya bağladığını söyledi.
+- 9 Eylül’de Erdoğan’la görüştüğünü, Özel ve Kılıçdaroğlu’na bildirdi.
+- Kuruluş resepsiyonuna katılmaması ve görüşme, eleştirileri artırdı.
+- Yavaş, yeni partiye geçmeyeceğini, bağımsız siyaset yapacağını açıkladı.
+- Belediye yönetiminde şeffaflık ve ayrım yapmama vurgusu yaptı.
+- CHP Sözcüsü Müslüm Sarı, aidiyet ve disiplin mesajı verdi.
+- Yavaş’ın istifası sonrası yedi ilçe belediye başkanı ayrıldı.
+- Süreç, mahkeme kaynaklı yönetim tartışmaları ve mutlak butlan gerilimiyle ilişkilendirildi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=_rMYUnuNikA&t=90s) (⏱️ 01:30-07:37)
-- [Rusen Cakir](https://www.youtube.com/watch?v=ukzxts0Fpbg) (⏱️ 00:00-01:24)
+- [Cigdem Toker](https://www.youtube.com/watch?v=82yeAxlumgc) (⏱️ 00:00-05:45)
+- [Hilal Koylu](https://www.youtube.com/watch?v=aUIiVilCRaw&t=21s) (⏱️ 00:21-02:50)
+- [Murat Yetkin](https://www.youtube.com/watch?v=zhP3YAdcOYM&t=558s) (⏱️ 09:18-19:45)
 
 ---
 
-## 3. Yeni parti adı tartışılıyor
+## 3. Turgutlu’da okul önünde silahlı saldırı
 
-- Yeni bir siyasi parti kurma çalışmaları sürüyor.
-- Partinin adı için ekip içinde tartışmalar devam ediyor.
-- Gündemde Türkiye'nin Yeni Partisi adı öne çıkıyor.
-- Halkın Yeni Partisi seçeneği de masada tutuluyor.
-- Yeni Değişim Partisi adı üzerinde de değerlendirme yapılıyor.
-- Yeni Başlangıç Partisi alternatifi de tartışılan isimler arasında.
-- Kesin isim kararının ilerleyen süreçte netleşmesi bekleniyor.
-- ABD New Jersey'de Taşkın adlı yeni Türk mekanı açıldı.
-- Sahipleri Derya Taşkın ve Razi Canikli açıklama yaptı.
-- Aile şirketiyle Türk mutfağı ve kültürünü tanıtmayı hedefliyor.
+- Manisa Turgutlu’da lise önünde silahlı saldırı gerçekleşti bugün.
+- Saldırganın 15 yaşında bir lise öğrencisi olduğu açıklandı.
+- Öğrenci okula av tüfeğiyle gelip arkadaşlarına ateş etti.
+- Saldırıda toplam 11 öğrenci yaralandı, panik yaşandı.
+- İçişleri Bakanı Mustafa Çiftçi üç öğrencinin kritik dedi.
+- Üç yaralı yoğun bakımda, diğerleri hastanede tedavi görüyor.
+- Silahın anneannesine kayıtlı ruhsatlı tüfek olduğu bildirildi.
+- Tüfeğin anneanne-dede evinden alındığı iddiaları paylaşıldı.
+- Anne, baba, dede ve anneanne gözaltına alındı.
+- Okul güvenliği zayıf eleştirildi, soruşturma ve ziyaretler sürüyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=GNJzni_ouww&t=3124s) (⏱️ 52:04-53:32)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=f_cOYIp5Bkc&t=17s) (⏱️ 00:17-00:58)
+- [Hilal Koylu](https://www.youtube.com/watch?v=2bmPFyfbPdc&t=13s) (⏱️ 00:13-01:54)
+- [Onlar TV](https://www.youtube.com/watch?v=zerefbHDiTc&t=36s) (⏱️ 00:36-06:26)
+- [Murat Yetkin](https://www.youtube.com/watch?v=zhP3YAdcOYM&t=44s) (⏱️ 00:44-01:12)
+
+---
+
+## 4. Türkiye ABD Temaslarında S 400 Gündemi
+
+- Türkiye-ABD temaslarında S-400 ve CAATSA yaptırımları öne çıktı.
+- Görüşmelerin kademeli biçimde ve arka planda sürdüğü belirtildi.
+- Muhabir, S-400 ve CAATSA için çözüm sinyalleri aldığını aktardı.
+- Bazı dış politika başlıklarında partiler üstü uzlaşı olabileceği söylendi.
+- Erdoğan’ın Trump’la görüşme planı gündeme geldi, sonra düşürüldü.
+- Görüşmenin gerçekleşmeyeceği iddiası, diplomasi çevrelerinde yayıldı.
+- Ankara’daki NATO zirvesinde iki liderin daha önce görüştüğü hatırlatıldı.
+- Hakan Fidan’a konu soruldu, F-35 ve S-400 başlıkları anıldı.
+- Heyette Milli Savunma Bakanı olmaması, önem düzeyi sorusu doğurdu.
+- BM’de Erdoğan temasları için “gayet güzel” dedi, Filistin sorusunu yanıtsız bıraktı.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Bahar Feyzan](https://www.youtube.com/watch?v=0GQhUez65IA&t=821s) (⏱️ 13:41-16:50)
+- [Murat Yetkin](https://www.youtube.com/watch?v=zhP3YAdcOYM&t=1190s) (⏱️ 19:50-21:40)
+
+---
+
+## 5. Adalar Seçimi ve Yargı Tartışması
+
+- Adalar’da başkan vekili seçimi tartışma, gerilim ve müdahaleyle gündeme geldi.
+- CHP adayı Medine Pamuğ seçildi, ardından istifa etti.
+- Taş Mektep’te planlanan seçim, yeterli katılım olmadığından ertelendi.
+- Belediye meclisinde tutuklama ve görevden uzaklaştırmalar süreci etkiledi.
+- Tutuklu bazı isimlerin serbestliği veya iadesi mecliste tartışma yarattı.
+- Yavuz Çiftçioğlu’nun kısıtı kaldırıldı ve oy kullanabildi.
+- Özgür Çelik, CHP’lilere baskı, tehdit ve şantaj uygulandığını söyledi.
+- İddialarda dükkan yıkımı ve tutuklama tehdidiyle yönlendirme yer aldı.
+- Oylama sonuçları 5-2 ve 5-4 oldu, üyeler salonu terk etti.
+- Polis çağrısı sonrası gerilim arttı, İBB davalarıyla adalet tartışıldı.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=ouC0laz8w3g&t=14s) (⏱️ 00:14-23:43)
+- [Onlar TV](https://www.youtube.com/watch?v=zerefbHDiTc&t=2460s) (⏱️ 41:00-47:40)
 
 ---
 
