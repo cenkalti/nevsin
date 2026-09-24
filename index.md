@@ -1,111 +1,91 @@
 # Bugün Ne Oldu?
 
-*23 September 2026 tarihli günlük haber raporu - 5 haber birleştirildi*
+*24 September 2026 tarihli günlük haber raporu - 4 haber birleştirildi*
 
-## 1. Fon Skandalı Soruşturması Derinleşiyor
+## 1. Tera Fon Skandalında Soruşturma Büyüyor
 
-- Türkiye’de Tera bağlantılı fon skandalı soruşturmaları genişleyerek sürüyor.
-- Mahkeme ifadeleri tamamlandı, savcılığın kararları ve iddianame bekleniyor.
-- SPK, 131 fonda 455.758 yatırımcının zarar gördüğünü açıkladı.
-- Yedi portföy şirketindeki fonlar tasfiye edilecek, süre altı aya uzadı.
-- Borsada çok sayıda hisse sert düştü, fonlardan büyük çıkış yaşandı.
-- Soruşturmada beş kişi tutuklandı, yaklaşık 60 şüpheli var.
-- Tutuklananlar arasında Emre Tezmen, Serdar Turhan, Alper Öztürk bulunuyor.
-- Emre Tezmen’e dolandırıcılık, SPK kanun ihlali, örgüt suçlamaları yöneltildi.
-- Yurtdışına para transferi, İsviçre ve lüks harcama iddiaları konuşuluyor.
-- SPK, MASAK ve BDDK’nın denetim performansı ve siyasi bağlantılar tartışılıyor.
+- Tera merkezli fon ve borsa skandalında büyük kayıplar tartışılıyor.
+- SPK listesine göre 455.758 yatırımcı mağdur oldu iddiası var.
+- Sistemin repo, teminatlı hisse ve ponzi benzeri büyüdüğü söylendi.
+- Serbest fonlarla fiyatlar şişirildi, kazananlar çıkıp gitti anlatıldı.
+- 131 fon ve 7 şirketin, yüz milyarlarca lirayı etkilediği konuşuluyor.
+- Soruşturmada tutuklu sayısının 26’ya çıktığı bildirildi.
+- Emre Tezmen ile Alkin kardeşlerin tutuklandığı ve anıldığı aktarıldı.
+- MASAK, TEFAS öncesi pay sahipleri verilerini savcılığa gönderdi.
+- Savcılık el koyma, transfer engeli uyguladı; 750 milyon liradan bahsedildi.
+- Şimşek’in tazmin ve tasfiye planı için kurumlarla toplantı yapacağı söylendi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilal Koylu](https://www.youtube.com/watch?v=2bmPFyfbPdc&t=134s) (⏱️ 02:14-39:06)
-- [Onlar TV](https://www.youtube.com/watch?v=zerefbHDiTc&t=387s) (⏱️ 06:27-40:59)
-- [Serdar Akinan](https://www.youtube.com/watch?v=8npSyCLntvs) (⏱️ 00:00-00:45)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=gHl3qFRK8aM&t=644s) (⏱️ 10:44-14:29)
-- [Murat Yetkin](https://www.youtube.com/watch?v=zhP3YAdcOYM&t=101s) (⏱️ 01:41-09:18)
-- [Cigdem Toker](https://www.youtube.com/watch?v=82yeAxlumgc&t=574s) (⏱️ 09:34-18:04)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=ouC0laz8w3g&t=1425s) (⏱️ 23:45-24:13)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=5ZU27IofIok&t=2003s) (⏱️ 33:23-33:58)
+- [Murat Yetkin](https://www.youtube.com/watch?v=BPaKviF7kfU&t=878s) (⏱️ 14:38-17:21)
+- [Serdar Akinan](https://www.youtube.com/watch?v=7_h2KwPsIkc&t=408s) (⏱️ 06:48-15:31)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=YvvhB1d2Ssc&t=899s) (⏱️ 14:59-37:26)
+- [Hilal Koylu](https://www.youtube.com/watch?v=L2KTxFsBJy8&t=59s) (⏱️ 00:59-29:58)
+- [Onlar TV](https://www.youtube.com/watch?v=h40CTYK-hRs&t=1629s) (⏱️ 27:09-48:34)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=KVwBiRvxQu4&t=15s) (⏱️ 00:15-08:31)
 
 ---
 
-## 2. Mansur Yavaş CHP’den İstifa Etti
+## 2. Mansur Yavaş’ın CHP’den İstifası
 
-- Ankara Büyükşehir Belediye Başkanı Mansur Yavaş CHP’den istifa etti.
-- Kararını sosyal medya ve yazılı açıklamayla kamuoyuna duyurdu.
-- İstifasını, parti içindeki derin ayrışmaya bağladığını söyledi.
-- 9 Eylül’de Erdoğan’la görüştüğünü, Özel ve Kılıçdaroğlu’na bildirdi.
-- Kuruluş resepsiyonuna katılmaması ve görüşme, eleştirileri artırdı.
-- Yavaş, yeni partiye geçmeyeceğini, bağımsız siyaset yapacağını açıkladı.
-- Belediye yönetiminde şeffaflık ve ayrım yapmama vurgusu yaptı.
-- CHP Sözcüsü Müslüm Sarı, aidiyet ve disiplin mesajı verdi.
-- Yavaş’ın istifası sonrası yedi ilçe belediye başkanı ayrıldı.
-- Süreç, mahkeme kaynaklı yönetim tartışmaları ve mutlak butlan gerilimiyle ilişkilendirildi.
+- Ankara Büyükşehir Belediye Başkanı Mansur Yavaş CHP'den istifa etti.
+- Kararını uzun düşündüğünü, vicdanen tartarak aldığını söyledi.
+- Kendini parti üstünde görmediğini, kurumsal kimliğe saygı vurguladı.
+- Belediye başkanlığı görevini sürdürerek hizmete devam edeceğini belirtti.
+- AKP'ye geçeceği iddialarını reddetti, bağımsız kalacağını açıkladı.
+- İstifayı parti içi atamalar ve sert çekişmelerle ilişkilendirdi.
+- Ankara’da sekiz ilçe belediye başkanı da CHP'den istifa etti.
+- Gelişme CHP içinde yankı yarattı, muhalefette ittifak dengeleri tartışıldı.
+- Bağımsız adaylıkta örgüt, kadro ve kampanya soruları öne çıktı.
+- İmamoğlu davalarında olası siyasi yasak, adaylık belirsizliğini artırıyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Cigdem Toker](https://www.youtube.com/watch?v=82yeAxlumgc) (⏱️ 00:00-05:45)
-- [Hilal Koylu](https://www.youtube.com/watch?v=aUIiVilCRaw&t=21s) (⏱️ 00:21-02:50)
-- [Murat Yetkin](https://www.youtube.com/watch?v=zhP3YAdcOYM&t=558s) (⏱️ 09:18-19:45)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=YvvhB1d2Ssc&t=2278s) (⏱️ 37:58-57:12)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=5ZU27IofIok&t=222s) (⏱️ 03:42-33:18)
+- [Hilal Koylu](https://www.youtube.com/watch?v=L2KTxFsBJy8&t=1801s) (⏱️ 30:01-32:51)
+- [Onlar TV](https://www.youtube.com/watch?v=h40CTYK-hRs&t=666s) (⏱️ 11:06-27:08)
 
 ---
 
-## 3. Turgutlu’da okul önünde silahlı saldırı
+## 3. New York Gündemi ve Yapay Zeka
 
-- Manisa Turgutlu’da lise önünde silahlı saldırı gerçekleşti bugün.
-- Saldırganın 15 yaşında bir lise öğrencisi olduğu açıklandı.
-- Öğrenci okula av tüfeğiyle gelip arkadaşlarına ateş etti.
-- Saldırıda toplam 11 öğrenci yaralandı, panik yaşandı.
-- İçişleri Bakanı Mustafa Çiftçi üç öğrencinin kritik dedi.
-- Üç yaralı yoğun bakımda, diğerleri hastanede tedavi görüyor.
-- Silahın anneannesine kayıtlı ruhsatlı tüfek olduğu bildirildi.
-- Tüfeğin anneanne-dede evinden alındığı iddiaları paylaşıldı.
-- Anne, baba, dede ve anneanne gözaltına alındı.
-- Okul güvenliği zayıf eleştirildi, soruşturma ve ziyaretler sürüyor.
+- Türk heyetinin New York temasları tamamlandı, görüşmeler yoğun geçti.
+- TASK, MÜSİAD ve YTB ortak akşam yemeği düzenledi.
+- Birleşmiş Milletler gündeminde iklim değişikliği ve COP31 öne çıktı.
+- Cumhurbaşkanı Erdoğan New York’ta kısa bir konuşma yaptı.
+- S-400 ve CAATSA yaptırımlarıyla ilişkili başlıklar yeniden değerlendirildi.
+- Türkiye’nin Suriye ve Ukrayna gibi bölgesel krizlerdeki rolü konuşuldu.
+- Erdoğan dönerken, bakanların temasları New York’ta sürüyor.
+- Konuşmacı, ABD’de günlük yaşam giderlerinin Türkiye’den daha ucuz dedi.
+- Türkiye’de yaygın pahalılığın toplumun birincil gündemi olması gerektiğini vurguladı.
+- Yapay zeka kriz yönetiminde öne çıktı, kırmızı hat önerisi tartışıldı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilal Koylu](https://www.youtube.com/watch?v=2bmPFyfbPdc&t=13s) (⏱️ 00:13-01:54)
-- [Onlar TV](https://www.youtube.com/watch?v=zerefbHDiTc&t=36s) (⏱️ 00:36-06:26)
-- [Murat Yetkin](https://www.youtube.com/watch?v=zhP3YAdcOYM&t=44s) (⏱️ 00:44-01:12)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=5ZU27IofIok&t=79s) (⏱️ 01:19-01:56)
+- [Serdar Akinan](https://www.youtube.com/watch?v=7_h2KwPsIkc&t=1111s) (⏱️ 18:31-25:36)
 
 ---
 
-## 4. Türkiye ABD Temaslarında S 400 Gündemi
+## 4. Adalar’da Belediye Meclisi Krizi
 
-- Türkiye-ABD temaslarında S-400 ve CAATSA yaptırımları öne çıktı.
-- Görüşmelerin kademeli biçimde ve arka planda sürdüğü belirtildi.
-- Muhabir, S-400 ve CAATSA için çözüm sinyalleri aldığını aktardı.
-- Bazı dış politika başlıklarında partiler üstü uzlaşı olabileceği söylendi.
-- Erdoğan’ın Trump’la görüşme planı gündeme geldi, sonra düşürüldü.
-- Görüşmenin gerçekleşmeyeceği iddiası, diplomasi çevrelerinde yayıldı.
-- Ankara’daki NATO zirvesinde iki liderin daha önce görüştüğü hatırlatıldı.
-- Hakan Fidan’a konu soruldu, F-35 ve S-400 başlıkları anıldı.
-- Heyette Milli Savunma Bakanı olmaması, önem düzeyi sorusu doğurdu.
-- BM’de Erdoğan temasları için “gayet güzel” dedi, Filistin sorusunu yanıtsız bıraktı.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Bahar Feyzan](https://www.youtube.com/watch?v=0GQhUez65IA&t=821s) (⏱️ 13:41-16:50)
-- [Murat Yetkin](https://www.youtube.com/watch?v=zhP3YAdcOYM&t=1190s) (⏱️ 19:50-21:40)
-
----
-
-## 5. Adalar Seçimi ve Yargı Tartışması
-
-- Adalar’da başkan vekili seçimi tartışma, gerilim ve müdahaleyle gündeme geldi.
-- CHP adayı Medine Pamuğ seçildi, ardından istifa etti.
-- Taş Mektep’te planlanan seçim, yeterli katılım olmadığından ertelendi.
-- Belediye meclisinde tutuklama ve görevden uzaklaştırmalar süreci etkiledi.
-- Tutuklu bazı isimlerin serbestliği veya iadesi mecliste tartışma yarattı.
-- Yavuz Çiftçioğlu’nun kısıtı kaldırıldı ve oy kullanabildi.
-- Özgür Çelik, CHP’lilere baskı, tehdit ve şantaj uygulandığını söyledi.
-- İddialarda dükkan yıkımı ve tutuklama tehdidiyle yönlendirme yer aldı.
-- Oylama sonuçları 5-2 ve 5-4 oldu, üyeler salonu terk etti.
-- Polis çağrısı sonrası gerilim arttı, İBB davalarıyla adalet tartışıldı.
+- Adalar’da belediye meclisi seçimi sonrası tartışmalar büyüdü.
+- 31 Mart 2024’te CHP adayı Ercan Ali Akpolat çoğunluğu aldı.
+- Sonrasında bazı başkan yardımcıları ve meclis üyeleri tutuklandı.
+- 70 yaşındaki Medine Pamuk aday seçildi, ardından istifa etti.
+- CHP’li meclis üyelerine baskı, tehdit ve gözaltı iddiaları konuşuldu.
+- Bazı üyelerin AKP’ye geçtiği veya zorlandığı öne sürüldü.
+- Yedek üyelik ve tutuklulukla oy kullanmada çifte standart iddia edildi.
+- Seçimde İstanbul’dan çok sayıda polisin gönderildiği bildirildi.
+- Meclis dengesi değişti ve sonuç AKP lehine 4-0 oldu.
+- Müdahale iddialarının Üsküdar ve İBB’ye uzanabileceği savunuldu.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=ouC0laz8w3g&t=14s) (⏱️ 00:14-23:43)
-- [Onlar TV](https://www.youtube.com/watch?v=zerefbHDiTc&t=2460s) (⏱️ 41:00-47:40)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=YvvhB1d2Ssc&t=26s) (⏱️ 00:26-14:58)
+- [Onlar TV](https://www.youtube.com/watch?v=h40CTYK-hRs&t=19s) (⏱️ 00:19-11:02)
 
 ---
 
