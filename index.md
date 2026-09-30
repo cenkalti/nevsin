@@ -1,71 +1,49 @@
 # Bugün Ne Oldu?
 
-*29 September 2026 tarihli günlük haber raporu - 3 haber birleştirildi*
+*30 September 2026 tarihli günlük haber raporu - 2 haber birleştirildi*
 
-## 1. Fon Skandalında Hisse Şişirme İddiaları
+## 1. Fon Krizi ve 2,2 Milyar İddiası
 
-- Fon ve hisse manipülasyonu iddiaları siyasi gündemin merkezine oturdu.
-- Tera, Pusula, Özata ve Gündoğdu bağlantıları birlikte tartışılıyor.
-- Gündoğdu’da üretim durdu, personel çıkarıldı, inekler satıldı.
-- Buna rağmen hisselerin %4.000’e kadar şiştiği iddia edildi.
-- Fatma Betül Sayan Kaya’nın 163 milyon yatırıp milyarlar kazandığı öne sürüldü.
-- SPK, Borsa İstanbul, MKK ve BDDK denetim zafiyetiyle eleştirildi.
-- Savcılık MKK’dan alım yapanları istedi; hesap dondurmalar uygulandı.
-- Emre Tezmen tutuklandı; bazı isimlere yalnızca çıkış yasağı kondu.
-- Muhalefet Meclis komisyonu, istifa ve şeffaf soruşturma talep ediyor.
-- Küçük yatırımcı mağduriyeti büyüdü; etkilenen sayısı 455 bini aştı.
+- Fatma Betül Sayan Kaya hakkında 2,2 milyar TL iade iddiası.
+- İade sonrası mal varlığına tedbir konulduğu ve işlemlerin incelendiği konuşuluyor.
+- SPK’nın zamanında müdahale etmemesi, denetim zafiyeti iddialarını büyüttü kamuoyunda.
+- Eski SPK Başkanı İbrahim Ömer Gönül’ün şüpheli sıfatıyla çağrıldığı bildirildi.
+- Tera, Pusula ve Aura fonlarında manipülasyon ve ponzi benzeri şüpheler var.
+- Borsada kısa sürede 97 milyar dolar piyasa değeri kaybı yaşandı.
+- Mağdur sayısı yaklaşık 456 bin hesap; ailelerle etkisi daha geniş.
+- Mağdurlar Meclis’te toplandı, ödeme ve el koyma talebini tekrarladı.
+- Cumhurbaşkanı talimatıyla DDK inceleme başlattı, görev çakışması tartışıldı.
+- Tasfiye için koordinasyon kurulu kuruldu; bankalar ve Meclis düzenlemesi gündemde.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=Lby_40HUMzQ&t=67s) (⏱️ 01:07-03:23)
-- [Onlar TV](https://www.youtube.com/watch?v=44YKvU4Klmg) (⏱️ 00:00-24:28)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=jZX3c2mFVOg&t=41s) (⏱️ 00:41-24:28)
-- [Hilal Koylu](https://www.youtube.com/watch?v=xh1YaChRVIw&t=31s) (⏱️ 00:31-26:44)
-- [Rusen Cakir](https://www.youtube.com/watch?v=fHmEAZNp0Bc&t=1560s) (⏱️ 26:00-37:29)
-- [Unsal Unlu](https://www.youtube.com/watch?v=S2l4Dnw6n8Y&t=80s) (⏱️ 01:20-20:50)
-- [Murat Yetkin](https://www.youtube.com/watch?v=W7Qwp_RA-JE) (⏱️ 00:00-16:09)
+- [Serdar Akinan](https://www.youtube.com/watch?v=J8tNxHqRAck&t=1241s) (⏱️ 20:41-38:32)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=LiRFbpUh7WQ&t=691s) (⏱️ 11:31-20:32)
+- [Cigdem Toker](https://www.youtube.com/watch?v=-Y_QZYP8OlE) (⏱️ 00:00-03:40)
+- [Onlar TV](https://www.youtube.com/watch?v=hHl1rn4M28c&t=55s) (⏱️ 00:55-29:50)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=RVFECbKo-KY) (⏱️ 00:00-06:41)
+- [Inan Demirel](https://www.youtube.com/watch?v=ejkVYQFC6gw) (⏱️ 00:00-14:46)
+- [Rusen Cakir](https://www.youtube.com/watch?v=CHG_eM6ofgE&t=29s) (⏱️ 00:29-15:47)
 
 ---
 
-## 2. Deniz Göktaş 88 gün sonra tahliye
+## 2. Mahkemelerden Tahliye ve Tutukluluk Kararları
 
-- Komedyen Deniz Göktaş, 88 gün tutuklu kaldı, tahliye edildi.
-- Mahkeme, iki ayrı suçtan toplam 19 ay ceza verdi.
-- Yattığı süre dikkate alındı, dosya bu aşamada kapandı.
-- Tahliye sonrası yurt dışına çıkış yasağı uygulanmasına karar verildi.
-- Göktaş duruşmada 16 sayfalık savunmasını bizzat okudu.
-- Savunmada, kuyu tipi cezaevinde güneş görmediğini anlattı.
-- Davanın, standup gösterisinden alınan dört cümleyle açıldığını söyledi.
-- YouTube’daki gösterinin çarpıtıldığı, troll şikayetleriyle soruşturma başladığı belirtildi.
-- Kaçma ve iltica iddialarını reddetti, Türkiye’ye isteyerek döndüğünü vurguladı.
-- Tahliye sonrası yorgun olduğunu, ailesine kavuştuğunu ve sahneye dönmek istediğini söyledi.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Onlar TV](https://www.youtube.com/watch?v=BgsefGdZNCE&t=17s) (⏱️ 00:17-08:14)
-- [Unsal Unlu](https://www.youtube.com/watch?v=S2l4Dnw6n8Y&t=248s) (⏱️ 04:08-05:12)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=PVN8VhweNIA) (⏱️ 00:00-17:24)
-- [Rusen Cakir](https://www.youtube.com/watch?v=fHmEAZNp0Bc&t=724s) (⏱️ 12:04-16:33)
-
----
-
-## 3. Silivri’de casusluk davası tartışması
-
-- Silivri’de görülen casusluk davası bugün devam etti.
-- Sanıklar arasında Ekrem İmamoğlu, Merdan Yanardağ ve Necati Özkan var.
-- Dosyada somut bilgi sızdırma delili gösterilmediği belirtildi.
-- İddianamede istihbarat kaynağı veya net kanıt bulunmadığı vurgulandı.
-- İmamoğlu duruşmada 62 dakika konuşarak siyasi savunma yaptı.
-- Konuşmasında mahkeme kürsüsünü adeta miting kürsüsüne çevirdi.
-- Yorumlarda suçlamaların zayıf ve dosyanın adaletsiz olduğu söylendi.
-- Davaların gazeteciler ve siyasetçileri hedef aldığı iddia edildi.
-- Sürecin İmamoğlu’nu yıpratmak ve enerjisini tüketmek istediği konuşuldu.
-- Tele1’e kayyum ihtimali ve kanal üzerindeki baskılar da hatırlatıldı.
+- Merdan Yanardağ’ın casusluk iddialı davasında yargılama sürdü.
+- Mahkeme ara kararında Yanardağ’ın tutukluluğunun devamına hükmetti.
+- Dava sürecinde Tele1’e operasyon ve kayyum tartışmaları gündeme geldi.
+- Yanardağ’ın ailesi ve oğluyla görüşmeler davanın insani yönünü yansıttı.
+- Tele1’in köpeği Güneş’in durumu duruşmada dikkat çeken hikâyeydi.
+- Kayyum kanala sahip çıkamayınca Güneş barınağa düşmek zorunda kaldı.
+- Alp Yanardağ ve ekip Güneş’i bulup barınaktan kurtardı.
+- Güneş tedavi edildi ve bakımını ekip üstlendi.
+- Ayrı bir davada Deniz Göktaş mahkemede savunmasını yaptı.
+- Yaklaşık 1,5 saatlik savunma sonrası Göktaş serbest bırakıldı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Onlar TV](https://www.youtube.com/watch?v=BgsefGdZNCE&t=2412s) (⏱️ 40:12-42:28)
-- [Rusen Cakir](https://www.youtube.com/watch?v=fHmEAZNp0Bc&t=19s) (⏱️ 00:19-12:03)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=qIyBgHFw1bg&t=4519s) (⏱️ 75:19-76:35)
+- [Onlar TV](https://www.youtube.com/watch?v=hHl1rn4M28c&t=2723s) (⏱️ 45:23-54:24)
 
 ---
 
