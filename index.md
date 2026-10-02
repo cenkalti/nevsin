@@ -1,88 +1,131 @@
 # Bugün Ne Oldu?
 
-*1 October 2026 tarihli günlük haber raporu - 4 haber birleştirildi*
+*2 October 2026 tarihli günlük haber raporu - 6 haber birleştirildi*
 
-## 1. Fon ve borsada manipülasyon soruşturması
+## 1. Fon Krizi Soruşturması Derinleşiyor
 
-- İstanbul Cumhuriyet Başsavcılığı fon ve borsa skandalını soruşturuyor.
-- Portföy şirketleri üzerinden hisselerde yapay yükseliş iddiaları gündemde.
-- Savcılık çok sayıda kişi ve ailelerine mal varlığı tedbiri koydu.
-- Yaklaşık 30 kişinin gözaltına alındığı, yeni tedbirlerin sürdüğü aktarıldı.
-- 131 fon tasfiye edildi, yaklaşık 456 bin yatırımcı etkilenmiş görünüyor.
-- 1 Eylül sonrası Borsa İstanbul’da büyük değer kaybı bildirildi.
-- Mustafa Yazıcı ve bazı AKP’li isimler belgelerde geçti iddiası.
-- SPK’nın süreci aynı kadrolarla yürütmesi eleştiri ve güven kaybı yarattı.
-- Takasbank iptalleri ve işlem kısıtları likidite krizini büyütebilir.
-- Mağdurlar için şeffaf ödeme planı ve mağdur fonu önerildi.
+- Fon krizinin milyonlarca yatırımcıyı etkilediği ve büyüdüğü belirtiliyor.
+- Soruşturmalar SPK, MASAK, savcılık ve DDK tarafından yürütülüyor.
+- AKP kulislerinde Fatma Betül Sayan Kaya tartışmaların merkezinde.
+- Partide Kaya’ya “Fon Fatma” deniyor, güven krizi büyüyor.
+- 2,2 milyar TL iade iddiası ve çağrılmaması tepki topladı.
+- Toplam 13 kişi mahkemeye sevk edildi, tutuklamalar gerçekleşti.
+- Bulls Yatırım sahipleri ifadeye çağrıldı, sonra serbest bırakıldı.
+- İskender Balcı tutuklandı, siyasi bağlantılar yeniden gündeme geldi.
+- Bazı mal varlığı tedbirleri hızla kaldırıldı, şüpheler arttı.
+- SPK, 1 milyon TL altı ödemeleri hızlandırıp IBAN açıkladı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=47u_hzptAa4) (⏱️ 00:00-18:23)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=STaYuTVPj-E&t=35s) (⏱️ 00:35-46:38)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=kMfZqF4WOCg&t=25s) (⏱️ 00:25-17:38)
-- [Onlar TV](https://www.youtube.com/watch?v=6Q4pN8fHnsE&t=13s) (⏱️ 00:13-13:52)
-- [Murat Yetkin](https://www.youtube.com/watch?v=aHTMAqX3-V0&t=836s) (⏱️ 13:56-16:03)
+- [Murat Yetkin](https://www.youtube.com/watch?v=_xunZzql7oQ&t=130s) (⏱️ 02:10-05:43)
+- [Hilal Koylu](https://www.youtube.com/watch?v=-O3rZMuiot0&t=70s) (⏱️ 01:10-06:36)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=63HW6RhHYNw&t=58s) (⏱️ 00:58-16:47)
+- [Cigdem Toker](https://www.youtube.com/watch?v=y4q-RA2D91M&t=274s) (⏱️ 04:34-10:18)
+- [Onlar TV](https://www.youtube.com/watch?v=D8a9bfcQG-E&t=709s) (⏱️ 11:49-33:42)
+- [Rusen Cakir](https://www.youtube.com/watch?v=ANJq2--RAMc&t=7s) (⏱️ 00:07-12:56)
 
 ---
 
-## 2. T24’e erişim engeli kararı
+## 2. TBMM resepsiyonunda Bahçeli görüşmesi
 
-- T24 haber sitesine Türkiye’den erişim engeli getirildi.
-- Siteye yalnızca VPN ile girilebildiği belirtildi.
-- Kararın gerekçesi LGBTİ içerikleri övme iddiası olarak açıklandı.
-- Sulh Ceza Hakimliği 118 içeriğin çıkarılmasına da hükmetti.
-- Ayrıca T24’ün X hesabına erişim engeli kararı verildi.
-- 25 Eylül’de talep reddedildi, savcılık itirazıyla 29 Eylül’de kabul edildi.
-- Mahkeme sürecinde savunma alınmadığı ve gerekçenin belirsiz kaldığı söylendi.
-- Çalışanlar ile yılların arşivine erişimin de engellendiği aktarıldı.
-- Karar, basın özgürlüğü ve sansür kaygılarını yeniden artırdı.
-- Gazeteci gözaltıları ve iktidarın medya etkisi örnek gösterildi.
+- 1 Ekim TBMM açılışı resepsiyonu siyasi temasların odağı oldu.
+- MHP lideri Devlet Bahçeli resepsiyonda yoğun ilgi gördü.
+- Bahçeli ile İmralı heyeti resepsiyonda kısa görüşme yaptı.
+- Pervin Buldan, Öcalan’a selam iletildiğini açıkladı.
+- Görüşme, Bahçeli ile Öcalan arasında selamlaşma mesajı sayıldı.
+- Bahçeli’nin konuşmasında da Öcalan’a selam vurgusu öne çıktı.
+- Bazı muhalefet temsilcileri resepsiyona katılmamayı tercih etti.
+- Cumhurbaşkanı Erdoğan resepsiyona katılmadı, İstanbul’a geçti.
+- AKP’nin üst düzey katılımının görece az olması dikkat çekti.
+- Liderler yakın temas kurdu, ancak temkinli tavırlar öne çıktı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Onlar TV](https://www.youtube.com/watch?v=6Q4pN8fHnsE&t=2561s) (⏱️ 42:41-43:56)
-- [Rusen Cakir](https://www.youtube.com/watch?v=fegFulgo2rE&t=5s) (⏱️ 00:05-14:46)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=kMfZqF4WOCg&t=1410s) (⏱️ 23:30-27:30)
+- [Hilal Koylu](https://www.youtube.com/watch?v=-O3rZMuiot0&t=1687s) (⏱️ 28:07-30:56)
+- [Onlar TV](https://www.youtube.com/watch?v=9TVgNrD80EA&t=30s) (⏱️ 00:30-01:01)
+- [Murat Yetkin](https://www.youtube.com/watch?v=_xunZzql7oQ&t=345s) (⏱️ 05:45-08:01)
 
 ---
 
-## 3. Belediyelerde Transfer Tartışmaları Büyüyor
+## 3. Mersin Operasyonu ve Sızdırılan Görüntüler
 
-- İBB davasında yeni deliller ve itirafların konuşulduğu bildirildi.
-- Tutuksuz sanıklar ve tanık beyanları kamuoyunda tartışma yarattı.
-- Dava sürecinin adalet ve siyaset ilişkisini yeniden gündeme taşıdığı belirtildi.
-- Belediyelerde AKP lehine transferlerin sürdüğü iddia edildi.
-- İstanbul’da bazı ilçe meclis üyeleri parti değiştirdiği açıklandı.
-- Ataşehir’de altı meclis üyesinin parti değiştirdiği söylendi.
-- Meclis değişimlerinin İBB’de güç dengesini etkileyebileceği değerlendirildi.
-- Çoğunluk daralırsa karar süreçleri ve vekillik hesapları değişebilir.
-- İzmir Büyükşehir Başkanı Cemil Tugay’ın CHP’den istifa ettiği duyuruldu.
-- Tugay’ın Erdoğan’la görüşmesi ve AKP’ye katılım ihtimali tartışıldı.
+- Mersin’de Büyükşehir ve iki ilçede yolsuzluk operasyonu yapıldı.
+- Soruşturmada rüşvet iddiaları ve 330 milyon liralık kamu zararı öne çıktı.
+- Operasyon sırasında gece yarısı bazı evlerin kapıları çalındı.
+- Kapıya pijamayla çıkan bir kadının görüntüleri görevli memurlarca çekildi.
+- Bu ev görüntülerinin medyaya servis edilmesi sosyal medyada tepki topladı.
+- Mahremiyet, aile güvenliği ve masumların korunması açısından eleştiriler yükseldi.
+- Yetkili kurumların valilik, emniyet ve bakanlık düzeyinde açıklaması bekleniyor.
+- CHP lideri Özgür Özel, Artvin mitinginde sert tepki gösterdi.
+- Özel, masum insanların özel hayatının korunması gerektiğini vurguladı.
+- Operasyonun fon skandalını unutturma amacı taşıdığı iddiaları da sorgulandı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Onlar TV](https://www.youtube.com/watch?v=6Q4pN8fHnsE&t=2230s) (⏱️ 37:10-42:14)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=kMfZqF4WOCg&t=1270s) (⏱️ 21:10-22:58)
+- [Hilal Koylu](https://www.youtube.com/watch?v=-O3rZMuiot0&t=1856s) (⏱️ 30:56-33:10)
+- [Cigdem Toker](https://www.youtube.com/watch?v=y4q-RA2D91M&t=8s) (⏱️ 00:08-02:09)
+- [Murat Yetkin](https://www.youtube.com/watch?v=_xunZzql7oQ&t=8s) (⏱️ 00:08-01:19)
 
 ---
 
-## 4. Meclis açılışında kriz tartışması
+## 4. Hakem ve bahis soruşturması büyüyor
 
-- Erdoğan, 1 Ekim’de Meclis açılış konuşmasını yaptı.
-- Konuşmada anayasa vurgusu öne çıktı, kriz eleştirileri geldi.
-- Ekonomik ve sosyal krizin derinleştiği, milyonların etkilendiği belirtildi.
-- Sisteme yakın bir kesimin güç ve servet biriktirdiği iddia edildi.
-- Borsa ve bazı yatırım fonlarında ani düşüşler krizi tetikledi.
-- Erdoğan, fon piyasasındaki sorunun yönetildiğini ve aşıldığını söyledi.
-- Hakkaniyet ve adalet vurgusu yaptı, küçük yatırımcı önlemleri duyurdu.
-- 1 milyon TL sınırıyla iade gibi acil adımlar gündeme geldi.
-- Yakında şirket temerrütleri ve işsizliğin artacağı uyarısı yapıldı.
-- Gazeteci, Erdoğan’dan kadro değişimi ve acil uzman heyet istedi.
+- Futbolda Merkez Hakemler Kurulu’na yönelik soruşturma devam ediyor.
+- Soruşturma, Ali Tuna’nın şikâyeti sonrası daha da genişledi.
+- Savcılık, TFF’ye önceden bildirilmeden disiplin soruşturması yapmayın dedi.
+- TFF’nin uyarıya rağmen işlemler yaptığı, sürecin genişleyeceği belirtildi.
+- MHK Başkanı Ferhat Gündoğdu soruşturma kapsamında gözaltına alındı.
+- Üst klasman hakemi Yasin Kol stadyum çıkışında gözaltına alındı.
+- Kol hakkında yasa dışı bahis, sahtecilik, görevi kötüye kullanma iddiası var.
+- Yardımcı hakem Göktuğu Hazar Erel gözaltına alındı, daha önce sevk edilmişti.
+- Disipline sevk listesinde Muhammed İsmail Sağlam’ın adı da yer aldı.
+- Sağlam, bahis hesabını hobi için açtığını söyledi, gelir amaçlamadı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Serdar Akinan](https://www.youtube.com/watch?v=Jrgzns9Vxn4&t=7s) (⏱️ 00:07-02:10)
-- [Murat Yetkin](https://www.youtube.com/watch?v=aHTMAqX3-V0&t=3s) (⏱️ 00:03-02:24)
+- [Hilal Koylu](https://www.youtube.com/watch?v=-O3rZMuiot0&t=396s) (⏱️ 06:36-09:25)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=63HW6RhHYNw&t=1393s) (⏱️ 23:13-25:18)
+- [Onlar TV](https://www.youtube.com/watch?v=D8a9bfcQG-E&t=2023s) (⏱️ 33:43-34:24)
+
+---
+
+## 5. Meclis Açılışında Protesto ve Tepkiler
+
+- TBMM yeni yasama yılı açılış töreniyle yeniden başladı.
+- Cumhurbaşkanı Erdoğan genel kurulda konuşma yaptı, mesajlar verdi.
+- Konuşmada kutuplaşmanın sona erdirilmesi gerektiğine dair ifadeler yer aldı.
+- Araştırma komisyonu kurulması tartışıldı, AK Parti MHP karşı çıktı.
+- Komisyondan vazgeçildiği belirtildi, muhalefet ve Yeni Parti tepki gösterdi.
+- Yeni Parti, Erdoğan konuşurken salonu terk ederek protesto yaptı.
+- Bazı milletvekilleri, örneğin Özgür Özel, genel kurulu terk etti.
+- Bazı partiler akşamki resepsiyonu protesto edeceğini duyurdu.
+- Kemal Kılıçdaroğlu törene ve resepsiyona katılım gösterdi.
+- Resepsiyonda Bahçeli ile İYİ Parti temsilcileri tokalaştı, yansımaları bekleniyor.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Ozlem Gurses](https://www.youtube.com/watch?v=63HW6RhHYNw&t=1008s) (⏱️ 16:48-23:12)
+- [Rusen Cakir](https://www.youtube.com/watch?v=AaR8nRUqm3Q) (⏱️ 00:00-01:12)
+
+---
+
+## 6. T24’e erişim engeli kararı
+
+- Haber sitesi T24’e internetten erişim engeli getirildi.
+- Erişim engeli kararı İstanbul 1. Sulh Ceza Hakimliği’nden çıktı.
+- Süreçte Siber Güvenlik Başkanlığı’nın da devrede olduğu aktarıldı.
+- Gerekçe olarak sitedeki LGBTI içerikleri gösterildi.
+- İlk erişim engeli talebi reddedildi, sonra yenilenerek kabul edildi.
+- Engel, yılların emeğiyle üretilen içerikleri aniden erişilemez kıldı.
+- T24, karara karşı itiraz ve istinaf başvurularını başlattı.
+- Karar gazeteciler ve medya emekçileri arasında tepkiyle karşılandı.
+- Tartışmalar basın özgürlüğünün korunması gereğine odaklandı.
+- Yayıncılar, bağımsız yayıncılığın yeniden başlayacağını umut ediyor.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Ozlem Gurses](https://www.youtube.com/watch?v=63HW6RhHYNw&t=1532s) (⏱️ 25:32-26:01)
+- [Cigdem Toker](https://www.youtube.com/watch?v=y4q-RA2D91M&t=131s) (⏱️ 02:11-04:31)
 
 ---
 
