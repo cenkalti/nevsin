@@ -1,64 +1,67 @@
 # Bugün Ne Oldu?
 
-*3 October 2026 tarihli günlük haber raporu - 3 haber birleştirildi*
+*4 October 2026 tarihli günlük haber raporu - 3 haber birleştirildi*
 
-## 1. Fon Skandalı Soruşturması Genişliyor
+## 1. Siyasette yasak ve yolsuzluk iddiaları
 
-- Türkiye, büyük çaplı fon skandalı iddialarıyla sarsıldı son günlerde.
-- Borsada manipülasyon ve şişirilmiş hisse satışları öne çıkıyor.
-- Yaklaşık 450 bin küçük yatırımcının doğrudan mağdur olduğu belirtiliyor.
-- Paranın kaynağı belirsiz; kara para aklama şüpheleri tartışılıyor.
-- 11 milyar TL şüpheli transfer ve offshore hesap iddiaları konuşuluyor.
-- Bazı fon yöneticileri tutuklandı; paranın bir kısmı kaçırıldı.
-- Fatma Betül Sayan Kaya hedef oldu; istifa ettiği bildirildi.
-- SPK ve MASAK’ın gecikmesi eleştirilirken, DDK soruşturması bekleniyor.
-- Mağdurlar için 1 milyona öncelik, ana para artı TÜFE planı konuşuluyor.
-- Skandalın borsa, borçlanma ve siyasi dengelere etkisi belirsizliğini koruyor.
+- Ekrem İmamoğlu hakkında siyasi yasak iddiası yeniden gündeme geldi.
+- Bazı sözlerin hakaret sayılıp yasak istenebileceği konuşuldu.
+- Mahkeme kararı sonrası istinaf ve Yargıtay süreçleri hatırlatıldı.
+- Bu tür davaların Türkiye’ye güveni zedeleyebileceği belirtildi.
+- Fon vurgunu iddiasında AK Parti bağlantılı isimler öne çıktı.
+- Fatma Betül Sayan Kaya’nın adının para trafiğinde geçtiği aktarıldı.
+- Zeynel Emre’nin itirafı sonrası CHP açıklaması tartışmayı büyüttü.
+- Polisin 90 yaşındaki kadına baskını görüntülenip tepki topladı.
+- Sayan ve eşine dokunulmadığı, dokunulmazlık tartışması yaşandı.
+- Milletvekili emekli maaşlarının iptali talebi kamuoyunu böldü.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=5MpRQLOg9JE&t=108s) (⏱️ 01:48-02:41)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=91Wa1m_NZXw&t=510s) (⏱️ 08:30-42:06)
-- [Hilal Koylu](https://www.youtube.com/watch?v=iwgzNHBbWYc&t=14s) (⏱️ 00:14-18:36)
-- [Rusen Cakir](https://www.youtube.com/watch?v=EHbJ55P-yFU) (⏱️ 00:00-12:28)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=KVldPhdg6Jk) (⏱️ 00:00-00:36)
+- [Serdar Akinan](https://www.youtube.com/watch?v=dcVatoCnmDA) (⏱️ 00:00-00:40)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=HaT-d_xku0o&t=885s) (⏱️ 14:45-15:18)
+- [Rusen Cakir](https://www.youtube.com/watch?v=zhhaIwil9lg&t=193s) (⏱️ 03:13-06:37)
 
 ---
 
-## 2. Belediye operasyonları meclis dengelerini değiştiriyor
+## 2. Fon skandalı ve güven krizi
 
-- Belediyelere yönelik operasyonlar Mersin ve İstanbul’da tartışma yarattı.
-- Mersin’de operasyonun Büyükşehir Başkanı Vahap Seçer’i hedeflediği öne sürüldü.
-- Baskın sırasında çekildiği söylenen kadın görüntüsü büyük tepki topladı.
-- Görüntüleri kimin servis ettiği belirsiz; bakanlıklar veya üçüncü kişiler konuşuldu.
-- Bu tür görüntülerin yayılması hukuka aykırı olabilir, suç sayılabilir.
-- Ataşehir Belediye Başkan Vekili Murat Güneş gözaltına alındı.
-- Gözaltı sonrası Ataşehir Meclisi dengesi Cumhur İttifakı lehine değişti.
-- İBB Meclisi’nde CHP 187-130 üstünken fark zamanla azaldı.
-- CHP’nin 154’e düştüğü, Cumhur İttifakı’nın 142’ye çıktığı belirtildi.
-- Muhalefet, geçişlerde para, baskı, tehdit ve şantaj iddia ediyor.
+- Ekonomide güven sorunu büyürken OVP hedefleri kuşkuyla karşılanıyor.
+- Enflasyon, para basma ve olası devalüasyon senaryoları tartışma yaratıyor.
+- Kurumların zayıflaması, yönetim krizini ve denetim boşluklarını derinleştiriyor.
+- DPT’nin kapatılması, planlama kapasitesini azalttığı için eleştiriliyor.
+- Kamu ihaleleri ve KÖİ projeleri, şehir hastaneleriyle yeniden sorgulanıyor.
+- Aura Portföy ile Tera bağlantılı fonlarda 8 milyar TL aktarımı konuşuluyor.
+- Transferlerin KAP, TEFAS ve MKK kayıtlarında göründüğü belirtiliyor.
+- SPK, MASAK ve savcılığın gecikmesi müdahale iddialarını büyütüyor.
+- Pay reposu gibi riskli işlemlerle teminat erimesi kayıpları artırıyor.
+- Mağdur tazmini için yatırımcı tazmin mekanizmaları ve kanunlar tartışılıyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=_F8Ya3tUZlg&t=777s) (⏱️ 12:57-24:59)
-- [Hilal Koylu](https://www.youtube.com/watch?v=iwgzNHBbWYc&t=1119s) (⏱️ 18:39-24:59)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=HaT-d_xku0o&t=771s) (⏱️ 12:51-36:20)
+- [Serdar Akinan](https://www.youtube.com/watch?v=dcVatoCnmDA&t=40s) (⏱️ 00:40-25:59)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=KVldPhdg6Jk&t=37s) (⏱️ 00:37-14:13)
 
 ---
 
-## 3. Genel kurul bitti, meclis açıldı
+## 3. Program Kapanışında Ahlak ve Haksızlık Vurgusu
 
-- Birleşmiş Milletler Genel Kurulu toplantıları sona erdi.
-- Katılımcı heyetler ülkelerine dönmeye başladı, şehir hareketlendi.
-- Genel kurul sonrası kentte gözle görülür bir yoğunluk oluştu.
-- Aynı dönemde Türkiye Büyük Millet Meclisi açılışı yapıldı.
-- Açılışın ardından geleneksel resepsiyon düzenlendi.
-- Bu yılki resepsiyon geçen yıla göre daha sönük geçti.
-- Resepsiyonun neden daha silik geçtiğine dair net açıklama yapılmadı.
-- Meclis açılışına ilişkin kapsamlı bir değerlendirme paylaşılmadı.
+- Program kapanışında sunucu ve konuklar duygusal mesajlar paylaştı.
+- Sunucu, haksızlığa tepki gösterip 90 yaşındaki teyzeyi andı.
+- Konuklar izleyicilere teşekkür etti, iyi dileklerle vedalaştı programdan.
+- Kapanışta İoanna Kuçuradi’nin kişiliği ve üretimleri hatırlatıldı.
+- Konuşmada din, iman ve ahlak arasındaki bağ tartışıldı.
+- Dindarlığın otomatik olarak ahlak getirmediği özellikle vurgulandı.
+- Ahlakın, dini inanç veya etnik kökene bağlı olmadığı söylendi.
+- Eski Diyanet Başkanı Süleyman Ateş’ten tefsir örneği aktarıldı.
+- Ateş’in, cennetin Müslümanlara tekel olmadığını sözü aktarıldı.
+- Dindarlıkla ahlaksızlık saklayanlara karşı ahlaklı duruş çağrısı yapıldı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=1Gtpabk6ir4&t=357s) (⏱️ 05:57-06:05)
-- [Rusen Cakir](https://www.youtube.com/watch?v=_F8Ya3tUZlg&t=2450s) (⏱️ 40:50-41:18)
+- [Serdar Akinan](https://www.youtube.com/watch?v=dcVatoCnmDA&t=3067s) (⏱️ 51:07-52:16)
+- [Rusen Cakir](https://www.youtube.com/watch?v=zhhaIwil9lg&t=1010s) (⏱️ 16:50-18:01)
 
 ---
 
