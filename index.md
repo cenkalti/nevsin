@@ -1,115 +1,66 @@
 # Bugün Ne Oldu?
 
-*5 October 2026 tarihli günlük haber raporu - 5 haber birleştirildi*
+*6 October 2026 tarihli günlük haber raporu - 3 haber birleştirildi*
 
-## 1. Fon Vurgunu İddiaları Siyaseti Sarstı
+## 1. Fon Vurgunu İddialarında Soruşturma Derinleşiyor
 
-- Türkiye’de büyük fon vurgunu ve borsa çöküşü iddiaları büyüyor.
-- Zararın 20 milyar dolar ve üstüne çıkabileceği konuşuluyor.
-- Merkezde Tera Yatırım, fon şişirme ve manipülasyon iddiaları bulunuyor.
-- SPK, Hazine ve savcılığın geç kaldığı eleştirileri öne çıkıyor.
-- Başsavcılık eski SPK Başkanı için soruşturma izni istedi.
-- Bakan Şimşek teftiş kurulunu devreye soktu, inceleme başlattı.
-- Tasfiye öncesi yüzlerce hesaptan milyarlarca lira çekildiği iddia edildi.
-- Siyasetçi ve bürokrat bağlantıları, nepotizm ve VIP liste iddiaları tartışılıyor.
-- Mecliste eşit temsilli araştırma komisyonu ve adli tedbirler isteniyor.
-- Erdoğan takip sözü verdi; parti içinde bekle-gör ve gerilim sürüyor.
+- Fon vurgunu iddialarında 2,1–2,2 milyar TL çekildi.
+- Paranın yedi bankaya bölünmesi iz kaybettirme yöntemi sayılıyor.
+- SPK bülteninde isimlerin açıklanması ve savcılık süreci bekleniyor.
+- Adalet Bakanı soruşturmayı duyurdu, tutuklama ve işlem sayıları paylaşıldı.
+- Bazı işlemlerin elle belgeyle yapıldığı, dijital kayıt alınmadığı öne sürülüyor.
+- Fon içindeki denizcilik hissesinin zirvede satıldığı iddiası gündemde.
+- MKK ve vergi dairesi kayıtlarının soruşturmada kritik delil olacağı söyleniyor.
+- Mağdur yatırımcılar öfkeli, ödemelerin küçük yatırımcıyla sınırlı kalacağı konuşuluyor.
+- Meclis komisyonu kurulması ve sürecin şeffaf yürütülmesi çağrısı yapıldı.
+- Fatma Betül Sayan Kaya ile Zehra Taşkesenlioğlu hakkında ayrı iddialar paylaşıldı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=y4Bm4Z776yM&t=1314s) (⏱️ 21:54-39:26)
-- [Hilal Koylu](https://www.youtube.com/watch?v=62zhEESDOGM&t=535s) (⏱️ 08:55-19:42)
-- [Rusen Cakir](https://www.youtube.com/watch?v=t4YUR_C2E4o&t=15s) (⏱️ 00:15-18:13)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=204fLZNRBhw&t=11s) (⏱️ 00:11-46:19)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=HqgLE1lBFmU&t=450s) (⏱️ 07:30-66:18)
-- [Onlar TV](https://www.youtube.com/watch?v=nWLEWVHSEs8&t=424s) (⏱️ 07:04-57:40)
-- [Cigdem Toker](https://www.youtube.com/watch?v=r4_R-gOrcW8&t=364s) (⏱️ 06:04-09:59)
-- [Murat Yetkin](https://www.youtube.com/watch?v=YE-RedFG2YE) (⏱️ 00:00-01:05)
+- [Serdar Akinan](https://www.youtube.com/watch?v=3Fd7PcepAqI) (⏱️ 00:00-59:19)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=MVGvlZculoA&t=1264s) (⏱️ 21:04-36:50)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=vxz-9cQkomA&t=419s) (⏱️ 06:59-09:25)
 
 ---
 
-## 2. Enflasyon Verileri Üzerindeki Tartışma Büyüyor
+## 2. Tugay’ın Parti Değiştirme İddiaları
 
-- TÜİK, Eylül 2026 TÜFE’yi aylık 1,84 açıkladı.
-- Yıllık enflasyon 29,73 oldu; ilk kez yüzde 30 altı.
-- Bakan Mehmet Şimşek düşüşü 57 ay sonra müjdeledi.
-- Şimşek, dezenflasyonun ulaştırma hariç genelleştiğini savundu.
-- Bağımsız ölçümler aylık 2,10, yıllık 46,61 gösterdi.
-- ENAK araştırmaları enflasyonun yüzde 46 üzerinde olduğunu vurguladı.
-- Ekonomistler düşüşün halkın hissettiği pahalılıkla uyuşmadığını söyledi.
-- Gıda ve kira gibi kalemlerde artışlar vatandaşta daha sert.
-- Cezaevi kantin fiyatları gıdada yaklaşık yüzde 70 hesaplandı.
-- Eleştiriler sepet ağırlıkları, kötü yönetim ve yoksullaşmaya odaklandı.
+- Cemil Tugay hakkında AK Parti’ye geçeceği iddiaları yayıldı.
+- Bazı paylaşımlar, geçişin Çarşamba günü olacağını öne sürdü.
+- İddialara göre Tugay, bazı İzmir ilçelerini yanında götürecek.
+- Rozetin Erdoğan tarafından AK Parti Genel Merkezi’nde takılacağı söylendi.
+- Bu iddialar üzerine milletvekillerine Genel Merkez daveti konuşuldu.
+- Sosyal medyada Tugay’ın eski konuşması yeniden dolaşıma girdi.
+- O konuşmada parti değiştirmenin etik olmadığını savunduğu aktarıldı.
+- Tugay, röportajda AK Parti’ye geçiş iddialarını kesin dille reddetti.
+- Partisini ve ilkelerini terk etmeyeceğini, sadakat vurgusu yaptı.
+- Ayrı gündemde, Öcalan’ın gazetecilere konuşma ihtimali tartışıldı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=y4Bm4Z776yM&t=200s) (⏱️ 03:20-21:53)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=204fLZNRBhw&t=2786s) (⏱️ 46:26-52:32)
-- [Hilal Koylu](https://www.youtube.com/watch?v=62zhEESDOGM&t=1182s) (⏱️ 19:42-21:55)
-- [Cigdem Toker](https://www.youtube.com/watch?v=r4_R-gOrcW8&t=4s) (⏱️ 00:04-04:12)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=MVGvlZculoA&t=2211s) (⏱️ 36:51-43:38)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=vxz-9cQkomA) (⏱️ 00:00-05:43)
+- [Rusen Cakir](https://www.youtube.com/watch?v=aGKgQVONARo&t=36s) (⏱️ 00:36-11:10)
 
 ---
 
-## 3. Soma Maden Kazası ve Adalet Tepkisi
+## 3. Vefat haberleri ve anmalar
 
-- Soma’da kömür madeninde göçük yaşandı, beş madenci hayatını kaybetti.
-- Kaza büyük üzüntü yarattı, geçmiş felaketler yeniden hatırlandı.
-- Toplumda sorumluların hesap vermesi ve istifalar çağrısı yükseldi.
-- Oyuncu Hazar Ergüçlü, Kerim Ören için duygusal konuşma yaptı.
-- Ergüçlü, ailelerin acısını ve süren adaletsizlikleri vurguladı.
-- Madencinin oğlu Yaşar, babasının tabutu başında anıldı.
-- Ergüçlü, söz yetmez dedi, eğitim ve sosyal destek istedi.
-- Altın Koza Film Festivali’nde ödül konuşmasında madencileri andı.
-- İstanbul Beyoğlu’nda Soma eylemine katılan öğrencilere şiddet uygulandı.
-- Can Atalay’ın cezaevi süreci ve madenci ailelerinin adalet mücadelesi hatırlatıldı.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Cigdem Toker](https://www.youtube.com/watch?v=r4_R-gOrcW8&t=601s) (⏱️ 10:01-11:46)
-- [Onlar TV](https://www.youtube.com/watch?v=nWLEWVHSEs8&t=140s) (⏱️ 02:20-05:38)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=204fLZNRBhw&t=3386s) (⏱️ 56:26-59:09)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=HqgLE1lBFmU&t=4054s) (⏱️ 67:34-72:49)
-
----
-
-## 4. Cemil Tugay’ın AKP’ye Geçiş İddiası
-
-- İzmir Büyükşehir Belediye Başkanı Cemil Tugay için geçiş iddiası konuşuldu.
-- İddialar Tugay’ın CHP’den ayrılıp AKP’ye katılacağı yönünde.
-- Bazı yorumlara göre geçişin Çarşamba günü gerçekleşebileceği öne sürüldü.
-- Tugay’ın daha önce CHP’den istifa edip bağımsız kalacağını söylediği aktarıldu.
-- Erdoğan ile fotoğraf ve saray görüşmesinin süreci etkilediği iddia edildi.
-- Geçişin İzmir’e devlet desteği getirebileceği ihtimali tartışıldı.
-- Buna karşılık halkın ve muhalefetin sert tepki gösterebileceği vurgulandı.
-- Sosyal medyada Tugay’ın parti değiştirmeyi eleştiren eski konuşması paylaşıldı.
-- Konuşmada seçmene sadakat ve etik kaygılar öne çıkarılıyordu.
-- CHP içi tasfiye, kariyerizm ve Tunç Soyer örneği tartışmaya eklendi.
+- Yayında tarih ve saat duyuruldu, açılış anmayla başladı.
+- Gazeteci Levent Öztürk’ün vefatı duyuruldu, taziye mesajları paylaşıldı.
+- Meslektaşı Fatih Kuş’un annesi öğle namazında uğurlandı.
+- Levent Öztürk için programda uzun bir anma bölümü yapıldı.
+- Savaş bölgelerinde muhabirlik anıları, Gürcistan’daki görevleri aktarıldı.
+- Sahada cesur çalıştığı, görme kaybına rağmen sürdürdüğü vurgulandı.
+- Olay anı görüntüleri, panik, ambulans ve ilk müdahale anlatıldı.
+- Sunucu, Levent’in karakterini ve habercilik tutkusunu özellikle övdü.
+- Galatasaraylılar Cemiyeti eski başkanı Fidel Berber’in vefatı duyuruldu.
+- Berber’in Bodrum’da defnedildiği, ailesine ve camiaya başsağlığı iletildi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilal Koylu](https://www.youtube.com/watch?v=62zhEESDOGM&t=1887s) (⏱️ 31:27-33:41)
-- [Rusen Cakir](https://www.youtube.com/watch?v=t4YUR_C2E4o&t=1942s) (⏱️ 32:22-42:27)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=HqgLE1lBFmU&t=91s) (⏱️ 01:31-07:28)
-
----
-
-## 5. CHP’li Belediyelere Operasyonlar ve Tepkiler
-
-- CHP’li belediyelere yönelik operasyonlar gündemde geniş tartışma yarattı.
-- Mersin’de Vahap Seçer’e destek yürüyüşü duyuruldu, katılım çağrısı yapıldı.
-- Ankara Büyükşehir Belediye Başkanı Mansur Yavaş’ın Mersin’e gideceği bildirildi.
-- İhale ve doğrudan temin soruşturmalarında 59 kişi gözaltına alındı.
-- Gözaltına alınanlar arasında üç belediye başkanının da bulunduğu belirtildi.
-- Gözaltındaki 59 kişi işlemler sonrası adliyeye sevk edildi.
-- CHP ve Yeni Parti yöneticileri tutuklu başkanların serbest bırakılmasını istedi.
-- Ataşehir’de Belediye Başkan Vekili Murat Güneş gözaltına alındı.
-- Ataşehir operasyonunda toplam 13 kişi gözaltına alındı, meclis üyeleri var.
-- Bazı CHP meclis üyelerinin AKP’ye geçtiği, baskı iddiaları konuşuldu.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Bahar Feyzan](https://www.youtube.com/watch?v=HqgLE1lBFmU&t=3982s) (⏱️ 66:22-66:47)
-- [Onlar TV](https://www.youtube.com/watch?v=nWLEWVHSEs8&t=855s) (⏱️ 14:15-20:02)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=MVGvlZculoA&t=15s) (⏱️ 00:15-00:52)
+- [Rusen Cakir](https://www.youtube.com/watch?v=aGKgQVONARo&t=675s) (⏱️ 11:15-13:41)
 
 ---
 
