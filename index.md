@@ -1,24 +1,25 @@
 # Bugün Ne Oldu?
 
-*10 October 2026 tarihli günlük haber raporu - 1 haber birleştirildi*
+*11 October 2026 tarihli günlük haber raporu - 1 haber birleştirildi*
 
-## 1. Fon Skandalı ve Piyasa Krizi
+## 1. Fon Skandalı ve Soruşturma Krizi
 
-- Büyük fon vurgunu iddiaları siyasette sert tartışmalara yol açtı.
-- 455 bini aşkın yatırımcı etkilendi, mağdur sayısı iki milyona çıkabilir.
-- İktidar, liste açıklamayı masumiyet karinesi ve lekelenmeme hakkıyla savundu.
-- Muhalefet, bu hakların iktidar çevresine seçici uygulandığını öne sürdü.
-- Ümit Özdağ, mağdurların belgelenmesi için sert açıklamalar yaptı.
-- Aile Bakanı Göktaş, bazı milletvekilleri hakkında suç duyurusunda bulundu.
-- Mecliste, kişi başına en çok 1 milyon TL ara ödeme görüşülüyor.
-- Tera Yatırımda SPK uyarıları sonrası üyeler görevden alındı.
-- Borsaya açılma sonrası yatırımcı fonları takıldı, ödemeler kademeli planlandı.
-- Likidite sıkışması ve riskli tahviller, sistemik kriz ihtimalini artırdı.
+- Enginyurt, fon vurgunu diye büyük yolsuzluk iddialarını gündeme taşıdı.
+- Bazı fon ve hisse işlemlerinde haksız kazanç sağlandığı öne sürüldü.
+- Fatma Betül Sayankaya ve başka isimlerin hesap hareketleri tartışma yarattı.
+- Savcılık, SPK eski başkanı soruşturması için Hazine’den izin istedi.
+- Soruşturmada bazı şüphelilerin mal varlıklarına geçici tedbir konuldu.
+- Olay, birçok fonu etkiledi ve binlerce küçük yatırımcı mağdur oldu.
+- MASAK ve SPK’nın yeterince soruşturmadığı eleştirileri muhalefette yükseldi.
+- Mecliste araştırma önergesi verildi, siyasi tepkiler kamuoyuna yansıdı.
+- Fon krizi haberleriyle gazetecilere adli kontrol, tutuklama kararları geldi.
+- Bazı haberlere erişim engeli kondu, basın özgürlüğü tartışması büyüdü.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilal Koylu](https://www.youtube.com/watch?v=IwR25WPjVzI&t=66s) (⏱️ 01:06-26:29)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=pSa2P-hc_4w&t=759s) (⏱️ 12:39-28:56)
+- [Onlar TV](https://www.youtube.com/watch?v=W-sFMSEl1cs&t=1513s) (⏱️ 25:13-34:58)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=zqlLcNa_2dE) (⏱️ 00:00-15:56)
+- [Rusen Cakir](https://www.youtube.com/watch?v=tbLfRuby_gU&t=5s) (⏱️ 00:05-14:08)
 
 ---
 
