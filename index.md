@@ -1,100 +1,151 @@
 # Bugün Ne Oldu?
 
-*14 October 2026 tarihli günlük haber raporu - 4 haber birleştirildi*
+*15 October 2026 tarihli günlük haber raporu - 7 haber birleştirildi*
 
-## 1. Halk TV’ye Kayyım ve Operasyon
+## 1. Halk TV’ye Kayyım ve Yayın Kesintisi
 
-- Halk TV binasına sabah erken saatlerde polis operasyonu düzenlendi.
-- İstanbul Başsavcılığı soruşturmada 17 kişi için gözaltı kararı açıkladı.
-- Eş zamanlı operasyonlarda 11 kişi gözaltına alındı, bazıları yurt dışında.
-- Soruşturmada rüşvet, ihaleye fesat ve kara para suçlamaları yer aldı.
-- MASAK incelemesi ve para transferlerine dair kayıtların dosyada olduğu belirtildi.
-- Sulh ceza hâkimliği yönetimin TMSF’ye devrine ve el koymaya hükmetti.
-- TMSF, İbrahim Paşalı’yı kayyım atadı, giriş çıkışlar kısıtlandı.
-- Canlı yayınlar durdu, bant yayına geçildi, dijital erişim belirsizleşti.
-- Cafer Mahiroğlu iddiaları reddetti, izleyicilere dayanışma çağrısı yaptı.
-- Muhalefet, basın örgütleri ve uluslararası medya operasyonu sert eleştirdi.
+- Halk TV’ye sabah erken saatlerde müdahale edilerek kayyım atandı.
+- Kanalın yayını kesildi, çalışanların bir kısmı içeri alınmadı.
+- Bazı programlar durdu, Plan-Bütçe Komisyonu yayını izlenemedi.
+- Devir işleminin TMSF üzerinden yürütüldüğü, kararlar alındığı bildirildi.
+- Gerekçe olarak Cafer Mahiroğlu’na mali suç ve rüşvet iddiaları gösterildi.
+- Yayın durdurmanın RTÜK kararına dayanmadan yapıldığı ileri sürüldü.
+- Kanalın YouTube ve sosyal medya yayınlarında erişim engelleri yaşandı.
+- Çok sayıda Halk TV çalışanının gözaltına alındığı aktarılıyor.
+- Muhalefet ve İmamoğlu, uygulamayı basın özgürlüğüne müdahale saydı.
+- Anayasa 28 hatırlatıldı, izleyici dayanışması ve destek çağrısı yapıldı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Serdar Akinan](https://www.youtube.com/watch?v=yjSxhDXrx6c&t=9s) (⏱️ 00:09-03:03)
-- [Hilal Koylu](https://www.youtube.com/watch?v=tCFi4leFBy8&t=102s) (⏱️ 01:42-04:22)
-- [Onlar TV](https://www.youtube.com/watch?v=_d9MMXmydIs&t=2225s) (⏱️ 37:05-37:26)
-- [Unsal Unlu](https://www.youtube.com/watch?v=Ln2Iv4_oMBU&t=75s) (⏱️ 01:15-26:59)
-- [Cigdem Toker](https://www.youtube.com/watch?v=g2aSSW3rbEc&t=6s) (⏱️ 00:06-10:47)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=o657jyVFCnM) (⏱️ 00:00-07:00)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=XUsSWLtRYDs&t=64s) (⏱️ 01:04-55:36)
-- [Murat Yetkin](https://www.youtube.com/watch?v=tQ0rxPm4Fck&t=5s) (⏱️ 00:05-03:34)
+- [Murat Yetkin](https://www.youtube.com/watch?v=JO4iU5ntNoM&t=540s) (⏱️ 09:00-13:33)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=Ub6ih4LRGTk&t=40s) (⏱️ 00:40-03:25)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=zhseQTBR3lk&t=240s) (⏱️ 04:00-30:01)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=ONJS6eEIjjo&t=396s) (⏱️ 06:36-10:05)
+- [Rusen Cakir](https://www.youtube.com/watch?v=0V1Ei8V23UI&t=26s) (⏱️ 00:26-01:07)
+- [Unsal Unlu](https://www.youtube.com/watch?v=sXXFDDxySCw&t=152s) (⏱️ 02:32-05:35)
 
 ---
 
-## 2. Tera Dosyası ve Fon Krizi
+## 2. İmamoğlu Silivri’de siyasi savunma yaptı
 
-- Bodrum’da Boring People zirvesi MGAL Otel’de 22 Ağustos yapıldı.
-- Etkinliğe 200 kadar iş insanı ve ekonomist katıldı.
-- Konuşmacılar arasında Feyzan Ersinan, Ayça Ferah ve Emre Tezmen vardı.
-- Ana sponsorun Tera Bank olduğu, birçok yan sponsor bulunduğu aktarıldı.
-- Timothy, 17 Ağustos’ta fon ve piyasa manipülasyonu riskleri uyardı.
-- MSCI not indirimi ve 41 milyar dolarlık yabancı payı vurgulandı.
-- Timothy’nin konuşmasındaki Erdoğan göndermesi tartışma yarattı, soruşturma açıldı.
-- Kayıtların sızdırıldığı, amaç dikkat yönetimi iddiaları gündeme geldi.
-- Tera dosyasında tedbir listeleri, MASAK ve SPK’ya sorular yöneltildi.
-- Mecliste fon teklifi görüşülürken, Erenköy Cemaati denetimsizlik eleştirdi.
+- Ekrem İmamoğlu Silivri’de görülen duruşmada savunmaya başladı.
+- Savunmasını birkaç güne böleceğini, dört gün süre verildiğini söyledi.
+- Savunmada basın özgürlüğünü vurguladı, tutuklu gazetecileri tek tek andı.
+- Demokrasi, cumhuriyet ve adalet için güçlü eleştiriler yöneltti.
+- Tarihsel referanslar kullanarak birlik ve umut mesajları verdi.
+- Laik-dindar ve Türk-Kürt ayrımlarını aşma çağrısı yaptı.
+- Ailesi duruşmadaydı, anne babasına duygusal sözler söyledi.
+- İktidarın muhalefeti tasfiye stratejisi iddiasını tweetiyle hatırlattı.
+- Duruşmada Adalet Bakanı’nın eski danışmanına casusluk iması konuşuldu.
+- İmamoğlu hakkında 15 dava ve olası siyasi yasak riskleri anlatıldı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Cigdem Toker](https://www.youtube.com/watch?v=g2aSSW3rbEc&t=648s) (⏱️ 10:48-12:37)
-- [Rusen Cakir](https://www.youtube.com/watch?v=Pz150ijUQHE&t=58s) (⏱️ 00:58-07:50)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=05FfELldtJM&t=66s) (⏱️ 01:06-03:25)
-- [Onlar TV](https://www.youtube.com/watch?v=INMgfzgQcgE&t=1560s) (⏱️ 26:00-29:56)
-- [Serdar Akinan](https://www.youtube.com/watch?v=yjSxhDXrx6c&t=302s) (⏱️ 05:02-19:06)
-- [Unsal Unlu](https://www.youtube.com/watch?v=Ln2Iv4_oMBU&t=240s) (⏱️ 04:00-12:32)
-- [Murat Yetkin](https://www.youtube.com/watch?v=tQ0rxPm4Fck&t=498s) (⏱️ 08:18-16:01)
+- [Rusen Cakir](https://www.youtube.com/watch?v=0V1Ei8V23UI&t=68s) (⏱️ 01:08-11:44)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=j-sCg--uPD4&t=750s) (⏱️ 12:30-16:26)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=zhseQTBR3lk&t=14s) (⏱️ 00:14-35:48)
 
 ---
 
-## 3. İmamoğlu’nun Silivri Savunması Başladı
+## 3. Fon Skandalı Mecliste ve Yargıda
 
-- Ekrem İmamoğlu, Silivri’de İBB davasında savunmasına başladı.
-- Mahkeme, İmamoğlu ve avukatlarına dört güne kadar süre verdi.
-- Savunma hakkının kısıtlandığı iddiaları kamuoyunda eleştiriliyor.
-- İddianamede 143 eylem üzerinden örgüt suçlaması yöneltildiği belirtiliyor.
-- Duruşmada gizli tanık ve etkin pişman ifadeleri kullanıldığı aktarıldı.
-- İmamoğlu, iddianamenin mantığını ve siyasi gerekçelerini tartışacağını söyledi.
-- Savunmada fon krizi eleştirildi, “asrın soygunu” ifadesi kullanıldı.
-- Gazeteciler ve program ekipleri duruşmayı izlemek için Silivri’ye gitti.
-- Yayınların engellendiği ve habere erişimde kısıtlar yaşandığı bildirildi.
-- Olası ceza halinde İBB meclis aritmetiği ve başkanlık değişimi tartışılıyor.
+- “Fon soygunu” iddiaları, organize suç mu bireysel hata mı tartışılıyor.
+- Konuklar, organize suçun planlı ve koordineli işlediğini anlatıyor.
+- Bürokrasi, siyaset ve finansın ortak bir düzen kurduğu öne sürülüyor.
+- Yarım milyon kişinin mağdur olduğu ve büyük kamu zararı konuşuluyor.
+- Mecliste mağdurları ilgilendiren fon yasa tasarısı görüşülüyor.
+- Plan-Bütçe Komisyonunda fonların tasfiyesine dair 9 madde ele alındı.
+- Komisyonda Hazine ve Maliye Bakanı yer almadığı belirtildi.
+- SPK başkanı da komisyonda yoktu, alt kadro katıldı.
+- SPK eski başkanı Ömer Gönül için soruşturma izni istendi.
+- Yasanın Genel Kurula haftaya kalabileceği, ödemeler başlayabileceği aktarıldı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=Ln2Iv4_oMBU&t=880s) (⏱️ 14:40-24:52)
-- [Rusen Cakir](https://www.youtube.com/watch?v=Pz150ijUQHE&t=3s) (⏱️ 00:03-08:19)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=o657jyVFCnM&t=420s) (⏱️ 07:00-12:24)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=XUsSWLtRYDs&t=205s) (⏱️ 03:25-41:34)
-- [Cigdem Toker](https://www.youtube.com/watch?v=g2aSSW3rbEc&t=114s) (⏱️ 01:54-02:14)
-- [Onlar TV](https://www.youtube.com/watch?v=INMgfzgQcgE&t=1259s) (⏱️ 20:59-25:38)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=ONJS6eEIjjo) (⏱️ 00:00-03:21)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=Ub6ih4LRGTk&t=1210s) (⏱️ 20:10-20:58)
+- [Unsal Unlu](https://www.youtube.com/watch?v=sXXFDDxySCw&t=417s) (⏱️ 06:57-19:12)
 
 ---
 
-## 4. Mekke İttifakı ve Türkiye Tartışması
+## 4. Şiddetli Yağış Ulaşımı ve Eğitimi Vurdu
 
-- Suudi Arabistan merkezli Mekke İttifakı adlı güvenlik planı gündemde.
-- İddialara göre Türkiye’den Suudi Arabistan’a asker desteği konuşuluyor.
-- Yemen’de Husilerle Suudi Arabistan arasında şiddetli çatışmalar sürüyor.
-- Husilerin havaalanları ve altyapıyı vurması güvenlik zaafı gösterdi.
-- Husilerin İran’dan ideolojik ve lojistik destek aldığı değerlendiriliyor.
-- Saldırılar Suudi Arabistan’ın 2030 ekonomik dönüşüm planını tehdit ediyor.
-- Pakistan ve Türkiye gibi ülkelerden Mekke çerçevesinde destek bekleniyor.
-- Türkiye için doğrudan asker göndermek riskli, teknik destek öne çıkıyor.
-- Bölgesel NATO benzeri yapı, tehdit ayrılıkları nedeniyle zor görülüyor.
-- ABD’de ara seçimler ve Trump baskısı, bölge politikalarını etkileyebilir.
+- İstanbul’da dün yoğun yağmur yağdı ve şehri etkiledi.
+- Yağış, zaman zaman sağanak şeklinde devam ederek hayatı zorlaştırdı.
+- Türkiye’nin birçok bölgesinde de şiddetli yağış ve sel görüldü.
+- Yetkililer kısa durum uyarılarıyla risklere ve sonuçlara dikkat çekti.
+- Bugün İstanbul’da bazı okullar yoğun yağış nedeniyle tatil edildi.
+- Sunucu, tatil kararının sürpriz olmadığını özellikle vurguladı.
+- İstanbul ve Ankara’da yağışlar ulaşımda belirgin aksamalar yarattı.
+- İstanbul metrosunda su baskını görüntüleri sosyal medyada paylaşıldı.
+- Bazı İETT otobüslerinin içinde su biriktiği bildirildi.
+- Vatandaşlar ve toplu taşıma yoğun yağıştan ciddi etkilendi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Serdar Akinan](https://www.youtube.com/watch?v=yjSxhDXrx6c&t=1972s) (⏱️ 32:52-34:33)
-- [Onlar TV](https://www.youtube.com/watch?v=_d9MMXmydIs&t=2142s) (⏱️ 35:42-37:01)
-- [Rusen Cakir](https://www.youtube.com/watch?v=xRO9LdlHUG0&t=1015s) (⏱️ 16:55-37:56)
+- [Rusen Cakir](https://www.youtube.com/watch?v=0V1Ei8V23UI&t=3s) (⏱️ 00:03-00:16)
+- [Unsal Unlu](https://www.youtube.com/watch?v=sXXFDDxySCw&t=56s) (⏱️ 00:56-01:05)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=Ub6ih4LRGTk&t=74s) (⏱️ 01:14-01:52)
+
+---
+
+## 5. İstanbul’da Şiddetli Yağış ve Sel
+
+- Türkiye genelinde aynı gün şiddetli yağış ve sel yaşandı.
+- Sel felaketi 40'tan fazla ili etkiledi, en ağır İstanbul oldu.
+- Bazı semtlerde metrekareye 220-270 kilogram yağış düştü.
+- Yoğunluk için 1942 ve 1986'dan beri en yüksek denildi.
+- Yaklaşık 2000 konut ve işyeri sel nedeniyle tamamen zarar gördü.
+- Sarıyer, Arnavutköy ve Beykoz en çok etkilenen ilçeler oldu.
+- Ayazağa, Kağıthane Deresi ve Vadi İstanbul su altında kaldı.
+- Fatih Balat'ta 14 yaşındaki çocuk elektrik çarpmasıyla öldü.
+- Bazı binalarda yüzlerce kişi mahsur kaldı, tahliyeler istendi.
+- AFAD ve belediyeler müdahale etti, okullar tatil edildi.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Murat Yetkin](https://www.youtube.com/watch?v=JO4iU5ntNoM&t=29s) (⏱️ 00:29-08:29)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=j-sCg--uPD4) (⏱️ 00:00-12:29)
+- [Unsal Unlu](https://www.youtube.com/watch?v=sXXFDDxySCw&t=1631s) (⏱️ 27:11-27:24)
+
+---
+
+## 6. AKP’de Fon Krizi ve Yeniden Yapılanma
+
+- AKP’de fon krizi sonrası parti içi gerilimler arttı.
+- Muhalefet ve bazı AKP’liler dolandırıcılık ve manipülasyon iddiaları dile getirdi.
+- Parti içinde tasfiye ve yeniden yapılandırma talepleri yeniden gündeme geldi.
+- MKYK’nın yenilenmesi ve olağanüstü kongre önerileri tartışılıyor.
+- Saray ve bürokrasi ile parti organları arasında güç mücadelesi konuşuluyor.
+- İktidar kanadı gündemi yatıştırmak ve hasarı sınırlamak istiyor.
+- Kabine değişikliği isteyenler, gerekirse kelle alınsın diyor.
+- Mehmet Şimşek’in geleceği tartışılıyor, ayrılığı büyük itiraf sayılır.
+- Ali Babacan adı ekonomi yönetimi ihtimali olarak kulislerde anılıyor.
+- Siyasette fotoğrafların mesajı, liderlik ve kadro değişimini etkiliyor.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Bahar Feyzan](https://www.youtube.com/watch?v=ONJS6eEIjjo&t=605s) (⏱️ 10:05-21:25)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=Ub6ih4LRGTk&t=398s) (⏱️ 06:38-11:13)
+
+---
+
+## 7. Mecliste Sembolik Protestolar Tartışması
+
+- Plan ve Bütçe Komisyonu’nda tiyatral protestolar yapıldı Mecliste.
+- Bazı milletvekilleri tabut ve davulla sembolik eylem gerçekleştirdi.
+- Siyah kurdele ve bant kullanılarak sansür eleştirisi dile getirildi.
+- İzmir’de siyah karanfil eylemi, benzer protestolara örnek oldu.
+- Gazeteciler eylemlerin demokratik protesto sayılıp sayılmadığını tartıştı.
+- Bazı yorumcular provokatif sembollerin sorunları gölgelediğini savundu.
+- Gazetecilere yönelik eleştirilerde faturanın neden basına kesildiği soruldu.
+- Basına yüklenen sorumluluk ve baskı iddiaları yeniden gündeme geldi.
+- Sosyal medyada protestoların mizaha dönüştüğü, tepki topladığı konuşuldu.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Ozlem Gurses](https://www.youtube.com/watch?v=Ub6ih4LRGTk&t=301s) (⏱️ 05:01-06:17)
+- [Unsal Unlu](https://www.youtube.com/watch?v=sXXFDDxySCw&t=217s) (⏱️ 03:37-04:36)
 
 ---
 
