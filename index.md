@@ -1,68 +1,44 @@
 # Bugün Ne Oldu?
 
-*16 October 2026 tarihli günlük haber raporu - 3 haber birleştirildi*
+*17 October 2026 tarihli günlük haber raporu - 2 haber birleştirildi*
 
-## 1. Fon Krizi Soruşturmaları ve Piyasa Baskısı
+## 1. Ön seçim tartışması siyaset gündeminde
 
-- Türkiye’de fon krizi, dolandırıcılık ve vurgun iddiaları büyüyor.
-- Yaklaşık 450 bin küçük yatırımcının mağdur olabileceği söyleniyor.
-- Komisyonda SPK ve BDDK’nın yeterli bilgi vermediği eleştirildi.
-- Bazı fonlarda içeriden bilgiyle işlem ve koordineli manipülasyon şüphesi var.
-- Takas sürecine giren satışların ödenmemesi yatırımcıları ayrıca mağdur etti.
-- Türkiye Sigorta Genel Müdürü Taha Çakmak istifa etti, soruşturma açıldı.
-- Kamu kaynağının batık fonlara aktarıldığı iddiası tartışmaları alevlendirdi.
-- SPK müdahaleleri ve düzenleme boşlukları, regulatory capture riskini gündeme getirdi.
-- Morgan Stanley şeffaflık ve denetim için 2027’ye kadar süre tanıdı.
-- Mehmet Şimşek yaptırımların güçleneceğini söylerken şeffaflık istendi.
+- Türkiye’de siyaset kurumunun çöktüğü ve demokratik gerileme yaşandığı savunuldu.
+- Ön seçim yapılmaması, parti içi demokrasinin yokluğu olarak eleştirildi.
+- Anayasanın uygulanmaması ve fiili tek parti eğilimi vurgulandı.
+- Yeni Parti, üyelerin yöneticileri doğrudan seçeceği bir model açıkladı.
+- İlçe, il ve genel başkanın ön seçimle belirleneceği belirtildi.
+- Delegelik sistemi, üyeleri temsilen zorunlu bir ara yöntem diye anlatıldı.
+- Ankara’da il başkanlığı için Pınar Akgül Doğusoy öne çıktı.
+- Doğusoy, demokrasi, liyakat ve net görev tanımı mesajı verdi.
+- Ankara örgütünde koordinasyon eksikliği, sokakta görünürlük ihtiyacı dile getirildi.
+- Üyelere 18 Ekim’de sandığa gitme çağrısı yapıldı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=TK4ddzQrAWU&t=648s) (⏱️ 10:48-16:47)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=j-nZPtO7P7w&t=338s) (⏱️ 05:38-08:30)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=yRzXkcV2Mrs) (⏱️ 00:00-34:36)
-- [Murat Yetkin](https://www.youtube.com/watch?v=Ydx-S6wwcjI&t=33s) (⏱️ 00:33-02:31)
-- [Cigdem Toker](https://www.youtube.com/watch?v=s0WZio7fG0s&t=304s) (⏱️ 05:04-14:59)
+- [Rusen Cakir](https://www.youtube.com/watch?v=ftbr2oaCo6A&t=97s) (⏱️ 01:37-03:02)
+- [Hilal Koylu](https://www.youtube.com/watch?v=lnPFXK3_uxE) (⏱️ 00:00-01:06)
 
 ---
 
-## 2. Gazetecilere gözaltılar ve Halk TV baskısı
+## 2. Gazetecilere Gözaltılar ve Medyaya Baskı
 
-- Canlı yayında Bahadır Özgür'ün gözaltına alındığı bilgisi paylaşıldı.
-- Ekibin Özgür'e ulaşamadığı, telefonunun kapalı olduğu aktarıldı.
-- 14 Ekim'de Halk TV yayınının durdurulduğu ve kayyum atandığı öne sürüldü.
-- Operasyon ve erişim sorunları nedeniyle yayına ara verildiği belirtildi.
-- Bahadır Özgür gözaltı sonrası adli kontrolle serbest bırakıldı, imza şartı kondu.
-- Gazeteci Murat Arel gözaltına alındı, ayağında kelepçe olduğu söylendi.
-- Arel'in Sarıgül ailesi soruşturmasıyla ilişkilendirildiği, bağlantı iddia edildi.
-- Timur Soykan, Arel'in bazı belge ve soruşturmaları çalıştığını yazdı.
-- Onlar TV, çok sayıda gazetecinin cezaevinde olduğuna dikkat çekti.
-- Yayınlarda TBMM iddiaları ve Beyaz TV-Gökçek soruşturmaları da tartışıldı.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=oYNeej2ISWE&t=4363s) (⏱️ 72:43-74:38)
-- [Cigdem Toker](https://www.youtube.com/watch?v=s0WZio7fG0s&t=41s) (⏱️ 00:41-03:55)
-- [Onlar TV](https://www.youtube.com/watch?v=zZWf9Tcg_3c&t=346s) (⏱️ 05:46-09:39)
-
----
-
-## 3. Türkiye Azerbaycan Gerilimi ve Siyaset
-
-- Azerbaycan’daki eğitim yasası başörtüsü tartışmasını yeniden alevlendirdi.
-- Yasadaki laikliğe uymayan ek giyim ifadesi tepki topladı.
-- Türkiye’den bazı danışmanların açıklamaları Bakü’de sert karşılandı.
-- Aliyev içişlerine karışılmaması gerektiğini vurgulayarak tepki gösterdi.
-- Netanyahu’nun BM konuşmasında Azerbaycan’ın salonda kalması eleştirildi.
-- Stratejik enerji bağları ilişkilerin gerilimlere rağmen önemini koruyor.
-- Dışişleri Bakanı Hakan Fidan Bakü’de tansiyonu düşürmeye çalıştı.
-- Türkiye’de partilerden farklı tonlarda diplomatik mesajlar ve tepkiler geldi.
-- Ömer Çelik’in Erdoğan kırmızı çizgimizdir sözü iç siyaseti gerdi.
-- AKP-MHP bağları, şeffaflık çağrıları ve oy kaybı tartışıldı.
+- Gazeteciler Bahadır Özgür ve Murat Ağırel gözaltına alındı.
+- Özgür adli kontrol şartıyla serbest bırakılarak soruşturma sürdü.
+- Ağırel, elektronik kelepçesi çıkarılmadan evinden şafak baskınıyla alındı.
+- Polis Ağırel'i Vatan Emniyeti'ne götürerek ifade işlemlerine başladı.
+- Soruşturma kara para aklama iddiaları ve belgeler ekseninde yürütülüyor.
+- Dosyada Ömer Sarıgül, Aylin Kotil ve başka şüpheliler geçiyor.
+- İddialarda Almanya kaynaklı fon ve büyük havale belgeleri anlatılıyor.
+- Şüpheliler, belgelerin Ağırel'den Sarıgül ailesine aktarıldığını öne sürüyor.
+- Ağırel tarafı, teyitsiz belge yayınlamadıklarını ve etik davrandıklarını savunuyor.
+- Savcılık notlarının medyaya sızması ve erişim engelleri eleştirildi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Murat Yetkin](https://www.youtube.com/watch?v=Ydx-S6wwcjI&t=151s) (⏱️ 02:31-19:09)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=j-nZPtO7P7w) (⏱️ 00:00-00:40)
+- [Rusen Cakir](https://www.youtube.com/watch?v=Ge_7D9QZ6Kc&t=20s) (⏱️ 00:20-01:41)
+- [Onlar TV](https://www.youtube.com/watch?v=oYsaPgWY1y4&t=4s) (⏱️ 00:04-00:38)
 
 ---
 
