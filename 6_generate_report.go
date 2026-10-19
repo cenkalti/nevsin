@@ -271,7 +271,7 @@ BAŞLIK YAZIM KURALLARI:
 			openai.SystemMessage(systemContent),
 			openai.UserMessage(userContent),
 		},
-		Model:               openai.ChatModelGPT5_2,
+		Model:               openai.ChatModelGPT6_1Sol,
 		MaxCompletionTokens: openai.Int(2000),
 		ResponseFormat: openai.ChatCompletionNewParamsResponseFormatUnion{
 			OfJSONSchema: &openai.ResponseFormatJSONSchemaParam{

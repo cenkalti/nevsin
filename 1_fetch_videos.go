@@ -278,9 +278,8 @@ func analyzeThumbnail(thumbnailURL string) (string, error) {
 				}),
 			}),
 		},
-		Model:       openai.ChatModelGPT4o,
-		MaxTokens:   openai.Int(100),
-		Temperature: openai.Float(0),
+		Model:               openai.ChatModelGPT6Luna,
+		MaxCompletionTokens: openai.Int(1000),
 	})
 	if err != nil {
 		return "", fmt.Errorf("failed to call OpenAI API: %w", err)

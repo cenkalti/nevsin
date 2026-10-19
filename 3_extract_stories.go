@@ -197,8 +197,8 @@ func extractStories(subtitle, videoID, channelID string, chapters []YouTubeChapt
 			openai.SystemMessage(systemContent),
 			openai.UserMessage(userContent),
 		},
-		Model:               openai.ChatModelGPT5Mini,
-		MaxCompletionTokens: openai.Int(4000),
+		Model:               openai.ChatModelGPT6Luna,
+		MaxCompletionTokens: openai.Int(16000),
 		ResponseFormat: openai.ChatCompletionNewParamsResponseFormatUnion{
 			OfJSONSchema: &openai.ResponseFormatJSONSchemaParam{
 				JSONSchema: openai.ResponseFormatJSONSchemaJSONSchemaParam{
@@ -214,8 +214,11 @@ func extractStories(subtitle, videoID, channelID string, chapters []YouTubeChapt
 		return NewsExtractionResponse{}, fmt.Errorf("failed to call OpenAI API: %w", err)
 	}
 
-	if len(chatCompletion.Choices) == 0 || chatCompletion.Choices[0].Message.Content == "" {
-		return NewsExtractionResponse{}, fmt.Errorf("no content in response")
+	if len(chatCompletion.Choices) == 0 {
+		return NewsExtractionResponse{}, fmt.Errorf("no choices in response")
+	}
+	if chatCompletion.Choices[0].Message.Content == "" {
+		return NewsExtractionResponse{}, fmt.Errorf("no content in response (finish_reason=%s)", chatCompletion.Choices[0].FinishReason)
 	}
 
 	// Parse the structured JSON response

@@ -103,7 +103,7 @@ Channels are hardcoded in `channels.go` with custom filtering logic. Each channe
 - Name, ID (YouTube channel ID)
 - Handler function for custom video selection logic
 
-Example: Nevsin Mengu uses GPT-4o Vision to analyze thumbnails for "Bugün ne oldu?" text.
+Example: Nevsin Mengu uses GPT-6 Luna (vision) to analyze thumbnails for "Bugün ne oldu?" text.
 
 ## External Dependencies
 
@@ -114,10 +114,10 @@ Example: Nevsin Mengu uses GPT-4o Vision to analyze thumbnails for "Bugün ne ol
   ```
 - **YouTube Data API v3**: For video metadata
 - **OpenAI API**: For all AI operations
-  - Story extraction: `gpt-5-mini` model with strict JSON schema validation
+  - Story extraction: `gpt-6-luna` model with strict JSON schema validation
   - Embeddings: `text-embedding-3-large` model for semantic representation
-  - Vision: `gpt-4o` model for thumbnail analysis
-  - Report generation: `gpt-5.2` model
+  - Vision: `gpt-6-luna` model for thumbnail analysis
+  - Report generation: `gpt-6.1-sol` model
   - Implemented via `github.com/openai/openai-go/v3` SDK
 
 ### Go Dependencies
@@ -143,7 +143,7 @@ Example:
 ```
 
 ### Story Extraction
-Uses OpenAI API (GPT-5 mini) with structured output and strict JSON schema validation. Stories include:
+Uses OpenAI API (GPT-6 Luna) with structured output and strict JSON schema validation. Stories include:
 - Title, summary (with bullet-point formatting rules)
 - Start/end seconds and timestamps
 - YouTube URLs with timestamp parameters
@@ -192,10 +192,10 @@ Quality metrics tracked:
 
 ### AI Integration
 - **OpenAI SDK** (`github.com/openai/openai-go/v3`):
-  - Story Extraction: GPT-5 mini with structured output and strict JSON schema validation
+  - Story Extraction: GPT-6 Luna with structured output and strict JSON schema validation
   - Embeddings: text-embedding-3-large model for semantic representation
-  - Vision: GPT-4o for thumbnail analysis (Temperature=0)
-  - Report Generation: GPT-5.2 for merging and prioritizing stories
+  - Vision: GPT-6 Luna for thumbnail analysis
+  - Report Generation: GPT-6.1 Sol for merging and prioritizing stories
   - SDK handles retries automatically
 
 ### Concurrency Patterns
