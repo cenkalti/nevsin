@@ -48,6 +48,10 @@ var ExtractStoriesCmd = &cobra.Command{
 	Short: "Summarize subtitles",
 	Args:  cobra.MaximumNArgs(1),
 	Run: func(cmd *cobra.Command, args []string) {
+		if err := os.MkdirAll("stories", 0755); err != nil {
+			log.Fatalf("Failed to create stories directory: %v", err)
+		}
+
 		// If video ID is provided, process single video
 		if len(args) > 0 {
 			videoID := args[0]
