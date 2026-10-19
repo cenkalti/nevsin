@@ -114,9 +114,10 @@ Example: Nevsin Mengu uses GPT-4o Vision to analyze thumbnails for "Bugün ne ol
   ```
 - **YouTube Data API v3**: For video metadata
 - **OpenAI API**: For all AI operations
-  - Story extraction: `gpt-4.1` model with strict JSON schema validation
+  - Story extraction: `gpt-5-mini` model with strict JSON schema validation
   - Embeddings: `text-embedding-3-large` model for semantic representation
   - Vision: `gpt-4o` model for thumbnail analysis
+  - Report generation: `gpt-5.2` model
   - Implemented via `github.com/openai/openai-go/v3` SDK
 
 ### Go Dependencies
@@ -142,7 +143,7 @@ Example:
 ```
 
 ### Story Extraction
-Uses OpenAI API (GPT-4o) with structured output and strict JSON schema validation. Stories include:
+Uses OpenAI API (GPT-5 mini) with structured output and strict JSON schema validation. Stories include:
 - Title, summary (with bullet-point formatting rules)
 - Start/end seconds and timestamps
 - YouTube URLs with timestamp parameters
@@ -191,10 +192,10 @@ Quality metrics tracked:
 
 ### AI Integration
 - **OpenAI SDK** (`github.com/openai/openai-go/v3`):
-  - Story Extraction: GPT-4.1 with structured output and strict JSON schema validation (Temperature=0.1)
+  - Story Extraction: GPT-5 mini with structured output and strict JSON schema validation
   - Embeddings: text-embedding-3-large model for semantic representation
   - Vision: GPT-4o for thumbnail analysis (Temperature=0)
-  - Report Generation: GPT-4.1 for merging and prioritizing stories (Temperature=0.1)
+  - Report Generation: GPT-5.2 for merging and prioritizing stories
   - SDK handles retries automatically
 
 ### Concurrency Patterns
