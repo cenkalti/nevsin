@@ -26,6 +26,9 @@ var FetchSubtitlesCmd = &cobra.Command{
 			log.Printf("Failed to read videos directory: %v", err)
 			return
 		}
+		if err := os.MkdirAll("subtitles", 0755); err != nil {
+			log.Fatalf("Failed to create subtitles directory: %v", err)
+		}
 		var wg sync.WaitGroup
 		for _, file := range files {
 			if file.IsDir() || !strings.HasSuffix(file.Name(), ".json") {
