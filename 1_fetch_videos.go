@@ -67,6 +67,10 @@ var FetchVideosCmd = &cobra.Command{
 			channelsToProcess = ChannelConfigs
 		}
 
+		if err := os.MkdirAll("videos", 0755); err != nil {
+			log.Fatalf("Failed to create videos directory: %v", err)
+		}
+
 		var wg sync.WaitGroup
 		log.Printf("Processing %d channels...", len(channelsToProcess))
 		for i, ch := range channelsToProcess {
@@ -92,7 +96,9 @@ var FetchVideosCmd = &cobra.Command{
 						v.Chapters = chapters
 						log.Printf("Found %d chapters for video %s", len(chapters), v.ID)
 					}
-					saveVideoMetadata(v)
+					if err := saveVideoMetadata(v); err != nil {
+						log.Printf("Failed to save video %s: %v", v.ID, err)
+					}
 				}
 			}(i, ch)
 		}
@@ -329,8 +335,14 @@ func fetchVideoChapters(videoID string) ([]YouTubeChapter, error) {
 }
 
 // saveVideoMetadata saves video metadata as videos/videoID.json
-func saveVideoMetadata(video YouTubeVideo) {
-	data, _ := json.MarshalIndent(video, "", "  ")
+func saveVideoMetadata(video YouTubeVideo) error {
+	data, err := json.MarshalIndent(video, "", "  ")
+	if err != nil {
+		return fmt.Errorf("failed to marshal video metadata: %w", err)
+	}
 	path := filepath.Join("videos", video.ID+".json")
-	_ = os.WriteFile(path, data, 0644)
+	if err := os.WriteFile(path, data, 0644); err != nil {
+		return fmt.Errorf("failed to write video file: %w", err)
+	}
+	return nil
 }
