@@ -1,180 +1,214 @@
 # Bugün Ne Oldu?
 
-*19 October 2026 tarihli günlük haber raporu - 8 haber birleştirildi*
+*20 October 2026 tarihli günlük haber raporu - 10 haber birleştirildi*
 
 ## 1. Gazeteci Murat Ağırel Sarıgül Soruşturmasında Tutuklandı
 
-- Sarıgül ailesini kapsayan kara para aklama soruşturmasında 17 kişi adliyeye sevk edildi.
-- Gazeteci Murat Ağırel, dört günlük gözaltı sonrasında örgüte yardım suçlamasıyla tutuklandı.
-- Şikâyetçiler, Ağırel'in gönderdikleri belgeleri Sarıgül ailesine ilettiğini ve tehdit edildiklerini öne sürdü.
-- Ağırel'in, Sarıgül ailesiyle ilişkilendirilen 100 milyon avroluk transfer belgesini araştırdığı belirtildi.
-- Meslektaşları, belgenin sahte olabileceğinden şüphelenen Ağırel'in haberi yayımlamadığını aktardı.
-- Ağırel'in iddiaları her iki tarafa sorduğu, görüşme kayıtlarını savcılığa sunduğu belirtildi.
-- Avukatı Oğuzhan Aslan, suçlamayı destekleyen somut delil gösterilmediğini savundu.
-- Aslan, sorgulamada para hareketlerinden ziyade haberin yayımlanmamasına odaklanıldığını söyledi.
-- Mustafa Sarıgül, iddiaları reddederek belgelerin sahte ve yapay zekâ ürünü olduğunu savundu.
-- Gazeteciler, tutuklamayı basın özgürlüğüne müdahale olarak değerlendirerek Ağırel'in serbest bırakılmasını istedi.
+- Gazeteci Murat Ağırel, Sarıgül ailesini kapsayan soruşturma kapsamında tutuklandı.
+- Ömer Sarıgül ve Aylin Kotil dahil toplam 15 kişi tutuklandı.
+- Soruşturmada Almanya bağlantılı ticari işlemler üzerinden para aklama iddiaları araştırılıyor.
+- Ağırel, daha önce başka soruşturmadan elektronik kelepçeyle ev hapsinde bulunuyordu.
+- Avukatına göre başlangıçtaki para aklama suçlaması, örgüte yardım suçlamasına dönüştü.
+- Ağırel, kendisine iletilen belgeleri doğrulayamadığı için haberi yayımlamadığını söyledi.
+- İddiaları Sarıgül ailesinin temsilcilerine sorduğunu ve kayıtları soruşturmacılara sunduğunu belirtti.
+- Ağırel, belgeleri paylaştığı iddiasını reddederek dosyada tanık olması gerektiğini savundu.
+- Avukatı somut delil bulunmadığını savunurken, meslektaşları tutuklamayı gazeteciliğe baskı olarak değerlendirdi.
+- Gazetecilik örgütleri, cumartesi saat 14.00’te 14 ilde eş zamanlı yürüyüş duyurdu.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=4LAhpFNfo7s&t=2871s) (⏱️ 47:51-48:21)
-- [Cigdem Toker](https://www.youtube.com/watch?v=fyPxkT1BeAs&t=4s) (⏱️ 00:04-03:53)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=0aUx9Dzn9NE&t=2236s) (⏱️ 37:16-59:48)
-- [Inan Demirel](https://www.youtube.com/watch?v=jLKE4NuvgYU&t=1966s) (⏱️ 32:46-36:35)
-- [Hilal Koylu](https://www.youtube.com/watch?v=_oZeDDr6ukc&t=1350s) (⏱️ 22:30-31:04)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=3ANYmi6vVY4&t=2686s) (⏱️ 44:46-46:27)
-- [Rusen Cakir](https://www.youtube.com/watch?v=9DrdZTP1qEg&t=17s) (⏱️ 00:17-31:10)
-- [Serdar Akinan](https://www.youtube.com/watch?v=Ed_VYuirMxY&t=2235s) (⏱️ 37:15-42:38)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=BhB_yY5g6BI&t=12s) (⏱️ 00:12-30:38)
+- [Unsal Unlu](https://www.youtube.com/watch?v=55Th4o-rpW0&t=321s) (⏱️ 05:21-06:30)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=uaJWVX9L1CA&t=31s) (⏱️ 00:31-20:30)
+- [Hilal Koylu](https://www.youtube.com/watch?v=xBzuFnFmJpU&t=1650s) (⏱️ 27:30-31:45)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=gnKLaQO4ovg&t=20s) (⏱️ 00:20-02:34)
+- [Rusen Cakir](https://www.youtube.com/watch?v=BYbzbbH_LKs&t=1843s) (⏱️ 30:43-32:50)
+- [Murat Yetkin](https://www.youtube.com/watch?v=ghqUian8fjY&t=82s) (⏱️ 01:22-02:36)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=3Cr3x9hoxjQ&t=286s) (⏱️ 04:46-06:32)
+- [Serdar Akinan](https://www.youtube.com/watch?v=NX9-NUXPmDc&t=929s) (⏱️ 15:29-18:32)
 - [Onlar TV](https://www.youtube.com/watch?v=-Vv2dh4bCRo&t=28s) (⏱️ 00:28-38:01)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=bWLQQ-R7KrI&t=26s) (⏱️ 00:26-32:26)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=LW8UwDKpK1c&t=417s) (⏱️ 06:57-09:05)
 
 ---
 
-## 2. Fon Krizinde Tasfiye ve Şeffaflık Tartışması
+## 2. Fon Krizinde Soruşturma ve Sorumluluk Tartışmaları
 
-- Tasfiye edilen 66 fonda yaklaşık 45 bin yatırımcıya 40,8 milyar lira ödendi.
-- Kalan 65 fonda 400 binden fazla mağdurun tasfiye süreci sürüyor.
-- Meclise sunulan teklif, yatırımcılara en fazla bir milyon liralık ara ödeme öngörüyor.
-- Kerim Rota, geçmiş işlemlere dayalı alacak hesabının hak kayıpları yaratabileceğini söylüyor.
-- Denetleyici kurumların uyarılara rağmen neden zamanında müdahale etmediği sorusu gündemde kalıyor.
-- SPK Başkanı Sütçü istifa etti, Bakan Yardımcısı Çelik emeklilik dilekçesi verdi.
-- Taha Çakmak'ın 100 milyon liralık şirket yatırımı ve kazanç iadesi iddiaları doğrulanmadı.
-- Kamu kaynaklarının sorunlu fonlarda kullanılıp kullanılmadığı konusunda kesin bilgi bulunmuyor.
-- İktidar ve muhalefetten isimler, yatırımcı listeleriyle iade tutarlarının açıklanmasını istiyor.
-- MSCI, piyasa düzenlemelerinde ilerleme sağlanmazsa Türkiye'nin piyasa sınıfının düşürülmesini değerlendirebilir.
+- Tera Portföy’e TMSF kayyum atandı; bağlantılı kişi ve şirketler soruşturuluyor.
+- Fon krizi sonrasında Mahmut Sütçü, Osman Çelik ve Ömer Gönül görevlerinden ayrıldı.
+- Borsa İstanbul ve Takasbank, fon işlemlerinde görevlerini yerine getirdiklerini savundu.
+- Takasbank, 240 milyar liralık işlemlere karşılık 450 milyar liralık teminat açıkladı.
+- Şimşek, zararların ödenmesinde kamu kaynağı kullanılmayacağını, iadelerin fonlara göre değişeceğini söyledi.
+- Fonlardan 10 milyon liradan fazla kazananlara gönüllü iade çağrısı yapılacak.
+- Tasfiyede 40,8 milyar lira ödendi; yeni ara ödemeler yasal düzenleme bekliyor.
+- TBMM’de araştırma önergesi reddedilirken, muhalefet sorumluların açıklanmasını ve cezalandırılmasını istedi.
+- Deniz Zeyrek, yaklaşık 405 bin yatırımcının mağduriyetinin sürdüğünü belirtti.
+- Bursa’daki halka arz sürecinde 600 bin dolar rüşvet ödendiği iddia edildi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=3ANYmi6vVY4&t=1961s) (⏱️ 32:41-35:35)
-- [Unsal Unlu](https://www.youtube.com/watch?v=4LAhpFNfo7s&t=1800s) (⏱️ 30:00-31:20)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=gnKLaQO4ovg&t=934s) (⏱️ 15:34-18:42)
 - [Rusen Cakir](https://www.youtube.com/watch?v=ofOaBLYCyco&t=2168s) (⏱️ 36:08-38:50)
-- [Serdar Akinan](https://www.youtube.com/watch?v=Ed_VYuirMxY&t=214s) (⏱️ 03:34-37:04)
-- [Cigdem Toker](https://www.youtube.com/watch?v=fyPxkT1BeAs&t=237s) (⏱️ 03:57-07:05)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=LW8UwDKpK1c&t=548s) (⏱️ 09:08-16:55)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=0aUx9Dzn9NE&t=531s) (⏱️ 08:51-13:53)
-- [Inan Demirel](https://www.youtube.com/watch?v=jLKE4NuvgYU&t=1044s) (⏱️ 17:24-20:19)
-- [Onlar TV](https://www.youtube.com/watch?v=GrNLy9tC_2c&t=2689s) (⏱️ 44:49-49:40)
-- [Hilal Koylu](https://www.youtube.com/watch?v=_oZeDDr6ukc&t=88s) (⏱️ 01:28-07:12)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=Y6SB8MCx49s&t=1025s) (⏱️ 17:05-23:26)
+- [Murat Yetkin](https://www.youtube.com/watch?v=ghqUian8fjY&t=159s) (⏱️ 02:39-04:08)
+- [Unsal Unlu](https://www.youtube.com/watch?v=55Th4o-rpW0&t=159s) (⏱️ 02:39-04:00)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=3Cr3x9hoxjQ&t=393s) (⏱️ 06:33-13:48)
+- [Hilal Koylu](https://www.youtube.com/watch?v=xBzuFnFmJpU&t=728s) (⏱️ 12:08-27:25)
+- [Serdar Akinan](https://www.youtube.com/watch?v=NX9-NUXPmDc) (⏱️ 00:00-15:25)
 
 ---
 
-## 3. Belediyelerde Parti Değişikliği İddiaları Gündemde
+## 3. Esenyurt Kayyımı Can Aksoy Görevden Alındı
 
-- Muğla Büyükşehir Belediye Başkanı Ahmet Aras’ın CHP’den istifa ettiği bildirildi.
-- Aras’ın hiçbir partiye geçmeden belediye başkanlığını bağımsız sürdüreceğini açıkladığı aktarıldı.
-- Aras’ın AK Parti’ye geçeceği yönündeki iddiaları açıkça reddettiği belirtildi.
-- Aras’ın CHP’de siyaset yapma imkânının artık kalmadığını söylediği aktarıldı.
-- Aras’ın AK Parti’nin Muğla milletvekilleri ve teşkilatıyla iyi ilişkileri olduğu aktarıldı.
-- Sancaktepe Belediye Başkanı Alper Yeğin’in de parti değiştirme iddialarını reddettiği aktarıldı.
-- Üsküdar’da seçilmiş Belediye Başkanı Sinem Dedetaş’ın tutuklandığı bilgisi de paylaşıldı.
-- AK Partili başkan vekilinin trafik kazasında ölmesiyle yeniden seçim yapılacağı bildirildi.
-- AK Parti’nin 23, CHP ile Yeni Parti’nin toplamda 18 üyesi olduğu aktarıldı.
-- CHP ve Yeni Parti’nin başkan vekilliği seçiminde ayrı adaylarla yarışacağı belirtildi.
+- Esenyurt kayyımı Can Aksoy’un görevden alındığı ve merkeze çekildiği bildirildi.
+- Van Büyükşehir Belediyesi genel sekreterinin atandığı aktarılırken Ulaş Akan’ın adı geçti.
+- Seçilmiş Belediye Başkanı Ahmet Özer’in beklenen görevine dönüşü ise gerçekleşmedi.
+- Aksoy’un yardımcısı Yusuf Ulutaş’ın yolsuzluk soruşturması kapsamında tutuklandığı bilgisi aktarıldı.
+- Ulutaş hakkındaki para ve ev kiralama iddialarının ayrıntıları doğrulanmadı.
+- Deniz Zeyrek, yöneticilerin ihmal veya denetim sorumluluğunun soruşturulup soruşturulmayacağını sorguladı.
+- Zeyrek, soruşturmada geçen şirketle Hentbol Federasyonu çevresindeki bağlantılara dikkat çekti.
+- Muğla Büyükşehir Belediye Başkanı Ahmet Aras, AK Parti’ye geçeceği iddialarını reddetti.
+- Zeyrek, belediye başkanlarının baskıyla iktidarın avantajları arasında tercihe zorlandığını savundu.
+- Zeyrek ayrıca parti değiştiren siyasetçilerin kendi seçmenlerine karşı sorumluluğunu tartıştı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=3ANYmi6vVY4&t=2642s) (⏱️ 44:02-44:42)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=RAo-hKHzIzc&t=1373s) (⏱️ 22:53-24:37)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=bWLQQ-R7KrI&t=1985s) (⏱️ 33:05-33:43)
+- [Unsal Unlu](https://www.youtube.com/watch?v=55Th4o-rpW0&t=468s) (⏱️ 07:48-08:36)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=gnKLaQO4ovg&t=1395s) (⏱️ 23:15-25:32)
+- [Rusen Cakir](https://www.youtube.com/watch?v=BYbzbbH_LKs&t=2286s) (⏱️ 38:06-38:57)
 
 ---
 
-## 4. Fransa’daki Protestoların Uluslararası Yankıları Büyüyor
+## 4. Meclis’te Siyaset Gündemi
 
-- Fransa’da öğrencilerle başlayan protestolara işçiler de katılırken, katılımın 800 bine ulaştığı bildirildi.
-- Eylemler, Macron yönetimine ve aşırı sağın yükselişine tepki olarak değerlendiriliyor.
-- Eğitim ve barınma giderleri, düşük ücretler ve eşitsizlik başlıca şikâyetler arasında.
-- İspanya, Portekiz, İtalya, Tunus, Almanya, Belçika ve Arnavutluk’ta da protestolar bildirildi.
-- Fransa, İspanya ve İtalya’da farklı tarihlerde genel grevler ilan edildiği aktarıldı.
-- ABD’nin yedi eyaletinde öğrencilerin Fransa’daki eylemlere destek mitingleri düzenlediği belirtildi.
-- Paris’te lüks mağazaların yağmalandığı, bazı gösterilerde kamu binalarının yakıldığı aktarıldı.
-- Gözaltı sayısı bazı aktarımlarda 1.200, diğerlerinde ise 2 binin üzerinde bildiriliyor.
-- Macron, olaylar sırasında yağmaya karışan kişilerin cezalandırılacağını açıkladı.
-- Şiddetin göçmen karşıtı söylemleri güçlendirebileceği ve toplumsal kutuplaşmayı artırabileceği değerlendiriliyor.
+- Eski milletvekili Hasan Gülay için Meclis’te bir cenaze töreni düzenlendi.
+- Bülent Arınç, Kemal Kılıçdaroğlu ve Özgür Özel de törene katıldı.
+- Bahar Feyzan, törende çekilen fotoğraflardaki siyasi isimlerin duruşlarını yorumladı.
+- Feyzan, fotoğraflardan kişilerin ruh hâllerine ilişkin kesin sonuç çıkarılamayacağını belirtti.
+- Meclis gündeminde ayrıca dört siyasi partinin grup toplantıları yer aldı.
+- Bahçeli, gazetecilerin yargılanabileceğini belirterek basın özgürlüğünün suç işleme özgürlüğü olmadığını söyledi.
+- Bahçeli, fon sürecinin arınma ve aklanma olarak değerlendirilmesi gerektiğini belirtti.
+- Bahçeli ayrıca gençlere sokak eylemlerine katılmamaları yönünde bir çağrıda bulundu.
+- CHP, DEM Parti ve Yeni Parti grup toplantılarında konuşmalar yapılması bekleniyor.
+- Cumhurbaşkanı Erdoğan’ın ertesi gün AK Parti grup toplantısında konuşacağı belirtildi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=3ANYmi6vVY4&t=2888s) (⏱️ 48:08-49:58)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=RAo-hKHzIzc&t=1602s) (⏱️ 26:42-29:36)
-- [Unsal Unlu](https://www.youtube.com/watch?v=4LAhpFNfo7s&t=2269s) (⏱️ 37:49-40:58)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=3Cr3x9hoxjQ) (⏱️ 00:00-01:20)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=Y6SB8MCx49s&t=67s) (⏱️ 01:07-04:51)
 
 ---
 
-## 5. Özel’den Seçimlerin Öne Alınmasına Ret
+## 5. Özel’den Seçimleri Öne Alma Tartışmasına Ret
 
-- Mehmet Uçum, seçim tarihinin büyük ölçüde netleştiğini belirterek Mart-Nisan 2028'i işaret etti.
-- Özel, Erdoğan'ın adaylığı için seçimlerin birkaç hafta erkene alınmasını reddetti.
-- Özel, seçim yenileme veya anayasa değişikliği için 360 oy gerektiğini belirtti.
-- AK Parti ve MHP'nin toplam milletvekili sayısı bu çoğunluğa yetmiyor.
-- Özel, DEM yöneticilerinin iktidarla seçim veya anayasa pazarlığını reddettiğini aktardı.
-- Özel, Uçum'dan seçim tarihine ilişkin bilgisinin kaynağını kamuoyuna açıklamasını istedi.
-- Uçum, süreci PKK'nın silahsızlandırılmasını ve tasfiyesini hedefleyen geçiş dönemi olarak tanımladı.
-- DEM Partili Temel, Uçum'u karşılıklı barış iradesini aksatmakla suçlayarak açıklamalarına tepki gösterdi.
-- Sonraki aşama için PKK'nın silahsızlanmasının doğrulanması ve MİT raporu bekleniyor.
-- Özel ile Kılıçdaroğlu'nun cenazedeki mesafeli tokalaşması, gerilimin sürdüğü şeklinde yorumlandı.
+- Özgür Özel, DEM Parti’nin yeni genel merkezini ziyaret etti.
+- Görüşmede, seçimlerin erkene alınması ve Erdoğan’ın yeniden adaylığı tartışıldı.
+- Özel, seçimleri birkaç hafta veya bir ay erkene çekmeyi reddetti.
+- Bu adımı, Anayasa’daki seçimleri öne alma düzenlemesinin dolanılması olarak değerlendirdi.
+- Mehmet Uçum, seçimlerin 2028’in mart veya nisan ayında yapılabileceğini söyledi.
+- Özel, Uçum’dan Meclis’te gerekli desteğin kimlerden geldiğini açıklamasını istedi.
+- DEM Parti, seçimleri öne alma konusunda net destek açıklamadı.
+- Deniz Zeyrek, seçim tarihini belirleme yetkisinin Meclis ve millette olduğunu belirtti.
+- DEM Partili Tayyip Temel, Uçum’un süreci aksattığını savunan açıklama yaptı.
+- Temel, barış iradesinin gelişmemesinde Uçum ve benzer isimlerin rolünü eleştirdi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=LW8UwDKpK1c&t=194s) (⏱️ 03:14-06:55)
-- [Murat Yetkin](https://www.youtube.com/watch?v=jgU4UgbD7Ck&t=2s) (⏱️ 00:02-15:37)
-- [Inan Demirel](https://www.youtube.com/watch?v=jLKE4NuvgYU&t=2271s) (⏱️ 37:51-42:50)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=3Cr3x9hoxjQ&t=86s) (⏱️ 01:26-04:43)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=gnKLaQO4ovg&t=1704s) (⏱️ 28:24-29:27)
 
 ---
 
-## 6. Hayat Pahalılığı Geçim Mücadelesini Ağırlaştırıyor
+## 6. Halk TV’de Kayyum Sonrası Kapanma Açıklaması
 
-- Hayat pahalılığı, emeklilerin temel ihtiyaçlarını karşılamasını ve geçinmesini giderek zorlaştırıyor.
-- 85 yaşındaki bir kadın, sağlık sorunlarına rağmen pazarda çalışmak zorunda.
-- Hastanede tedavi gören kadın, çalışmadığı günlerde aç kaldığını söylüyor.
-- Ankara’da kiralar 30-34 bin, emekli öğretmen maaşı yaklaşık 40 bin lira.
-- Ataşehir’deki açılış indirimine 36 bin kişinin geldiğini firma yetkilisi belirtiyor.
-- Firma, etin 580 liraya satılacağı kampanyaya 50 bin katılımcı bekliyor.
-- Doğalgazdaki kademeli ödeme uygulamasının yaklaşık üç milyon aboneyi etkileyebileceği belirtiliyor.
-- Belirlenen tüketim sınırını aşan abonelerin daha yüksek faturalar ödeyeceği aktarılıyor.
-- Tüketim sınırları İstanbul’da 43,73, Ankara’da 76,86, İzmir’de 25, Antalya’da 16 metreküp.
-- Abonelere, önceki ayın tüketimini şehirleri için açıklanan sınırlarla karşılaştırmaları öneriliyor.
+- Halk TV’ye TMSF tarafından İbrahim Paşalı’nın kayyum olarak atandığı belirtildi.
+- Yayında kanalın kapatıldığı, çalışanların ise idari izne çıkarıldığı aktarıldı.
+- Kayyum yönetiminin hesapları incelemek amacıyla kanalın çalışmalarını durdurduğu ifade edildi.
+- Kadri Gürsel, cezaların ve lisans sürecinin müdahaleye zemin hazırladığını savundu.
+- Gürsel, kararın fon iddialarının haberleştirilmesini engelleme amacı taşıyabileceğini söyledi.
+- Yorumlarda atama, bağımsız medyaya ve izleyicilerin haber alma özgürlüğüne baskı sayıldı.
+- Gazetecilerin tutuklanmasının haber yapmayı zorlaştırdığı, kanal çalışanlarının geleceğinin belirsizleştiği belirtildi.
+- Paşalı’nın görevlendirilmesi, bazı İslamcı entelektüellerin iktidarla bütünleşmesinin örneği olarak değerlendirildi.
+- Tele1’in kayyum sonrasında kapandığı hatırlatılarak Halk TV için endişeler paylaşıldı.
+- Çarşamba kanal önünde miting planlandığı aktarılırken, mevcut tepkiler yetersiz bulundu.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=3ANYmi6vVY4&t=2452s) (⏱️ 40:52-42:03)
-- [Unsal Unlu](https://www.youtube.com/watch?v=4LAhpFNfo7s&t=1978s) (⏱️ 32:58-36:39)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=RAo-hKHzIzc&t=1123s) (⏱️ 18:43-21:30)
+- [Rusen Cakir](https://www.youtube.com/watch?v=BYbzbbH_LKs&t=1252s) (⏱️ 20:52-30:40)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=uaJWVX9L1CA&t=1387s) (⏱️ 23:07-24:16)
 
 ---
 
-## 7. Mahmut’un Ölümü Çocuk Güvenliğini Gündeme Taşıdı
+## 7. İstanbul Selinde Yardım ve Yapılaşma Tartışması
 
-- İstanbul’daki selde can kaybı, farklı aktarımlarda altı ve yedi olarak belirtildi.
-- Fatih’teki otoparkta elektrik akımına kapılan 14 yaşındaki Mahmut hayatını kaybetti.
-- Mahmut’un ayakkabıları ıslanmasın diye yalınayak yürürken yerdeki kablolara bastığı aktarıldı.
-- Otoparkın izinsiz faaliyet gösterdiği ve İsmailağa cemaati tarafından işletildiği öne sürüldü.
-- Sayıştay uyarılarına rağmen müdahale edilmediği iddiası, otoparktaki denetim sorumluluğunu gündeme taşıdı.
-- İlk dokuz ayda iş kazalarında 17 yaşından küçük 65 çocuk öldü.
-- Ölenlerin 23’ü en fazla 14, 42’si ise 15-17 yaşındaydı.
-- Son 12 yılda iş kazalarında toplam 770 çocuğun öldüğü aktarıldı.
-- MESEM öğrencilerinin haftada dört gün işletmelerde ucuz işgücü olarak çalıştırıldığı belirtildi.
-- Çocukların çalışma koşullarının düzenlenmesi ve işletmelerin etkili biçimde denetlenmesi istendi.
+- İstanbul'daki sel felaketinde can kaybının sekize yükseldiği bir yayında bildirildi.
+- Programda dere yataklarında yapılaşmaya izin verenlerin hesap vermesi istendi.
+- Turanlı, dere çevresindeki yapıların boşaltılmasını ve yapılaşmasız alanlar bırakılmasını önerdi.
+- Mülk sahiplerinin mağduriyetini önlemek için imar haklarının başka bölgelere aktarılmasını önerdi.
+- Kentsel dönüşümün altyapı ve sosyal alanlarla mahalle ölçeğinde planlanmasını savundu.
+- Deniz Zeyrek, borç ve faiz yükünün afetzedelere yardımları zorlaştırdığını söyledi.
+- Ergün Atalay, asgari ücret görüşmeleri yaklaşırken çalışanların ücretlerini yetersiz buldu.
+- Zeyrek, çiftçilerin satamadığı ürünlerin marketlerde tüketicilere pahalı sunulduğunu ifade etti.
+- Programda, geçinebilmek için çalışmak zorunda kalan 85 yaşındaki kadın konuşuldu.
+- Zeyrek, emeklilere yeterli gelir sağlanmadığını belirterek yöneticilerden hesap sorulmasını istedi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=3ANYmi6vVY4&t=2140s) (⏱️ 35:40-37:51)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=RAo-hKHzIzc&t=1478s) (⏱️ 24:38-25:44)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=LW8UwDKpK1c&t=1412s) (⏱️ 23:32-74:40)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=gnKLaQO4ovg&t=2137s) (⏱️ 35:37-37:32)
 
 ---
 
-## 8. T24’e Erişim Engeli ve Alternatif Yollar
+## 8. Tanju Özcan’dan serbest bırakılma talebi
 
-- T24’e LGBTİ+ konulu yazı ve haberleri nedeniyle erişim engeli getirildi.
-- Erişim engeline karşı yapılan itirazın da reddedildiği yayınlarda ifade edildi.
-- T24 haberlerine erişim için kurumun mobil uygulamasının kullanılabileceği bilgisi paylaşıldı.
-- Uygulamanın Android ve iOS cihazların uygulama mağazalarından indirilebileceği de belirtildi.
-- İnternet sitesine erişmek için bağlantıyı farklı sunucudan yönlendiren VPN önerildi.
+- Tutuklu yargılanan Bolu Belediye Başkanı Tanju Özcan’ın serbest kalmak istediği aktarıldı.
+- Özcan hakkında 217 yıla kadar hapis cezası istendiği belirtildi.
+- Özcan’ın, oğluna kız istemek ve ailesiyle ilgilenmek istediği ifade edildi.
+- Özcan’ın siyasetten uzaklaşıp evde “kedi gibi oturacağını” söylediği aktarıldı.
+- Özlem Gürses, bu sözleri çaresizlik ve siyasetten çekilme duygusuyla ilişkilendirdi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Cigdem Toker](https://www.youtube.com/watch?v=fyPxkT1BeAs&t=905s) (⏱️ 15:05-15:27)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=3ANYmi6vVY4&t=122s) (⏱️ 02:02-03:01)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=1D9RqoWOjQs&t=1130s) (⏱️ 18:50-19:30)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=uaJWVX9L1CA&t=1530s) (⏱️ 25:30-26:42)
+
+---
+
+## 9. Türkiye ile Azerbaycan Arasında Gerilim İddiası
+
+- Akinan, Erdoğan ile Aliyev arasında çeşitli nedenlerle gerilim yaşandığını öne sürdü.
+- Başörtüsü tartışmaları, Karabağ zaferinin sahiplenilmesi ve İsrail ilişkileri gerilim gerekçeleri gösterildi.
+- Akinan, iki liderin aileleri arasında ticari ilişkiler bulunduğunu da iddia etti.
+- Azerbaycan, aralarında Rıdvan Kaya ve Fatih Tezcan’ın bulunduğu yedi kişiyi uluslararası arıyor.
+- Suçlamalar arasında dini nefret yaymak ve iktidarı zorla devirmeye çağırmak bulunuyor.
+- Akinan, Aliyev’in yaklaşan Türk Devletleri Teşkilatı zirvesine katılmayabileceğini de öne sürdü.
+- Zeyrek, Türkiye’deki yetkililerin Azerbaycan’ı incitecek açıklamalara karşı önlem almasını savundu.
+- Özbekistan liderinin kızı Saide Mirziyoyeva, Ankara’da Cumhurbaşkanı Erdoğan tarafından kabul edildi.
+- Mirziyoyeva’nın ziyarette Bilal Erdoğan’la görüştüğü ve Baykar tesislerini gezdiği aktarıldı.
+- Akinan, Erdoğan ailesinin Özbekistan’daki yatırımlarla bağlantısına ilişkin doğrulanmamış iddialar aktardı.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Serdar Akinan](https://www.youtube.com/watch?v=NX9-NUXPmDc&t=1271s) (⏱️ 21:11-25:34)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=gnKLaQO4ovg&t=2343s) (⏱️ 39:03-39:50)
+
+---
+
+## 10. Yurt dışına yumurta satan şebekeye operasyon
+
+- Kadınların yumurta hücrelerini yurt dışında satan yasa dışı şebeke belirlendi.
+- İstanbul Pendik’teki bir doktorun kadınları KKTC’deki tüp bebek merkezlerine yönlendirdiği iddia edildi.
+- Soruşturma, şebeke liderinin boşanma aşamasındaki eşinin yaptığı ihbar üzerine başladı.
+- İhbarın ardından 14 ilde düzenlenen operasyonlarda 39 kişi gözaltına alındı.
+- Genç kadınların KKTC, Arnavutluk ve Gürcistan’daki kliniklere defalarca gönderildiği belirtildi.
+- Toplam 41 kadının bu yöntemle 811 kez yumurta sattığı belirlendi.
+- Kadınlara satılan her yumurta başına 60-80 avro ödendiği belirtildi.
+- Belirli fiziksel özelliklerdeki donörler için çiftlerden 6-8 bin avro alındığı öne sürüldü.
+- Organizasyonun toplam para trafiğinin yaklaşık 2 milyon avroya ulaştığı aktarıldı.
+- Şebeke liderinin yasa dışı organizasyonu zamanla genişlettiği de öne sürüldü.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Unsal Unlu](https://www.youtube.com/watch?v=55Th4o-rpW0&t=1432s) (⏱️ 23:52-30:25)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=gnKLaQO4ovg&t=2390s) (⏱️ 39:50-41:48)
 
 ---
 
