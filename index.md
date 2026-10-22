@@ -1,228 +1,221 @@
 # Bugün Ne Oldu?
 
-*21 October 2026 tarihli günlük haber raporu - 10 haber birleştirildi*
+*22 October 2026 tarihli günlük haber raporu - 10 haber birleştirildi*
 
-## 1. Fon Krizinde Tasfiye ve İade Süreci
+## 1. Fon Krizinde Tasfiye ve Sorumluluk Tartışması
 
-- Şimşek, yedi portföy yönetim şirketindeki 131 fonun tasfiyeye alındığını açıkladı.
-- Olağan tasfiyede bazı ödemeler başlarken olağanüstü tasfiye yasal düzenlemeyi bekliyor.
-- Öncelikle bir milyon liraya kadar alacaklı yaklaşık 390 bin hesap desteklenecek.
-- En az 10 milyon liralık reel kazanç sağlayanlardan gönüllü iade istenecek.
-- Adalet Bakanı Gürlek, gönüllü iade yapılsa bile soruşturmanın yürütüleceğini söylemişti.
-- Haksız kazanç sağladığı belirlenenlerin listesi TMSF ve Adalet Bakanlığına iletildi.
-- Şimşek kamu kaynağı kullanılmayacağını açıkladı; zararların tamamen karşılanıp karşılanamayacağı belirsiz.
-- Soruşturmada 31 kişiye gözaltı kararı verildi, 26 kişi gözaltına alındı.
-- Altınbaş ailesinin malvarlıkları donduruldu; Tera Teknoloji Holding’e TMSF kayyum atandı.
-- Muhalefet ve yorumcular, sorumluların açıklanmasını ve soruşturmanın şeffaf yürütülmesini istiyor.
+- Fon soruşturmasında 31 şüpheli hakkında karar verildi, 26 kişi gözaltına alındı.
+- Eski AK Parti milletvekili Ertan Aydın da ayrıca gözaltına alındı.
+- Meclis, önceden satış talimatı veren yatırımcıları da tasfiyeye dahil etti.
+- Muhalefet, düzenlemenin yaklaşık 200-250 bin yatırımcının haklarını etkileyebileceğini savundu.
+- Tasfiye kapsamında 10.008 hesaba toplam 8,9 milyar lira ödendiği bildirildi.
+- Erdoğan, yatırımcılara ödeme yapılacağını, sorumluların yargılanacağını ve önlemler alınacağını açıkladı.
+- Cevdet Yılmaz, yatırımcılarla manipülasyon yapanların ayrılacağını, denetimlerin güçlendirileceğini söyledi.
+- Bloomberg, Borsa İstanbul'un uyarılarının SPK tarafından dikkate alınmadığını öne sürdü.
+- Muhalefet, siyasi bağlantıların araştırılmasını ve ödeme süreçlerinin şeffaflaştırılmasını istedi.
+- Berat Albayrak, 2020'de görevden ayrıldığını belirterek kendisine yöneltilen iddiaları reddetti.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Inan Demirel](https://www.youtube.com/watch?v=16ZiJvP_4Uw&t=730s) (⏱️ 12:10-17:24)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=ZXQ8gVeDCbo&t=2420s) (⏱️ 40:20-46:50)
-- [Cigdem Toker](https://www.youtube.com/watch?v=Un4dCxBYBLI&t=216s) (⏱️ 03:36-10:31)
-- [Onlar TV](https://www.youtube.com/watch?v=hCfmE-UzDRs&t=2545s) (⏱️ 42:25-49:35)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=nRRYf35gNTo&t=147s) (⏱️ 02:27-05:10)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=0WBWvnjKMdU&t=2954s) (⏱️ 49:14-52:52)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=JJ5NcuUZO3g&t=1087s) (⏱️ 18:07-21:53)
-- [Hilal Koylu](https://www.youtube.com/watch?v=dvIz8TlX6tk&t=13s) (⏱️ 00:13-29:43)
-- [Murat Yetkin](https://www.youtube.com/watch?v=elW_G55LbE0&t=71s) (⏱️ 01:11-02:14)
+- [Hilal Koylu](https://www.youtube.com/watch?v=JeDVQG10HwE&t=13s) (⏱️ 00:13-19:55)
+- [Unsal Unlu](https://www.youtube.com/watch?v=ojWnGrJw-zw&t=2790s) (⏱️ 46:30-47:10)
+- [Inan Demirel](https://www.youtube.com/watch?v=9jBbyk0oWuE&t=730s) (⏱️ 12:10-14:21)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=r-mnp0LZMP8&t=172s) (⏱️ 02:52-06:30)
+- [Serdar Akinan](https://www.youtube.com/watch?v=GOGckoJsqVY&t=1487s) (⏱️ 24:47-32:36)
+- [Onlar TV](https://www.youtube.com/watch?v=TZKLtIAvAXE&t=1386s) (⏱️ 23:06-42:00)
+- [Murat Yetkin](https://www.youtube.com/watch?v=K3Tvr5REPNQ&t=3s) (⏱️ 00:03-15:08)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=5v6HGW8iVLI&t=207s) (⏱️ 03:27-04:39)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=ji9n-t3AcvA&t=1822s) (⏱️ 30:22-37:49)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=rVnO4PdtY1M&t=46s) (⏱️ 00:46-08:05)
 
 ---
 
-## 2. Gazetecilere Yönelik Tutuklamalar Basın Özgürlüğü Tartışmasını Büyüttü
+## 2. Gazetecilerin Tutuklanması Basın Özgürlüğü Tartışmasını Büyüttü
 
-- BirGün muhabiri İsmail Arı, Ebubekir Şahin’in şikâyeti üzerine gözaltına alındı.
-- Arı’nın, haber için Şahin’e yanıt hakkı tanıyan mesajlar gönderdiği aktarıldı.
-- Yanıltıcı bilgi yayma ve hakaretle suçlanan Arı’nın tutuklandığı da bildirildi.
-- Murat Ağırel, Sarıgül ailesiyle bağlantılı soruşturmada örgüte yardım suçlamasıyla tutuklandı.
-- Ağırel, kendisine gönderilen iddiaları doğrulayamadığı için haber yayımlamadığını ifade etti.
-- Ağırel’in avukatları, suçlamanın dayandığı somut eylemin dosyada açıklanmadığını ileri sürdü.
-- Kaboğlu, gazetecilerin yayımlamadıkları haberleri savcılığa teslim etmek zorunda olmadığını söyledi.
-- Yayınlarda diğer gazetecilerin tutuklulukları, medyaya kayyum atamaları ve erişim engelleri eleştirildi.
-- Gazetecilik örgütleri, 24 Ekim’de 10 şehirde basın özgürlüğü eylemleri duyurdu.
-- Halk TV önünde saat 19.30’da ayrıca dayanışma buluşması yapılacağı açıklandı.
+- BirGün muhabiri İsmail Arı, Ebubekir Şahin’in şikâyeti üzerine yeniden tutuklandı.
+- Arı’ya yöneltilen suçlama, halkı yanıltıcı bilgiyi alenen yaymak olarak açıklandı.
+- Arı, Şahin’e WhatsApp üzerinden sorular gönderdiğini ancak yanıt alamadığını belirtti.
+- Haberinin belgeli olduğunu savunan Arı, yalnızca gazetecilik faaliyeti yürüttüğünü söyledi.
+- Gazeteci Murat Ağırel de Sarıgül ailesini kapsayan soruşturmada tutuklandı.
+- Ağırel, Cumhuriyet’te yayımlanan cezaevi yazısında yapmadığı haber nedeniyle tutuklandığını savundu.
+- Hakkındaki suçlamanın, örgüte üye olmadan yardım etmek olarak değiştirildiği aktarıldı.
+- Kara para aklama soruşturmasında Emir, Ömer Sarıgül ve Aylin Kotil tutuklandı.
+- Mustafa Sarıgül, belgelerin sahte olduğunu savunarak ailesine yönelik iddiaları reddetti.
+- Gazetecilerin tutuklanması eleştirilirken, Halk TV önünde basın özgürlüğü eylemi düzenlendi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Inan Demirel](https://www.youtube.com/watch?v=16ZiJvP_4Uw&t=2055s) (⏱️ 34:15-36:22)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=0WBWvnjKMdU&t=1544s) (⏱️ 25:44-35:29)
-- [Onlar TV](https://www.youtube.com/watch?v=I2LAV02R_5g&t=964s) (⏱️ 16:04-17:04)
-- [Murat Yetkin](https://www.youtube.com/watch?v=elW_G55LbE0&t=230s) (⏱️ 03:50-11:12)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=nRRYf35gNTo&t=2183s) (⏱️ 36:23-39:29)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=ZXQ8gVeDCbo&t=160s) (⏱️ 02:40-16:39)
-- [Cigdem Toker](https://www.youtube.com/watch?v=Un4dCxBYBLI&t=25s) (⏱️ 00:25-03:05)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=WdmP06lkNyo&t=191s) (⏱️ 03:11-04:24)
-- [Hilal Koylu](https://www.youtube.com/watch?v=dvIz8TlX6tk&t=1916s) (⏱️ 31:56-33:08)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=_x1yfCDi1K8&t=64s) (⏱️ 01:04-06:15)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=MQFCD6qeEgw&t=680s) (⏱️ 11:20-12:16)
+- [Unsal Unlu](https://www.youtube.com/watch?v=XgNqQsmSlC8&t=113s) (⏱️ 01:53-02:40)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=ji9n-t3AcvA&t=72s) (⏱️ 01:12-11:47)
+- [Hilal Koylu](https://www.youtube.com/watch?v=JeDVQG10HwE&t=1652s) (⏱️ 27:32-29:43)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=5v6HGW8iVLI&t=1440s) (⏱️ 24:00-28:12)
+- [Inan Demirel](https://www.youtube.com/watch?v=9jBbyk0oWuE&t=78s) (⏱️ 01:18-04:22)
+- [Onlar TV](https://www.youtube.com/watch?v=TZKLtIAvAXE&t=196s) (⏱️ 03:16-11:15)
 
 ---
 
-## 3. CHP Davalarında Ceza Talepleri ve Savunmalar
+## 3. Gazetecilerden Basın Özgürlüğü İçin Eylem Çağrısı
 
-- CHP’nin 38. Kurultayı davasında delegelerin oylarının satın alındığı iddia ediliyor.
-- Savcı, İmamoğlu ve Özgür Çelik dahil dokuz sanığın cezalandırılmasını istedi.
-- Cemil Tugay, Hüseyin Yazgan ve Özgen Nama için beraat istendi.
-- Kaboğlu, sanıklar hakkındaki farklı taleplerin gerekçelerinin sorgulanması gerektiğini söyledi.
-- Edgar Şar, İmamoğlu’nun dört günlük savunmasının liderlik profilini güçlendirdiğini belirtti.
-- Şar, savunmanın canlı yayımlanmamasının kamuoyundaki etkisini azalttığı değerlendirmesinde bulundu.
-- Şar’a göre İmamoğlu, savunmasında muhalefetin birleşmesini ve halkın boyun eğmemesini vurguladı.
-- Özel ve Dervişoğlu’nun duruşmaya katılımı, Şar tarafından dayanışma olarak değerlendirildi.
-- Tanju Özcan, rüşvet ve irtikap davasında tahliye talebinde bulundu.
-- Özcan, oğluna kız istemek istediğini ve siyasete karışmayacağını söyledi.
+- Gazeteci örgütleri, 24 Ekim Cumartesi günü basın özgürlüğü eylemleri düzenleyecek.
+- Eylemlerin kapsamı, farklı duyurularda 10 veya 16 il olarak belirtiliyor.
+- İstanbul, Ankara, İzmir ve Diyarbakır, eylem yapılacağı açıklanan şehirler arasında.
+- Gazeteciler sansüre karşı haber alma hakkını ve hukuki güvencelerini savunacak.
+- Halk TV, Tele1 ve T24'e yönelik kapatma ve kayyum iddiaları aktarıldı.
+- İsmail Arı'nın haber için gönderdiği mesajlar nedeniyle yeniden tutuklandığı bildiriliyor.
+- Özgür Özel'in çağrısıyla Halk TV önünde gazetecilerle dayanışma mitingi düzenlendi.
+- Özel tutuklu gazetecileri anarak mitingde Ekrem İmamoğlu'nun mesajını da okudu.
+- Özel barışçıl mücadeleye katılım isterken, TİP ve muhalefet grupları destekledi.
+- Bahçeli'nin başdanışmanı Eyüp Yıldız, Özel'in meydanlara çıkma çağrısına tepki gösterdi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=0WBWvnjKMdU&t=1123s) (⏱️ 18:43-20:08)
-- [Hilal Koylu](https://www.youtube.com/watch?v=dvIz8TlX6tk&t=2274s) (⏱️ 37:54-40:09)
-- [Rusen Cakir](https://www.youtube.com/watch?v=DMuUpH1i9-Y) (⏱️ 00:00-42:13)
-- [Inan Demirel](https://www.youtube.com/watch?v=16ZiJvP_4Uw&t=3134s) (⏱️ 52:14-54:30)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=ZXQ8gVeDCbo&t=3221s) (⏱️ 53:41-54:13)
+- [Hilal Koylu](https://www.youtube.com/watch?v=JeDVQG10HwE&t=1786s) (⏱️ 29:46-32:11)
+- [Inan Demirel](https://www.youtube.com/watch?v=9jBbyk0oWuE&t=264s) (⏱️ 04:24-05:34)
+- [Unsal Unlu](https://www.youtube.com/watch?v=XgNqQsmSlC8&t=237s) (⏱️ 03:57-04:58)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=ji9n-t3AcvA&t=2454s) (⏱️ 40:54-42:02)
+- [Onlar TV](https://www.youtube.com/watch?v=TZKLtIAvAXE&t=810s) (⏱️ 13:30-17:31)
 
 ---
 
-## 4. 2027 Bütçesi ve Ekonomik Beklentiler Tartışılıyor
+## 4. Azerbaycan'ın Giriş Yasağı Türkiye ile Gerilim Yarattı
 
-- Cevdet Yılmaz, 2027 bütçesini Meclis Plan ve Bütçe Komisyonu’na sundu.
-- Komisyon görüşmelerinin yaklaşık bir ay sürerek kasım sonunda tamamlanması bekleniyor.
-- Bütçede giderler 27,3 trilyon, gelirler ise 23 trilyon lira öngörülüyor.
-- Vergi gelirlerinde yaklaşık 19,9 trilyon lira hedeflenirken vatandaşların yükü eleştiriliyor.
-- Gelir vergisi hedefi, kurumlar vergisi hedefinin iki katından fazla belirleniyor.
-- Tarıma destek, kredi, yatırım ve vergi kolaylıklarıyla 1,03 trilyon lira ayrılıyor.
-- Faiz ödemelerinin yaklaşık 3 trilyon 975 milyar liraya ulaşması bekleniyor.
-- Merkez Bankası toplantısı öncesinde iş dünyası ve ihracatçılar faiz indirimi bekliyor.
-- Bazı yorumcular 100 baz puanlık indirim beklerken sunucu sabit faiz öngörüyor.
-- Emekli ve asgari ücret zamlarında sınırlı beklentiler, temmuzda olası artış konuşuluyor.
+- Azerbaycan, siyasetçi, akademisyen ve gazetecilerin bulunduğu 31 Türk vatandaşına giriş yasağı getirdi.
+- Bakanlık, yasaklanan kişileri dini radikalizmi desteklemekle ve devlet güvenliğini hedeflemekle suçladı.
+- Listede Fatih Erbakan, Ömer Faruk Gergerlioğlu ve çeşitli gazeteciler bulunuyor.
+- Daha önce yedi Türk vatandaşı hakkında uluslararası arama kararı çıkarıldığı belirtildi.
+- Başörtüsü tartışmaları nedeniyle gelen eleştirileri Azerbaycan, iç işlerine müdahale saydı.
+- Sosyal medya kısıtlamaları ve Oktay Saral'ın görevden alınmasının istendiği öne sürüldü.
+- Ankara sessiz kalırken, Ömer Çelik ve Binali Yıldırım dostluğu vurguladı.
+- Gerilimin arka planında Azerbaycan'ın İsrail ilişkileri ve İran'la dengeleri gösteriliyor.
+- Erdoğan'ın Aliyev'le görüşmesinin gerilimi azaltabileceği yönünde değerlendirmeler yapıldı.
+- İki ülkenin ilişkilerini koruyarak sorunu sağduyuyla çözmesi gerektiği vurgulandı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Cigdem Toker](https://www.youtube.com/watch?v=Un4dCxBYBLI&t=189s) (⏱️ 03:09-03:36)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=ZXQ8gVeDCbo&t=2874s) (⏱️ 47:54-53:30)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=WdmP06lkNyo&t=1078s) (⏱️ 17:58-19:37)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=nRRYf35gNTo&t=2697s) (⏱️ 44:57-45:37)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=5v6HGW8iVLI&t=2644s) (⏱️ 44:04-44:48)
+- [Rusen Cakir](https://www.youtube.com/watch?v=X_ocQZgQd_U&t=3s) (⏱️ 00:03-13:31)
+- [Inan Demirel](https://www.youtube.com/watch?v=9jBbyk0oWuE&t=2180s) (⏱️ 36:20-40:19)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=MQFCD6qeEgw&t=2764s) (⏱️ 46:04-46:37)
 
 ---
 
-## 5. Fon Krizinde Görev Değişiklikleri ve Soruşturmalar
+## 5. JPMorgan’dan Türkiye’deki Faaliyetlerine İlişkin Açıklama
 
-- Cumhurbaşkanı Erdoğan, fon krizi sonrasında SPK başkanını ve Osman Çelik’i görevden aldı.
-- SPK başkanı sağlık sorunlarını gerekçe gösterirken, Çelik emeklilik talebinde bulundu.
-- Çelik’in damadı, Özata Denizcilik yöneticisi İskender Balcı fon soruşturmasında tutuklandı.
-- Eski SPK Başkanı İbrahim Ömer Gönül, kamu gözetimi başkanlığından alındı.
-- Gönül hakkında soruşturma izni verildiği ve rüşvet iddiaları bulunduğu aktarıldı.
-- Mehmet Atmaca, halka arz sürecinde 30 milyon liralık rüşvet alındığını öne sürdü.
-- SPK, şüpheli hisse işlemlerine geç müdahaleyle yatırımcıları koruyamamakla eleştirildi.
-- Halka arz endeksinin yaklaşık 400’den 150–155 seviyesine gerilediği belirtildi.
-- Yaklaşık 1,7 milyon yatırımcının bulunduğu endeksteki kayıplar, piyasalara güveni sarstı.
-- Bağımsız soruşturma yürütülmesi, kurum ihmallerinin ve şüpheli kazançların araştırılması istendi.
+- JPMorgan Menkul Değerler, faaliyet izninin iptali için SPK’ya başvuracağını KAP’a bildirdi.
+- Başvuru onaylanırsa şirket sermaye piyasası faaliyetlerini sonlandırarak aracı kurum statüsünü kaybedecek.
+- Hak veya alacak iddiası bulunan müşterilere üç aylık başvuru süresi öngörülüyor.
+- Şirketin ilgili izin kapsamında uzun süredir kayda değer işlem yapmadığı belirtildi.
+- Kararın Türkiye piyasalarına duyulan güveni olumsuz etkileyebileceği yönünde yorumlar yapıldı.
+- Ancak JPMorgan, KAP açıklamasında Türkiye’den tamamen çekileceği yönündeki iddiaları yalanladı.
+- Bankanın İstanbul şubesindeki bankacılık faaliyetlerini büyütme kararı aldığı da duyuruldu.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Inan Demirel](https://www.youtube.com/watch?v=16ZiJvP_4Uw&t=1203s) (⏱️ 20:03-24:44)
-- [Onlar TV](https://www.youtube.com/watch?v=hCfmE-UzDRs&t=1463s) (⏱️ 24:23-26:08)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=JJ5NcuUZO3g&t=756s) (⏱️ 12:36-16:15)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=nRRYf35gNTo&t=1351s) (⏱️ 22:31-25:16)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=5v6HGW8iVLI&t=54s) (⏱️ 00:54-03:27)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=ji9n-t3AcvA&t=2309s) (⏱️ 38:29-40:07)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=rVnO4PdtY1M&t=585s) (⏱️ 09:45-10:28)
+- [Hilal Koylu](https://www.youtube.com/watch?v=JeDVQG10HwE&t=1609s) (⏱️ 26:49-27:32)
 
 ---
 
-## 6. Başörtüsü Tartışması Türkiye ile Azerbaycan’ı Gerdi
+## 6. CHP Kurultay Davasında Beraat Talebi Tartışması
 
-- Azerbaycan’da 18 yaş altındaki öğrencilerin okullarda başörtüsü takmasının engellendiği bildirildi.
-- Türkiye’den gelen siyasi tepkileri Bakü yönetimi iç işlerine müdahale saydı.
-- Bakü, egemenlik ve milli güvenlik gerekçesiyle 31 Türk vatandaşına giriş yasağı koydu.
-- Fatih Erbakan, Ömer Faruk Gergerlioğlu ve Mehmet Boynukalın yasaklılar arasında.
-- Yahya Uğraş, Ahmet Çakar ve bazı gazete yorumcuları da listede.
-- Gergerlioğlu, başörtüsü yasağının yanında Azerbaycan’daki demokrasi ve insan hakları sorunlarını eleştirdi.
-- Middle East Eye, Bakü’nün Oktay Saral’ın görevden alınmasını istediğini öne sürdü.
-- Habere göre Bakü, Aliyev’e hakaret edenlerin yargılanmasını, hesaplarının engellenmesini istedi.
-- Erdoğan’ın Bakü’deki toplantıya katılmayıp Hakan Fidan’ı göndermesinin gerilimi artırdığı iddia edildi.
-- Aliyev’in Türkiye’de 30 Ekim’deki Türk Devletleri Zirvesi’ne katılımı henüz kesinleşmedi.
+- CHP’nin Kasım 2023 kurultayına ilişkin davada savcı esas hakkındaki mütalaasını açıkladı.
+- Savcı, Ekrem İmamoğlu, Özgür Çelik ve diğer yedi sanığın cezalandırılmasını istedi.
+- İzmir Büyükşehir Belediye Başkanı Cemil Tugay dahil üç sanığın beraati istendi.
+- Delegelere para ve hediye verildiği iddialarını içeren dava kasıma ertelendi.
+- Ünsal Ünlü’nün aktarımında, Tugay’ın 7 Ekim’de AK Parti’ye katıldığı belirtildi.
+- Deniz Zeyrek, farklı taleplerin siyasi parti değişiklikleriyle bağlantısını sorguladı.
+- Gökhan Günaydın, yerel seçimler sonrasında 106 başkanın AK Parti’ye geçtiğini öne sürdü.
+- Günaydın, tutuklamalar sonrasında başkan vekilleri üzerinden gerçekleştirilen yönetim değişikliklerini eleştirdi.
+- Türkiye Gazetesi, yeni katılan başkanlara partinin işleyişini anlatan eğitimler verildiğini yazdı.
+- Zeyrek, başkanların parti değiştirmesini seçmen iradesine saygısızlık olarak değerlendirdi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Inan Demirel](https://www.youtube.com/watch?v=16ZiJvP_4Uw&t=2265s) (⏱️ 37:45-41:37)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=ZXQ8gVeDCbo&t=2815s) (⏱️ 46:55-47:43)
-- [Hilal Koylu](https://www.youtube.com/watch?v=dvIz8TlX6tk&t=1989s) (⏱️ 33:09-36:21)
-- [Murat Yetkin](https://www.youtube.com/watch?v=elW_G55LbE0&t=138s) (⏱️ 02:18-03:48)
+- [Inan Demirel](https://www.youtube.com/watch?v=Bb-ZaJT52xk&t=2504s) (⏱️ 41:44-44:06)
+- [Unsal Unlu](https://www.youtube.com/watch?v=ojWnGrJw-zw&t=2916s) (⏱️ 48:36-50:52)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=5v6HGW8iVLI&t=1321s) (⏱️ 22:01-23:00)
 
 ---
 
-## 7. Özgür Özel’e Gürlek Davasında Tazminat Kararı
+## 7. Halka Arz Süreçlerinde Rüşvet İddiası
 
-- Özgür Özel, Gürlek çiftinin 452 milyon liralık 16 taşınmazı olduğunu iddia etti.
-- Adalet Bakanı Akın Gürlek, yalnızca dört taşınmazı bulunduğunu belirterek iddiaları reddetti.
-- Mahkeme, Özel’in Gürlek’e 750 bin lira tazminat ödemesine karar verdi.
-- Özel’in Gürlek’e karşı açtığı tazminat davası ise mahkeme tarafından reddedildi.
-- Özel, mahkemenin Tapu ve Kadastro Genel Müdürlüğü’nden kayıtları istemediğini söyledi.
-- Özel, kararı istinafa ve gerekirse üst mahkemelere taşıyacaklarını açıkladı.
-- Yayınlarda, mevcut ve geçmiş taşınmaz kayıtlarının incelenmesi gerektiği vurgulandı.
-- Özel, Erdoğan’ın fon soruşturmasıyla bağlantılı üç kişiyi görevden almasını gecikmiş buldu.
-- İsmail Saymaz, Erdin Özel’in Tera Portföy’deki görevini siyasi bağlantılarına bağladı.
-- Yayında, Erdin Özel’in şirket bağlantılarının ve varlık kaynaklarının araştırılması istendi.
+- Gökhan Günaydın, Bursa’daki şirketin halka arzında rüşvet iddiasını Meclis’e taşıdı.
+- İddiaya göre, kimliği açıklanmayan milletvekili aracılığıyla 600 bin dolar ödendi.
+- Mehmet Atmaca ve Refik Özen’in şirketin başvurusuyla ilgilendiği aktarıldı.
+- Eski SPK Başkanı İbrahim Ömer Gönül, rüşvet aldığını reddetti.
+- Gönül, iddiadaki görüşmeleri hatırlamadığını ve böyle konuşmayacağını ifade etti.
+- Mehmet Şimşek’in başvurudan haberdar olduğu aktarıldı, rüşvetle bağlantısı kurulmadı.
+- Soruşturma açılmadığı, Atmaca’nın savcılık tarafından çağrılmayı beklediği haberde belirtildi.
+- Gönül’ün SPK sonrası atandığı kamu kurumu başkanlığından alındığı aktarıldı.
+- Günaydın, borsadaki 41 şirkette fiyatları yapay etkileyen işlemler saptandığını söyledi.
+- Yalnızca sekiz şirkete işlem yapıldığını belirterek diğer 33 şirketi sordu.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=nRRYf35gNTo&t=2486s) (⏱️ 41:26-43:00)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=ZXQ8gVeDCbo&t=2130s) (⏱️ 35:30-40:17)
-- [Inan Demirel](https://www.youtube.com/watch?v=16ZiJvP_4Uw&t=126s) (⏱️ 02:06-09:11)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=5v6HGW8iVLI&t=919s) (⏱️ 15:19-17:09)
+- [Inan Demirel](https://www.youtube.com/watch?v=9jBbyk0oWuE&t=1315s) (⏱️ 21:55-26:37)
+- [Serdar Akinan](https://www.youtube.com/watch?v=GOGckoJsqVY&t=413s) (⏱️ 06:53-10:06)
 
 ---
 
-## 8. Kaboğlu’ndan Baro Seçimi Öncesi Hukuk Vurgusu
+## 8. Eğitim Politikaları ve Çocuk İşçiliği Tartışılıyor
 
-- İstanbul Barosu Başkanı İbrahim Kaboğlu, hafta sonundaki seçimlerde yeniden aday.
-- Değişim İçin Avukatlar Grubu’nun adayı, bağımsız ve çoğulcu yönetimi savunuyor.
-- Kaboğlu, 2017 anayasa değişikliğinin yürütmeyi tek kişide topladığını belirtiyor.
-- Anayasa Mahkemesi ve AİHM kararlarının uygulanmamasını anayasa ihlali olarak değerlendiriyor.
-- Belediye operasyonlarını ve kamu kaynaklarının belediyelere eşitsiz dağıtılmasını eleştiriyor.
-- Tutuklu avukat Mehmet Behlivan’a yöneltilen suçlamalarda avukatlık faaliyetlerinin hedeflenmesini eleştiriyor.
-- Genç avukatlara ekonomik destek verilmesini ve zorunlu avukatlık imkânlarının artırılmasını hedefliyor.
-- Baro, avukat tutamayanlara ve şiddet gören kadınlara hukuki destek sağlıyor.
-- Baro davasındaki beraatin üst mahkeme tarafından da onandığını duyuruyor.
-- Yeni dönemde adil yargılanmayı güçlendirecek yasa önerileri hazırlamayı planlıyor.
+- Milli Eğitim Bakanı Yusuf Tekin, Kılıçdaroğlu’na kızının düğün davetiyesini götürdü.
+- CHP Genel Merkezi’ndeki ziyarette Yıldırım Kaya’nın samimi karşılaması yorumlara yol açtı.
+- Tekin, ziyaretin insani amaç taşıdığını ve siyaset konuşulmadığını ifade etti.
+- Ziyaret, CHP’deki parti içi ayrışma ve meşruiyet tartışmaları bağlamında eleştirildi.
+- Yayınlarda Tekin’in laiklik, tarikatlar ve okullardaki yapılanmalara ilişkin açıklamaları hatırlatıldı.
+- Tekin, 10 Kasım’daki sınavların anma törenlerinden sonra başlayacağını açıkladı.
+- Programda 10 Kasım’da sınav düzenlenmesi ve eğitim politikaları eleştirildi.
+- AK Partili İrfan Çelik Aslan’ın Gaziantep’te çocuk işçilerle fotoğrafı tepki çekti.
+- Aslan, çocukların işçi değil çırak olduğunu söyleyerek durumu hayatın gerçeği olarak niteledi.
+- Deniz Zeyrek, çocukların okulda bulunması gerektiğini vurgulayarak işçiliğin normalleştirilmesini eleştirdi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=0WBWvnjKMdU&t=51s) (⏱️ 00:51-18:42)
-- [Rusen Cakir](https://www.youtube.com/watch?v=2RoC-sZOfCw) (⏱️ 00:00-02:54)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=5v6HGW8iVLI&t=2531s) (⏱️ 42:11-44:04)
+- [Inan Demirel](https://www.youtube.com/watch?v=Bb-ZaJT52xk&t=2132s) (⏱️ 35:32-41:37)
+- [Onlar TV](https://www.youtube.com/watch?v=TZKLtIAvAXE&t=3001s) (⏱️ 50:01-51:08)
 
 ---
 
-## 9. Fransa’da Gençlik Protestoları ve Siyasi Belirsizlik
+## 9. Merkez Bankası politika faizini yüzde 36’ya indirdi
 
-- Fransa’da lise öğrencilerinin başlattığı protestolar, üniversitelilerin ve sendikaların katılımıyla büyüdü.
-- Öğrenciler, özellikle yoksul bölgelerde öğretmen eksikliğinden ve sağlıksız sınıflardan yakınıyor.
-- Eğitim eşitsizliği, işsizlik kaygısı ve hayat pahalılığı gençlerin tepkisini artırıyor.
-- Sokağa çıkma kısıtlamaları ve metro kapanmaları yalnızca bazı bölgelerde uygulanıyor.
-- Gösteriler çoğunlukla barışçıl geçerken, polisle çatışmalar ve mülklere saldırılar yaşandı.
-- Yüksek kamu borcu ve emeklilik harcamaları, gençlerin ekonomik kaygılarını derinleştiriyor.
-- Macron talepleri anladığını söylese de hükümetin somut adımları yetersiz bulunuyor.
-- Taşpınar’a göre, siyasi belirsizlik ve güvenlik kaygıları Le Pen’i güçlendirebilir.
-- ABD’de İran’la savaşın etkisiyle yükselen enerji fiyatları geçim kaygılarını artırıyor.
-- Taşpınar, Demokratların Temsilciler Meclisi’ni kazanmasını muhtemel, Senato yarışını belirsiz görüyor.
+- Merkez Bankası dokuz ay sonra faizi yüzde 37’den 36’ya indirdi.
+- Yüzde 36’ya indirim beklentisi gerçekleşirken faizin sabit kalmasını bekleyenler de vardı.
+- Banka sonraki faiz kararlarını otomatik takvim yerine aylık değerlendirmelerle verecek.
+- Fon krizinin yarattığı belirsizlik harcamaları azaltarak enflasyonla mücadeleyi desteklemiş olabilir.
+- Mahmut Ağbal ekonomik değerlendirmelerin yalnızca faiz oranına odaklanmaması gerektiğini söyledi.
+- Ağbal vergi artışlarının ve akaryakıt fiyatlarının enflasyona etkisine dikkat çekti.
+- Bütçede faiz ve personel giderleri önemli pay tutarken açık artabilir.
+- Ekonomik ve siyasi gelişmelerin beklenen faiz indirimlerini daha önce engellediği belirtildi.
+- Brent petrol 110 doları test ederken benzinde 3,5 liralık indirim bildirildi.
+- Ağbal Mehmet Şimşek’ten daha sık açıklama ve somut politikalar beklediğini söyledi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=dN64oZMM4YM&t=13s) (⏱️ 00:13-54:03)
-- [Rusen Cakir](https://www.youtube.com/watch?v=FYyQ9DRtmCI&t=20s) (⏱️ 00:20-13:48)
+- [Inan Demirel](https://www.youtube.com/watch?v=Bb-ZaJT52xk&t=2013s) (⏱️ 33:33-35:31)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=_x1yfCDi1K8&t=1785s) (⏱️ 29:45-37:25)
 
 ---
 
-## 10. İstanbul Selinde Can Kaybı ve Denetim Tartışması
+## 10. AYM Yeni Parti’nin Adına İtirazı Reddetti
 
-- İstanbul’daki sel felaketinde toplam can kaybının dokuza yükseldiği belirtildi.
-- On dört yaşındaki Mahmut Işıldak, Fatih’te selde elektrik akımına kapılarak öldü.
-- Olayın İsmailağa Cami İlim ve Hizmet Vakfı’nın işlettiği otoparkta gerçekleştiği belirtildi.
-- Mahmut’un ayakkabıları ıslanmasın diye çıkardığı ve sudan geçerken öldüğü aktarıldı.
-- Eski park alanındaki otoparkın elektrik tesisatının denetlenmediği iddia edildi.
-- Mahmut’un kaldığı vakıf yurdundan denetim sırasında çocukların gönderildiği öne sürüldü.
-- Ayazağa ve Sarıyer’de dere yataklarındaki yapılaşmanın izin ve denetim sorumluluğu sorgulandı.
-- Bazı yapı izinlerini belediye yerine ilgili bakanlığın verdiği iddia edildi.
-- Hırsızlıktan tutuklamaya sevk edilen on üç yaşındaki çocuğun hamilelik iddiası doğrulanmadı.
-- Ailesinin ilgilenmediği belirtilen çocuk için uzman eşliğinde istismar değerlendirmesi istendi.
+- Anayasa Mahkemesi, Yeni Parti’nin adına yönelik yapılan itirazı reddetti.
+- Başvuruyu Yenilik Partisi ile isim benzerliği nedeniyle Öztürk Yılmaz yaptı.
+- Yeni Parti, Özgür Özel’in liderliğindeki CHP’den ayrılan kişiler tarafından kuruldu.
+- Kararla birlikte Yeni Parti’nin mevcut adını değiştirmeden kullanmasının önü açıldı.
+- Özgür Özel, kararın ardından partinin yoluna devam edeceğini söyledi.
+- Özel daha önce de partinin adını değiştirmeyeceklerini açıklamıştı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=nRRYf35gNTo&t=2910s) (⏱️ 48:30-51:33)
-- [Onlar TV](https://www.youtube.com/watch?v=I2LAV02R_5g&t=4523s) (⏱️ 75:23-82:02)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=5v6HGW8iVLI&t=2476s) (⏱️ 41:16-42:11)
+- [Inan Demirel](https://www.youtube.com/watch?v=9jBbyk0oWuE&t=1890s) (⏱️ 31:30-34:09)
 
 ---
 
