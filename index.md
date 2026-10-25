@@ -1,65 +1,70 @@
 # Bugün Ne Oldu?
 
-*24 October 2026 tarihli günlük haber raporu - 3 haber birleştirildi*
+*25 October 2026 tarihli günlük haber raporu - 3 haber birleştirildi*
 
-## 1. Fon Soruşturmasında Yeni Gözaltılar ve İddialar
+## 1. Fon Krizinde Soruşturmalar ve Şeffaflık Çağrıları
 
-- Soruşturmada 31 kişi hakkında gözaltı kararı bulunduğu, bazılarının tutuklandığı bildirildi.
-- İnan Altınbaş’ın gözaltına alındığı, Nusret Altınbaş’ın ise arandığı aktarıldı.
-- Türkiye Sigorta’nın eski yöneticisi Taha Çakmak’ın yeniden gözaltına alındığı bildirildi.
-- Çakmak’ın bir milyar dolarlık aktarım karşılığında milyon dolar aldığı iddia edildi.
-- Fonlara yönlendirilen paralarla hisse ve tahvil fiyatlarının yükseltildiği iddia ediliyor.
-- Ertan Aydın’ın gözaltına alındığı, Vişne Madencilik işlemleriyle ilgili suçlamaları reddettiği aktarıldı.
-- Vişne Madencilik hissesinin 2025’te yaklaşık 20 kat yükselip sert gerilediği belirtildi.
-- Atlas Portföy’de eylülde bildirilen 16 milyar liralık çıkışın ayrıntıları belirsiz.
-- Yaklaşık 450 bin kişinin mağduriyetinin nasıl giderileceğinin belirsiz olduğu belirtiliyor.
-- Diyanet Vakfı’nın da bir fona yatırım yaptığı iddiası gündeme geldi.
+- Fon krizi soruşturmasında işlem yapılan kişi sayısının 114'e ulaştığı aktarıldı.
+- Ertan Aydın hakkında yeniden gözaltı kararı verildiği, Taha Çakmak'ın tutuklandığı bildirildi.
+- Nihat Zeybekci, altı kamu kurumunda ihmal ve suistimal bulunduğunu söyledi.
+- Yayınlarda, 214 kişinin toplam 187 milyar liralık haksız kazancı olduğu aktarıldı.
+- Aracı kurumların aylık işlem hacminin yüzde 42 düştüğü aktarıldı.
+- Astor ortaklarının TMSF'ye yaklaşık beş milyar lira yatırdığı aktarıldı.
+- Sütşurup ailesinin iade başvurusu gündeme gelirken, hukuki sonuçların belirsizliği vurgulandı.
+- Yorumcular, para iadelerinin hukuki sorumluluğu otomatik olarak kaldırmaması gerektiğini savundu.
+- Diyanet Vakfı, yönetim değişikliklerinin fon tartışmalarıyla bağlantılı olduğu iddiasını reddetti.
+- Gazeteciler, siyasi bağlantıların araştırılmasını ve mağdurların zararlarının şeffaflıkla açıklanmasını istedi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=Mvsd1jiCV0U&t=164s) (⏱️ 02:44-08:29)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=ghvjKYnMVtc&t=529s) (⏱️ 08:49-11:06)
-- [Rusen Cakir](https://www.youtube.com/watch?v=e5UYTszzpjM&t=888s) (⏱️ 14:48-16:41)
+- [Murat Yetkin](https://www.youtube.com/watch?v=IDr8CHgyu0I&t=4s) (⏱️ 00:04-14:37)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=Qz5FTj53jMg&t=94s) (⏱️ 01:34-06:24)
+- [Inan Demirel](https://www.youtube.com/watch?v=cfp9v9dqaSg&t=1118s) (⏱️ 18:38-21:47)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=faIo9JoqAhk&t=1313s) (⏱️ 21:53-37:38)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=bqcu5VECGCM) (⏱️ 00:00-08:25)
 
 ---
 
-## 2. Fon Krizinde Şeffaflık ve Hesap Verebilirlik
+## 2. Gazeteciler Basın Özgürlüğü İçin Sokakta
 
-- Erdoğan, fon krizinde ödeme, hesap sorma ve önleme aşamalarını açıkladı.
-- İlgili yasa teklifinin yürürlüğe girmesiyle yatırımcılara yapılacak ödemelerin hızlanacağını belirtti.
-- Ana para hesaplamaları, ödeme öncelikleri ve tasfiye konusundaki belirsizlikler eleştirildi.
-- Para iadelerine ilişkin iddiaların doğrulanamadığı, kamuoyuyla açık liste paylaşılmadığı belirtildi.
-- Bazı anketlerde AK Parti'nin üç ila altı puan kaybettiği aktarıldı.
-- Yorumcular, soruşturmaların şeffaf yürütülmesini ve para iadelerinin sorumluluğu kaldırmamasını istedi.
-- SPK ve MASAK'ın rolünün, kurumların geciken müdahalelerinin araştırılması gerektiği vurgulandı.
-- Konuk, kaynağı belirsiz parayla bağlantı ihtimalinin araştırılması gerektiğini savundu.
-- Mağdurlara zararlarını belgelemeleri ve ilgili şirketlere karşı hukuki başvuru önerildi.
-- Şeffaflık ve kalıcı reformların yabancı yatırımcı güvenini koruyabileceği ifade edildi.
+- Gazeteciler, Türkiye’nin birçok kentinde basın özgürlüğü için sokak eylemleri düzenledi.
+- İstanbul, Ankara ve İzmir’deki eylemlere vatandaşların da yoğun katılımı olduğu aktarıldı.
+- Kadıköy’deki yürüyüşe gazetecilerin yanında akademisyenler, kültür çalışanları ve siyasetçiler katıldı.
+- Gazeteciler ve meslek örgütleri uzun zaman sonra birlikte eylem yaptı.
+- Eylemlerde, gazetecilerin sorunlarını bizzat kendilerinin dile getirmesi gerektiği mesajı verildi.
+- İktidarın satın almalar ve kayyım atamalarıyla medyayı kontrol ettiği savunuldu.
+- Bağımsız ve dijital medya kuruluşlarına da baskı uygulandığı öne sürüldü.
+- Gazetecilerin tutuklanmasının, halkın doğru bilgiye ulaşmasını engelleyebileceği yönünde değerlendirmeler yapıldı.
+- Kadıköy’de yere bırakılan kameraların teslimiyeti değil, protestoyu simgelediği özellikle vurgulandı.
+- Katılımcılar, özgür basının demokrasi ve halkın haber alma hakkı için önemini vurguladı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Fatih Altayli](https://www.youtube.com/watch?v=xGtl6WVWOL0&t=2715s) (⏱️ 45:15-47:36)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=ghvjKYnMVtc) (⏱️ 00:00-04:42)
+- [Inan Demirel](https://www.youtube.com/watch?v=cfp9v9dqaSg&t=7s) (⏱️ 00:07-02:18)
+- [Rusen Cakir](https://www.youtube.com/watch?v=LDnkNQSuB04&t=5s) (⏱️ 00:05-11:23)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=Qz5FTj53jMg&t=2100s) (⏱️ 35:00-40:12)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=faIo9JoqAhk&t=26s) (⏱️ 00:26-16:15)
 
 ---
 
-## 3. Azerbaycan’da Başörtüsü Tartışması Ankara-Bakü İlişkilerini Geriyor
+## 3. Fon ve Sarıgül soruşturmalarında yeni gelişmeler
 
-- Azerbaycan’daki okullarda başörtüsü kısıtlamaları, Türkiye’den gelen eleştirilerle diplomatik gerilime dönüştü.
-- Bakü, tepkilerin ardından 31 Türk vatandaşını istenmeyen kişi ilan etti.
-- Talebi, bazı kişiler hakkında arama kararlarının da gündeme geldiğini aktardı.
-- Erdoğan, Aliyev’i Türk Devletleri Teşkilatı zirvesine katılması için davet etti.
-- Aliyev’in zirveye katılımı, ilişkilerdeki gerilimin aşılıp aşılmadığının göstergesi olarak değerlendirildi.
-- Sezer, anlaşmazlığı liderler arasındaki ilişkiler ve dış politikadaki kurumsal sorunlarla ilişkilendirdi.
-- Karabağ açıklamaları ve Türkiye-Ermenistan protokolleri sonrasındaki bayrak krizi geçmiş gerilimlerdi.
-- Sezer, İsrail’le ilişkileri ve Ermenistan sınırının açılmasını hassas başlıklar olarak nitelendirdi.
-- Talebi, İran’ın Şii topluluklar üzerindeki nüfuzunun Azerbaycan’ın tutumunu etkileyebileceğini değerlendirdi.
-- Bölgesel ilişkiler hakkındaki yorumlarda kesinleşmiş darbe veya müdahale bilgisi aktarılmadı.
+- Fon soruşturmasında adliyeye sevk edilen 22 kişiden 15’i tutuklandı.
+- Tutuklanan eski Türkiye Sigorta yöneticisi Taha Çakmak’a rüşvet iddiası yöneltildi.
+- Çakmak’ın Tera’ya 100 milyon liralık yatırımla bir milyon dolar aldığı öne sürüldü.
+- Savcılık, Ertan Aydın’ın ev hapsiyle serbest bırakılması kararına itiraz etti.
+- SPK’nın Aydın dahil 20 kişi hakkında suç duyurusunda bulunduğu aktarıldı.
+- Sarıgül soruşturmasında üç yeni tutuklamayla toplam tutuklu sayısı 19’a yükseldi.
+- Soruşturmada sahte rapor hazırlandığı ve belediye projelerinde rüşvet alındığı iddiaları aktarıldı.
+- Sofu Altınbaş ve Temel Aygün’ün gözaltına alınanlar arasında bulunduğu bildirildi.
+- Fon dosyasıyla Sarıgül soruşturması arasındaki olası bağlantı henüz netleşmedi.
+- Milas Belediyesi operasyonunda başkan ve oğluyla birlikte 18 kişi tutuklandı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=6qnS-8Lubj0&t=1215s) (⏱️ 20:15-26:34)
-- [Hilal Koylu](https://www.youtube.com/watch?v=SuO9CVmUZoo&t=1440s) (⏱️ 24:00-27:54)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=Qz5FTj53jMg&t=878s) (⏱️ 14:38-16:58)
+- [Inan Demirel](https://www.youtube.com/watch?v=cfp9v9dqaSg&t=142s) (⏱️ 02:22-03:25)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=faIo9JoqAhk&t=1078s) (⏱️ 17:58-21:48)
 
 ---
 
