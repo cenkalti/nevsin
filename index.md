@@ -1,237 +1,231 @@
 # Bugün Ne Oldu?
 
-*26 October 2026 tarihli günlük haber raporu - 10 haber birleştirildi*
+*27 October 2026 tarihli günlük haber raporu - 10 haber birleştirildi*
 
-## 1. Fon Soruşturmasında Kamu Kaynakları ve Tutuklamalar
+## 1. Erdoğan’ın Açıklamaları ve Siyasi Gündem
 
-- Fon ve borsa işlemlerinde yatırımcıları zarara uğratan organize dolandırıcılık iddiaları araştırılıyor.
-- Ertan Aydın, Taha Çakmak ve Gürol Sami Özer'in tutuklandığı bildirildi.
-- Türkiye Sigorta kaynaklarından 35 milyar liranın Tera fonlarına yönlendirildiği iddia edildi.
-- Çakmak'ın kaynak aktarımı karşılığında bir milyon dolar aldığı öne sürüldü.
-- Hisse fiyatlarının yapay yükseltildiği ve gizli bilgilerle kazanç sağlandığı öne sürülüyor.
-- SPK ve BDDK'nın denetimleriyle kamu yöneticilerinin olası çıkar çatışmaları sorgulanıyor.
-- TMSF'nin iade hesabında toplam 10,3 milyar lira toplandığı haberlerde aktarıldı.
-- Adalet Bakanı, gönüllü para iadesinin hukuki sorumluluğu ortadan kaldırmayacağını açıkladı.
-- BIST 100, üst üste altıncı haftasında yüzde 5,16 değer kaybetti.
-- Mağdurların zararlarının giderilmesi ve soruşturmanın şeffaf biçimde yürütülmesi talep ediliyor.
+- Erdoğan, emeklileri destekleyecek düzenlemenin yıl sonuna kadar yasalaşmasını umduğunu söyledi.
+- Düzenlemenin 2027 bütçesinden karşılanması planlanırken, artışın kapsamı henüz açıklanmadı.
+- Erdoğan’ın basın özgürlüğü açıklamaları, gazetecilere yönelik uygulamalar üzerinden eleştirildi.
+- Çeşitli şehirlerde gazetecilerin serbest bırakılması talebiyle dayanışma yürüyüşleri düzenlendi.
+- Tele1’in kayyum sonrasında yayın yapamadığı, borcunun 80 milyon liraya yükseldiği aktarıldı.
+- Azerbaycan’daki başörtüsü uygulamalarına yönelik eleştiriler, Ankara ile Bakü arasında gerilim yarattı.
+- Oktay Saral istifasını duyurdu; görevden alınmasını Azerbaycan’a bağlayan iddialar aktarıldı.
+- Azerbaycan, Fatih Erbakan dahil 31 kişinin ülkeye girişini yasakladı.
+- Aliyev müdahale eleştirisi yaparken, Erdoğan kendisini zirveye davet etti.
+- CHP’de erken seçimin zamanlamasına ilişkin farklı açıklamalar gündeme geldi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Cigdem Toker](https://www.youtube.com/watch?v=5LRd3kxCnNA&t=257s) (⏱️ 04:17-13:52)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=-eKSp3kF_V0&t=134s) (⏱️ 02:14-30:13)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=pu6P2OiCLso) (⏱️ 00:00-39:29)
-- [Onlar TV](https://www.youtube.com/watch?v=wTasoR1XlGg&t=1154s) (⏱️ 19:14-27:51)
-- [Serdar Akinan](https://www.youtube.com/watch?v=GQgB0ynxBT0&t=469s) (⏱️ 07:49-17:57)
-- [Hilal Koylu](https://www.youtube.com/watch?v=ydScBM3Ma4Y&t=13s) (⏱️ 00:13-18:36)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=jS8GnPSz6eQ&t=560s) (⏱️ 09:20-14:07)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=tg8yAnYUrwU&t=1551s) (⏱️ 25:51-29:21)
-- [Rusen Cakir](https://www.youtube.com/watch?v=GqU2BsyLHrk&t=2032s) (⏱️ 33:52-47:07)
-- [Unsal Unlu](https://www.youtube.com/watch?v=l_Mi25jwCNI&t=2564s) (⏱️ 42:44-43:54)
-- [Murat Yetkin](https://www.youtube.com/watch?v=vVtMD6vxJdQ&t=53s) (⏱️ 00:53-01:30)
+- [Murat Yetkin](https://www.youtube.com/watch?v=lctMShjCYsg&t=3s) (⏱️ 00:03-01:53)
+- [Onlar TV](https://www.youtube.com/watch?v=yOEHQrbIeGo&t=2199s) (⏱️ 36:39-46:13)
+- [Rusen Cakir](https://www.youtube.com/watch?v=mq13jS5H4wA&t=4s) (⏱️ 00:04-11:14)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=SRmMDijqN7Q&t=291s) (⏱️ 04:51-07:38)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=faChDsKIEqM&t=832s) (⏱️ 13:52-30:48)
+- [Hilal Koylu](https://www.youtube.com/watch?v=Js8uSGL8GEM&t=2096s) (⏱️ 34:56-36:13)
+- [Unsal Unlu](https://www.youtube.com/watch?v=A6FEru_Lj1M&t=832s) (⏱️ 13:52-14:05)
+- [Inan Demirel](https://www.youtube.com/watch?v=IWKSyLVqUE8&t=13s) (⏱️ 00:13-13:40)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=LJ3e9CMv9TI&t=2317s) (⏱️ 38:37-43:31)
 
 ---
 
-## 2. Oktay Saral’ın Ayrılığı Azerbaycan Gerilimiyle Gündemde
+## 2. Fon Soruşturmasında Kamu Kaynakları ve Denetim Tartışması
 
-- Cumhurbaşkanı Başdanışmanı Oktay Saral, 2016’dan beri yürüttüğü görevinden ayrıldığını açıkladı.
-- Saral, istifasının Erdoğan tarafından uygun görüldüğünü ve kendisine kırılmadığını söyledi.
-- Saral, 12 Ekim’de Azerbaycan okullarındaki başörtüsü düzenlemesini eleştirerek kaldırılmasını istemişti.
-- Azerbaycan yönetiminin bu açıklamaları ülkenin içişlerine müdahale olarak değerlendirdiği aktarıldı.
-- Erdoğan’ın Aliyev’le görüşmesinin ardından Saral’ın istifasının istendiği iddia edildi.
-- Ayrılığın Aliyev’in talebiyle gerçekleştiği iddiasına ilişkin resmî bir açıklama yapılmadı.
-- Saral, ayrılığının değerlerinden ve Cumhurbaşkanı Erdoğan’a desteğinden vazgeçmek anlamına gelmediğini belirtti.
-- Bakü’nün Aliyev’e hakaret edenlerin yargılanmasını, hesaplarının engellenmesini istediği öne sürüldü.
-- Azerbaycan, Fatih Erbakan dahil 31 Türk vatandaşına ülkeye giriş yasağı koydu.
-- Gerilim sürerken Aliyev’in Ankara’daki Türk Devletleri Teşkilatı zirvesine katılımı belirsizliğini koruyor.
+- SPK, Tera ve Pusula Portföy’ün sermaye piyasası faaliyetlerini geçici durdurdu.
+- Fonların tasfiyesinde Tera için İş Bankası, Pusula için Ziraat görevlendirildi.
+- SPK Daire Başkanı Erman Çete ve Nusret Altınbaş tutuklandı.
+- Şüphelilerin kazancının 187,65 milyar, bildirilen iadelerin 10,3 milyar lira olduğu aktarıldı.
+- Türkiye Sigorta ve Türkiye Hayat Emeklilik’ten fonlara kaynak aktarıldığı öne sürüldü.
+- Merrill Lynch üzerinden yaklaşık 8 milyar liralık işlem yapıldığı iddia edildi.
+- Bakanlık, Şimşek’le ilişkilendirmeleri reddetti ve hukuki haklarını kullanacağını açıkladı.
+- Fonların tasfiyesi, yatırımcılara paralarının tamamının geri ödeneceği garantisini vermiyor.
+- Şimşek, desteklerde Hazine kaynağı veya Hazine garantisi kullanılmayacağını açıkladı.
+- Siyasi bağlantıların ve denetim ihmallerinin araştırılması, sürecin şeffaf yürütülmesi istendi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Onlar TV](https://www.youtube.com/watch?v=wTasoR1XlGg&t=992s) (⏱️ 16:32-17:50)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=-eKSp3kF_V0&t=3434s) (⏱️ 57:14-63:35)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=RdV8MikUqKA&t=1599s) (⏱️ 26:39-28:04)
-- [Unsal Unlu](https://www.youtube.com/watch?v=l_Mi25jwCNI&t=458s) (⏱️ 07:38-09:25)
-- [Serdar Akinan](https://www.youtube.com/watch?v=GQgB0ynxBT0&t=1495s) (⏱️ 24:55-25:35)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=jS8GnPSz6eQ&t=848s) (⏱️ 14:08-14:37)
-- [Cigdem Toker](https://www.youtube.com/watch?v=5LRd3kxCnNA) (⏱️ 00:00-04:16)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=tg8yAnYUrwU&t=50s) (⏱️ 00:50-08:44)
-- [Hilal Koylu](https://www.youtube.com/watch?v=ydScBM3Ma4Y&t=1829s) (⏱️ 30:29-32:57)
-- [Murat Yetkin](https://www.youtube.com/watch?v=vVtMD6vxJdQ&t=363s) (⏱️ 06:03-20:24)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=-y0O9fg0-gs&t=1203s) (⏱️ 20:03-29:10)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=LJ3e9CMv9TI&t=797s) (⏱️ 13:17-15:03)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=yWPz8QTh1bU&t=225s) (⏱️ 03:45-05:37)
+- [Serdar Akinan](https://www.youtube.com/watch?v=VkH8wFaMUdY) (⏱️ 00:00-46:38)
+- [Hilal Koylu](https://www.youtube.com/watch?v=Js8uSGL8GEM&t=139s) (⏱️ 02:19-07:17)
+- [Murat Yetkin](https://www.youtube.com/watch?v=lctMShjCYsg&t=759s) (⏱️ 12:39-17:27)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=9wHlvvTy9MY) (⏱️ 00:00-10:20)
+- [Unsal Unlu](https://www.youtube.com/watch?v=A6FEru_Lj1M&t=1448s) (⏱️ 24:08-26:37)
+- [Onlar TV](https://www.youtube.com/watch?v=t0Li9tC9pqM&t=1314s) (⏱️ 21:54-33:00)
 
 ---
 
-## 3. Ümit Kocasakal İstanbul Barosu Başkanlığına Seçildi
+## 3. Belediye Operasyonları ve Sarıgül Soruşturmasında Gelişmeler
 
-- Cumhuriyetçi Güç Birliği İttifakı’nın adayı Ümit Kocasakal İstanbul Barosu başkanlığına seçildi.
-- Kocasakal’ın oyları dokuz bini, önceki başkan Kaboğlu’nun oyları altı bini aştı.
-- Yaklaşık seksen bin üyeli baronun genel kurulundaki şiddet görüntüleri eleştirildi.
-- Sonuç, ulusalcı ve Kemalist çizginin baro yönetiminde güçlenmesi olarak yorumlandı.
-- Kocasakal, yeni anayasa girişiminin cumhuriyetin kurucu değerlerini değiştirebileceğini savundu.
-- Kaboğlu’nun anayasanın ilk dört maddesine ilişkin görüşleri kampanyada tartışma yarattı.
-- Korkut Kanadoğlu, Anayasa Mahkemesi kararlarına uymayan yargıçları izleyip kamuoyuna açıklayacaklarını söyledi.
-- İstanbul ve İzmir’deki sonuçların Türkiye Barolar Birliği seçimlerini etkileyebileceği değerlendirildi.
-- Yeni yönetimin İmamoğlu ve İstanbul Büyükşehir Belediyesi davasındaki tutumu bekleniyor.
-- İstanbul ve Ankara’daki ikinci baro seçimlerinde iktidarın desteklediği adayların kazanamadığı aktarıldı.
+- Bakırköy Belediyesi soruşturmasında 68 şüpheli için gözaltı talimatı verildi.
+- İhale usulsüzlüğü ve işletmelerden hukuka aykırı para istendiği iddiaları araştırılıyor.
+- Gözaltı sayısı farklı yayınlarda 37, 57 ve 68 olarak aktarıldı.
+- Bazı kaynaklar, Başkan Ayşegül Ovalıoğlu hakkında işlem yapılmadığını bildirdi.
+- Operasyonun parti değiştirme beklentileriyle aynı güne gelmesi siyasi eleştirilere yol açtı.
+- Merkezefendi Belediye Başkanı Şeniz Doğan ve eşi de gözaltına alındı.
+- Sarıgül ailesine ilişkin soruşturmada üç kişinin daha tutuklandığı bildirildi.
+- AK Parti Ankara İl Başkan Yardımcısı Serkan Korkutata gözaltından sonra serbest bırakıldı.
+- Emir Sarıgül’ün itirafçı olduğu öne sürüldü; iddianın doğrulanmadığı da vurgulandı.
+- Murat Ağırel’in sunduğu kayıtların gazetecilik faaliyetini desteklediği yayınlarda savunuldu.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=X5bS4VJvZ4c&t=2624s) (⏱️ 43:44-48:20)
-- [Serdar Akinan](https://www.youtube.com/watch?v=GQgB0ynxBT0&t=54s) (⏱️ 00:54-07:48)
-- [Rusen Cakir](https://www.youtube.com/watch?v=JIVWsC6FPhQ&t=7s) (⏱️ 00:07-12:19)
-- [Onlar TV](https://www.youtube.com/watch?v=wTasoR1XlGg&t=1075s) (⏱️ 17:55-19:12)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=tg8yAnYUrwU&t=2511s) (⏱️ 41:51-44:36)
-- [Unsal Unlu](https://www.youtube.com/watch?v=l_Mi25jwCNI&t=960s) (⏱️ 16:00-18:38)
-- [Murat Yetkin](https://www.youtube.com/watch?v=vVtMD6vxJdQ&t=244s) (⏱️ 04:04-04:33)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=-y0O9fg0-gs&t=54s) (⏱️ 00:54-02:46)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=faChDsKIEqM&t=328s) (⏱️ 05:28-08:28)
+- [Unsal Unlu](https://www.youtube.com/watch?v=w0KjcD4Jo5Q&t=470s) (⏱️ 07:50-08:30)
+- [Murat Yetkin](https://www.youtube.com/watch?v=lctMShjCYsg&t=572s) (⏱️ 09:32-11:18)
+- [Hilal Koylu](https://www.youtube.com/watch?v=Js8uSGL8GEM&t=92s) (⏱️ 01:32-02:19)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=SRmMDijqN7Q&t=3023s) (⏱️ 50:23-51:07)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=LJ3e9CMv9TI&t=1961s) (⏱️ 32:41-33:38)
+- [Onlar TV](https://www.youtube.com/watch?v=t0Li9tC9pqM&t=868s) (⏱️ 14:28-21:48)
 
 ---
 
-## 4. Sırbistan’da Öğrenci Hareketine Seçim Zaferi
+## 4. Yoksulluk Kaygısı ve Silahsızlanma Süreci Gündemde
 
-- Sırbistan’daki Novi Sad tren garı sundurmasının çökmesiyle 16 kişi öldü.
-- Öğrenciler, ihale ve denetim süreçlerinin açıklanmasını isteyerek protestoları başlattı.
-- Protestolar büyürken belediye başkanı ve başbakan görevlerinden istifa etti.
-- Öğrenciler üniversitelerde boykotlar düzenledi ve lidersiz forumlarla birlikte örgütlendi.
-- Öğrencilerin bağımsız aday listesi karşısında muhalefet partilerinin çoğu adaylarını çekti.
-- Programda yolsuzlukla mücadele, şeffaflık, bağımsız yargı ve medya özgürlüğü vurgulandı.
-- Aktarılan sonuçlara göre öğrenci listesi seçimde yüzde 52,7 oy aldı.
-- Vučić’in ittifakının yüzde 39,2’de kaldığı, öğrenci listesinin hükümet çoğunluğuna ulaştığı bildirildi.
-- Öğrenciler aday olmayıp seçilen vekilleri forumlar aracılığıyla denetlemeyi planlıyor.
-- Hareketin başbakan adayı ve ülkeyi nasıl yöneteceği henüz netleşmedi.
+- Kurtalan’daki DEM Parti etkinliğinde genç kadın, konuşursa tutuklanmaktan korktuğunu söyledi.
+- Kadın, çocukların okullarda açlıktan bayıldığını belirterek yetkililere yoksulluk tepkisi gösterdi.
+- Özkök’ün aktardığı KONDA araştırmasında hukuksuzluk korkusu yüzde 31’den 42’ye yükseldi.
+- Araştırmada yoksulluk korkusu yüzde 26’dan 35’e, çete korkusu 9’dan 27’ye yükseldi.
+- Tuğçe Tatari’nin Kandil’de Hülya Oran’la yıllar önce yaptığı röportaj gündeme getirildi.
+- Tatari, Kandil’in boşaltılması veya silahların teslimi için plan bulunmadığını aktardı.
+- Tatari’ye göre örgüt, silahları bölgedeki Kürtleri korumak için kullanabileceğini belirtti.
+- DEM Parti, kayyumların kaldırılmamasını ve bazı mahkeme kararlarının uygulanmamasını eleştirdi.
+- Irak’ta 50 mağaranın boşaltıldığı, yaklaşık 2.000 YBŞ’linin devlet yapısına katıldığı öne sürüldü.
+- Silahsızlanma gelişmelerinin 27 Kasım 2026’daki Milli Güvenlik Kurulu toplantısına kadar izleneceği belirtildi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=X5bS4VJvZ4c&t=2918s) (⏱️ 48:38-56:57)
-- [Onlar TV](https://www.youtube.com/watch?v=wTasoR1XlGg&t=3115s) (⏱️ 51:55-53:23)
-- [Rusen Cakir](https://www.youtube.com/watch?v=GqU2BsyLHrk&t=459s) (⏱️ 07:39-13:40)
-- [Unsal Unlu](https://www.youtube.com/watch?v=l_Mi25jwCNI&t=91s) (⏱️ 01:31-03:07)
-- [Serdar Akinan](https://www.youtube.com/watch?v=GQgB0ynxBT0&t=1081s) (⏱️ 18:01-24:54)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=HDlBKZ-MuE8&t=3152s) (⏱️ 52:32-70:28)
+- [Unsal Unlu](https://www.youtube.com/watch?v=A6FEru_Lj1M&t=721s) (⏱️ 12:01-12:36)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=faChDsKIEqM&t=3618s) (⏱️ 60:18-68:07)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=SRmMDijqN7Q&t=703s) (⏱️ 11:43-19:18)
+- [Onlar TV](https://www.youtube.com/watch?v=yOEHQrbIeGo&t=2779s) (⏱️ 46:19-48:29)
 
 ---
 
-## 5. Gazeteciler Basın Özgürlüğü İçin Yürüdü
+## 5. Yusuf Tekin’i Protesto Eden İki Öğrenci Tutuklandı
 
-- Gazeteciler, basın özgürlüğü ve tutuklu meslektaşları için çeşitli kentlerde yürüdü.
-- Eylemlerin düzenlendiği kent sayısı farklı yayınlarda 10 ve 20 olarak aktarıldı.
-- Kadıköy’de beklenenden yoğun katılım görülürken, Ankara’daki yürüyüş barışçıl geçti.
-- Yurttaşlar, akademisyenler, siyasetçiler ve meslek örgütleri gazetecilere destek verdi.
-- Yayınlarda Murat Arel, İsmail Arı ve Şaban Sevinç’in tutukluluğu gündeme getirildi.
-- İsmail Arı’nın 28 kişilik koğuşta 62 kişiyle kaldığı, yerde yattığı aktarıldı.
-- Murat Arel’in Kandıra Cezaevi’nde gazeteye ve televizyona erişemediği belirtildi.
-- Yayıncılar, yanıltıcı bilgi yayma suçlamasının gazetecileri susturmakta kullanıldığını savundu.
-- Ünsal Ünlü, Fethi Yıldız’ın eylemi provokasyon olarak nitelemesini eleştirdi.
-- Katılımcılar, dayanışmanın haber alma hakkını ve gazeteciliği savunmadaki önemini vurguladı.
+- Milli Eğitim Bakanı Yusuf Tekin’in Kadıköy Anadolu Lisesi ziyareti protesto edildi.
+- Üniversite öğrencileri Nehir Dizdar ve Nevin Tekin, protesto pankartı astı.
+- Türkiye İşçi Partisi üyesi öğrencilerin 19 ve 20 yaşlarında olduğu belirtildi.
+- Pankartta “Bize gelecek yoksa sana huzur yok” ve “Yusuf Tekin istifa” yazıyordu.
+- Öğrencilerin savcılık ifadeleri alınmadan tutuklamaya sevk edildiği ve tutuklandığı aktarıldı.
+- İki öğrencinin tutuklandıktan sonra Bakırköy Kadın Cezaevi’ne gönderildiği bildirildi.
+- Protestonun arka planında eğitim politikaları ve mesleki eğitimdeki öğrenci ölümleri anlatıldı.
+- Nehir Dizdar’ın ailesi, kızlarının sorumlu ve vicdanlı olduğunu söyleyerek gururlarını paylaştı.
+- Sözcü.com.tr’nin iki yöneticisi, öğrencileri yanlışlıkla liseli gösteren haber nedeniyle gözaltına alındı.
+- Yöneticiler, “yanıltıcı bilgiyi yayma” iddiasıyla sorgulandıktan sonra serbest bırakıldı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Onlar TV](https://www.youtube.com/watch?v=wTasoR1XlGg&t=20s) (⏱️ 00:20-14:07)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=-eKSp3kF_V0&t=3823s) (⏱️ 63:43-67:06)
-- [Rusen Cakir](https://www.youtube.com/watch?v=GqU2BsyLHrk&t=1345s) (⏱️ 22:25-33:50)
-- [Unsal Unlu](https://www.youtube.com/watch?v=ygYP_3LW2yY&t=109s) (⏱️ 01:49-25:18)
-- [Cigdem Toker](https://www.youtube.com/watch?v=5LRd3kxCnNA&t=833s) (⏱️ 13:53-16:11)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=-y0O9fg0-gs&t=1054s) (⏱️ 17:34-18:41)
+- [Onlar TV](https://www.youtube.com/watch?v=t0Li9tC9pqM&t=2187s) (⏱️ 36:27-39:26)
+- [Unsal Unlu](https://www.youtube.com/watch?v=w0KjcD4Jo5Q&t=218s) (⏱️ 03:38-04:38)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=faChDsKIEqM&t=3437s) (⏱️ 57:17-58:59)
 
 ---
 
 ## 6. Lula Brezilya'da İkinci Tur Seçimini Kazandı
 
-- Aktarılan haberlere göre Lula da Silva, Brezilya'da ikinci turu kazandı.
-- Bir haberde Lula'nın oy oranı yüzde 51,79 olarak verildi.
-- Lula, demokratik seçimlerle dördüncü kez devlet başkanı seçildiğini söyledi.
-- Kaynaklar, rakibinin kimliğini Jair veya Flávio Bolsonaro olarak farklı aktardı.
-- Haberlerde 4,5 milyon oy farkından ve 12 milyon yeni oydan bahsedildi.
-- Yoksullara destek vaatleri, gençler ve büyükşehir seçmenlerinin desteğiyle birlikte öne çıktı.
-- Lula'nın siyasi çizgisini koruduğu ve seçmenlerini sandığa gitmeye çağırdığı aktarıldı.
-- Bir kaynak, Flávio Bolsonaro'nun seçimlerin iptalini istediğini de aktardı.
-- Sonuç, sol siyasetin ve Filistin'e desteğin devamı açısından önemli görüldü.
-- CHP lideri Özgür Özel, Lula'yı kutlayarak halk iradesinin önemini vurguladı.
+- Lula, Brezilya'daki ikinci turda Flávio Bolsonaro'yu yenerek dördüncü kez başkan seçildi.
+- İlk turda geride kalan Lula, ikinci turu 4,4 milyon oy farkıyla kazandı.
+- Demokratik kesimlerin birleşmesi ve sandığa gitmeyen seçmenlerin katılımı sonucu değiştirdi.
+- Lula, siyasi çizgisinden taviz vermeden kendi tabanına seslenen kampanya yürüttü.
+- Meta, Lula aleyhine algoritma kullanıldığı iddialarını reddederken yargı eşitlik istedi.
+- Trump'ın Bolsonaro'ya açık desteği ve Brezilya'ya gümrük vergisi tehdidi gündeme geldi.
+- Bolsonaro cephesi sonuçlara itiraz etti ancak oy farkının itirazları zayıflattığı değerlendirildi.
+- Yayınlarda dış müdahaleler ve seçmenlerin sandığa ulaşmasının zorlaştırıldığı iddiaları aktarıldı.
+- Lula'yı güçlü kongre muhalefeti ve olası görevden alma girişimleri beklediği belirtildi.
+- Yorumcular, zaferin bölgesel sağ yükselişi yavaşlatabileceğini ve Filistin politikasını koruyabileceğini belirtti.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=GqU2BsyLHrk&t=23s) (⏱️ 00:23-07:38)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=HDlBKZ-MuE8&t=4228s) (⏱️ 70:28-78:38)
-- [Unsal Unlu](https://www.youtube.com/watch?v=l_Mi25jwCNI&t=189s) (⏱️ 03:09-03:46)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=X5bS4VJvZ4c&t=3561s) (⏱️ 59:21-61:19)
+- [Unsal Unlu](https://www.youtube.com/watch?v=A6FEru_Lj1M&t=920s) (⏱️ 15:20-15:50)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=UT8PbWHdAiE&t=1044s) (⏱️ 17:24-20:43)
+- [Rusen Cakir](https://www.youtube.com/watch?v=CApE8q5W7zo) (⏱️ 00:00-26:43)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=LJ3e9CMv9TI&t=2612s) (⏱️ 43:32-45:37)
 
 ---
 
-## 7. İşçilerin Çalışma Koşulları ve İstihdam Kaygısı
+## 7. İsrail Seçimlerinde Koalisyon ve Hesaplaşma Arayışı
 
-- Devlet hastanelerinde nükleer tıp ünitelerini işleten MNT'nin fazla çekim yaptırdığı iddia edildi.
-- Bu uygulamanın çalışanları ve hastaları gereğinden fazla radyasyona maruz bırakabileceği belirtildi.
-- Denetçilerin ihale iptali talebine rağmen şirkete yeni ihaleler verildiği aktarıldı.
-- Sendikalaşmak isteyenlerin çıkarıldığı, sendikalaşmayı engelleyen bir yöneticinin ödüllendirildiği öne sürüldü.
-- Evrensel'in haberinde Astor Enerji işçilerinin çiplerle takip edildiği iddia edildi.
-- Fabrikadaki çalışma koşullarının da ağırlaştığı aynı haberde dile getirildi.
-- Şirket sahiplerinin fon soruşturmasında milyarlarca lira iade ettiği haberleri hatırlatıldı.
-- Tekstilde satış ve tahsilat sorunları artarken fabrikaların kapandığı belirtildi.
-- Tekstilde dört yılda 10 bin firma kapandı, 360 bin kişi işsiz kaldı.
-- Toygar Narbay, kapanan fabrikalardaki nitelikli işgücünü geri kazanmanın zorlaşacağı uyarısında bulundu.
+- İsrail’de 7 Ekim sonrasındaki ilk seçimde Netanyahu sandığa katılım çağrısı yaptı.
+- Devlet soruşturması açılmayan 7 Ekim saldırılarının siyasi sorumluluğu seçimde tartışılıyor.
+- Anketlerde Netanyahu bloğu 49–51, Eisenkot-Bennett ittifakı 54–56 sandalyeyle çoğunluğu sağlayamıyor.
+- Arap partilerinin beklenen 15–16 sandalyesi hükümeti belirleyebilir; uzlaşmazlık seçimi tekrarlatabilir.
+- İsrail vatandaşı Filistinlilerin sandığa katılımını siyasi dışlanma ve hizmet sorunları etkiliyor.
+- Yorumcular, ana akım muhalefetin de Gazze konusunda sert politikalar savunduğunu belirtiyor.
+- Trump Netanyahu’yu desteklerken, yönetiminin İran’a yönelik yeni saldırıları sınırladığı aktarılıyor.
+- Türkiye karşıtı söylemin yumuşayabileceği, ancak Türkiye’nin güvenlik gündeminde kalacağı değerlendiriliyor.
+- Batı Şeria’daki yerleşimlerin genişletilmesi ve ilhak girişimleri siyasi çıkmazı derinleştiriyor.
+- İsrail’de Yahudi nüfusun yararlandığı demokratik ortamın da son yıllarda gerilediği değerlendiriliyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=l_Mi25jwCNI&t=2512s) (⏱️ 41:52-42:30)
-- [Onlar TV](https://www.youtube.com/watch?v=wTasoR1XlGg&t=2928s) (⏱️ 48:48-49:33)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=tg8yAnYUrwU&t=2880s) (⏱️ 48:00-49:47)
+- [Murat Yetkin](https://www.youtube.com/watch?v=lctMShjCYsg&t=737s) (⏱️ 12:17-12:35)
+- [Rusen Cakir](https://www.youtube.com/watch?v=SB1o819POb0) (⏱️ 00:00-05:30)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=faChDsKIEqM&t=4111s) (⏱️ 68:31-69:09)
 
 ---
 
-## 8. Tarım Destekleri ve Çiftçinin Geçim Sıkıntısı
+## 8. Sırbistan’da Öğrenci Hareketine Seçim Zaferi
 
-- CHP lideri Özgür Özel, Manisa'da çiftçilerin yaşadığı geçim sıkıntısını gündeme taşıdı.
-- Üreticiler, düşük satış fiyatları ve yüksek üretim maliyetleri nedeniyle geçinemiyor.
-- Gübre, ilaç ve mazot giderlerinin de sorunları ağırlaştırdığı vurgulandı.
-- Sarıgöl'de üzüm fiyatları arz fazlasıyla düşerken, bir üretici ürününü satamadığını anlattı.
-- Özel, devletin üzüm alarak okullarda ve kamu kurumlarında dağıtmasını önerdi.
-- Programda, sekiz ayda yapılan gıda ithalatının 20,4 milyar dolara ulaştığı belirtildi.
-- 2027 bütçesinde tarıma toplam 1 trilyon 305 milyar lira ayrıldığı belirtildi.
-- Tutarın vergi kolaylıkları, kredi destekleri, yatırımlar ve doğrudan desteklerden oluştuğu aktarıldı.
-- 2027'de faiz ödemelerinin toplam 3 trilyon 975 milyar liraya ulaşacağı belirtildi.
-- Vergi yükünün çalışanların ve halkın üzerinde giderek ağırlaştığı eleştirisi dile getirildi.
+- Novi Sad’daki tren istasyonunda çatının çökmesi sonucu 16 kişi öldü.
+- Facianın ardından Ulaştırma Bakanı istifa etti, öğrenciler üniversitelerde boykot başlattı.
+- Hükümet yanlısı grupların müdahaleleri, protestoların daha da büyümesine yol açtı.
+- Lidersiz hareket, forumlarda şeffaf ihaleler, bağımsız yargı ve özgür medya istedi.
+- Öğrenciler, mevcut muhalefetle birleşmek yerine forumlarda bağımsız adaylardan liste oluşturdu.
+- Listede doktorlar, sanatçılar, akademisyenler ve Boşnak azınlığın temsilcileri de bulunuyordu.
+- Yayınlarda öğrenci listesinin yüzde 52 oyla yaklaşık 138 sandalye kazandığı aktarıldı.
+- Aleksandar Vučić’in 12 yıllık yönetimi yüzde 39’da kalırken, sokaklarda kutlamalar yapıldı.
+- Öğrenciler aday olmadı, seçilen milletvekillerini forumlar üzerinden izlemeyi sürdüreceklerini belirtti.
+- CHP lideri Özgür Özel, seçim sonuçlarını demokrasi adına tebrik etti.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=tg8yAnYUrwU&t=2676s) (⏱️ 44:36-48:00)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=jS8GnPSz6eQ) (⏱️ 00:00-04:54)
-- [Unsal Unlu](https://www.youtube.com/watch?v=l_Mi25jwCNI&t=1634s) (⏱️ 27:14-29:35)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=-y0O9fg0-gs&t=412s) (⏱️ 06:52-08:25)
+- [Unsal Unlu](https://www.youtube.com/watch?v=A6FEru_Lj1M&t=1037s) (⏱️ 17:17-18:54)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=UT8PbWHdAiE&t=43s) (⏱️ 00:43-17:14)
 
 ---
 
-## 9. Trump’ın seçim gündemi ve dış politika çıkışları
+## 9. Derbide Galatasaray Kazandı, Fenerbahçe Eleştirildi
 
-- ABD’de ara seçimlerde Temsilciler Meclisi’nin tamamı için oylama yapılacak.
-- Senato’nun yaklaşık üçte biri de ara seçimlerde yeniden belirlenecek.
-- Değerlendirmelerde Cumhuriyetçilerin Meclis çoğunluğunu kaybetmesi beklenirken Senato’da da kayıp olası görülüyor.
-- Yükselen benzin fiyatları özellikle kırsal ve yoksul bölgelerdeki seçmenleri etkiliyor.
-- Olası seçim kayıplarının Trump’ın siyasi gücünü azaltabileceği değerlendirmeleri yapılıyor.
-- Trump’ın seçimler yaklaşırken İran’ı yeniden bombalama ihtimalinden bahsettiği aktarıldı.
-- Husilerin ABD’ye yönelik açıklamaları da aynı haber kapsamında aktarıldı.
-- Açıklamalar, siyasi destek kazanmak amacıyla tehdit söylemi kullanıldığı yorumuyla değerlendirildi.
-- Trump’ın Orbán’ı Birleşmiş Milletler Genel Sekreterliği için önereceği iddia edildi.
-- Olası adaylık, Orbán’ın baskıcı yönetim anlayışı nedeniyle haberde eleştirildi.
+- Galatasaray, Fenerbahçe karşısında oynanan derbiyi 2-1 kazanarak önemli bir galibiyet aldı.
+- Fenerbahçe’nin maç boyunca etkisiz kaldığı belirtildi ve takımın performansı eleştirildi.
+- Teknik direktörün yalnızca üzgün olduklarını söylemesi, sorumluluk almadığı eleştirilerine yol açtı.
+- Fenerbahçe’nin teknik heyeti ve yönetimi başarısız bulunurken, taraftarların öfkeli olduğu aktarıldı.
+- Yenilginin Fenerbahçe’nin moralini daha da bozabileceği değerlendirmesi yapıldı.
+- Taraftarların hesap sorabilmesi gerektiği vurgulandı, futbol yöneticilerinin hesap vermekten kaçınması eleştirildi.
+- Baba ve kızın farklı takımları destekleyerek tribünde birlikte maç izlemesi dikkat çekti.
+- Çocukların tuttukları takımlar nedeniyle taraftar baskısı görmemesi gerektiği vurgulandı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=GqU2BsyLHrk&t=1190s) (⏱️ 19:50-22:24)
-- [Unsal Unlu](https://www.youtube.com/watch?v=l_Mi25jwCNI&t=1574s) (⏱️ 26:14-27:12)
+- [Unsal Unlu](https://www.youtube.com/watch?v=A6FEru_Lj1M&t=1139s) (⏱️ 18:59-22:34)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=yWPz8QTh1bU&t=1160s) (⏱️ 19:20-20:00)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=SRmMDijqN7Q&t=124s) (⏱️ 02:04-04:46)
 
 ---
 
-## 10. Kılıçdaroğlu’ndan Erken Seçim ve Ahlak Vurgusu
+## 10. Cezaevlerindeki Ağır Koşullar ve Mahpus Hakları
 
-- Kemal Kılıçdaroğlu, Gaziantep’teki basın toplantısında CHP’ye ahlaki değerlere dönüş çağrısı yaptı.
-- Siyasi partilerin yasa dışı gelirlerin peşinde koşamayacağını açıkça belirtti.
-- Kılıçdaroğlu, erken seçim çağrısını destekleyerek yarı başkanlık önerilerinin tartışılabileceğini söyledi.
-- Yolsuzluk dosyalarında milletvekili dokunulmazlığının kaldırılması gerektiğini savunan açıklamalar yaptı.
-- CHP Sözcüsü Müslüm Sarı, 2028’deki seçimi erken seçim saymadıklarını belirtmişti.
-- Kılıçdaroğlu’nun erken seçim desteği, Sarı’nın açıklamasıyla çelişen bir tutum olarak aktarıldı.
-- Gazete Pencere’nin aktardığı açıklama, Erdoğan’ın olası adaylığına destek olarak yorumlandı.
-- İYİ Parti’nin dokuzuncu kuruluş yıl dönümünde Müsavat Dervişoğlu konuştu.
-- Dervişoğlu, hukuk, özgürlük ve cumhuriyeti vurgulayarak devleti millete geri vermek istediklerini söyledi.
-- Ümit Kocasakal, anayasanın ilk dört maddesinin tartışmaya açılmasına karşı çıktı.
+- Gazeteci Murat Ağırel, Kandıra Cezaevi’nden gönderdiği mektupta zor koşulları anlattı.
+- Tek kişilik odasında kaloriferlerin yanmadığını, televizyon ve gazete bulunmadığını belirtti.
+- Kantin alışverişi yapamadığını, kırtasiye sıkıntısı yaşadığını, ailesiyle görüşemediğini, telefon kullanamadığını aktardı.
+- İsmail Arı, 23 kişilik koğuşta 63 kişinin kaldığını bildirdi.
+- Utku Çakırözer’in ziyaret ettiği Arı’nın yerde yattığı, güçlükle battaniye alabildiği aktarıldı.
+- Arı, haberlerin ve destek eylemlerinin moral verdiğini, gazeteciliği sürdüreceğini söyledi.
+- Tekirdağlı 73 yaşındaki Abdullah Tırpan’ın cezaevinde hayatını kaybettiği bildirildi.
+- Tırpan, FETÖ üyeliğinden yedi yıl altı ay hapis cezası almıştı.
+- Diyabet nedeniyle bacağı kesilen Tırpan’ın tahliyesine yönelik çağrıların karşılıksız kaldığı aktarıldı.
+- Yayınlarda kötü muamele iddiaları gündeme getirildi, mahpuslara insanca davranılması istendi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=X5bS4VJvZ4c&t=2026s) (⏱️ 33:46-43:41)
-- [Unsal Unlu](https://www.youtube.com/watch?v=l_Mi25jwCNI&t=315s) (⏱️ 05:15-05:53)
+- [Onlar TV](https://www.youtube.com/watch?v=t0Li9tC9pqM&t=175s) (⏱️ 02:55-05:26)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=yWPz8QTh1bU&t=662s) (⏱️ 11:02-11:24)
 
 ---
 
