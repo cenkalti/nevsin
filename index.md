@@ -1,225 +1,184 @@
 # Bugün Ne Oldu?
 
-*29 October 2026 tarihli günlük haber raporu - 10 haber birleştirildi*
+*30 October 2026 tarihli günlük haber raporu - 8 haber birleştirildi*
 
-## 1. Fon Soruşturmasında Tedbir ve Şeffaflık Tartışması
+## 1. Aliyev’in Zirveye Katılmaması Gerilimi Gündeme Taşıdı
 
-- Fon soruşturması, borsada fiyatları yapay etkileme ve para aklama şüphelerini kapsıyor.
-- Pasifik ortakları Fatih Erdoğan, Mehmet Erdoğan ve Abdülkerim Fırat'a tedbir uygulandı.
-- Bazı tedbirler itirazlarla kaldırılırken, yeniden tedbir kararları alındığı da aktarıldı.
-- Pasifik Holding, fonlarla ilişkisini reddederek fonlara hisse satmadığını açıkladı.
-- SPK, yabancı kuruluşların yüksek kazançla pozisyonlarını tamamen kapattığı iddialarını reddetti.
-- Gürlek'e göre, 214 kişi ve şirketin kazancı 187,653 milyar liraydı.
-- Özgür Özel'in yaklaşık 60 milletvekili veya yakınları hakkındaki iddiası doğrulanmadı.
-- Liste tartışmaları sürerken, soruşturmanın şeffaflığı ve tarafsızlığı konusunda eleştiriler yükseldi.
-- İletişim Başkanlığı, 71.899 hesaba toplam 68 milyar lira ödeme yapıldığını açıkladı.
-- Yeni ara ödemelerin 30 Ekim'de başlaması beklenirken, mağdurlar ödemeleri yetersiz buluyor.
+- Azerbaycan Cumhurbaşkanı İlham Aliyev, Ankara’daki Türk Devletleri Teşkilatı zirvesine katılmadı.
+- Gerekçe olarak Bakü’de önceden planlanan futbol turnuvasının ödül töreni gösterildi.
+- Azerbaycan’dan Türkiye’ye dönem başkanlığı devri dışişleri bakanları düzeyinde gerçekleştirildi.
+- Karar, Azerbaycan’daki başörtüsü kurallarına Türkiye’den yöneltilen eleştirilerin ardından geldi.
+- Eleştirilerde bulunan Cumhurbaşkanlığı Başdanışmanı Oktay Saral’ın görevinden ayrıldığı aktarıldı.
+- Bakü, içişlerine müdahale eleştirisiyle 31 kişinin ülkeye girişini yasakladı.
+- Bakü’nün yedi kişiye soruşturma ve hesap engelleme talepleri tamamen karşılanmadı.
+- APA Haber Ajansı, Türkiye’yi Azerbaycan karşıtı kampanyalara katkıyla suçladı.
+- Azerbaycanlı milletvekili Babaoğlu, Erdoğan’ın önceki zirveye katılmamasını karşılıklılık gerekçesi gösterdi.
+- Erdoğan kardeşlik vurgusu yaparken, Bahçeli anlaşmazlıkların kalıcı ayrılığa dönüşmemesini istedi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=0HZrEe1lkZQ&t=1589s) (⏱️ 26:29-34:33)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=bVHtgra3XUU&t=39s) (⏱️ 00:39-14:49)
-- [Inan Demirel](https://www.youtube.com/watch?v=p9lXaaOWjE4&t=1160s) (⏱️ 19:20-22:28)
-- [Rusen Cakir](https://www.youtube.com/watch?v=qWdrc4iGZkE&t=43s) (⏱️ 00:43-10:15)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=xsSfzTuLEj0&t=1421s) (⏱️ 23:41-27:04)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=J83GrA_dBR0&t=36s) (⏱️ 00:36-11:16)
-- [Onlar TV](https://www.youtube.com/watch?v=ZTJVZWsSJsw&t=978s) (⏱️ 16:18-28:55)
-- [Serdar Akinan](https://www.youtube.com/watch?v=dPtu4iB5JAc&t=404s) (⏱️ 06:44-10:00)
-- [Hilal Koylu](https://www.youtube.com/watch?v=IMQJ4DsXpgs&t=411s) (⏱️ 06:51-09:54)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=-Jc7KmlQ-8A&t=691s) (⏱️ 11:31-14:54)
+- [Hilal Koylu](https://www.youtube.com/watch?v=WyhHTsgOuvA&t=15s) (⏱️ 00:15-01:46)
+- [Cigdem Toker](https://www.youtube.com/watch?v=dnKLFqVTlpI&t=485s) (⏱️ 08:05-09:48)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=eSs_keqUpFQ&t=59s) (⏱️ 00:59-04:14)
+- [Onlar TV](https://www.youtube.com/watch?v=Aqz4p5YJ7Xc&t=531s) (⏱️ 08:51-11:05)
+- [Rusen Cakir](https://www.youtube.com/watch?v=rPjfKaRhRh4&t=8s) (⏱️ 00:08-00:57)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=JGgSHj0hOIo&t=402s) (⏱️ 06:42-10:00)
 
 ---
 
-## 2. Mustafa Sarıgül Soruşturmasında Yeni Gözaltı Kararları
+## 2. Fon Krizinde Ödemeler ve Denetim Tartışması
 
-- Sarıgül soruşturmasında gizlilik kararı bulunduğu, iddiaların henüz kesinleşmediği aktarılıyor.
-- On kişiye gözaltı kararı bildiriliyor; yakalananların sayısı kaynaklarda farklı aktarılıyor.
-- Şişli dönemindeki çalışma arkadaşlarıyla iki korumasının gözaltına alındığı belirtiliyor.
-- Cinsel saldırı iddialarında güç kullanımı ve reşit olmayanlar anılıyor.
-- Eski eşiyle oğullarının soruşturma kapsamında tutuklu oldukları da aktarılıyor.
-- Sarıgül, 100 milyon euro akladığı iddiasını reddederek itibar suikastı diyor.
-- Özgür Özel, ifadeleri görmeden kesin bir değerlendirme yapmayacağını söylüyor.
-- Dokunulmazlığının kaldırılması ve tutuklu yargılanması konuşuluyor; kesinleşmiş karar aktarılmıyor.
-- Yayınlarda, Yeni Parti’nin Sarıgül’ün üyeliğini askıya aldığını açıkladığı belirtiliyor.
-- Cemil Candaş cinayeti dosyası, imar yolsuzluğu bağlantısıyla yeniden gündeme geliyor.
+- Atlas, Pusula ve Tera'nın yedi fonunda 234.796 yatırımcıya 29,3 milyar lira aktarıldı.
+- Ara ödemeler için 125 milyar liralık kaynak ayrıldığı bilgisi paylaşıldı.
+- Ödeme kaynağı, alacakların tamamlanması ve dağıtım sırası konusunda belirsizlikler sürüyor.
+- Yayınlarda soruşturma kapsamında 116 kişinin tutuklandığı, siyasi bağlantıların açıklanmadığı belirtildi.
+- Şamil Tayyar, Vali Akbıyık'ın fonda 20 milyonunu 50 milyona çıkardığını iddia etti.
+- Akbıyık konuyu özel hayat olarak nitelendirirken, Tayyar valinin istifasını istedi.
+- Pasifik Holding, ortaklarının hesaplarındaki tedbirin deliller yeniden değerlendirilince kaldırıldığını açıkladı.
+- Dilek Güngör, SPK ve Borsa İstanbul'un uyarıları zamanında değerlendirmediğini yazdı.
+- Terkoğlu'nun yazısında, Varlık Fonu'nun altı şirketinde 123 milyarlık değer kaybı aktarıldı.
+- Devrim Akyıl, krizin emeklilik birikimlerini ve yatırımcı güvenini etkileyebileceğini belirtti.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=xsSfzTuLEj0&t=2564s) (⏱️ 42:44-44:19)
-- [Onlar TV](https://www.youtube.com/watch?v=ZTJVZWsSJsw&t=2520s) (⏱️ 42:00-42:39)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=bVHtgra3XUU&t=1057s) (⏱️ 17:37-21:07)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=0HZrEe1lkZQ&t=2601s) (⏱️ 43:21-47:49)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=gLUMM-PlUws&t=417s) (⏱️ 06:57-09:05)
-- [Inan Demirel](https://www.youtube.com/watch?v=p9lXaaOWjE4&t=936s) (⏱️ 15:36-17:24)
-- [Hilal Koylu](https://www.youtube.com/watch?v=IMQJ4DsXpgs&t=1597s) (⏱️ 26:37-31:18)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=2WXIBMSD3L0&t=2851s) (⏱️ 47:31-66:22)
+- [Cigdem Toker](https://www.youtube.com/watch?v=dnKLFqVTlpI&t=166s) (⏱️ 02:46-03:46)
+- [Unsal Unlu](https://www.youtube.com/watch?v=R4KqSG1aZOs&t=1961s) (⏱️ 32:41-39:38)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=eSs_keqUpFQ&t=826s) (⏱️ 13:46-15:40)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=-Jc7KmlQ-8A&t=1080s) (⏱️ 18:00-20:23)
+- [Onlar TV](https://www.youtube.com/watch?v=Aqz4p5YJ7Xc&t=1211s) (⏱️ 20:11-28:20)
+- [Rusen Cakir](https://www.youtube.com/watch?v=Z526qvgehpE&t=980s) (⏱️ 16:20-29:43)
 
 ---
 
-## 3. Dedetaş ve öğrenciler için tahliye kararları
+## 3. Bahçeli ve Dervişoğlu’nun Anıtkabir görüntüsü tartışma yarattı
 
-- Üsküdar Belediye Başkanı Sinem Dedetaş, yaklaşık 90 günün ardından tahliye edildi.
-- Avukatı Akın Atalay, ev hapsi şeklinde adli kontrol uygulandığını duyurdu.
-- CHP'li Murat Emir, Dedetaş'ın serbest bırakılmasını ve görevine dönmesini istedi.
-- Murat Yetkin, Üsküdar'daki siyasi kontrolün CHP'den AK Parti'ye geçtiğini söyledi.
-- Yusuf Tekin'i protesto eden pankart nedeniyle tutuklanan iki öğrenci tahliye edildi.
-- Tahliye edilen öğrencileri Türkiye İşçi Partisi Genel Başkanı Erkan Baş karşıladı.
-- Onlar TV, öğrencilerin Cumhuriyet Bayramı'nda serbest bırakıldığını da aktardı.
-- Kadıköy Lisesi'ndeki pankartla ilgili gözaltına alınan öğrencilerin serbest bırakıldığı bildirildi.
-- Gazeteciler Ercüment İşleyen ve Tuğba Nur Çelik de gözaltından serbest bırakıldı.
-- Deniz Zeyrek, düzeltilen haber hatalarının gözaltı gerekçesi yapılmasını eleştirdi.
+- Devlet Bahçeli ve Müsavat Dervişoğlu, 29 Ekim'de Anıtkabir merdivenlerinden kol kola indi.
+- Görüntüler, sosyal medyada ve özellikle bazı milliyetçi çevrelerde tepki topladı.
+- İYİ Parti Samsun Milletvekili Erhan Usta, görüntüyü kabul etmediğini söyledi.
+- Dervişoğlu, davranışını insani olarak nitelendirerek tepkilerin Bahçeli'nin kimliğiyle ilgili olduğunu söyledi.
+- Danışmanı, merdivenlerde Bahçeli'ye tedbiren yardım edildiğini, Dervişoğlu'nun da destek verdiğini açıkladı.
+- İYİ Partili bazı isimler, görüntünün siyasi tercih olarak yorumlanmasına karşı çıktı.
+- Bahçeli, terörsüz Türkiye sürecini desteklerken Dervişoğlu bu sürece karşı çıkıyor.
+- Dervişoğlu, Bahçeli'nin Öcalan'a Meclis çağrısını protesto ederken daha önce urgan fırlatmıştı.
+- Dervişoğlu, geçmişte Bahçeli'ye gönderdiği kutlama mesajının da iade edildiğini söylemişti.
+- Yayınlarda, siyasi kutuplaşmanın insani temasları bile tartışmaya dönüştürdüğü değerlendirmesi yapıldı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Inan Demirel](https://www.youtube.com/watch?v=p9lXaaOWjE4&t=410s) (⏱️ 06:50-09:25)
-- [Hilal Koylu](https://www.youtube.com/watch?v=IMQJ4DsXpgs&t=766s) (⏱️ 12:46-14:44)
-- [Onlar TV](https://www.youtube.com/watch?v=ZTJVZWsSJsw&t=2666s) (⏱️ 44:26-44:39)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=bVHtgra3XUU&t=1541s) (⏱️ 25:41-27:07)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=xsSfzTuLEj0&t=2374s) (⏱️ 39:34-41:09)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=0HZrEe1lkZQ&t=2077s) (⏱️ 34:37-35:07)
-- [Murat Yetkin](https://www.youtube.com/watch?v=9jpmZHfrsDM&t=127s) (⏱️ 02:07-02:53)
+- [Onlar TV](https://www.youtube.com/watch?v=Aqz4p5YJ7Xc&t=666s) (⏱️ 11:06-12:38)
+- [Rusen Cakir](https://www.youtube.com/watch?v=rPjfKaRhRh4&t=64s) (⏱️ 01:04-11:32)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=2WXIBMSD3L0&t=2577s) (⏱️ 42:57-47:18)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=eSs_keqUpFQ&t=1426s) (⏱️ 23:46-25:40)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=-Jc7KmlQ-8A&t=535s) (⏱️ 08:55-11:05)
+- [Hilal Koylu](https://www.youtube.com/watch?v=WyhHTsgOuvA&t=457s) (⏱️ 07:37-09:12)
 
 ---
 
-## 4. Yavaş’ın Kurum Görüşmesi ve Adaylık Tartışmaları
+## 4. Sinem Dedetaş ev hapsi şartıyla tahliye edildi
 
-- Ankara Büyükşehir Belediye Başkanı Mansur Yavaş, Bakan Murat Kurum’la görüştü.
-- 17 Eylül’deki görüşmenin belediye projeleri ve Ankara’nın sorunlarıyla ilgili olduğu belirtildi.
-- Görüşme fotoğrafları, Yavaş’ın AK Parti’ye geçeceği yönündeki iddiaları gündeme getirdi.
-- Yavaş, herhangi bir partiye geçmediğini ve önceliğinin Ankara’daki çalışmalar olduğunu söyledi.
-- Özgür Özel, Yavaş’la sorun yaşamadıklarını belirterek görüşmeyi normal karşıladı.
-- Özel, cumhurbaşkanlığı adaylığında kazanma ihtimali yüksek kişinin sorumluluktan kaçamayacağını söyledi.
-- Özel, İmamoğlu ve Yavaş’ı güçlü adaylar olarak gördüğünü belirtti.
-- Kendisinin doğru aday olduğuna ikna edilirse adaylık sorumluluğunu üstlenebileceğini açıkladı.
-- Özel, İBB’nin AK Parti’ye geçmesi ihtimaline esprili bir yanıt verdi.
-- Özel, olası adımlarını açıklamadan millet iradesini savunmak için mücadele edeceklerini belirtti.
+- Üsküdar Belediye Başkanı Sinem Dedetaş, 29 Ekim’de cezaevinden tahliye edildi.
+- Dedetaş, yaklaşık 90 gün süren tutukluluğun ardından ev hapsine alındı.
+- Elektronik kelepçeyle evinde kalacağı belirtilen Dedetaş’ın belediyedeki görevine dönemediği aktarıldı.
+- Dedetaş, tutuklu bulunan çalışma arkadaşlarının da serbest bırakılmasını istedi.
+- Fatma Kaplan Hürriyet, tahliyenin ardından Dedetaş’a destek mesajı paylaştı.
+- Yayınlarda, belediye meclisindeki değişikliklerle yönetimin AK Parti’ye geçtiği aktarıldı.
+- Meclis üyelerinin tutuklanması ve parti değiştirmeleri üzerinden yönetim değişikliği tartışıldı.
+- Bazı meclis üyelerine para ve çeşitli vaatler sunulduğu iddia edildi.
+- Yorumcular tutukluluğun gerekçelerini sorgularken, ev hapsinin kaldırılması gerektiği savunuldu.
+- Dedetaş, Deniz Göktaş’ı evine çağırdı; Göktaş esprili yanıtıyla karşılık verdi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=0HZrEe1lkZQ&t=2360s) (⏱️ 39:20-43:17)
-- [Hilal Koylu](https://www.youtube.com/watch?v=IMQJ4DsXpgs&t=1924s) (⏱️ 32:04-35:00)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=xsSfzTuLEj0&t=2659s) (⏱️ 44:19-47:56)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=gLUMM-PlUws&t=545s) (⏱️ 09:05-10:34)
-- [Onlar TV](https://www.youtube.com/watch?v=ZTJVZWsSJsw&t=2566s) (⏱️ 42:46-44:23)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=-Jc7KmlQ-8A&t=196s) (⏱️ 03:16-06:59)
+- [Onlar TV](https://www.youtube.com/watch?v=Aqz4p5YJ7Xc&t=273s) (⏱️ 04:33-06:05)
+- [Cigdem Toker](https://www.youtube.com/watch?v=dnKLFqVTlpI&t=3s) (⏱️ 00:03-01:56)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=eSs_keqUpFQ&t=1342s) (⏱️ 22:22-23:46)
+- [Unsal Unlu](https://www.youtube.com/watch?v=R4KqSG1aZOs&t=1653s) (⏱️ 27:33-27:45)
 
 ---
 
-## 5. Aliyev Ankara’daki Türk Devletleri Zirvesine Katılmadı
+## 5. AK Parti Gündeminde Tepkiler ve Değişim İddiaları
 
-- Başlangıçta katılması beklenen Azerbaycan Cumhurbaşkanı İlham Aliyev, Ankara’daki zirveye katılmadı.
-- Katılmayacağı bilgisi, Interfax tarafından Azerbaycan kaynaklarına dayandırılarak önceden kamuoyuna duyuruldu.
-- İlk haberler yayımlandığında, katılmama kararına ilişkin resmi açıklama henüz bulunmuyordu.
-- Gerekçe olarak yoğun programı ve önceden planlanmış etkinlikleri gösterildi.
-- Programında Bakü’deki 15 yaş altı Dünya Futbol Kupası bulunuyordu.
-- Gerilimin arka planında başörtüsü, Karabağ ve İsrail’le ilişkiler tartışmaları aktarıldı.
-- Erdoğan’ın danışmanı Oktay Saral’ın Aliyev’e yönelik eleştirilerinin gerilimi artırdığı belirtildi.
-- Saral’ın Erdoğan’ın talimatıyla görevden ayrıldığı, 31 Türk vatandaşına giriş yasağı getirildiği aktarıldı.
-- Azerbaycan’ın ayrıca Aliyev’e hakaret edenlerin tutuklanmasını talep ettiği de aktarıldı.
-- Liderlerin telefon görüşmesine rağmen, Ankara’nın krizi diplomatik temaslarla yatıştırmaya çalıştığı belirtildi.
+- Kayseri’de AK Partili bir milletvekili, sokakta vatandaşların tepkisiyle karşılaştı.
+- Paylaşılan TikTok görüntülerindeki tepkiler, ekonomik sıkıntılarla ve fon tartışmalarıyla ilişkilendirildi.
+- Çukurova Belediyesi’ndeki seçimde CHP adayı 19, rakibi 17 oy aldı.
+- CHP adayına AK Partili ve MHP’li üyelerin desteği iddia edildi.
+- Özel, fon skandalına 60-70 AK Partili vekilin veya yakınlarının karıştığını öne sürdü.
+- Özel, normal tarihe yakın bir erken seçim önerisine karşı çıktı.
+- Özel, operasyonlarla İBB yönetiminin seçim öncesinde AK Parti’ye geçirilebileceği endişesini dile getirdi.
+- Bakırköy’deki operasyonlar ve üyeliklerin düşmesinin İBB Meclisi’ndeki dengeyi değiştirdiği aktarıldı.
+- Özel, milletvekillerinin dokunulmazlıklarının kaldırılarak tutuklanmaya çalışılabileceğini de öne sürdü.
+- Kulislerde kongre sonrasında kabine, bürokrasi ve parti yönetiminde değişiklikler konuşuldu.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=0HZrEe1lkZQ&t=386s) (⏱️ 06:26-06:45)
-- [Murat Yetkin](https://www.youtube.com/watch?v=9jpmZHfrsDM&t=41s) (⏱️ 00:41-13:24)
-- [Inan Demirel](https://www.youtube.com/watch?v=p9lXaaOWjE4&t=1977s) (⏱️ 32:57-40:45)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=sXrFUbo2dyU) (⏱️ 00:00-00:22)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=2WXIBMSD3L0&t=2401s) (⏱️ 40:01-42:26)
+- [Onlar TV](https://www.youtube.com/watch?v=Aqz4p5YJ7Xc&t=1701s) (⏱️ 28:21-31:04)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=-Jc7KmlQ-8A&t=994s) (⏱️ 16:34-17:58)
 
 ---
 
-## 6. Cumhuriyet’in 103. Yılında Kuruluş ve Reformlar
+## 6. Cumhuriyet’in 103. Yılında Kutlamalar ve Mesajlar
 
-- Cumhuriyet’in 103. kuruluş yıl dönümü, Anıtkabir’de düzenlenen törenlerle kutlandı.
-- Erdoğan, Atatürk’ü ve şehitleri anarak Türkiye Yüzyılı hedefini vurguladı.
-- Milli Mücadele’nin zaferi ve Lozan sonrasında Cumhuriyet, 1923’te ilan edildi.
-- Osmanlı’dan kurumları ve borçları devralan Cumhuriyet, yabancılara tanınan ayrıcalıkları kaldırdı.
-- Cumhuriyet döneminde kurulan yerli bankalar, ekonomik kalkınmanın farklı alanlarını destekledi.
-- Konuşmacılara göre eğitim reformları, çağdaşlaşmayı ve nitelikli kadroların yetişmesini destekledi.
-- Harf Devrimi okuryazarlığı kolaylaştırırken, dil reformu ortak Türkçeyi geliştirmeyi amaçladı.
-- Anadolu’da okullaşma ve modern tarım yaygınlaştırılırken, savaş koşulları ilerlemeyi zorlaştırdı.
-- Değerlendirmelerde, tek parti reformları ve çok partili yaşama geçiş tartışıldı.
-- Cumhuriyetin ortak mirası değerlendirilirken, hukukun üstünlüğü ve fırsat eşitliği vurgulandı.
+- Cumhuriyet’in 103. yıl dönümü, ülke genelinde coşkulu kutlamalarla karşılandı.
+- Anıtkabir’i ziyaret eden çocuklar, gençler ve aileler Atatürk’e minnettarlıklarını gösterdi.
+- Onlar TV sunucusu, bazı kutlamalarda Atatürk’ün geri planda bırakıldığını savundu.
+- Tümgeneral Emre Tayanç’ın İstiklal Marşı’nı okurken sesi Anıtkabir’de yankılandı.
+- Erdoğan, Anıtkabir Özel Defteri’ne Cumhuriyet’i güçlendirmek ve refahı artırmak hedefini yazdı.
+- Fotoğrafta Erdoğan önde yalnız, Özel uzakta, Kılıçdaroğlu ve Bahçeli gerideydi.
+- Bahar Feyzan, fotoğraftaki mesafeleri siyasi ayrışmanın ve muhalefetteki bölünmüşlüğün yansıması olarak yorumladı.
+- Yavaş, demokrasiyi millet iradesine saygı ve verilen söze bağlılıkla tanımladı.
+- Yavaş, makamların geçiciliğini ve ilkelerin kalıcılığını vurgulayarak sözüne bağlılığını bildirdi.
+- Sosyal medyada ilgi gören mesajında Atatürk’ü, silah arkadaşlarını, şehitleri ve gazileri andı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=x2Rmeo8dZtI&t=12s) (⏱️ 00:12-51:52)
-- [Fatih Altayli](https://www.youtube.com/watch?v=g8y_GJsSDHE&t=144s) (⏱️ 02:24-03:38)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=0HZrEe1lkZQ&t=1124s) (⏱️ 18:44-21:17)
+- [Onlar TV](https://www.youtube.com/watch?v=Aqz4p5YJ7Xc&t=21s) (⏱️ 00:21-04:32)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=JGgSHj0hOIo) (⏱️ 00:00-06:40)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=eSs_keqUpFQ&t=1540s) (⏱️ 25:40-27:08)
 
 ---
 
-## 7. Emekli Zammında Kaynak ve Adalet Tartışması
+## 7. Gazetecilerin Tutukluluğu ve Cezaevi Koşulları Gündemde
 
-- Erdoğan’ın kabine sonrası açıklaması, emeklilerde yeni maaş artışı beklentisi yarattı.
-- Bakan Işıkhan, yaklaşık bir trilyon liranın maaş artışlarında kullanılacağını söyledi.
-- Aziz Çelik’in hesabına göre emekli başına artış 2.000 lira olabilir.
-- Kesin zam açıklanmazken, ocakta enflasyon artışına sınırlı ilave yapılabileceği değerlendiriliyor.
-- Oransal artış yerine herkese sabit tutarlı zam yapılması talep ediliyor.
-- Aylıkların çalışma süresi ve ödenen primlere göre belirlenmesi gerektiği savunuluyor.
-- Enflasyonun emeklilerle asgari ücretlileri yoksullaştırdığı, zamları kısa sürede eritebileceği belirtiliyor.
-- Geçim sıkıntısı nedeniyle bazı emeklilerin çalışmaya devam ettiği ifade ediliyor.
-- Emekli aylıklarının insanca yaşamaya yetmesi için sosyal güvenlik reformu savunuluyor.
-- Memur emeklilerinin 1,2–2 milyon liralık ikramiyeyle ev alamadığı ifade ediliyor.
+- BirGün muhabiri İsmail Arı'nın, ifadeye gitmesinin ardından tutuklandığı aktarıldı.
+- Arı'yı şikâyet eden kişinin eski RTÜK Başkanı Ebubekir Şahin olduğu belirtildi.
+- Arı'nın 19 Kasım'da hâkim karşısına çıkacağı da yayında ayrıca belirtildi.
+- İsmail Arı'nın koğuşunda, 23 kişilik kapasiteye rağmen 63 kişinin kaldığı aktarıldı.
+- Gazetecilerin kalabalık koğuşlarda yer yetersizliği nedeniyle yerde yatmak zorunda kaldığı söylendi.
+- Murat Ağırel, Ali Tarakçı, Şaban Sevinç ve Fatih Ergin'in tutukluluğu aktarıldı.
+- Gazetecilerin yaptıkları haberler ve açıklamaları nedeniyle cezaevinde tutulduğu savunuldu.
+- Oğuzhan Uğur'un 29 Ekim'de Sinem Dedetaş'la aynı cezaevinde bulunduğu belirtildi.
+- Uğur'un kuyu tipi cezaevindeki tutukluluğunun sürmesine ilişkin açıklama yapılmadığı söylendi.
+- Tele1'e kayyum atandığı, Halk TV'de de kayyum uygulandığı iddia edildi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=bVHtgra3XUU&t=1629s) (⏱️ 27:09-34:25)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=xsSfzTuLEj0&t=1083s) (⏱️ 18:03-20:28)
-- [Inan Demirel](https://www.youtube.com/watch?v=p9lXaaOWjE4&t=1810s) (⏱️ 30:10-32:57)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=-Jc7KmlQ-8A&t=420s) (⏱️ 07:00-08:31)
+- [Onlar TV](https://www.youtube.com/watch?v=Aqz4p5YJ7Xc&t=367s) (⏱️ 06:07-08:50)
+- [Cigdem Toker](https://www.youtube.com/watch?v=dnKLFqVTlpI&t=379s) (⏱️ 06:19-07:04)
 
 ---
 
-## 8. Atatürk’ün Milli Mücadele’den Cumhuriyet’e Uzanan Liderliği
+## 8. Çalışanlar Hakları İçin Eylem Yaptı
 
-- Atatürk, Osmanlı düzeninin çöktüğünü düşünerek riskli Milli Mücadele’yi başlatmayı seçti.
-- Çanakkale zaferi, halka özgüven kazandırırken Atatürk’ün toplum tarafından tanınmasını sağladı.
-- Atatürk’ün Samsun’a çıkışında İngiliz desteğini değil, resmî görevini kullandığı belirtildi.
-- Cumhuriyet hedefini yakınlarından saklayan Atatürk, meclis kararlarıyla meşruiyet sağlamaya çalıştı.
-- Sakarya’da Atatürk, İsmet Paşa’nın itirazına rağmen karşı taarruz kararı aldı.
-- Ordu, halktan makbuz karşılığı sağlanan malzemelerle yaklaşık bir yıl hazırlandı.
-- Gizlice hazırlanan Büyük Taarruz’da güneydeki güçlü Yunan mevzileri hızla aşıldı.
-- Nutuk, mücadeledeki hedefleri, uygulamaları, hataları ve bunlardan çıkarılan dersleri aktarıyor.
-- Lozan sonrasında hükümet kurma sorunu, Cumhuriyet’in ilanına uzanan siyasi gerilim yarattı.
-- Atatürk, 28 Ekim gecesi arkadaşlarına ertesi gün Cumhuriyet’in ilanını açıkladı.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Fatih Altayli](https://www.youtube.com/watch?v=g8y_GJsSDHE&t=218s) (⏱️ 03:38-09:36)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=xsSfzTuLEj0&t=70s) (⏱️ 01:10-05:31)
-
----
-
-## 9. Cumhuriyet Bayramı Törenlerindeki Görüntüler Gündem Oldu
-
-- Cumhuriyet Bayramı’nda Anıtkabir’de buluşan siyasi liderlerin birlikte çekilen fotoğrafı tartışıldı.
-- Bahar Feyzan, liderlerin fotoğraftaki konumlarını iktidar ve muhalefet ilişkileriyle yorumladı.
-- Fotoğraftaki Erdoğan, Özgür Özel, Kılıçdaroğlu ve Bahçeli’nin konumlarına dikkat çekildi.
-- Bu yorumların liderlerin gelecekteki siyasi pozisyonlarını kesinleştirmediği de özellikle belirtildi.
-- Bahçeli ile Dervişoğlu, sert siyasi anlaşmazlıklarına rağmen Anıtkabir’den birlikte yürüdü.
-- Dervişoğlu’nun yürüyüş sırasında Bahçeli’nin koluna girmesi görüntülerde dikkat çeken ayrıntıydı.
-- Cumhuriyet Bayramı töreninde bazı katılımcılar, Cemil Tugay geçerken ayağa kalkmadı.
-- Inan Demirel, Anıtkabir’de önceki törenlerin aksine Erdoğan lehine slogan atılmadığını aktardı.
+- Gazeteciler, cumartesi günü Ankara dahil toplam 10 kentte eylem yaptı.
+- Farklı medya kuruluşlarından gazeteciler, basın özgürlüğüne ve mesleki sorunlara dikkat çekti.
+- Soma'daki İmbat Madencilik işçileri, ödenmeyen alacakları için Ankara'ya yürüyüş başlattı.
+- Üçüncü gününde süren yürüyüşte ücret ve toplu sözleşme alacakları istendi.
+- Yayında, ağır çalışma koşulları ve kazalar nedeniyle devlet denetiminin artırılması istendi.
+- Kapıkule ve Hamzabeyli'deki TIR şoförleri, Schengen vizesi sorunları nedeniyle eylem yaptı.
+- Avrupa'ya yük taşıyan şoförler, sınır kapılarındaki uzun kuyruklara da tepki gösterdi.
+- Bir şoför, 30 kilometrelik kuyrukta park alanına dört günde ulaştığını anlattı.
+- Beklemeler, şoförlerin dinlenme düzenini bozarken teslimatları geciktiriyor ve Türkiye'nin ihracatını etkiliyor.
+- Vize sorununun çözümü için dış politika ve ticaret alanlarında adımlar istendi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Inan Demirel](https://www.youtube.com/watch?v=p9lXaaOWjE4&t=170s) (⏱️ 02:50-04:38)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=0HZrEe1lkZQ&t=1280s) (⏱️ 21:20-26:00)
-
----
-
-## 10. İsrail’de hükümetin anahtarı Arap partilerinde
-
-- İsrail seçimlerinde Netanyahu ve muhalefet oy kaybederken hükümet belirsizliği oluştu.
-- Netanyahu’nun partisi 23 sandalye kazanırken ittifak bloğu toplamda 53’e ulaştı.
-- Muhalefet bloğu parlamentoda 48 sandalye elde ederek çoğunluğun gerisinde kaldı.
-- Hükümet kurabilmek için parlamentoda en az 61 sandalyeye ulaşılması gerekiyor.
-- Arap partileri toplam 19 sandalyeyle hükümet kurma sürecinde kilit konuma geldi.
-- Üç Arap partisinden ikisinin birlikte blok halinde hareket ettiği belirtildi.
-- Arap milletvekilleri İsrail parlamentosundaki toplam sandalyelerin yaklaşık altıda birini oluşturuyor.
-- Netanyahu’nun yeterli sandalyeye ulaşamamasına rağmen yeniden hükümet kurma ihtimali sürüyor.
-- Netanyahu gerekli desteği bulamazsa İsrail’in yeniden seçime gidebileceği değerlendiriliyor.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Murat Yetkin](https://www.youtube.com/watch?v=9jpmZHfrsDM&t=178s) (⏱️ 02:58-03:44)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=xsSfzTuLEj0&t=2926s) (⏱️ 48:46-50:07)
+- [Unsal Unlu](https://www.youtube.com/watch?v=R4KqSG1aZOs&t=371s) (⏱️ 06:11-09:05)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=eSs_keqUpFQ&t=1244s) (⏱️ 20:44-22:22)
 
 ---
 
