@@ -1,128 +1,126 @@
 # Bugün Ne Oldu?
 
-*31 October 2026 tarihli günlük haber raporu - 6 haber birleştirildi*
+*1 November 2026 tarihli günlük haber raporu - 6 haber birleştirildi*
 
-## 1. Fon Krizinde Ara Ödemeler ve Soruşturma Tartışması
+## 1. Fon Soruşturması Finans Yönetimine Uzandı
 
-- Atlas, Pusula ve Tera'nın yedi fonunda ara ödemeler başladı.
-- 235.705 yatırımcı için toplam 29,3 milyar liralık ödeme açıklandı.
-- Bir milyon liralık üst sınır, herkese aynı ödemeyi garanti etmiyor.
-- Yatırımcılar düşük ödemeler nedeniyle şeffaf hesaplama ve ödeme takvimi istiyor.
-- Fonlarda kalan kaynakların yatırımcıların zararlarını karşılayıp karşılamayacağı henüz bilinmiyor.
-- Türkiye Sigorta yöneticileri Taha Çakmak ve Gürol Sami Özer tutuklandı.
-- Türkiye Sigorta'nın yatırım risklerine ayırdığı toplam karşılık 16,339 milyar lira.
-- BDDK, Savcı Sayan'ın Kavcıoğlu hakkındaki iddialarını reddederek hukuki süreç duyurdu.
-- Soruşturmadaki mal varlığı tedbirlerinin kaldırılma gerekçeleri hakkında açıklama bekleniyor.
-- Borsadaki şüpheli işlemlerin ve kamu görevlileriyle bağlantıların araştırılması isteniyor.
+- Borsa İstanbul Genel Müdürü Korkmaz Enes Ergun, soruşturma kapsamında gözaltına alındı.
+- Ergun’a suç örgütü üyeliği ve rüşvet suçlamaları yöneltildiği açıklandı.
+- Soruşturmada yaklaşık 120 kişinin tutuklu olduğu, örgütün kapsamının açıklanmadığı aktarıldı.
+- SPK başkanlığına 1 Kasım’da Muhsin Atçı atanırken, yönetim değişiklikleri yapıldı.
+- Tasfiye süreçlerinde yaklaşık 299 bin yatırımcıya 97,3 milyar lira ödendiği açıklandı.
+- Mağdurlar, beklenenin altındaki ödemelere tepki göstererek hesaplamalarda şeffaflık talep etti.
+- Savcı Sayan, Kavcıoğlu’na 20 milyar liralık kaynak istendiği iddiasını sordu.
+- BDDK iddiaları asılsız olarak niteledi ve hukuki süreç başlatacağını duyurdu.
+- Taha Çakmak’ın avukatı, Türkiye Sigorta kaynaklarıyla bağlantılı rüşvet iddialarının kanıtlanmadığını savundu.
+- Kurumlar arasındaki yönetici bağlantıları tartışılırken, Meclis araştırması yapılması çağrısı yapıldı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=NNzrq0NKs90&t=718s) (⏱️ 11:58-17:41)
-- [Inan Demirel](https://www.youtube.com/watch?v=q23EAYh329o&t=718s) (⏱️ 11:58-16:15)
-- [Serdar Akinan](https://www.youtube.com/watch?v=RCfVoH4p9qw) (⏱️ 00:00-13:44)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=qph4CsIbPs4&t=31s) (⏱️ 00:31-11:05)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=Rnh4nxeiVa8&t=1203s) (⏱️ 20:03-21:24)
-- [Hilal Koylu](https://www.youtube.com/watch?v=6XrJ3s4GLbk&t=23s) (⏱️ 00:23-05:23)
+- [Serdar Akinan](https://www.youtube.com/watch?v=FK1xGTY1_uA&t=1381s) (⏱️ 23:01-31:01)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=iS74uuOfM0w&t=240s) (⏱️ 04:00-06:00)
+- [Hilal Koylu](https://www.youtube.com/watch?v=N0qJsMsaUZg&t=266s) (⏱️ 04:26-06:29)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=gs5QjjVPkIQ&t=357s) (⏱️ 05:57-33:03)
+- [Murat Yetkin](https://www.youtube.com/watch?v=1GUD2pEF2SQ&t=20s) (⏱️ 00:20-08:57)
+- [Inan Demirel](https://www.youtube.com/watch?v=4hqYbcGG-7M&t=1125s) (⏱️ 18:45-26:45)
 
 ---
 
-## 2. Türkiye ile Azerbaycan Arasında Zirve Gerilimi
+## 2. Osman Kavala’dan Cezaevindeki Dokuzuncu Yılında Mektup
 
-- İlham Aliyev, Erdoğan’ın davetine rağmen Ankara’daki Türk Devletleri Teşkilatı zirvesine katılmadı.
-- Bakü, yoğun programı gerekçe göstererek zirveye Dışişleri Bakanı Ceyhun Bayramov’u gönderdi.
-- Azerbaycan’daki okullarda başörtüsü kısıtlamaları ve bazı gözaltılar, Türkiye’de çeşitli tepkilere yol açtı.
-- Aliyev’e yakın medya, Türkiye’den gelen eleştirileri Azerbaycan’ın iç işlerine müdahale saydı.
-- Aliyev’in kararında, Erdoğan’ın önceki Bakü toplantısına katılmamasının etkili olduğu öne sürüldü.
-- Bakü’nün Ankara’dan eleştiriler hakkında soruşturma ve dezenformasyonla mücadele istediği iddia edildi.
-- Yorumcular, gerilimin arkasında İsrail, Kıbrıs ve Karabağ konularındaki anlaşmazlıkları da gösterdi.
-- Aydın Sezer, ilişkilerin düzelmesi için iki ülkenin eşit ortaklığını gerekli gördü.
-- Siyasi anlaşmazlıklara rağmen güçlü askeri, ekonomik ve enerji ilişkilerinin sürdüğü belirtildi.
-- Azerbaycan’ın BM adaylığında Birleşik Arap Emirlikleri’ni desteklediği iddiaları henüz doğrulanmadı.
+- Osman Kavala, cezaevindeki dokuzuncu yılına girerken kamuoyuna bir mektup yayımladı.
+- 2017’den beri tutuklu olan Kavala, cezaevine 60 yaşında girmişti.
+- Kavala, ilk tutuklandığında hatanın kısa sürede düzeltileceğini düşündüğünü belirtti.
+- Gezi davasındaki beraate ve AİHM kararlarına rağmen serbest bırakılmadığını vurguladı.
+- Kendisine yöneltilen suçlamaların delilsiz olduğunu ve ağır cezalar aldığını savundu.
+- Sivil toplumda çalışabileceği sağlıklı yıllarının önemli bölümünü cezaevinde geçirdiğini söyledi.
+- Türkiye’de hukuk devletinin kurulacağına dair umudunu hâlâ koruduğunu ifade etti.
+- Yaşadığı adaletsizlikten ders çıkarılmasının kendisi için teselli olacağını belirtti.
+- Ruşen Çakır, Kavala’nın sivil toplum ve Anadolu Kültür faaliyetleri nedeniyle cezalandırıldığını savundu.
+- Çakır, muhalefetin ve yakın çevresinin davaya yeterince sahip çıkmadığını söyledi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=NNzrq0NKs90&t=2434s) (⏱️ 40:34-45:47)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=Rnh4nxeiVa8&t=2605s) (⏱️ 43:25-46:40)
-- [Rusen Cakir](https://www.youtube.com/watch?v=hRj1nF4tXg0&t=185s) (⏱️ 03:05-15:08)
-- [Inan Demirel](https://www.youtube.com/watch?v=UdKc2MmSWxU&t=7s) (⏱️ 00:07-24:03)
-- [Serdar Akinan](https://www.youtube.com/watch?v=RCfVoH4p9qw&t=1693s) (⏱️ 28:13-30:40)
+- [Inan Demirel](https://www.youtube.com/watch?v=4hqYbcGG-7M&t=2175s) (⏱️ 36:15-39:49)
+- [Rusen Cakir](https://www.youtube.com/watch?v=Yw4oSD2wxRI&t=18s) (⏱️ 00:18-09:42)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=L6uiGKidoJQ) (⏱️ 00:00-48:38)
 
 ---
 
-## 3. Muhalefette İstifalar ve Parti Değişikliği Tartışmaları
+## 3. Türkiye-Azerbaycan İlişkilerinde Gerilim ve Destek Tartışması
 
-- Ertuğrul Kaya, Ali Babacan’la görüşmesinin ardından DEVA Partisi’nden istifa etti.
-- Kaya’nın AK Parti’ye katılabileceği öne sürülürken, DEVA’da yedi milletvekili kaldığı aktarıldı.
-- Mustafa Sarıgül, hakkındaki iddialara yanıt vererek Yeni Parti’den ayrıldığını açıkladı.
-- Tutuklu bazı CHP’li belediye başkanlarının gelecek hafta Yeni Parti’ye katılacağı bildirildi.
-- Özgür Özel, Mansur Yavaş’ın bakanlık görüşmesinin belediye projeleriyle ilgili olduğunu söyledi.
-- Cemil Tugay’ın bakanlarla görüşmeleri sonrasındaki parti değiştirme iddiaları da doğrulanmadı.
-- Ahmet Özer’in tutuklanmasıyla kayyum atanan Esenyurt’ta, Özer görevine iade edilmedi.
-- Sinem Dedetaş’ın tahliye sonrasında görevine dönüşü ve siyasi tercihi belirsizliğini koruyor.
-- İmamoğlu ve diğer başkanların tutuklanması, CHP’ye siyasi baskı tartışmalarını büyüttü.
-- Milletvekili geçişlerinin Meclis çoğunluğunu ve anayasa değişikliği hesaplarını etkileyebileceği değerlendiriliyor.
+- Türkiye ile Azerbaycan arasında başörtüsü tartışmasıyla gerilimin arttığı aktarılıyor.
+- Aliyev, TikTok paylaşımında Azerbaycan halkına hakaret edilemeyeceğini belirten ifadeler kullandı.
+- Paylaşımda tehditlere karşılık verileceği vurgulandı, ancak hedef açıkça belirtilmedi.
+- Sözlerin Türkiye’ye yönelik olabileceği yorumları yapıldı, enerji ve ekonomi bağlantıları tartışıldı.
+- Aliyev, Ankara’daki Türk Devletleri Teşkilatı zirvesine katılmayarak dikkat çekti.
+- Erdoğan’ın Bakü’deki etkinliğe katılımına ilişkin belirsizliğin devam ettiği aktarıldı.
+- Türkiye’nin BM Genel Sekreterliği adayı Feridun Sinirlioğlu için Azerbaycan’dan destek bekleniyor.
+- Azerbaycan, Birleşik Arap Emirlikleri’nin aynı görev için adayını olumlu karşıladı.
+- Bakü, Sinirlioğlu’nun başvurusu yapıldıktan sonra aday hakkındaki tutumunu açıklayacağını belirtti.
+- Adaylara ilişkin açıklamalar ve Azerbaycan’daki bazı yayınlar destek tartışması yarattı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilal Koylu](https://www.youtube.com/watch?v=6XrJ3s4GLbk&t=983s) (⏱️ 16:23-17:58)
-- [Inan Demirel](https://www.youtube.com/watch?v=q23EAYh329o&t=3327s) (⏱️ 55:27-57:50)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=Rnh4nxeiVa8&t=1130s) (⏱️ 18:50-20:03)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=NNzrq0NKs90&t=1117s) (⏱️ 18:37-21:11)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=iS74uuOfM0w&t=1655s) (⏱️ 27:35-30:40)
+- [Inan Demirel](https://www.youtube.com/watch?v=4hqYbcGG-7M&t=1653s) (⏱️ 27:33-30:30)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=gs5QjjVPkIQ&t=2152s) (⏱️ 35:52-39:12)
 
 ---
 
-## 4. Dervişoğlu’nun Bahçeli’ye Eşlik Etmesi Partide Tartışma Yarattı
+## 4. Kamu Politikalarına Yönelik Eleştiriler Gündemde
 
-- Müsavat Dervişoğlu’nun 29 Ekim’de Anıtkabir’de Bahçeli’nin koluna girmesi tartışma yarattı.
-- İYİ Parti kaynakları, Dervişoğlu’nun merdivenlerde sendeleyen Bahçeli’ye yardım ettiğini aktardı.
-- Dervişoğlu, davranışını insani ve bilinçli bir siyasi tercih olarak savundu.
-- Dervişoğlu, siyasi mücadelesinden ve karakterinden hiçbir şekilde taviz vermeyeceğini söyledi.
-- Erhan Usta, Bahçeli’nin yanında bulunmanın tercih olduğunu belirterek davranışı eleştirdi.
-- Dervişoğlu, Usta’yı aradığını ve eleştirel sözlerini düzeltmesini umduğunu açıkladı.
-- Usta, eleştirisinden geri adım atmayacağını ve İYİ Parti’de kalacağını açıkladı.
-- Bazı İYİ Partililer, Dervişoğlu’nun davranışını nezaket ve insanlık örneği olarak değerlendirdi.
-- Lütfü Türkkan, Bahçeli’ye siyasi muhalefetlerinin kişisel düşmanlık anlamına gelmediğini söyledi.
-- Yorumcular, görüntülerin sert siyasi söylemlerle çeliştiğini ve kutuplaşmayı yansıttığını savundu.
+- Ocakta emeklilere yüzde 10, memurlara yüzde 8 zam yapılabileceği öngörülüyor.
+- Emekliliğin sosyal yardım değil, primlerle kazanılmış bir hak olduğu vurgulanıyor.
+- En düşük aylık için asgari ücret, hane geliri, hesaplama, bütçe seçenekleri tartışılıyor.
+- Zeyrek, en düşük aylığın 30 bine yükselmesinin enflasyonla çelişebileceğini söylüyor.
+- Sayan Kaya’nın 60, İBB kurumlarının iki kişiyi özel kalemden memurlaştırdığı öne sürülüyor.
+- Seçilmiş belediye başkanlarının tutuklanması, temsil hakkı ve demokrasi açısından eleştiriliyor.
+- Atalay ve Kahraman hakkındaki Anayasa Mahkemesi kararlarının uygulanmadığı ifade ediliyor.
+- Akademisyenlerle ilgili Danıştay kararlarının uygulanmamasının yeni anayasa güvenini zedelediği savunuluyor.
+- Almanya’daki Türk öğrenci sayısının dört, Birleşik Krallık’takinin ikiye katlandığı aktarılıyor.
+- Öğrenci başına harcamaların düştüğü, üniversite mezunlarında işsizliğin yüzde 10,6 olduğu aktarılıyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilal Koylu](https://www.youtube.com/watch?v=6XrJ3s4GLbk&t=783s) (⏱️ 13:03-16:17)
-- [Rusen Cakir](https://www.youtube.com/watch?v=hRj1nF4tXg0&t=32s) (⏱️ 00:32-03:02)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=Rnh4nxeiVa8&t=820s) (⏱️ 13:40-18:50)
-- [Inan Demirel](https://www.youtube.com/watch?v=q23EAYh329o&t=68s) (⏱️ 01:08-05:55)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=gs5QjjVPkIQ&t=1986s) (⏱️ 33:06-35:36)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=iS74uuOfM0w&t=1840s) (⏱️ 30:40-34:40)
 
 ---
 
-## 5. Açlık Sınırı 38 Bin Lirayı Aştı
+## 5. Muhsin Atçı SPK Başkanlığına Atandı
 
-- Dört kişilik aile için açlık sınırı 38 bin 24 liraya yükseldi.
-- Yoksulluk sınırının da 123 bin lirayı aştığı haberlerde açıklandı.
-- Net asgari ücretin 28 bin 75 lira olduğu belirtildi.
-- En düşük emekli aylığının 23 bin 552 lira olduğu aktarıldı.
-- Asgari ücret ve en düşük emekli aylığı açlık sınırının altında kaldı.
-- Bu rakamlar, hanelerin temel ihtiyaçlarını karşılamasının giderek zorlaştığına işaret ediyor.
-- Inan Demirel, ücret ve aylık artışlarını seçim dönemindeki ekonomik politikalarla ilişkilendirdi.
+- Cumhurbaşkanı Recep Tayyip Erdoğan, Muhsin Atçı’yı SPK başkanlığına atadı.
+- Atçı, atama öncesinde Vergi Denetim Kurulu Başkanı olarak görev yapıyordu.
+- SPK yönetimindeki yeni atamalara ilişkin karar, Resmî Gazete’de yayımlandı.
+- Ersin Başar Ekmekçi, aynı kararla SPK başkan vekilliği görevine getirildi.
+- Yasemin Gireci ise aynı kararla SPK kurul üyeliği görevine atandı.
+- Eski başkan Mahmut Sütçü’nün de Erdoğan tarafından atandığı programda hatırlatıldı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilal Koylu](https://www.youtube.com/watch?v=6XrJ3s4GLbk&t=1183s) (⏱️ 19:43-20:06)
-- [Inan Demirel](https://www.youtube.com/watch?v=q23EAYh329o&t=1695s) (⏱️ 28:15-29:49)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=iS74uuOfM0w&t=1555s) (⏱️ 25:55-26:30)
+- [Inan Demirel](https://www.youtube.com/watch?v=4hqYbcGG-7M&t=218s) (⏱️ 03:38-06:04)
 
 ---
 
-## 6. İBB ve İsmail Arı Davalarında Takvim
+## 6. Serkan Öz ve İsveçli Gazeteciye Gözaltı
 
-- İBB davasının üçüncü duruşma süreci 2 Kasım tarihinde başlayacak.
-- Bu duruşma sürecinde gizli tanıkların mahkemede ifade vermesi bekleniyor.
-- Gazeteci İsmail Arı hakkında yürütülen soruşturma kapsamında iddianame hazırlandı.
-- Arı, “halkı yanıltıcı bilgiyi alenen yaymak” suçlamasıyla hâkim karşısına çıkacak.
-- Arı'nın yargılanacağı davanın ilk duruşması 19 Kasım tarihinde yapılacak.
-- Mahkeme, Arı'nın tutukluluk durumunu inceledi ancak tahliye kararı vermedi.
+- YouTube’da Erlik kanalının Akın Gündüz hakkındaki videosuna erişim engeli getirildi.
+- Cumhuriyetçi Vatanseverler Partisi Genel Başkanı Serkan Öz Ankara’da gözaltına alındı.
+- Eray Çelebi, gözaltının Öz’ün Erlik’le irtibatlı olduğu iddiasına dayandığını öne sürdü.
+- Savcılık, gözaltı gerekçesi ve Öz’ün soruşturmayla bağlantısı hakkında henüz açıklama yapmadı.
+- Nedim Şener, Erlik’i Almanya’da yaşayan Fatih Yılmaz’ın yönettiğini iddia etmişti.
+- Şener ayrıca, Erlik kanalının FETÖ ile bağlantılı olduğunu öne sürmüştü.
+- 19 Mart operasyonlarını izleyen İsveçli gazetecinin gözaltına alınarak sınır dışı edildiği aktarıldı.
+- Gazetecinin çalıştığı kuruluşun, Securitas’ın Türkiye’deki cezaevi yönetimiyle ilişkilerini araştırdığı belirtildi.
+- Araştırmanın Ceza ve Tevkifevleri Genel Müdürlüğüyle ilgili ihaleleri kapsadığı belirtildi.
+- Hilmi Hacaloğlu, basın kuruluşlarının çalışanlarına ve muhabirlerine sahip çıkmasını önemli buldu.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=NNzrq0NKs90&t=1289s) (⏱️ 21:29-21:44)
-- [Inan Demirel](https://www.youtube.com/watch?v=q23EAYh329o&t=3470s) (⏱️ 57:50-59:12)
+- [Inan Demirel](https://www.youtube.com/watch?v=4hqYbcGG-7M&t=40s) (⏱️ 00:40-03:38)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=gs5QjjVPkIQ&t=267s) (⏱️ 04:27-05:11)
 
 ---
 
