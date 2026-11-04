@@ -1,233 +1,146 @@
 # Bugün Ne Oldu?
 
-*3 November 2026 tarihli günlük haber raporu - 10 haber birleştirildi*
+*4 November 2026 tarihli günlük haber raporu - 6 haber birleştirildi*
 
-## 1. Fon Soruşturması Genişliyor, İadelerde Şeffaflık İsteniyor
+## 1. Fon Soruşturmasında Örgütlü Yapı ve Şeffaflık Tartışması
 
-- Akın Gürlek, fon soruşturmasında örgütlü suç yapılanması belirlendiğini açıkladı.
-- Eski SPK yöneticileri ve BDDK bürokratlarının bulunduğu altı kişi gözaltına alındı.
-- Borsa İstanbul Genel Müdürü tutuklandı, Takasbank Genel Müdürü istifa etti.
-- 30 Ekim'e kadar 37 kişinin 18,34 milyar lira iade ettiği açıklandı.
-- Gürlek, para, taşınmaz ve hisselerle iadelerin 30 milyar liraya ulaştığını söyledi.
-- Kurul, 178.537 yatırımcıya nakit ve varlıklarla 76 milyar lira ödendiğini duyurdu.
-- Ancak bazı mağdurlar, anaparalarını alamadıklarını ve ödemelerin yetersiz kaldığını belirtti.
-- İade yapanların ve kriz öncesinde para çekenlerin listesinin açıklanması istendi.
-- Muhalefet, siyasi bağlantıların araştırılmasını ve Meclis araştırma komisyonu kurulmasını istedi.
-- Babacan, borsadaki şirketlerin toplam değerinin 173 milyar dolar azaldığını söyledi.
+- Adalet Bakanı Akın Gürlek, fon soruşturmasında örgütlü suç yapılanması belirlendiğini açıkladı.
+- Gürlek, finans bürokrasisi, denetim kurumları ve medya arasında bağlantılar bulunduğunu savundu.
+- Gürlek'e göre 433 şüpheliden 112'si tutuklu, 186'sı adli kontrolde, 38'i firari.
+- 359 kişinin ve 111 şirketin mal varlıklarıyla banka hesaplarına bloke konuldu.
+- Gürlek, 30 milyar liranın gönüllü olarak TMSF'ye iade edildiğini açıkladı.
+- İletişim Başkanlığı, 247 bin 839 yatırımcıya 97,3 milyar lira ödendiğini bildirdi.
+- Yayınlarda örgüt liderinin, siyasi bağlantıların ve yararlanan kişilerin açıklanması istendi.
+- Yeni Şafak açıklamaları geniş yayımlarken Sabah'ın habere yer vermediği aktarıldı.
+- Bayındır, dinî uygunluk belgelerinin fonların fiilî işlemlerini denetlemediğini söyledi.
+- Mağdurlar, ana para hesabına itiraz ederek ödeme koşullarının açıklanmasını istedi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=0e5QOgP8YGY&t=2471s) (⏱️ 41:11-43:49)
-- [Unsal Unlu](https://www.youtube.com/watch?v=KshHiHtW1pM&t=357s) (⏱️ 05:57-16:09)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=59kfNPN16HE&t=1800s) (⏱️ 30:00-34:14)
-- [Hilal Koylu](https://www.youtube.com/watch?v=x9n2XxeZxeQ&t=1440s) (⏱️ 24:00-27:32)
-- [Rusen Cakir](https://www.youtube.com/watch?v=zjajjp9bj_I&t=30s) (⏱️ 00:30-22:48)
-- [Inan Demirel](https://www.youtube.com/watch?v=z2wrIK_p1Ok&t=56s) (⏱️ 00:56-05:56)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=Hh1xK8r4X_4&t=43s) (⏱️ 00:43-23:25)
-- [Onlar TV](https://www.youtube.com/watch?v=PJsACrVXmVE&t=637s) (⏱️ 10:37-67:10)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=UxFUQXM5LJg&t=640s) (⏱️ 10:40-35:29)
-- [Serdar Akinan](https://www.youtube.com/watch?v=gBDs6kPNy-Q&t=576s) (⏱️ 09:36-14:54)
+- [Unsal Unlu](https://www.youtube.com/watch?v=-S_v0A8kdtY&t=358s) (⏱️ 05:58-26:40)
+- [Onlar TV](https://www.youtube.com/watch?v=25nTfXHh3iw&t=2274s) (⏱️ 37:54-45:42)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=7ooUbsP6rlE&t=76s) (⏱️ 01:16-07:35)
+- [Murat Yetkin](https://www.youtube.com/watch?v=6-Otiwj2ugY&t=2s) (⏱️ 00:02-15:38)
+- [Cigdem Toker](https://www.youtube.com/watch?v=A9J7vIuQsWo&t=79s) (⏱️ 01:19-05:53)
+- [Hilal Koylu](https://www.youtube.com/watch?v=z3cxIGahn8s&t=1942s) (⏱️ 32:22-34:28)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=X54-97TbC7g&t=2489s) (⏱️ 41:29-42:18)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=YIGTh0XIsuc&t=58s) (⏱️ 00:58-04:20)
+- [Rusen Cakir](https://www.youtube.com/watch?v=UEL9jqFptgI&t=103s) (⏱️ 01:43-13:29)
+- [Serdar Akinan](https://www.youtube.com/watch?v=c43Di3_bFPU&t=1243s) (⏱️ 20:43-22:57)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=nRmzaM-HZaw&t=7437s) (⏱️ 123:57-125:03)
 
 ---
 
-## 2. Ekim Enflasyonu Geçim Yükünü Artırıyor
+## 2. ABD ara seçimlerinde Demokratlar Trump’ı geriletti
 
-- TÜİK, ekim enflasyonunu aylık yüzde 2,58, yıllık yüzde 29,77 açıkladı.
-- Yıllık enflasyon ENAG’a göre yüzde 45,12, İTO’ya göre yüzde 32,47 oldu.
-- TÜİK’in izlediği 174 harcama grubunun 134’ünde fiyat artışı kaydedildi.
-- Konut ve enerji giderleri, yıllık fiyat artışlarında ilk sırada yer aldı.
-- Kasım ayında konut kiralarında uygulanabilecek artış oranı yüzde 31,23 oldu.
-- DİSK-AR’a göre asgari ücretin alım gücü kaybı 7.726 liraya ulaştı.
-- Yorumcular, resmî enflasyon oranlarının pazardaki fiyat artışlarını yansıtmadığını savundu.
-- 2027 için vergi, harç ve cezalarda yeniden değerleme oranı yüzde 27,83 açıklandı.
-- Telefon kayıt harcının yaklaşık 69 bin 358 liraya çıkması bekleniyor.
-- Cumhurbaşkanı’nın yetkileri nedeniyle bazı nihai tutarlar yılbaşına kadar değişebilir.
+- Resmî olmayan sonuçlara göre Demokratlar, Kongre’nin iki kanadında çoğunluğu kazandı.
+- Yorumcular, İran savaşı ve hayat pahalılığını Cumhuriyetçilerin kayıplarıyla ilişkilendirdi.
+- Sert göçmen politikalarının Trump’a yönelik seçmen tepkisini artırdığı değerlendirildi.
+- Teksas’ta James Talarico’nun kazanması ve farklı kimliklerden adayların seçilmesi öne çıktı.
+- Demokratların çoğunluğu, Trump’ın yasalarını, bütçelerini ve atamalarını geçirmesini zorlaştırabilir.
+- Epstein dosyası dahil soruşturmalar gündeme gelebilir, ancak görevden alınma zor görülüyor.
+- Trump, yenilgiden sorumlu olmadığını savunarak kendisi yarışsaydı kazanacağını söyledi.
+- Türkiye’nin F-35 programına dönüşünün Kongre’de daha fazla engelle karşılaşabileceği değerlendirildi.
+- Yorumcular, seçimlerin Türkiye-ABD ilişkilerini kendiliğinden kötüleştirmeyeceğini, mevcut anlaşmazlıkların belirleyiciliğini vurguladı.
+- İran’a nükleer saldırı iddiaları doğrulanmazken, yorumcular bu olasılığı düşük gördü.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=0e5QOgP8YGY&t=147s) (⏱️ 02:27-07:46)
-- [Inan Demirel](https://www.youtube.com/watch?v=z2wrIK_p1Ok&t=2610s) (⏱️ 43:30-46:22)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=Hh1xK8r4X_4&t=309s) (⏱️ 05:09-07:10)
-- [Hilal Koylu](https://www.youtube.com/watch?v=x9n2XxeZxeQ&t=1154s) (⏱️ 19:14-20:34)
-- [Unsal Unlu](https://www.youtube.com/watch?v=KshHiHtW1pM&t=1060s) (⏱️ 17:40-18:22)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=59kfNPN16HE&t=31s) (⏱️ 00:31-01:59)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=-S_OYqVq0ds) (⏱️ 00:00-05:13)
+- [Cigdem Toker](https://www.youtube.com/watch?v=A9J7vIuQsWo&t=8s) (⏱️ 00:08-01:19)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=X54-97TbC7g&t=45s) (⏱️ 00:45-11:58)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=kyguuHDE6a0&t=113s) (⏱️ 01:53-09:22)
+- [Murat Yetkin](https://www.youtube.com/watch?v=LwkdzX7Ijew&t=5s) (⏱️ 00:05-14:00)
+- [Hilal Koylu](https://www.youtube.com/watch?v=z3cxIGahn8s&t=25s) (⏱️ 00:25-30:36)
+- [Unsal Unlu](https://www.youtube.com/watch?v=-S_v0A8kdtY&t=79s) (⏱️ 01:19-05:57)
+- [Serdar Akinan](https://www.youtube.com/watch?v=c43Di3_bFPU) (⏱️ 00:00-04:46)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=7ooUbsP6rlE&t=3016s) (⏱️ 50:16-51:09)
+- [Onlar TV](https://www.youtube.com/watch?v=25nTfXHh3iw&t=3291s) (⏱️ 54:51-55:07)
 
 ---
 
-## 3. ABD Ara Seçimleri ve Trump’ın Geleceği
+## 3. Kayyum Uygulamaları ve Barış Süreci Tartışılıyor
 
-- ABD’de 3 Kasım ara seçimlerinde Kongre’nin yeni siyasi dengesi belirlenecek.
-- Temsilciler Meclisi’nin tamamı ve Senato’nun üçte biri için seçim yapılacak.
-- Anketler Temsilciler Meclisi’nde Demokratları önde gösterirken Senato yarışı çekişmeli görünüyor.
-- Demokratların güçlenmesi Trump’ın yasalar, bütçe ve atamalarda uzlaşmasını gerektirebilir.
-- Sonuçlar Türkiye’yle ilişkilerde F-35, S-400 ve KAAN motorları konularını etkileyebilir.
-- Trump-Erdoğan yakınlığının Kongre’nin Türkiye’ye yönelik tutumunu değiştirmeye yetmeyebileceği değerlendiriliyor.
-- Kaliforniya Valisi’nin Trump’ın oy pusulalarına el koyabileceği iddiası kaygı yarattı.
-- Carlson’ın Netanyahu’nun İran’a nükleer saldırı baskısı yaptığı iddiası doğrulanmış değil.
-- Olası nükleer saldırının bölgesel serpinti ve küresel gerilim yaratabileceği belirtiliyor.
-- Trump İran’la anlaşmak istediklerini söylerken Katar’ın arabuluculuk temasları sürüyor.
+- İçişleri Bakanlığının Ahmet Türk ve Ahmet Özer’in belediyelerindeki kayyumları sürdüreceği aktarıldı.
+- Mardin’de kayyum süresinin iki ay uzatıldığı, Türk’ün görevine dönemeyeceği belirtildi.
+- Bahçeli’nin dönüş çağrılarına rağmen iki siyasetçinin görevlerine iade edilmediği hatırlatıldı.
+- Tülay Hatimoğulları, siyasetçilerin yerinin mahkemeler değil halkın yanı olduğunu söyledi.
+- Demirtaş, çözüm sürecindeki bütün tarafları sorumluluklarını yerine getirmeye çağırdı.
+- Devletin demokratikleşmeyi, PKK’nın ise silahsızlanmayı hızlandırması gerektiğini özellikle vurguladı.
+- Yayınlarda sürecin ilerlemediği savunuldu, kayyum kararları bu çerçevede eleştirildi.
+- Demirtaş ve Yüksekdağ’ın tutukluluklarının on yılı doldurduğu belirtilerek tahliyeleri istendi.
+- Bahçeli’nin 100 il, 1000 ilçe önerisinin belediyelere etkisi tartışıldı.
+- Olası düzenlemelerin belediyelerin ekonomik bağımsızlığını azaltabileceği, yayınlarda siyasi öngörü olarak aktarıldı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=KshHiHtW1pM&t=1761s) (⏱️ 29:21-32:03)
-- [Inan Demirel](https://www.youtube.com/watch?v=nHdpKWXfj1M&t=2564s) (⏱️ 42:44-48:00)
-- [Onlar TV](https://www.youtube.com/watch?v=aBoGjC1oF4c&t=2808s) (⏱️ 46:48-48:11)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=59kfNPN16HE&t=2438s) (⏱️ 40:38-43:03)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=UxFUQXM5LJg&t=3022s) (⏱️ 50:22-57:00)
-- [Rusen Cakir](https://www.youtube.com/watch?v=zjajjp9bj_I&t=1899s) (⏱️ 31:39-37:44)
+- [Onlar TV](https://www.youtube.com/watch?v=25nTfXHh3iw&t=3250s) (⏱️ 54:10-54:50)
+- [Unsal Unlu](https://www.youtube.com/watch?v=9gg_M6etKCY&t=1708s) (⏱️ 28:28-31:15)
+- [Rusen Cakir](https://www.youtube.com/watch?v=UEL9jqFptgI&t=7s) (⏱️ 00:07-01:43)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=7ooUbsP6rlE&t=2013s) (⏱️ 33:33-36:04)
 
 ---
 
-## 4. İBB Meclisi’nde Parti Geçişleri ve İttifak
+## 4. İBB ve Diğer Davalarda Son Gelişmeler
 
-- Kent uzlaşısıyla CHP listelerinden seçilen bazı üyeler CHP'den ayrılma kararı aldı.
-- DEM Parti, bu belediye meclisi üyelerinin partiye katılma taleplerini kabul etti.
-- Üyelerin, kurultayın geçersizliği tartışmaları nedeniyle CHP'de kalmak istemediği aktarıldı.
-- DEM Parti, operasyonlara rağmen seçmen iradesine ve ortak hukuka bağlılığını vurguladı.
-- Sezai Temelli de açıklamasında kent uzlaşısına saygının devam edeceğini söyledi.
-- Yeniden İstanbul il başkanı seçilen Özgür Çelik, ittifakta sorun olmadığını belirtti.
-- Operasyonlar sonrasında Yeni Parti'ye yaklaşık 100-120 kişinin katılabileceği iddiası aktarıldı.
-- Olası ayrılıkların İBB Meclisi'ndeki mevcut ittifakı hemen bozmayacağı değerlendirmesi yapıldı.
-- İmamoğlu hakkındaki olası siyasi yasak kararının mecliste başkanlık seçimini gündeme getirebileceği belirtildi.
-- Yorumlarda, olası başkanlık seçiminde DEM Partililerin CHP adayını destekleyebileceği değerlendirildi.
+- İBB davasında Yeni Cebeci’deki hafriyat döküm sahasına ilişkin ifadeler değerlendirildi.
+- Bir tanık, kaçak döküm yapıldığını kamyonculardan duyduğunu ifade etti.
+- Mahkeme başkanı, tanığın duyuma dayalı anlatımını ve sanık açısından anlamını sorguladı.
+- Murat Kapki’nin suçlamalarında adı geçen Orhan Cevahiroğlu, ilgili kişileri tanımadığını söyledi.
+- Sunucu, beyanlardaki çelişkilerin tutukluluklar ve davalar açısından önemini vurguladı.
+- Dilovası’nda yedi işçinin öldüğü davada tutuklu sanık Ali Osman Akat tahliye edildi.
+- Görkem Doğan, denetimlerin yetersizliğini ve tahliyenin ailelerde yarattığı hayal kırıklığını vurguladı.
+- Ailelere sanık adına para teklif edildiği iddiası aktarılırken kamuoyu desteği istendi.
+- Ela Rumeysa Cebeci ve Saadettin Saran hakkında beraat kararı verildi.
+- Karar, uyuşturucu veya uyarıcı madde ticareti ve sağlama suçlamalarını kapsıyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=KshHiHtW1pM&t=1138s) (⏱️ 18:58-19:46)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=UxFUQXM5LJg&t=2828s) (⏱️ 47:08-50:19)
-- [Inan Demirel](https://www.youtube.com/watch?v=nHdpKWXfj1M&t=2050s) (⏱️ 34:10-39:35)
-- [Hilal Koylu](https://www.youtube.com/watch?v=x9n2XxeZxeQ&t=2233s) (⏱️ 37:13-37:35)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=59kfNPN16HE&t=2055s) (⏱️ 34:15-36:32)
+- [Onlar TV](https://www.youtube.com/watch?v=25nTfXHh3iw&t=3199s) (⏱️ 53:19-54:08)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=l0v6v5-UW9U&t=3821s) (⏱️ 63:41-65:34)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=nRmzaM-HZaw&t=416s) (⏱️ 06:56-11:00)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=X54-97TbC7g&t=4913s) (⏱️ 81:53-82:43)
 
 ---
 
-## 5. Yoksulluk ve Servet Eşitsizliği Tartışılıyor
+## 5. ABD Seçimlerinde İlerici Adaylar Öne Çıkıyor
 
-- Baş, dünyada servetin yüzde 75’inin en zengin yüzde 10’da toplandığını söyledi.
-- Türkiye’de en zengin yüzde 1’in servetteki payını yüzde 35’in üzerinde açıkladı.
-- Baş, Türkiye nüfusunun yarısının servetten yalnızca yüzde 2,5 pay aldığını söyledi.
-- TİP mahalle örgütlenmesini artırırken, ittifaklar konusunda iktidarın olası düzenlemelerini bekleyecek.
-- Bir hoca, vaazında yolsuzluğu eleştirerek emeklilerin ve yoksulların sıkıntılarını anlattı.
-- Selçuk Bayraktar’ın kolay ve ahlaksız zenginleşme eleştirisi, yorumlarda fon skandalıyla ilişkilendirildi.
-- Pazardaki 70 yaşındaki kadın, eşinin emekli maaşıyla geçinemediklerini söyledi.
-- Alışverişe 600 lira ayırabilen kadın, yaşamak istemediğini ve konuşmaktan korktuğunu anlattı.
-- Güldem Atabay, emeklilere vaat edilen zamlar için bütçe kaynağını yetersiz buldu.
-- Açlık sınırının altındaki aylıklar için kamu harcamalarının yeniden düzenlenmesi önerildi.
+- ABD seçimlerinde Müslüman, göçmen ve ilerici adayların yükselişi dikkat çekti.
+- El-Sayed'in zaferi bazı yayınlarda duyurulurken, diğerlerinde sayımın sürdüğü belirtildi.
+- Seçilmesi halinde el-Sayed, ABD Senatosunun ilk Müslüman üyesi olacak.
+- El-Sayed'in kampanyasında sağlık hizmetleri, hayat pahalılığı ve kiralar öne çıktı.
+- El-Sayed, şirket bağışlarını reddederek kampanyasını küçük bağışlarla yürüttüğünü söyledi.
+- Michigan'da Müslüman seçmenlerin ve İsrail politikalarına itirazların etkili olduğu değerlendirildi.
+- Filistin aktivisti göçmen Melat Kiros'un Kongre'nin genç üyelerinden olduğu aktarıldı.
+- Teksas'ta James Talarico, ekonomik sorunları ve milyarderlerin siyasi etkisini vurguladı.
+- Hasan Piker'in Gazze ve konut krizini işlediği seçim yayını ilgi gördü.
+- Bağımsız yayıncıların genç seçmenlere erişimde geleneksel medyaya karşı güçlendiği değerlendirildi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=UxFUQXM5LJg&t=3791s) (⏱️ 63:11-66:35)
-- [Serdar Akinan](https://www.youtube.com/watch?v=gBDs6kPNy-Q&t=1010s) (⏱️ 16:50-18:43)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=z5O1jTsEufs&t=1211s) (⏱️ 20:11-22:24)
-- [Onlar TV](https://www.youtube.com/watch?v=aBoGjC1oF4c&t=306s) (⏱️ 05:06-08:34)
-- [Hilal Koylu](https://www.youtube.com/watch?v=x9n2XxeZxeQ&t=1234s) (⏱️ 20:34-24:00)
+- [Serdar Akinan](https://www.youtube.com/watch?v=c43Di3_bFPU&t=537s) (⏱️ 08:57-13:30)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=-S_OYqVq0ds&t=314s) (⏱️ 05:14-09:01)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=kyguuHDE6a0&t=4045s) (⏱️ 67:25-73:47)
 
 ---
 
-## 6. Şirketlerin Borç Krizi Sanayide Baskıyı Artırıyor
+## 6. Sırbistan'da Öğrenciler Adaylarını Bağlayıcı Taahhütnameyle Belirledi
 
-- Allianz Trade, Türkiye’de 2026’da iflasların yüzde 31 artarak 2.800’e ulaşmasını bekliyor.
-- Mustafa Zafer, ocak-ekim döneminde 1.656 borçluya geçici konkordato koruması verildiğini belirtti.
-- Hacizleri geçici durduran konkordatonun, tedarikçilerde zincirleme iflaslara yol açabileceği uyarısı yapıldı.
-- Ekimde 937.318 yeni icra dosyası açıldığı, toplamın 26,7 milyona ulaştığı belirtildi.
-- Eylülde karşılıksız çeklerin 270, protestolu senetlerin 12,5 milyar liraya ulaştığı aktarıldı.
-- Bireysel kredi kartlarında icralık alacakların 210 milyar lirayı aştığı belirtildi.
-- KOBİ’lerin banka borçlarının 7,8 trilyon liraya yaklaştığı, 269 bininin takibe düştüğü aktarıldı.
-- Krediye erişemeyen şirketlerin çıkardığı borçlanma senetlerine yatırımcı talebinin azaldığı belirtildi.
-- Sanayide daralmanın 31 aydır sürdüğü, yüksek finansman maliyetlerinin işletmeleri zorladığı aktarıldı.
-- Borsadaki şirketlerin toplam değerinin yaklaşık bir buçuk ayda 6,4 trilyon lira azaldığı belirtildi.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Ozlem Gurses](https://www.youtube.com/watch?v=0e5QOgP8YGY&t=1209s) (⏱️ 20:09-38:46)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=59kfNPN16HE&t=120s) (⏱️ 02:00-05:46)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=UxFUQXM5LJg&t=71s) (⏱️ 01:11-02:44)
-- [Unsal Unlu](https://www.youtube.com/watch?v=KshHiHtW1pM&t=2371s) (⏱️ 39:31-41:43)
-
----
-
-## 7. Ahmet Nazif Zorlu 82 yaşında hayatını kaybetti
-
-- Zorlu Holding Yönetim Kurulu Başkanı Ahmet Nazif Zorlu, 82 yaşında öldü.
-- Bir süredir kanser tedavisi gören Zorlu'nun cumartesi yoğun bakıma alındığı belirtildi.
-- Cenazesinin ertesi gün İstanbul'daki Levent Camii'nden kaldırılacağı ve defnedileceği bildirildi.
-- İş hayatında tekstille büyüyen Zorlu, elektronik ve enerji sektörlerinde faaliyet gösterdi.
-- Zorlu, 1993'te Vestel'i satın alarak elektronik sektöründeki yatırımlarını büyüttü.
-- Kurduğu Vestel City ile sanayi ve yenilik alanlarında çalışmalar yürüttü.
-- DenizBank'ı 1997'de özelleştirmeden satın alan Zorlu, bankayı 2006'da sattı.
-- Zorlu Center yatırımı ve inşaata yönelmenin Vestel'in mali durumuna etkisi tartışıldı.
-- Zorlu Holding'in son dönemde borçlarını yeniden yapılandırmaya çalıştığı da hatırlatıldı.
-- Çok sayıda kişiye istihdam sağlayan Zorlu'nun ailesine ve çalışanlarına başsağlığı dilendi.
+- Sırbistan'da üniversite öğrencileri iki yıl boyunca yolsuzluğa karşı mücadele etti.
+- İktidar değişikliği isteyen hareketin erken seçim sürecinde etkili olduğu belirtiliyor.
+- Öğrenciler kendileri aday olmak yerine aralarında belirledikleri isimleri destekledi.
+- Adayların yolsuzluğa karışmamış olması bağlayıcı taahhütnamenin temel şartları arasında.
+- Eski iktidar veya muhalefet yönetimlerinde görev alanların adaylığına karşı çıkılıyor.
+- Taahhütname adayların seçildikten sonra başka bir partiye geçmesini yasaklıyor.
+- Programa ve yükümlülüklerine uymayanların seçildikten sonra istifa etmiş sayılması öngörülüyor.
+- Milletvekilliği kişisel çıkar veya kariyer değil halka hesap verme sorumluluğuyla tanımlanıyor.
+- Hareket lider kültünü reddederek adayların parti liderlerince değil öğrencilerce belirlenmesini savunuyor.
+- Haberde desteklenen adaylardan 140'ının seçildiği ve parlamentoda çoğunluk sağlayabilecekleri belirtiliyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=Hh1xK8r4X_4&t=2991s) (⏱️ 49:51-51:34)
-- [Unsal Unlu](https://www.youtube.com/watch?v=KshHiHtW1pM&t=1214s) (⏱️ 20:14-20:26)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=UxFUQXM5LJg&t=3420s) (⏱️ 57:00-57:08)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=0e5QOgP8YGY&t=2353s) (⏱️ 39:13-40:52)
-
----
-
-## 8. Erdoğan’dan Türk dünyasına yakınlaşma mesajları
-
-- Erdoğan, Güney Kore ziyareti sırasında Azerbaycan hava sahasından geçerken mesaj iletti.
-- Aliyev’e iletilen mesajda Azerbaycan halkına selam ve iyi dilekler sunuldu.
-- Erdoğan, yaklaşan 8 Kasım Zafer Günü’nü kutlayarak işbirliğinin gelişmesini diledi.
-- Azerbaycan medyasında duyurulan mesaj, gerilimi azaltmaya yönelik diplomatik jest olarak değerlendirildi.
-- Bakü’de sosyal medya paylaşımlarına yönelik tepkilerin iki ülke arasında gerilim yarattığı belirtildi.
-- Erdoğan’ın davetine rağmen Aliyev’in Türk Devletleri Teşkilatı zirvesine katılmadığı hatırlatıldı.
-- Yorumlarda, mesajın gerilimi azaltabileceği ancak iki ülke arasındaki tansiyonun sürdüğü belirtildi.
-- İlişkilerin eşit ortaklık temelinde yeniden kurulması gerektiği yönünde görüş aktarıldı.
-- Kazakistan Cumhurbaşkanı Tokayev, Erdoğan’dan aldığı sıcak mesajdan duyduğu memnuniyeti dile getirdi.
-- Tokayev, karşılıklı Türkiye ve Kazakistan ziyaretlerinin yakın bağları doğruladığını söyledi.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=59kfNPN16HE&t=2193s) (⏱️ 36:33-37:47)
-- [Inan Demirel](https://www.youtube.com/watch?v=nHdpKWXfj1M&t=2880s) (⏱️ 48:00-50:32)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=UxFUQXM5LJg&t=3687s) (⏱️ 61:27-62:29)
-
----
-
-## 9. Yasa Dışı Faaliyetlerde Denetim Tartışması
-
-- Üretimi ve satışı yasak elektronik sigaraların Türkiye’ye kaçak getirildiği aktarılıyor.
-- Kaçak ürünlerin yaygın satışı ve restoranlardaki sigara dumanı, denetimleri sorgulatıyor.
-- Elektronik sigaraların Türkiye’de üretilip ihraç edilmesiyle gelir sağlanabileceği görüşü aktarılıyor.
-- Hukukçu İzzet Özgenç, sermaye piyasası suçlarındaki Yargıtay denetimi eksikliğini eleştirdi.
-- Özgenç, uygulamanın 20 Temmuz 2016’dan beri piyasa dolandırıcılığı mağdurlarını etkilediğini belirtti.
-- Hırsızlık ve dolandırıcılık Yargıtay denetimindeyken, piyasa dolandırıcılığının kapsam dışında kaldığını söyledi.
-- Bakanlık, sahte kanser ilacı üretimi ve satışı iddiasıyla operasyonlar düzenlendiğini açıkladı.
-- Onlarca ilde gerçekleştirilen operasyonlarda toplam 22 kişinin gözaltına alındığı bildirildi.
-- İlaçların son kullanma tarihlerinin değiştirilip sahte ambalajlarla piyasaya sürüldüğü belirtildi.
-- Yayında, konuyu önceden gündeme getiren gazeteci Murat Ağırel’in tutukluluğu hatırlatıldı.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Onlar TV](https://www.youtube.com/watch?v=PJsACrVXmVE&t=210s) (⏱️ 03:30-04:56)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=59kfNPN16HE&t=903s) (⏱️ 15:03-17:31)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=Hh1xK8r4X_4&t=2857s) (⏱️ 47:37-48:38)
-
----
-
-## 10. İBB Davasında Tanık Dinleme Süreci Sürüyor
-
-- İBB davasının üçüncü duruşma sürecinin iki hafta süreceği açıklandı.
-- Mahkeme, gelecek perşembe ara karar vererek tutukluluk durumlarını da inceleyecek.
-- Yargılamada toplam 60 tanık ve şikâyetçinin dinlenmesi bekleniyor.
-- Hafriyat sahalarıyla ilgili ifadeler alınırken, İmamoğlu birden fazla kurumun denetimini vurguladı.
-- Mahkeme, İmamoğlu’nun dönemin İstanbul valisinin tanık olarak dinlenmesi talebini reddetti.
-- İmamoğlu yargılamanın meşruiyetini sorgularken, hâkimle arasında da gerginlik yaşandığı aktarıldı.
-- Gizli tanıkların kimlikleri korunarak uzaktan dinlenmesi, sanıkların soru yöneltmesi planlanıyor.
-- Bir yorumcu, gizli tanıkların kodlarında ve ifadelerinin aktarımında tutarsızlıklar bulunduğunu savundu.
-- İstanbul’da sağanağın birkaç gün sürmesi beklenirken, Antalya’da şiddetli yağış bildirildi.
-- Muğla açıklarında önceki akşam gerçekleşen 5,1 büyüklüğündeki depremin şiddetli hissedilmediği aktarıldı.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Onlar TV](https://www.youtube.com/watch?v=aBoGjC1oF4c&t=2702s) (⏱️ 45:02-46:15)
-- [Inan Demirel](https://www.youtube.com/watch?v=nHdpKWXfj1M&t=2375s) (⏱️ 39:35-42:44)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=z5O1jTsEufs&t=9s) (⏱️ 00:09-00:25)
+- [Serdar Akinan](https://www.youtube.com/watch?v=c43Di3_bFPU&t=1380s) (⏱️ 23:00-29:38)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=kyguuHDE6a0&t=2198s) (⏱️ 36:38-41:42)
 
 ---
 
