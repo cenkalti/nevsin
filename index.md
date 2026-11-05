@@ -1,146 +1,205 @@
 # Bugün Ne Oldu?
 
-*4 November 2026 tarihli günlük haber raporu - 6 haber birleştirildi*
+*5 November 2026 tarihli günlük haber raporu - 10 haber birleştirildi*
 
-## 1. Fon Soruşturmasında Örgütlü Yapı ve Şeffaflık Tartışması
+## 1. Fon Soruşturması Siyaset ve Bürokrasiye Uzanıyor
 
-- Adalet Bakanı Akın Gürlek, fon soruşturmasında örgütlü suç yapılanması belirlendiğini açıkladı.
-- Gürlek, finans bürokrasisi, denetim kurumları ve medya arasında bağlantılar bulunduğunu savundu.
-- Gürlek'e göre 433 şüpheliden 112'si tutuklu, 186'sı adli kontrolde, 38'i firari.
-- 359 kişinin ve 111 şirketin mal varlıklarıyla banka hesaplarına bloke konuldu.
-- Gürlek, 30 milyar liranın gönüllü olarak TMSF'ye iade edildiğini açıkladı.
-- İletişim Başkanlığı, 247 bin 839 yatırımcıya 97,3 milyar lira ödendiğini bildirdi.
-- Yayınlarda örgüt liderinin, siyasi bağlantıların ve yararlanan kişilerin açıklanması istendi.
-- Yeni Şafak açıklamaları geniş yayımlarken Sabah'ın habere yer vermediği aktarıldı.
-- Bayındır, dinî uygunluk belgelerinin fonların fiilî işlemlerini denetlemediğini söyledi.
-- Mağdurlar, ana para hesabına itiraz ederek ödeme koşullarının açıklanmasını istedi.
+- Fatma Betül Sayan Kaya ve eşi soruşturmada yeniden ifade verdi.
+- Eski SPK Başkanı İbrahim Ömer Gönül de şüpheli sıfatıyla çağrıldı.
+- Savcılık, Kaya çifti için adli kontrol istedi; karar henüz açıklanmadı.
+- Kaya çiftinin fonlardan milyarlarca lira kazandığına ilişkin iddialar da aktarıldı.
+- Akın Gürlek, suç yapılanmasının üst düzey finans bürokrasisine uzandığını söyledi.
+- Erdoğan sorumluların hesap vereceğini söylerken, Devlet Denetleme Kurulu incelemesini sürdürüyor.
+- Muhalefet siyasi bağlantıların açıklanmasını, Ali Babacan Meclis komisyonu kurulmasını istedi.
+- Türkiye Sigorta’nın Tera’ya teminatsız 12,7 milyarlık tahvil verdiği iddia edildi.
+- Dört gazeteciye fon haberleri nedeniyle uzun hapis cezaları talep edildi.
+- Mağdur sayısı 455 bini aşarken, 179.449 kişinin anaparasının ödendiği bildirildi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=-S_v0A8kdtY&t=358s) (⏱️ 05:58-26:40)
-- [Onlar TV](https://www.youtube.com/watch?v=25nTfXHh3iw&t=2274s) (⏱️ 37:54-45:42)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=7ooUbsP6rlE&t=76s) (⏱️ 01:16-07:35)
-- [Murat Yetkin](https://www.youtube.com/watch?v=6-Otiwj2ugY&t=2s) (⏱️ 00:02-15:38)
-- [Cigdem Toker](https://www.youtube.com/watch?v=A9J7vIuQsWo&t=79s) (⏱️ 01:19-05:53)
-- [Hilal Koylu](https://www.youtube.com/watch?v=z3cxIGahn8s&t=1942s) (⏱️ 32:22-34:28)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=X54-97TbC7g&t=2489s) (⏱️ 41:29-42:18)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=YIGTh0XIsuc&t=58s) (⏱️ 00:58-04:20)
-- [Rusen Cakir](https://www.youtube.com/watch?v=UEL9jqFptgI&t=103s) (⏱️ 01:43-13:29)
-- [Serdar Akinan](https://www.youtube.com/watch?v=c43Di3_bFPU&t=1243s) (⏱️ 20:43-22:57)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=nRmzaM-HZaw&t=7437s) (⏱️ 123:57-125:03)
+- [Hilal Koylu](https://www.youtube.com/watch?v=6yfK2QXOVC8&t=1s) (⏱️ 00:01-09:52)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=92CUnNSnCDg&t=1060s) (⏱️ 17:40-24:48)
+- [Onlar TV](https://www.youtube.com/watch?v=s4Q05PZtKQk&t=1324s) (⏱️ 22:04-30:33)
+- [Inan Demirel](https://www.youtube.com/watch?v=Oqn1gzO5G50&t=656s) (⏱️ 10:56-18:10)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=etv-mKyQhVU&t=287s) (⏱️ 04:47-20:30)
+- [Rusen Cakir](https://www.youtube.com/watch?v=E1uCShZgnqA&t=197s) (⏱️ 03:17-10:20)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=uXjcORF9yTc&t=2258s) (⏱️ 37:38-38:57)
+- [Unsal Unlu](https://www.youtube.com/watch?v=nWlkyypS5Nc&t=486s) (⏱️ 08:06-18:40)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=AAaNK4zx8-g) (⏱️ 00:00-10:19)
+- [Murat Yetkin](https://www.youtube.com/watch?v=2Li7BO6E5Gk&t=3s) (⏱️ 00:03-11:30)
 
 ---
 
-## 2. ABD ara seçimlerinde Demokratlar Trump’ı geriletti
+## 2. Demokratlar ABD Kongresinde Çoğunluğu Aldı
 
-- Resmî olmayan sonuçlara göre Demokratlar, Kongre’nin iki kanadında çoğunluğu kazandı.
-- Yorumcular, İran savaşı ve hayat pahalılığını Cumhuriyetçilerin kayıplarıyla ilişkilendirdi.
-- Sert göçmen politikalarının Trump’a yönelik seçmen tepkisini artırdığı değerlendirildi.
-- Teksas’ta James Talarico’nun kazanması ve farklı kimliklerden adayların seçilmesi öne çıktı.
-- Demokratların çoğunluğu, Trump’ın yasalarını, bütçelerini ve atamalarını geçirmesini zorlaştırabilir.
-- Epstein dosyası dahil soruşturmalar gündeme gelebilir, ancak görevden alınma zor görülüyor.
-- Trump, yenilgiden sorumlu olmadığını savunarak kendisi yarışsaydı kazanacağını söyledi.
-- Türkiye’nin F-35 programına dönüşünün Kongre’de daha fazla engelle karşılaşabileceği değerlendirildi.
-- Yorumcular, seçimlerin Türkiye-ABD ilişkilerini kendiliğinden kötüleştirmeyeceğini, mevcut anlaşmazlıkların belirleyiciliğini vurguladı.
-- İran’a nükleer saldırı iddiaları doğrulanmazken, yorumcular bu olasılığı düşük gördü.
+- Aktarılan sonuçlara göre Demokratlar ABD Kongresi'nin iki kanadında çoğunluğu kazandı.
+- Hayat pahalılığı, savaş maliyetleri ve göç politikaları seçmen tepkisiyle ilişkilendirildi.
+- Demokratların Cumhuriyetçi kalelerinde kazandığı başarılar, Trump'ın seçmen desteğinin zayıflamasıyla açıklandı.
+- Yeni çoğunluğun Trump'ın yasalarını, bütçesini ve üst düzey atamalarını zorlaştırabileceği belirtildi.
+- Demokratların Trump ve ailesine yönelik soruşturmalar başlatabileceği, azlin zor olduğu değerlendirildi.
+- Kongrenin İran savaşını sınırlayabileceği, ancak çatışma riskinin sürdüğü belirtildi.
+- Seçimlerde Müslüman, siyah ve yerli adayların tarihi başarılar kazandığı aktarıldı.
+- Türkiye'nin F-35 ve yaptırım beklentilerinde Kongre desteğinin önemi vurgulandı.
+- Demokratların Türkiye'ye yönelik demokrasi ve insan hakları eleştirilerini artırabileceği değerlendirildi.
+- Erdoğan, ABD yönetimiyle birlikte Kongre'nin iki kanadıyla diyalog kuracaklarını açıkladı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=-S_OYqVq0ds) (⏱️ 00:00-05:13)
-- [Cigdem Toker](https://www.youtube.com/watch?v=A9J7vIuQsWo&t=8s) (⏱️ 00:08-01:19)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=X54-97TbC7g&t=45s) (⏱️ 00:45-11:58)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=kyguuHDE6a0&t=113s) (⏱️ 01:53-09:22)
-- [Murat Yetkin](https://www.youtube.com/watch?v=LwkdzX7Ijew&t=5s) (⏱️ 00:05-14:00)
-- [Hilal Koylu](https://www.youtube.com/watch?v=z3cxIGahn8s&t=25s) (⏱️ 00:25-30:36)
-- [Unsal Unlu](https://www.youtube.com/watch?v=-S_v0A8kdtY&t=79s) (⏱️ 01:19-05:57)
-- [Serdar Akinan](https://www.youtube.com/watch?v=c43Di3_bFPU) (⏱️ 00:00-04:46)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=7ooUbsP6rlE&t=3016s) (⏱️ 50:16-51:09)
-- [Onlar TV](https://www.youtube.com/watch?v=25nTfXHh3iw&t=3291s) (⏱️ 54:51-55:07)
+- [Unsal Unlu](https://www.youtube.com/watch?v=nWlkyypS5Nc&t=1201s) (⏱️ 20:01-21:03)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=M2vVDrOTWmA&t=401s) (⏱️ 06:41-09:53)
+- [Hilal Koylu](https://www.youtube.com/watch?v=HcLqahDCgb0&t=1832s) (⏱️ 30:32-31:55)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=AAaNK4zx8-g&t=626s) (⏱️ 10:26-18:23)
+- [Rusen Cakir](https://www.youtube.com/watch?v=CoDNwGfU_mg&t=20s) (⏱️ 00:20-33:12)
+- [Inan Demirel](https://www.youtube.com/watch?v=Oqn1gzO5G50&t=2018s) (⏱️ 33:38-42:19)
+- [Onlar TV](https://www.youtube.com/watch?v=s4Q05PZtKQk&t=2790s) (⏱️ 46:30-49:12)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=uXjcORF9yTc&t=56s) (⏱️ 00:56-03:45)
 
 ---
 
-## 3. Kayyum Uygulamaları ve Barış Süreci Tartışılıyor
+## 3. Saran ve Cebeci uyuşturucu davasında beraat etti
 
-- İçişleri Bakanlığının Ahmet Türk ve Ahmet Özer’in belediyelerindeki kayyumları sürdüreceği aktarıldı.
-- Mardin’de kayyum süresinin iki ay uzatıldığı, Türk’ün görevine dönemeyeceği belirtildi.
-- Bahçeli’nin dönüş çağrılarına rağmen iki siyasetçinin görevlerine iade edilmediği hatırlatıldı.
-- Tülay Hatimoğulları, siyasetçilerin yerinin mahkemeler değil halkın yanı olduğunu söyledi.
-- Demirtaş, çözüm sürecindeki bütün tarafları sorumluluklarını yerine getirmeye çağırdı.
-- Devletin demokratikleşmeyi, PKK’nın ise silahsızlanmayı hızlandırması gerektiğini özellikle vurguladı.
-- Yayınlarda sürecin ilerlemediği savunuldu, kayyum kararları bu çerçevede eleştirildi.
-- Demirtaş ve Yüksekdağ’ın tutukluluklarının on yılı doldurduğu belirtilerek tahliyeleri istendi.
-- Bahçeli’nin 100 il, 1000 ilçe önerisinin belediyelere etkisi tartışıldı.
-- Olası düzenlemelerin belediyelerin ekonomik bağımsızlığını azaltabileceği, yayınlarda siyasi öngörü olarak aktarıldı.
+- Sadettin Saran ve Ela Rümeysa Cebeci, uyuşturucu suçlamalarından beraat etti.
+- Mahkeme, uyuşturucu ticareti ve sağlama suçlarının yasal unsurlarının oluşmadığına hükmetti.
+- Cebeci karardan mutluluk duyduğunu söyledi; yayınlarda cezaevinde kaldığı hatırlatıldı.
+- Terkoğlu, uyuşturucu soruşturmalarının kullanıcıların özel hayatları yerine satıcılara odaklanmasını istedi.
+- Emir Sarıgül ise ev hapsi ve adli kontrol şartıyla tahliye edildi.
+- Sarıgül’ün ifadelerinde babasıyla anlaşmazlıklarını ve ailedeki mal varlığı ilişkilerini anlattığı aktarıldı.
+- Yayınlarda tahliyenin etkin pişmanlık kapsamındaki ifadeleriyle bağlantılı olabileceği yorumu yapıldı.
+- Murat Ağırel’in şüpheli bir belgeyi doğrulamaya çalışırken tutuklandığı öne sürüldü.
+- Yayınlarda, şüpheli belgede Sarıgül’e 100 milyon avro gönderildiğinin yazdığı aktarıldı.
+- Yorumcular, Ağırel’in tutukluluğuyla Sarıgül’ün ev hapsini karşılaştırarak kararların eşitliğini sorguladı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Onlar TV](https://www.youtube.com/watch?v=25nTfXHh3iw&t=3250s) (⏱️ 54:10-54:50)
-- [Unsal Unlu](https://www.youtube.com/watch?v=9gg_M6etKCY&t=1708s) (⏱️ 28:28-31:15)
-- [Rusen Cakir](https://www.youtube.com/watch?v=UEL9jqFptgI&t=7s) (⏱️ 00:07-01:43)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=7ooUbsP6rlE&t=2013s) (⏱️ 33:33-36:04)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=AAaNK4zx8-g&t=1105s) (⏱️ 18:25-19:10)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=uXjcORF9yTc&t=2190s) (⏱️ 36:30-37:38)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=M2vVDrOTWmA&t=3833s) (⏱️ 63:53-65:58)
+- [Onlar TV](https://www.youtube.com/watch?v=s4Q05PZtKQk&t=807s) (⏱️ 13:27-17:32)
 
 ---
 
-## 4. İBB ve Diğer Davalarda Son Gelişmeler
+## 4. Bütçe Komisyonunda Gerginlik, Şimşek Salondan Ayrıldı
 
-- İBB davasında Yeni Cebeci’deki hafriyat döküm sahasına ilişkin ifadeler değerlendirildi.
-- Bir tanık, kaçak döküm yapıldığını kamyonculardan duyduğunu ifade etti.
-- Mahkeme başkanı, tanığın duyuma dayalı anlatımını ve sanık açısından anlamını sorguladı.
-- Murat Kapki’nin suçlamalarında adı geçen Orhan Cevahiroğlu, ilgili kişileri tanımadığını söyledi.
-- Sunucu, beyanlardaki çelişkilerin tutukluluklar ve davalar açısından önemini vurguladı.
-- Dilovası’nda yedi işçinin öldüğü davada tutuklu sanık Ali Osman Akat tahliye edildi.
-- Görkem Doğan, denetimlerin yetersizliğini ve tahliyenin ailelerde yarattığı hayal kırıklığını vurguladı.
-- Ailelere sanık adına para teklif edildiği iddiası aktarılırken kamuoyu desteği istendi.
-- Ela Rumeysa Cebeci ve Saadettin Saran hakkında beraat kararı verildi.
-- Karar, uyuşturucu veya uyarıcı madde ticareti ve sağlama suçlamalarını kapsıyor.
+- Meclis Plan ve Bütçe Komisyonunda Mehmet Şimşek’in katılımıyla gerginlik yaşandı.
+- Komisyon üyeleri, fon mağdurlarının zararları konusunda Bakan Şimşek’e tepki gösterdi.
+- Üyeler, mağduriyetleri önlemek için gerekli tedbirlerin neden alınmadığını da sordu.
+- AK Partili Süleyman Şahan, muhalefet milletvekilleriyle karşılıklı sözlü tartışmaya girdi.
+- Şahan’ın tartıştığı isimlerden biri İYİ Partili Ayyüce Türkeş Taş’tı.
+- Yeni Yol Partili Ümit Özlale de sözlü tartışmada yer aldı.
+- Karşılıklı hakaretlerin ardından Plan ve Bütçe Komisyonu toplantısına ara verildi.
+- Mehmet Şimşek, yaşanan gerginliğin ardından komisyon salonundan ayrılarak toplantıyı bıraktı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Onlar TV](https://www.youtube.com/watch?v=25nTfXHh3iw&t=3199s) (⏱️ 53:19-54:08)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=l0v6v5-UW9U&t=3821s) (⏱️ 63:41-65:34)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=nRmzaM-HZaw&t=416s) (⏱️ 06:56-11:00)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=X54-97TbC7g&t=4913s) (⏱️ 81:53-82:43)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=M2vVDrOTWmA&t=2428s) (⏱️ 40:28-42:52)
+- [Hilal Koylu](https://www.youtube.com/watch?v=HcLqahDCgb0&t=1035s) (⏱️ 17:15-18:54)
 
 ---
 
-## 5. ABD Seçimlerinde İlerici Adaylar Öne Çıkıyor
+## 5. Emekli Desteklerinde Yaş ve Gelir Tartışması
 
-- ABD seçimlerinde Müslüman, göçmen ve ilerici adayların yükselişi dikkat çekti.
-- El-Sayed'in zaferi bazı yayınlarda duyurulurken, diğerlerinde sayımın sürdüğü belirtildi.
-- Seçilmesi halinde el-Sayed, ABD Senatosunun ilk Müslüman üyesi olacak.
-- El-Sayed'in kampanyasında sağlık hizmetleri, hayat pahalılığı ve kiralar öne çıktı.
-- El-Sayed, şirket bağışlarını reddederek kampanyasını küçük bağışlarla yürüttüğünü söyledi.
-- Michigan'da Müslüman seçmenlerin ve İsrail politikalarına itirazların etkili olduğu değerlendirildi.
-- Filistin aktivisti göçmen Melat Kiros'un Kongre'nin genç üyelerinden olduğu aktarıldı.
-- Teksas'ta James Talarico, ekonomik sorunları ve milyarderlerin siyasi etkisini vurguladı.
-- Hasan Piker'in Gazze ve konut krizini işlediği seçim yayını ilgi gördü.
-- Bağımsız yayıncıların genç seçmenlere erişimde geleneksel medyaya karşı güçlendiği değerlendirildi.
+- Emeklilere yönelik ek desteklerin yaş ve gelirle sınırlandırılabileceği öne sürülüyor.
+- Çalışma Bakanlığındaki taslakta ek iyileştirme için 65 yaş şartı bulunduğu iddia ediliyor.
+- Desteklerin 60 ve 65 yaş eşiklerine göre farklılaşabileceği aktarılıyor.
+- Değerlendirmede hane geliri, çalışma durumu ve prim günlerinin gözetileceği belirtiliyor.
+- Ancak düzenlemenin kesinleştiğine ilişkin henüz herhangi bir bilgi paylaşılmıyor.
+- Ünlü, düzenlemenin emeklilere zam yapılacağı izlenimiyle sunulmasını yayında eleştiriyor.
+- İstanbul Gaziosmanpaşa'da pazara çıkan 70 yaşındaki bir emekli, geçinemediğini anlatıyor.
+- Pazara yalnızca 600 lira ayırabildiğini, maaşının temel giderlere yetmediğini söylüyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Serdar Akinan](https://www.youtube.com/watch?v=c43Di3_bFPU&t=537s) (⏱️ 08:57-13:30)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=-S_OYqVq0ds&t=314s) (⏱️ 05:14-09:01)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=kyguuHDE6a0&t=4045s) (⏱️ 67:25-73:47)
+- [Unsal Unlu](https://www.youtube.com/watch?v=F7k4vbtpzJI&t=965s) (⏱️ 16:05-17:09)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=M2vVDrOTWmA&t=4153s) (⏱️ 69:13-70:53)
 
 ---
 
-## 6. Sırbistan'da Öğrenciler Adaylarını Bağlayıcı Taahhütnameyle Belirledi
+## 6. Demirtaş’ın Tutukluluğu ve Çözüm Süreci
 
-- Sırbistan'da üniversite öğrencileri iki yıl boyunca yolsuzluğa karşı mücadele etti.
-- İktidar değişikliği isteyen hareketin erken seçim sürecinde etkili olduğu belirtiliyor.
-- Öğrenciler kendileri aday olmak yerine aralarında belirledikleri isimleri destekledi.
-- Adayların yolsuzluğa karışmamış olması bağlayıcı taahhütnamenin temel şartları arasında.
-- Eski iktidar veya muhalefet yönetimlerinde görev alanların adaylığına karşı çıkılıyor.
-- Taahhütname adayların seçildikten sonra başka bir partiye geçmesini yasaklıyor.
-- Programa ve yükümlülüklerine uymayanların seçildikten sonra istifa etmiş sayılması öngörülüyor.
-- Milletvekilliği kişisel çıkar veya kariyer değil halka hesap verme sorumluluğuyla tanımlanıyor.
-- Hareket lider kültünü reddederek adayların parti liderlerince değil öğrencilerce belirlenmesini savunuyor.
-- Haberde desteklenen adaylardan 140'ının seçildiği ve parlamentoda çoğunluk sağlayabilecekleri belirtiliyor.
+- Selahattin Demirtaş ve Figen Yüksekdağ’ın cezaevindeki onuncu yılı gündeme geldi.
+- Demirtaş’ın çocuklarının babalarından uzakta büyüdüğü ve ailenin ayrı kaldığı belirtildi.
+- Tülay Hatimoğulları, Edirne Cezaevi önünde tutuklamaların siyasi darbe olduğunu savundu.
+- Hatimoğulları, siyasetçilerin demokratik faaliyetleri nedeniyle tutulduğunu savunarak Kobani davasını kumpas olarak nitelendirdi.
+- AİHM kararlarının Anayasa’nın 90. maddesi gereği uygulanması gerektiği vurgulandı.
+- Demirtaş’ın dosyası Diyarbakır’daki başka dosyayla birleştirilirken tahliyeye etkisi belirsiz kaldı.
+- Demirtaş, yayımladığı mektupta çözüm sürecindeki tıkanıklığın aşılması için taraflara çağrı yaptı.
+- Demirtaş, devletin demokratikleşme ve hukuki güvenceler sağlama sorumluluğunu özellikle vurguladı.
+- Örgütün silahsızlanma sorumluluğunun devletin sorumluluklarının yerine geçemeyeceğini belirterek tarafları göreve çağırdı.
+- Sürecin silah bırakma ve sonraki adımlara geçişte ilerleyemediği aktarıldı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Serdar Akinan](https://www.youtube.com/watch?v=c43Di3_bFPU&t=1380s) (⏱️ 23:00-29:38)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=kyguuHDE6a0&t=2198s) (⏱️ 36:38-41:42)
+- [Inan Demirel](https://www.youtube.com/watch?v=Oqn1gzO5G50&t=2537s) (⏱️ 42:17-45:18)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=uXjcORF9yTc&t=2037s) (⏱️ 33:57-35:31)
+
+---
+
+## 7. Kozinoğlu’nun Ölümünde Adli Tıp Raporu
+
+- Adli Tıp’ın, Kaşif Kozinoğlu’nun ölümünü kalp hastalığına bağladığı aktarıldı.
+- Ölümün kalp krizi olarak açıklandığı, zehirlenme veya travma bulunmadığı belirtildi.
+- Kozinoğlu’nun ölümünün yeniden incelenmesinin geçmişte de gündeme geldiği hatırlatıldı.
+- Gazeteci Selahattin Günday’ın, Kozinoğlu’nun ölümüyle ilgili haberleri nedeniyle tutuklandığı aktarıldı.
+- Aynı soruşturma kapsamında Fatih Ergin’in de tutuklu olduğu ifade edildi.
+- Onlar TV sunucusu, rapora rağmen Günday’ın tutukluluğunun sürmesini sorguladı.
+- Sunucu, şüphelerin araştırılmasını desteklerken kanıtsız kesin hükümlerden kaçınılması gerektiğini vurguladı.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Unsal Unlu](https://www.youtube.com/watch?v=F7k4vbtpzJI&t=1740s) (⏱️ 29:00-29:36)
+- [Onlar TV](https://www.youtube.com/watch?v=s4Q05PZtKQk&t=1055s) (⏱️ 17:35-21:28)
+
+---
+
+## 8. Borsadaki Düşüş ve Liranın Değer Kaybı
+
+- Paylaşılan veriler, 5 Eylül ile 3 Kasım arasındaki düşüşü gösterdi.
+- Şirketlerin toplam piyasa değerinin 22,22 trilyondan 15,63 trilyon liraya gerilediği belirtildi.
+- Sunucu, iki aylık toplam kaybı yaklaşık 6,8 trilyon lira olarak aktardı.
+- Halka açık payların değeri 9,33 trilyondan 4,19 trilyon liraya düştü.
+- Sunucu, bu paylardaki yaklaşık yüzde 55 düşüşü fon kriziyle ilişkilendirdi.
+- Sunucu, borsadaki düşüşün ülke ekonomisi açısından önemli sonuçlar doğurabileceğini savundu.
+- DEVA Partisi lideri Ali Babacan, 200 liralık banknotun değerini sorguladı.
+- Babacan, banknotun başlangıçtaki 134 dolarlık değerinin dört doların altına indiğini söyledi.
+- Kaybın emeklilerin, asgari ücretlilerin, çiftçilerin ve esnafın alım gücünü etkilediğini belirtti.
+- Programda açıklamalar, AK Parti dönemindeki ekonomi yönetimine siyasi mesaj olarak yorumlandı.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=92CUnNSnCDg&t=1710s) (⏱️ 28:30-32:40)
+- [Inan Demirel](https://www.youtube.com/watch?v=Oqn1gzO5G50&t=1751s) (⏱️ 29:11-31:40)
+
+---
+
+## 9. Fenerbahçe Liverpool’u 3-2 Mağlup Etti
+
+- Fenerbahçe, Liverpool’u 3-2 mağlup ederek karşılaşmayı galibiyetle tamamladı.
+- Hilmi Hacaloglu, galibiyetten duyduğu sevinci paylaşarak Fenerbahçe’nin başarılarının sürmesini diledi.
+- Onlar TV sunucusu, Fenerbahçe’nin Liverpool karşısında iyi oynadığını belirtti.
+- Sunucu, cezaevindeki Fenerbahçeli gazeteci Murat Arel’in karşılaşmayı izleyebilmiş olmasını umdu.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=92CUnNSnCDg&t=2797s) (⏱️ 46:37-47:13)
+- [Onlar TV](https://www.youtube.com/watch?v=s4Q05PZtKQk&t=31s) (⏱️ 00:31-01:07)
+
+---
+
+## 10. Erdoğan Liderliği Üzerine Siyasi Tartışmalar
+
+- Tuzla Belediye Başkanı Eren Ali Bingöl sosyal medya mesajı yayımladı.
+- Bingöl, AK Parti’nin 24. kuruluş yıldönümü mesajında hizmetleri ve reformları övdü.
+- Bingöl, Cumhurbaşkanı Erdoğan liderliğinde çalışmalarını sürdürme kararlılığını da dile getirdi.
+- Programda mesaj, fon vurgunu ve tutuklu belediye başkanları bağlamında eleştirildi.
+- İYİ Parti Genel Başkanı Müsavat Dervişoğlu, Meclis konuşmasında Erdoğan’ı eleştirdi.
+- Dervişoğlu, Erdoğan’ın önce bürokrasinin yönetim üzerindeki baskısıyla mücadele ettiğini savundu.
+- Daha sonra Erdoğan’ın kendisine ait bir bürokratik düzen kurduğunu söyledi.
+- Dervişoğlu, Cumhurbaşkanı Erdoğan’a yönelik eleştirilerini “Kral tutsak” sözleriyle tamamladı.
+
+**Bu haberi kapsayan muhabirler:**
+
+- [Inan Demirel](https://www.youtube.com/watch?v=Oqn1gzO5G50&t=1897s) (⏱️ 31:37-33:40)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=etv-mKyQhVU&t=217s) (⏱️ 03:37-04:34)
 
 ---
 
