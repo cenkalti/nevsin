@@ -1,205 +1,219 @@
 # Bugün Ne Oldu?
 
-*5 November 2026 tarihli günlük haber raporu - 10 haber birleştirildi*
+*6 November 2026 tarihli günlük haber raporu - 10 haber birleştirildi*
 
-## 1. Fon Soruşturması Siyaset ve Bürokrasiye Uzanıyor
+## 1. Fon soruşturmasında Fatma Betül Sayan Kaya tutuklandı
 
-- Fatma Betül Sayan Kaya ve eşi soruşturmada yeniden ifade verdi.
-- Eski SPK Başkanı İbrahim Ömer Gönül de şüpheli sıfatıyla çağrıldı.
-- Savcılık, Kaya çifti için adli kontrol istedi; karar henüz açıklanmadı.
-- Kaya çiftinin fonlardan milyarlarca lira kazandığına ilişkin iddialar da aktarıldı.
-- Akın Gürlek, suç yapılanmasının üst düzey finans bürokrasisine uzandığını söyledi.
-- Erdoğan sorumluların hesap vereceğini söylerken, Devlet Denetleme Kurulu incelemesini sürdürüyor.
-- Muhalefet siyasi bağlantıların açıklanmasını, Ali Babacan Meclis komisyonu kurulmasını istedi.
-- Türkiye Sigorta’nın Tera’ya teminatsız 12,7 milyarlık tahvil verdiği iddia edildi.
-- Dört gazeteciye fon haberleri nedeniyle uzun hapis cezaları talep edildi.
-- Mağdur sayısı 455 bini aşarken, 179.449 kişinin anaparasının ödendiği bildirildi.
+- Eski bakan Fatma Betül Sayan Kaya, fon soruşturması kapsamında tutuklandı.
+- Eşi İlyas Kaya ve eski SPK Başkanı Gönül, adli kontrolle serbest bırakıldı.
+- Savcılık, Kaya'ya sermaye piyasası mevzuatına aykırılık ve örgüt üyeliği suçlamalarını yöneltti.
+- Tasfiye öncesindeki hisse satışında, önceden alınan bilginin kullanıldığı iddia edildi.
+- Kaya'nın Tera'dan satış bedelini olağan bekleme süresinden önce aldığı öne sürüldü.
+- Çiftin 163 milyonluk yatırımının 2,17 milyar liraya ulaştığı iddiası gündemde.
+- Denetleyici kurumların sorumluluğunun araştırılması ve yatırımcı listelerinin açıklanması talep edildi.
+- Türkiye Sigorta'nın Tera'ya teminatsız verdiği 12,7 milyarlık tahvillerin dönmediği iddia edildi.
+- Şimşek, 614 binden fazla hesaba 130 milyar lira ödendiğini açıkladı.
+- Ekonomistler, güven kaybının işletmeleri ve yatırımcıların birikimlerini olumsuz etkilediğini belirtti.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilal Koylu](https://www.youtube.com/watch?v=6yfK2QXOVC8&t=1s) (⏱️ 00:01-09:52)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=92CUnNSnCDg&t=1060s) (⏱️ 17:40-24:48)
-- [Onlar TV](https://www.youtube.com/watch?v=s4Q05PZtKQk&t=1324s) (⏱️ 22:04-30:33)
-- [Inan Demirel](https://www.youtube.com/watch?v=Oqn1gzO5G50&t=656s) (⏱️ 10:56-18:10)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=etv-mKyQhVU&t=287s) (⏱️ 04:47-20:30)
-- [Rusen Cakir](https://www.youtube.com/watch?v=E1uCShZgnqA&t=197s) (⏱️ 03:17-10:20)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=uXjcORF9yTc&t=2258s) (⏱️ 37:38-38:57)
-- [Unsal Unlu](https://www.youtube.com/watch?v=nWlkyypS5Nc&t=486s) (⏱️ 08:06-18:40)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=AAaNK4zx8-g) (⏱️ 00:00-10:19)
-- [Murat Yetkin](https://www.youtube.com/watch?v=2Li7BO6E5Gk&t=3s) (⏱️ 00:03-11:30)
+- [Onlar TV](https://www.youtube.com/watch?v=TyUWX0apebc&t=2014s) (⏱️ 33:34-35:12)
+- [Murat Yetkin](https://www.youtube.com/watch?v=Rx5-05bIA9M&t=7s) (⏱️ 00:07-17:51)
+- [Unsal Unlu](https://www.youtube.com/watch?v=tM2RRzITN5Y&t=113s) (⏱️ 01:53-17:20)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=-IHghAmltlI&t=44s) (⏱️ 00:44-03:27)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=3aMaaN8Uc-M&t=2220s) (⏱️ 37:00-51:22)
+- [Hilal Koylu](https://www.youtube.com/watch?v=Mgvm5FPpHbc&t=837s) (⏱️ 13:57-22:58)
+- [Rusen Cakir](https://www.youtube.com/watch?v=7RIMhsYvIUI&t=5s) (⏱️ 00:05-12:28)
+- [Serdar Akinan](https://www.youtube.com/watch?v=HJ6VhtyyKZ0) (⏱️ 00:00-13:43)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=CjD03_owoUs&t=2935s) (⏱️ 48:55-51:58)
+- [Inan Demirel](https://www.youtube.com/watch?v=hyWa1qsG3vU&t=876s) (⏱️ 14:36-16:33)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=t8loke2_M8s&t=398s) (⏱️ 06:38-07:47)
 
 ---
 
-## 2. Demokratlar ABD Kongresinde Çoğunluğu Aldı
+## 2. Anketlerde Siyasi Memnuniyetsizlik ve Kararsızlık Öne Çıkıyor
 
-- Aktarılan sonuçlara göre Demokratlar ABD Kongresi'nin iki kanadında çoğunluğu kazandı.
-- Hayat pahalılığı, savaş maliyetleri ve göç politikaları seçmen tepkisiyle ilişkilendirildi.
-- Demokratların Cumhuriyetçi kalelerinde kazandığı başarılar, Trump'ın seçmen desteğinin zayıflamasıyla açıklandı.
-- Yeni çoğunluğun Trump'ın yasalarını, bütçesini ve üst düzey atamalarını zorlaştırabileceği belirtildi.
-- Demokratların Trump ve ailesine yönelik soruşturmalar başlatabileceği, azlin zor olduğu değerlendirildi.
-- Kongrenin İran savaşını sınırlayabileceği, ancak çatışma riskinin sürdüğü belirtildi.
-- Seçimlerde Müslüman, siyah ve yerli adayların tarihi başarılar kazandığı aktarıldı.
-- Türkiye'nin F-35 ve yaptırım beklentilerinde Kongre desteğinin önemi vurgulandı.
-- Demokratların Türkiye'ye yönelik demokrasi ve insan hakları eleştirilerini artırabileceği değerlendirildi.
-- Erdoğan, ABD yönetimiyle birlikte Kongre'nin iki kanadıyla diyalog kuracaklarını açıkladı.
+- Araştırmalara göre fon krizi hem iktidara hem muhalefete desteği azaltıyor.
+- SONAR’da yüzde 70,4 ekonomik kötüleşme bildirirken, yüzde 68,4 ekonomi politikalarını onaylamıyor.
+- SONAR’da katılımcıların yaklaşık yüzde 72’si fon krizinin yönetimini başarılı bulmuyor.
+- SONAR’da tercih belirtmeyenler ve oy vermeyeceklerin toplamı yüzde 33,1 olarak aktarılıyor.
+- SONAR’ın Ekim araştırmasında AK Parti yüzde 29,60, Yeni Parti yüzde 28,10.
+- Başka araştırmada Cumhur İttifakı’nın doğrudan oyu yüzde 30’un altında kalıyor.
+- SONAR araştırmasında katılımcıların yüzde 61,6’sı erken genel seçim yapılmasını istiyor.
+- Cumhurbaşkanlığı tercihlerinde Erdoğan önde bulunurken, muhalefet seçmeni İmamoğlu ve Yavaş arasında bölünüyor.
+- Araştırmada seçmenlerin yarısından fazlası Mansur Yavaş’ın bağımsız kalmasını olumlu karşılıyor.
+- Belediye başkanlarının parti değiştirmesi, seçmenlerin sandığa ve siyasete güvenini zedeliyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=nWlkyypS5Nc&t=1201s) (⏱️ 20:01-21:03)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=M2vVDrOTWmA&t=401s) (⏱️ 06:41-09:53)
-- [Hilal Koylu](https://www.youtube.com/watch?v=HcLqahDCgb0&t=1832s) (⏱️ 30:32-31:55)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=AAaNK4zx8-g&t=626s) (⏱️ 10:26-18:23)
-- [Rusen Cakir](https://www.youtube.com/watch?v=CoDNwGfU_mg&t=20s) (⏱️ 00:20-33:12)
-- [Inan Demirel](https://www.youtube.com/watch?v=Oqn1gzO5G50&t=2018s) (⏱️ 33:38-42:19)
-- [Onlar TV](https://www.youtube.com/watch?v=s4Q05PZtKQk&t=2790s) (⏱️ 46:30-49:12)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=uXjcORF9yTc&t=56s) (⏱️ 00:56-03:45)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=xnqtXSAy-pw&t=2335s) (⏱️ 38:55-64:24)
+- [Inan Demirel](https://www.youtube.com/watch?v=hyWa1qsG3vU&t=2535s) (⏱️ 42:15-44:28)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=t8loke2_M8s&t=1714s) (⏱️ 28:34-31:32)
+- [Rusen Cakir](https://www.youtube.com/watch?v=6Y0KiQUBfus&t=50s) (⏱️ 00:50-10:28)
+- [Hilal Koylu](https://www.youtube.com/watch?v=Mgvm5FPpHbc&t=1466s) (⏱️ 24:26-26:56)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=CjD03_owoUs&t=4693s) (⏱️ 78:13-93:05)
 
 ---
 
-## 3. Saran ve Cebeci uyuşturucu davasında beraat etti
+## 3. ABD Seçimlerinde Trump’a Savaş ve Enflasyon Darbesi
 
-- Sadettin Saran ve Ela Rümeysa Cebeci, uyuşturucu suçlamalarından beraat etti.
-- Mahkeme, uyuşturucu ticareti ve sağlama suçlarının yasal unsurlarının oluşmadığına hükmetti.
-- Cebeci karardan mutluluk duyduğunu söyledi; yayınlarda cezaevinde kaldığı hatırlatıldı.
-- Terkoğlu, uyuşturucu soruşturmalarının kullanıcıların özel hayatları yerine satıcılara odaklanmasını istedi.
-- Emir Sarıgül ise ev hapsi ve adli kontrol şartıyla tahliye edildi.
-- Sarıgül’ün ifadelerinde babasıyla anlaşmazlıklarını ve ailedeki mal varlığı ilişkilerini anlattığı aktarıldı.
-- Yayınlarda tahliyenin etkin pişmanlık kapsamındaki ifadeleriyle bağlantılı olabileceği yorumu yapıldı.
-- Murat Ağırel’in şüpheli bir belgeyi doğrulamaya çalışırken tutuklandığı öne sürüldü.
-- Yayınlarda, şüpheli belgede Sarıgül’e 100 milyon avro gönderildiğinin yazdığı aktarıldı.
-- Yorumcular, Ağırel’in tutukluluğuyla Sarıgül’ün ev hapsini karşılaştırarak kararların eşitliğini sorguladı.
+- Demokratların ara seçimlerde Kongre’nin iki kanadında önemli kazanımlar sağladığı aktarıldı.
+- Sol adayların bazı büyük şehirlerde ve Kongre’de güçlendiği belirtildi.
+- Trump’ın başkan yardımcısı, seçim yenilgisinin nedenleri arasında İran savaşını gösterdi.
+- Savaşın yükselttiği petrol fiyatları ve enflasyonun seçmen tepkisini artırdığı değerlendirildi.
+- Hürmüz Boğazı’ndaki düşük tanker trafiğinin petrol fiyatlarını yüksek tuttuğu belirtildi.
+- Trump’ın seçim öncesinde petrolü ucuzlatarak ekonomik iyimserlik yaratmayı hedeflediği belirtildi.
+- İran’ın tazminat talepleri ve nükleer müzakerelerin savaşın geleceğini belirsizleştirdiği değerlendirildi.
+- Yenilgi ardından Trump’ın yakın çalışma arkadaşlarının birbirlerini suçlamaya başladığı bildirildi.
+- Erdoğan, ABD yönetimi ve Kongre’yle diyaloğun sürdürüleceğini açıkladı.
+- Kongre’deki değişimin Türkiye’nin F-35 ve yaptırım beklentilerini zorlaştırabileceği yorumu yapıldı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=AAaNK4zx8-g&t=1105s) (⏱️ 18:25-19:10)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=uXjcORF9yTc&t=2190s) (⏱️ 36:30-37:38)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=M2vVDrOTWmA&t=3833s) (⏱️ 63:53-65:58)
-- [Onlar TV](https://www.youtube.com/watch?v=s4Q05PZtKQk&t=807s) (⏱️ 13:27-17:32)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=Ab1JLc2ogF4&t=344s) (⏱️ 05:44-07:38)
+- [Inan Demirel](https://www.youtube.com/watch?v=GRBzndX05Ic&t=2645s) (⏱️ 44:05-48:44)
+- [Rusen Cakir](https://www.youtube.com/watch?v=XpveegBHSJQ&t=1747s) (⏱️ 29:07-39:00)
+- [Unsal Unlu](https://www.youtube.com/watch?v=tM2RRzITN5Y&t=1100s) (⏱️ 18:20-21:27)
 
 ---
 
-## 4. Bütçe Komisyonunda Gerginlik, Şimşek Salondan Ayrıldı
+## 4. Mekke Anlaşması Meclisten Tartışmalarla Geçti
 
-- Meclis Plan ve Bütçe Komisyonunda Mehmet Şimşek’in katılımıyla gerginlik yaşandı.
-- Komisyon üyeleri, fon mağdurlarının zararları konusunda Bakan Şimşek’e tepki gösterdi.
-- Üyeler, mağduriyetleri önlemek için gerekli tedbirlerin neden alınmadığını da sordu.
-- AK Partili Süleyman Şahan, muhalefet milletvekilleriyle karşılıklı sözlü tartışmaya girdi.
-- Şahan’ın tartıştığı isimlerden biri İYİ Partili Ayyüce Türkeş Taş’tı.
-- Yeni Yol Partili Ümit Özlale de sözlü tartışmada yer aldı.
-- Karşılıklı hakaretlerin ardından Plan ve Bütçe Komisyonu toplantısına ara verildi.
-- Mehmet Şimşek, yaşanan gerginliğin ardından komisyon salonundan ayrılarak toplantıyı bıraktı.
+- Mekke Anlaşması, TBMM Genel Kurulu'nda 279 kabul, 119 ret oyuyla onaylandı.
+- Aktarılan dağılımda AK Parti'den 222, MHP'den 24, CHP'den 25 kabul çıktı.
+- Anlaşma, Türkiye, Pakistan ve Suudi Arabistan arasında karşılıklı güvenlik yükümlülükleri öngörüyor.
+- Ülkelerden biri saldırıya uğrarsa diğer üyelerin buna ilişkin adım atması gerekiyor.
+- Anlaşmanın on yıl geçerli olacağı, belirli gerekçelerle çıkılabileceği aktarıldı.
+- Çıkış için süre dolmadan üç ay önce bildirim gerektiği belirtildi.
+- Diğer yorumlarda ise anlaşmadan on yıl boyunca çıkılamayacağı iddiası eleştirildi.
+- Türkiye'nin NATO üyeliği hatırlatılarak, anlaşmanın bölgesel çatışmalara sürükleyebileceği savunuldu.
+- Salıcı'nın, anlaşmayı Türkiye'nin çıkarları açısından olumlu görerek desteklediklerini söylediği aktarıldı.
+- Diğer aktarımlarda CHP'nin muhalif olduğu ve bazı milletvekillerinin oylamaya katılmadığı belirtildi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=M2vVDrOTWmA&t=2428s) (⏱️ 40:28-42:52)
-- [Hilal Koylu](https://www.youtube.com/watch?v=HcLqahDCgb0&t=1035s) (⏱️ 17:15-18:54)
+- [Inan Demirel](https://www.youtube.com/watch?v=hyWa1qsG3vU&t=2868s) (⏱️ 47:48-52:20)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=2uvqtimjIfI&t=2171s) (⏱️ 36:11-37:40)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=t8loke2_M8s&t=2088s) (⏱️ 34:48-36:34)
+- [Rusen Cakir](https://www.youtube.com/watch?v=XpveegBHSJQ&t=1161s) (⏱️ 19:21-29:05)
 
 ---
 
-## 5. Emekli Desteklerinde Yaş ve Gelir Tartışması
+## 5. Küresel Belirsizlikler Ekonomi ve Piyasaları Zorluyor
 
-- Emeklilere yönelik ek desteklerin yaş ve gelirle sınırlandırılabileceği öne sürülüyor.
-- Çalışma Bakanlığındaki taslakta ek iyileştirme için 65 yaş şartı bulunduğu iddia ediliyor.
-- Desteklerin 60 ve 65 yaş eşiklerine göre farklılaşabileceği aktarılıyor.
-- Değerlendirmede hane geliri, çalışma durumu ve prim günlerinin gözetileceği belirtiliyor.
-- Ancak düzenlemenin kesinleştiğine ilişkin henüz herhangi bir bilgi paylaşılmıyor.
-- Ünlü, düzenlemenin emeklilere zam yapılacağı izlenimiyle sunulmasını yayında eleştiriyor.
-- İstanbul Gaziosmanpaşa'da pazara çıkan 70 yaşındaki bir emekli, geçinemediğini anlatıyor.
-- Pazara yalnızca 600 lira ayırabildiğini, maaşının temel giderlere yetmediğini söylüyor.
+- Doların 50'yi aştığı, şok yaşanmazsa gelecek yıl yüzde 15-20 artabileceği belirtildi.
+- Kuru tutmak için müdahale edildiği, rezervlerin son ayda azaldığı belirtildi.
+- Altının kısa vadede riskli, uzun vadede değer koruyucu olduğu değerlendirildi.
+- Yüksek faizlerin baskıladığı altının, faizler düşerse gelecek yıl toparlanabileceği öngörüldü.
+- Savaş ve yüksek petrol fiyatlarının küresel enflasyon baskısını artırdığı belirtildi.
+- Enflasyonun varlık sahiplerini zenginleştirirken maaşlıların alım gücünü zayıflattığı ifade edildi.
+- Çin'de zayıf tüketimin, Japonya ve Avrupa'da yüksek borçluluğun öne çıktığı aktarıldı.
+- Türkiye'de artan ödeme güçlükleri karşısında yüksek faizli kart borçlarına öncelik önerildi.
+- Ekonomik güvenin 3,7, tüketici güveninin ise 7,7 puan düştüğü söylendi.
+- Yılmaz'ın sermaye piyasalarına tasarruf yönlendirme çağrısında yatırımcı güveninin önemi vurgulandı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=F7k4vbtpzJI&t=965s) (⏱️ 16:05-17:09)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=M2vVDrOTWmA&t=4153s) (⏱️ 69:13-70:53)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=-IHghAmltlI&t=214s) (⏱️ 03:34-04:15)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=Ab1JLc2ogF4&t=49s) (⏱️ 00:49-03:06)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=t8loke2_M8s&t=966s) (⏱️ 16:06-17:45)
 
 ---
 
-## 6. Demirtaş’ın Tutukluluğu ve Çözüm Süreci
+## 6. Afyonkarahisar’daki silahlı saldırılarda sekiz kişi öldü
 
-- Selahattin Demirtaş ve Figen Yüksekdağ’ın cezaevindeki onuncu yılı gündeme geldi.
-- Demirtaş’ın çocuklarının babalarından uzakta büyüdüğü ve ailenin ayrı kaldığı belirtildi.
-- Tülay Hatimoğulları, Edirne Cezaevi önünde tutuklamaların siyasi darbe olduğunu savundu.
-- Hatimoğulları, siyasetçilerin demokratik faaliyetleri nedeniyle tutulduğunu savunarak Kobani davasını kumpas olarak nitelendirdi.
-- AİHM kararlarının Anayasa’nın 90. maddesi gereği uygulanması gerektiği vurgulandı.
-- Demirtaş’ın dosyası Diyarbakır’daki başka dosyayla birleştirilirken tahliyeye etkisi belirsiz kaldı.
-- Demirtaş, yayımladığı mektupta çözüm sürecindeki tıkanıklığın aşılması için taraflara çağrı yaptı.
-- Demirtaş, devletin demokratikleşme ve hukuki güvenceler sağlama sorumluluğunu özellikle vurguladı.
-- Örgütün silahsızlanma sorumluluğunun devletin sorumluluklarının yerine geçemeyeceğini belirterek tarafları göreve çağırdı.
-- Sürecin silah bırakma ve sonraki adımlara geçişte ilerleyemediği aktarıldı.
+- Afyonkarahisar’ın İhsaniye ilçesindeki üç köyde düzenlenen silahlı saldırılarda sekiz kişi öldü.
+- Hayatını kaybedenler arasında iki öğretmen bulunurken, bir kişi ağır yaralandı.
+- Saldırıları gerçekleştirdiği belirtilen 1996 doğumlu şüphelinin pompalı tüfek kullandığı aktarıldı.
+- Şüphelinin kaçarken araç gasp ederek Eskişehir yönüne gittiği belirtildi.
+- Kaçış sırasında araç çalmaya çalışırken karşılaştığı kişileri öldürdüğü de aktarıldı.
+- Şüpheli, aracının çamura saplanmasının ardından jandarmayla yaşanan çatışma sonrasında canlı yakalandı.
+- Saldırıların nedeni netleşmezken, alacak verecek ve tefecilik iddiaları gündeme geldi.
+- Güvenlik güçlerinin hızlı müdahalesinin daha fazla can kaybını önlediği belirtildi.
+- Olay, bireysel silahlanmaya ve silaha kolay erişime karşı önlem çağrılarını artırdı.
+- RTÜK, ailelerin hassasiyetlerinin gözetilmesini ve olay yeri görüntülerinden kaçınılmasını istedi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Inan Demirel](https://www.youtube.com/watch?v=Oqn1gzO5G50&t=2537s) (⏱️ 42:17-45:18)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=uXjcORF9yTc&t=2037s) (⏱️ 33:57-35:31)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=2uvqtimjIfI&t=88s) (⏱️ 01:28-06:28)
+- [Unsal Unlu](https://www.youtube.com/watch?v=tM2RRzITN5Y&t=1061s) (⏱️ 17:41-18:16)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=t8loke2_M8s&t=1893s) (⏱️ 31:33-34:47)
 
 ---
 
-## 7. Kozinoğlu’nun Ölümünde Adli Tıp Raporu
+## 7. Yayınlarda Gündeme Gelen Açıklama ve İddialar
 
-- Adli Tıp’ın, Kaşif Kozinoğlu’nun ölümünü kalp hastalığına bağladığı aktarıldı.
-- Ölümün kalp krizi olarak açıklandığı, zehirlenme veya travma bulunmadığı belirtildi.
-- Kozinoğlu’nun ölümünün yeniden incelenmesinin geçmişte de gündeme geldiği hatırlatıldı.
-- Gazeteci Selahattin Günday’ın, Kozinoğlu’nun ölümüyle ilgili haberleri nedeniyle tutuklandığı aktarıldı.
-- Aynı soruşturma kapsamında Fatih Ergin’in de tutuklu olduğu ifade edildi.
-- Onlar TV sunucusu, rapora rağmen Günday’ın tutukluluğunun sürmesini sorguladı.
-- Sunucu, şüphelerin araştırılmasını desteklerken kanıtsız kesin hükümlerden kaçınılması gerektiğini vurguladı.
+- Bahar Feyzan, Adana’daki bir cami imamının sosyal medyada yayılan konuşmasını aktardı.
+- Konuşmanın, muhafazakâr olmayan isimlerin iktidar eleştirilerinden farklı etki yarattığı yorumlandı.
+- İmamın konuşmasının içeriğine ilişkin ayrıntılar, aktarılan altyazıda açık biçimde verilmedi.
+- Serdar Akinan, Türk askerinin Suudi Arabistan’a gönderilebileceği yönünde iddiada bulundu.
+- Akinan, Türk askerinin olası görevinin İran’a karşı olabileceğini de söyledi.
+- Aktarılan altyazıda, asker gönderilmesi iddiasını doğrulayacak ayrıntı veya resmî açıklama sunulmadı.
+- Özlem Gürses’in yayınında, Avrupa’daki marketlere ve kan bankalarına siber saldırılardan bahsedildi.
+- Buzdolaplarına uzaktan erişilip sıcaklıklarının değiştirildiği ve stoklara zarar verildiği iddia edildi.
+- Saldırıların arkasında Rusya’nın olabileceği şüphesi aktarıldı, ancak bu iddia doğrulanmadı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=F7k4vbtpzJI&t=1740s) (⏱️ 29:00-29:36)
-- [Onlar TV](https://www.youtube.com/watch?v=s4Q05PZtKQk&t=1055s) (⏱️ 17:35-21:28)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=-IHghAmltlI&t=15s) (⏱️ 00:15-00:43)
+- [Serdar Akinan](https://www.youtube.com/watch?v=HJ6VhtyyKZ0&t=829s) (⏱️ 13:49-13:59)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=Ab1JLc2ogF4&t=191s) (⏱️ 03:11-03:48)
 
 ---
 
-## 8. Borsadaki Düşüş ve Liranın Değer Kaybı
+## 8. Adli Raporlar ve Beraat Kararları Gündemde
 
-- Paylaşılan veriler, 5 Eylül ile 3 Kasım arasındaki düşüşü gösterdi.
-- Şirketlerin toplam piyasa değerinin 22,22 trilyondan 15,63 trilyon liraya gerilediği belirtildi.
-- Sunucu, iki aylık toplam kaybı yaklaşık 6,8 trilyon lira olarak aktardı.
-- Halka açık payların değeri 9,33 trilyondan 4,19 trilyon liraya düştü.
-- Sunucu, bu paylardaki yaklaşık yüzde 55 düşüşü fon kriziyle ilişkilendirdi.
-- Sunucu, borsadaki düşüşün ülke ekonomisi açısından önemli sonuçlar doğurabileceğini savundu.
-- DEVA Partisi lideri Ali Babacan, 200 liralık banknotun değerini sorguladı.
-- Babacan, banknotun başlangıçtaki 134 dolarlık değerinin dört doların altına indiğini söyledi.
-- Kaybın emeklilerin, asgari ücretlilerin, çiftçilerin ve esnafın alım gücünü etkilediğini belirtti.
-- Programda açıklamalar, AK Parti dönemindeki ekonomi yönetimine siyasi mesaj olarak yorumlandı.
+- Adli Tıp raporları, tartışmalı ölüm dosyalarındaki önceki iddialarla çelişen bulgular sundu.
+- Eski MİT mensubu Kaşif Kozinoğlu’nun ölümü yeniden kamuoyunun gündemine geldi.
+- Kozinoğlu’nun mezarının açılmasının ardından Adli Tıp Kurumu tarafından rapor hazırlandı.
+- Raporda, travma veya zehirlenmeyle öldüğünü gösteren herhangi bir tıbbi delil bulunmadı.
+- Ölümünün kalp hastalığı veya olası kalp kriziyle bağlantılı olduğu değerlendirildi.
+- Ahmet Deniz Solgun’un ölümünde yüksek tansiyona bağlı beyin kanaması saptandı.
+- Ela Rümeysa Cebeci ve Sadettin Saran, uyuşturucu temini suçlamasıyla yargılanıyordu.
+- İki isim, uyuşturucu kullananlara yer sağlama suçlamasıyla da yargı önündeydi.
+- Mahkeme, suçun unsurlarının oluşmadığı gerekçesiyle her iki ismin beraatine karar verdi.
+- Özlem Gürses, bu süreçlerin yargıya duyulan güveni zedelediğini savundu.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=92CUnNSnCDg&t=1710s) (⏱️ 28:30-32:40)
-- [Inan Demirel](https://www.youtube.com/watch?v=Oqn1gzO5G50&t=1751s) (⏱️ 29:11-31:40)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=2uvqtimjIfI&t=1970s) (⏱️ 32:50-36:07)
+- [Inan Demirel](https://www.youtube.com/watch?v=GRBzndX05Ic&t=2398s) (⏱️ 39:58-41:45)
 
 ---
 
-## 9. Fenerbahçe Liverpool’u 3-2 Mağlup Etti
+## 9. Yakınlarını Kaybeden Ailelerden Yetkililere Tepki
 
-- Fenerbahçe, Liverpool’u 3-2 mağlup ederek karşılaşmayı galibiyetle tamamladı.
-- Hilmi Hacaloglu, galibiyetten duyduğu sevinci paylaşarak Fenerbahçe’nin başarılarının sürmesini diledi.
-- Onlar TV sunucusu, Fenerbahçe’nin Liverpool karşısında iyi oynadığını belirtti.
-- Sunucu, cezaevindeki Fenerbahçeli gazeteci Murat Arel’in karşılaşmayı izleyebilmiş olmasını umdu.
+- Kartalkaya yangınında yakınlarını kaybeden aileler, basın açıklamasıyla yetkililere tepki gösterdi.
+- Yangında hayatını kaybeden 78 kişinin 34’ünün çocuk olduğu hatırlatıldı.
+- Aileler, denetim yetkisini reddeden Bakanlığın 2023’te otellerden yangın belgesi istediğini belirtti.
+- Denetim belgesi uygulamasının Mayıs 2024’te Bakanlık yetkilisinin imzasıyla ertelendiği öne sürüldü.
+- Aileler ve yayının sunucusu, sorumluların henüz hesap vermemesini eleştirdi.
+- Gaziantep’te 17 yaşındaki Halil İbrahim Yağız, altıncı kattan düşerek öldü.
+- Ağabeyi, sabah sağlıklı şekilde okula gönderdiği kardeşinin akşam cenazesini aldığını söyledi.
+- Aile, Milli Eğitim Bakanlığı yetkililerinin yalnızca bir kez geldiğini belirtti.
+- Aile, bu ziyaretin ardından yetkililerin kendileriyle bir daha ilgilenmediğini söyledi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=92CUnNSnCDg&t=2797s) (⏱️ 46:37-47:13)
-- [Onlar TV](https://www.youtube.com/watch?v=s4Q05PZtKQk&t=31s) (⏱️ 00:31-01:07)
+- [Inan Demirel](https://www.youtube.com/watch?v=hyWa1qsG3vU&t=2275s) (⏱️ 37:55-40:25)
+- [Unsal Unlu](https://www.youtube.com/watch?v=tM2RRzITN5Y&t=1773s) (⏱️ 29:33-29:47)
 
 ---
 
-## 10. Erdoğan Liderliği Üzerine Siyasi Tartışmalar
+## 10. TBMM’de Bütçe Görüşmelerinde Muhalefetten Tepki
 
-- Tuzla Belediye Başkanı Eren Ali Bingöl sosyal medya mesajı yayımladı.
-- Bingöl, AK Parti’nin 24. kuruluş yıldönümü mesajında hizmetleri ve reformları övdü.
-- Bingöl, Cumhurbaşkanı Erdoğan liderliğinde çalışmalarını sürdürme kararlılığını da dile getirdi.
-- Programda mesaj, fon vurgunu ve tutuklu belediye başkanları bağlamında eleştirildi.
-- İYİ Parti Genel Başkanı Müsavat Dervişoğlu, Meclis konuşmasında Erdoğan’ı eleştirdi.
-- Dervişoğlu, Erdoğan’ın önce bürokrasinin yönetim üzerindeki baskısıyla mücadele ettiğini savundu.
-- Daha sonra Erdoğan’ın kendisine ait bir bürokratik düzen kurduğunu söyledi.
-- Dervişoğlu, Cumhurbaşkanı Erdoğan’a yönelik eleştirilerini “Kral tutsak” sözleriyle tamamladı.
+- Bakan Mehmet Nuri Ersoy, Plan ve Bütçe Komisyonu’nda protesto edildi.
+- Protestoların Kartalkaya’daki otel yangınına ilişkin sorumluluk tartışmalarından kaynaklandığı aktarıldı.
+- Ersoy’un yangınla ilgili soruları yanıtlamaktan kaçındığı yönünde eleştiriler dile getirildi.
+- Borsa İstanbul Başkanı Erişah Arıcan, TBMM’deki bütçe görüşmelerine katılmadı.
+- Arıcan, Türkiye Varlık Fonu Başkan Vekilliği görevini de yürütüyor.
+- Muhalefet, Arıcan’ın ve ilgili kurum yöneticilerinin yokluğunu eleştirerek açıklama istedi.
+- Mehmet Şimşek ile BDDK ve SPK yöneticileri görüşmede hazır bulundu.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Inan Demirel](https://www.youtube.com/watch?v=Oqn1gzO5G50&t=1897s) (⏱️ 31:37-33:40)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=etv-mKyQhVU&t=217s) (⏱️ 03:37-04:34)
+- [Inan Demirel](https://www.youtube.com/watch?v=hyWa1qsG3vU&t=2210s) (⏱️ 36:50-37:55)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=t8loke2_M8s&t=658s) (⏱️ 10:58-14:03)
 
 ---
 
