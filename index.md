@@ -1,229 +1,220 @@
 # Bugün Ne Oldu?
 
-*10 November 2026 tarihli günlük haber raporu - 10 haber birleştirildi*
+*11 November 2026 tarihli günlük haber raporu - 10 haber birleştirildi*
 
-## 1. Fon Soruşturmasında Tutuklamalar ve Şeffaflık Tartışması
+## 1. Fon Soruşturması Finans Bürokrasisine Uzandı
 
-- Gürlek, 9 Kasım itibarıyla fon soruşturmasında 464 şüpheli bulunduğunu açıkladı.
-- Soruşturmada 120 kişi tutuklu, 262 kişiye adli kontrol uygulanıyor.
-- Ayrıca 40 şüpheli hakkında yakalama kararı bulunduğu bilgisi paylaşıldı.
-- İade tutarı kaynaklarda 31,5 ve 32,5 milyar lira olarak aktarıldı.
-- BDDK yöneticisi Muhammed Erişen ve bankacı Murat Yönaç’ın tutuklandığı bildirildi.
-- Tutuklandığı aktarılan Fatma Betül Sayan Kaya, suçlamaları reddettiğini söyledi.
-- Kaya, eşiyle birlikte TMSF’nin bildirdiği tutarı iade ettiklerini belirtti.
-- Muhalefet ve bazı iktidar temsilcileri, açıklanmayan fon listesini gündeme taşıdı.
-- Listenin açıklanmamasına müşteri sırrı gerekçe gösterilirken, siyasi bağlantıların araştırılması istendi.
-- Batuhan Mumcu, hakkındaki gözaltı iddiasını reddederek görevine devam ettiğini söyledi.
+- BDDK Başkanı Şahap Kavcıoğlu, kurumun yıpranmaması gerekçesiyle görevden affını istedi.
+- Fon soruşturması BDDK, SPK, Takasbank ve Borsa İstanbul yöneticilerine uzandı.
+- Yunus Arıncı, Ali Paslı ve Ömer Murat Gülkan'ın tutuklandığı bildirildi.
+- Kemal Akkaya ve bazı diğer şüpheliler hakkında adli kontrol uygulandı.
+- Yayınlarda aktarılan son bilgilere göre soruşturmadaki tutuklu sayısı 123'e yükseldi.
+- Adalet Bakanı'na göre 188 milyar liranın 32,5 milyarı iade edildi.
+- Paralarına erişemeyen vatandaşlar ve işletmeler ödemelerde zorlanıyor, bazı işyerleri kapanıyor.
+- Fonlardaki olağandışı yükselişler, kara para ve siyasi bağlantı iddiaları tartışılıyor.
+- İsim listesinin açıklanmaması eleştirilirken denetim kurumlarının sorumluluğunun araştırılması talep ediliyor.
+- Yöneylem anketinde katılımcıların yüzde 42,2'si fon krizinden hükümeti sorumlu tuttu.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=0KqEiPhzfVA&t=807s) (⏱️ 13:27-53:47)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=c5eNDSq1cLk&t=1166s) (⏱️ 19:26-27:34)
-- [Onlar TV](https://www.youtube.com/watch?v=y9UCnAQ3MqY&t=844s) (⏱️ 14:04-36:30)
-- [Inan Demirel](https://www.youtube.com/watch?v=5vS3KyV_p28&t=1195s) (⏱️ 19:55-22:20)
-- [Hilal Koylu](https://www.youtube.com/watch?v=bjP14Y5m5ow&t=1061s) (⏱️ 17:41-20:00)
-- [Unsal Unlu](https://www.youtube.com/watch?v=8vuuYfkql3E&t=949s) (⏱️ 15:49-19:08)
-- [Murat Yetkin](https://www.youtube.com/watch?v=AGf4pu6_3-k&t=221s) (⏱️ 03:41-04:16)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=ZV0FVkcPr7o&t=549s) (⏱️ 09:09-17:32)
-- [Rusen Cakir](https://www.youtube.com/watch?v=FP3zS-Ch2tk&t=34s) (⏱️ 00:34-11:16)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=spJMjHuLpBY&t=605s) (⏱️ 10:05-11:37)
-- [Serdar Akinan](https://www.youtube.com/watch?v=MsuNSZu3J2M&t=788s) (⏱️ 13:08-18:06)
+- [Serdar Akinan](https://www.youtube.com/watch?v=PmclkE3zBaU&t=1511s) (⏱️ 25:11-32:45)
+- [Cigdem Toker](https://www.youtube.com/watch?v=pxrURNktH1s&t=420s) (⏱️ 07:00-08:47)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=l-X1PL84NJ8&t=1062s) (⏱️ 17:42-28:18)
+- [Onlar TV](https://www.youtube.com/watch?v=Ei1Tm8wJ05c&t=1818s) (⏱️ 30:18-46:34)
+- [Unsal Unlu](https://www.youtube.com/watch?v=QZu88rAOf6o&t=80s) (⏱️ 01:20-06:47)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=yA6V7GpeYOU&t=229s) (⏱️ 03:49-05:38)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=t1-QXlxO5c4&t=1498s) (⏱️ 24:58-26:07)
+- [Hilal Koylu](https://www.youtube.com/watch?v=qcCHynlqS8I&t=1493s) (⏱️ 24:53-31:38)
+- [Murat Yetkin](https://www.youtube.com/watch?v=woL6uSfF288&t=4s) (⏱️ 00:04-18:56)
+- [Rusen Cakir](https://www.youtube.com/watch?v=1vSSr49WAOU&t=17s) (⏱️ 00:17-20:33)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=2Lv6UuVj2Og&t=45s) (⏱️ 00:45-10:59)
+- [Inan Demirel](https://www.youtube.com/watch?v=7aj323JTKTI&t=1909s) (⏱️ 31:49-35:35)
 
 ---
 
-## 2. Habaş’taki Patlamada Can Kaybı 18’e Yükseldi
+## 2. Yargı Süreçleri ve Siyasi Baskı Tartışmaları
 
-- İzmir Aliağa’daki Habaş fabrikasında patlamada ölen işçilerin sayısı 18’e yükseldi.
-- Yaralı sayısı farklı haberlerde 12 ve 14 olarak bildirildi.
-- İlk incelemelerde, düşen parçaların doğalgaz ve oksijen borularını kopardığı belirtildi.
-- Soruşturmada yönetim kurulu başkanı dahil 11 kişi hakkında gözaltı kararı bildirildi.
-- Çalışma Bakanı Vedat Işıkhan, inceleme için iki başmüfettiş görevlendirildiğini açıkladı.
-- Tesiste geçmişte yaşanan ölümcül kazalar, iş güvenliği ihmali iddialarını gündeme getirdi.
-- 2016’da bildirilen güvenlik risklerine, denetimde sorun bulunmadığı yanıtı verildiği aktarıldı.
-- İşçilerin güvenlik koşullarını daha önce protesto ettiği de belirtildi.
-- Üç bakan olay yerine gitti; Cumhurbaşkanı Erdoğan başsağlığı mesajı yayımladı.
-- Olayla ilgili yayın yasağı getirildi, RTÜK sorumlu yayıncılık uyarısı yaptı.
+- Yonca Şık, casusluk soruşturmasında ifade vererek yurt dışı yasağıyla bırakıldı.
+- Heinrich Böll Vakfı çalışanı Şık'a maaşı ve harcamaları soruldu.
+- Yorumcular, soruşturmayı Ahmet Şık'ın açıklamalarıyla ilişkilendirerek siyasi baskı iddiasında bulundu.
+- Aykut Erdoğdu, İBB davasında tahliye isteyerek tutukluluk koşullarını eleştirdi.
+- İsmail Saymaz'ın ev hapsi kaldırıldı ancak diğer adli kontrolleri sürdü.
+- Gazeteci Ali Tarakçı, 46 günlük tutukluluğunun ardından cezaevinden tahliye edildi.
+- Emir Sarıgül'ün ev hapsine alınması, diğer tutuklularla karşılaştırılarak çifte standartla eleştirildi.
+- Mustafa Sarıgül hakkındaki soruşturma dosyasının yetkisizlikle Ankara'ya gönderildiği aktarıldı.
+- MHP, yolsuzluk ve rüşvet suçlamalarında milletvekili dokunulmazlığının sınırlandırılmasını önerdi.
+- Akın Gürlek ile Turan Taşkın Özer arasında dokunulmazlık tartışması yaşandı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Murat Yetkin](https://www.youtube.com/watch?v=AGf4pu6_3-k&t=20s) (⏱️ 00:20-00:57)
-- [Onlar TV](https://www.youtube.com/watch?v=x6ll4oCojig&t=25s) (⏱️ 00:25-03:43)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=0KqEiPhzfVA&t=18s) (⏱️ 00:18-10:47)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=c5eNDSq1cLk&t=428s) (⏱️ 07:08-13:28)
-- [Unsal Unlu](https://www.youtube.com/watch?v=8vuuYfkql3E&t=1189s) (⏱️ 19:49-26:05)
-- [Hilal Koylu](https://www.youtube.com/watch?v=bjP14Y5m5ow&t=61s) (⏱️ 01:01-03:57)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=spJMjHuLpBY&t=1888s) (⏱️ 31:28-36:30)
-- [Inan Demirel](https://www.youtube.com/watch?v=5vS3KyV_p28&t=1938s) (⏱️ 32:18-41:05)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=2Lv6UuVj2Og&t=967s) (⏱️ 16:07-17:49)
+- [Unsal Unlu](https://www.youtube.com/watch?v=XrANnup3CCY&t=1321s) (⏱️ 22:01-22:30)
+- [Onlar TV](https://www.youtube.com/watch?v=bZD5zfxBedQ&t=1578s) (⏱️ 26:18-30:53)
+- [Inan Demirel](https://www.youtube.com/watch?v=7aj323JTKTI&t=3082s) (⏱️ 51:22-55:27)
+- [Hilal Koylu](https://www.youtube.com/watch?v=qcCHynlqS8I&t=1898s) (⏱️ 31:38-34:21)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=yA6V7GpeYOU&t=1232s) (⏱️ 20:32-21:47)
+- [Rusen Cakir](https://www.youtube.com/watch?v=oL6KIeII7oQ&t=85s) (⏱️ 01:25-08:49)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=lyiY3PkIiNw&t=49s) (⏱️ 00:49-14:37)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=l-X1PL84NJ8&t=1026s) (⏱️ 17:06-17:39)
 
 ---
 
-## 3. Antalya’da COP31 İklim Zirvesi Başladı
+## 3. HABAŞ’taki Patlamada Ölü Sayısı 19’a Yükseldi
 
-- Türkiye’nin ilk kez ağırladığı COP31, Antalya’da 196 ülkenin katılımıyla başladı.
-- On iki günlük zirvede enerji dönüşümü ve azalan su kaynakları tartışılıyor.
-- Lula’nın Erdoğan’la görüşmesi beklenirken, Greta Thunberg’in de Türkiye’de bulunduğu aktarıldı.
-- John Kerry, temiz enerjiye geçişin ekonomik zorunluluk haline geldiğini söyledi.
-- Al Gore, 2026’nın ölçümlerdeki en sıcak yıllardan olacağını belirtti.
-- Murat Kurum, iklim değişikliğiyle mücadele için on maddelik plan hazırlandığını açıkladı.
-- Bayraktar, yenilenebilir enerji dönüşümüne 2040’a kadar 300 milyar dolar yatırılacağını açıkladı.
-- Koç Holding, 2040’a kadar operasyonlarında tatlı su çekimini yüzde 85 azaltmayı hedefliyor.
-- Çevresel etkileri nedeniyle eleştirilen şirketlerin sponsorluğu, zirvenin hedefleriyle çelişkili bulundu.
-- Akbelen, Cerattepe ve Rize örnekleriyle çevreye zararlı projelerin durdurulması savunuldu.
+- İzmir Aliağa’daki HABAŞ fabrikasında patlamada ölen işçilerin sayısı 19’a yükseldi.
+- Patlamanın, tavan vincinin metal eritilen ocağa düşmesiyle gerçekleştiği bildirildi.
+- Barış Güney’in cenazesinin belirlenmesi için DNA eşleştirmesine başvurulduğu aktarıldı.
+- Şirket sahibi Mehmet Rüştü Başaran dahil 11 kişi gözaltına alındı.
+- İşçilerin patlamadan önce güvenlik önlemlerinin yetersizliğine karşı eylem yaptığı belirtildi.
+- Bir aile, yakınlarının önceki yaralanmasını işten çıkarılma korkusuyla bildiremediğini anlattı.
+- Şirket raporunda, taşeron işçilerdeki kaza sayısının 38’den 83’e çıktığı belirtildi.
+- Tesiste geçmiş kazalarla birlikte en az 28 işçinin öldüğü öne sürüldü.
+- Patlama sonrasında üretimin sürdüğü ve protestocu bir işçinin gözaltına alındığı aktarıldı.
+- Fabrika hakkında Mecliste araştırma açılmasına yönelik önergenin reddedildiği bilgisi paylaşıldı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=8vuuYfkql3E&t=2564s) (⏱️ 42:44-47:35)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=spJMjHuLpBY&t=2602s) (⏱️ 43:22-45:05)
-- [Murat Yetkin](https://www.youtube.com/watch?v=AGf4pu6_3-k&t=134s) (⏱️ 02:14-12:53)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=c5eNDSq1cLk&t=3404s) (⏱️ 56:44-65:33)
-- [Hilal Koylu](https://www.youtube.com/watch?v=bjP14Y5m5ow&t=2124s) (⏱️ 35:24-37:55)
+- [Onlar TV](https://www.youtube.com/watch?v=Ei1Tm8wJ05c&t=250s) (⏱️ 04:10-12:38)
+- [Unsal Unlu](https://www.youtube.com/watch?v=XrANnup3CCY&t=1162s) (⏱️ 19:22-21:49)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=x9cQwH5c4gA) (⏱️ 00:00-26:35)
+- [Cigdem Toker](https://www.youtube.com/watch?v=pxrURNktH1s&t=527s) (⏱️ 08:47-15:45)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=yA6V7GpeYOU&t=2876s) (⏱️ 47:56-51:18)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=t1-QXlxO5c4&t=860s) (⏱️ 14:20-17:33)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=2Lv6UuVj2Og&t=1471s) (⏱️ 24:31-28:19)
+- [Inan Demirel](https://www.youtube.com/watch?v=7aj323JTKTI&t=2489s) (⏱️ 41:29-46:35)
 
 ---
 
-## 4. Belediye Başkanlarının Parti Değiştireceği İddiaları Gündemde
+## 4. İBB Davasında Ara Karar Bekleniyor
 
-- İzmir Büyükşehir Belediye Başkanı Cemil Tugay, 10 Kasım töreninde yuhalandı.
-- Protestonun, Tugay'ın tören sırasında Atatürk anıtına çelenk koyarken gerçekleştiği aktarıldı.
-- Tugay'ın AK Parti'ye geçtiği yönündeki ifadeler yayınlarda doğrulama sunulmadan aktarıldı.
-- Tekirdağ Büyükşehir Belediye Başkanı Candan Yüceer'in AK Parti'ye geçeceği iddia edildi.
-- Yüceer'in Yeni Parti'den ayrılmasını delege yapılmamasına bağladığı yayınlarda aktarıldı.
-- Zeynel Emre, Yüceer'in birkaç gündür telefonlara yanıt vermediğini söyledi.
-- Emre, Yüceer'in daha önce tutuklanma planından söz ettiğini öne sürdü.
-- Yüceer'in 13 Kasım'da AK Parti'ye katılacağı iddiasının kesinleşmediği vurgulandı.
-- Bazı yorumcular, olası geçişi belediye yönetimine baskı endişeleriyle ilişkilendirdi.
-- Yayınlardaki parti adı karışıklığı üzerine CHP'den düzeltme talebi geldi.
+- İBB davasında üçüncü celse sürerken, duruşmaların 107. gününe ulaşıldığı aktarıldı.
+- Mahkeme heyetinin gün içinde bir ara karar açıklaması bekleniyor.
+- Tahliye talepleri değerlendirilirken, ara kararda tahliye çıkıp çıkmayacağı henüz bilinmiyor.
+- İmamoğlu’nun tahliye talebine ilişkin savunmasının ertesi gün yapılmasının beklendiği aktarıldı.
+- Ekrem İmamoğlu, duruşmada Atatürk’ün kurduğu Cumhuriyet’te yaşadığını ifade etti.
+- Duruşmayı izleyenler, mahkeme salonunda “Mustafa Kemal’in askerleriyiz” sloganı attı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=c5eNDSq1cLk&t=808s) (⏱️ 13:28-15:53)
-- [Unsal Unlu](https://www.youtube.com/watch?v=8vuuYfkql3E&t=1620s) (⏱️ 27:00-28:11)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=spJMjHuLpBY&t=2190s) (⏱️ 36:30-40:40)
-- [Onlar TV](https://www.youtube.com/watch?v=x6ll4oCojig&t=5172s) (⏱️ 86:12-88:41)
-- [Inan Demirel](https://www.youtube.com/watch?v=5vS3KyV_p28&t=2466s) (⏱️ 41:06-44:05)
+- [Unsal Unlu](https://www.youtube.com/watch?v=XrANnup3CCY&t=1568s) (⏱️ 26:08-26:39)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=YVH167zHJRo&t=3327s) (⏱️ 55:27-55:45)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=t1-QXlxO5c4&t=1457s) (⏱️ 24:17-24:55)
 
 ---
 
-## 5. Sarıgül Hakkındaki Soruşturma Dosyası Ankara’ya Gönderildi
+## 5. Ekonomide Enflasyon ve Kaynak Arayışı
 
-- Özgür Özel, Emir Sarıgül’e karşı 1 milyon liralık tazminat davası açtı.
-- Özel, Mustafa Sarıgül’den rüşvet aldığı yönündeki iddiaların doğru olmadığını söyledi.
-- Mustafa Sarıgül’ün soruşturma dosyası, milletvekilliği dokunulmazlığı nedeniyle Ankara Cumhuriyet Başsavcılığına gönderildi.
-- Dokunulmazlığın kaldırılması sürecinde dosyanın Adalet Bakanlığı üzerinden Meclis’e iletilmesi bekleniyor.
-- Dosyada suç örgütü kurma ve çocukların cinsel istismarı iddiaları bulunuyor.
-- Nitelikli cinsel saldırı iddialarıyla ilgili mağdur ifadelerinin dosyada bulunduğu aktarılıyor.
-- Şişli Belediye Başkanlığı döneminde rüşvetle ve imar işlemleriyle zenginleştiği öne sürülüyor.
-- Dosyada yurt dışına para çıkarma, aklama ve gizli ortaklık iddiaları bulunuyor.
-- Emir Sarıgül’ün bağış baskısı ve para aklama iddialarıyla ifade verdiği aktarılıyor.
-- Mustafa Sarıgül, kumpas kurulduğunu savunarak yakında kapsamlı bir açıklama yapacağını duyurdu.
+- Konuşmacılar, net rezervlerin 37–38 milyar dolara gerilediğini, doların 50 lirayı aştığını belirtti.
+- Merkez Bankası'nın enflasyon raporunu ertesi gün 10.30'da açıklayacağı duyuruldu.
+- Nuray Babacan'ın haberine göre, Ocak 2027'de maaşlara refah payı değerlendiriliyor.
+- Emeklilere 5–20 puanlık ek artış, en düşük maaşa 30 bin lira konuşuluyor.
+- Konuşmacılar, zam kaynağının bulunmadığını ve para basmanın enflasyonu artırabileceğini savundu.
+- Bank of America, fon krizinin ekonomiye yayılma riskinin sınırlı göründüğünü bildirdi.
+- Banka, güvenin zayıfladığını, hızlanan talep daralmasının enflasyonu sınırladığını belirtti.
+- Banka, aralıkta bir puanlık faiz indirimi, 2027 sonunda yüzde 25 enflasyon bekliyor.
+- Politika faiziyle bankaların mevduat faizleri arasındaki farkın yüksek olduğu vurgulandı.
+- Güven için yapısal reformlar, liyakatli atamalar ve kurumsal bağımsızlık gerektiği savunuldu.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Inan Demirel](https://www.youtube.com/watch?v=5vS3KyV_p28&t=2647s) (⏱️ 44:07-45:44)
-- [Murat Yetkin](https://www.youtube.com/watch?v=AGf4pu6_3-k&t=209s) (⏱️ 03:29-03:41)
-- [Hilal Koylu](https://www.youtube.com/watch?v=bjP14Y5m5ow&t=2013s) (⏱️ 33:33-35:24)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=spJMjHuLpBY&t=2440s) (⏱️ 40:40-42:07)
-- [Onlar TV](https://www.youtube.com/watch?v=x6ll4oCojig&t=4162s) (⏱️ 69:22-85:58)
+- [Serdar Akinan](https://www.youtube.com/watch?v=PmclkE3zBaU&t=912s) (⏱️ 15:12-18:23)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=YVH167zHJRo&t=4684s) (⏱️ 78:04-78:17)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=yA6V7GpeYOU&t=1441s) (⏱️ 24:01-25:36)
 
 ---
 
-## 6. Gazetecilerin Tutukluluğu ve Dezenformasyon Tartışması
+## 6. CHP ve Yeni Parti’de yenilenme gündemi
 
-- İnisiyatifin paylaştığı listeye göre toplam 12 gazeteci cezaevinde bulunuyor.
-- Listede Merdan Yanardağ’ın bir yılı aşan tutukluluk süresi de aktarılıyor.
-- Gazetecilerin çoğunun halkı yanıltıcı bilgiyi alenen yaymakla suçlandığı belirtiliyor.
-- MHP Genel Başkan Yardımcısı Feti Yıldız, dezenformasyon yasasının gerekliliğini savunuyor.
-- Yıldız, haber veya ifadeler nedeniyle uygulanan tutuklamaların çoğuna karşı çıkıyor.
-- Yıldız, dezenformasyon suçunun oluşması için beş şartın birlikte gerçekleşmesini arıyor.
-- Deniz Zeyrek, haber amaçlı gazetecilik faaliyetlerinin bu kapsamda suç oluşturmadığını savunuyor.
-- Zeyrek, Saymaz’ın ev hapsi ve elektronik kelepçe uygulamasının gerekçesini sorguluyor.
-- Murat Yetkin, İsmail Saymaz’ın ikinci ev hapsinin sona erdiğini aktarıyor.
-- İnan Demirel, dezenformasyonu belirlemede İletişim Başkanlığı’nın rolünü eleştirerek gazeteciliğe destek istiyor.
+- Özgür Özel’in CHP Parti Meclisini genişleterek küskünlükleri azaltma girişimi tartışılıyor.
+- CHP’de kadroların yenilenmesi ve delege sisteminin etkisinin azaltılması gerektiği savunuluyor.
+- Yeni kadrolar olmadan muhalefetin toplumsal desteğini kaybedebileceği yönünde uyarılar yapılıyor.
+- Yeni Parti, Ankara’daki ilk kurultayında hafta sonu “Türkiye yenileniyor” sloganıyla projelerini açıklayacak.
+- Çakırözer, genel başkanlık ön seçiminde Özgür Özel’in 639.454 oy aldığını belirtti.
+- Yeni tüzükle kurulacak yerel meclislere üyeler, gönüllüler ve sivil toplum katılabilecek.
+- Tüzüğe eklenecek etik ilkelerin uygulanmasını takip etmek üzere etik kurulu kurulacak.
+- Parti Meclisi kurultaya özel 150 üyeye çıkarılarak örgüt temsilcileriyle uzmanları kapsayacak.
+- Çakırözer, CHP’den ayrılan yaklaşık 250 belediye başkanının Yeni Parti’ye katıldığını söyledi.
+- Çakırözer, bazı belediye başkanlarıyla meclis üyelerinin baskıya maruz kaldığını öne sürdü.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Murat Yetkin](https://www.youtube.com/watch?v=AGf4pu6_3-k&t=120s) (⏱️ 02:00-02:07)
-- [Inan Demirel](https://www.youtube.com/watch?v=5vS3KyV_p28&t=2748s) (⏱️ 45:48-49:04)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=spJMjHuLpBY&t=1729s) (⏱️ 28:49-30:26)
+- [Unsal Unlu](https://www.youtube.com/watch?v=XrANnup3CCY&t=2549s) (⏱️ 42:29-46:45)
+- [Rusen Cakir](https://www.youtube.com/watch?v=oL6KIeII7oQ&t=544s) (⏱️ 09:04-18:12)
 
 ---
 
-## 7. Atatürk’ün Mirası ve Cumhuriyetin Kuruluş Mücadelesi
+## 7. 10 Kasım’da Atatürk’e Yoğun Anma
 
-- Atatürk’ün vefatının 88. yılında yaşamı, mücadelesi ve cumhuriyet mirası değerlendiriliyor.
-- Devrimcilik, bilim, özgürlük ve hukuk temelinde sürekli yenilenme anlayışı olarak anlatılıyor.
-- Saltanatın kaldırılması, cumhuriyet, hukuk ve eğitim reformları dönüşümün temelleri sayılıyor.
-- Demiryolu, sanayi ve bankacılık yatırımları ekonomik bağımsızlığın başlıca araçları olarak sunuluyor.
-- Hatay politikası, kazanımları koruyan gerçekçi ve sabırlı stratejinin örneği sayılıyor.
-- Otoriter yönetim tarzı, Meclis’in rolü ve dönemin koşullarıyla birlikte tartışılıyor.
-- Terakkiperver ve Serbest Cumhuriyet fırkaları, çok partili yaşam denemeleri olarak değerlendiriliyor.
-- Basın özgürlüğüne yaklaşımı, İstanbul gazeteleriyle yaşadığı gerilimler üzerinden de ele alınıyor.
-- Sofra toplantıları, farklı görüşlerin tartışıldığı ve İnönü’yle anlaşmazlıkların yaşandığı ortamlar olarak anlatılıyor.
-- Mirasını yaşatmanın, sembolik anmaların ötesinde eşitlik ve adalet mücadelesi gerektirdiği vurgulanıyor.
+- Türkiye’de ve dünyada yurttaşlar, saat 09.05’te Atatürk’ü anmak için durdu.
+- Ankara’daki yoğun kar yağışına rağmen Anıtkabir’deki anmaya yoğun katılım gerçekleşti.
+- Cumhurbaşkanı ve devlet erkânı da Anıtkabir’de düzenlenen resmi törene katıldı.
+- Cumhuriyet, bağlılık, minnet ve umut duygularının vurgulandığı anmayı manşetine taşıdı.
+- Ünlü, Atatürk’e ve Cumhuriyet’e yönelik eleştirilerin toplumsal bağlılığı azaltmadığını savundu.
+- Dilipak’ın fon krizini COP31 ve 10 Kasım’la karşılaştıran paylaşımı eleştirildi.
+- Zeyrek, ekonomik kayıplar nedeniyle fon krizinin gündemde kalmasını doğal buldu.
+- Zeyrek, Google arama verilerinin 10 Kasım’a yoğun ilgi gösterdiğini aktardı.
+- 10 Kasım paylaşımlarının geçen yıla göre yalnızca yüzde 5 farklılaştığı belirtildi.
+- İzmir’deki törende Büyükşehir Belediye Başkanı Cemil Tugay’ın yuhalandığı da aktarıldı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Fatih Altayli](https://www.youtube.com/watch?v=42loh7kV7X8&t=141s) (⏱️ 02:21-16:20)
-- [Unsal Unlu](https://www.youtube.com/watch?v=9IRd9xDKPms&t=79s) (⏱️ 01:19-33:37)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=kmFLhlfMW_4&t=13s) (⏱️ 00:13-35:42)
+- [Unsal Unlu](https://www.youtube.com/watch?v=QZu88rAOf6o&t=408s) (⏱️ 06:48-15:19)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=yA6V7GpeYOU&t=543s) (⏱️ 09:03-10:47)
 
 ---
 
-## 8. Apple CEO’su Tim Cook Türkiye’yi ziyaret etti
+## 8. Akaryakıtta İndirim, Diğer Kalemlerde Zam Gündemi
 
-- Apple CEO’su Tim Cook, Türkiye ziyareti kapsamında Cumhurbaşkanı Erdoğan’la görüştü.
-- Cook, Cumhurbaşkanı Erdoğan’la görüşmesi öncesinde Ankara’da Anıtkabir’i ziyaret etti.
-- Atatürk’ün mozolesine çelenk bırakan Cook, ziyaretinden onur duyduğunu sosyal medyada paylaştı.
-- İstanbul’da Bağdat Caddesi’ne giden Cook, voleybolcu Eda Erdem’le de buluştu.
-- Erdem, Türk milli voleybol takımında ve Fenerbahçe’de kaptanlık yapıyor.
-- Cook’a Türk çayı ve simit ikram edildi; buluşmanın görüntülerini paylaştı.
-- Ziyaret kapsamında Apple’ın Türkiye’de bazı istasyonlar kuracağı da belirtildi.
-- Türkiye’de iPhone ve diğer Apple ürünlerinin yüksek fiyatları gündeme geldi.
-- Vergiler ve cihaz kayıt ücretlerinin fiyatlara etkisi de gündeme taşındı.
+- Benzin ve motorinde litre başına 3-5 lira indirim bekleniyor.
+- İndirimle benzin ve motorinin yaklaşık 70 liraya gerilemesi öngörülüyor.
+- Beklenen indirimin ardından akaryakıta yeniden zam gelebileceği de vurgulandı.
+- Tekel Bayileri Platformu Başkanı sigara ve alkollü içkilerde zam bekliyor.
+- Yayında sigara fiyatlarında yaklaşık yüzde 10 artış beklentisi aktarıldı.
+- Milli Piyango’nun yılbaşı büyük ikramiyesi 1 milyar lira olarak açıklandı.
+- Milli Piyango biletlerinin fiyatlarına yüzde 25 oranında zam yapıldı.
+- Tam bilet 800 liradan 1.000, yarım bilet 400 liradan 500 liraya yükseldi.
+- Çeyrek biletin fiyatı ise 200 liradan 250 liraya çıkarıldı.
+- Deniz Zeyrek, fon krizindeki kayıpların büyük ikramiye beklentisini azalttığını belirtti.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=0KqEiPhzfVA&t=3255s) (⏱️ 54:15-56:38)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=c5eNDSq1cLk&t=4070s) (⏱️ 67:50-71:24)
-- [Unsal Unlu](https://www.youtube.com/watch?v=8vuuYfkql3E&t=1568s) (⏱️ 26:08-26:24)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=2Lv6UuVj2Og&t=2030s) (⏱️ 33:50-34:49)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=yA6V7GpeYOU&t=2639s) (⏱️ 43:59-45:55)
 
 ---
 
-## 9. Atatürk Ölümünün 88. Yılında Türkiye Genelinde Anıldı
+## 9. Antalya’daki COP31 Zirvesinde İklim Eylemi Çağrısı
 
-- Cumhuriyet'in kurucusu Mustafa Kemal Atatürk, ölümünün 88. yılında Türkiye'de anıldı.
-- Saat 09.05'te ülkenin dört bir yanında Atatürk için sirenler çaldı.
-- Türkiye genelinde ve Anıtkabir'de 10 Kasım anma etkinlikleri yapılması bekleniyor.
-- İstanbul'da büyük kalabalıklar, Atatürk'ü anmak için 10 Kasım'da Dolmabahçe'de toplandı.
-- İstanbul Valiliği, Dolmabahçe'de anma için toplanan büyük kalabalığı dronla görüntüledi.
-- İnan Demirel, her yıl artan katılımın toplumun istediği Türkiye'yi yansıttığını söyledi.
-- Özlem Gürses, Cumhuriyet'in kurucusu Atatürk'ün fikirlerinin kalıcı olduğunu özellikle vurguladı.
-- Kadınların eşit yurttaşlık ve seçme hakkı kazanmasında Atatürk'ün rolüne değinildi.
+- Antalya’daki COP31 zirvesinde iklim, enerji dönüşümü ve sanayide rekabet tartışıldı.
+- Erdoğan, Türkiye’nin 2053 net sıfır hedefini anlatarak Sıfır Atık’ı yaygınlaştırmayı istedi.
+- Erdoğan, Gazze’de çevrenin ağır zarar gördüğünü belirterek insani yardım çağrısında bulundu.
+- Murat Kurum, iklim hedeflerinin bütçelere, projelere ve yatırımlara dönüştürülmesini istedi.
+- ABD ve Rusya liderleri katılmazken, Çin’i devlet başkanı yardımcısı temsil etti.
+- Al Gore, Fatih Birol ve Ursula von der Leyen zirveye katıldı.
+- Ali Koç, enerjinin sanayinin küresel rekabet gücünü belirlediğini vurguladı.
+- Fosil yakıtlardan çıkışın maliyeti tartışılırken, özel uçuşlar ve sponsorlar eleştirildi.
+- Oyuncuların ücretsiz katıldığı aktarılırken, panel ve iklim elçiliği eksikliği eleştirildi.
+- Programda sıfır atık, dayanıklı şehirler, finans, ticaret, çocuklar ve gençlik işlendi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Inan Demirel](https://www.youtube.com/watch?v=5vS3KyV_p28&t=4s) (⏱️ 00:04-00:56)
-- [Rusen Cakir](https://www.youtube.com/watch?v=FP3zS-Ch2tk&t=3s) (⏱️ 00:03-00:32)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=c5eNDSq1cLk&t=14s) (⏱️ 00:14-05:00)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=YVH167zHJRo&t=2344s) (⏱️ 39:04-47:48)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=l-X1PL84NJ8&t=82s) (⏱️ 01:22-07:39)
 
 ---
 
-## 10. Erdoğan’ın Ziyareti Türkiye-Azerbaycan Arasındaki Gerilimi Yatıştırdı
+## 10. İlham Aliyev COP31 İçin Antalya’ya Geldi
 
-- Erdoğan’ın Azerbaycan ziyareti ve kardeşlik mesajları, iki ülke arasındaki krizi yatıştırdı.
-- Stratejik bağların, liderlerin müdahalesiyle gerilimin büyümesini önlediği ve ilişkileri toparladığı değerlendiriliyor.
-- Azerbaycan’ın dış politikada Türkiye’den daha bağımsız hareket etmek istediği belirtiliyor.
-- Türkiye’nin Ermenistan’la normalleşme arayışı, gerilimin önemli nedenlerinden biri olarak gösteriliyor.
-- Azerbaycan’ın Türkiye ile Ermenistan arasındaki yakınlaşmaya mesafeli yaklaştığı ifade ediliyor.
-- İki ülkenin İsrail’le ilişkileri ve toplumsal farklılıkları da tartışmalarda gündeme geliyor.
-- Ömer Taşpınar, krizi Suudi Arabistan ile Birleşik Arap Emirlikleri gerilimine benzetti.
-- Azerbaycanlı askerlerin Erdoğan’ın yanında fotoğraf çektirdiği görüntüler, ziyarette tartışma yarattı.
-- Serdar Akınan, Türkiye Cumhurbaşkanı’na devlet protokolüne uygun davranılması gerektiğini savundu.
-- Ziyaretle bağlantılı para aktarıldığı yönündeki iddiaların ise kanıtlanmadığı yayında belirtildi.
+- Azerbaycan Cumhurbaşkanı İlham Aliyev, COP31 zirvesine katılmak üzere Antalya’ya geldi.
+- Aliyev’i Antalya’ya gelişinde karşılayan isim Binali Yıldırım olarak aktarıldı.
+- Aliyev’in zirve kapsamında düzenlenen liderler toplantılarına katılması bekleniyor.
+- Cumhurbaşkanı Erdoğan’ın toplantılar sırasında diğer liderlerle görüşmeler yapacağı belirtildi.
+- Haberlerde, Türkiye ile Azerbaycan arasındaki gerilimin sona ermesinden memnuniyet belirtildi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=3YkMeeZuYXc&t=1819s) (⏱️ 30:19-35:42)
-- [Serdar Akinan](https://www.youtube.com/watch?v=MsuNSZu3J2M&t=1121s) (⏱️ 18:41-19:48)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=yA6V7GpeYOU&t=3079s) (⏱️ 51:19-51:44)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=2Lv6UuVj2Og&t=2092s) (⏱️ 34:52-35:54)
 
 ---
 
