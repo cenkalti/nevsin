@@ -1,220 +1,221 @@
 # Bugün Ne Oldu?
 
-*11 November 2026 tarihli günlük haber raporu - 10 haber birleştirildi*
+*12 November 2026 tarihli günlük haber raporu - 10 haber birleştirildi*
 
-## 1. Fon Soruşturması Finans Bürokrasisine Uzandı
+## 1. Fon Soruşturmasında Sorumluluk ve Şeffaflık Tartışması
 
-- BDDK Başkanı Şahap Kavcıoğlu, kurumun yıpranmaması gerekçesiyle görevden affını istedi.
-- Fon soruşturması BDDK, SPK, Takasbank ve Borsa İstanbul yöneticilerine uzandı.
-- Yunus Arıncı, Ali Paslı ve Ömer Murat Gülkan'ın tutuklandığı bildirildi.
-- Kemal Akkaya ve bazı diğer şüpheliler hakkında adli kontrol uygulandı.
-- Yayınlarda aktarılan son bilgilere göre soruşturmadaki tutuklu sayısı 123'e yükseldi.
-- Adalet Bakanı'na göre 188 milyar liranın 32,5 milyarı iade edildi.
-- Paralarına erişemeyen vatandaşlar ve işletmeler ödemelerde zorlanıyor, bazı işyerleri kapanıyor.
-- Fonlardaki olağandışı yükselişler, kara para ve siyasi bağlantı iddiaları tartışılıyor.
-- İsim listesinin açıklanmaması eleştirilirken denetim kurumlarının sorumluluğunun araştırılması talep ediliyor.
-- Yöneylem anketinde katılımcıların yüzde 42,2'si fon krizinden hükümeti sorumlu tuttu.
+- Fon soruşturmasında 214 kişinin 188 milyar lira haksız kazandığı açıklandı.
+- Tutuklanan 123 kişiyle ilişkilendirilen yaklaşık 40 milyarın önemli bölümünün iade edildiği belirtildi.
+- Deniz Zeyrek, yaklaşık 150 milyarlık kazancın sahiplerinin henüz açıklanmadığını söyledi.
+- BDDK Başkanı Şahap Kavcıoğlu görevden ayrıldı, bazı kurum yöneticileri tutuklandı.
+- Erişah Arıcan’ın görevden alınabileceği ileri sürüldü, soruşturmanın kapsamı belirsizliğini koruyor.
+- Kavcıoğlu’nun fon görüşmeleri tartışılırken BDDK, iddiaların bir bölümünü yalanladı.
+- Mağdurlara yapılacak ara ödemelerin miktarı ve ölçütlerinin açıklanmadığı ifade edildi.
+- Fon hisselerinin toplu satışından kimlerin kazanç sağladığı da kamuoyunda sorgulandı.
+- Mecliste araştırma komisyonu kurulması önerisi AKP ve MHP oylarıyla reddedildi.
+- Yorumcular, piyasa güveninin korunması için denetim sorumlularının açıklanmasını ve şeffaflık istedi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Serdar Akinan](https://www.youtube.com/watch?v=PmclkE3zBaU&t=1511s) (⏱️ 25:11-32:45)
-- [Cigdem Toker](https://www.youtube.com/watch?v=pxrURNktH1s&t=420s) (⏱️ 07:00-08:47)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=l-X1PL84NJ8&t=1062s) (⏱️ 17:42-28:18)
-- [Onlar TV](https://www.youtube.com/watch?v=Ei1Tm8wJ05c&t=1818s) (⏱️ 30:18-46:34)
-- [Unsal Unlu](https://www.youtube.com/watch?v=QZu88rAOf6o&t=80s) (⏱️ 01:20-06:47)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=yA6V7GpeYOU&t=229s) (⏱️ 03:49-05:38)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=t1-QXlxO5c4&t=1498s) (⏱️ 24:58-26:07)
-- [Hilal Koylu](https://www.youtube.com/watch?v=qcCHynlqS8I&t=1493s) (⏱️ 24:53-31:38)
-- [Murat Yetkin](https://www.youtube.com/watch?v=woL6uSfF288&t=4s) (⏱️ 00:04-18:56)
-- [Rusen Cakir](https://www.youtube.com/watch?v=1vSSr49WAOU&t=17s) (⏱️ 00:17-20:33)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=2Lv6UuVj2Og&t=45s) (⏱️ 00:45-10:59)
-- [Inan Demirel](https://www.youtube.com/watch?v=7aj323JTKTI&t=1909s) (⏱️ 31:49-35:35)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=03wbWjHqMNY&t=951s) (⏱️ 15:51-18:30)
+- [Hilal Koylu](https://www.youtube.com/watch?v=KAQNQSJHnYw&t=376s) (⏱️ 06:16-07:07)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=yOA8jLK4B4E&t=1857s) (⏱️ 30:57-37:06)
+- [Onlar TV](https://www.youtube.com/watch?v=8K7U80Qmswk&t=22s) (⏱️ 00:22-47:33)
+- [Unsal Unlu](https://www.youtube.com/watch?v=DVrvwuulqHc&t=77s) (⏱️ 01:17-27:45)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=qMl5hHSlJhA&t=1254s) (⏱️ 20:54-46:45)
 
 ---
 
-## 2. Yargı Süreçleri ve Siyasi Baskı Tartışmaları
+## 2. Kavcıoğlu’nun Ayrılığı ve Fon Soruşturması Tartışmaları
 
-- Yonca Şık, casusluk soruşturmasında ifade vererek yurt dışı yasağıyla bırakıldı.
-- Heinrich Böll Vakfı çalışanı Şık'a maaşı ve harcamaları soruldu.
-- Yorumcular, soruşturmayı Ahmet Şık'ın açıklamalarıyla ilişkilendirerek siyasi baskı iddiasında bulundu.
-- Aykut Erdoğdu, İBB davasında tahliye isteyerek tutukluluk koşullarını eleştirdi.
-- İsmail Saymaz'ın ev hapsi kaldırıldı ancak diğer adli kontrolleri sürdü.
-- Gazeteci Ali Tarakçı, 46 günlük tutukluluğunun ardından cezaevinden tahliye edildi.
-- Emir Sarıgül'ün ev hapsine alınması, diğer tutuklularla karşılaştırılarak çifte standartla eleştirildi.
-- Mustafa Sarıgül hakkındaki soruşturma dosyasının yetkisizlikle Ankara'ya gönderildiği aktarıldı.
-- MHP, yolsuzluk ve rüşvet suçlamalarında milletvekili dokunulmazlığının sınırlandırılmasını önerdi.
-- Akın Gürlek ile Turan Taşkın Özer arasında dokunulmazlık tartışması yaşandı.
+- Şahap Kavcıoğlu, fon soruşturması tartışmaları sürerken BDDK Başkanlığı görevinden ayrıldı.
+- Deniz Zeyrek, BDDK'daki tutuklamalar sonrasında Kavcıoğlu'nun da ifadeye çağrılabileceğini belirtti.
+- Sayan, 35 milyar liralık kredi karşılığında 20 milyar istendiğini iddia etti.
+- Kavcıoğlu, iddiayı reddederek Savcı Sayan hakkında suç duyurusunda bulunduğunu açıkladı.
+- Kavcıoğlu, Tezmen ve Turan'la görüşmelerinin Katılımevim müşterilerini korumayı amaçladığını söyledi.
+- Kavcıoğlu, BDDK'nın fonlarla ilgisi bulunmadığını ve ailesinin fon yatırımı olmadığını savundu.
+- Ramazan Başak, rüşvet iddialarını Kavcıoğlu'na önceden ileterek araştırılmasını istediğini söyledi.
+- Yalçın Karatepe, finans kuruluşlarına verilen izinlerin dayandığı denetim raporlarını sorguladı.
+- Kavcıoğlu'yla ödeme sorunlarını görüşen Ali Emre Ballı'nın ölümüne ilişkin soruşturma sürüyor.
+- Kavcıoğlu'nun başka görev almaması halinde iki yıl maaş alabileceği belirtildi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=2Lv6UuVj2Og&t=967s) (⏱️ 16:07-17:49)
-- [Unsal Unlu](https://www.youtube.com/watch?v=XrANnup3CCY&t=1321s) (⏱️ 22:01-22:30)
-- [Onlar TV](https://www.youtube.com/watch?v=bZD5zfxBedQ&t=1578s) (⏱️ 26:18-30:53)
-- [Inan Demirel](https://www.youtube.com/watch?v=7aj323JTKTI&t=3082s) (⏱️ 51:22-55:27)
-- [Hilal Koylu](https://www.youtube.com/watch?v=qcCHynlqS8I&t=1898s) (⏱️ 31:38-34:21)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=yA6V7GpeYOU&t=1232s) (⏱️ 20:32-21:47)
-- [Rusen Cakir](https://www.youtube.com/watch?v=oL6KIeII7oQ&t=85s) (⏱️ 01:25-08:49)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=lyiY3PkIiNw&t=49s) (⏱️ 00:49-14:37)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=l-X1PL84NJ8&t=1026s) (⏱️ 17:06-17:39)
+- [Unsal Unlu](https://www.youtube.com/watch?v=7Je05S5tk7o&t=960s) (⏱️ 16:00-18:02)
+- [Inan Demirel](https://www.youtube.com/watch?v=x6AIHzZxN6E&t=1030s) (⏱️ 17:10-19:36)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=YJEHPb2fNMc&t=707s) (⏱️ 11:47-19:19)
+- [Hilal Koylu](https://www.youtube.com/watch?v=KAQNQSJHnYw&t=696s) (⏱️ 11:36-15:04)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=UiH9ypm9V50&t=2176s) (⏱️ 36:16-36:45)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=03wbWjHqMNY&t=89s) (⏱️ 01:29-02:11)
 
 ---
 
-## 3. HABAŞ’taki Patlamada Ölü Sayısı 19’a Yükseldi
+## 3. Tera Fonları Soruşturmasında Milyarlık Kazanç İddiası
 
-- İzmir Aliağa’daki HABAŞ fabrikasında patlamada ölen işçilerin sayısı 19’a yükseldi.
-- Patlamanın, tavan vincinin metal eritilen ocağa düşmesiyle gerçekleştiği bildirildi.
-- Barış Güney’in cenazesinin belirlenmesi için DNA eşleştirmesine başvurulduğu aktarıldı.
-- Şirket sahibi Mehmet Rüştü Başaran dahil 11 kişi gözaltına alındı.
-- İşçilerin patlamadan önce güvenlik önlemlerinin yetersizliğine karşı eylem yaptığı belirtildi.
-- Bir aile, yakınlarının önceki yaralanmasını işten çıkarılma korkusuyla bildiremediğini anlattı.
-- Şirket raporunda, taşeron işçilerdeki kaza sayısının 38’den 83’e çıktığı belirtildi.
-- Tesiste geçmiş kazalarla birlikte en az 28 işçinin öldüğü öne sürüldü.
-- Patlama sonrasında üretimin sürdüğü ve protestocu bir işçinin gözaltına alındığı aktarıldı.
-- Fabrika hakkında Mecliste araştırma açılmasına yönelik önergenin reddedildiği bilgisi paylaşıldı.
+- Adil Katılım kurucularından akademisyen Ali Paslı, fon soruşturması kapsamında tutuklandı.
+- Savcılığa göre banka sermayesinden Tera fonlarına 1,844 milyar lira yatırıldı.
+- Savcılık, Paslı'nın 84 günde 2,43 milyar lira kazanç sağladığını iddia etti.
+- Savcılık, yüksek getiriyi piyasa koşullarına ve hayatın olağan akışına aykırı buldu.
+- MASAK raporunda, paranın Ballı bağlantılı şirketlere kredi verildiği öne sürüldü.
+- Paslı'nın Hayati Yazıcı'nın eşinin yeğeni olduğu da haberlerde aktarıldı.
+- Takasbank, Tera fonunun yeniden açılmasını SPK görüşü gelene kadar durdurdu.
+- Arıncı'ya göre fon, 6 Ağustos 2025'te SPK onayıyla yeniden açıldı.
+- Takasbank'ın eski yöneticisi Yunus Arıncı ve OMG Capital Başkanı Gülkan da tutuklandı.
+- Buz Yatırım, Ruzi Madencilik, Lidya Holding ve May Gold yöneticilerine tedbir uygulandı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Onlar TV](https://www.youtube.com/watch?v=Ei1Tm8wJ05c&t=250s) (⏱️ 04:10-12:38)
-- [Unsal Unlu](https://www.youtube.com/watch?v=XrANnup3CCY&t=1162s) (⏱️ 19:22-21:49)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=x9cQwH5c4gA) (⏱️ 00:00-26:35)
-- [Cigdem Toker](https://www.youtube.com/watch?v=pxrURNktH1s&t=527s) (⏱️ 08:47-15:45)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=yA6V7GpeYOU&t=2876s) (⏱️ 47:56-51:18)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=t1-QXlxO5c4&t=860s) (⏱️ 14:20-17:33)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=2Lv6UuVj2Og&t=1471s) (⏱️ 24:31-28:19)
-- [Inan Demirel](https://www.youtube.com/watch?v=7aj323JTKTI&t=2489s) (⏱️ 41:29-46:35)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=03wbWjHqMNY&t=316s) (⏱️ 05:16-06:11)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=UiH9ypm9V50&t=3354s) (⏱️ 55:54-57:39)
+- [Unsal Unlu](https://www.youtube.com/watch?v=7Je05S5tk7o&t=124s) (⏱️ 02:04-12:39)
+- [Hilal Koylu](https://www.youtube.com/watch?v=KAQNQSJHnYw&t=1054s) (⏱️ 17:34-20:12)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=YJEHPb2fNMc&t=1162s) (⏱️ 19:22-21:23)
 
 ---
 
-## 4. İBB Davasında Ara Karar Bekleniyor
+## 4. Yargı Süreçlerinde Tutukluluk ve Adalet Tartışması
 
-- İBB davasında üçüncü celse sürerken, duruşmaların 107. gününe ulaşıldığı aktarıldı.
-- Mahkeme heyetinin gün içinde bir ara karar açıklaması bekleniyor.
-- Tahliye talepleri değerlendirilirken, ara kararda tahliye çıkıp çıkmayacağı henüz bilinmiyor.
-- İmamoğlu’nun tahliye talebine ilişkin savunmasının ertesi gün yapılmasının beklendiği aktarıldı.
-- Ekrem İmamoğlu, duruşmada Atatürk’ün kurduğu Cumhuriyet’te yaşadığını ifade etti.
-- Duruşmayı izleyenler, mahkeme salonunda “Mustafa Kemal’in askerleriyiz” sloganı attı.
+- İBB'nin mali suçlar davasında üçüncü celsede tahliye talepleri ele alınıyor.
+- Kaynaklar, 436 sanıklı davada tutuklu sayısını 45 veya 47 olarak aktarıyor.
+- Sanıklar, somut delil eksikliğini ve uzun tutukluluk sürelerini eleştirdi.
+- Dört gizli tanıktan ikisi uzaktan dinlendi, ikisi duruşmaya gelmedi.
+- Dosyanın savcıya gönderilmesi, kararın mart veya nisanda çıkması öngörülüyor.
+- Emir Sarıgül’ün ev hapsi kaldırıldı; yeniden ifade vermesi bekleniyor.
+- Murat Ağırel’in tutukluluğu sürerken, 20 milyon avroluk dekontun doğruluğu sorgulandı.
+- Zeyrek, Sarıgül soruşturmasının aileye ve özel hayata yöneldiğini savundu.
+- Aydın Büyükşehir Belediye Başkanı Özlem Çerçioğlu, 50 sanıklı davada beraat etti.
+- Erkan Karaaslan’a 13 yıl 6 ay, Nermin Canyurt’a 14 yıl hapis verildi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=XrANnup3CCY&t=1568s) (⏱️ 26:08-26:39)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=YVH167zHJRo&t=3327s) (⏱️ 55:27-55:45)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=t1-QXlxO5c4&t=1457s) (⏱️ 24:17-24:55)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=qMl5hHSlJhA&t=33s) (⏱️ 00:33-16:37)
+- [Inan Demirel](https://www.youtube.com/watch?v=x6AIHzZxN6E&t=1814s) (⏱️ 30:14-44:12)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=03wbWjHqMNY&t=1815s) (⏱️ 30:15-32:05)
+- [Onlar TV](https://www.youtube.com/watch?v=8K7U80Qmswk&t=2854s) (⏱️ 47:34-51:16)
+- [Rusen Cakir](https://www.youtube.com/watch?v=L02QrT0WxSg&t=3s) (⏱️ 00:03-09:17)
 
 ---
 
-## 5. Ekonomide Enflasyon ve Kaynak Arayışı
+## 5. Merkez Bankası Enflasyon Tahminlerini Yükseltti
 
-- Konuşmacılar, net rezervlerin 37–38 milyar dolara gerilediğini, doların 50 lirayı aştığını belirtti.
-- Merkez Bankası'nın enflasyon raporunu ertesi gün 10.30'da açıklayacağı duyuruldu.
-- Nuray Babacan'ın haberine göre, Ocak 2027'de maaşlara refah payı değerlendiriliyor.
-- Emeklilere 5–20 puanlık ek artış, en düşük maaşa 30 bin lira konuşuluyor.
-- Konuşmacılar, zam kaynağının bulunmadığını ve para basmanın enflasyonu artırabileceğini savundu.
-- Bank of America, fon krizinin ekonomiye yayılma riskinin sınırlı göründüğünü bildirdi.
-- Banka, güvenin zayıfladığını, hızlanan talep daralmasının enflasyonu sınırladığını belirtti.
-- Banka, aralıkta bir puanlık faiz indirimi, 2027 sonunda yüzde 25 enflasyon bekliyor.
-- Politika faiziyle bankaların mevduat faizleri arasındaki farkın yüksek olduğu vurgulandı.
-- Güven için yapısal reformlar, liyakatli atamalar ve kurumsal bağımsızlık gerektiği savunuldu.
+- Merkez Bankası Başkanı Fatih Karahan, enflasyon tahminlerinin yükseltildiğini açıkladı.
+- 2026 yıl sonu enflasyon tahmini yüzde 28’den yüzde 29,5’e çıkarıldı.
+- 2027 tahmini yüzde 21’e, 2028 tahmini ise yüzde 13,5’e yükseltildi.
+- Gıda enflasyonu tahmini de yüzde 28,5’ten yüzde 31,5’e revize edildi.
+- Enerji maliyetlerindeki artışın dünya ekonomisi üzerindeki baskıyı artırabileceği belirtildi.
+- Kredi koşullarında sınırlı gevşeme beklenirken sıkı para politikasının süreceği belirtildi.
+- Yorumcular, sık değiştirilen tahminlerin güvenilirliği ve ücret artışlarını zayıflattığını savundu.
+- Şeref Oğuz, üretim ve tarımdaki sorunların enflasyonu beslediğini savundu.
+- İnan Mutlu, enflasyonla mücadelenin yükünün vatandaşın harcamalarını kısmasına bırakılmasını eleştirdi.
+- Değerlendirmelerde, dar gelirlilerin 2027’de geçim sıkıntısının daha da ağırlaşabileceği belirtildi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Serdar Akinan](https://www.youtube.com/watch?v=PmclkE3zBaU&t=912s) (⏱️ 15:12-18:23)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=YVH167zHJRo&t=4684s) (⏱️ 78:04-78:17)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=yA6V7GpeYOU&t=1441s) (⏱️ 24:01-25:36)
+- [Hilal Koylu](https://www.youtube.com/watch?v=KAQNQSJHnYw&t=1278s) (⏱️ 21:18-29:15)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=UiH9ypm9V50&t=1193s) (⏱️ 19:53-24:30)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=qMl5hHSlJhA&t=2813s) (⏱️ 46:53-53:00)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=yOA8jLK4B4E&t=13s) (⏱️ 00:13-07:42)
+- [Inan Demirel](https://www.youtube.com/watch?v=x6AIHzZxN6E&t=2862s) (⏱️ 47:42-51:34)
 
 ---
 
-## 6. CHP ve Yeni Parti’de yenilenme gündemi
+## 6. Dokunulmazlık Tartışmasında Yolsuzluk ve Rüşvet Önerisi
 
-- Özgür Özel’in CHP Parti Meclisini genişleterek küskünlükleri azaltma girişimi tartışılıyor.
-- CHP’de kadroların yenilenmesi ve delege sisteminin etkisinin azaltılması gerektiği savunuluyor.
-- Yeni kadrolar olmadan muhalefetin toplumsal desteğini kaybedebileceği yönünde uyarılar yapılıyor.
-- Yeni Parti, Ankara’daki ilk kurultayında hafta sonu “Türkiye yenileniyor” sloganıyla projelerini açıklayacak.
-- Çakırözer, genel başkanlık ön seçiminde Özgür Özel’in 639.454 oy aldığını belirtti.
-- Yeni tüzükle kurulacak yerel meclislere üyeler, gönüllüler ve sivil toplum katılabilecek.
-- Tüzüğe eklenecek etik ilkelerin uygulanmasını takip etmek üzere etik kurulu kurulacak.
-- Parti Meclisi kurultaya özel 150 üyeye çıkarılarak örgüt temsilcileriyle uzmanları kapsayacak.
-- Çakırözer, CHP’den ayrılan yaklaşık 250 belediye başkanının Yeni Parti’ye katıldığını söyledi.
-- Çakırözer, bazı belediye başkanlarıyla meclis üyelerinin baskıya maruz kaldığını öne sürdü.
+- Türkiye gazetesine göre Erdoğan, bekleyen dokunulmazlık dosyalarında harekete geçilmesini istedi.
+- MHP'li Mustafa Kalaycı, yolsuzluk ve rüşvetin dokunulmazlık dışında tutulmasını önerdi.
+- CHP'den bazı isimler de önerilen düzenlemeye destek verebileceklerini açıkladı.
+- TBMM'de 150 milletvekiline ait toplam 1096 dokunulmazlık dosyası bulunduğu aktarıldı.
+- Deniz Zeyrek, dosyalardaki yolsuzluk veya rüşvet suçlamalarının sayısının bilinmediğini söyledi.
+- Zeyrek, fon soruşturmasında milletvekillerinin bulunup bulunmadığının açıklığa kavuşturulmasını istedi.
+- AK Partili yetkili, yavaşlık izlenimini soruşturmanın titizlikle yürütülmesine bağladı.
+- Yetkiliye göre Erdoğan, makama bakılmadan sürece karışan herkesin araştırılmasını istedi.
+- Yetkili, kimsenin korunmayacağını ve gerektiğinde herkesin tutuklanıp yargılanabileceğini belirtti.
+- Programda, tartışmaların muhalefeti ve olası cumhurbaşkanı adaylarını baskılayabileceği değerlendirildi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=XrANnup3CCY&t=2549s) (⏱️ 42:29-46:45)
-- [Rusen Cakir](https://www.youtube.com/watch?v=oL6KIeII7oQ&t=544s) (⏱️ 09:04-18:12)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=03wbWjHqMNY&t=1303s) (⏱️ 21:43-23:51)
+- [Inan Demirel](https://www.youtube.com/watch?v=x6AIHzZxN6E&t=69s) (⏱️ 01:09-11:45)
+- [Hilal Koylu](https://www.youtube.com/watch?v=KAQNQSJHnYw&t=1213s) (⏱️ 20:13-21:17)
 
 ---
 
-## 7. 10 Kasım’da Atatürk’e Yoğun Anma
+## 7. Kaya’nın Cezaevi Koşullarına İlişkin İddialar
 
-- Türkiye’de ve dünyada yurttaşlar, saat 09.05’te Atatürk’ü anmak için durdu.
-- Ankara’daki yoğun kar yağışına rağmen Anıtkabir’deki anmaya yoğun katılım gerçekleşti.
-- Cumhurbaşkanı ve devlet erkânı da Anıtkabir’de düzenlenen resmi törene katıldı.
-- Cumhuriyet, bağlılık, minnet ve umut duygularının vurgulandığı anmayı manşetine taşıdı.
-- Ünlü, Atatürk’e ve Cumhuriyet’e yönelik eleştirilerin toplumsal bağlılığı azaltmadığını savundu.
-- Dilipak’ın fon krizini COP31 ve 10 Kasım’la karşılaştıran paylaşımı eleştirildi.
-- Zeyrek, ekonomik kayıplar nedeniyle fon krizinin gündemde kalmasını doğal buldu.
-- Zeyrek, Google arama verilerinin 10 Kasım’a yoğun ilgi gösterdiğini aktardı.
-- 10 Kasım paylaşımlarının geçen yıla göre yalnızca yüzde 5 farklılaştığı belirtildi.
-- İzmir’deki törende Büyükşehir Belediye Başkanı Cemil Tugay’ın yuhalandığı da aktarıldı.
+- Haberlerde, Fatma Betül Sayan Kaya’nın fon soruşturmasında 6 Kasım’da tutuklandığı aktarıldı.
+- Silivri’deki Marmara Cezaevi’nde, avluya açılan 12 metrekarelik tek kişilik hücrede kaldığı belirtildi.
+- C blokta Osman Kavala, Buğra Gökçe ve Seçil Erzan’ın bulunduğu aktarıldı.
+- İlk avukat görüşmesini babası ve kardeşiyle yaptığı haberlerde öne sürüldü.
+- Ailesinin avukatlığını üstlendiği, diğer avukatların görüşme taleplerini reddettiği iddia edildi.
+- İlk görüşmelerinden birinde çocuklarından söz ederken ağladığı haberlerde öne sürüldü.
+- Bazı tutukluların kendisini teselli ettiği, bazılarının sloganlarla protesto ettiği aktarıldı.
+- Hücresinin önceden temizlendiği ve avlu kullanımında özel önlemler alındığı belirtildi.
+- Görüşlere götürülürken çevresinin boş bırakıldığı, diğer tutuklularla temasının sınırlandırıldığı öne sürüldü.
+- Şeref Oğuz, uygulamanın soruşturmadaki kişilerin iletişimini engellemeyi amaçlayabileceği değerlendirmesinde bulundu.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=QZu88rAOf6o&t=408s) (⏱️ 06:48-15:19)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=yA6V7GpeYOU&t=543s) (⏱️ 09:03-10:47)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=UiH9ypm9V50&t=286s) (⏱️ 04:46-09:56)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=yOA8jLK4B4E&t=1061s) (⏱️ 17:41-21:50)
+- [Inan Demirel](https://www.youtube.com/watch?v=x6AIHzZxN6E&t=705s) (⏱️ 11:45-17:07)
 
 ---
 
-## 8. Akaryakıtta İndirim, Diğer Kalemlerde Zam Gündemi
+## 8. Habaş’taki Ölümcül Kazada İhmal İddiaları Gündemde
 
-- Benzin ve motorinde litre başına 3-5 lira indirim bekleniyor.
-- İndirimle benzin ve motorinin yaklaşık 70 liraya gerilemesi öngörülüyor.
-- Beklenen indirimin ardından akaryakıta yeniden zam gelebileceği de vurgulandı.
-- Tekel Bayileri Platformu Başkanı sigara ve alkollü içkilerde zam bekliyor.
-- Yayında sigara fiyatlarında yaklaşık yüzde 10 artış beklentisi aktarıldı.
-- Milli Piyango’nun yılbaşı büyük ikramiyesi 1 milyar lira olarak açıklandı.
-- Milli Piyango biletlerinin fiyatlarına yüzde 25 oranında zam yapıldı.
-- Tam bilet 800 liradan 1.000, yarım bilet 400 liradan 500 liraya yükseldi.
-- Çeyrek biletin fiyatı ise 200 liradan 250 liraya çıkarıldı.
-- Deniz Zeyrek, fon krizindeki kayıpların büyük ikramiye beklentisini azalttığını belirtti.
+- Habaş fabrikasındaki vinç kazasında 18 kişi öldü, bir işçi aranıyor.
+- Dokuz kişi için tutuklama kararı verildi; Mehmet Rüştü Başaran ev hapsinde.
+- Bir mühendis, köprü vincinin raydan çıkarak düşmesini olağan bulmadığını söyledi.
+- Olası nedenler arasında çelik rayların kırılması, güvenlik sistemlerinin çalışmaması gösterildi.
+- Vinci durduran mekanizmaların görevini yapmaması da olası nedenler arasında sayıldı.
+- Mühendise göre bu ihtimaller ciddi bakım, üretim veya denetim eksikliklerine işaret edebilir.
+- Tesislerde risklerin belirlenmesi ve düzenli denetimlerin kayıt altına alınması gerektiği vurgulandı.
+- Önceki haberde, Habaş’taki bir patlamada 36 işçinin hayatını kaybettiği belirtildi.
+- Şirketin çelik üretiminin 600 bin tondan 5 milyon tona çıktığı aktarıldı.
+- Mustafa Bildircin’in haberine göre şirketin 2023-2025 cirosu 11,9 milyar liraydı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=2Lv6UuVj2Og&t=2030s) (⏱️ 33:50-34:49)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=yA6V7GpeYOU&t=2639s) (⏱️ 43:59-45:55)
+- [Unsal Unlu](https://www.youtube.com/watch?v=7Je05S5tk7o&t=1976s) (⏱️ 32:56-33:49)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=yOA8jLK4B4E&t=3798s) (⏱️ 63:18-65:06)
 
 ---
 
-## 9. Antalya’daki COP31 Zirvesinde İklim Eylemi Çağrısı
+## 9. MSCI Türkiye Endeksinden 18 Hisseyi Çıkardı
 
-- Antalya’daki COP31 zirvesinde iklim, enerji dönüşümü ve sanayide rekabet tartışıldı.
-- Erdoğan, Türkiye’nin 2053 net sıfır hedefini anlatarak Sıfır Atık’ı yaygınlaştırmayı istedi.
-- Erdoğan, Gazze’de çevrenin ağır zarar gördüğünü belirterek insani yardım çağrısında bulundu.
-- Murat Kurum, iklim hedeflerinin bütçelere, projelere ve yatırımlara dönüştürülmesini istedi.
-- ABD ve Rusya liderleri katılmazken, Çin’i devlet başkanı yardımcısı temsil etti.
-- Al Gore, Fatih Birol ve Ursula von der Leyen zirveye katıldı.
-- Ali Koç, enerjinin sanayinin küresel rekabet gücünü belirlediğini vurguladı.
-- Fosil yakıtlardan çıkışın maliyeti tartışılırken, özel uçuşlar ve sponsorlar eleştirildi.
-- Oyuncuların ücretsiz katıldığı aktarılırken, panel ve iklim elçiliği eksikliği eleştirildi.
-- Programda sıfır atık, dayanıklı şehirler, finans, ticaret, çocuklar ve gençlik işlendi.
+- MSCI'ın toplam 18 hisseyi küçük ölçekli şirketler endeksine taşıdığı aktarıldı.
+- Sabancı Holding ve Astor Enerji de Türkiye endeksinden çıkarılanlar arasında.
+- Kararın mevcut kayıpları artırdığı, borsanın güne düşüşle başladığı ifade edildi.
+- Fon krizinin etkisiyle bazı şirketlerin kredi notlarının düşürüldüğü de belirtildi.
+- Akbank'ın da yaptırım veya incelemelerden etkilendiği haberlerde ayrıca ifade edildi.
+- MSCI'ın Türkiye piyasasındaki bazı gelişmeler nedeniyle uyarıda bulunduğu da aktarıldı.
+- Manipülatif işlemlerin çözümü için Haziran 2027'ye kadar süre verildiği belirtildi.
+- Konuk, şirket değerleriyle bilanço değerleri arasındaki ciddi farkların incelenmesini istedi.
+- Bu tür uyarıların öncelikle SPK tarafından yapılması gerektiği de savunuldu.
+- Çözülmeyen manipülasyon iddialarının ve yatırımcı zararlarının yabancı güvenini zedeleyebileceği belirtildi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=YVH167zHJRo&t=2344s) (⏱️ 39:04-47:48)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=l-X1PL84NJ8&t=82s) (⏱️ 01:22-07:39)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=UiH9ypm9V50&t=1697s) (⏱️ 28:17-32:08)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=YJEHPb2fNMc&t=654s) (⏱️ 10:54-11:46)
 
 ---
 
-## 10. İlham Aliyev COP31 İçin Antalya’ya Geldi
+## 10. Asgari Ücrette Zam Beklentileri Gündemde
 
-- Azerbaycan Cumhurbaşkanı İlham Aliyev, COP31 zirvesine katılmak üzere Antalya’ya geldi.
-- Aliyev’i Antalya’ya gelişinde karşılayan isim Binali Yıldırım olarak aktarıldı.
-- Aliyev’in zirve kapsamında düzenlenen liderler toplantılarına katılması bekleniyor.
-- Cumhurbaşkanı Erdoğan’ın toplantılar sırasında diğer liderlerle görüşmeler yapacağı belirtildi.
-- Haberlerde, Türkiye ile Azerbaycan arasındaki gerilimin sona ermesinden memnuniyet belirtildi.
+- Küçük ve orta ölçekli işletmeler için kredi büyüme sınırları yükseltildi.
+- Düzenlemenin işletmeleri rahatlatması beklenirken, tek başına yeterli olmayacağı da vurgulandı.
+- Şeref Oğuz, piyasalarda güven için hızlı ve kapsamlı önlemler gerektiğini belirtti.
+- Emeklilere zam yapılabileceği ve asgari ücretin yılda iki kez artırılabileceği öngörüldü.
+- 2027 asgari ücretine yüzde 30 zam yapılabileceği yönündeki kulis bilgisi değerlendirildi.
+- Deniz Zeyrek, 2027 asgari ücret tahminini yaklaşık 36 bin lira açıkladı.
+- Zeyrek, yüzde 30 zam hesabının kendi tahminine yakın olduğunu belirtti.
+- Zeyrek, ücret tespit sürecinde işçilerin taleplerinin etkisini sınırlı olarak niteledi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=yA6V7GpeYOU&t=3079s) (⏱️ 51:19-51:44)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=2Lv6UuVj2Og&t=2092s) (⏱️ 34:52-35:54)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=03wbWjHqMNY&t=1708s) (⏱️ 28:28-30:15)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=YJEHPb2fNMc&t=1852s) (⏱️ 30:52-34:49)
 
 ---
 
