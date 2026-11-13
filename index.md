@@ -1,221 +1,206 @@
 # Bugün Ne Oldu?
 
-*12 November 2026 tarihli günlük haber raporu - 10 haber birleştirildi*
+*13 November 2026 tarihli günlük haber raporu - 9 haber birleştirildi*
 
-## 1. Fon Soruşturmasında Sorumluluk ve Şeffaflık Tartışması
+## 1. İBB Davasında Sekiz Sanığa Tahliye
 
-- Fon soruşturmasında 214 kişinin 188 milyar lira haksız kazandığı açıklandı.
-- Tutuklanan 123 kişiyle ilişkilendirilen yaklaşık 40 milyarın önemli bölümünün iade edildiği belirtildi.
-- Deniz Zeyrek, yaklaşık 150 milyarlık kazancın sahiplerinin henüz açıklanmadığını söyledi.
-- BDDK Başkanı Şahap Kavcıoğlu görevden ayrıldı, bazı kurum yöneticileri tutuklandı.
-- Erişah Arıcan’ın görevden alınabileceği ileri sürüldü, soruşturmanın kapsamı belirsizliğini koruyor.
-- Kavcıoğlu’nun fon görüşmeleri tartışılırken BDDK, iddiaların bir bölümünü yalanladı.
-- Mağdurlara yapılacak ara ödemelerin miktarı ve ölçütlerinin açıklanmadığı ifade edildi.
-- Fon hisselerinin toplu satışından kimlerin kazanç sağladığı da kamuoyunda sorgulandı.
-- Mecliste araştırma komisyonu kurulması önerisi AKP ve MHP oylarıyla reddedildi.
-- Yorumcular, piyasa güveninin korunması için denetim sorumlularının açıklanmasını ve şeffaflık istedi.
-
-**Bu haberi kapsayan muhabirler:**
-
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=03wbWjHqMNY&t=951s) (⏱️ 15:51-18:30)
-- [Hilal Koylu](https://www.youtube.com/watch?v=KAQNQSJHnYw&t=376s) (⏱️ 06:16-07:07)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=yOA8jLK4B4E&t=1857s) (⏱️ 30:57-37:06)
-- [Onlar TV](https://www.youtube.com/watch?v=8K7U80Qmswk&t=22s) (⏱️ 00:22-47:33)
-- [Unsal Unlu](https://www.youtube.com/watch?v=DVrvwuulqHc&t=77s) (⏱️ 01:17-27:45)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=qMl5hHSlJhA&t=1254s) (⏱️ 20:54-46:45)
-
----
-
-## 2. Kavcıoğlu’nun Ayrılığı ve Fon Soruşturması Tartışmaları
-
-- Şahap Kavcıoğlu, fon soruşturması tartışmaları sürerken BDDK Başkanlığı görevinden ayrıldı.
-- Deniz Zeyrek, BDDK'daki tutuklamalar sonrasında Kavcıoğlu'nun da ifadeye çağrılabileceğini belirtti.
-- Sayan, 35 milyar liralık kredi karşılığında 20 milyar istendiğini iddia etti.
-- Kavcıoğlu, iddiayı reddederek Savcı Sayan hakkında suç duyurusunda bulunduğunu açıkladı.
-- Kavcıoğlu, Tezmen ve Turan'la görüşmelerinin Katılımevim müşterilerini korumayı amaçladığını söyledi.
-- Kavcıoğlu, BDDK'nın fonlarla ilgisi bulunmadığını ve ailesinin fon yatırımı olmadığını savundu.
-- Ramazan Başak, rüşvet iddialarını Kavcıoğlu'na önceden ileterek araştırılmasını istediğini söyledi.
-- Yalçın Karatepe, finans kuruluşlarına verilen izinlerin dayandığı denetim raporlarını sorguladı.
-- Kavcıoğlu'yla ödeme sorunlarını görüşen Ali Emre Ballı'nın ölümüne ilişkin soruşturma sürüyor.
-- Kavcıoğlu'nun başka görev almaması halinde iki yıl maaş alabileceği belirtildi.
+- İBB davasında mahkeme, 46 tutuklu sanıktan sekizinin tahliyesine karar verdi.
+- Tahliye edilenler arasında Mehmet Pehlivan ve Fatoş Pınar Türker bulunuyor.
+- İmamoğlu’nun avukatı Pehlivan, 17 aylık tutukluluğunun ardından ailesine yeniden kavuştu.
+- Savcının tüm tutuklulukların sürmesi talebine rağmen tutuklu sayısı 38’e düştü.
+- Davadaki 21 gizli tanıktan yalnızca ikisinin duruşmaya katıldığı aktarıldı.
+- İmamoğlu ve avukatlar, suçlamaları destekleyen somut delillerin bulunmadığını savundu.
+- Ayrı Sarıgül soruşturmasında 15 kişi gözaltına alındı; rüşvet ve aklama iddiaları araştırılıyor.
+- Emir ve Ömer Sarıgül’ün etkin pişmanlıktan yararlanmak istedikleri öne sürüldü.
+- Mustafa Sarıgül ve bazı CHP milletvekillerinin dokunulmazlıklarının kaldırılabileceği öne sürüldü.
+- Aylin Kotil, hakkındaki iddiaları reddederek avukatları aracılığıyla suç duyurusunda bulundu.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=7Je05S5tk7o&t=960s) (⏱️ 16:00-18:02)
-- [Inan Demirel](https://www.youtube.com/watch?v=x6AIHzZxN6E&t=1030s) (⏱️ 17:10-19:36)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=YJEHPb2fNMc&t=707s) (⏱️ 11:47-19:19)
-- [Hilal Koylu](https://www.youtube.com/watch?v=KAQNQSJHnYw&t=696s) (⏱️ 11:36-15:04)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=UiH9ypm9V50&t=2176s) (⏱️ 36:16-36:45)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=03wbWjHqMNY&t=89s) (⏱️ 01:29-02:11)
+- [Inan Demirel](https://www.youtube.com/watch?v=4DSHp_0DEXs&t=2418s) (⏱️ 40:18-43:35)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=dbRPRRGH_dk&t=4255s) (⏱️ 70:55-77:32)
+- [Unsal Unlu](https://www.youtube.com/watch?v=vOAlvDdsdgA&t=2226s) (⏱️ 37:06-39:06)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=aJlaNsn_c_E&t=557s) (⏱️ 09:17-12:17)
+- [Onlar TV](https://www.youtube.com/watch?v=BJWcDUgk4ak&t=650s) (⏱️ 10:50-40:36)
+- [Rusen Cakir](https://www.youtube.com/watch?v=76Hyt4D0bmg&t=5s) (⏱️ 00:05-12:40)
+- [Hilal Koylu](https://www.youtube.com/watch?v=fZ-JZ2z0cg0&t=2097s) (⏱️ 34:57-37:01)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=a-Jk1JicHzo&t=1295s) (⏱️ 21:35-28:21)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=LfTYpNnLPVY&t=3315s) (⏱️ 55:15-55:55)
 
 ---
 
-## 3. Tera Fonları Soruşturmasında Milyarlık Kazanç İddiası
+## 2. Fon Soruşturmasında Şeffaflık Tartışması Büyüyor
 
-- Adil Katılım kurucularından akademisyen Ali Paslı, fon soruşturması kapsamında tutuklandı.
-- Savcılığa göre banka sermayesinden Tera fonlarına 1,844 milyar lira yatırıldı.
-- Savcılık, Paslı'nın 84 günde 2,43 milyar lira kazanç sağladığını iddia etti.
-- Savcılık, yüksek getiriyi piyasa koşullarına ve hayatın olağan akışına aykırı buldu.
-- MASAK raporunda, paranın Ballı bağlantılı şirketlere kredi verildiği öne sürüldü.
-- Paslı'nın Hayati Yazıcı'nın eşinin yeğeni olduğu da haberlerde aktarıldı.
-- Takasbank, Tera fonunun yeniden açılmasını SPK görüşü gelene kadar durdurdu.
-- Arıncı'ya göre fon, 6 Ağustos 2025'te SPK onayıyla yeniden açıldı.
-- Takasbank'ın eski yöneticisi Yunus Arıncı ve OMG Capital Başkanı Gülkan da tutuklandı.
-- Buz Yatırım, Ruzi Madencilik, Lidya Holding ve May Gold yöneticilerine tedbir uygulandı.
+- Fon soruşturmasındaki isim listelerinin açıklanmaması, AK Parti içinde tartışmaları artırıyor.
+- Bazı partililer, belirsizliğin siyasi maliyet yarattığını belirterek listelerin açıklanmasını istiyor.
+- Abdullah Güler, soruşturmanın gizliliğini ve kişilerin haksız yere suçlanmamasını vurguluyor.
+- Bakanlık açıklamasına göre, 214 kişi üç fondan yaklaşık 187,7 milyar lira kazandı.
+- Savcılığa göre, 440 yatırımcı 16 Eylül’e kadar yaklaşık 401 milyar lira çekti.
+- 119 fondaki 444 bini aşkın yatırımcıya yaklaşık 161 milyar lira ödendiği bildirildi.
+- Kerim Rota, ödemelerde yatırılan toplamın değil, net tutarın hesaplandığını belirtiyor.
+- Mağdurların kalan alacakları ve yeni ödemelerin takvimi konusundaki belirsizlik sürüyor.
+- Muhalefet, tasfiye görevlilerinin sorumluluğunu sınırlayan düzenlemenin geriye dönük koruma sağladığını savunuyor.
+- Ekonomistler, fon krizinin yatırımcı güvenini zedeleyerek dış finansmanı zorlaştırabileceği uyarısında bulunuyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=03wbWjHqMNY&t=316s) (⏱️ 05:16-06:11)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=UiH9ypm9V50&t=3354s) (⏱️ 55:54-57:39)
-- [Unsal Unlu](https://www.youtube.com/watch?v=7Je05S5tk7o&t=124s) (⏱️ 02:04-12:39)
-- [Hilal Koylu](https://www.youtube.com/watch?v=KAQNQSJHnYw&t=1054s) (⏱️ 17:34-20:12)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=YJEHPb2fNMc&t=1162s) (⏱️ 19:22-21:23)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=aJlaNsn_c_E&t=75s) (⏱️ 01:15-03:39)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=wgyXNZGG_i8&t=520s) (⏱️ 08:40-11:04)
+- [Onlar TV](https://www.youtube.com/watch?v=BJWcDUgk4ak&t=133s) (⏱️ 02:13-10:47)
+- [Hilal Koylu](https://www.youtube.com/watch?v=fZ-JZ2z0cg0&t=90s) (⏱️ 01:30-13:00)
+- [Unsal Unlu](https://www.youtube.com/watch?v=DtwOmzYeOLU&t=1418s) (⏱️ 23:38-26:11)
+- [Inan Demirel](https://www.youtube.com/watch?v=4DSHp_0DEXs&t=70s) (⏱️ 01:10-06:19)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=dbRPRRGH_dk&t=330s) (⏱️ 05:30-06:58)
 
 ---
 
-## 4. Yargı Süreçlerinde Tutukluluk ve Adalet Tartışması
+## 3. HABAŞ Faciasının Ardından İşçiler Eylemde
 
-- İBB'nin mali suçlar davasında üçüncü celsede tahliye talepleri ele alınıyor.
-- Kaynaklar, 436 sanıklı davada tutuklu sayısını 45 veya 47 olarak aktarıyor.
-- Sanıklar, somut delil eksikliğini ve uzun tutukluluk sürelerini eleştirdi.
-- Dört gizli tanıktan ikisi uzaktan dinlendi, ikisi duruşmaya gelmedi.
-- Dosyanın savcıya gönderilmesi, kararın mart veya nisanda çıkması öngörülüyor.
-- Emir Sarıgül’ün ev hapsi kaldırıldı; yeniden ifade vermesi bekleniyor.
-- Murat Ağırel’in tutukluluğu sürerken, 20 milyon avroluk dekontun doğruluğu sorgulandı.
-- Zeyrek, Sarıgül soruşturmasının aileye ve özel hayata yöneldiğini savundu.
-- Aydın Büyükşehir Belediye Başkanı Özlem Çerçioğlu, 50 sanıklı davada beraat etti.
-- Erkan Karaaslan’a 13 yıl 6 ay, Nermin Canyurt’a 14 yıl hapis verildi.
+- İzmir Aliağa’daki HABAŞ fabrikasındaki patlamada 19 işçinin öldüğü bildirildi.
+- Saha aktarımlarında, kazana düşen vincin ardından patlama yaşandığı öne sürüldü.
+- Soruşturmada gözaltına alınan 11 şüpheliden dokuzunun tutuklandığı, ikisinin ev hapsine gönderildiği bildirildi.
+- Şirket başkanı Mehmet Rüştü Başaran’a verilen ev hapsi tepki çekti.
+- İşçiler, telefonlarını girişte teslim etme talimatını protesto ederek fabrikaya girmedi.
+- Çalışanlar, yas izni verilmemesine ve üretimin sürdürülmesine tepki gösterdi.
+- Fabrika önündeki protestoda gerginlik yaşandığı, polisin müdahale ettiği aktarıldı.
+- İşçiler, bağımsız denetim ve güvenlik sağlanana kadar ücretli izin istedi.
+- Üretimin durdurulmasını isteyen işçiler, soruşturmanın da şeffaf yürütülmesini talep etti.
+- Aileler, kurumsal kararların ve denetim eksikliklerinin araştırılması için hukuk mücadelesi başlatacak.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=qMl5hHSlJhA&t=33s) (⏱️ 00:33-16:37)
-- [Inan Demirel](https://www.youtube.com/watch?v=x6AIHzZxN6E&t=1814s) (⏱️ 30:14-44:12)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=03wbWjHqMNY&t=1815s) (⏱️ 30:15-32:05)
-- [Onlar TV](https://www.youtube.com/watch?v=8K7U80Qmswk&t=2854s) (⏱️ 47:34-51:16)
-- [Rusen Cakir](https://www.youtube.com/watch?v=L02QrT0WxSg&t=3s) (⏱️ 00:03-09:17)
+- [Serdar Akinan](https://www.youtube.com/watch?v=Chk4zHBYBoE) (⏱️ 00:00-20:28)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=aJlaNsn_c_E&t=1035s) (⏱️ 17:15-19:50)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=dqs-NA_MJGM&t=135s) (⏱️ 02:15-05:56)
+- [Inan Demirel](https://www.youtube.com/watch?v=4DSHp_0DEXs&t=2785s) (⏱️ 46:25-52:12)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=a-Jk1JicHzo&t=576s) (⏱️ 09:36-16:19)
+- [Onlar TV](https://www.youtube.com/watch?v=BJWcDUgk4ak&t=3173s) (⏱️ 52:53-53:35)
+- [Unsal Unlu](https://www.youtube.com/watch?v=vOAlvDdsdgA&t=2686s) (⏱️ 44:46-46:55)
 
 ---
 
-## 5. Merkez Bankası Enflasyon Tahminlerini Yükseltti
+## 4. Merkez Bankası Enflasyon Tahminlerini Yükseltti
 
-- Merkez Bankası Başkanı Fatih Karahan, enflasyon tahminlerinin yükseltildiğini açıkladı.
-- 2026 yıl sonu enflasyon tahmini yüzde 28’den yüzde 29,5’e çıkarıldı.
+- Merkez Bankası, 2026 enflasyon tahminini yüzde 28’den yüzde 29,5’e yükseltti.
 - 2027 tahmini yüzde 21’e, 2028 tahmini ise yüzde 13,5’e yükseltildi.
-- Gıda enflasyonu tahmini de yüzde 28,5’ten yüzde 31,5’e revize edildi.
-- Enerji maliyetlerindeki artışın dünya ekonomisi üzerindeki baskıyı artırabileceği belirtildi.
-- Kredi koşullarında sınırlı gevşeme beklenirken sıkı para politikasının süreceği belirtildi.
-- Yorumcular, sık değiştirilen tahminlerin güvenilirliği ve ücret artışlarını zayıflattığını savundu.
-- Şeref Oğuz, üretim ve tarımdaki sorunların enflasyonu beslediğini savundu.
-- İnan Mutlu, enflasyonla mücadelenin yükünün vatandaşın harcamalarını kısmasına bırakılmasını eleştirdi.
-- Değerlendirmelerde, dar gelirlilerin 2027’de geçim sıkıntısının daha da ağırlaşabileceği belirtildi.
+- Başkan Fatih Karahan, tahminlerdeki artışta savaş kaynaklı gelişmelerin etkili olduğunu belirtti.
+- Yorumcular, değişen tahminlerin güveni zedelediğini, enflasyonun alım gücünü düşürdüğünü savundu.
+- 2027 yeniden değerleme oranı, vergi ve harçlar için yüzde 27,83 açıklandı.
+- Oran uygulanırsa telefon kayıt ücretinin 69 bin 358 liraya çıkması bekleniyor.
+- 2027 bütçesinde yaklaşık 20 trilyon liralık vergi geliri hedefleniyor.
+- Bütçedeki 3,9 trilyonluk faiz ödemesi, eğitime ayrılan 3,7 trilyonu aşıyor.
+- Kamu taşınmazlarının satışından 2027’de 125 milyar lira gelir hedefleniyor.
+- Şehir hastaneleri için 2027 bütçesinde 160,6 milyar lira ayrıldı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilal Koylu](https://www.youtube.com/watch?v=KAQNQSJHnYw&t=1278s) (⏱️ 21:18-29:15)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=UiH9ypm9V50&t=1193s) (⏱️ 19:53-24:30)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=qMl5hHSlJhA&t=2813s) (⏱️ 46:53-53:00)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=yOA8jLK4B4E&t=13s) (⏱️ 00:13-07:42)
-- [Inan Demirel](https://www.youtube.com/watch?v=x6AIHzZxN6E&t=2862s) (⏱️ 47:42-51:34)
+- [Unsal Unlu](https://www.youtube.com/watch?v=DtwOmzYeOLU&t=674s) (⏱️ 11:14-13:00)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=aJlaNsn_c_E&t=1531s) (⏱️ 25:31-29:29)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=v-0LsxBXQn8&t=1152s) (⏱️ 19:12-21:48)
+- [Cigdem Toker](https://www.youtube.com/watch?v=v4QqbDSVSVs&t=4s) (⏱️ 00:04-12:21)
 
 ---
 
-## 6. Dokunulmazlık Tartışmasında Yolsuzluk ve Rüşvet Önerisi
+## 5. Malatya’da Helikopter Kazasında Dört Asker Şehit
 
-- Türkiye gazetesine göre Erdoğan, bekleyen dokunulmazlık dosyalarında harekete geçilmesini istedi.
-- MHP'li Mustafa Kalaycı, yolsuzluk ve rüşvetin dokunulmazlık dışında tutulmasını önerdi.
-- CHP'den bazı isimler de önerilen düzenlemeye destek verebileceklerini açıkladı.
-- TBMM'de 150 milletvekiline ait toplam 1096 dokunulmazlık dosyası bulunduğu aktarıldı.
-- Deniz Zeyrek, dosyalardaki yolsuzluk veya rüşvet suçlamalarının sayısının bilinmediğini söyledi.
-- Zeyrek, fon soruşturmasında milletvekillerinin bulunup bulunmadığının açıklığa kavuşturulmasını istedi.
-- AK Partili yetkili, yavaşlık izlenimini soruşturmanın titizlikle yürütülmesine bağladı.
-- Yetkiliye göre Erdoğan, makama bakılmadan sürece karışan herkesin araştırılmasını istedi.
-- Yetkili, kimsenin korunmayacağını ve gerektiğinde herkesin tutuklanıp yargılanabileceğini belirtti.
-- Programda, tartışmaların muhalefeti ve olası cumhurbaşkanı adaylarını baskılayabileceği değerlendirildi.
+- Malatya’nın Yeşilyurt ilçesindeki Samanköy mevkisinde S-70 tipi askeri helikopter düştü.
+- Kazada helikopterde bulunan dört asker şehit oldu, kimlikleri kamuoyuna açıklandı.
+- Pilot Binbaşı Erdem Çimen ve Pilot Binbaşı Orhun Pınar şehit oldu.
+- Uçuş Teknisyeni Astsubay Kıdemli Üstçavuş Hüseyin Zehir de kazada şehit oldu.
+- Teknisyen Astsubay Kıdemli Çavuş Serkan Önder de kazada şehit oldu.
+- Milli Savunma Bakanı Yaşar Güler, şehitler için başsağlığı mesajı yayımladı.
+- Kazanın nedeni araştırılıyor, elektrik tellerine takılma iddiası henüz doğrulanmadı.
+- Görüntülerde yakındaki elektrik hattında kıvılcımlar görüldüğü ve bölgede çalışma yapıldığı aktarıldı.
+- Pilotların helikopteri yerleşim yerlerinden uzak tutmaya çalıştığı iddiası da doğrulanmadı.
+- Helikopterin yaşı, olası ihmal ve uçuşun eğitim amaçlı olup olmadığı araştırılacak.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=03wbWjHqMNY&t=1303s) (⏱️ 21:43-23:51)
-- [Inan Demirel](https://www.youtube.com/watch?v=x6AIHzZxN6E&t=69s) (⏱️ 01:09-11:45)
-- [Hilal Koylu](https://www.youtube.com/watch?v=KAQNQSJHnYw&t=1213s) (⏱️ 20:13-21:17)
+- [Unsal Unlu](https://www.youtube.com/watch?v=DtwOmzYeOLU&t=91s) (⏱️ 01:31-01:37)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=dbRPRRGH_dk&t=114s) (⏱️ 01:54-03:29)
+- [Onlar TV](https://www.youtube.com/watch?v=BJWcDUgk4ak&t=29s) (⏱️ 00:29-02:10)
 
 ---
 
-## 7. Kaya’nın Cezaevi Koşullarına İlişkin İddialar
+## 6. Cezaevi Koşulları Yeniden Tartışma Konusu Oldu
 
-- Haberlerde, Fatma Betül Sayan Kaya’nın fon soruşturmasında 6 Kasım’da tutuklandığı aktarıldı.
-- Silivri’deki Marmara Cezaevi’nde, avluya açılan 12 metrekarelik tek kişilik hücrede kaldığı belirtildi.
-- C blokta Osman Kavala, Buğra Gökçe ve Seçil Erzan’ın bulunduğu aktarıldı.
-- İlk avukat görüşmesini babası ve kardeşiyle yaptığı haberlerde öne sürüldü.
-- Ailesinin avukatlığını üstlendiği, diğer avukatların görüşme taleplerini reddettiği iddia edildi.
-- İlk görüşmelerinden birinde çocuklarından söz ederken ağladığı haberlerde öne sürüldü.
-- Bazı tutukluların kendisini teselli ettiği, bazılarının sloganlarla protesto ettiği aktarıldı.
-- Hücresinin önceden temizlendiği ve avlu kullanımında özel önlemler alındığı belirtildi.
-- Görüşlere götürülürken çevresinin boş bırakıldığı, diğer tutuklularla temasının sınırlandırıldığı öne sürüldü.
-- Şeref Oğuz, uygulamanın soruşturmadaki kişilerin iletişimini engellemeyi amaçlayabileceği değerlendirmesinde bulundu.
+- Alican Uludağ’ın haberinde, Fatma Betül Sayan Kaya’nın cezaevi koşulları aktarıldı.
+- Silivri’deki Marmara Cezaevi’nin kadınların bulunduğu C Blok’unda kaldığı öne sürüldü.
+- Tek kişilik koğuşunun yaklaşık 12 metrekare büyüklüğünde olduğu ifade edildi.
+- Kendisine ait avlunun 08.00 ile 20.00 saatleri arasında açık olduğu belirtildi.
+- Aynı bloktaki tutukluların sloganlarından ve kapılara vurmasından rahatsız olduğu aktarıldı.
+- İlk avukat görüşmesinin özel tedbirlerle yapıldığı, çocuklarını anlatırken ağladığı iddia edildi.
+- Babasının ve avukat kardeşinin ziyaret ettiği, diğer avukatları istemediği aktarıldı.
+- Ünsal Ünlü ise ayrı değerlendirmesinde Can Atalay’ın cezaevinde tutulmasını eleştirdi.
+- Atalay hakkında AYM ve AİHM kararlarının uygulanmadığı değerlendirmede ifade edildi.
+- Kararların uygulanmamasının Türkiye’de hukuk ve demokrasi açısından sorun oluşturduğu belirtildi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=UiH9ypm9V50&t=286s) (⏱️ 04:46-09:56)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=yOA8jLK4B4E&t=1061s) (⏱️ 17:41-21:50)
-- [Inan Demirel](https://www.youtube.com/watch?v=x6AIHzZxN6E&t=705s) (⏱️ 11:45-17:07)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=aJlaNsn_c_E&t=737s) (⏱️ 12:17-14:08)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=wgyXNZGG_i8) (⏱️ 00:00-04:38)
+- [Unsal Unlu](https://www.youtube.com/watch?v=vOAlvDdsdgA&t=257s) (⏱️ 04:17-04:38)
 
 ---
 
-## 8. Habaş’taki Ölümcül Kazada İhmal İddiaları Gündemde
+## 7. Eğitim Bütçesi Görüşmelerinde Yusuf Tekin Gerilimi
 
-- Habaş fabrikasındaki vinç kazasında 18 kişi öldü, bir işçi aranıyor.
-- Dokuz kişi için tutuklama kararı verildi; Mehmet Rüştü Başaran ev hapsinde.
-- Bir mühendis, köprü vincinin raydan çıkarak düşmesini olağan bulmadığını söyledi.
-- Olası nedenler arasında çelik rayların kırılması, güvenlik sistemlerinin çalışmaması gösterildi.
-- Vinci durduran mekanizmaların görevini yapmaması da olası nedenler arasında sayıldı.
-- Mühendise göre bu ihtimaller ciddi bakım, üretim veya denetim eksikliklerine işaret edebilir.
-- Tesislerde risklerin belirlenmesi ve düzenli denetimlerin kayıt altına alınması gerektiği vurgulandı.
-- Önceki haberde, Habaş’taki bir patlamada 36 işçinin hayatını kaybettiği belirtildi.
-- Şirketin çelik üretiminin 600 bin tondan 5 milyon tona çıktığı aktarıldı.
-- Mustafa Bildircin’in haberine göre şirketin 2023-2025 cirosu 11,9 milyar liraydı.
+- TBMM’deki 2027 eğitim bütçesi görüşmelerinde Yusuf Tekin ile muhalefet tartıştı.
+- Komisyonda yaşanan tokalaşma tartışması, Bakan ile milletvekilleri arasındaki gerilimi artırdı.
+- Görüntülerde Tekin’in bir milletvekilinin elindeki afişe müdahale ettiği aktarıldı.
+- Tekin’in milletvekillerine “şov yapma” dediği ve dışarıda gösteri önerdiği belirtildi.
+- Çocukların gözaltına alınması ve mesleki eğitimdeki ölümler, milletvekillerinin eleştirilerine yansıdı.
+- Mesleki Eğitim Merkezlerindeki iş kazaları ve öğrencilerin güvenliği gündeme geldi.
+- Tekin, kendisini eleştiren milletvekillerine Aşık Düşari’den bir şiir okumalarını önerdi.
+- Ünsal Ünlü, Tekin’in şiiri yanlış aktardığını ve milletvekilleriyle alay ettiğini savundu.
+- Deniz Zeyrek, milletvekillerinin eğitim sorunlarını Meclis’te tartışma hakkını vurguladı.
+- Yorumcular, çocuk işçiliği ve eğitim sorunları nedeniyle Tekin’in tutumunu eleştirdi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=7Je05S5tk7o&t=1976s) (⏱️ 32:56-33:49)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=yOA8jLK4B4E&t=3798s) (⏱️ 63:18-65:06)
+- [Unsal Unlu](https://www.youtube.com/watch?v=DtwOmzYeOLU&t=188s) (⏱️ 03:08-11:00)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=aJlaNsn_c_E&t=1190s) (⏱️ 19:50-22:09)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=dqs-NA_MJGM&t=1615s) (⏱️ 26:55-31:01)
 
 ---
 
-## 9. MSCI Türkiye Endeksinden 18 Hisseyi Çıkardı
+## 8. Nvidia’da Yönetim ve Mali Kayıt İddiaları
 
-- MSCI'ın toplam 18 hisseyi küçük ölçekli şirketler endeksine taşıdığı aktarıldı.
-- Sabancı Holding ve Astor Enerji de Türkiye endeksinden çıkarılanlar arasında.
-- Kararın mevcut kayıpları artırdığı, borsanın güne düşüşle başladığı ifade edildi.
-- Fon krizinin etkisiyle bazı şirketlerin kredi notlarının düşürüldüğü de belirtildi.
-- Akbank'ın da yaptırım veya incelemelerden etkilendiği haberlerde ayrıca ifade edildi.
-- MSCI'ın Türkiye piyasasındaki bazı gelişmeler nedeniyle uyarıda bulunduğu da aktarıldı.
-- Manipülatif işlemlerin çözümü için Haziran 2027'ye kadar süre verildiği belirtildi.
-- Konuk, şirket değerleriyle bilanço değerleri arasındaki ciddi farkların incelenmesini istedi.
-- Bu tür uyarıların öncelikle SPK tarafından yapılması gerektiği de savunuldu.
-- Çözülmeyen manipülasyon iddialarının ve yatırımcı zararlarının yabancı güvenini zedeleyebileceği belirtildi.
+- Nvidia’da yönetim değişikliği ve sert hisse düşüşü iddiaları gündeme geldi.
+- Jensen Huang’ın istifası ve Colette Kress’in geçici CEO’luğu öne sürüldü.
+- Trump’ın şirketin başına Apple CEO’su Tim Cook’u istediği aktarıldı.
+- Çin’e çip satışlarında kısıtlamaların başka ülkeler üzerinden aşıldığı iddia edildi.
+- Sipariş ve satış kayıtlarının gerçeği yansıtmadığına ilişkin iddialar da paylaşıldı.
+- Devrim Akyıl, özel hayat tartışmalarının mali iddiaları gölgeleyebileceğini savundu.
+- Şirket değerinin yaklaşık 6 trilyondan 4,1 trilyon dolara gerilediği aktarıldı.
+- Başka bir aktarımda ise yaklaşık 15,5 milyar dolarlık kayıptan bahsedildi.
+- Olası ABD Kongresi incelemelerinin şirketin geçmiş işlemlerini aydınlatabileceği ifade edildi.
+- Akyıl, yapay zekâ sektöründeki aşırı değerlenme ve muhasebe risklerine dikkat çekti.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Bahar Feyzan](https://www.youtube.com/watch?v=UiH9ypm9V50&t=1697s) (⏱️ 28:17-32:08)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=YJEHPb2fNMc&t=654s) (⏱️ 10:54-11:46)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=dbRPRRGH_dk&t=3033s) (⏱️ 50:33-63:56)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=wgyXNZGG_i8&t=468s) (⏱️ 07:48-08:22)
 
 ---
 
-## 10. Asgari Ücrette Zam Beklentileri Gündemde
+## 9. Emekli Aylıklarında Zam ve Sistem Tartışması
 
-- Küçük ve orta ölçekli işletmeler için kredi büyüme sınırları yükseltildi.
-- Düzenlemenin işletmeleri rahatlatması beklenirken, tek başına yeterli olmayacağı da vurgulandı.
-- Şeref Oğuz, piyasalarda güven için hızlı ve kapsamlı önlemler gerektiğini belirtti.
-- Emeklilere zam yapılabileceği ve asgari ücretin yılda iki kez artırılabileceği öngörüldü.
-- 2027 asgari ücretine yüzde 30 zam yapılabileceği yönündeki kulis bilgisi değerlendirildi.
-- Deniz Zeyrek, 2027 asgari ücret tahminini yaklaşık 36 bin lira açıkladı.
-- Zeyrek, yüzde 30 zam hesabının kendi tahminine yakın olduğunu belirtti.
-- Zeyrek, ücret tespit sürecinde işçilerin taleplerinin etkisini sınırlı olarak niteledi.
+- En düşük emekli aylığının 23 bin 552 TL olduğu belirtildi.
+- Açlık sınırının yaklaşık 38 bin TL’ye ulaştığı ifade edildi.
+- Emeklilerin kira ve temel ihtiyaçlarını karşılamakta ciddi zorluklar yaşadığı aktarıldı.
+- Ozan Bingöl, en düşük aylığın bütçeye bağlı 30 bin TL’ye yaklaşabileceğini söyledi.
+- Enflasyon farkı ve ek zamlarla 27.500–28.000 TL aralığı da konuşuluyor.
+- Kök maaşı, yani temel aylığı düşük emekliler zamdan yararlanamayabiliyor.
+- Ödenen primlerle aylıklar arasındaki bağın zayıfladığı, kalıcı düzenleme gerektiği belirtildi.
+- Emeklilere ve asgari ücretlilere beklentileri aşan zamlar yapılabileceği öne sürüldü.
+- Bazı fon yatırımcılarının ödeme gecikmeleri yaşadığı, paralarını kısmen alabildiği aktarıldı.
+- Fonlardaki ödeme sorunlarının başka yatırım araçlarına yayılabileceği uyarısı yapıldı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=03wbWjHqMNY&t=1708s) (⏱️ 28:28-30:15)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=YJEHPb2fNMc&t=1852s) (⏱️ 30:52-34:49)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=aJlaNsn_c_E&t=1855s) (⏱️ 30:55-34:50)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=dbRPRRGH_dk&t=2385s) (⏱️ 39:45-47:24)
 
 ---
 
