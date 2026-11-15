@@ -1,71 +1,72 @@
 # Bugün Ne Oldu?
 
-*14 November 2026 tarihli günlük haber raporu - 3 haber birleştirildi*
+*15 November 2026 tarihli günlük haber raporu - 3 haber birleştirildi*
 
-## 1. Fon İddialarında Şeffaflık ve Hesap Çağrısı
+## 1. Yeni Parti Kurultayında Özel'in Liderliği Pekişti
 
-- Erhan Usta, fon iddialarında siyasi bağlantıların ve denetleyici kurumların araştırılmasını istedi.
-- Fonlardan 440 kişinin 401 milyar lira çektiğini Erhan Usta iddia etti.
-- Deniz Zeyrek, 214 kişinin 188 milyarlık haksız kazanç sağladığı iddiasını aktardı.
-- Zeynel Emre, kazananların isimlerini açıklamadan önce doğrulanmış bilgi beklediklerini söyledi.
-- Türkiye Sigorta, yaklaşık 1,6 milyar lirayı etik gerekçelerle TMSF’ye iade ettiğini açıkladı.
-- Usta, mağdurlara ödeme için haksız kazançlarla desteklenecek iade hesabı önerdi.
-- Yayınlarda, dini belgelerle güven sağlanarak fonlara para toplandığı iddia edildi.
-- Fatma Betül Sayan Kaya’nın başörtüsü üzerinden hedef gösterilmesi yayınlarda eleştirildi.
-- Yorumcular, krizin iktidara güveni sarstığını ve siyasi dengeleri etkileyebileceğini savundu.
-- Fon tartışmalarının piyasalarda güven kaybını artırdığı, alım kararlarını ertelettiği belirtildi.
+- Özgür Özel, Yeni Parti'nin ilk kurultayında 1.154 oyla genel başkan seçildi.
+- Özel, önce iktidarı, ardından CHP'yi geri almayı hedeflediğini açıkladı.
+- Özel, farklı kesimlere seslenerek birlik, adalet ve toplumsal barış çağrısı yaptı.
+- Kuruluş bildirgesinde sosyal adalet, hukukun üstünlüğü ve üretim ekonomisi hedeflendi.
+- İmamoğlu'nun yapay zekâyla hazırlanan mesajında Özel'le birlikte hareket edildiği vurgulandı.
+- Başlangıçta 150 kişilik planlanan Parti Meclisi listesinin 160'a çıkarıldığı aktarıldı.
+- Uzmanlarla genişletilen kadrolara rağmen tek aday ve blok liste eleştirildi.
+- Kurultayda gelir 623,278 milyon, gider 204,538 milyon lira olarak açıklandı.
+- Parti içi demokrasi tartışmalarında adayların ön seçimle belirlenmesi gerektiği savunuldu.
+- Ayrı değerlendirmelerde siyasette hesap verebilirlik ve yurttaşların doğrudan katılımı önerildi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=Avk4N4-x8BU&t=588s) (⏱️ 09:48-17:00)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=Z0oPmHA356I&t=3423s) (⏱️ 57:03-69:14)
-- [Rusen Cakir](https://www.youtube.com/watch?v=c0E-njkfXnA&t=21s) (⏱️ 00:21-08:58)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=fBFbi3VD_xY&t=1552s) (⏱️ 25:52-26:42)
-- [Inan Demirel](https://www.youtube.com/watch?v=JGSmj8zr4YE&t=40s) (⏱️ 00:40-23:04)
-- [Onlar TV](https://www.youtube.com/watch?v=TD_Y4ZfpuLU&t=830s) (⏱️ 13:50-21:17)
-- [Serdar Akinan](https://www.youtube.com/watch?v=_rE3HYW3oV0&t=1637s) (⏱️ 27:17-32:28)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=j0GK8xhTTA8) (⏱️ 00:00-02:01)
+- [Rusen Cakir](https://www.youtube.com/watch?v=6xPoRobr39A&t=5s) (⏱️ 00:05-11:05)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=Cvjq3dx77rI&t=270s) (⏱️ 04:30-05:25)
+- [Inan Demirel](https://www.youtube.com/watch?v=7hNFAgt04Ic&t=1433s) (⏱️ 23:53-25:18)
+- [Hilal Koylu](https://www.youtube.com/watch?v=l64AwLuEDDc&t=883s) (⏱️ 14:43-21:13)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=AJk3Lppy6PQ&t=14s) (⏱️ 00:14-04:49)
+- [Serdar Akinan](https://www.youtube.com/watch?v=4nDuiqGN7EQ&t=248s) (⏱️ 04:08-30:06)
 
 ---
 
-## 2. Özgür Özel Yeni Parti’nin Genel Başkanı Seçildi
+## 2. Fon Krizinde Ödemeler ve Soruşturma Tartışılıyor
 
-- CHP’deki yargı süreci ve ayrılığın ardından kurulan Yeni Parti Ankara’da toplandı.
-- Özgür Özel, 1.154 geçerli oyun kullanıldığı seçimde genel başkanlığa seçildi.
-- Seçim hazırlıkları için geçici, 150 üyeli Parti Meclisi oluşturulması planlandı.
-- Özel, partinin Atatürk mirasını taşıyan, farklı demokratlara açık sosyal demokratlığını vurguladı.
-- Özel, Türkiye İttifakı’nı büyütmeyi ve kazanabilecek ortak aday belirlemeyi hedeflediğini belirtti.
-- Yöneticiler, bağışlarla büyüyen partinin toplam üye sayısının 800 bine ulaştığını söyledi.
-- Bazı belediye başkanlarının kurultay sırasında Yeni Parti’ye katıldığı kamuoyuna açıklandı.
-- İmamoğlu’nun yapay zekâyla hazırlanan video mesajında eşitlik ve dayanışma vurgulandı.
-- Kurultay değerlendirmelerinde ekonomi, eğitim ve bağımsız yargıda somut politikalar istendi.
-- Ümit Özlale, fon skandalına ilişkin beş gün boyunca belgeler açıklayacaklarını söyledi.
+- Yayınlarda, fon krizinden doğrudan etkilenen yatırımcı sayısının 455 bine yaklaştığı belirtildi.
+- Yetkililer, 30 Ekim-13 Kasım döneminde yaklaşık 161 milyar lira ödendiğini açıkladı.
+- Yetkililere göre 333.493 yatırımcı net yatırım tutarının tamamını geri aldı.
+- Yatırımcılar, ödeme hesaplamalarının belirsizliğini eleştirerek kalan alacakları için takvim istiyor.
+- Türkiye Sigorta'nın fonlardan kazandığı 1,6 milyar lirayı TMSF'ye iade ettiği bildirildi.
+- Şirket yöneticilerinin fon işlemlerinde menfaat sağladıkları iddiasıyla tutuklandığı da aktarıldı.
+- Deniz Zeyrek, yaklaşık 400 milyar liranın yurtdışına çıkarıldığı iddiasını aktardı.
+- Zeyrek, mağdur ödemelerinin tamamlanabilmesi için yüksek kazançların geri alınmasını savundu.
+- Goldman Sachs, fon krizinin finansal koşulları sıkılaştırarak büyümeyi baskılayabileceği uyarısında bulundu.
+- Bir araştırmada, seçmenlerin yüzde 81,8'inin fon vurgunundan hükümeti sorumlu tuttuğu aktarıldı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Inan Demirel](https://www.youtube.com/watch?v=5tC20y4NQKA&t=171s) (⏱️ 02:51-08:59)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=OKG5mTSqPXM&t=31s) (⏱️ 00:31-05:51)
-- [Onlar TV](https://www.youtube.com/watch?v=TD_Y4ZfpuLU&t=70s) (⏱️ 01:10-13:50)
+- [Inan Demirel](https://www.youtube.com/watch?v=7hNFAgt04Ic&t=1521s) (⏱️ 25:21-27:01)
+- [Rusen Cakir](https://www.youtube.com/watch?v=cMRz9tBpb2M&t=1903s) (⏱️ 31:43-35:07)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=AJk3Lppy6PQ&t=2110s) (⏱️ 35:10-39:53)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=Cvjq3dx77rI&t=1925s) (⏱️ 32:05-32:35)
+- [Hilal Koylu](https://www.youtube.com/watch?v=l64AwLuEDDc&t=2s) (⏱️ 00:02-14:42)
 
 ---
 
-## 3. Ticaret ve Konut Piyasasında Daralma
+## 3. Habaş’ta İşçilerden Güvenlik ve Bağımsız Denetim Talebi
 
-- Kapalıçarşı esnafı, iş hacminin yüzde 80–85 oranında daraldığını belirtiyor.
-- Boşalan dükkânlara kiracı bulunamazken, daralma çevredeki ticaret alanlarını da etkiliyor.
-- Esnaf, itibar kaybının müşterileri azalttığını, bazı yatırımcıların mevduata yöneldiğini söylüyor.
-- Enflasyondan arındırılmış konut fiyatları, 2023 zirvesinden yaklaşık yüzde 23 geriledi.
-- Nakit konut alımları azalırken, fiyatlardaki düşüş özellikle eylül ayında hızlandı.
-- İstanbul’da sel riski taşıyan bazı bölgelerde yüzde 15 düşüş olabileceği değerlendiriliyor.
-- Banka kredili satışlar azalırken, tasarruf finansmanıyla yapılan konut alımları artıyor.
-- Alternatif finansman, çoğunlukla 3–7 milyon liralık konutlarda krediye erişemeyenlerce kullanılıyor.
-- Bu şirketlerin ipotek koyduğu satışlar da resmî kayıtlarda ipotekli görünüyor.
-- Faiz indirimi ve seçimler, konut fiyatlarında otomatik artış anlamına gelmiyor.
+- Habaş fabrikasındaki patlamada, haberlerdeki farklı sayılara göre 18-19 işçi öldü.
+- İşçiler, olayın nedenleri ve güvenlik önlemleri hakkında açıklama yapılmadığını belirtiyor.
+- İşçiler, patlamadan dört gün sonra girişte telefonlarının alınmak istendiğini söylüyor.
+- Telefon yasağının olumsuz çalışma koşullarının kamuoyuyla paylaşılmasını engellemeyi amaçladığı öne sürülüyor.
+- Bazı bölümlerde üretimin sürdüğü, işçilerin güvenlik sağlanmadan çalışmaya çağrıldığı aktarılıyor.
+- İşçiler bağımsız denetim, güvenlik sağlanana kadar üretimin durdurulmasını istiyor.
+- İşçiler ayrıca ücretli izin talebiyle sendikalara ve sivil topluma sesleniyor.
+- Deniz Zeyrek, patlamayla ilgili bir kişinin ev hapsinde tutulmasını eleştiriyor.
+- Evrensel, Soma ve Ermenek’teki ölümleri hatırlatarak iş güvenliği denetimlerini yetersiz buluyor.
+- Evrensel, AKP döneminde çalışırken ölen işçilerin sayısının 38.500’ü aştığını aktarıyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=OKG5mTSqPXM&t=1692s) (⏱️ 28:12-31:08)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=j0GK8xhTTA8&t=129s) (⏱️ 02:09-05:40)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=AJk3Lppy6PQ&t=1967s) (⏱️ 32:47-35:05)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=Cvjq3dx77rI&t=2405s) (⏱️ 40:05-41:42)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=jio-w-wef84&t=520s) (⏱️ 08:40-15:05)
 
 ---
 
