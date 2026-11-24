@@ -1,243 +1,220 @@
 # Bugün Ne Oldu?
 
-*23 November 2026 tarihli günlük haber raporu - 10 haber birleştirildi*
+*24 November 2026 tarihli günlük haber raporu - 10 haber birleştirildi*
 
-## 1. Fon Soruşturmasında Sorumluluk ve Şeffaflık Tartışması
+## 1. Fon Soruşturmasında Mağduriyet ve Şeffaflık Tartışması
 
-- Adalet Bakanı Gürlek, soruşturmada 632 şüpheli bulunduğunu, 91 şirkete kayyum atandığını açıkladı.
-- Gürlek, gönüllü iade kapsamında 85 kişiden 44,58 milyar lira toplandığını bildirdi.
-- 551 kişinin ve 181 kuruluşun mal varlığına el konulduğu açıklandı.
-- Dokuz ülkedeki yaklaşık 13 milyar liralık varlığın dondurulduğu da bildirildi.
-- MASAK raporuna dayandırılan haberlerde, yabancı yatırımcı görünümüyle yurtdışı transferleri yapıldığı savunuldu.
-- Ümit Özlale, Tera bağlantılı kayıtlardaki milyarlarca liralık bakiyelerin sıfırlandığını iddia etti.
-- 108 kişilik tedbir listesinin tüm şüphelileri kapsamadığı, zarar edenleri içerdiği aktarıldı.
-- Şamil Tayyar’ın şüpheli sıfatıyla ifade verdiği, suçlamaları kumpas olarak nitelediği aktarıldı.
-- Sabah ve Yeni Şafak arasında Kavcıoğlu üzerinden sorumluluk tartışması yaşandı.
-- Mağdurlara ödeme yapılması, kazanç sağlayanların açıklanması ve denetçilerin sorgulanması istendi.
+- Yatırımcılar, 17 Eylül'den beri fonlarını satamadıklarını, birikimlerine erişemediklerini söylüyor.
+- Mağdurlar, ara ödemeleri yetersiz buluyor, enflasyon kayıplarının karşılanmasını istiyor.
+- Erdoğan, ilgili kurumların çalıştığını belirterek sorunun hızla çözülmesini istedi.
+- Haberlerde, 214 kişi ve kurumun 187 milyar liralık zararla ilişkilendirildiği aktarıldı.
+- Fatma Betül Sayan Kaya'nın sağlık gerekçesiyle ev hapsiyle tahliyesi aktarıldı.
+- Buz Yatırım Başkanı Kemal Akkaya, soruşturmada üçüncü kez gözaltına alındı.
+- Yayınlarda, yabancı şirketlerle yatırımcı kimliklerinin gizlendiği, paraların yurtdışına aktarıldığı iddia edildi.
+- Tera'nın iç kayıtlarındaki 24 hesabın bakiyesinin sıfırlandığı iddia edildi.
+- Ahmet Şık, kamu denetiminin ve siyasi sorumlulukların da araştırılmasını istedi.
+- Mağdur listelerinin açıklanmaması, soruşturmanın şeffaflığına ve kapsamına ilişkin eleştirileri artırdı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=-Fnmi-USYNg&t=207s) (⏱️ 03:27-06:09)
-- [Hilal Koylu](https://www.youtube.com/watch?v=07VF1NXH0go&t=862s) (⏱️ 14:22-19:32)
-- [Inan Demirel](https://www.youtube.com/watch?v=SLW9xrPDZkI&t=880s) (⏱️ 14:40-22:30)
-- [Onlar TV](https://www.youtube.com/watch?v=ykj_AOsKMU8&t=3209s) (⏱️ 53:29-53:57)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=cqh1iJnRSyU&t=1509s) (⏱️ 25:09-26:00)
-- [Unsal Unlu](https://www.youtube.com/watch?v=6tC_4VfHUzI&t=737s) (⏱️ 12:17-15:53)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=cZI1t8XxsPY&t=1538s) (⏱️ 25:38-38:08)
-- [Murat Yetkin](https://www.youtube.com/watch?v=XZZqOAy-wcM&t=340s) (⏱️ 05:40-16:40)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=ID61cyHTVys&t=1619s) (⏱️ 26:59-35:12)
-- [Rusen Cakir](https://www.youtube.com/watch?v=3uLBVpfPFOA&t=1827s) (⏱️ 30:27-35:12)
-- [Cigdem Toker](https://www.youtube.com/watch?v=1lu4M9O_ydQ&t=116s) (⏱️ 01:56-07:14)
+- [Serdar Akinan](https://www.youtube.com/watch?v=8Tq9ReGG_-Y) (⏱️ 00:00-10:17)
+- [Onlar TV](https://www.youtube.com/watch?v=3PNxbuOHg2E) (⏱️ 00:00-66:55)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=JSMBhOzFYzQ) (⏱️ 00:00-03:47)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=nDtRNnNQ7ik&t=1063s) (⏱️ 17:43-18:31)
+- [Unsal Unlu](https://www.youtube.com/watch?v=FO_fDN1A6VQ&t=889s) (⏱️ 14:49-15:37)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=nQ_nI7BGLns&t=1316s) (⏱️ 21:56-24:52)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=tMT8154dM08&t=2147s) (⏱️ 35:47-42:39)
+- [Inan Demirel](https://www.youtube.com/watch?v=Zr4l3J3b4G4&t=951s) (⏱️ 15:51-23:30)
+- [Hilal Koylu](https://www.youtube.com/watch?v=zQuEmFiFnCQ&t=13s) (⏱️ 00:13-01:34)
+- [Murat Yetkin](https://www.youtube.com/watch?v=yijgFf9u0Ug) (⏱️ 00:00-13:03)
 
 ---
 
-## 2. İmralı Görüşmesi Sonrası Komisyon Tartışması Büyüdü
+## 2. Seçim Hesapları ve Süreçte Komisyon Gerilimi
 
-- DEM Parti heyeti, yaklaşık 70 gün sonra İmralı’da Öcalan’la görüştü.
-- Heyet, planlanan Meclis izleme komisyonuna ilişkin Öcalan’a bilgi verdi.
-- Açıklamada, Öcalan’ın koşullarının iyileştiği belirtilerek kamuoyuyla doğrudan iletişim imkânları istendi.
-- Öcalan, Kürt sorununu demokrasiyle ilişkilendirerek Kürtlere yasal güvence sağlanmasını istedi.
-- Özgür Özel, demokratikleşme taahhütlerinin tutulmadığını belirterek komisyona üye vermeyeceklerini açıkladı.
-- Özel, süren kayyum uygulamalarını, belediye operasyonlarını ve basına baskıları eleştirdi.
-- Bahçeli ve DEM Parti, CHP’ye komisyon çalışmalarına katılması çağrısında bulundu.
-- DEM Parti ve Meclis Başkanlığı, CHP’nin kararını değiştirmek için çalışıyor.
-- İmamoğlu, barışı desteklerken demokratikleşme eksiklerini sorguladı; Özel’le ayrılık iddiaları doğrulanmadı.
-- Öcalan’ın yasal güvence mesajları, anayasa değişikliği ihtimaline yönelik yorumları artırdı.
+- Seçimlerin 2027 veya 2028'de yapılabileceği konuşuluyor; henüz kesinleşmiş takvim bulunmuyor.
+- Yeni Parti'nin erken seçime katılımı için alternatif parti seçenekleri değerlendiriliyor.
+- İmamoğlu'nun hukuki durumu belirsizliğini korurken, Özel ve Yavaş'ın adaylıkları tartışılıyor.
+- Bloomberg, belirli hukuki koşullarda İBB yönetiminin seçim yapılmadan değişebileceğini değerlendirdi.
+- İzleme komisyonuna üye vermeme kararı, Erdoğan ile Özel arasındaki gerilimi artırdı.
+- Özel, demokratikleşme adımlarının atılmamasını, tutuklamaları ve medya baskılarını gerekçe gösterdi.
+- DEM heyetinin Öcalan görüşmesinde hukuki güvencelerin ve iletişim imkanlarının konuşulduğu aktarıldı.
+- Silahsızlanmanın doğrulanması sonrasında yasal düzenlemelerle yaklaşık 2.800 kişinin tahliyesi konuşuluyor.
+- MGK kararının zamanlaması belirsizliğini korurken, Demirtaş barışın önceliğini vurgulayan mesaj yayımladı.
+- Fon skandalının ekonomik kaynakları daraltarak iktidarın seçim hesaplarını etkileyebileceği değerlendiriliyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Unsal Unlu](https://www.youtube.com/watch?v=VCCa47UaWDw&t=777s) (⏱️ 12:57-15:35)
-- [Onlar TV](https://www.youtube.com/watch?v=ykj_AOsKMU8&t=3238s) (⏱️ 53:58-55:12)
-- [Murat Yetkin](https://www.youtube.com/watch?v=XZZqOAy-wcM&t=61s) (⏱️ 01:01-01:22)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=-Fnmi-USYNg&t=1554s) (⏱️ 25:54-26:31)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=cqh1iJnRSyU&t=2197s) (⏱️ 36:37-38:17)
-- [Inan Demirel](https://www.youtube.com/watch?v=SLW9xrPDZkI&t=2002s) (⏱️ 33:22-40:20)
-- [Hilal Koylu](https://www.youtube.com/watch?v=07VF1NXH0go&t=2301s) (⏱️ 38:21-42:09)
-- [Rusen Cakir](https://www.youtube.com/watch?v=3uLBVpfPFOA&t=10s) (⏱️ 00:10-15:10)
+- [Onlar TV](https://www.youtube.com/watch?v=8MMWAFLRKfY&t=1283s) (⏱️ 21:23-38:37)
+- [Hilal Koylu](https://www.youtube.com/watch?v=zQuEmFiFnCQ&t=2209s) (⏱️ 36:49-38:36)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=nQ_nI7BGLns&t=2000s) (⏱️ 33:20-34:20)
+- [Unsal Unlu](https://www.youtube.com/watch?v=FO_fDN1A6VQ&t=1438s) (⏱️ 23:58-24:34)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=tMT8154dM08&t=1877s) (⏱️ 31:17-34:33)
+- [Rusen Cakir](https://www.youtube.com/watch?v=F5zX9r0xMgk&t=3s) (⏱️ 00:03-12:42)
+- [Inan Demirel](https://www.youtube.com/watch?v=Zr4l3J3b4G4&t=2445s) (⏱️ 40:45-47:41)
 
 ---
 
-## 3. Sarıyer’de Aslan İhbarı Üzerine Arama Başlatıldı
+## 3. Siyasette Yolsuzluk ve Ahlak Tartışmaları
 
-- İstanbul Sarıyer’deki Uskumruköy çevresinde bir dişi aslan görüldüğü bildirildi.
-- Güvenlik kameralarına yansıdığı belirtilen aslanın bir villadan kaçtığı öne sürüldü.
-- Jandarma ve yerel ekiplerin aramalarında termal kameraların kullanıldığı aktarıldı.
-- Muhtar vatandaşları sokağa çıkmamaya çağırırken, çevredeki kalabalığın aramaları aksattığı belirtildi.
-- Aslanın sahibi belirlenemezken, İstanbul Cumhuriyet Başsavcılığı olayla ilgili soruşturma başlattı.
-- Galatasaraylı futbolcu Abdülkerim Bardakcı, aslanın kendisine ait olduğu iddiasını yalanladı.
-- Bir yayında aslanın bulunduğu ve uyutulmasının planlandığı iddia edildi.
-- Olay, kaçak hayvan besleme ve denetim eksikliği tartışmalarını gündeme getirdi.
-- Ankara Soğuksu Milli Parkı’nda bozayı ve yavrusunun öldürülmesiyle soruşturma başlatıldı.
-- Bir veteriner, ayıların saldırdığına ilişkin bilgi bulunmadığını belirterek öldürülmelerini eleştirdi.
+- MHP Genel Başkanı Devlet Bahçeli, yolsuzluğa kesinlikle müsamaha gösterilmeyeceğini söyledi.
+- Bakanlarla belediye başkanları arasında ayrım yapılmayacağını belirterek güven krizi uyarısı yaptı.
+- Açıklamalar, fon soruşturması ve belediyelere yönelik operasyonlarla ilişkilendirilerek yorumlandı.
+- Fon mağdurlarına yapılan ödemelerin anapara değil, tasfiye tutarı olduğu belirtildi.
+- Özgür Özel, Fatma Betül Sayan Kaya'nın anaparasını faiziyle aldığını ileri sürdü.
+- Bülent Arınç, siyasette ve bürokraside ahlak ve donanım eksikliklerini eleştirdi.
+- Arınç, geçmişte yaptığı bazı atamalarda hatalı kararlar verdiğini kabul etti.
+- Bir AK Parti milletvekili, partideki yolsuzlukların eleştirilmesi gerektiğini savundu.
+- Bahçeli'nin seçim listelerinde MHP'ye daha fazla yer istediği iddia edildi.
+- Arınç, Turanlı'nın Kıbrıs havalimanı ortaklığına ilişkin doğrulanmamış baskı iddialarını reddetti.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=cqh1iJnRSyU&t=43s) (⏱️ 00:43-02:00)
-- [Unsal Unlu](https://www.youtube.com/watch?v=VCCa47UaWDw&t=137s) (⏱️ 02:17-03:40)
-- [Hilal Koylu](https://www.youtube.com/watch?v=07VF1NXH0go&t=56s) (⏱️ 00:56-09:28)
-- [Cigdem Toker](https://www.youtube.com/watch?v=1lu4M9O_ydQ&t=11s) (⏱️ 00:11-01:56)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=ID61cyHTVys&t=34s) (⏱️ 00:34-16:30)
-- [Inan Demirel](https://www.youtube.com/watch?v=SLW9xrPDZkI&t=2964s) (⏱️ 49:24-55:39)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=5zTVXA23dFY&t=3880s) (⏱️ 64:40-69:08)
-- [Onlar TV](https://www.youtube.com/watch?v=ykj_AOsKMU8&t=507s) (⏱️ 08:27-10:37)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=tMT8154dM08&t=2951s) (⏱️ 49:11-51:48)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=JSMBhOzFYzQ&t=536s) (⏱️ 08:56-11:45)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=5EOxoZCQWoM&t=1510s) (⏱️ 25:10-26:19)
+- [Hilal Koylu](https://www.youtube.com/watch?v=zQuEmFiFnCQ&t=576s) (⏱️ 09:36-12:14)
+- [Onlar TV](https://www.youtube.com/watch?v=8MMWAFLRKfY&t=2469s) (⏱️ 41:09-42:45)
+- [Unsal Unlu](https://www.youtube.com/watch?v=FO_fDN1A6VQ&t=981s) (⏱️ 16:21-22:04)
 
 ---
 
-## 4. Gazetecilere Yargılama ve Medyaya Kısıtlama Tartışması
+## 4. Sarıyer'deki Aslan İhbarında Somut Bulgu Yok
 
-- 24, 25 ve 27 Kasım’da toplam 18 gazetecinin yargılanacağı belirtiliyor.
-- Murat Ağırel’in avukatı, haber öncesinde doğrulama istendiğini gösterdiğini savunduğu yazışmalar sundu.
-- AYM, yaklaşık 55 gündür erişime engelli T24’ün geçici tedbir talebini reddetti.
-- T24’ün gelir kaybı gerekçeli başvurusu esas yönünden daha sonra incelenecek.
-- AYM’nin 2 Kasım tarihli kararının 21 gün sonra bildirildiği belirtiliyor.
-- Tele1, Halk TV ve Sözcü’deki kayyum, yönetim değişiklikleri ve kısıtlamalar tartışılıyor.
-- Tuğba Tekerek’in tutuklandığı, Merdan Yanardağ’ın casusluk suçlamasıyla tutuklu yargılandığı aktarılıyor.
-- Devrim Gürkan’ın hesabının, Türk Telekom sandığı haberinin ardından engellendiği belirtiliyor.
-- Deniz Zeyrek’in şirket isimlerini aktardığı videoya Türkiye’den erişimin engellendiği belirtiliyor.
-- İstanbul’da basın özgürlüğü yürüyüşü düzenlenirken, bağımsız gazeteciliğin demokrasiye önemi vurgulandı.
+- Sarıyer'in Uskumruköy bölgesinde bir vatandaşın aslan gördüğü ihbarıyla arama başlatıldı.
+- Güvenlik kamerası görüntüleri ve mahalle sakinlerinin anlatımları aslan iddialarını yaygınlaştırdı.
+- Jandarma ve komando ekipleri Belgrad Ormanı çevresinde kapsamlı aramalar yaptı.
+- Aramalarda termal kameralı dronlar, hareket sensörlü kameralar ve yemleme kullanıldı.
+- Belgrad Ormanı'nın giriş ve çıkışlarının aramalar sırasında kapatıldığı da aktarıldı.
+- İstanbul Valiliği, aslan varlığını doğrulayan somut bir bulguya rastlanmadığını açıkladı.
+- Valilik, yeni görüntülerdeki hayvanın büyük kedi türlerinden olmadığının değerlendirildiğini bildirdi.
+- Hayvanın sahibini ve nereden geldiğini belirlemek amacıyla soruşturma başlatıldığı bildirildi.
+- Bir tırdan beş aslanın kaçtığı yönündeki sosyal medya iddiaları doğrulanmadı.
+- Müge Anlı'nın saatlerce işlediği olayın medyada geniş yer bulması eleştirildi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Cigdem Toker](https://www.youtube.com/watch?v=1lu4M9O_ydQ&t=435s) (⏱️ 07:15-08:07)
-- [Onlar TV](https://www.youtube.com/watch?v=ykj_AOsKMU8&t=171s) (⏱️ 02:51-07:57)
-- [Murat Yetkin](https://www.youtube.com/watch?v=XZZqOAy-wcM&t=83s) (⏱️ 01:23-01:51)
-- [Rusen Cakir](https://www.youtube.com/watch?v=3uLBVpfPFOA&t=911s) (⏱️ 15:11-18:07)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=cZI1t8XxsPY&t=705s) (⏱️ 11:45-22:10)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=cqh1iJnRSyU&t=2542s) (⏱️ 42:22-43:27)
-- [Unsal Unlu](https://www.youtube.com/watch?v=6tC_4VfHUzI&t=3088s) (⏱️ 51:28-52:27)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=5EOxoZCQWoM&t=154s) (⏱️ 02:34-10:04)
+- [Unsal Unlu](https://www.youtube.com/watch?v=FO_fDN1A6VQ&t=2323s) (⏱️ 38:43-44:47)
+- [Onlar TV](https://www.youtube.com/watch?v=gtwMzhOHGcE&t=104s) (⏱️ 01:44-03:43)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=nQ_nI7BGLns&t=252s) (⏱️ 04:12-07:56)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=tMT8154dM08&t=19s) (⏱️ 00:19-03:21)
 
 ---
 
-## 5. Beşiktaş’ta Basın Özgürlüğü İçin Dayanışma Yürüyüşü
+## 5. Yaban Hayvanları İçin Denetim Çağrısı
 
-- İstanbul Beşiktaş’ta basın ve ifade özgürlüğü için binlerce kişi yürüdü.
-- Özgür Çelik ve Özgür Özel, gazetecilerle dayanışma yürüyüşüne katılım çağrısı yaptı.
-- Beşiktaş Meydanı’nda sona eren yürüyüşe gazeteciler ve partililer de katıldı.
-- Katılımcılar tutuklu gazetecilerin serbest bırakılmasını ve televizyonların kapatılmamasını istedi.
-- Medya kuruluşlarına kayyum atanması ve yayınların karartılması yürüyüşte protesto edildi.
-- Barışçıl geçtiği aktarılan eylemde haber alma hakkını savunan sloganlar atıldı.
-- Özgür Çelik, medyadaki karartmayla farklı kesimlerden tutuklamaların bağlantılı olduğunu söyledi.
-- Konuşmacılar, gazetecilerin çalışma koşullarının ve medya kuruluşlarının durumunun kötüleştiğini belirtti.
-- Yürüyüşün ön saflarında siyasetçilerin yer alması bazı yorumcular tarafından eleştirildi.
-- Ayrıca 14 sendikanın ortak çağrısıyla yeni bir eylem yapılacağı duyuruldu.
+- Türkiye’de kaçan bir aslan, vahşi hayvanların tutulmasına ilişkin tartışmaları artırdı.
+- Veteriner hekim Gökçe Coşkun, egzotik hayvan ticaretinin yaygın olduğunu belirtti.
+- Hayvanlar yurt içinde yetiştiriliyor veya sınır kapılarından ülkeye getirilebiliyor.
+- Özel parklarda doğan aslan yavrularının el altından satılabildiği ifade edildi.
+- Ruhsat ve uygun bakım koşulları gerekiyor, denetimlerin sıklığı ise belirsiz.
+- Büyüyünce bakımı zorlaşan hayvanlar, hayvanat bahçelerine veya başka kişilere bırakılabiliyor.
+- Vahşi hayvanların gösteriş veya korkutma amacıyla kullanılmasına ilişkin örnekler aktarıldı.
+- Ankara’da yavrularını emziren anne ayının öldürülmesi kınandı, sorumluların yakalanması istendi.
+- Bölge sakini, çöplerde yiyecek arayan ayının insanlara zarar vermediğini söyledi.
+- Daralan yaşam alanlarına dikkat çekildi, doğru çöp yönetimi istendi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=-Fnmi-USYNg&t=1933s) (⏱️ 32:13-34:06)
-- [Onlar TV](https://www.youtube.com/watch?v=ykj_AOsKMU8&t=54s) (⏱️ 00:54-02:51)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=cqh1iJnRSyU&t=2440s) (⏱️ 40:40-42:22)
-- [Unsal Unlu](https://www.youtube.com/watch?v=6tC_4VfHUzI&t=1983s) (⏱️ 33:03-33:36)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=cZI1t8XxsPY&t=25s) (⏱️ 00:25-11:37)
-- [Rusen Cakir](https://www.youtube.com/watch?v=3uLBVpfPFOA&t=1390s) (⏱️ 23:10-30:18)
+- [Onlar TV](https://www.youtube.com/watch?v=8MMWAFLRKfY&t=418s) (⏱️ 06:58-20:58)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=nQ_nI7BGLns&t=476s) (⏱️ 07:56-09:43)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=5EOxoZCQWoM&t=604s) (⏱️ 10:04-22:58)
 
 ---
 
-## 6. COP31’de fosil yakıt anlaşmazlığı uzlaşmayı engelledi
+## 6. Özel’den Aslan Gündemine Fon Soruşturması Tepkisi
 
-- Türkiye'nin ev sahipliğinde Antalya'da düzenlenen COP31 zirvesinde ortak bildiri çıkarılamadı.
-- Murat Kurum, taraflar uzlaşamadığı için kararların kabul edilmediğini açıkladı.
-- Avrupa Birliği, fosil yakıtlardan uzaklaşma taahhüdü içermeyen taslağı reddetti.
-- Panama ve Marshall Adaları da taslak metne yönelik itirazlara katıldı.
-- Rusya ve Suudi Arabistan, fosil yakıtları sınırlayan taahhütlere karşı çıktı.
-- Türkiye, fosil yakıt ifadesinin metne eklenmesine itirazı olmadığını belirtti.
-- Avrupa Birliği ayrıca fosil yakıtların yerine kullanılacak enerji kaynaklarının açıklanmasını istedi.
-- Kurum, kapanıştaki tartışmanın ardından Ganalı temsilciden ve BM yetkilisinden özür diledi.
-- Özgür Özel, zirvenin sonuçsuz kalmasını eleştirerek diplomatik başarısızlık olarak niteledi.
-- Kurum, Türkiye'nin sorumluluklarını yerine getirdiğini ve milli menfaatlerden taviz vermeyeceğini söyledi.
+- CHP Genel Başkanı Özgür Özel, aslan haberinin zamanlamasını eleştirdi.
+- Özel, fon krizinin CHP'nin açıklamaları sayesinde gündeme geldiğini söyledi.
+- İktidarın fon krizini kendi başına gündeme taşımayacağını öne sürdü.
+- Cumhurbaşkanı Erdoğan'ın aslan haberiyle fon soruşturmasını unutturmak istediğini iddia etti.
+- Özel, aslanı Erdoğan'ın salmış olmasına şaşırmayacağını söyleyerek ironi yaptı.
+- Gündem değiştirme iddiasını destekleyen herhangi bir somut kanıt sunulmadı.
+- İstanbul Valiliği, Sarıyer'de kayıp aslan bulunmadığını açıklayarak vatandaşları bilgilendirdi.
+- Fon mağdurlarının destekçileri, soruşturmanın gündemde kalması için sosyal paylaşımlar yaptı.
+- Türkiye İşçi Partisi, aslan üzerinden fon mağdurlarını hatırlatan video yayımladı.
+- Yayınlarda, aslan gündeminin mağdurları gölgelediği ve bilgiye güveni sarstığı savunuldu.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Murat Yetkin](https://www.youtube.com/watch?v=XZZqOAy-wcM&t=114s) (⏱️ 01:54-05:05)
-- [Cigdem Toker](https://www.youtube.com/watch?v=1lu4M9O_ydQ&t=834s) (⏱️ 13:54-16:20)
-- [Unsal Unlu](https://www.youtube.com/watch?v=6tC_4VfHUzI&t=1411s) (⏱️ 23:31-32:11)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=-Fnmi-USYNg&t=1488s) (⏱️ 24:48-25:54)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=0StGAPQMQds&t=1047s) (⏱️ 17:27-21:56)
-- [Inan Demirel](https://www.youtube.com/watch?v=SLW9xrPDZkI&t=2720s) (⏱️ 45:20-49:24)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=5EOxoZCQWoM&t=4437s) (⏱️ 73:57-75:04)
+- [Inan Demirel](https://www.youtube.com/watch?v=Zr4l3J3b4G4&t=2120s) (⏱️ 35:20-36:45)
+- [Hilal Koylu](https://www.youtube.com/watch?v=zQuEmFiFnCQ&t=504s) (⏱️ 08:24-09:36)
 
 ---
 
-## 7. Ankara'da Erken Seçim Senaryoları Tartışılıyor
+## 7. Türkiye Gelir Eşitsizliğinde Avrupa'nın En Kötüsü
 
-- Kabinede asgari ücret ve emekli aylıklarının ele alınması bekleniyor.
-- Asgari Ücret Tespit Komisyonu'nun gelecek ay toplanmasının beklendiği aktarılıyor.
-- Açlık sınırının 38 bin liraya ulaştığı belirtilirken zamların yetersizliğinden endişeleniliyor.
-- Emekliler için yaşa ve prime göre ek ödeme seçenekleri konuşuluyor.
-- Aziz Çelik, emekli aylıklarındaki artışın 3–5 bin lirada kalabileceğini değerlendiriyor.
-- Erken seçimin 2027'de yapılabileceği konuşuluyor; henüz kesinleşmiş bir takvim bulunmuyor.
-- Erdoğan'ın yeniden adaylığı ve fon soruşturmasının seçim planlarını etkileyebileceği değerlendiriliyor.
-- Yeni Parti'nin kurultay sonrası altı aylık süreyi karşılayamayabileceği öne sürülüyor.
-- Oğuz Kaan Salıcı, demokratik meşruiyet için CHP'de kurultay yapılmasını istiyor.
-- Geniş siyasi mutabakat iddiaları tartışılıyor; doğrulanmış herhangi bir anlaşma bulunmuyor.
+- Eurostat, Avrupa'daki gelir eşitsizliğinin son 15 yılın en düşük seviyesine indiğini bildirdi.
+- Türkiye raporda Avrupa'nın gelir dağılımı en eşitsiz ülkesi olarak gösterildi.
+- Gelir eşitsizliğini gösteren Gini katsayısı Türkiye için 43,9 olarak açıklandı.
+- Bulgaristan'ın aynı rapordaki Gini katsayısı ise 37,7 olarak verildi.
+- Hilmi Hacaloğlu, iktidarın gelir adaletsizliğinin çözümüne yeterince öncelik vermediğini savundu.
+- Osmaniye'de vatandaşlar geçim sıkıntısı yaşadıklarını ve beslenmekte zorlandıklarını anlattı.
+- Bir vatandaş yalnızca Kurban Bayramı'nda et yiyebildiğini ifade etti.
+- Başka bir vatandaş ise karnını kuru ekmekle doyurduğunu söyledi.
+- Haberde dar gelirli ailelerin sağlıklı beslenmekte güçlük çektiği vurgulandı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=-Fnmi-USYNg&t=37s) (⏱️ 00:37-01:07)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=0StGAPQMQds&t=65s) (⏱️ 01:05-06:44)
-- [Rusen Cakir](https://www.youtube.com/watch?v=3uLBVpfPFOA&t=2112s) (⏱️ 35:12-38:14)
-- [Unsal Unlu](https://www.youtube.com/watch?v=6tC_4VfHUzI&t=2852s) (⏱️ 47:32-48:09)
-- [Hilal Koylu](https://www.youtube.com/watch?v=07VF1NXH0go&t=2261s) (⏱️ 37:41-38:19)
+- [Unsal Unlu](https://www.youtube.com/watch?v=FO_fDN1A6VQ&t=469s) (⏱️ 07:49-09:24)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=tMT8154dM08&t=3111s) (⏱️ 51:51-52:21)
 
 ---
 
-## 8. Paris Manifestosu’yla Oligarşiye Karşı Demokratik Dayanışma Çağrısı
+## 8. Ekonomide Rezerv Kaybı ve Ödeme Baskısı
 
-- Nobel ödüllü ekonomist Daron Acemoğlu, Paris Manifestosu’nu imzalayan araştırmacılar arasında bulunuyor.
-- Oligarşiye karşı hazırlanan metne 100’den fazla araştırmacı imza verdi.
-- Manifesto, dünya servetinin giderek daha az sayıda ailede toplandığını belirtiyor.
-- Metin, milyarderlerin şirketler ve siyaset üzerindeki etkisinin demokrasiyi zayıflattığını savunuyor.
-- Medya, sosyal ağlar ve seçim kampanyaları üzerindeki nüfuza dikkat çekiliyor.
-- İmzacılar, aşırı servete asgari vergi uygulanmasını ve medya bağımsızlığının güçlendirilmesini öneriyor.
-- Yapay zekâ şirketleri için yeni mülkiyet modelleri oluşturulması da öneriliyor.
-- Zenginlerin artan siyasi gücüne karşı demokratik uluslararası dayanışma çağrısı yapılıyor.
-- Tartışmalarda, algoritmaların insanların tercihlerini ve davranışlarını etkileyebilmesi de ele alındı.
-- Manifesto, artan eşitsizliğin toplumsal ve küresel istikrarı tehlikeye atabileceğini vurguluyor.
+- Hakan Kara’nın paylaştığı grafik, Merkez Bankası döviz rezervlerindeki düşüşü gösterdi.
+- Başkan Fatih Karahan, Kasım 2026 enflasyonunun yüksek çıkmasının beklendiğini açıkladı.
+- Devrim Akyıl, artan döviz talebi karşısında rezervlerden satış yapıldığını söyledi.
+- Akyıl, yüksek faizle döviz çekme politikasının enflasyonu düşürmekte başarısız olduğunu savundu.
+- Küresel belirsizliklerin borsayı etkileyebileceğini, yıl sonunda ödeme baskısının artabileceğini belirtti.
+- Altın ve gümüş aldığını belirten Akyıl, bunun yatırım tavsiyesi olmadığını vurguladı.
+- TBB’ye göre ekimde karşılıksız çek oranları adette %3,2, tutarda %4,2’ye çıktı.
+- 2026’nın on ayında karşılıksız çek tutarı yıllık %49 artışla 308,278 milyar liraydı.
+- Bu tutarın yalnızca 37,361 milyar liralık bölümünün sonradan ödendiği aktarıldı.
+- Fon krizinde bloke edilen paraların harcamaları ve ödemeleri zorlaştırdığı belirtildi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=-Fnmi-USYNg&t=961s) (⏱️ 16:01-24:47)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=ID61cyHTVys&t=2115s) (⏱️ 35:15-37:45)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=cZI1t8XxsPY&t=2509s) (⏱️ 41:49-45:28)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=5EOxoZCQWoM&t=2517s) (⏱️ 41:57-42:25)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=nQ_nI7BGLns&t=1017s) (⏱️ 16:57-18:59)
 
 ---
 
-## 9. Karşılıksız Çeklerde Sekiz Yılın En Yüksek Oranı
+## 9. İki Ayrı Operasyonda 31 Şüpheli Yakalandı
 
-- Türkiye Bankalar Birliği Risk Merkezi, ekim ayının çek verilerini açıkladı.
-- Karşılıksız çeklerin ibraz edilen çeklere oranı adet bazında yüzde 3,2’ye yükseldi.
-- Tutar bazındaki oran yüzde 4,2’ye ulaşarak sekiz yılın rekorunu kırdı.
-- Şirketlerin ve kişilerin borç ödemelerinde zorlandığı, piyasada nakit sıkıntısı yaşandığı belirtildi.
-- Borçların yeni borçlarla kapatılmaya çalışıldığı ve tahsilatın zorlaştığı ifade edildi.
-- Fon vurgununun şirketlerin maaş ve borç ödemelerini zorlaştırabileceği değerlendirildi.
-- Fon mağdurlarının seslerini duyurmak amacıyla çeşitli eylemlere başladığı da aktarıldı.
-- Yıllıklandırılmış kayıt dışı sermaye çıkışının 17,9 milyar dolar olduğu belirtildi.
-- Ölçülemeyen hareketleri kapsayan net hata noksanın doğrudan sermaye kaçışı sayılamayacağı vurgulandı.
-- Güvensizlikle bankalar dışında tutulan döviz ve altının bu kaleme girebileceği değerlendirildi.
+- Kurişler ve Süleymanlılar gruplarına yönelik operasyonda toplam 21 şüpheli yakalandı.
+- Yakalanan şüphelilerle ilgili gözaltı işlemlerinin halen devam ettiği bildirildi.
+- Kartal Belediyesi’ne sabah düzenlenen ayrı operasyonda 10 kişi gözaltına alındı.
+- İstanbul’da ise hava sıcaklığının 11 derece düştüğü bilgisi paylaşıldı.
+- Balkanlar üzerinden gelen soğuk hava dalgasına karşı vatandaşların dikkatli olması istendi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=5zTVXA23dFY&t=833s) (⏱️ 13:53-15:00)
-- [Inan Demirel](https://www.youtube.com/watch?v=SLW9xrPDZkI&t=1350s) (⏱️ 22:30-24:46)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=eKCKm63FXNY) (⏱️ 00:00-00:56)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=5EOxoZCQWoM&t=4615s) (⏱️ 76:55-77:03)
+- [Unsal Unlu](https://www.youtube.com/watch?v=FO_fDN1A6VQ&t=3324s) (⏱️ 55:24-55:33)
 
 ---
 
-## 10. Siyasette Görev ve Parti Değişikliği İddiaları
+## 10. Vergi ve Harçlarda Yüzde 27,83 Artış
 
-- Beştepe’de özel kalem ve danışman kadrolarında değişiklik yapılabileceği konuşuluyor.
-- Bazı isimlerin istifalarının kabul edilmediği yönünde kulis bilgileri aktarılıyor.
-- Bazı isimlerin yeniden görevlendirilebileceği veya büyükelçi olarak atanabileceği öne sürülüyor.
-- Beştepe’deki olası görev değişiklikleri konusunda henüz kesinleşmiş karar bulunmuyor.
-- Sabah, CHP’li 14 büyükşehir belediye başkanından 10’unun Özel’i bıraktığını iddia etti.
-- Gazete, üç başkanın AKP’ye geçtiğini, dördünün bağımsız kaldığını ileri sürdü.
-- Haberde üçünün CHP’de kaldığı belirtilerek gelişmeler yönetimin başarısızlığına bağlandı.
-- Ünsal Ünlü, sunumu yanıltıcı buldu; bazı geçişlerin baskıyla gerçekleştiğini savundu.
-- Ayrıca bazı yerel siyasetçilerin ve belediye yöneticilerinin AKP’ye katıldığı söylendi.
-- Antalya Büyükşehir Belediyesi başkan vekilinin katıldığı da ayrıntılar verilmeden öne sürüldü.
+- Vergi, harç ve cezaların yeniden değerleme oranı yüzde 27,83 açıklandı.
+- Bu oran, çeşitli kamu hizmetleri ve işlemlerinin ücretlerini de artıracak.
+- Cumhurbaşkanının açıklanan yeniden değerleme oranını düşürme yetkisi bulunduğu da belirtildi.
+- Yurt dışından getirilen telefonların kayıt harcının 69.358 liraya yükseldiği aktarıldı.
+- Akyıl, vergi ve harç artışlarının enflasyon hedefine ulaşılmasını zorlaştıracağını savundu.
+- Akyıl, harcamalar düşerken fiyatların gerilememesini ekonomideki yapısal sorunlarla doğrudan ilişkilendirdi.
+- Akyıl, Türkiye ekonomisinin mevcut politikalardan farklı bir modele ihtiyaç duyduğunu söyledi.
+- Sektör kaynakları, benzin ve motorin fiyatlarında önce indirim beklendiğini bildirdi.
+- Ardından 1 Aralık'ta özel tüketim vergisi artışıyla zam bekleniyor.
+- Vergi artışıyla benzinde 4,15 lira, motorinde 3,60 lira zam öngörülüyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=5zTVXA23dFY&t=445s) (⏱️ 07:25-07:54)
-- [Unsal Unlu](https://www.youtube.com/watch?v=6tC_4VfHUzI&t=2112s) (⏱️ 35:12-38:53)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=5EOxoZCQWoM&t=4093s) (⏱️ 68:13-73:22)
+- [Unsal Unlu](https://www.youtube.com/watch?v=FO_fDN1A6VQ&t=1919s) (⏱️ 31:59-32:23)
 
 ---
 
