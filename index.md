@@ -1,228 +1,227 @@
 # Bugün Ne Oldu?
 
-*26 November 2026 tarihli günlük haber raporu - 10 haber birleştirildi*
+*27 November 2026 tarihli günlük haber raporu - 10 haber birleştirildi*
 
-## 1. Fon Soruşturmasında Gözler Ortak Basın Toplantısında
+## 1. Fon Soruşturmasında Ödemeler ve İddianame Süreci
 
-- Yılmaz, Gürlek ve Şimşek, Beştepe’de saat 19.00’da ortak basın toplantısı düzenleyecek.
-- Toplantıda soruşturmanın seyri ve mağdurlara yapılacak ödemelerin açıklanması bekleniyor.
-- Soruşturmada 131 yatırım fonu ve 51 şirket hissesinin incelendiği belirtildi.
-- 636 şüpheli hakkında işlem yapıldığı, 91 şirkete kayyum atandığı açıklandı.
-- Mehmet Şimşek’in Şahap Kavcıoğlu hakkında soruşturma izni verdiği bildirildi.
-- 85 kişiden toplam 44,58 milyar liranın tahsil edildiği açıklandı.
-- Yurt dışındaki hesaplarda yaklaşık 13 milyar liralık varlığın dondurulduğu belirtildi.
-- Birçok yatırımcı, kasım sonunda tamamlanacağı belirtilen bir milyon liraya kadarki ödemeleri bekliyor.
-- 188 milyar lirayı götürdüğü öne sürülen 214 kişinin kimlikleri açıklanmadı.
-- Saadet Partisi’nin isimlerin açıklanması talebiyle başlattığı kampanyanın 1,5 milyon imzayı aştığı aktarıldı.
+- Cevdet Yılmaz, 131 fonda 455 binden fazla yatırımcı bulunduğunu açıkladı.
+- Toplam 199,25 milyar liralık ödemenin kamu bütçesinden karşılanmadığı açıklandı.
+- 401.754 yatırımcının net yatırımlarının tamamının ödenmesinin hedeflendiği de ayrıca belirtildi.
+- Kalan ödemelerin el konulan varlıkların satışıyla sürdürüleceği ifade edildi.
+- Soruşturmada 638 şüpheli bulunuyor; 138 kişi tutuklu, 49 kişi aranıyor.
+- 550 kişiyle 184 şirketin mal varlıklarına el konulduğu açıklandı.
+- İddianame hazırlanırken yeni itirafçı ifadelerinin soruşturmayı daha da genişletebileceği belirtildi.
+- Şahap Kavcıoğlu hakkında soruşturma izni verildi; yerine Yusuf Kenan Bağır atandı.
+- Mağdurlar ödeme belirsizliklerinden yakınırken, yorumcular siyasi sorumluluğun yeterince araştırılmadığını savundu.
+- Yeni sermaye piyasası düzenlemeleriyle yapay zekâ destekli denetim sistemi hazırlanıyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=7Lxa3mTtNVg&t=141s) (⏱️ 02:21-03:41)
-- [Onlar TV](https://www.youtube.com/watch?v=q7Ad9bMHyGo&t=730s) (⏱️ 12:10-33:21)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=sgD1RcxSu40&t=1240s) (⏱️ 20:40-22:35)
-- [Murat Yetkin](https://www.youtube.com/watch?v=GM6Fv3O1JLQ&t=3s) (⏱️ 00:03-00:26)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=3Gp6YWhFX1E&t=178s) (⏱️ 02:58-04:44)
-- [Inan Demirel](https://www.youtube.com/watch?v=Nqyxcny9rC8&t=992s) (⏱️ 16:32-19:55)
-- [Hilal Koylu](https://www.youtube.com/watch?v=S00puvHq1Rg&t=474s) (⏱️ 07:54-12:24)
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=aM_5qpD_cO0&t=262s) (⏱️ 04:22-08:30)
-- [Unsal Unlu](https://www.youtube.com/watch?v=_eWj51J7Few&t=157s) (⏱️ 02:37-32:00)
-- [Rusen Cakir](https://www.youtube.com/watch?v=wIn_VnZ-WKI&t=3s) (⏱️ 00:03-11:59)
+- [Unsal Unlu](https://www.youtube.com/watch?v=Rlsfh80LYMo&t=1122s) (⏱️ 18:42-29:58)
+- [Onlar TV](https://www.youtube.com/watch?v=ZHw9_08V1f0&t=694s) (⏱️ 11:34-44:20)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=sDpTaJvhlxA&t=332s) (⏱️ 05:32-09:59)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=4E3jSLgiZj8&t=1291s) (⏱️ 21:31-37:48)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=3CVkj2APjps&t=896s) (⏱️ 14:56-15:37)
+- [Murat Yetkin](https://www.youtube.com/watch?v=13ahLCfESzA&t=3s) (⏱️ 00:03-08:17)
+- [Inan Demirel](https://www.youtube.com/watch?v=NWJ7U6HqMwo&t=739s) (⏱️ 12:19-41:04)
+- [Cigdem Toker](https://www.youtube.com/watch?v=Nz3w7Hx-Mk4&t=4s) (⏱️ 00:04-04:18)
+- [Rusen Cakir](https://www.youtube.com/watch?v=meA7OWagrCE&t=17s) (⏱️ 00:17-12:11)
+- [Bahar Feyzan](https://www.youtube.com/watch?v=QZtQFrt04Q0) (⏱️ 00:00-02:43)
+- [Serdar Akinan](https://www.youtube.com/watch?v=iZ2uzhW5zw0) (⏱️ 00:00-22:55)
+- [Hilal Koylu](https://www.youtube.com/watch?v=wZ7-TfndqhY&t=22s) (⏱️ 00:22-26:40)
 
 ---
 
-## 2. Fatma Betül Sayan Kaya’nın Tahliyesine Tepkiler
+## 2. Tahliye ve Gözaltı Kararları Tartışma Yarattı
 
-- Haberlerde, Fatma Betül Sayan Kaya’nın 19 gün sonra tahliye edildiği aktarıldı.
-- Kaya hakkında ev hapsi ve yurt dışına çıkış yasağı uygulandığı belirtildi.
-- Tahliyede kızının psikolojik durumuna ilişkin sağlık raporunun etkili olduğu bildirildi.
-- Gazeteciler, benzer durumdaki tutuklulara farklı uygulamaların adalete güveni zayıflattığını savundu.
-- Dilipak, kararın benzer durumdaki tutuklular için de emsal oluşturabileceğini belirtti.
-- Özgür Özel ve Ümit Özdağ, kararı eşitlik ilkesi üzerinden eleştirdi.
-- Eleştirilerde Murat Çalık, Oya Tekin ve Tayfun Kahraman örnekleri anıldı.
-- Fon soruşturmasındaki siyasi bağlantıların ve paraların kaynağının açıklanması talep edildi.
-- Hayati Yazıcı’nın, oğlunun fon soruşturmasında anılması ardından istifa ettiği aktarıldı.
-- Yazıcı, oğlunun soruşturmayla bağlantısı bulunduğu ve haksız kazanç sağladığı iddialarını reddetti.
+- Fatma Betül Sayan Kaya, 19 gün sonra ev hapsiyle tahliye edildi.
+- Adalet Bakanı Gürlek, borç iadesinin cezai sorumluluğu kaldırmadığını belirtti.
+- Yıldıray Çiçek dahil iktidara yakın isimler, tahliye sürecini eleştirdi.
+- Şaban Sevinç ve Mustafa Balcı, 48 günlük tutukluluk ardından tahliye edildi.
+- Balcı tamamen, Sevinç ise hakaret ve iftira suçlamalarından beraat etti.
+- Sevinç'e verilen 15 aylık hapis cezasının açıklanmasının ertelendiği de aktarıldı.
+- Halk TV soruşturmasının üçüncü dalgasında 12 kişiye gözaltı kararı verildi.
+- Ece Üner ve Deniz Bayramoğlu gözaltına alındı; Kürşad Oğuz yurtdışındaydı.
+- Savcılık, ihale parasının gerçek dışı haberler karşılığında gazetecilere aktarıldığını öne sürdü.
+- Bulls Holding kurucusu Kemal Akkaya, üçüncü gözaltının ardından yeniden serbest bırakıldı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=aM_5qpD_cO0&t=2012s) (⏱️ 33:32-49:30)
-- [Onlar TV](https://www.youtube.com/watch?v=q7Ad9bMHyGo&t=236s) (⏱️ 03:56-12:09)
-- [Inan Demirel](https://www.youtube.com/watch?v=Nqyxcny9rC8&t=1926s) (⏱️ 32:06-35:00)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=3Gp6YWhFX1E&t=659s) (⏱️ 10:59-31:51)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=7Lxa3mTtNVg&t=1028s) (⏱️ 17:08-18:56)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=fEmILMqU5es&t=1790s) (⏱️ 29:50-30:10)
-- [Unsal Unlu](https://www.youtube.com/watch?v=F-UshKAwejE&t=1700s) (⏱️ 28:20-28:38)
+- [Hilal Koylu](https://www.youtube.com/watch?v=lTbwCtLTB48&t=341s) (⏱️ 05:41-12:46)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=sDpTaJvhlxA&t=600s) (⏱️ 10:00-13:04)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=4E3jSLgiZj8&t=930s) (⏱️ 15:30-21:28)
+- [Inan Demirel](https://www.youtube.com/watch?v=NWJ7U6HqMwo&t=47s) (⏱️ 00:47-07:41)
+- [Onlar TV](https://www.youtube.com/watch?v=ZHw9_08V1f0&t=231s) (⏱️ 03:51-08:20)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=3CVkj2APjps&t=459s) (⏱️ 07:39-09:38)
 
 ---
 
-## 3. Fon Krizi Ekonomide Güven Kaybını Derinleştiriyor
+## 3. Barış Sürecinde Katılım ve Demokratikleşme Tartışması
 
-- Alaattin Aktaş’ın yazısı üzerinden fon krizinin ekonomik etkileri tartışıldı.
-- Şirketlerin güven kaybı ve nakit sıkışıklığı nedeniyle alacaklarını tahsil edemediği belirtildi.
-- Sanayide üretimin gerilediği, satışları düşen şirketlerin reklam harcamalarını kıstığı aktarıldı.
-- BİM, Migros ve Şok’taki satış düşüşü geçim sıkıntısıyla ilişkilendirildi.
-- Borsa gerilerken Türkiye’nin beş yıllık risk priminin 274’e yükseldiği aktarıldı.
-- Merkez Bankası’nın eylül ortasından itibaren yaklaşık 28 milyar dolar sattığı bildirildi.
-- Toplam rezervlerin 141,9 milyar, net rezervlerin 23,7 milyar dolara gerilediği aktarıldı.
-- Bilge Yılmaz, yanlış ekonomi politikalarının güven krizini ağırlaştırdığını savundu.
-- Burak Dalgın, Erişah Arıcan’ın soruşturmaya ilişkin soruları yanıtlamamasını eleştirdi.
-- Dalgın, ekonomi programında üretim ve ihracatla döviz kazanmaya odaklanılmasını önerdi.
+- MGK, süreci değerlendirdi ancak silahsızlanmanın tamamlandığına ilişkin nihai teyit açıklamadı.
+- DEM Parti, teyit beklenmeden süreçte sonraki adımlara geçilebileceğini ifade etti.
+- Özel demokratikleşme eksikliğini gerekçe gösterirken, Yeni Parti komisyona katılmayacağını açıkladı.
+- Öcalan’ın Özel’e katılım çağrısı yaptığı aktarıldı; mektubun ulaştığı henüz doğrulanmadı.
+- Demirtaş, hukuksuzluklara rağmen barış ihtimalinin göz ardı edilmemesi gerektiğini söyledi.
+- Özpek, süreçte Erdoğan’ın yeniden seçilmesini amaçlayan siyasi hesaplar bulunduğunu savundu.
+- Yorumcular, muhalefete baskılar sürerken kalıcı barışın hukuki güvenceler gerektirdiğini vurguladı.
+- Özpek, kalıcı barış için toplumun farklı kesimlerinin katılımını gerekli gördü.
+- Özel’in yeni kadrosu, yenilenme ve merkez seçmene açılma hedefleriyle tartışıldı.
+- Mansur Yavaş’ın ortak adaylığı iddialarının somut girişimlerle desteklenmediği değerlendirmesi yapıldı.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=7Lxa3mTtNVg&t=1680s) (⏱️ 28:00-30:00)
-- [Unsal Unlu](https://www.youtube.com/watch?v=F-UshKAwejE&t=835s) (⏱️ 13:55-15:55)
-- [Inan Demirel](https://www.youtube.com/watch?v=Nqyxcny9rC8&t=2276s) (⏱️ 37:56-39:58)
-- [Hilal Koylu](https://www.youtube.com/watch?v=S00puvHq1Rg&t=744s) (⏱️ 12:24-15:11)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=fEmILMqU5es&t=2241s) (⏱️ 37:21-48:45)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=3Gp6YWhFX1E&t=2274s) (⏱️ 37:54-38:22)
+- [Rusen Cakir](https://www.youtube.com/watch?v=2OY3e37m958&t=14s) (⏱️ 00:14-30:00)
+- [Inan Demirel](https://www.youtube.com/watch?v=NWJ7U6HqMwo&t=2585s) (⏱️ 43:05-45:07)
+- [Hilal Koylu](https://www.youtube.com/watch?v=lTbwCtLTB48&t=1783s) (⏱️ 29:43-40:10)
+- [Unsal Unlu](https://www.youtube.com/watch?v=Rlsfh80LYMo&t=2292s) (⏱️ 38:12-47:25)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=3CVkj2APjps&t=1270s) (⏱️ 21:10-23:07)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=oIsSsoq23Wc&t=1676s) (⏱️ 27:56-29:37)
 
 ---
 
-## 4. Terörsüz Türkiye Sürecinde Teyit ve Katılım Tartışması
+## 4. Kılıçdaroğlu ve Bahçeli Basın Özgürlüğünü Görüştü
 
-- MGK bildirisinde PKK’nın silah bıraktığını doğrulayan beklenen karar yer almadı.
-- MİT’in silah bırakmaya ilişkin raporunun toplantıda kurula sunulmadığı aktarıldı.
-- Silah bırakmanın doğrulanması, sürece ilişkin çerçeve yasanın uygulanmasıyla ilişkilendiriliyor.
-- Irak’taki KDP ve KYB rekabetinin Türkiye’deki süreci etkileyebileceği değerlendiriliyor.
-- DEM Parti heyeti, Öcalan’a daha etkin çalışma koşulları sağlanmasını istiyor.
-- Planlanan Meclis komisyonu için partilerden 30 Kasım’a kadar temsilci istendi.
-- CHP, tutuklamalar ve kayyım uygulamaları sürerken komisyona katılmayacağını belirtiyor.
-- Yeni Parti de demokratikleşme adımları görmeden komisyona üye vermeyeceğini belirtiyor.
-- Barış Vakfı’ndan Hakan Taz, Yeni Parti’nin komisyondan uzaklaşmasını yanlış buluyor.
-- Paşinyan’ın Ermenistan kamuoyunu Türkiye’yle normalleşmeye ve sınırların açılmasına hazırladığı aktarılıyor.
+- Kemal Kılıçdaroğlu ile Devlet Bahçeli yaklaşık bir saat görüştü.
+- Kılıçdaroğlu, görüşmede Türkiye’de medyanın sorunlarını ve basın özgürlüğünü konuştuklarını açıkladı.
+- Görüşmenin asıl gündeminin dokunulmazlıklar olabileceğine ilişkin yorumlar da yapıldı.
+- Kılıçdaroğlu’nun dokunulmazlıkların kaldırılmasına destek vereceğine ilişkin açıklamaları yayınlarda eleştirildi.
+- Halk TV soruşturmasında Ece Üner ve Deniz Bayramoğlu’nun gözaltına alındığı aktarıldı.
+- Kürşat Oğuz hakkında aynı soruşturma kapsamında yakalama kararı çıkarıldığı belirtildi.
+- Bahçeli’nin Terörsüz Türkiye sürecinde ve siyasi dengelerde etkili olduğu değerlendirildi.
+- Sözcü TV tartışmasında, kayyumun kapatmaktan ziyade kontrolü amaçlayabileceği savunuldu.
+- Ünsal Ünlü, sosyal medya paylaşımlarının görünürlüğünün ve takipçi artışının engellendiğini savundu.
+- Ünlü, Sema Vural’ın hesabının POLSAN paylaşımı sonrasında kapatıldığını belirtti.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=iUElcboGT_s&t=624s) (⏱️ 10:24-62:58)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=3Gp6YWhFX1E&t=3590s) (⏱️ 59:50-60:40)
-- [Inan Demirel](https://www.youtube.com/watch?v=Nqyxcny9rC8&t=2398s) (⏱️ 39:58-44:30)
-- [Murat Yetkin](https://www.youtube.com/watch?v=GM6Fv3O1JLQ&t=28s) (⏱️ 00:28-15:10)
-- [Onlar TV](https://www.youtube.com/watch?v=q7Ad9bMHyGo&t=2212s) (⏱️ 36:52-47:36)
+- [Rusen Cakir](https://www.youtube.com/watch?v=zA4mu02AGzQ&t=1932s) (⏱️ 32:12-34:40)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=3CVkj2APjps&t=1387s) (⏱️ 23:07-25:42)
+- [Hilal Koylu](https://www.youtube.com/watch?v=lTbwCtLTB48&t=1276s) (⏱️ 21:16-29:14)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=sDpTaJvhlxA&t=2084s) (⏱️ 34:44-36:04)
+- [Unsal Unlu](https://www.youtube.com/watch?v=Rlsfh80LYMo&t=211s) (⏱️ 03:31-06:34)
 
 ---
 
-## 5. İmamoğlu’nun Diploma İptaline Karşı Başvurusu Reddedildi
+## 5. Yılmaz Seçimlerin 2028'de Yapılacağını Açıkladı
 
-- Danıştay 8. Dairesi, İmamoğlu’nun diploma iptaline karşı yaptığı temyiz başvurusunu reddetti.
-- Gerekçeli kararda, Girne Amerikan Üniversitesi’nin yatay geçiş döneminde YÖK tarafından tanınmadığı belirtildi.
-- UYAP’a yüklenen gerekçeli kararda yatay geçiş işlemi açık hata sayıldı.
-- İmamoğlu’nun diploma iptaline karşı Anayasa Mahkemesine başvuru yapacağı aktarıldı.
-- Üniversite mezuniyeti şartı, diploma kararını cumhurbaşkanı adaylığı açısından önemli kılıyor.
-- Deniz Zeyrek, kararın İmamoğlu’nun cumhurbaşkanı adaylığını engellemeyi amaçladığını savundu.
-- Zeyrek, aynı yetkililerin verdiği diğer diplomaların da incelenmesini istedi.
-- Ünsal Ünlü, gerekçelerin önceden medyada yayımlandığını hatırlatarak açıklamanın yeniliğini sorguladı.
-- AYM, ayrı bir başvuruda İmamoğlu’nun tutukluluğunda hak ihlali bulunmadığına hükmetti.
-- Yaklaşık 20 aylık tutuklulukla ilgili karara yalnızca bir üye karşı çıktı.
+- Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, seçimlerin 2028'de yapılacağını açıkladı.
+- Yılmaz, erken seçim iddialarını reddederek spekülatif haberlere itibar edilmemesini istedi.
+- Seçimin kısa süre öne alınmasının erken seçim sayılmayacağını belirtti.
+- Hazine ve Maliye Bakanı Mehmet Şimşek de 2028'i işaret etti.
+- Şimşek, bütçenin 2028'e göre hazırlandığını ve erken seçim planlanmadığını söyledi.
+- Yılmaz, Erdoğan'ın yeniden aday olacağını söyleyerek tecrübeli liderliğin önemini vurguladı.
+- AK Parti ve Cumhur İttifakı'nın Erdoğan'ın adaylığını desteklediği belirtildi.
+- Programlardaki yorumlarda, seçimin öne alınması adaylık ve anayasa tartışmalarıyla ilişkilendirildi.
+- Yılmaz, emeklilere yönelik düzenlemelerin seçim yatırımı olduğu yönündeki yorumları reddetti.
+- Emeklilere yönelik düzenlemeler için kanun teklifi ve Meclis süreci bekleniyor.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=7Lxa3mTtNVg&t=2241s) (⏱️ 37:21-40:00)
-- [Unsal Unlu](https://www.youtube.com/watch?v=F-UshKAwejE&t=725s) (⏱️ 12:05-12:51)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=dIwImBDNZ88&t=1431s) (⏱️ 23:51-25:28)
-- [Inan Demirel](https://www.youtube.com/watch?v=Nqyxcny9rC8&t=1806s) (⏱️ 30:06-32:06)
+- [Hilal Koylu](https://www.youtube.com/watch?v=wZ7-TfndqhY&t=1003s) (⏱️ 16:43-20:12)
+- [Cigdem Toker](https://www.youtube.com/watch?v=Nz3w7Hx-Mk4&t=605s) (⏱️ 10:05-10:46)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=sDpTaJvhlxA&t=790s) (⏱️ 13:10-16:51)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=3CVkj2APjps&t=134s) (⏱️ 02:14-03:45)
+- [Onlar TV](https://www.youtube.com/watch?v=ZHw9_08V1f0&t=2657s) (⏱️ 44:17-46:43)
 
 ---
 
-## 6. Yargıtay’a Seçilen İsimler Siyasi Tartışma Yarattı
+## 6. Batum'da Beşiktaş Taraftarlarına Polis Müdahalesi
 
-- Hâkimler ve Savcılar Kurulu kararnamesiyle yüzlerce hâkim ve savcının görev yeri değiştirildi.
-- Yargıtay üyeliğine seçilen beş kişi arasında tartışmalı dosyalarda görev alanlar bulunuyor.
-- Murat Öztürk, Barış Duman ve Mehmet Beşir Güven Yargıtay üyeliğine seçildi.
-- Öztürk, CHP kurultayı davasında mutlak butlan kararı veren heyetin başkanıydı.
-- Diğer isimlerin İmamoğlu soruşturması ve Yavaş’ın konser soruşturmasında görev aldığı belirtildi.
-- CHP’li Murat Emir, bu atamaları “sadakat düzeni” olarak nitelendirdi.
-- Atamalar, siyasi tarafsızlık konusunda eleştirilere ve yeni tartışmalara neden oldu.
-- Mutlak butlan kararının Yargıtay’da hangi dairede değerlendirileceği henüz bilinmiyor.
+- Beşiktaş, İsrail temsilcisi Hapoel Beer Sheva'yı Batum'da 2-1 mağlup etti.
+- Gürcistan'daki Avrupa kupası maçında taraftarlar Filistin bayrakları ve pankartları açtı.
+- Gürcistan polisinin taraftarlara biber gazıyla ve fiziksel müdahalede bulunduğu aktarıldı.
+- Olaylar nedeniyle karşılaşmanın yaklaşık yarım saat boyunca durduğu bildirildi.
+- Müdahalede taraftarların yaralandığı ve 11 kişinin gözaltına alındığı aktarıldı.
+- Yaralıların daha sonra taburcu edildiği, gözaltındakilerin serbest bırakıldığı bildirildi.
+- Beşiktaş yönetimi, spor kulüpleri ve siyasi isimler polis müdahalesine tepki gösterdi.
+- Olayların ardından Türkiye ve Gürcistan yetkilileri arasında görüşmeler yapıldığı belirtildi.
+- Yorumcular, maçın Türkiye'de oynanmaması konusunda UEFA ve TFF'yi eleştirdi.
+- Kemal Okuyan, UEFA'yı çifte standartla suçlayarak Beşiktaş'a ceza verilebileceğini söyledi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=7Lxa3mTtNVg&t=2154s) (⏱️ 35:54-37:21)
-- [Unsal Unlu](https://www.youtube.com/watch?v=F-UshKAwejE&t=659s) (⏱️ 10:59-11:30)
-- [Ozlem Gurses](https://www.youtube.com/watch?v=dIwImBDNZ88&t=1330s) (⏱️ 22:10-23:47)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=4E3jSLgiZj8&t=40s) (⏱️ 00:40-12:09)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=sDpTaJvhlxA&t=1050s) (⏱️ 17:30-34:03)
+- [Unsal Unlu](https://www.youtube.com/watch?v=Rlsfh80LYMo&t=395s) (⏱️ 06:35-08:40)
+- [Onlar TV](https://www.youtube.com/watch?v=ZHw9_08V1f0&t=43s) (⏱️ 00:43-03:45)
+- [Inan Demirel](https://www.youtube.com/watch?v=NWJ7U6HqMwo&t=2876s) (⏱️ 47:56-48:27)
 
 ---
 
-## 7. Özel’in 28 Kişilik Yeni Yönetimi Açıklandı
+## 7. Kılıçdaroğlu Cenaze Töreni Sonrasında Protesto Edildi
 
-- Özgür Özel, kurultay sonrasında 28 kişilik yeni Merkez Yönetim Kurulu’nu açıkladı.
-- Kurulda 14 kişi idari görevlerde, 14 kişi politika kurullarında görevlendirildi.
-- Dokuz yeni ismin bulunduğu yönetimde Selin Sayek Böke genel sekreterliğini korudu.
-- Salih Uzun parti sözcülüğüne, Zeynel Emre ise adalet politikalarının başına getirildi.
-- Cem Say teknolojiye, Mithat Çelikpala dış politikaya, İlhan Cihaner sendikalara bakacak.
-- Ekrem İmamoğlu, parti meclisi üyelerine mektup göndererek kendisine önerilerini iletmelerini istedi.
-- Seren Servin Korkmaz, partinin başlangıçtaki yüksek beklentileri tam karşılayamadığını söyledi.
-- Korkmaz, partinin temel sınavının politikalarını topluma ulaştırmak olacağını vurguladı.
-- Parti, fon iddialarında yeni isimlerin bilgiler doğrulandıkça kamuoyuna açıklanabileceğini belirtti.
-- Yunus Emre, iddiaların siyasi sorumluluğunu vurgulayarak gazetecilerin tutuklanmasını eleştirdi.
+- Haberlerde, Kılıçdaroğlu’nun Hikmet Çetin’in cenazesi sonrasında protesto edildiği aktarıldı.
+- Kalabalıktaki bir kişi, Kılıçdaroğlu’na komşularının yüzüne nasıl bakabildiğini sordu.
+- Kaynaklar, olay sırasında çevreden hakaret ve karşılıklı tepkiler yükseldiğini bildirdi.
+- Protestolar, sunucunun değerlendirmesinde Kılıçdaroğlu’nun CHP liderliği ve kurultay tutumuyla ilişkilendirildi.
+- Cenazede yaşanan karşılıklı sözlerin toplumsal değerlere uygun olmadığı değerlendirmesi yapıldı.
+- Ayrı bir haberde, sendikaların ve siyasi partilerin Kartal mitingi duyuruldu.
+- Emekçiler, geçim sıkıntısına karşı 29 Kasım’da Kartal’da miting düzenlemeyi planlıyor.
+- Programda yoksulluk sınırları, emekli maaşları ve ücretlerin alım gücü tartışıldı.
+- Kemal Okuyan, enflasyonun ücret artışlarının etkisini kısa sürede sildiğini söyledi.
+- Okuyan, kalıcı değişim için mitinglerin örgütlü mücadeleyle sürdürülmesi gerektiğini savundu.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Rusen Cakir](https://www.youtube.com/watch?v=iUElcboGT_s) (⏱️ 00:00-10:23)
-- [Unsal Unlu](https://www.youtube.com/watch?v=F-UshKAwejE&t=1728s) (⏱️ 28:48-31:34)
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=7Lxa3mTtNVg&t=2400s) (⏱️ 40:00-41:28)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=4E3jSLgiZj8&t=2769s) (⏱️ 46:09-54:11)
+- [Inan Demirel](https://www.youtube.com/watch?v=NWJ7U6HqMwo&t=463s) (⏱️ 07:43-09:23)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=oIsSsoq23Wc&t=1780s) (⏱️ 29:40-32:31)
 
 ---
 
-## 8. Kadınlar 25 Kasım’da Yasaklara Rağmen Alanlarda
+## 8. Anayasa Mahkemesi İmamoğlu'nun Başvurusunu Reddetti
 
-- Kadınlar, 25 Kasım'da Türkiye'nin birçok ilinde şiddete karşı eylemler düzenledi.
-- Eylemlerde eşitlik, güvenli yaşam ve kadın cinayetlerinin önlenmesi talep edildi.
-- Kadınlar ayrıca yoksulluğa, güvencesizliğe ve savaşa karşı tepkilerini dile getirdi.
-- Beyoğlu Kaymakamlığı, kadınların İstiklal Caddesi'nde yapmayı planladığı 25 Kasım eylemini yasakladı.
-- Taksim ve İstiklal çevresine polis araçlarıyla barikatlar yerleştirildi, ulaşım aksadı.
-- Kadınlar, soğuk havaya ve engellemelere rağmen İstiklal Caddesi'nde bir araya geldi.
-- Ara sokaklarda bazı kişiler gözaltına alındı, kadınların toplanması engellendi.
-- Yayınlarda katılımın önceki yıllara göre azaldığı ve kadınların yıldırıldığı değerlendirildi.
-- Yasaklarla Erdoğan'ın kadına yönelik şiddeti kınayan açıklamaları arasındaki çelişki eleştirildi.
-- Eylemlerde Habaş'ta ölen işçiler ve ölümleri aydınlatılmamış kadınlar da anıldı.
+- İmamoğlu'nun avukatları, tutukluluk incelemesi ve soruşturma dosyasına erişim gerekçeleriyle başvurdu.
+- Başvurularda adil yargılanma, özgürlük, güvenlik ve seçilme haklarının ihlali savunuldu.
+- Anayasa Mahkemesi, İmamoğlu'nun başvurusunu reddederek herhangi bir hak ihlali bulunmadığına hükmetti.
+- Kararın ardından Avrupa İnsan Hakları Mahkemesi'ne başvuru yapılabileceği değerlendirildi.
+- İmamoğlu'nun diplomasına ilişkin kararın kesinleştiği ve avukatlarının Anayasa Mahkemesi'ne başvurduğu aktarıldı.
+- İmamoğlu, cumhurbaşkanı adayı olamaması halinde başka bir adayla ilerlenebileceğini söyledi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Ozlem Gurses](https://www.youtube.com/watch?v=3Gp6YWhFX1E&t=3517s) (⏱️ 58:37-59:50)
-- [Unsal Unlu](https://www.youtube.com/watch?v=F-UshKAwejE&t=1180s) (⏱️ 19:40-23:05)
-- [Onlar TV](https://www.youtube.com/watch?v=q7Ad9bMHyGo&t=31s) (⏱️ 00:31-03:55)
+- [Ozlem Gurses](https://www.youtube.com/watch?v=oIsSsoq23Wc&t=1617s) (⏱️ 26:57-27:56)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=3CVkj2APjps&t=1186s) (⏱️ 19:46-21:08)
+- [Onlar TV](https://www.youtube.com/watch?v=ZHw9_08V1f0&t=3236s) (⏱️ 53:56-54:13)
 
 ---
 
-## 9. Vali Atamaları Liyakat Tartışması Yarattı
+## 9. Erken Seçim ve Anayasa Tartışmaları
 
-- Yeni valiler kararnamesiyle bazı illerde valiler ve üst düzey yöneticiler değişti.
-- Kilis Valiliğine, eski AKP milletvekili Hikmet Ayar’ın oğlu Yusuf Alperen Ayar atandı.
-- Ayar, AK Parti Ankara İl Gençlik Kolları Başkanlığı görevinde bulunmuştu.
-- Ayar, Cumhurbaşkanlığı Özel Kalem Müdür Yardımcılığı yapmış, bakanlık bürokrasisinde çalışmıştı.
-- Ayar’ın kaymakamlık veya valilik deneyiminin bulunmadığı belirtilerek ataması eleştirildi.
-- Erdoğan’ın koruma teşkilatını yöneten Ramazan Bal da Karabük Valiliğine atandı.
-- Atamalara yönelik eleştiriler, kamu görevlerinde liyakat ve siyasi yakınlık üzerinde yoğunlaştı.
-- Şırnak Valisi Ekici, sel soruşturmasına izin verilmesinin ardından merkeze çekildi.
-- Muğla Valisi Akbıyık ve Elazığ Valisi Hatipoğlu hakkındaki iddialar gazetede aktarıldı.
-- Atamalar, Ankara’da bazı yorumlarda seçim hazırlığının bir işareti olarak değerlendirildi.
+- Programlarda erken seçim olasılıkları ve yeni anayasa tartışmaları birlikte değerlendirildi.
+- Mehmet Şimşek’in erken seçimin gündemde olmadığı yönündeki açıklaması da tartışıldı.
+- Kemal Okuyan, gelecek yılın sonbaharını iktidar açısından olası seçim seçeneklerinden saydı.
+- Okuyan, yeni anayasa değişikliğinin gerçekleşmesini ise zor gördüğünü belirtti.
+- Okuyan, siyasi takvime bağlı olarak seçim öncesinde yasal düzenlemeler yapılabileceğini söyledi.
+- Ünsal Ünlü, mayıs ayında erken seçim yapılmasını olası görmediğini söyledi.
+- Cumhurbaşkanının seçim kararını bakanlarla paylaşmasının beklenemeyeceğini de ifade etti.
+- Seçim yeterliliği bulunmayan yeni partilerin başka parti listelerinden katılabileceğini hatırlattı.
+- Ünlü, barış ve açılım sürecinin seçim gündemini etkileyebileceğini öne sürdü.
+- İktidarın bu süreci referanduma dönüştürmek istemeyebileceği görüşünü de dile getirdi.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Hilal Koylu](https://www.youtube.com/watch?v=S00puvHq1Rg&t=1935s) (⏱️ 32:15-35:46)
-- [Bahar Feyzan](https://www.youtube.com/watch?v=fEmILMqU5es&t=1672s) (⏱️ 27:52-30:10)
-- [Unsal Unlu](https://www.youtube.com/watch?v=F-UshKAwejE&t=693s) (⏱️ 11:33-12:01)
+- [Hilmi Hacaloglu](https://www.youtube.com/watch?v=4E3jSLgiZj8&t=2271s) (⏱️ 37:51-43:53)
+- [Unsal Unlu](https://www.youtube.com/watch?v=Rlsfh80LYMo&t=1898s) (⏱️ 31:38-35:45)
 
 ---
 
-## 10. Emekli Zamları ve Seçim Beklentileri Tartışılıyor
+## 10. Kilis ve Karabük Atamalarında Liyakat Tartışması
 
-- 2027 bütçesinden hareketle emekli aylıklarında yüzde 13,9-35,9 artış olasılığı hesaplandı.
-- Bu hesaba göre emekli aylığının 27 bin 768 liraya ulaşabileceği belirtildi.
-- Zeyrek, bu tutarın kira, fatura ve ilaç giderlerine yetmeyeceğini söyledi.
-- Zeyrek, gelir eşitsizliği ve orta sınıfın zayıflamasının ekonomiyi etkilediğini savundu.
-- Burak Dalgın, emekli ve asgari ücret zamlarında sınırlı artış beklediğini belirtti.
-- Dalgın, hükümetin yapabileceği zamların enflasyon ve faiz üzerinde etkileri olabileceğini söyledi.
-- Seçime hızla gidilirse siyasi işaret taşıyan zamların daha yüksek olabileceğini belirtti.
-- Seçim için Nisan 2027, Kasım 2027, Nisan 2028 olasılıklarını sıraladı.
-- Dalgın, mevcut ekonomide iktidarın seçim için güçlü anlatısı bulunmadığını savundu.
-- Buna rağmen iktidarın rakiplerini zayıflatmak amacıyla erken seçime gidebileceğini söyledi.
+- Valiler kararnamesiyle Yusuf Alperen Ayar, Kilis Valisi olarak atandı.
+- Ayar’ın geçmişte AKP Ankara İl Gençlik Kolları Başkanı olduğu belirtildi.
+- Erdoğan’ın koruma ekibinden Ramazan Bal ise Karabük Valisi olarak atandı.
+- Her iki atama, kamu yönetiminde liyakat ve deneyim tartışması yarattı.
+- DEM Parti milletvekili Gülistan Kılıç Koçyiğit, atamaları liyakat açısından eleştirdi.
+- Kilis atamasında mülki idare deneyimi ve gerekli mesleki aşamalar sorgulandı.
+- Valilik atamalarındaki geniş yetkinin cumhurbaşkanlığı hükümet sisteminden kaynaklandığı savunuldu.
+- Emniyetten mülki idareye bazı geçişler, değerlendirmelerde olağan uygulamalar olarak görüldü.
 
 **Bu haberi kapsayan muhabirler:**
 
-- [Deniz Zeyrek](https://www.youtube.com/watch?v=7Lxa3mTtNVg&t=2488s) (⏱️ 41:28-44:04)
-- [Hilal Koylu](https://www.youtube.com/watch?v=S00puvHq1Rg&t=1724s) (⏱️ 28:44-30:17)
+- [Deniz Zeyrek](https://www.youtube.com/watch?v=3CVkj2APjps&t=940s) (⏱️ 15:40-17:41)
+- [Onlar TV](https://www.youtube.com/watch?v=ZHw9_08V1f0&t=3257s) (⏱️ 54:17-56:02)
 
 ---
 
